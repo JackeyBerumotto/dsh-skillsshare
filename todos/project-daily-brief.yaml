@@ -1,0 +1,21 @@
+title: "项目动态简报"
+category: "Git/CI"
+prompt: |
+  查看最新的 remote origin/master 或 origin/main。然后为过去 24 小时 touching <DIRECTORY> 的提交生成执行简报。
+
+  格式与结构：
+  - 使用丰富的 Markdown（H1 工作流标题、斜体副标题、需要时使用水平线）
+  - 开头可以写：'Here's the last 24h brief for <directory>:'
+  - 副标题：'Narrative walkthrough with owners; grouped by workstream.'
+  - 按工作流分组，而非列出每个提交
+  - 工作流标题使用 H1
+  - 为每个工作流写一段简短的叙述性说明
+  - 酌情使用项目符号和粗体
+
+  内容要求：
+  - 包含内联 PR 链接（例如 [#123](...)），不带 'PRs:' 标签
+  - 不包含 commit 哈希或 'Key commits' 部分
+  - 范围仅限当前 cwd（或主 checkout 等效目录）内过去 24 小时的提交
+  - 使用 gh 获取 PR 标题和描述（如果有帮助的话）
+  - 也可以拉取 PR reviews 和 comments
+sort_order: 4

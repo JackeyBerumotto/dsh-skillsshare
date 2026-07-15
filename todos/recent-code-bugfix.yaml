@@ -1,0 +1,41 @@
+title: "recent-code-bugfix"
+category: "代码质量"
+prompt: |
+  ---
+  name: recent-code-bugfix
+  description: Find and fix a bug introduced by the current author within the last week in the current working directory.
+  ---
+
+  # Recent Code Bugfix
+
+  ## Overview
+
+  Find a bug introduced by the current author in the last week, implement a fix, and verify it when possible.
+
+  ## Workflow
+
+  ### 1) Establish the recent-change scope
+
+  Use Git to identify the author and changed files from the last week.
+  - Determine the author from `git config user.name`/`user.email`. If unavailable, use the current user's name from the environment or ask once.
+  - Use `git log --since=1.week --author=<author>` to list recent commits and files. Focus on files touched by those commits.
+
+  ### 2) Find a concrete failure tied to recent changes
+
+  Prioritize defects that are directly attributable to the author's edits.
+  - Look for recent failures (tests, lint, runtime errors) if logs or CI outputs are available locally.
+  - If no failures are provided, run the smallest relevant verification (single test, file-level lint, or targeted repro) that touches the edited files.
+  - Confirm the root cause is directly connected to the author's changes.
+
+  ### 3) Implement the fix
+
+  Make a minimal fix that aligns with project conventions. Update only the files needed to resolve the issue.
+
+  ### 4) Verify
+
+  Attempt verification when possible. Prefer the smallest validation step (targeted test, focused lint, or direct repro command).
+
+  ### 5) Report
+
+  Summarize the root cause, the fix, and the verification performed.
+sort_order: 7

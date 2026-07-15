@@ -1,0 +1,5 @@
+title: "Bug 修复自动化"
+category: "代码质量"
+prompt: |
+  检查我过去 24 小时的提交，并提交 $recent-code-bugfix。
+sort_order: 6

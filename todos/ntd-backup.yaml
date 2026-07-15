@@ -1,0 +1,5 @@
+title: "ntd文件夹备份"
+category: "DevOps/监控"
+prompt: |
+  使用技能skill：/devops/r2-backup 备份~/.ntd文件夹，但是要排除 .zip。
+sort_order: 2

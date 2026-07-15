@@ -1,0 +1,9 @@
+title: "Issue 分诊"
+category: "团队协作"
+prompt: |
+  分诊新问题；建议负责人、优先级和标签。
+
+  依据规则：
+  - 根据问题内容 + 仓库上下文（CODEOWNERS、涉及区域、以往类似问题）给出建议
+  - 没有明确信号时不要猜测负责人；如不明确，请写"Owner: Unknown"，并建议一个团队
+sort_order: 4

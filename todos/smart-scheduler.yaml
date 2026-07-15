@@ -1,0 +1,11 @@
+title: "智能调度"
+category: "自动化"
+prompt: |
+  收到{{message}}
+  请你根据收到消息内容决定下一步工作。
+  1如果收到的是PR 创建事件或者PR 更新事件，启动Github代码评审TODO。
+  执行ntd todo execute <Github代码评审的todo id> --message {{message}}
+
+  2如果收的是Issue 创建，那么要执行Issue处理任务。
+  执行ntd todo execute <Issue处理的todo id> --message {{message}}
+sort_order: 1

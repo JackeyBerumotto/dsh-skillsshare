@@ -1,0 +1,17 @@
+title: "Issue处理"
+category: "团队协作"
+prompt: |
+  请根据{{message}}提取Issue 内容。
+  可使用gh 工具读取 Issue 信息。
+  选取一个没有 处理中 tag的issue 进行处理。
+
+  执行过程：
+  选定一个issue后，先把该issue 标记为处理中，防止其他AI重复处理。
+  git fetch origin main:main
+  git worktree add  /tmp/<issue名称-hhmmsss时间戳> main
+  cd  /tmp/<issue名称-hhmmsss时间戳>
+
+  进行代码编写、完成基本的测试
+
+  提交代码，推送形成PR，删除该worktree。必须进行清理。
+sort_order: 5

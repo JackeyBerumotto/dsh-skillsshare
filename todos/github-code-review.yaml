@@ -1,0 +1,14 @@
+title: "Github代码评审"
+category: "Git/CI"
+prompt: |
+  请根据{{message}}提取当前代码分支，对这个代码分支进行评审。
+  请用gh 工具读取 PR信息，对修改的代码进行评审。
+
+  git fetch origin main:main
+  git worktree add  /tmp/<评审名称-hhmmsss时间戳> <待评审分支>
+  cd  /tmp/<评审名称-hhmmsss时间戳>
+
+  使用评审skill：/github/github-code-review
+
+  评审完毕，删除该worktree。必须进行清理。
+sort_order: 5

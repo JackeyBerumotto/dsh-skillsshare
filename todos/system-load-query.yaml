@@ -1,0 +1,14 @@
+title: "负载查询"
+category: "DevOps/监控"
+prompt: |
+  查询当前主机的内存、CPU负载以及磁盘用量情况。
+
+  可以使用 Linux 命令来完成：
+  - 内存：free -h
+  - CPU 负载：uptime 或 top
+  - 磁盘：df -h
+
+  回复模式：
+  先说结论，一句话 3个百分比反映占比情况。
+  后面再说需要关注的细节。
+sort_order: 1

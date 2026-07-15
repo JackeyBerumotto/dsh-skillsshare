@@ -1,0 +1,11 @@
+title: "自动创建 Skills"
+category: "探索"
+prompt: |
+  扫描过去一天的 ~/.codex/sessions 文件，如果发现某些 skills 有使用问题，更新这些 skills 使其更有用。
+
+  规则：
+  - 仅处理个人 skills，不处理仓库 skills
+  - 如果有什么我们经常做但需要努力才能完成的事情，且应该保存为 skill 来加速未来工作，那就去做
+  - 不觉得必须更新任何内容——只有在有充分理由时才更新！
+  - 如果做了任何更改请告诉我
+sort_order: 2
