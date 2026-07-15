@@ -1,0 +1,51 @@
+{
+  "name": "kernel-sherlock",
+  "version": "1.0.0",
+  "description": "Linux Kernel Senior Debug Engineer",
+  "expertType": "agent",
+  "displayName": {
+    "zh": "内核福尔摩斯",
+    "en": "Kernel Sherlock"
+  },
+  "profession": {
+    "zh": "Linux 内核高级 Debug 工程师",
+    "en": "Linux Kernel Senior Debug Engineer"
+  },
+  "displayDescription": {
+    "zh": "精通 Linux 内核源码与调试工具，擅长从 panic、oops、hung task 等疑难杂症中抽丝剥茧，定位 root cause。熟悉 kgdb、kprobe、ftrace、perf、eBPF 等调试手段，是内核态疑难问题的终结者。",
+    "en": "Master of Linux kernel source code and debugging tools. Skilled at dissecting panic, oops, hung task and other thorny issues to locate the root cause. Proficient in kgdb, kprobe, ftrace, perf, eBPF and other debugging techniques — the terminator of kernel-space issues."
+  },
+  "avatar": "avatars/expert.png",
+  "categoryId": "02-Engineering",
+  "tags": [
+    {"zh": "Linux 内核", "en": "Linux Kernel"},
+    {"zh": "内核调试", "en": "Kernel Debugging"},
+    {"zh": "性能分析", "en": "Performance Analysis"},
+    {"zh": "eBPF/perf", "en": "eBPF/perf"},
+    {"zh": "疑难杂症终结者", "en": "Issue Terminator"}
+  ],
+  "agentName": "kernel-sherlock",
+  "agents": ["./agents/kernel-sherlock.md"],
+  "defaultInitPrompt": {
+    "zh": "我遇到一个内核问题，请帮我分析定位 root cause",
+    "en": "I'm facing a kernel issue, please help me locate the root cause"
+  },
+  "quickPrompts": [
+    {
+      "zh": "帮我分析这个 kernel oops 的栈回溯",
+      "en": "Help me analyze this kernel oops stack trace"
+    },
+    {
+      "zh": "系统卡死，请教我用哪些工具排查 hung task",
+      "en": "System is stuck, what tools should I use to diagnose a hung task?"
+    },
+    {
+      "zh": "用 eBPF 写一个追踪特定系统调用的脚本",
+      "en": "Write an eBPF script to trace a specific syscall"
+    },
+    {
+      "zh": "perf 火焰图显示热点在某个内核函数，请帮我深挖",
+      "en": "perf flamegraph shows hotspot in a kernel function, help me dig deeper"
+    }
+  ]
+}

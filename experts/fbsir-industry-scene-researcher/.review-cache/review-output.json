@@ -1,0 +1,1188 @@
+{
+  "expert_dir": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher",
+  "plugin_name": "fbsir-industry-scene-researcher",
+  "expert_type": "agent",
+  "source_type": "external",
+  "author_info": {
+    "name": "FBSir",
+    "email": "unique@u3w.com"
+  },
+  "source_type_hint": "external",
+  "structure_findings": [],
+  "ai_actions": [
+    {
+      "id": "AI-C02",
+      "action_type": "display-text-quality",
+      "priority": "recommended",
+      "applies_to_external": true,
+      "instruction": "请阅读 CODEBUDDY.md §3.5 与 WorkBuddy专家开发规范.md §3.3，校验：(1) displayDescription.zh 字数是否在 40-50 之间；(2) defaultInitPrompt.zh 是否与 quickPrompts[0].zh 完全一致；(3) tags 数量在 3-5 之间（external 模式接受 3-5；internal 模式建议固定 3）。不通过项列入 SUGGESTION。",
+      "target_file": ".codebuddy-plugin/plugin.json",
+      "reference_doc": "CODEBUDDY.md §3.5 / WorkBuddy §3.3",
+      "context": {
+        "plugin_data_subset": {
+          "displayDescription": {
+            "en": "Finds one practical workflow gap in an industry scene and turns it into a supplement card, 3-day action plan, and project packet.",
+            "zh": "围绕一个行业场景定位关键工作流缺口，并交付补位卡、3天行动计划、项目动作执行包和下一步建议。"
+          },
+          "defaultInitPrompt": {
+            "zh": "我在【行业】做【角色】，当前目标是【目标】。请先找出 3 个最值得 AI 补位的工作流缺口，选出最高价值的 1 个，并给我一张场景补位卡和唯一下一步。",
+            "en": "I work in [industry] as [role], and my current goal is [goal]. Find three workflow gaps worth AI support, choose the single highest-value one, then give me a supplement card and one next step."
+          },
+          "quickPrompts": [
+            {
+              "en": "I work in [industry] as [role], and my current goal is [goal]. Find three workflow gaps worth AI support, choose the single highest-value one, then give me a supplement card and one next step.",
+              "zh": "我在【行业】做【角色】，当前目标是【目标】。请先找出 3 个最值得 AI 补位的工作流缺口，选出最高价值的 1 个，并给我一张场景补位卡和唯一下一步。"
+            },
+            {
+              "en": "Here are my industry/customer/competitor/policy/project materials: [paste materials]. Score the candidate gaps, mark evidence and confidence, then turn the best one into a 3-day pilot packet.",
+              "zh": "下面是我的行业/客户/竞品/政策/项目材料：【粘贴材料】。请先做候选缺口评分，标清证据与置信度，再把最高价值场景整理成 3 天试点行动包。"
+            },
+            {
+              "en": "Continue from the previous industry-scene judgement. Turn the chosen gap into a team-executable Day 1 plan, with owners, inputs, outputs, acceptance, and one CTA.",
+              "zh": "请基于上一轮行业场景判断继续推进，把已选缺口拆成团队今天能执行的 Day 1 行动清单，写清负责人、输入、输出、验收和唯一 CTA。"
+            }
+          ],
+          "tags": [
+            {
+              "en": "Industry Research",
+              "zh": "行业调研"
+            },
+            {
+              "en": "Workflow Gap",
+              "zh": "流程补位"
+            },
+            {
+              "en": "Action Packet",
+              "zh": "行动包"
+            }
+          ]
+        }
+      },
+      "execute": true
+    },
+    {
+      "id": "AI-C08",
+      "action_type": "platform-claim-check",
+      "priority": "recommended",
+      "applies_to_external": true,
+      "instruction": "检查 displayDescription、description（plugin.json 与 agent frontmatter）以及 agent prompt 正文中，是否包含与 CodeBuddy/WorkBuddy 平台实际运行方式不符的技术承诺。平台事实：模型推理通过云端进行，专家不具备纯本地离线运行能力。需检测的违规关键词/短语包括但不限于：「本地AI」「本地模型」「本地推理」「全程不联网」「离线运行」「不上云」「零数据外传」「never uploaded」「local inference」「offline」「runs locally」等。对文件操作本身在本地进行的描述（如'直接操作本地文件'）是准确的，不算违规。发现违规项列入 BLOCKER，标注具体文件位置和修复建议。",
+      "target_file": ".codebuddy-plugin/plugin.json",
+      "reference_doc": "平台事实：CodeBuddy/WorkBuddy 模型推理均通过云端进行",
+      "context": {
+        "plugin_data_subset": {
+          "description": "Industry-scene shortcut expert for turning a fuzzy industry goal into a WorkBuddy executable human-AI playbook.",
+          "displayDescription": {
+            "en": "Finds one practical workflow gap in an industry scene and turns it into a supplement card, 3-day action plan, and project packet.",
+            "zh": "围绕一个行业场景定位关键工作流缺口，并交付补位卡、3天行动计划、项目动作执行包和下一步建议。"
+          }
+        }
+      },
+      "execute": true
+    },
+    {
+      "id": "AI-C07",
+      "action_type": "prompt-completeness",
+      "priority": "required",
+      "applies_to_external": true,
+      "instruction": "请阅读 CODEBUDDY.md §4.1 与 WorkBuddy §4.2，逐个检查 context.targets 中每个 agent.md 的 frontmatter 是否包含必填的 displayName 和 profession 字段。internal 模式缺失列 BLOCKER；external 模式缺失列 SUGGESTION。",
+      "reference_doc": "CODEBUDDY.md §4.1 / WorkBuddy专家开发规范.md §4.2",
+      "context": {
+        "targets": [
+          {
+            "file": "agents/fbsir-industry-scene-researcher.md",
+            "has_displayName": true,
+            "has_profession": true,
+            "name": "fbsir-industry-scene-researcher"
+          }
+        ],
+        "source_type": "external"
+      },
+      "execute": true
+    },
+    {
+      "id": "AI-F01",
+      "action_type": "expert-center-sync",
+      "priority": "recommended",
+      "applies_to_external": false,
+      "instruction": "请检查 expert_center.json 中是否需要同步：已存在条目 id='FbsirIndustrySceneResearcher'，updatedAt='2026-06-27T07:39:54Z'。若本次审查后专家包内容有实质变更，需在上架时刷新 updatedAt（由 expert-publisher 自动处理）。",
+      "reference_doc": "CODEBUDDY.md §十二",
+      "context": {
+        "checked": true,
+        "entry_exists": true,
+        "expert_id": "FbsirIndustrySceneResearcher",
+        "updated_at": "2026-06-27T07:39:54Z"
+      },
+      "skipped_reason": "external 模式跳过（CODEBUDDY §十六 / 创意层规则）",
+      "execute": false
+    },
+    {
+      "id": "AI-G01",
+      "action_type": "security-hygiene-review",
+      "priority": "recommended",
+      "applies_to_external": true,
+      "instruction": "请基于 context 中的启发式扫描结果，并阅读相关 target 文件，复核专家包安全与通用性：(1) 是否存在真实凭据/密钥硬编码；(2) scripts/bin 是否有越权读取、数据外传或危险命令；(3) 内网域名是否有公网降级或明确适用范围；(4) 个人路径、平台路径、CDN @latest 是否需要修复。真实凭据硬编码列 BLOCKER；其余按影响列 SUGGESTION，并给出可执行修复方案。",
+      "reference_doc": "安全规则：High-Priority Secure Coding Standards / CODEBUDDY.md §十七",
+      "context": {
+        "text_files_scanned": 27,
+        "credential_blockers": [],
+        "intranet_domains": [],
+        "personal_paths": [],
+        "platform_path_residue": [],
+        "cdn_latest": [],
+        "dangerous_shell": []
+      },
+      "execute": true
+    },
+    {
+      "id": "AI-Q01",
+      "action_type": "deep-quality-review",
+      "priority": "recommended",
+      "applies_to_external": true,
+      "instruction": "请执行专家包深度质量评审。若 context.skip_deep_review=true，仅在报告中说明跳过原因；否则必须阅读核心 agents/*.md、README.md 与 skills/*/SKILL.md，按 11 维度输出建议级结论：AI 可执行性、路由/触发清晰度、上下文效率、容错降级、角色边界、团队编排、用户体验、受众适配、可移植性、领域准确性、可维护性。所有结论均为 SUGGESTION，不阻断。",
+      "reference_doc": "references/review-checklist.md §深度质量评审 / skill-reviewer v3.7.1 11 维度",
+      "context": {
+        "total_files": 30,
+        "total_md_chars": 34421,
+        "file_tree_top": [
+          {
+            "path": "avatars/expert.png",
+            "size_kb": 118.9
+          },
+          {
+            "path": "contracts/industry-scene-creative-library-index.jsonl",
+            "size_kb": 47.4
+          },
+          {
+            "path": "contracts/no-connector-action-contract.json",
+            "size_kb": 30.5
+          },
+          {
+            "path": "agents/fbsir-industry-scene-researcher.md",
+            "size_kb": 19.5
+          },
+          {
+            "path": "contracts/policy-direction-ledger-202606.json",
+            "size_kb": 15.9
+          },
+          {
+            "path": "scene-pack.json",
+            "size_kb": 15.5
+          },
+          {
+            "path": "skills/industry-scene-service-recording/SKILL.md",
+            "size_kb": 14.8
+          },
+          {
+            "path": ".codebuddy-plugin/plugin.json",
+            "size_kb": 14.2
+          },
+          {
+            "path": "contracts/service-side-closure-report.schema.json",
+            "size_kb": 9.7
+          },
+          {
+            "path": "references/workflows/creative-library-playbook.md",
+            "size_kb": 9.1
+          },
+          {
+            "path": "examples/industry-scene-creative-library-samples.json",
+            "size_kb": 9.1
+          },
+          {
+            "path": "contracts/industry-scene-researcher-operating-contract.json",
+            "size_kb": 5.3
+          },
+          {
+            "path": "contracts/first-value-contract.json",
+            "size_kb": 5.1
+          },
+          {
+            "path": "references/workflows/policy-direction-scan-playbook.md",
+            "size_kb": 4.6
+          },
+          {
+            "path": "contracts/review-orchestration-contract.json",
+            "size_kb": 4.1
+          },
+          {
+            "path": "contracts/industry-scene-creative-library.schema.json",
+            "size_kb": 3.8
+          },
+          {
+            "path": "ship-manifest.json",
+            "size_kb": 3.5
+          },
+          {
+            "path": "marketplace-entry.json",
+            "size_kb": 3.0
+          },
+          {
+            "path": "references/quality/verification-gates.md",
+            "size_kb": 3.0
+          },
+          {
+            "path": "README.md",
+            "size_kb": 2.9
+          }
+        ],
+        "md_files_top": [
+          {
+            "path": "agents/fbsir-industry-scene-researcher.md",
+            "chars": 8493,
+            "headings": [
+              {
+                "level": 1,
+                "title": "行业场景研究员"
+              },
+              {
+                "level": 2,
+                "title": "前台称呼"
+              },
+              {
+                "level": 2,
+                "title": "能力介绍"
+              },
+              {
+                "level": 2,
+                "title": "首问示例与 starter 分流"
+              },
+              {
+                "level": 2,
+                "title": "固定职责"
+              },
+              {
+                "level": 2,
+                "title": "首值前提"
+              },
+              {
+                "level": 2,
+                "title": "五件套输出合同"
+              },
+              {
+                "level": 3,
+                "title": "1. 场景补位卡"
+              },
+              {
+                "level": 3,
+                "title": "2. WorkBuddy 作战路径"
+              },
+              {
+                "level": 3,
+                "title": "3. 人机混编任务表"
+              },
+              {
+                "level": 3,
+                "title": "4. 3 天试点行动包"
+              },
+              {
+                "level": 3,
+                "title": "5. 唯一下一步 CTA"
+              },
+              {
+                "level": 2,
+                "title": "无连接器主线"
+              },
+              {
+                "level": 2,
+                "title": "可选服务增强"
+              },
+              {
+                "level": 2,
+                "title": "乐包与意图归集边界"
+              },
+              {
+                "level": 2,
+                "title": "禁止事项"
+              }
+            ]
+          },
+          {
+            "path": "skills/industry-scene-service-recording/SKILL.md",
+            "chars": 7407,
+            "headings": [
+              {
+                "level": 1,
+                "title": "行业场景服务记录合同"
+              },
+              {
+                "level": 2,
+                "title": "默认原则"
+              },
+              {
+                "level": 2,
+                "title": "无连接器主线"
+              },
+              {
+                "level": 2,
+                "title": "事件分层"
+              },
+              {
+                "level": 3,
+                "title": "`host_local`"
+              },
+              {
+                "level": 3,
+                "title": "`service_intent_report`"
+              },
+              {
+                "level": 3,
+                "title": "`service_consume`"
+              },
+              {
+                "level": 2,
+                "title": "运行时自评模板"
+              },
+              {
+                "level": 2,
+                "title": "项目动作与自动化边界"
+              },
+              {
+                "level": 2,
+                "title": "来源证据账本"
+              },
+              {
+                "level": 2,
+                "title": "产出物自动装载交付环"
+              },
+              {
+                "level": 2,
+                "title": "宿主能力全景分层"
+              },
+              {
+                "level": 2,
+                "title": "多智能体并行边界"
+              },
+              {
+                "level": 2,
+                "title": "可视化边界"
+              },
+              {
+                "level": 2,
+                "title": "WorkBuddy 应用创意库"
+              },
+              {
+                "level": 2,
+                "title": "可选工具增强"
+              },
+              {
+                "level": 2,
+                "title": "continued_use 与乐包边界"
+              },
+              {
+                "level": 2,
+                "title": "面向用户的翻译原则"
+              }
+            ]
+          },
+          {
+            "path": "references/workflows/policy-direction-scan-playbook.md",
+            "chars": 4548,
+            "headings": [
+              {
+                "level": 1,
+                "title": "Policy Direction Scan Playbook"
+              },
+              {
+                "level": 2,
+                "title": "Goal"
+              },
+              {
+                "level": 2,
+                "title": "Input Standard"
+              },
+              {
+                "level": 2,
+                "title": "Policy Source Ledger Standard"
+              },
+              {
+                "level": 2,
+                "title": "Conversion Flow"
+              },
+              {
+                "level": 2,
+                "title": "2026 High-Frequency Policy Themes"
+              },
+              {
+                "level": 2,
+                "title": "Default Mapping Rules"
+              },
+              {
+                "level": 2,
+                "title": "Output Template"
+              },
+              {
+                "level": 2,
+                "title": "Evidence Rules"
+              },
+              {
+                "level": 2,
+                "title": "Good Outcome"
+              }
+            ]
+          },
+          {
+            "path": "references/workflows/creative-library-playbook.md",
+            "chars": 4377,
+            "headings": [
+              {
+                "level": 1,
+                "title": "WorkBuddy 应用创意指南"
+              },
+              {
+                "level": 2,
+                "title": "目标"
+              },
+              {
+                "level": 2,
+                "title": "证据优先级"
+              },
+              {
+                "level": 2,
+                "title": "能力认识分层"
+              },
+              {
+                "level": 2,
+                "title": "能力分层"
+              },
+              {
+                "level": 3,
+                "title": "首值主线"
+              },
+              {
+                "level": 3,
+                "title": "可选增强"
+              },
+              {
+                "level": 2,
+                "title": "三层创意轴"
+              },
+              {
+                "level": 3,
+                "title": "场景轴"
+              },
+              {
+                "level": 3,
+                "title": "目标轴"
+              },
+              {
+                "level": 3,
+                "title": "交付轴"
+              },
+              {
+                "level": 2,
+                "title": "典型目标用户"
+              },
+              {
+                "level": 2,
+                "title": "高绩效使用策略"
+              },
+              {
+                "level": 3,
+                "title": "线下交流"
+              },
+              {
+                "level": 3,
+                "title": "线上交流"
+              },
+              {
+                "level": 3,
+                "title": "利益相关者交流"
+              },
+              {
+                "level": 2,
+                "title": "时机三段式"
+              },
+              {
+                "level": 2,
+                "title": "格式与认知负荷"
+              },
+              {
+                "level": 2,
+                "title": "产出物策略"
+              },
+              {
+                "level": 3,
+                "title": "标准交付组合"
+              }
+            ]
+          },
+          {
+            "path": "references/quality/verification-gates.md",
+            "chars": 3080,
+            "headings": [
+              {
+                "level": 1,
+                "title": "Verification Gates"
+              },
+              {
+                "level": 2,
+                "title": "F: First Value"
+              },
+              {
+                "level": 2,
+                "title": "N: No-Connector Mainline"
+              },
+              {
+                "level": 2,
+                "title": "C: Continuation"
+              },
+              {
+                "level": 2,
+                "title": "O: Connector-Decoupled Package Surface"
+              },
+              {
+                "level": 2,
+                "title": "E: Evidence Status Lines"
+              }
+            ]
+          },
+          {
+            "path": "README.md",
+            "chars": 2826,
+            "headings": [
+              {
+                "level": 1,
+                "title": "Industry Scene Researcher"
+              },
+              {
+                "level": 2,
+                "title": "Current product intent"
+              },
+              {
+                "level": 2,
+                "title": "Starter strategy"
+              },
+              {
+                "level": 2,
+                "title": "What this package delivers"
+              },
+              {
+                "level": 2,
+                "title": "Review boundary"
+              }
+            ]
+          },
+          {
+            "path": "references/quality/creative-library-verification-gates.md",
+            "chars": 2634,
+            "headings": [
+              {
+                "level": 1,
+                "title": "Creative Library Verification Gates"
+              },
+              {
+                "level": 2,
+                "title": "CL: Creative Library"
+              },
+              {
+                "level": 2,
+                "title": "CE: Creative Enhancement Boundary"
+              }
+            ]
+          },
+          {
+            "path": "references/README.md",
+            "chars": 609,
+            "headings": [
+              {
+                "level": 1,
+                "title": "References"
+              }
+            ]
+          },
+          {
+            "path": "avatars/README.md",
+            "chars": 274,
+            "headings": [
+              {
+                "level": 1,
+                "title": "头像素材来源说明"
+              }
+            ]
+          },
+          {
+            "path": "references/workflows/workflow-gap-playbook.md",
+            "chars": 173,
+            "headings": [
+              {
+                "level": 1,
+                "title": "Workflow Gap Playbook"
+              }
+            ]
+          }
+        ],
+        "agent_files": [
+          {
+            "path": "agents/fbsir-industry-scene-researcher.md",
+            "name": "fbsir-industry-scene-researcher",
+            "description_len": 89,
+            "body_chars": 8169,
+            "has_send_message": false
+          }
+        ],
+        "skill_dirs": [
+          "skills/industry-scene-service-recording"
+        ],
+        "plugin_summary": {
+          "name": "fbsir-industry-scene-researcher",
+          "expertType": "agent",
+          "agentName": "fbsir-industry-scene-researcher",
+          "categoryId": "12-IndustryConsultant",
+          "agents_count": 1,
+          "skills_count": 1,
+          "members_count": 0,
+          "tags_count": 3,
+          "quickPrompts_count": 3
+        },
+        "skip_deep_review": false,
+        "skip_reason": ""
+      },
+      "execute": true
+    }
+  ],
+  "finance_flag": false,
+  "expert_center_info": {
+    "checked": true,
+    "entry_exists": true,
+    "expert_id": "FbsirIndustrySceneResearcher",
+    "updated_at": "2026-06-27T07:39:54Z"
+  },
+  "extended_review_context": {
+    "security_hygiene": {
+      "text_files_scanned": 27,
+      "credential_blockers": [],
+      "intranet_domains": [],
+      "personal_paths": [],
+      "platform_path_residue": [],
+      "cdn_latest": [],
+      "dangerous_shell": []
+    },
+    "dependency_context": {
+      "bin_files": [],
+      "script_files": [],
+      "mentioned_env_vars": [],
+      "install_commands": [],
+      "documentation_files": [
+        "README.md",
+        "references/README.md",
+        "references/quality/creative-library-verification-gates.md",
+        "references/quality/verification-gates.md",
+        "references/workflows/policy-direction-scan-playbook.md",
+        "references/workflows/creative-library-playbook.md",
+        "references/workflows/workflow-gap-playbook.md",
+        "agents/fbsir-industry-scene-researcher.md",
+        "skills/industry-scene-service-recording/SKILL.md",
+        "avatars/README.md"
+      ],
+      "has_setup_section": false,
+      "needs_dependency_guide": false
+    },
+    "deep_review_context": {
+      "total_files": 30,
+      "total_md_chars": 34421,
+      "file_tree_top": [
+        {
+          "path": "avatars/expert.png",
+          "size_kb": 118.9
+        },
+        {
+          "path": "contracts/industry-scene-creative-library-index.jsonl",
+          "size_kb": 47.4
+        },
+        {
+          "path": "contracts/no-connector-action-contract.json",
+          "size_kb": 30.5
+        },
+        {
+          "path": "agents/fbsir-industry-scene-researcher.md",
+          "size_kb": 19.5
+        },
+        {
+          "path": "contracts/policy-direction-ledger-202606.json",
+          "size_kb": 15.9
+        },
+        {
+          "path": "scene-pack.json",
+          "size_kb": 15.5
+        },
+        {
+          "path": "skills/industry-scene-service-recording/SKILL.md",
+          "size_kb": 14.8
+        },
+        {
+          "path": ".codebuddy-plugin/plugin.json",
+          "size_kb": 14.2
+        },
+        {
+          "path": "contracts/service-side-closure-report.schema.json",
+          "size_kb": 9.7
+        },
+        {
+          "path": "references/workflows/creative-library-playbook.md",
+          "size_kb": 9.1
+        },
+        {
+          "path": "examples/industry-scene-creative-library-samples.json",
+          "size_kb": 9.1
+        },
+        {
+          "path": "contracts/industry-scene-researcher-operating-contract.json",
+          "size_kb": 5.3
+        },
+        {
+          "path": "contracts/first-value-contract.json",
+          "size_kb": 5.1
+        },
+        {
+          "path": "references/workflows/policy-direction-scan-playbook.md",
+          "size_kb": 4.6
+        },
+        {
+          "path": "contracts/review-orchestration-contract.json",
+          "size_kb": 4.1
+        },
+        {
+          "path": "contracts/industry-scene-creative-library.schema.json",
+          "size_kb": 3.8
+        },
+        {
+          "path": "ship-manifest.json",
+          "size_kb": 3.5
+        },
+        {
+          "path": "marketplace-entry.json",
+          "size_kb": 3.0
+        },
+        {
+          "path": "references/quality/verification-gates.md",
+          "size_kb": 3.0
+        },
+        {
+          "path": "README.md",
+          "size_kb": 2.9
+        }
+      ],
+      "md_files_top": [
+        {
+          "path": "agents/fbsir-industry-scene-researcher.md",
+          "chars": 8493,
+          "headings": [
+            {
+              "level": 1,
+              "title": "行业场景研究员"
+            },
+            {
+              "level": 2,
+              "title": "前台称呼"
+            },
+            {
+              "level": 2,
+              "title": "能力介绍"
+            },
+            {
+              "level": 2,
+              "title": "首问示例与 starter 分流"
+            },
+            {
+              "level": 2,
+              "title": "固定职责"
+            },
+            {
+              "level": 2,
+              "title": "首值前提"
+            },
+            {
+              "level": 2,
+              "title": "五件套输出合同"
+            },
+            {
+              "level": 3,
+              "title": "1. 场景补位卡"
+            },
+            {
+              "level": 3,
+              "title": "2. WorkBuddy 作战路径"
+            },
+            {
+              "level": 3,
+              "title": "3. 人机混编任务表"
+            },
+            {
+              "level": 3,
+              "title": "4. 3 天试点行动包"
+            },
+            {
+              "level": 3,
+              "title": "5. 唯一下一步 CTA"
+            },
+            {
+              "level": 2,
+              "title": "无连接器主线"
+            },
+            {
+              "level": 2,
+              "title": "可选服务增强"
+            },
+            {
+              "level": 2,
+              "title": "乐包与意图归集边界"
+            },
+            {
+              "level": 2,
+              "title": "禁止事项"
+            }
+          ]
+        },
+        {
+          "path": "skills/industry-scene-service-recording/SKILL.md",
+          "chars": 7407,
+          "headings": [
+            {
+              "level": 1,
+              "title": "行业场景服务记录合同"
+            },
+            {
+              "level": 2,
+              "title": "默认原则"
+            },
+            {
+              "level": 2,
+              "title": "无连接器主线"
+            },
+            {
+              "level": 2,
+              "title": "事件分层"
+            },
+            {
+              "level": 3,
+              "title": "`host_local`"
+            },
+            {
+              "level": 3,
+              "title": "`service_intent_report`"
+            },
+            {
+              "level": 3,
+              "title": "`service_consume`"
+            },
+            {
+              "level": 2,
+              "title": "运行时自评模板"
+            },
+            {
+              "level": 2,
+              "title": "项目动作与自动化边界"
+            },
+            {
+              "level": 2,
+              "title": "来源证据账本"
+            },
+            {
+              "level": 2,
+              "title": "产出物自动装载交付环"
+            },
+            {
+              "level": 2,
+              "title": "宿主能力全景分层"
+            },
+            {
+              "level": 2,
+              "title": "多智能体并行边界"
+            },
+            {
+              "level": 2,
+              "title": "可视化边界"
+            },
+            {
+              "level": 2,
+              "title": "WorkBuddy 应用创意库"
+            },
+            {
+              "level": 2,
+              "title": "可选工具增强"
+            },
+            {
+              "level": 2,
+              "title": "continued_use 与乐包边界"
+            },
+            {
+              "level": 2,
+              "title": "面向用户的翻译原则"
+            }
+          ]
+        },
+        {
+          "path": "references/workflows/policy-direction-scan-playbook.md",
+          "chars": 4548,
+          "headings": [
+            {
+              "level": 1,
+              "title": "Policy Direction Scan Playbook"
+            },
+            {
+              "level": 2,
+              "title": "Goal"
+            },
+            {
+              "level": 2,
+              "title": "Input Standard"
+            },
+            {
+              "level": 2,
+              "title": "Policy Source Ledger Standard"
+            },
+            {
+              "level": 2,
+              "title": "Conversion Flow"
+            },
+            {
+              "level": 2,
+              "title": "2026 High-Frequency Policy Themes"
+            },
+            {
+              "level": 2,
+              "title": "Default Mapping Rules"
+            },
+            {
+              "level": 2,
+              "title": "Output Template"
+            },
+            {
+              "level": 2,
+              "title": "Evidence Rules"
+            },
+            {
+              "level": 2,
+              "title": "Good Outcome"
+            }
+          ]
+        },
+        {
+          "path": "references/workflows/creative-library-playbook.md",
+          "chars": 4377,
+          "headings": [
+            {
+              "level": 1,
+              "title": "WorkBuddy 应用创意指南"
+            },
+            {
+              "level": 2,
+              "title": "目标"
+            },
+            {
+              "level": 2,
+              "title": "证据优先级"
+            },
+            {
+              "level": 2,
+              "title": "能力认识分层"
+            },
+            {
+              "level": 2,
+              "title": "能力分层"
+            },
+            {
+              "level": 3,
+              "title": "首值主线"
+            },
+            {
+              "level": 3,
+              "title": "可选增强"
+            },
+            {
+              "level": 2,
+              "title": "三层创意轴"
+            },
+            {
+              "level": 3,
+              "title": "场景轴"
+            },
+            {
+              "level": 3,
+              "title": "目标轴"
+            },
+            {
+              "level": 3,
+              "title": "交付轴"
+            },
+            {
+              "level": 2,
+              "title": "典型目标用户"
+            },
+            {
+              "level": 2,
+              "title": "高绩效使用策略"
+            },
+            {
+              "level": 3,
+              "title": "线下交流"
+            },
+            {
+              "level": 3,
+              "title": "线上交流"
+            },
+            {
+              "level": 3,
+              "title": "利益相关者交流"
+            },
+            {
+              "level": 2,
+              "title": "时机三段式"
+            },
+            {
+              "level": 2,
+              "title": "格式与认知负荷"
+            },
+            {
+              "level": 2,
+              "title": "产出物策略"
+            },
+            {
+              "level": 3,
+              "title": "标准交付组合"
+            }
+          ]
+        },
+        {
+          "path": "references/quality/verification-gates.md",
+          "chars": 3080,
+          "headings": [
+            {
+              "level": 1,
+              "title": "Verification Gates"
+            },
+            {
+              "level": 2,
+              "title": "F: First Value"
+            },
+            {
+              "level": 2,
+              "title": "N: No-Connector Mainline"
+            },
+            {
+              "level": 2,
+              "title": "C: Continuation"
+            },
+            {
+              "level": 2,
+              "title": "O: Connector-Decoupled Package Surface"
+            },
+            {
+              "level": 2,
+              "title": "E: Evidence Status Lines"
+            }
+          ]
+        },
+        {
+          "path": "README.md",
+          "chars": 2826,
+          "headings": [
+            {
+              "level": 1,
+              "title": "Industry Scene Researcher"
+            },
+            {
+              "level": 2,
+              "title": "Current product intent"
+            },
+            {
+              "level": 2,
+              "title": "Starter strategy"
+            },
+            {
+              "level": 2,
+              "title": "What this package delivers"
+            },
+            {
+              "level": 2,
+              "title": "Review boundary"
+            }
+          ]
+        },
+        {
+          "path": "references/quality/creative-library-verification-gates.md",
+          "chars": 2634,
+          "headings": [
+            {
+              "level": 1,
+              "title": "Creative Library Verification Gates"
+            },
+            {
+              "level": 2,
+              "title": "CL: Creative Library"
+            },
+            {
+              "level": 2,
+              "title": "CE: Creative Enhancement Boundary"
+            }
+          ]
+        },
+        {
+          "path": "references/README.md",
+          "chars": 609,
+          "headings": [
+            {
+              "level": 1,
+              "title": "References"
+            }
+          ]
+        },
+        {
+          "path": "avatars/README.md",
+          "chars": 274,
+          "headings": [
+            {
+              "level": 1,
+              "title": "头像素材来源说明"
+            }
+          ]
+        },
+        {
+          "path": "references/workflows/workflow-gap-playbook.md",
+          "chars": 173,
+          "headings": [
+            {
+              "level": 1,
+              "title": "Workflow Gap Playbook"
+            }
+          ]
+        }
+      ],
+      "agent_files": [
+        {
+          "path": "agents/fbsir-industry-scene-researcher.md",
+          "name": "fbsir-industry-scene-researcher",
+          "description_len": 89,
+          "body_chars": 8169,
+          "has_send_message": false
+        }
+      ],
+      "skill_dirs": [
+        "skills/industry-scene-service-recording"
+      ],
+      "plugin_summary": {
+        "name": "fbsir-industry-scene-researcher",
+        "expertType": "agent",
+        "agentName": "fbsir-industry-scene-researcher",
+        "categoryId": "12-IndustryConsultant",
+        "agents_count": 1,
+        "skills_count": 1,
+        "members_count": 0,
+        "tags_count": 3,
+        "quickPrompts_count": 3
+      },
+      "skip_deep_review": false,
+      "skip_reason": ""
+    }
+  },
+  "summary": {
+    "structure_blockers": 0,
+    "structure_total": 0,
+    "ai_actions_total": 6,
+    "ai_actions_to_execute": 5,
+    "security_samples": 0,
+    "dependency_guide_needed": false,
+    "deep_review_skip": false
+  },
+  "report_skeleton": "# 专家包审查报告 - fbsir-industry-scene-researcher\n\n> 来源类型：external\n> 专家类型：agent\n\n---\n\n## 一、总体结论\n\n**整体结论：<可上架 | 需修复后方可上架>**\n\n- 来源类型：external\n- 结构层 BLOCKER：0 个\n- 结构层 SUGGESTION：0 个\n- 待 LLM 校验的规范项（ai_actions）：5 项\n\n\n## 二、阻断问题（BLOCKER）\n\n> LLM 填充：结构层 BLOCKER 已由脚本检测；规范层 BLOCKER 由 ai_actions 执行后追加\n\n## 三、建议改进项（SUGGESTION）\n\n> LLM 填充：包含结构层 SUGGESTION、security-hygiene-review、dependency-guide-check 等结论\n\n## 四、深度质量评审\n\n> LLM 填充：按 11 维度输出建议级评审；若 deep_review_context.skip_deep_review=true，说明跳过原因\n\n## 五、不在审查范围（仓库管理员入库时处理）\n\n以下事项不列为开发者必修项，由仓库管理员合并到主分支前统一处理：\n\n- 配置目录从 `.workbuddy-plugin/` 重命名为 `.codebuddy-plugin/`（如适用）\n- expert_center.json 中追加专家条目或刷新 updatedAt（由 expert-publisher 自动处理）\n- `.codebuddy-plugin/marketplace.json` 中追加/更新 plugin 条目（由 expert-publisher 自动处理）\n- avatars/ 根目录头像复制为 `{ExpertId}.png`（由 expert-publisher 自动处理）\n\n## 六、修复优先级表\n\n> LLM 填充表格\n\n## 七、亮点（可选）\n\n> LLM 填充\n"
+}

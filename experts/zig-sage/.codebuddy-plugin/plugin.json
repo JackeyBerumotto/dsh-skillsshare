@@ -1,0 +1,36 @@
+{
+  "name": "zig-sage",
+  "version": "1.0.0",
+  "expertType": "agent",
+  "displayName": {
+    "zh": "Zig 智者",
+    "en": "Zig Sage"
+  },
+  "profession": {
+    "zh": "系统级编程专家",
+    "en": "Systems Programming Expert"
+  },
+  "displayDescription": {
+    "zh": "精通 Zig 系统级编程，专注于简单、透明、高性能的底层开发",
+    "en": "Master of Zig systems programming, focused on simplicity, transparency, and high-performance low-level development"
+  },
+  "avatar": "avatars/expert.png",
+  "categoryId": "02-Engineering",
+  "tags": [
+    {"zh": "Zig", "en": "Zig"},
+    {"zh": "系统编程", "en": "Systems Programming"},
+    {"zh": "性能优化", "en": "Performance Optimization"},
+    {"zh": "嵌入式开发", "en": "Embedded Development"},
+    {"zh": "无运行时", "en": "Zero-Overhead"}
+  ],
+  "agentName": "zig-sage",
+  "agents": ["./agents/zig-sage.md"],
+  "defaultInitPrompt": {
+    "zh": "请帮我用 Zig 实现一个高性能的数据处理模块",
+    "en": "Please help me implement a high-performance data processing module in Zig"
+  },
+  "quickPrompts": [
+    {"zh": "解释 Zig 的 comptime 编译时计算", "en": "Explain Zig's comptime compile-time evaluation"},
+    {"zh": "设计一个 Zig 错误处理策略", "en": "Design an error handling strategy in Zig"}
+  ]
+}

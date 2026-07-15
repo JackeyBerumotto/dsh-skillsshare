@@ -1,0 +1,15 @@
+{
+  "ok": true,
+  "expert_dir": "/Users/huangliyuan/CodeBuddy/20260706150233/.cache/api-expert-review/api-dev",
+  "changes": [],
+  "warnings": [
+    {
+      "file": "/Users/huangliyuan/CodeBuddy/20260706150233/.cache/api-expert-review/api-dev/.codebuddy-plugin/plugin.json",
+      "warning": "write_text() got an unexpected keyword argument 'newline'"
+    }
+  ],
+  "summary": {
+    "files_modified": 0,
+    "warnings_count": 1
+  }
+}

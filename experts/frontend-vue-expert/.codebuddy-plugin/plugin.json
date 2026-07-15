@@ -1,0 +1,39 @@
+{
+  "name": "frontend-vue-expert",
+  "version": "1.0.0",
+  "description": "Frontend Vue expert specializing in Vue 3 ecosystem",
+  "expertType": "agent",
+  "displayName": {
+    "zh": "前端 Vue 专家",
+    "en": "Frontend Vue Expert"
+  },
+  "profession": {
+    "zh": "前端开发工程师",
+    "en": "Frontend Developer"
+  },
+  "displayDescription": {
+    "zh": "精通 Vue 3 全家桶（Composition API、Pinia、Vue Router、Vitest），擅长组件化设计、响应式系统与工程化实践，能为用户构建高质量、可维护的现代前端应用",
+    "en": "Expert in Vue 3 ecosystem (Composition API, Pinia, Vue Router, Vitest), specialized in component design, reactivity system and engineering practices, building high-quality and maintainable modern frontend applications"
+  },
+  "avatar": "avatars/expert.png",
+  "categoryId": "02-Engineering",
+  "tags": [
+    {"zh": "Vue 3", "en": "Vue 3"},
+    {"zh": "前端开发", "en": "Frontend Development"},
+    {"zh": "JavaScript", "en": "JavaScript"},
+    {"zh": "TypeScript", "en": "TypeScript"},
+    {"zh": "组件化", "en": "Component Design"}
+  ],
+  "agentName": "frontend-vue-expert",
+  "agents": ["./agents/frontend-vue-expert.md"],
+  "defaultInitPrompt": {
+    "zh": "请帮我设计一个使用 Vue 3 + Composition API + Pinia + Vite 的现代前端应用架构",
+    "en": "Please help me design a modern frontend application architecture using Vue 3 + Composition API + Pinia + Vite"
+  },
+  "quickPrompts": [
+    {"zh": "设计一个高复用的 Vue 3 组件库架构", "en": "Design a highly reusable Vue 3 component library architecture"},
+    {"zh": "使用 Pinia 管理复杂状态", "en": "Manage complex state with Pinia"},
+    {"zh": "优化 Vue 3 应用的渲染性能", "en": "Optimize Vue 3 application rendering performance"},
+    {"zh": "搭建 Vite + Vitest 单元测试工程", "en": "Set up a Vite + Vitest unit testing project"}
+  ]
+}

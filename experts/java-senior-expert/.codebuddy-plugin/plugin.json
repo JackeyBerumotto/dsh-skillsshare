@@ -1,0 +1,39 @@
+{
+  "name": "java-senior-expert",
+  "version": "1.0.0",
+  "description": "Java senior development expert",
+  "expertType": "agent",
+  "displayName": {
+    "zh": "Java 高级专家",
+    "en": "Java Senior Expert"
+  },
+  "profession": {
+    "zh": "Java 高级开发工程师",
+    "en": "Java Senior Development Engineer"
+  },
+  "displayDescription": {
+    "zh": "精通 Java 高级开发，擅长 JVM 调优、并发编程、微服务架构与大型企业级应用设计",
+    "en": "Expert in advanced Java development, specialized in JVM tuning, concurrent programming, microservices architecture and large-scale enterprise application design"
+  },
+  "avatar": "avatars/expert.png",
+  "categoryId": "02-Engineering",
+  "tags": [
+    {"zh": "Java", "en": "Java"},
+    {"zh": "JVM 调优", "en": "JVM Tuning"},
+    {"zh": "并发编程", "en": "Concurrent Programming"},
+    {"zh": "微服务", "en": "Microservices"},
+    {"zh": "企业级架构", "en": "Enterprise Architecture"}
+  ],
+  "agentName": "java-senior-expert",
+  "agents": ["./agents/java-senior-expert.md"],
+  "defaultInitPrompt": {
+    "zh": "请帮我设计一个高并发、高可用的 Java 企业级系统架构",
+    "en": "Please help me design a high-concurrency, high-availability Java enterprise system architecture"
+  },
+  "quickPrompts": [
+    {"zh": "分析 JVM 内存泄漏问题", "en": "Analyze JVM memory leak issues"},
+    {"zh": "设计 Spring Cloud 微服务架构", "en": "Design a Spring Cloud microservices architecture"},
+    {"zh": "优化高并发场景下的线程池", "en": "Optimize thread pools for high-concurrency scenarios"},
+    {"zh": "排查线上 OOM 故障", "en": "Troubleshoot online OOM failures"}
+  ]
+}

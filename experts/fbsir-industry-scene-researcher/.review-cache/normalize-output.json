@@ -1,0 +1,248 @@
+{
+  "ok": true,
+  "expert_dir": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher",
+  "changes": [
+    {
+      "file": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher/scene-pack.json",
+      "change": "CRLF → LF"
+    },
+    {
+      "file": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher/LICENSE",
+      "change": "CRLF → LF"
+    },
+    {
+      "file": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher/marketplace-entry.json",
+      "change": "CRLF → LF"
+    },
+    {
+      "file": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher/README.md",
+      "change": "CRLF → LF"
+    },
+    {
+      "file": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher/ship-manifest.json",
+      "change": "CRLF → LF"
+    },
+    {
+      "file": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher/references/README.md",
+      "change": "CRLF → LF"
+    },
+    {
+      "file": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher/references/quality/creative-library-verification-gates.md",
+      "change": "CRLF → LF"
+    },
+    {
+      "file": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher/references/quality/verification-gates.md",
+      "change": "CRLF → LF"
+    },
+    {
+      "file": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher/references/workflows/policy-direction-scan-playbook.md",
+      "change": "CRLF → LF"
+    },
+    {
+      "file": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher/references/workflows/creative-library-playbook.md",
+      "change": "CRLF → LF"
+    },
+    {
+      "file": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher/references/workflows/workflow-gap-playbook.md",
+      "change": "CRLF → LF"
+    },
+    {
+      "file": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher/contracts/service-observability-contract.json",
+      "change": "CRLF → LF"
+    },
+    {
+      "file": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher/contracts/connector-decoupling-gate.json",
+      "change": "CRLF → LF"
+    },
+    {
+      "file": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher/contracts/policy-direction-ledger-202606.json",
+      "change": "CRLF → LF"
+    },
+    {
+      "file": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher/contracts/service-side-closure-report.schema.json",
+      "change": "CRLF → LF"
+    },
+    {
+      "file": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher/contracts/service-closure-gate.json",
+      "change": "CRLF → LF"
+    },
+    {
+      "file": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher/contracts/industry-scene-creative-library-index.jsonl",
+      "change": "CRLF → LF"
+    },
+    {
+      "file": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher/contracts/no-connector-action-contract.json",
+      "change": "CRLF → LF"
+    },
+    {
+      "file": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher/contracts/industry-scene-researcher-operating-contract.json",
+      "change": "CRLF → LF"
+    },
+    {
+      "file": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher/contracts/industry-scene-creative-library.schema.json",
+      "change": "CRLF → LF"
+    },
+    {
+      "file": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher/contracts/review-orchestration-contract.json",
+      "change": "CRLF → LF"
+    },
+    {
+      "file": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher/contracts/first-value-contract.json",
+      "change": "CRLF → LF"
+    },
+    {
+      "file": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher/agents/fbsir-industry-scene-researcher.md",
+      "change": "CRLF → LF"
+    },
+    {
+      "file": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher/.codebuddy-plugin/plugin.json",
+      "change": "CRLF → LF"
+    },
+    {
+      "file": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher/examples/resume-progress-card.json",
+      "change": "CRLF → LF"
+    },
+    {
+      "file": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher/examples/industry-scene-creative-library-samples.json",
+      "change": "CRLF → LF"
+    },
+    {
+      "file": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher/examples/content-operations-brief.json",
+      "change": "CRLF → LF"
+    },
+    {
+      "file": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher/skills/industry-scene-service-recording/SKILL.md",
+      "change": "CRLF → LF"
+    },
+    {
+      "file": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher/avatars/README.md",
+      "change": "CRLF → LF"
+    }
+  ],
+  "warnings": [
+    {
+      "file": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher/scene-pack.json",
+      "warning": "write_text() got an unexpected keyword argument 'newline'"
+    },
+    {
+      "file": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher/LICENSE",
+      "warning": "write_text() got an unexpected keyword argument 'newline'"
+    },
+    {
+      "file": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher/marketplace-entry.json",
+      "warning": "write_text() got an unexpected keyword argument 'newline'"
+    },
+    {
+      "file": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher/README.md",
+      "warning": "write_text() got an unexpected keyword argument 'newline'"
+    },
+    {
+      "file": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher/ship-manifest.json",
+      "warning": "write_text() got an unexpected keyword argument 'newline'"
+    },
+    {
+      "file": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher/references/README.md",
+      "warning": "write_text() got an unexpected keyword argument 'newline'"
+    },
+    {
+      "file": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher/references/quality/creative-library-verification-gates.md",
+      "warning": "write_text() got an unexpected keyword argument 'newline'"
+    },
+    {
+      "file": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher/references/quality/verification-gates.md",
+      "warning": "write_text() got an unexpected keyword argument 'newline'"
+    },
+    {
+      "file": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher/references/workflows/policy-direction-scan-playbook.md",
+      "warning": "write_text() got an unexpected keyword argument 'newline'"
+    },
+    {
+      "file": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher/references/workflows/creative-library-playbook.md",
+      "warning": "write_text() got an unexpected keyword argument 'newline'"
+    },
+    {
+      "file": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher/references/workflows/workflow-gap-playbook.md",
+      "warning": "write_text() got an unexpected keyword argument 'newline'"
+    },
+    {
+      "file": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher/contracts/service-observability-contract.json",
+      "warning": "write_text() got an unexpected keyword argument 'newline'"
+    },
+    {
+      "file": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher/contracts/connector-decoupling-gate.json",
+      "warning": "write_text() got an unexpected keyword argument 'newline'"
+    },
+    {
+      "file": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher/contracts/policy-direction-ledger-202606.json",
+      "warning": "write_text() got an unexpected keyword argument 'newline'"
+    },
+    {
+      "file": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher/contracts/service-side-closure-report.schema.json",
+      "warning": "write_text() got an unexpected keyword argument 'newline'"
+    },
+    {
+      "file": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher/contracts/service-closure-gate.json",
+      "warning": "write_text() got an unexpected keyword argument 'newline'"
+    },
+    {
+      "file": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher/contracts/industry-scene-creative-library-index.jsonl",
+      "warning": "write_text() got an unexpected keyword argument 'newline'"
+    },
+    {
+      "file": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher/contracts/no-connector-action-contract.json",
+      "warning": "write_text() got an unexpected keyword argument 'newline'"
+    },
+    {
+      "file": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher/contracts/industry-scene-researcher-operating-contract.json",
+      "warning": "write_text() got an unexpected keyword argument 'newline'"
+    },
+    {
+      "file": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher/contracts/industry-scene-creative-library.schema.json",
+      "warning": "write_text() got an unexpected keyword argument 'newline'"
+    },
+    {
+      "file": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher/contracts/review-orchestration-contract.json",
+      "warning": "write_text() got an unexpected keyword argument 'newline'"
+    },
+    {
+      "file": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher/contracts/first-value-contract.json",
+      "warning": "write_text() got an unexpected keyword argument 'newline'"
+    },
+    {
+      "file": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher/agents/fbsir-industry-scene-researcher.md",
+      "warning": "write_text() got an unexpected keyword argument 'newline'"
+    },
+    {
+      "file": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher/.codebuddy-plugin/plugin.json",
+      "warning": "write_text() got an unexpected keyword argument 'newline'"
+    },
+    {
+      "file": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher/examples/resume-progress-card.json",
+      "warning": "write_text() got an unexpected keyword argument 'newline'"
+    },
+    {
+      "file": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher/examples/industry-scene-creative-library-samples.json",
+      "warning": "write_text() got an unexpected keyword argument 'newline'"
+    },
+    {
+      "file": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher/examples/content-operations-brief.json",
+      "warning": "write_text() got an unexpected keyword argument 'newline'"
+    },
+    {
+      "file": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher/skills/industry-scene-service-recording/SKILL.md",
+      "warning": "write_text() got an unexpected keyword argument 'newline'"
+    },
+    {
+      "file": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher/avatars/README.md",
+      "warning": "write_text() got an unexpected keyword argument 'newline'"
+    },
+    {
+      "file": "/private/tmp/expert-review-fbsir/extracted/fbsir-industry-scene-researcher/.codebuddy-plugin/plugin.json",
+      "warning": "write_text() got an unexpected keyword argument 'newline'"
+    }
+  ],
+  "summary": {
+    "files_modified": 29,
+    "warnings_count": 30
+  }
+}
