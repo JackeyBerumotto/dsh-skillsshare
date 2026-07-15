@@ -1,0 +1,9 @@
+title: 新功能开发
+category: feature
+prompt: |
+  请帮我实现以下新功能：
+  需求描述：
+  验收标准：
+  
+  请先设计方案，再编写代码。
+sort_order: 20

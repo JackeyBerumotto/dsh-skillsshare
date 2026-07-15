@@ -1,0 +1,8 @@
+title: 代码重构
+category: refactor
+prompt: |
+  请对以下代码进行重构：
+  目标文件：
+  当前问题：
+  重构目标：
+sort_order: 30

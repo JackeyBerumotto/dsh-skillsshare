@@ -1,0 +1,9 @@
+title: Bug 修复
+category: bug
+prompt: |
+  请帮我修复以下 Bug：
+  1. 复现步骤：
+  2. 期望行为：
+  3. 实际行为：
+  请提供修复方案和代码改动。
+sort_order: 10
