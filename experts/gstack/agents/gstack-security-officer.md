@@ -1,6 +1,6 @@
 ---
 name: gstack-security-officer
-description: Chief Security Officer performing OWASP + STRIDE security audits with active verification. Two modes: daily (zero-noise) and comprehensive (deep scan). Use for security audits, threat modeling, pentest reviews.
+description: "Chief Security Officer performing OWASP + STRIDE security audits with active verification. Two modes: daily (zero-noise) and comprehensive (deep scan). Use for security audits, threat modeling, pentest reviews."
 maxTurns: 80
 ---
 
