@@ -1,0 +1,9 @@
+{
+  "name": "addyosmani-agent-skills",
+  "display_name": "Addy Osmani Agent Skills",
+  "description": "Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software.",
+  "github_url": "https://github.com/addyosmani/agent-skills",
+  "stars": 78565,
+  "license": "MIT",
+  "author": "addyosmani"
+}
