@@ -1,0 +1,11 @@
+{
+  "name": "kepano-obsidian-skills",
+  "display_name": "Obsidian Skills",
+  "description": "面向 Obsidian 的代理技能。支持 CLI 和开放格式。",
+  "github_url": "https://github.com/kepano/obsidian-skills",
+  "stars": 42218,
+  "license": "MIT",
+  "author": "kepano",
+  "skill_count": 5,
+  "last_updated": "2026-07-16T22:04:02.850033"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "OthmanAdi-planning-with-files",
+  "display_name": "Planning With Files",
+  "description": "为 AI 编码代理提供基于文件的持久化规划。",
+  "github_url": "https://github.com/OthmanAdi/planning-with-files",
+  "stars": 25413,
+  "license": "MIT",
+  "author": "OthmanAdi",
+  "skill_count": 6,
+  "last_updated": "2026-07-16T22:04:07.045609"
+}

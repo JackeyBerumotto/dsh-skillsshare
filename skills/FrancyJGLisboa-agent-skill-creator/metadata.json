@@ -1,0 +1,11 @@
+{
+  "name": "FrancyJGLisboa-agent-skill-creator",
+  "display_name": "Agent Skill Creator",
+  "description": "将任何工作流转化为可复用的 AI 代理技能。",
+  "github_url": "https://github.com/FrancyJGLisboa/agent-skill-creator",
+  "stars": 0,
+  "license": "Unknown",
+  "author": "FrancyJGLisboa",
+  "skill_count": 4,
+  "last_updated": "2026-07-16T22:15:26.442544"
+}

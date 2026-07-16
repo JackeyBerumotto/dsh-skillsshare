@@ -1,0 +1,11 @@
+{
+  "name": "mxyhi-ok-skills",
+  "display_name": "OK Skills",
+  "description": "精选的 AI 编码代理技能和 AGENTS.md 行动手册。",
+  "github_url": "https://github.com/mxyhi/ok-skills",
+  "stars": 453,
+  "license": "Apache-2.0",
+  "author": "mxyhi",
+  "skill_count": 38,
+  "last_updated": "2026-07-16T22:04:49.779489"
+}

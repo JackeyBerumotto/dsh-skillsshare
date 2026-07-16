@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "organization": "Supabase",
+  "date": "January 2026",
+  "abstract": "面向使用 Supabase 和 Postgres 的开发者的综合 Postgres 性能优化指南。包含性能规则、查询优化、索引策略、RLS 策略模式以及迁移最佳实践。按影响优先级排序。",
+  "references": [
+    "https://www.postgresql.org/docs/current/",
+    "https://supabase.com/docs",
+    "https://wiki.postgresql.org/wiki/Performance_Optimization",
+    "https://supabase.com/docs/guides/database/overview",
+    "https://supabase.com/docs/guides/auth/row-level-security"
+  ]
+}

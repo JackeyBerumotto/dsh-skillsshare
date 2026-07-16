@@ -1,0 +1,11 @@
+{
+  "name": "arpitg1304-robotics-agent-skills",
+  "display_name": "Robotics Agent Skills",
+  "description": "生产级机器人软件技能。支持 ROS1 和 ROS2。",
+  "github_url": "https://github.com/arpitg1304/robotics-agent-skills",
+  "stars": 316,
+  "license": "Apache-2.0",
+  "author": "arpitg1304",
+  "skill_count": 10,
+  "last_updated": "2026-07-16T22:04:57.252401"
+}

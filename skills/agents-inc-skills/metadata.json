@@ -1,0 +1,11 @@
+{
+  "name": "agents-inc-skills",
+  "display_name": "Agents Inc Skills",
+  "description": "Agents Inc 官方技能市场。",
+  "github_url": "https://github.com/agents-inc/skills",
+  "stars": 14,
+  "license": "MIT",
+  "author": "agents-inc",
+  "skill_count": 444,
+  "last_updated": "2026-07-16T22:05:12.372248"
+}

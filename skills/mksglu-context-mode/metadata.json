@@ -1,0 +1,11 @@
+{
+  "name": "mksglu-context-mode",
+  "display_name": "Context Mode",
+  "description": "为 AI 编码代理优化上下文窗口。",
+  "github_url": "https://github.com/mksglu/context-mode",
+  "stars": 19001,
+  "license": "NOASSERTION",
+  "author": "mksglu",
+  "skill_count": 10,
+  "last_updated": "2026-07-16T22:04:10.814604"
+}

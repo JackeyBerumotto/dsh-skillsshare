@@ -1,0 +1,11 @@
+{
+  "name": "athola-claude-night-market",
+  "display_name": "Claude Night Market",
+  "description": "23 个 Claude Code 插件：TDD 强制执行、git/PR 工作流。",
+  "github_url": "https://github.com/athola/claude-night-market",
+  "stars": 323,
+  "license": "MIT",
+  "author": "athola",
+  "skill_count": 201,
+  "last_updated": "2026-07-16T22:05:07.907716"
+}

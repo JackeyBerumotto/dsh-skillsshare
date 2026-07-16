@@ -1,0 +1,11 @@
+{
+  "name": "ComposioHQ-awesome-claude-skills",
+  "display_name": "Awesome Claude Skills",
+  "description": "精选的优秀 Claude 技能、资源和工具列表。",
+  "github_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+  "stars": 67866,
+  "license": "Unknown",
+  "author": "ComposioHQ",
+  "skill_count": 864,
+  "last_updated": "2026-07-16T22:05:17.618480"
+}

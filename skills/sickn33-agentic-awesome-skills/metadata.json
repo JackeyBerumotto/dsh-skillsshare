@@ -1,0 +1,11 @@
+{
+  "name": "sickn33-agentic-awesome-skills",
+  "display_name": "Agentic Awesome Skills",
+  "description": "1,900+ 个面向 Claude Code、Cursor、Codex CLI 的代理技能。",
+  "github_url": "https://github.com/sickn33/agentic-awesome-skills",
+  "stars": 43394,
+  "license": "MIT",
+  "author": "sickn33",
+  "skill_count": 6216,
+  "last_updated": "2026-07-16T22:05:36.481831"
+}

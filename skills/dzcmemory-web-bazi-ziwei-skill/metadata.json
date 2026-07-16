@@ -1,0 +1,11 @@
+{
+  "name": "dzcmemory-web-bazi-ziwei-skill",
+  "display_name": "Bazi Ziwei Skill",
+  "description": "AI 八字 + 紫微斗数排盘与综合印证 Skill.",
+  "github_url": "https://github.com/dzcmemory-web/bazi-ziwei-skill",
+  "stars": 0,
+  "license": "Unknown",
+  "author": "dzcmemory-web",
+  "skill_count": 1,
+  "last_updated": "2026-07-16T22:15:27.941607"
+}

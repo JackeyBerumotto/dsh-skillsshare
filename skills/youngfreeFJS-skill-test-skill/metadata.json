@@ -1,0 +1,11 @@
+{
+  "name": "youngfreeFJS-skill-test-skill",
+  "display_name": "Skill Test Skill",
+  "description": "根据官方规范对任何代理技能进行测试和评分。",
+  "github_url": "https://github.com/youngfreeFJS/skill-test-skill",
+  "stars": 0,
+  "license": "Unknown",
+  "author": "youngfreeFJS",
+  "skill_count": 1,
+  "last_updated": "2026-07-16T22:15:27.147402"
+}

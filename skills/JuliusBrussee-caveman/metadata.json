@@ -1,0 +1,11 @@
+{
+  "name": "JuliusBrussee-caveman",
+  "display_name": "Caveman Skill",
+  "description": "通过减少输出削减 65% 的 token 用量。",
+  "github_url": "https://github.com/JuliusBrussee/caveman",
+  "stars": 90086,
+  "license": "MIT",
+  "author": "JuliusBrussee",
+  "skill_count": 11,
+  "last_updated": "2026-07-16T22:03:51.352869"
+}

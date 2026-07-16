@@ -1,0 +1,11 @@
+{
+  "name": "pillar-labs-sail-skill",
+  "display_name": "SAIL Skill",
+  "description": "将安全 AI 生命周期作为代理技能。",
+  "github_url": "https://github.com/pillar-labs/sail-skill",
+  "stars": 157,
+  "license": "NOASSERTION",
+  "author": "pillar-labs",
+  "skill_count": 1,
+  "last_updated": "2026-07-16T22:05:03.299474"
+}

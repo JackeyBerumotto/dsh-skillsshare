@@ -1,0 +1,11 @@
+{
+  "name": "rohitg00-awesome-claude-code-toolkit",
+  "display_name": "Awesome Claude Code Toolkit",
+  "description": "135 个代理，35 个精选技能，42 个命令，176+ 个提示词。",
+  "github_url": "https://github.com/rohitg00/awesome-claude-code-toolkit",
+  "stars": 2332,
+  "license": "Apache-2.0",
+  "author": "rohitg00",
+  "skill_count": 40,
+  "last_updated": "2026-07-16T22:06:01.501940"
+}

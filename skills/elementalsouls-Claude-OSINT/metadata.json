@@ -1,0 +1,11 @@
+{
+  "name": "elementalsouls-Claude-OSINT",
+  "display_name": "Claude OSINT",
+  "description": "90+ 个侦察模块，48 个密钥正则模式，80+ 个 dork 语法。",
+  "github_url": "https://github.com/elementalsouls/Claude-OSINT",
+  "stars": 1947,
+  "license": "NOASSERTION",
+  "author": "elementalsouls",
+  "skill_count": 2,
+  "last_updated": "2026-07-16T22:04:18.216271"
+}

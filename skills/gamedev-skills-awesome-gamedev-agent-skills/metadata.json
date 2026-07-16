@@ -1,0 +1,11 @@
+{
+  "name": "gamedev-skills-awesome-gamedev-agent-skills",
+  "display_name": "GameDev Agent Skills",
+  "description": "面向 AI 编码代理的游戏开发代理技能。",
+  "github_url": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+  "stars": 284,
+  "license": "Apache-2.0",
+  "author": "gamedev-skills",
+  "skill_count": 67,
+  "last_updated": "2026-07-16T22:04:52.297710"
+}

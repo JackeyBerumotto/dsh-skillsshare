@@ -1,0 +1,11 @@
+{
+  "name": "K-Dense-AI-scientific-agent-skills",
+  "display_name": "Scientific Agent Skills",
+  "description": "将任何 AI 代理转变为 AI 科学家。",
+  "github_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+  "stars": 31014,
+  "license": "MIT",
+  "author": "K-Dense-AI",
+  "skill_count": 149,
+  "last_updated": "2026-07-16T22:04:39.911244"
+}

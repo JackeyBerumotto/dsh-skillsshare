@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "organization": "Agentic Awesome Skills",
+  "date": "February 2026",
+  "abstract": "面向 AI 代理和 LLM 的现代 Angular（v20+）开发综合指南。涵盖 Signals、Standalone 组件、新控制流语法、依赖注入、路由、表单以及性能优化最佳实践。按主题分块组织，便于 LLM 上下文使用。",
+  "references": [
+    "https://angular.dev",
+    "https://angular.dev/guide/signals",
+    "https://angular.dev/guide/zoneless",
+    "https://angular.dev/guide/ssr",
+    "https://angular.dev/guide/standalone-components",
+    "https://angular.dev/guide/defer"
+  ]
+}

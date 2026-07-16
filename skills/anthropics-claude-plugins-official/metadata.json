@@ -1,0 +1,11 @@
+{
+  "name": "anthropics-claude-plugins-official",
+  "display_name": "Anthropic Official Plugins",
+  "description": "Anthropic 官方管理的高质量 Claude Code 插件目录。",
+  "github_url": "https://github.com/anthropics/claude-plugins-official",
+  "stars": 32204,
+  "license": "Apache-2.0",
+  "author": "anthropics",
+  "skill_count": 29,
+  "last_updated": "2026-07-16T22:03:46.310516"
+}

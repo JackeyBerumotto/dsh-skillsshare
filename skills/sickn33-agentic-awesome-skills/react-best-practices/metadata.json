@@ -1,0 +1,15 @@
+{
+  "version": "0.1.0",
+  "organization": "Vercel Engineering",
+  "date": "January 2026",
+  "abstract": "面向 AI 代理和 LLM 的 React 和 Next.js 应用综合性能优化指南。包含渲染优化、状态管理、打包优化、SSR/水合以及内存管理规则。按影响优先级从关键到增量改进排序。",
+  "references": [
+    "https://react.dev",
+    "https://nextjs.org",
+    "https://swr.vercel.app",
+    "https://github.com/shuding/better-all",
+    "https://github.com/isaacs/node-lru-cache",
+    "https://vercel.com/blog/how-we-optimized-package-imports-in-next-js",
+    "https://vercel.com/blog/how-we-made-the-vercel-dashboard-twice-as-fast"
+  ]
+}

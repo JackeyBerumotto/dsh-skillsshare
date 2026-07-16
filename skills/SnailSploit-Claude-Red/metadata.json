@@ -1,0 +1,11 @@
+{
+  "name": "SnailSploit-Claude-Red",
+  "display_name": "Claude Red",
+  "description": "精选的攻击性安全技能库。",
+  "github_url": "https://github.com/SnailSploit/Claude-Red",
+  "stars": 2705,
+  "license": "MIT",
+  "author": "SnailSploit",
+  "skill_count": 58,
+  "last_updated": "2026-07-16T22:04:20.885696"
+}

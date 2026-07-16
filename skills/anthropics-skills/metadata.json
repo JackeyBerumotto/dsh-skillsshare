@@ -1,0 +1,11 @@
+{
+  "name": "anthropics-skills",
+  "display_name": "Anthropic Official Skills",
+  "description": "Anthropic 官方代理技能仓库。",
+  "github_url": "https://github.com/anthropics/skills",
+  "stars": 161610,
+  "license": "Unknown",
+  "author": "anthropics",
+  "skill_count": 18,
+  "last_updated": "2026-07-16T22:03:43.533626"
+}

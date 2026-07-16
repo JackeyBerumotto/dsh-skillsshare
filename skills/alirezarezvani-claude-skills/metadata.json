@@ -1,0 +1,11 @@
+{
+  "name": "alirezarezvani-claude-skills",
+  "display_name": "Claude Skills Collection",
+  "description": "345 个 Claude Code 技能、代理技能和插件。",
+  "github_url": "https://github.com/alirezarezvani/claude-skills",
+  "stars": 22703,
+  "license": "MIT",
+  "author": "alirezarezvani",
+  "skill_count": 357,
+  "last_updated": "2026-07-16T22:04:29.577220"
+}
