@@ -1,0 +1,11 @@
+{
+  "name": "emilkowalski-skills",
+  "display_name": "面向设计工程师的技能",
+  "description": "为设计工程师打造的技能集合，帮助构建更好的用户界面。涵盖动画审查与改进、动画机会识别、动画词汇、Apple 设计原则等内容，基于作者在 Vercel 和 Linear 工作多年的经验。",
+  "github_url": "https://github.com/emilkowalski/skills",
+  "stars": 14238,
+  "license": "MIT",
+  "author": "emilkowalski",
+  "skill_count": 6,
+  "last_updated": "2026-07-16T23:04:46.987101"
+}
