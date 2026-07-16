@@ -4,12 +4,12 @@
 
 ## 目录结构
 
-\`\`\`
+```
 ntd-resource/
 ├── experts/          # 专家定义（WorkBuddy 格式）
 ├── skills/           # 内置技能
 └── templates/        # Todo 模板
-\`\`\`
+```
 
 ## experts 目录
 
@@ -18,7 +18,8 @@ ntd-resource/
 ### plugin.json 格式
 
 单个专家：
-\`\`\`json
+
+```json
 {
   "name": "senior-developer",
   "displayName": { "en": "Senior Developer", "zh": "资深开发工程师" },
@@ -29,10 +30,11 @@ ntd-resource/
   "type": "agent",
   "skills": ["code-review", "refactoring"]
 }
-\`\`\`
+```
 
 专家团队：
-\`\`\`json
+
+```json
 {
   "name": "software-company",
   "type": "team",
@@ -42,8 +44,8 @@ ntd-resource/
     "members": ["frontend-dev", "backend-dev"]
   }
 }
-\`\`\`
+```
 
 ## 同步机制
 
-NTD 应用启动时自动从本仓库克隆/拉取最新资源到本地 \`~/.ntd/bundled/\` 目录。
+NTD 应用启动时自动从本仓库克隆/拉取最新资源到本地 `~/.ntd/bundled/` 目录。
