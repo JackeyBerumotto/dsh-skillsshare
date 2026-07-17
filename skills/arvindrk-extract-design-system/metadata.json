@@ -1,0 +1,11 @@
+{
+  "name": "arvindrk-extract-design-system",
+  "display_name": "Extract Design System",
+  "description": "从现有页面/截图反向提取设计系统 — 提取颜色、字体、间距、圆角、阴影等设计 Token，生成 W3C 兼容的 tokens.json 和 tokens.css。",
+  "github_url": "https://github.com/arvindrk/extract-design-system",
+  "stars": 131,
+  "license": "MIT",
+  "author": "arvindrk",
+  "skill_count": 1,
+  "last_updated": "2026-07-17T00:00:00.000000"
+}

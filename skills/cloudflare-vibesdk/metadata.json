@@ -1,0 +1,11 @@
+{
+  "name": "cloudflare-vibesdk",
+  "display_name": "Cloudflare Vibe SDK Design Skills",
+  "description": "Cloudflare VibeSDK 的设计参考技能集合：营销转化页与 SaaS 仪表盘设计模式，源自 Cloudflare 的 AI Web 应用生成平台。",
+  "github_url": "https://github.com/cloudflare/vibesdk",
+  "stars": 5200,
+  "license": "MIT",
+  "author": "cloudflare",
+  "skill_count": 2,
+  "last_updated": "2026-07-17T00:00:00.000000"
+}

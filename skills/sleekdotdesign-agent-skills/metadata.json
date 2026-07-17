@@ -1,0 +1,11 @@
+{
+  "name": "sleekdotdesign-agent-skills",
+  "display_name": "Sleek Design Agent Skills",
+  "description": "Sleek AI 驱动的移动端 App 设计工具。通过 REST API 创建项目、描述需求、生成屏幕截图和组件代码。支持 React Native、SwiftUI 等多框架实现。",
+  "github_url": "https://github.com/sleekdotdesign/agent-skills",
+  "stars": 459,
+  "license": "MIT",
+  "author": "sleekdotdesign",
+  "skill_count": 1,
+  "last_updated": "2026-07-17T00:00:00.000000"
+}
