@@ -1,7 +1,8 @@
 ---
 name: git-workflow
-description: Gitワークフロー、ブランチ戦略、コミットメッセージ規約、およびプルリクエストプロセス。
-origin: ECC
+description: Git workflow patterns including branching strategies, commit conventions, merge vs rebase, conflict resolution, and collaborative development best practices for teams of all sizes.
+metadata:
+  origin: ECC
 ---
 
 # Git Workflow Patterns

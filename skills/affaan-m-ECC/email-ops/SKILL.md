@@ -1,7 +1,8 @@
 ---
 name: email-ops
-description: ECC用の証拠ベースのメールボックストリアージ、ドラフト作成、送信検証、および送信済みメールセーフフォローアップワークフロー。ユーザーがメールを整理したり、実際のメールサーフェスを通じてドラフトまたは送信したい、または送信済みメールに何が到着したかを証明したい場合に使用します。
-origin: ECC
+description: Evidence-first mailbox triage, drafting, send verification, and sent-mail-safe follow-up workflow for ECC. Use when the user wants to organize email, draft or send through the real mail surface, or prove what landed in Sent.
+metadata:
+  origin: ECC
 ---
 
 # Email Ops

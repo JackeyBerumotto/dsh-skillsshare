@@ -1,28 +1,30 @@
 ---
 name: python-testing
-description: pytest、TDD手法、フィクスチャ、モック、パラメータ化、カバレッジ要件を使用したPythonテスト戦略。
+description: Python testing strategies using pytest, TDD methodology, fixtures, mocking, parametrization, and coverage requirements.
+metadata:
+  origin: ECC
 ---
 
-# Pythonテストパターン
+# Python Testing Patterns
 
-pytest、TDD方法論、ベストプラクティスを使用したPythonアプリケーションの包括的なテスト戦略。
+Comprehensive testing strategies for Python applications using pytest, TDD methodology, and best practices.
 
-## いつ有効化するか
+## When to Activate
 
-- 新しいPythonコードを書くとき（TDDに従う：赤、緑、リファクタリング）
-- Pythonプロジェクトのテストスイートを設計するとき
-- Pythonテストカバレッジをレビューするとき
-- テストインフラストラクチャをセットアップするとき
+- Writing new Python code (follow TDD: red, green, refactor)
+- Designing test suites for Python projects
+- Reviewing Python test coverage
+- Setting up testing infrastructure
 
-## 核となるテスト哲学
+## Core Testing Philosophy
 
-### テスト駆動開発（TDD）
+### Test-Driven Development (TDD)
 
-常にTDDサイクルに従います。
+Always follow the TDD cycle:
 
-1. **赤**: 期待される動作のための失敗するテストを書く
-2. **緑**: テストを通過させるための最小限のコードを書く
-3. **リファクタリング**: テストを通過させたままコードを改善する
+1. **RED**: Write a failing test for the desired behavior
+2. **GREEN**: Write minimal code to make the test pass
+3. **REFACTOR**: Improve code while keeping tests green
 
 ```python
 # Step 1: Write failing test (RED)
@@ -37,19 +39,19 @@ def add(a, b):
 # Step 3: Refactor if needed (REFACTOR)
 ```
 
-### カバレッジ要件
+### Coverage Requirements
 
-- **目標**: 80%以上のコードカバレッジ
-- **クリティカルパス**: 100%のカバレッジが必要
-- `pytest --cov`を使用してカバレッジを測定
+- **Target**: 80%+ code coverage
+- **Critical paths**: 100% coverage required
+- Use `pytest --cov` to measure coverage
 
 ```bash
 pytest --cov=mypackage --cov-report=term-missing --cov-report=html
 ```
 
-## pytestの基礎
+## pytest Fundamentals
 
-### 基本的なテスト構造
+### Basic Test Structure
 
 ```python
 import pytest
@@ -71,7 +73,7 @@ def test_list_append():
     assert len(items) == 4
 ```
 
-### アサーション
+### Assertions
 
 ```python
 # Equality
@@ -112,9 +114,9 @@ with pytest.raises(ValueError) as exc_info:
 assert str(exc_info.value) == "error message"
 ```
 
-## フィクスチャ
+## Fixtures
 
-### 基本的なフィクスチャ使用
+### Basic Fixture Usage
 
 ```python
 import pytest
@@ -130,7 +132,7 @@ def test_sample_data(sample_data):
     assert sample_data["age"] == 30
 ```
 
-### セットアップ/ティアダウン付きフィクスチャ
+### Fixture with Setup/Teardown
 
 ```python
 @pytest.fixture
@@ -152,7 +154,7 @@ def test_database_query(database):
     assert len(result) > 0
 ```
 
-### フィクスチャスコープ
+### Fixture Scopes
 
 ```python
 # Function scope (default) - runs for each test
@@ -178,7 +180,7 @@ def shared_resource():
     resource.cleanup()
 ```
 
-### パラメータ付きフィクスチャ
+### Fixture with Parameters
 
 ```python
 @pytest.fixture(params=[1, 2, 3])
@@ -191,7 +193,7 @@ def test_numbers(number):
     assert number > 0
 ```
 
-### 複数のフィクスチャ使用
+### Using Multiple Fixtures
 
 ```python
 @pytest.fixture
@@ -207,7 +209,7 @@ def test_user_admin_interaction(user, admin):
     assert admin.can_manage(user)
 ```
 
-### 自動使用フィクスチャ
+### Autouse Fixtures
 
 ```python
 @pytest.fixture(autouse=True)
@@ -222,7 +224,7 @@ def test_without_fixture_call():
     assert Config.get_setting("debug") is False
 ```
 
-### 共有フィクスチャ用のConftest.py
+### Conftest.py for Shared Fixtures
 
 ```python
 # tests/conftest.py
@@ -246,9 +248,9 @@ def auth_headers(client):
     return {"Authorization": f"Bearer {token}"}
 ```
 
-## パラメータ化
+## Parametrization
 
-### 基本的なパラメータ化
+### Basic Parametrization
 
 ```python
 @pytest.mark.parametrize("input,expected", [
@@ -261,7 +263,7 @@ def test_uppercase(input, expected):
     assert input.upper() == expected
 ```
 
-### 複数パラメータ
+### Multiple Parameters
 
 ```python
 @pytest.mark.parametrize("a,b,expected", [
@@ -275,7 +277,7 @@ def test_add(a, b, expected):
     assert add(a, b) == expected
 ```
 
-### ID付きパラメータ化
+### Parametrize with IDs
 
 ```python
 @pytest.mark.parametrize("input,expected", [
@@ -288,7 +290,7 @@ def test_email_validation(input, expected):
     assert is_valid_email(input) is expected
 ```
 
-### パラメータ化フィクスチャ
+### Parametrized Fixtures
 
 ```python
 @pytest.fixture(params=["sqlite", "postgresql", "mysql"])
@@ -307,9 +309,9 @@ def test_database_operations(db):
     assert result is not None
 ```
 
-## マーカーとテスト選択
+## Markers and Test Selection
 
-### カスタムマーカー
+### Custom Markers
 
 ```python
 # Mark slow tests
@@ -329,7 +331,7 @@ def test_unit_logic():
     assert calculate(2, 3) == 5
 ```
 
-### 特定のテストを実行
+### Run Specific Tests
 
 ```bash
 # Run only fast tests
@@ -345,7 +347,7 @@ pytest -m "integration or slow"
 pytest -m "unit and not slow"
 ```
 
-### pytest.iniでマーカーを設定
+### Configure Markers in pytest.ini
 
 ```ini
 [pytest]
@@ -356,9 +358,9 @@ markers =
     django: marks tests as requiring Django
 ```
 
-## モックとパッチ
+## Mocking and Patching
 
-### 関数のモック
+### Mocking Functions
 
 ```python
 from unittest.mock import patch, Mock
@@ -374,7 +376,7 @@ def test_with_mock(api_call_mock):
     assert result["status"] == "success"
 ```
 
-### 戻り値のモック
+### Mocking Return Values
 
 ```python
 @patch("mypackage.Database.connect")
@@ -388,7 +390,7 @@ def test_database_connection(connect_mock):
     connect_mock.assert_called_once_with("localhost")
 ```
 
-### 例外のモック
+### Mocking Exceptions
 
 ```python
 @patch("mypackage.api_call")
@@ -402,7 +404,7 @@ def test_api_error_handling(api_call_mock):
     api_call_mock.assert_called_once()
 ```
 
-### コンテキストマネージャのモック
+### Mocking Context Managers
 
 ```python
 @patch("builtins.open", new_callable=mock_open)
@@ -416,7 +418,7 @@ def test_file_reading(mock_file):
     assert result == "file content"
 ```
 
-### Autospec使用
+### Using Autospec
 
 ```python
 @patch("mypackage.DBConnection", autospec=True)
@@ -429,7 +431,7 @@ def test_autospec(db_mock):
     db_mock.assert_called_once()
 ```
 
-### クラスインスタンスのモック
+### Mock Class Instances
 
 ```python
 class TestUserService:
@@ -445,7 +447,7 @@ class TestUserService:
         repo_mock.return_value.save.assert_called_once()
 ```
 
-### プロパティのモック
+### Mock Property
 
 ```python
 @pytest.fixture
@@ -462,9 +464,9 @@ def test_with_mock_config(mock_config):
     assert mock_config.api_key == "test-key"
 ```
 
-## 非同期コードのテスト
+## Testing Async Code
 
-### pytest-asyncioを使用した非同期テスト
+### Async Tests with pytest-asyncio
 
 ```python
 import pytest
@@ -482,7 +484,7 @@ async def test_async_with_fixture(async_client):
     assert response.status_code == 200
 ```
 
-### 非同期フィクスチャ
+### Async Fixture
 
 ```python
 @pytest.fixture
@@ -499,7 +501,7 @@ async def test_api_endpoint(async_client):
     assert response.status_code == 200
 ```
 
-### 非同期関数のモック
+### Mocking Async Functions
 
 ```python
 @pytest.mark.asyncio
@@ -514,9 +516,9 @@ async def test_async_mock(api_call_mock):
     assert result["status"] == "ok"
 ```
 
-## 例外のテスト
+## Testing Exceptions
 
-### 期待される例外のテスト
+### Testing Expected Exceptions
 
 ```python
 def test_divide_by_zero():
@@ -530,7 +532,7 @@ def test_custom_exception():
         validate_input("invalid")
 ```
 
-### 例外属性のテスト
+### Testing Exception Attributes
 
 ```python
 def test_exception_with_details():
@@ -542,9 +544,9 @@ def test_exception_with_details():
     assert "error" in str(exc_info.value)
 ```
 
-## 副作用のテスト
+## Testing Side Effects
 
-### ファイル操作のテスト
+### Testing File Operations
 
 ```python
 import tempfile
@@ -563,7 +565,7 @@ def test_file_processing():
         os.unlink(temp_path)
 ```
 
-### pytestのtmp_pathフィクスチャを使用したテスト
+### Testing with pytest's tmp_path Fixture
 
 ```python
 def test_with_tmp_path(tmp_path):
@@ -576,7 +578,7 @@ def test_with_tmp_path(tmp_path):
     # tmp_path automatically cleaned up
 ```
 
-### tmpdirフィクスチャを使用したテスト
+### Testing with tmpdir Fixture
 
 ```python
 def test_with_tmpdir(tmpdir):
@@ -588,29 +590,29 @@ def test_with_tmpdir(tmpdir):
     assert result == "data"
 ```
 
-## テストの整理
+## Test Organization
 
-### ディレクトリ構造
+### Directory Structure
 
 ```
 tests/
-├── conftest.py                 # 共有フィクスチャ
+├── conftest.py                 # Shared fixtures
 ├── __init__.py
-├── unit/                       # ユニットテスト
+├── unit/                       # Unit tests
 │   ├── __init__.py
 │   ├── test_models.py
 │   ├── test_utils.py
 │   └── test_services.py
-├── integration/                # 統合テスト
+├── integration/                # Integration tests
 │   ├── __init__.py
 │   ├── test_api.py
 │   └── test_database.py
-└── e2e/                        # エンドツーエンドテスト
+└── e2e/                        # End-to-end tests
     ├── __init__.py
     └── test_user_flow.py
 ```
 
-### テストクラス
+### Test Classes
 
 ```python
 class TestUserService:
@@ -633,33 +635,33 @@ class TestUserService:
         assert not self.service.user_exists(1)
 ```
 
-## ベストプラクティス
+## Best Practices
 
-### すべきこと
+### DO
 
-- **TDDに従う**: コードの前にテストを書く（赤-緑-リファクタリング）
-- **一つのことをテスト**: 各テストは単一の動作を検証すべき
-- **説明的な名前を使用**: `test_user_login_with_invalid_credentials_fails`
-- **フィクスチャを使用**: フィクスチャで重複を排除
-- **外部依存をモック**: 外部サービスに依存しない
-- **エッジケースをテスト**: 空の入力、None値、境界条件
-- **80%以上のカバレッジを目指す**: クリティカルパスに焦点を当てる
-- **テストを高速に保つ**: マークを使用して遅いテストを分離
+- **Follow TDD**: Write tests before code (red-green-refactor)
+- **Test one thing**: Each test should verify a single behavior
+- **Use descriptive names**: `test_user_login_with_invalid_credentials_fails`
+- **Use fixtures**: Eliminate duplication with fixtures
+- **Mock external dependencies**: Don't depend on external services
+- **Test edge cases**: Empty inputs, None values, boundary conditions
+- **Aim for 80%+ coverage**: Focus on critical paths
+- **Keep tests fast**: Use marks to separate slow tests
 
-### してはいけないこと
+### DON'T
 
-- **実装をテストしない**: 内部ではなく動作をテスト
-- **テストで複雑な条件文を使用しない**: テストをシンプルに保つ
-- **テスト失敗を無視しない**: すべてのテストは通過する必要がある
-- **サードパーティコードをテストしない**: ライブラリが機能することを信頼
-- **テスト間で状態を共有しない**: テストは独立すべき
-- **テストで例外をキャッチしない**: `pytest.raises`を使用
-- **print文を使用しない**: アサーションとpytestの出力を使用
-- **脆弱すぎるテストを書かない**: 過度に具体的なモックを避ける
+- **Don't test implementation**: Test behavior, not internals
+- **Don't use complex conditionals in tests**: Keep tests simple
+- **Don't ignore test failures**: All tests must pass
+- **Don't test third-party code**: Trust libraries to work
+- **Don't share state between tests**: Tests should be independent
+- **Don't catch exceptions in tests**: Use `pytest.raises`
+- **Don't use print statements**: Use assertions and pytest output
+- **Don't write tests that are too brittle**: Avoid over-specific mocks
 
-## 一般的なパターン
+## Common Patterns
 
-### APIエンドポイントのテスト（FastAPI/Flask）
+### Testing API Endpoints (FastAPI/Flask)
 
 ```python
 @pytest.fixture
@@ -681,7 +683,7 @@ def test_create_user(client):
     assert response.json["name"] == "Alice"
 ```
 
-### データベース操作のテスト
+### Testing Database Operations
 
 ```python
 @pytest.fixture
@@ -702,7 +704,7 @@ def test_create_user(db_session):
     assert retrieved.email == "alice@example.com"
 ```
 
-### クラスメソッドのテスト
+### Testing Class Methods
 
 ```python
 class TestCalculator:
@@ -718,7 +720,7 @@ class TestCalculator:
             calculator.divide(10, 0)
 ```
 
-## pytest設定
+## pytest Configuration
 
 ### pytest.ini
 
@@ -761,7 +763,7 @@ markers = [
 ]
 ```
 
-## テストの実行
+## Running Tests
 
 ```bash
 # Run all tests
@@ -798,18 +800,18 @@ pytest -k "test_user"
 pytest --pdb
 ```
 
-## クイックリファレンス
+## Quick Reference
 
-| パターン | 使用法 |
+| Pattern | Usage |
 |---------|-------|
-| `pytest.raises()` | 期待される例外をテスト |
-| `@pytest.fixture()` | 再利用可能なテストフィクスチャを作成 |
-| `@pytest.mark.parametrize()` | 複数の入力でテストを実行 |
-| `@pytest.mark.slow` | 遅いテストをマーク |
-| `pytest -m "not slow"` | 遅いテストをスキップ |
-| `@patch()` | 関数とクラスをモック |
-| `tmp_path`フィクスチャ | 自動一時ディレクトリ |
-| `pytest --cov` | カバレッジレポートを生成 |
-| `assert` | シンプルで読みやすいアサーション |
+| `pytest.raises()` | Test expected exceptions |
+| `@pytest.fixture()` | Create reusable test fixtures |
+| `@pytest.mark.parametrize()` | Run tests with multiple inputs |
+| `@pytest.mark.slow` | Mark slow tests |
+| `pytest -m "not slow"` | Skip slow tests |
+| `@patch()` | Mock functions and classes |
+| `tmp_path` fixture | Automatic temp directory |
+| `pytest --cov` | Generate coverage report |
+| `assert` | Simple and readable assertions |
 
-**覚えておいてください**: テストもコードです。それらをクリーンで、読みやすく、保守可能に保ちましょう。良いテストはバグをキャッチし、優れたテストはそれらを防ぎます。
+**Remember**: Tests are code too. Keep them clean, readable, and maintainable. Good tests catch bugs; great tests prevent them.

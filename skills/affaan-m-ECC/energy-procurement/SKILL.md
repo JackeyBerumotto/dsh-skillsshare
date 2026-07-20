@@ -1,6 +1,6 @@
 ---
 name: energy-procurement
-description: 電気とガス調達、料金最適化、需要料金管理、再生可能エネルギーPPA評価、およびマルチファシリティーエネルギー戦略のための符号化された専門知識。
+description: >
   Codified expertise for electricity and gas procurement, tariff optimization,
   demand charge management, renewable PPA evaluation, and multi-facility energy
   cost management. Informed by energy procurement managers with 15+ years
@@ -11,8 +11,8 @@ description: 電気とガス調達、料金最適化、需要料金管理、再�
 license: Apache-2.0
 version: 1.0.0
 homepage: https://github.com/affaan-m/everything-claude-code
-origin: ECC
 metadata:
+  origin: ECC
   author: evos
   clawdbot:
     emoji: ""

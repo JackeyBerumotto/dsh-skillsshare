@@ -1,27 +1,37 @@
 ---
 name: iterative-retrieval
-description: サブエージェントのコンテキスト問題を解決するために、コンテキスト取得を段階的に洗練するパターン
+description: Pattern for progressively refining context retrieval to solve the subagent context problem
+metadata:
+  origin: ECC
 ---
 
-# 反復検索パターン
+# Iterative Retrieval Pattern
 
-マルチエージェントワークフローにおける「コンテキスト問題」を解決します。サブエージェントは作業を開始するまで、どのコンテキストが必要かわかりません。
+Solves the "context problem" in multi-agent workflows where subagents don't know what context they need until they start working.
 
-## 問題
+## When to Activate
 
-サブエージェントは限定的なコンテキストで起動されます。以下を知りません:
-- どのファイルに関連するコードが含まれているか
-- コードベースにどのようなパターンが存在するか
-- プロジェクトがどのような用語を使用しているか
+- Spawning subagents that need codebase context they cannot predict upfront
+- Building multi-agent workflows where context is progressively refined
+- Encountering "context too large" or "missing context" failures in agent tasks
+- Designing RAG-like retrieval pipelines for code exploration
+- Optimizing token usage in agent orchestration
 
-標準的なアプローチは失敗します:
-- **すべてを送信**: コンテキスト制限を超える
-- **何も送信しない**: エージェントに重要な情報が不足
-- **必要なものを推測**: しばしば間違い
+## The Problem
 
-## 解決策: 反復検索
+Subagents are spawned with limited context. They don't know:
+- Which files contain relevant code
+- What patterns exist in the codebase
+- What terminology the project uses
 
-コンテキストを段階的に洗練する4フェーズのループ:
+Standard approaches fail:
+- **Send everything**: Exceeds context limits
+- **Send nothing**: Agent lacks critical information
+- **Guess what's needed**: Often wrong
+
+## The Solution: Iterative Retrieval
+
+A 4-phase loop that progressively refines context:
 
 ```
 ┌─────────────────────────────────────────────┐
@@ -35,29 +45,29 @@ description: サブエージェントのコンテキスト問題を解決する�
 │   │   LOOP   │─────│  REFINE  │            │
 │   └──────────┘      └──────────┘            │
 │                                             │
-│        最大3サイクル、その後続行              │
+│        Max 3 cycles, then proceed           │
 └─────────────────────────────────────────────┘
 ```
 
-### フェーズ1: DISPATCH
+### Phase 1: DISPATCH
 
-候補ファイルを収集する初期の広範なクエリ:
+Initial broad query to gather candidate files:
 
 ```javascript
-// 高レベルの意図から開始
+// Start with high-level intent
 const initialQuery = {
   patterns: ['src/**/*.ts', 'lib/**/*.ts'],
   keywords: ['authentication', 'user', 'session'],
   excludes: ['*.test.ts', '*.spec.ts']
 };
 
-// 検索エージェントにディスパッチ
+// Dispatch to retrieval agent
 const candidates = await retrieveFiles(initialQuery);
 ```
 
-### フェーズ2: EVALUATE
+### Phase 2: EVALUATE
 
-取得したコンテンツの関連性を評価:
+Assess retrieved content for relevance:
 
 ```javascript
 function evaluateRelevance(files, task) {
@@ -70,32 +80,32 @@ function evaluateRelevance(files, task) {
 }
 ```
 
-スコアリング基準:
-- **高(0.8-1.0)**: ターゲット機能を直接実装
-- **中(0.5-0.7)**: 関連するパターンや型を含む
-- **低(0.2-0.4)**: 間接的に関連
-- **なし(0-0.2)**: 関連なし、除外
+Scoring criteria:
+- **High (0.8-1.0)**: Directly implements target functionality
+- **Medium (0.5-0.7)**: Contains related patterns or types
+- **Low (0.2-0.4)**: Tangentially related
+- **None (0-0.2)**: Not relevant, exclude
 
-### フェーズ3: REFINE
+### Phase 3: REFINE
 
-評価に基づいて検索基準を更新:
+Update search criteria based on evaluation:
 
 ```javascript
 function refineQuery(evaluation, previousQuery) {
   return {
-    // 高関連性ファイルで発見された新しいパターンを追加
+    // Add new patterns discovered in high-relevance files
     patterns: [...previousQuery.patterns, ...extractPatterns(evaluation)],
 
-    // コードベースで見つかった用語を追加
+    // Add terminology found in codebase
     keywords: [...previousQuery.keywords, ...extractKeywords(evaluation)],
 
-    // 確認された無関係なパスを除外
+    // Exclude confirmed irrelevant paths
     excludes: [...previousQuery.excludes, ...evaluation
       .filter(e => e.relevance < 0.2)
       .map(e => e.path)
     ],
 
-    // 特定のギャップをターゲット
+    // Target specific gaps
     focusAreas: evaluation
       .flatMap(e => e.missingContext)
       .filter(unique)
@@ -103,9 +113,9 @@ function refineQuery(evaluation, previousQuery) {
 }
 ```
 
-### フェーズ4: LOOP
+### Phase 4: LOOP
 
-洗練された基準で繰り返す(最大3サイクル):
+Repeat with refined criteria (max 3 cycles):
 
 ```javascript
 async function iterativeRetrieve(task, maxCycles = 3) {
@@ -116,13 +126,13 @@ async function iterativeRetrieve(task, maxCycles = 3) {
     const candidates = await retrieveFiles(query);
     const evaluation = evaluateRelevance(candidates, task);
 
-    // 十分なコンテキストがあるか確認
+    // Check if we have sufficient context
     const highRelevance = evaluation.filter(e => e.relevance >= 0.7);
     if (highRelevance.length >= 3 && !hasCriticalGaps(evaluation)) {
       return highRelevance;
     }
 
-    // 洗練して続行
+    // Refine and continue
     query = refineQuery(evaluation, query);
     bestContext = mergeContext(bestContext, highRelevance);
   }
@@ -131,72 +141,72 @@ async function iterativeRetrieve(task, maxCycles = 3) {
 }
 ```
 
-## 実践例
+## Practical Examples
 
-### 例1: バグ修正コンテキスト
-
-```
-タスク: "認証トークン期限切れバグを修正"
-
-サイクル1:
-  DISPATCH: src/**で"token"、"auth"、"expiry"を検索
-  EVALUATE: auth.ts(0.9)、tokens.ts(0.8)、user.ts(0.3)を発見
-  REFINE: "refresh"、"jwt"キーワードを追加; user.tsを除外
-
-サイクル2:
-  DISPATCH: 洗練された用語で検索
-  EVALUATE: session-manager.ts(0.95)、jwt-utils.ts(0.85)を発見
-  REFINE: 十分なコンテキスト(2つの高関連性ファイル)
-
-結果: auth.ts、tokens.ts、session-manager.ts、jwt-utils.ts
-```
-
-### 例2: 機能実装
+### Example 1: Bug Fix Context
 
 ```
-タスク: "APIエンドポイントにレート制限を追加"
+Task: "Fix the authentication token expiry bug"
 
-サイクル1:
-  DISPATCH: routes/**で"rate"、"limit"、"api"を検索
-  EVALUATE: マッチなし - コードベースは"throttle"用語を使用
-  REFINE: "throttle"、"middleware"キーワードを追加
+Cycle 1:
+  DISPATCH: Search for "token", "auth", "expiry" in src/**
+  EVALUATE: Found auth.ts (0.9), tokens.ts (0.8), user.ts (0.3)
+  REFINE: Add "refresh", "jwt" keywords; exclude user.ts
 
-サイクル2:
-  DISPATCH: 洗練された用語で検索
-  EVALUATE: throttle.ts(0.9)、middleware/index.ts(0.7)を発見
-  REFINE: ルーターパターンが必要
+Cycle 2:
+  DISPATCH: Search refined terms
+  EVALUATE: Found session-manager.ts (0.95), jwt-utils.ts (0.85)
+  REFINE: Sufficient context (2 high-relevance files)
 
-サイクル3:
-  DISPATCH: "router"、"express"パターンを検索
-  EVALUATE: router-setup.ts(0.8)を発見
-  REFINE: 十分なコンテキスト
-
-結果: throttle.ts、middleware/index.ts、router-setup.ts
+Result: auth.ts, tokens.ts, session-manager.ts, jwt-utils.ts
 ```
 
-## エージェントとの統合
+### Example 2: Feature Implementation
 
-エージェントプロンプトで使用:
+```
+Task: "Add rate limiting to API endpoints"
+
+Cycle 1:
+  DISPATCH: Search "rate", "limit", "api" in routes/**
+  EVALUATE: No matches - codebase uses "throttle" terminology
+  REFINE: Add "throttle", "middleware" keywords
+
+Cycle 2:
+  DISPATCH: Search refined terms
+  EVALUATE: Found throttle.ts (0.9), middleware/index.ts (0.7)
+  REFINE: Need router patterns
+
+Cycle 3:
+  DISPATCH: Search "router", "express" patterns
+  EVALUATE: Found router-setup.ts (0.8)
+  REFINE: Sufficient context
+
+Result: throttle.ts, middleware/index.ts, router-setup.ts
+```
+
+## Integration with Agents
+
+Use in agent prompts:
 
 ```markdown
-このタスクのコンテキストを取得する際:
-1. 広範なキーワード検索から開始
-2. 各ファイルの関連性を評価(0-1スケール)
-3. まだ不足しているコンテキストを特定
-4. 検索基準を洗練して繰り返す(最大3サイクル)
-5. 関連性が0.7以上のファイルを返す
+When retrieving context for this task:
+1. Start with broad keyword search
+2. Evaluate each file's relevance (0-1 scale)
+3. Identify what context is still missing
+4. Refine search criteria and repeat (max 3 cycles)
+5. Return files with relevance >= 0.7
 ```
 
-## ベストプラクティス
+## Best Practices
 
-1. **広く開始し、段階的に絞る** - 初期クエリで過度に指定しない
-2. **コードベースの用語を学ぶ** - 最初のサイクルでしばしば命名規則が明らかになる
-3. **不足しているものを追跡** - 明示的なギャップ識別が洗練を促進
-4. **「十分に良い」で停止** - 3つの高関連性ファイルは10個の平凡なファイルより優れている
-5. **確信を持って除外** - 低関連性ファイルは関連性を持つようにならない
+1. **Start broad, narrow progressively** - Don't over-specify initial queries
+2. **Learn codebase terminology** - First cycle often reveals naming conventions
+3. **Track what's missing** - Explicit gap identification drives refinement
+4. **Stop at "good enough"** - 3 high-relevance files beats 10 mediocre ones
+5. **Exclude confidently** - Low-relevance files won't become relevant
 
-## 関連項目
+## Related
 
-- [The Longform Guide](https://x.com/affaanmustafa/status/2014040193557471352) - サブエージェントオーケストレーションセクション
-- `continuous-learning`スキル - 時間とともに改善するパターン用
-- `~/.claude/agents/`内のエージェント定義
+- [The Longform Guide](https://x.com/affaanmustafa/status/2014040193557471352) - Subagent orchestration section
+- `continuous-learning` skill - For patterns that improve over time
+- Agent definitions bundled with ECC (manual install path: `agents/`)

@@ -1,100 +1,232 @@
 ---
 name: springboot-verification
-description: Verification loop for Spring Boot projects: build, static analysis, tests with coverage, security scans, and diff review before release or PR.
+description: "Verification loop for Spring Boot projects: build, static analysis, tests with coverage, security scans, and diff review before release or PR."
+metadata:
+  origin: ECC
 ---
 
-# Spring Boot 検証ループ
+# Spring Boot Verification Loop
 
-PR前、大きな変更後、デプロイ前に実行します。
+Run before PRs, after major changes, and pre-deploy.
 
-## フェーズ1: ビルド
+## When to Activate
+
+- Before opening a pull request for a Spring Boot service
+- After major refactoring or dependency upgrades
+- Pre-deployment verification for staging or production
+- Running full build → lint → test → security scan pipeline
+- Validating test coverage meets thresholds
+
+## Phase 1: Build
 
 ```bash
 mvn -T 4 clean verify -DskipTests
-# または
+# or
 ./gradlew clean assemble -x test
 ```
 
-ビルドが失敗した場合は、停止して修正します。
+If build fails, stop and fix.
 
-## フェーズ2: 静的解析
+## Phase 2: Static Analysis
 
-Maven（一般的なプラグイン）:
+Maven (common plugins):
 ```bash
 mvn -T 4 spotbugs:check pmd:check checkstyle:check
 ```
 
-Gradle（設定されている場合）:
+Gradle (if configured):
 ```bash
 ./gradlew checkstyleMain pmdMain spotbugsMain
 ```
 
-## フェーズ3: テスト + カバレッジ
+## Phase 3: Tests + Coverage
 
 ```bash
 mvn -T 4 test
-mvn jacoco:report   # 80%以上のカバレッジを確認
-# または
+mvn jacoco:report   # verify 80%+ coverage
+# or
 ./gradlew test jacocoTestReport
 ```
 
-レポート:
-- 総テスト数、合格/失敗
-- カバレッジ%（行/分岐）
+Report:
+- Total tests, passed/failed
+- Coverage % (lines/branches)
 
-## フェーズ4: セキュリティスキャン
+### Unit Tests
 
-```bash
-# 依存関係のCVE
-mvn org.owasp:dependency-check-maven:check
-# または
-./gradlew dependencyCheckAnalyze
+Test service logic in isolation with mocked dependencies:
 
-# シークレット（git）
-git secrets --scan  # 設定されている場合
+```java
+@ExtendWith(MockitoExtension.class)
+class UserServiceTest {
+
+  @Mock private UserRepository userRepository;
+  @InjectMocks private UserService userService;
+
+  @Test
+  void createUser_validInput_returnsUser() {
+    var dto = new CreateUserDto("Alice", "alice@example.com");
+    var expected = new User(1L, "Alice", "alice@example.com");
+    when(userRepository.save(any(User.class))).thenReturn(expected);
+
+    var result = userService.create(dto);
+
+    assertThat(result.name()).isEqualTo("Alice");
+    verify(userRepository).save(any(User.class));
+  }
+
+  @Test
+  void createUser_duplicateEmail_throwsException() {
+    var dto = new CreateUserDto("Alice", "existing@example.com");
+    when(userRepository.existsByEmail(dto.email())).thenReturn(true);
+
+    assertThatThrownBy(() -> userService.create(dto))
+        .isInstanceOf(DuplicateEmailException.class);
+  }
+}
 ```
 
-## フェーズ5: Lint/Format（オプションゲート）
+### Integration Tests with Testcontainers
+
+Test against a real database instead of H2:
+
+```java
+@SpringBootTest
+@Testcontainers
+class UserRepositoryIntegrationTest {
+
+  @Container
+  static PostgreSQLContainer<?> postgres = new PostgreSQLContainer<>("postgres:16-alpine")
+      .withDatabaseName("testdb");
+
+  @DynamicPropertySource
+  static void configureProperties(DynamicPropertyRegistry registry) {
+    registry.add("spring.datasource.url", postgres::getJdbcUrl);
+    registry.add("spring.datasource.username", postgres::getUsername);
+    registry.add("spring.datasource.password", postgres::getPassword);
+  }
+
+  @Autowired private UserRepository userRepository;
+
+  @Test
+  void findByEmail_existingUser_returnsUser() {
+    userRepository.save(new User("Alice", "alice@example.com"));
+
+    var found = userRepository.findByEmail("alice@example.com");
+
+    assertThat(found).isPresent();
+    assertThat(found.get().getName()).isEqualTo("Alice");
+  }
+}
+```
+
+### API Tests with MockMvc
+
+Test controller layer with full Spring context:
+
+```java
+@WebMvcTest(UserController.class)
+class UserControllerTest {
+
+  @Autowired private MockMvc mockMvc;
+  @MockBean private UserService userService;
+
+  @Test
+  void createUser_validInput_returns201() throws Exception {
+    var user = new UserDto(1L, "Alice", "alice@example.com");
+    when(userService.create(any())).thenReturn(user);
+
+    mockMvc.perform(post("/api/users")
+            .contentType(MediaType.APPLICATION_JSON)
+            .content("""
+                {"name": "Alice", "email": "alice@example.com"}
+                """))
+        .andExpect(status().isCreated())
+        .andExpect(jsonPath("$.name").value("Alice"));
+  }
+
+  @Test
+  void createUser_invalidEmail_returns400() throws Exception {
+    mockMvc.perform(post("/api/users")
+            .contentType(MediaType.APPLICATION_JSON)
+            .content("""
+                {"name": "Alice", "email": "not-an-email"}
+                """))
+        .andExpect(status().isBadRequest());
+  }
+}
+```
+
+## Phase 4: Security Scan
 
 ```bash
-mvn spotless:apply   # Spotlessプラグインを使用している場合
+# Dependency CVEs
+mvn org.owasp:dependency-check-maven:check
+# or
+./gradlew dependencyCheckAnalyze
+
+# Secrets in source
+grep -rn "password\s*=\s*\"" src/ --include="*.java" --include="*.yml" --include="*.properties"
+grep -rn "sk-\|api_key\|secret" src/ --include="*.java" --include="*.yml"
+
+# Secrets (git history)
+git secrets --scan  # if configured
+```
+
+### Common Security Findings
+
+```
+# Check for System.out.println (use logger instead)
+grep -rn "System\.out\.print" src/main/ --include="*.java"
+
+# Check for raw exception messages in responses
+grep -rn "e\.getMessage()" src/main/ --include="*.java"
+
+# Check for wildcard CORS
+grep -rn "allowedOrigins.*\*" src/main/ --include="*.java"
+```
+
+## Phase 5: Lint/Format (optional gate)
+
+```bash
+mvn spotless:apply   # if using Spotless plugin
 ./gradlew spotlessApply
 ```
 
-## フェーズ6: 差分レビュー
+## Phase 6: Diff Review
 
 ```bash
 git diff --stat
 git diff
 ```
 
-チェックリスト:
-- デバッグログが残っていない（`System.out`、ガードなしの `log.debug`）
-- 意味のあるエラーとHTTPステータス
-- 必要な場所にトランザクションと検証がある
-- 設定変更が文書化されている
+Checklist:
+- No debugging logs left (`System.out`, `log.debug` without guards)
+- Meaningful errors and HTTP statuses
+- Transactions and validation present where needed
+- Config changes documented
 
-## 出力テンプレート
+## Output Template
 
 ```
-検証レポート
+VERIFICATION REPORT
 ===================
-ビルド:     [合格/不合格]
-静的解析:   [合格/不合格] (spotbugs/pmd/checkstyle)
-テスト:     [合格/不合格] (X/Y 合格, Z% カバレッジ)
-セキュリティ: [合格/不合格] (CVE発見: N)
-差分:       [X ファイル変更]
+Build:     [PASS/FAIL]
+Static:    [PASS/FAIL] (spotbugs/pmd/checkstyle)
+Tests:     [PASS/FAIL] (X/Y passed, Z% coverage)
+Security:  [PASS/FAIL] (CVE findings: N)
+Diff:      [X files changed]
 
-全体:       [準備完了 / 未完了]
+Overall:   [READY / NOT READY]
 
-修正が必要な問題:
+Issues to Fix:
 1. ...
 2. ...
 ```
 
-## 継続モード
+## Continuous Mode
 
-- 大きな変更があった場合、または長いセッションで30〜60分ごとにフェーズを再実行
-- 短いループを維持: `mvn -T 4 test` + spotbugs で迅速なフィードバック
+- Re-run phases on significant changes or every 30–60 minutes in long sessions
+- Keep a short loop: `mvn -T 4 test` + spotbugs for quick feedback
 
-**注意**: 迅速なフィードバックは遅い驚きに勝ります。ゲートを厳格に保ち、本番システムでは警告を欠陥として扱います。
+**Remember**: Fast feedback beats late surprises. Keep the gate strict—treat warnings as defects in production systems.

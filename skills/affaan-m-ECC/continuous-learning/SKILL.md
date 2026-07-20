@@ -1,23 +1,45 @@
 ---
 name: continuous-learning
-description: Claude Codeセッションから再利用可能なパターンを自動的に抽出し、将来の使用のために学習済みスキルとして保存します。
+description: "[DEPRECATED - use continuous-learning-v2] Legacy v1 stop-hook skill extractor. v2 is a strict superset with instinct-based, project-scoped, hook-reliable learning. Do not invoke v1; route continuous learning, session learning, and pattern extraction requests to continuous-learning-v2."
+metadata:
+  origin: ECC
 ---
 
-# 継続学習スキル
+# Continuous Learning Skill - DEPRECATED
 
-Claude Codeセッションを終了時に自動的に評価し、学習済みスキルとして保存できる再利用可能なパターンを抽出します。
+> **DEPRECATED 2026-04-28.** Use `continuous-learning-v2` instead. v2 is a strict superset: stop-hook observation becomes PreToolUse/PostToolUse observation, full skills become atomic instincts with confidence scoring, and global-only storage becomes project-scoped plus global promotion.
+>
+> This file is kept for archival reference and backward compatibility with existing installs.
 
-## 動作原理
+---
 
-このスキルは各セッション終了時に**Stopフック**として実行されます:
+## Original v1 Documentation (archival)
 
-1. **セッション評価**: セッションに十分なメッセージがあるか確認(デフォルト: 10以上)
-2. **パターン検出**: セッションから抽出可能なパターンを識別
-3. **スキル抽出**: 有用なパターンを`~/.claude/skills/learned/`に保存
+Automatically evaluates Claude Code sessions on end to extract reusable patterns that can be saved as learned skills.
 
-## 設定
+## When to Activate
 
-`config.json`を編集してカスタマイズ:
+- Setting up automatic pattern extraction from Claude Code sessions
+- Configuring the Stop hook for session evaluation
+- Reviewing or curating learned skills in `~/.claude/skills/learned/`
+- Adjusting extraction thresholds or pattern categories
+- Comparing v1 (this) vs v2 (instinct-based) approaches
+
+## Status
+
+This v1 skill is still supported, but `continuous-learning-v2` is the preferred path for new installs. Keep v1 when you explicitly want the simpler Stop-hook extraction flow or need compatibility with older learned-skill workflows.
+
+## How It Works
+
+This skill runs as a **Stop hook** at the end of each session:
+
+1. **Session Evaluation**: Checks if session has enough messages (default: 10+)
+2. **Pattern Detection**: Identifies extractable patterns from the session
+3. **Skill Extraction**: Saves useful patterns to `~/.claude/skills/learned/`
+
+## Configuration
+
+Edit `config.json` to customize:
 
 ```json
 {
@@ -40,19 +62,19 @@ Claude Codeセッションを終了時に自動的に評価し、学習済みス
 }
 ```
 
-## パターンの種類
+## Pattern Types
 
-| パターン | 説明 |
+| Pattern | Description |
 |---------|-------------|
-| `error_resolution` | 特定のエラーの解決方法 |
-| `user_corrections` | ユーザー修正からのパターン |
-| `workarounds` | フレームワーク/ライブラリの癖への解決策 |
-| `debugging_techniques` | 効果的なデバッグアプローチ |
-| `project_specific` | プロジェクト固有の規約 |
+| `error_resolution` | How specific errors were resolved |
+| `user_corrections` | Patterns from user corrections |
+| `workarounds` | Solutions to framework/library quirks |
+| `debugging_techniques` | Effective debugging approaches |
+| `project_specific` | Project-specific conventions |
 
-## フック設定
+## Hook Setup
 
-`~/.claude/settings.json`に追加:
+Add to your `~/.claude/settings.json`:
 
 ```json
 {
@@ -68,43 +90,43 @@ Claude Codeセッションを終了時に自動的に評価し、学習済みス
 }
 ```
 
-## Stopフックを使用する理由
+## Why Stop Hook?
 
-- **軽量**: セッション終了時に1回だけ実行
-- **ノンブロッキング**: すべてのメッセージにレイテンシを追加しない
-- **完全なコンテキスト**: セッション全体のトランスクリプトにアクセス可能
+- **Lightweight**: Runs once at session end
+- **Non-blocking**: Doesn't add latency to every message
+- **Complete context**: Has access to full session transcript
 
-## 関連項目
+## Related
 
-- [The Longform Guide](https://x.com/affaanmustafa/status/2014040193557471352) - 継続学習に関するセクション
-- `/learn`コマンド - セッション中の手動パターン抽出
+- [The Longform Guide](https://x.com/affaanmustafa/status/2014040193557471352) - Section on continuous learning
+- `/learn` command - Manual pattern extraction mid-session
 
 ---
 
-## 比較ノート (調査: 2025年1月)
+## Comparison Notes (Research: Jan 2025)
 
 ### vs Homunculus
 
-Homunculus v2はより洗練されたアプローチを採用:
+Homunculus v2 takes a more sophisticated approach:
 
-| 機能 | このアプローチ | Homunculus v2 |
+| Feature | Our Approach | Homunculus v2 |
 |---------|--------------|---------------|
-| 観察 | Stopフック(セッション終了時) | PreToolUse/PostToolUseフック(100%信頼性) |
-| 分析 | メインコンテキスト | バックグラウンドエージェント(Haiku) |
-| 粒度 | 完全なスキル | 原子的な「本能」 |
-| 信頼度 | なし | 0.3-0.9の重み付け |
-| 進化 | 直接スキルへ | 本能 → クラスタ → スキル/コマンド/エージェント |
-| 共有 | なし | 本能のエクスポート/インポート |
+| Observation | Stop hook (end of session) | PreToolUse/PostToolUse hooks (100% reliable) |
+| Analysis | Main context | Background agent (Haiku) |
+| Granularity | Full skills | Atomic "instincts" |
+| Confidence | None | 0.3-0.9 weighted |
+| Evolution | Direct to skill | Instincts → cluster → skill/command/agent |
+| Sharing | None | Export/import instincts |
 
-**homunculusからの重要な洞察:**
-> "v1はスキルに観察を依存していました。スキルは確率的で、発火率は約50-80%です。v2は観察にフック(100%信頼性)を使用し、学習された振る舞いの原子単位として本能を使用します。"
+**Key insight from homunculus:**
+> "v1 relied on skills to observe. Skills are probabilistic—they fire ~50-80% of the time. v2 uses hooks for observation (100% reliable) and instincts as the atomic unit of learned behavior."
 
-### v2の潜在的な改善
+### Potential v2 Enhancements
 
-1. **本能ベースの学習** - 信頼度スコアリングを持つ、より小さく原子的な振る舞い
-2. **バックグラウンド観察者** - 並行して分析するHaikuエージェント
-3. **信頼度の減衰** - 矛盾した場合に本能の信頼度が低下
-4. **ドメインタグ付け** - コードスタイル、テスト、git、デバッグなど
-5. **進化パス** - 関連する本能をスキル/コマンドにクラスタ化
+1. **Instinct-based learning** - Smaller, atomic behaviors with confidence scoring
+2. **Background observer** - Haiku agent analyzing in parallel
+3. **Confidence decay** - Instincts lose confidence if contradicted
+4. **Domain tagging** - code-style, testing, git, debugging, etc.
+5. **Evolution path** - Cluster related instincts into skills/commands
 
-詳細: `docs/continuous-learning-v2-spec.md`を参照。
+See: `docs/continuous-learning-v2-spec.md` for full spec.

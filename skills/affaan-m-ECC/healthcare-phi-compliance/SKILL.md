@@ -1,7 +1,8 @@
 ---
 name: healthcare-phi-compliance
-description: 保護医療情報（PHI）コンプライアンス、HIPAA準拠、およびデータセキュリティ。
-origin: Health1 Super Speciality Hospitals — contributed by Dr. Keyur Patel
+description: Protected Health Information (PHI) and Personally Identifiable Information (PII) compliance patterns for healthcare applications. Covers data classification, access control, audit trails, encryption, and common leak vectors.
+metadata:
+  origin: Health1 Super Speciality Hospitals — contributed by Dr. Keyur Patel
 version: "1.0.0"
 ---
 

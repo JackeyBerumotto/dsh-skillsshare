@@ -1,7 +1,8 @@
 ---
 name: homelab-pihole-dns
-description: ホームラボ用Pi-hole DNS設定、広告ブロック、プライバシー、およびカスタムドメイン解決。
-origin: community
+description: Pi-hole installation, blocklist management, DNS-over-HTTPS setup, DHCP integration, local DNS records, and troubleshooting broken DNS resolution on a home network.
+metadata:
+  origin: community
 ---
 
 # Homelab Pi-hole DNS

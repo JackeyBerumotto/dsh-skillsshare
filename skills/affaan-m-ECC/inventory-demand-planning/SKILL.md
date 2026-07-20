@@ -1,6 +1,6 @@
 ---
 name: inventory-demand-planning
-description: 在庫管理、需要予測、補充戦略、およびサプライチェーン最適化。
+description: >
   Codified expertise for demand forecasting, safety stock optimization,
   replenishment planning, and promotional lift estimation at multi-location
   retailers. Informed by demand planners with 15+ years experience managing
@@ -11,8 +11,8 @@ description: 在庫管理、需要予測、補充戦略、およびサプライ�
 license: Apache-2.0
 version: 1.0.0
 homepage: https://github.com/affaan-m/everything-claude-code
-origin: ECC
 metadata:
+  origin: ECC
   author: evos
   clawdbot:
     emoji: ""

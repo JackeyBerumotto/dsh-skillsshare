@@ -1,79 +1,80 @@
 ---
 name: article-writing
-description: 記事、ガイド、ブログ投稿、チュートリアル、ニュースレター号、その他の長文コンテンツを、提供された例またはブランドガイダンスから派生した独特の声で作成します。ユーザーが段落より長いポーランド済みの書き込みコンテンツを望む場合、特に声の一貫性、構造、および信頼性が重要な場合に使用します。
-origin: ECC
+description: Write articles, guides, blog posts, tutorials, newsletter issues, and other long-form content in a distinctive voice derived from supplied examples or brand guidance. Use when the user wants polished written content longer than a paragraph, especially when voice consistency, structure, and credibility matter.
+metadata:
+  origin: ECC
 ---
 
-# 記事作成
+# Article Writing
 
-実際の視点を持つ人のように聞こえる長文コンテンツを作成し、LLMがペースト状に滑らかにしたものではありません。
+Write long-form content that sounds like an actual person with a point of view, not an LLM smoothing itself into paste.
 
-## アクティベーション時期
+## When to Activate
 
-- ブログ投稿、エッセイ、ローンチ投稿、ガイド、チュートリアル、またはニュースレター号をドラフトする
-- メモ、トランスクリプト、または研究をポーランド済みの記事に変える
-- 例から既存の創業者、オペレータ、またはブランドの声を一致させる
-- 既に書かれた長文コピーの構造、ペース、および証拠を締め付ける
+- drafting blog posts, essays, launch posts, guides, tutorials, or newsletter issues
+- turning notes, transcripts, or research into polished articles
+- matching an existing founder, operator, or brand voice from examples
+- tightening structure, pacing, and evidence in already-written long-form copy
 
-## コアルール
+## Core Rules
 
-1. 具体的なもので先導する：アーティファクト、例、出力、逸話、数字、スクリーンショット、またはコード。
-2. 例の前ではなく、例の後に説明する。
-3. ソースの声が意図的に拡張的でない限り、文を厳密に保つ。
-4. 形容詞の代わりに証拠を使う。
-5. 事実、信頼性、または顧客の証拠を決して発明しない。
+1. Lead with the concrete thing: artifact, example, output, anecdote, number, screenshot, or code.
+2. Explain after the example, not before.
+3. Keep sentences tight unless the source voice is intentionally expansive.
+4. Use proof instead of adjectives.
+5. Never invent facts, credibility, or customer evidence.
 
-## 音声処理
+## Voice Handling
 
-ユーザーが特定の声を望む場合、最初に`brand-voice`を実行し、その`VOICE PROFILE`を再利用します。
-ユーザーが明示的に要求しない限り、ここで2番目のスタイル分析パスを複製しないでください。
+If the user wants a specific voice, run `brand-voice` first and reuse its `VOICE PROFILE`.
+Do not duplicate a second style-analysis pass here unless the user explicitly asks for one.
 
-音声参照が与えられない場合は、鋭いオペレータ声のデフォルト：具体的、感情的でない、有用。
+If no voice references are given, default to a sharp operator voice: concrete, unsentimental, useful.
 
-## 禁止パターン
+## Banned Patterns
 
-これらのいずれかを削除して書き直してください：
-- 「今日の急速に進化する環境では」
-- 「ゲームチェンジャー」、「最先端」、「革新的」
-- 「これが重要な理由は」独立したブリッジとして
-- 偽の脆弱性アーク
-- エンゲージメントを増やすためだけに追加された終了質問
-- 引数を移動しない伝記パディング
-- ポイントを遅延させる一般的なAIスロートクリアリング
+Delete and rewrite any of these:
+- "In today's rapidly evolving landscape"
+- "game-changer", "cutting-edge", "revolutionary"
+- "here's why this matters" as a standalone bridge
+- fake vulnerability arcs
+- a closing question added only to juice engagement
+- biography padding that does not move the argument
+- generic AI throat-clearing that delays the point
 
-## 作成プロセス
+## Writing Process
 
-1. オーディエンスと目的を明確にする。
-2. セクションあたり1つのジョブを持つハードアウトラインを構築する。
-3. セクションを証拠、アーティファクト、競合、または例で開始する。
-4. 次の文がスペースを獲得した場合のみ拡張する。
-5. テンプレート化された、過剰説明された、または自画賛化された音のことを削除する。
+1. Clarify the audience and purpose.
+2. Build a hard outline with one job per section.
+3. Start sections with proof, artifact, conflict, or example.
+4. Expand only where the next sentence earns space.
+5. Cut anything that sounds templated, overexplained, or self-congratulatory.
 
-## 構造ガイダンス
+## Structure Guidance
 
-### 技術ガイド
+### Technical Guides
 
-- 読者が得るもので開く
-- メジャーセクションでコード、コマンド、スクリーンショット、または具体的な出力を使用
-- ソフトリキャップではなく、実行可能なテイクアウトで終了
+- open with what the reader gets
+- use code, commands, screenshots, or concrete output in major sections
+- end with actionable takeaways, not a soft recap
 
-### エッセイ/意見
+### Essays / Opinion
 
-- 緊張、矛盾、または具体的な観察で開始
-- セクションあたり1つの引数スレッドを保つ
-- 意見は証拠に答える
+- start with tension, contradiction, or a specific observation
+- keep one argument thread per section
+- make opinions answer to evidence
 
-### ニュースレター
+### Newsletters
 
-- 最初の画面が実際の仕事をしている状態を保つ
-- 日記フィラーを前に読み込まない
-- セクションラベルを使用する場合のみ、スキャン可能性が向上する場合
+- keep the first screen doing real work
+- do not front-load diary filler
+- use section labels only when they improve scanability
 
-## 品質ゲート
+## Quality Gate
 
-配信前に：
-- 事実主張は提供されたソースによってサポートされている
-- 一般的なAI遷移は消えている
-- 声は提供された例または合意した`VOICE PROFILE`と一致
-- すべてのセクションが何か新しいを追加
-- フォーマットは目的のメディアと一致
+Before delivering:
+- factual claims are backed by provided sources
+- generic AI transitions are gone
+- the voice matches the supplied examples or the agreed `VOICE PROFILE`
+- every section adds something new
+- formatting matches the intended medium

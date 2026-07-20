@@ -1,24 +1,26 @@
 ---
 name: golang-patterns
-description: 堅牢で効率的かつ保守可能なGoアプリケーションを構築するための慣用的なGoパターン、ベストプラクティス、規約。
+description: Idiomatic Go patterns, best practices, and conventions for building robust, efficient, and maintainable Go applications.
+metadata:
+  origin: ECC
 ---
 
-# Go開発パターン
+# Go Development Patterns
 
-堅牢で効率的かつ保守可能なアプリケーションを構築するための慣用的なGoパターンとベストプラクティス。
+Idiomatic Go patterns and best practices for building robust, efficient, and maintainable applications.
 
-## いつ有効化するか
+## When to Activate
 
-- 新しいGoコードを書くとき
-- Goコードをレビューするとき
-- 既存のGoコードをリファクタリングするとき
-- Goパッケージ/モジュールを設計するとき
+- Writing new Go code
+- Reviewing Go code
+- Refactoring existing Go code
+- Designing Go packages/modules
 
-## 核となる原則
+## Core Principles
 
-### 1. シンプルさと明確さ
+### 1. Simplicity and Clarity
 
-Goは巧妙さよりもシンプルさを好みます。コードは明白で読みやすいものであるべきです。
+Go favors simplicity over cleverness. Code should be obvious and easy to read.
 
 ```go
 // Good: Clear and direct
@@ -42,9 +44,9 @@ func GetUser(id string) (*User, error) {
 }
 ```
 
-### 2. ゼロ値を有用にする
+### 2. Make the Zero Value Useful
 
-型を設計する際、そのゼロ値が初期化なしですぐに使用できるようにします。
+Design types so their zero value is immediately usable without initialization.
 
 ```go
 // Good: Zero value is useful
@@ -69,9 +71,9 @@ type BadCounter struct {
 }
 ```
 
-### 3. インターフェースを受け取り、構造体を返す
+### 3. Accept Interfaces, Return Structs
 
-関数はインターフェースパラメータを受け取り、具体的な型を返すべきです。
+Functions should accept interface parameters and return concrete types.
 
 ```go
 // Good: Accepts interface, returns concrete type
@@ -89,9 +91,9 @@ func ProcessData(r io.Reader) (io.Reader, error) {
 }
 ```
 
-## エラーハンドリングパターン
+## Error Handling Patterns
 
-### コンテキスト付きエラーラッピング
+### Error Wrapping with Context
 
 ```go
 // Good: Wrap errors with context
@@ -110,7 +112,7 @@ func LoadConfig(path string) (*Config, error) {
 }
 ```
 
-### カスタムエラー型
+### Custom Error Types
 
 ```go
 // Define domain-specific errors
@@ -131,7 +133,7 @@ var (
 )
 ```
 
-### errors.IsとErrors.Asを使用したエラーチェック
+### Error Checking with errors.Is and errors.As
 
 ```go
 func HandleError(err error) {
@@ -154,7 +156,7 @@ func HandleError(err error) {
 }
 ```
 
-### エラーを決して無視しない
+### Never Ignore Errors
 
 ```go
 // Bad: Ignoring error with blank identifier
@@ -170,9 +172,9 @@ if err != nil {
 _ = writer.Close() // Best-effort cleanup, error logged elsewhere
 ```
 
-## 並行処理パターン
+## Concurrency Patterns
 
-### ワーカープール
+### Worker Pool
 
 ```go
 func WorkerPool(jobs <-chan Job, results chan<- Result, numWorkers int) {
@@ -193,7 +195,7 @@ func WorkerPool(jobs <-chan Job, results chan<- Result, numWorkers int) {
 }
 ```
 
-### キャンセルとタイムアウト用のContext
+### Context for Cancellation and Timeouts
 
 ```go
 func FetchWithTimeout(ctx context.Context, url string) ([]byte, error) {
@@ -215,7 +217,7 @@ func FetchWithTimeout(ctx context.Context, url string) ([]byte, error) {
 }
 ```
 
-### グレースフルシャットダウン
+### Graceful Shutdown
 
 ```go
 func GracefulShutdown(server *http.Server) {
@@ -236,7 +238,7 @@ func GracefulShutdown(server *http.Server) {
 }
 ```
 
-### 協調的なGoroutine用のerrgroup
+### errgroup for Coordinated Goroutines
 
 ```go
 import "golang.org/x/sync/errgroup"
@@ -264,7 +266,7 @@ func FetchAll(ctx context.Context, urls []string) ([][]byte, error) {
 }
 ```
 
-### Goroutineリークの回避
+### Avoiding Goroutine Leaks
 
 ```go
 // Bad: Goroutine leak if context is cancelled
@@ -294,9 +296,9 @@ func safeFetch(ctx context.Context, url string) <-chan []byte {
 }
 ```
 
-## インターフェース設計
+## Interface Design
 
-### 小さく焦点を絞ったインターフェース
+### Small, Focused Interfaces
 
 ```go
 // Good: Single-method interfaces
@@ -320,7 +322,7 @@ type ReadWriteCloser interface {
 }
 ```
 
-### 使用する場所でインターフェースを定義
+### Define Interfaces Where They're Used
 
 ```go
 // In the consumer package, not the provider
@@ -340,7 +342,7 @@ type Service struct {
 // It doesn't need to know about this interface
 ```
 
-### 型アサーションを使用してオプション動作を実装
+### Optional Behavior with Type Assertions
 
 ```go
 type Flusher interface {
@@ -360,31 +362,31 @@ func WriteAndFlush(w io.Writer, data []byte) error {
 }
 ```
 
-## パッケージ構成
+## Package Organization
 
-### 標準プロジェクトレイアウト
+### Standard Project Layout
 
 ```text
 myproject/
 ├── cmd/
 │   └── myapp/
-│       └── main.go           # エントリポイント
+│       └── main.go           # Entry point
 ├── internal/
-│   ├── handler/              # HTTP ハンドラー
-│   ├── service/              # ビジネスロジック
-│   ├── repository/           # データアクセス
-│   └── config/               # 設定
+│   ├── handler/              # HTTP handlers
+│   ├── service/              # Business logic
+│   ├── repository/           # Data access
+│   └── config/               # Configuration
 ├── pkg/
-│   └── client/               # 公開 API クライアント
+│   └── client/               # Public API client
 ├── api/
-│   └── v1/                   # API 定義（proto、OpenAPI）
-├── testdata/                 # テストフィクスチャ
+│   └── v1/                   # API definitions (proto, OpenAPI)
+├── testdata/                 # Test fixtures
 ├── go.mod
 ├── go.sum
 └── Makefile
 ```
 
-### パッケージ命名
+### Package Naming
 
 ```go
 // Good: Short, lowercase, no underscores
@@ -398,7 +400,7 @@ package json_parser
 package userService // Redundant 'Service' suffix
 ```
 
-### パッケージレベルの状態を避ける
+### Avoid Package-Level State
 
 ```go
 // Bad: Global mutable state
@@ -418,9 +420,9 @@ func NewServer(db *sql.DB) *Server {
 }
 ```
 
-## 構造体設計
+## Struct Design
 
-### 関数型オプションパターン
+### Functional Options Pattern
 
 ```go
 type Server struct {
@@ -462,7 +464,7 @@ server := NewServer(":8080",
 )
 ```
 
-### コンポジション用の埋め込み
+### Embedding for Composition
 
 ```go
 type Logger struct {
@@ -490,9 +492,9 @@ s := NewServer(":8080")
 s.Log("Starting...") // Calls embedded Logger.Log
 ```
 
-## メモリとパフォーマンス
+## Memory and Performance
 
-### サイズがわかっている場合はスライスを事前割り当て
+### Preallocate Slices When Size is Known
 
 ```go
 // Bad: Grows slice multiple times
@@ -514,7 +516,7 @@ func processItems(items []Item) []Result {
 }
 ```
 
-### 頻繁な割り当て用のsync.Pool使用
+### Use sync.Pool for Frequent Allocations
 
 ```go
 var bufferPool = sync.Pool{
@@ -536,7 +538,7 @@ func ProcessRequest(data []byte) []byte {
 }
 ```
 
-### ループ内での文字列連結を避ける
+### Avoid String Concatenation in Loops
 
 ```go
 // Bad: Creates many string allocations
@@ -566,9 +568,9 @@ func join(parts []string) string {
 }
 ```
 
-## Goツール統合
+## Go Tooling Integration
 
-### 基本コマンド
+### Essential Commands
 
 ```bash
 # Build and run
@@ -594,7 +596,7 @@ gofmt -w .
 goimports -w .
 ```
 
-### 推奨リンター設定（.golangci.yml）
+### Recommended Linter Configuration (.golangci.yml)
 
 ```yaml
 linters:
@@ -622,20 +624,20 @@ issues:
   exclude-use-default: false
 ```
 
-## クイックリファレンス：Goイディオム
+## Quick Reference: Go Idioms
 
-| イディオム | 説明 |
+| Idiom | Description |
 |-------|-------------|
-| インターフェースを受け取り、構造体を返す | 関数はインターフェースパラメータを受け取り、具体的な型を返す |
-| エラーは値である | エラーを例外ではなく一級値として扱う |
-| メモリ共有で通信しない | goroutine間の調整にチャネルを使用 |
-| ゼロ値を有用にする | 型は明示的な初期化なしで機能すべき |
-| 少しのコピーは少しの依存よりも良い | 不要な外部依存を避ける |
-| 明確さは巧妙さよりも良い | 巧妙さよりも可読性を優先 |
-| gofmtは誰の好みでもないが皆の友達 | 常にgofmt/goimportsでフォーマット |
-| 早期リターン | エラーを最初に処理し、ハッピーパスのインデントを浅く保つ |
+| Accept interfaces, return structs | Functions accept interface params, return concrete types |
+| Errors are values | Treat errors as first-class values, not exceptions |
+| Don't communicate by sharing memory | Use channels for coordination between goroutines |
+| Make the zero value useful | Types should work without explicit initialization |
+| A little copying is better than a little dependency | Avoid unnecessary external dependencies |
+| Clear is better than clever | Prioritize readability over cleverness |
+| gofmt is no one's favorite but everyone's friend | Always format with gofmt/goimports |
+| Return early | Handle errors first, keep happy path unindented |
 
-## 避けるべきアンチパターン
+## Anti-Patterns to Avoid
 
 ```go
 // Bad: Naked returns in long functions
@@ -671,4 +673,4 @@ func (c *Counter) Increment() { c.n++ }        // Pointer receiver
 // Pick one style and be consistent
 ```
 
-**覚えておいてください**: Goコードは最良の意味で退屈であるべきです - 予測可能で、一貫性があり、理解しやすい。迷ったときは、シンプルに保ってください。
+**Remember**: Go code should be boring in the best way - predictable, consistent, and easy to understand. When in doubt, keep it simple.

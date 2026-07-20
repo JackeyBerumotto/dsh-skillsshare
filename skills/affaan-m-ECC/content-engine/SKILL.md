@@ -1,131 +1,132 @@
 ---
 name: content-engine
-description: X、LinkedIn、TikTok、YouTube、ニュースレター、マルチプラットフォームキャンペーンのプラットフォームネイティブなコンテンツシステムを作成します。ソーシャル投稿、スレッド、スクリプト、コンテンツカレンダー、または1つのソースアセットを複数プラットフォームにきれいに適応したい場合に使用します。
-origin: ECC
+description: Create platform-native content systems for X, LinkedIn, TikTok, YouTube, newsletters, and repurposed multi-platform campaigns. Use when the user wants social posts, threads, scripts, content calendars, or one source asset adapted cleanly across platforms.
+metadata:
+  origin: ECC
 ---
 
-# コンテンツエンジン
+# Content Engine
 
-著者の本当の声をプラットフォームの型に押し込めることなく、プラットフォームネイティブなコンテンツを構築します。
+Build platform-native content without flattening the author's real voice into platform slop.
 
-## 起動条件
+## When to Activate
 
-- X投稿やスレッドを書く場合
-- LinkedIn投稿やローンチアップデートのドラフトを作成する場合
-- 短編動画やYouTube解説のスクリプトを作成する場合
-- 記事、ポッドキャスト、デモ、ドキュメント、内部ノートを公開コンテンツに転用する場合
-- 製品、インサイト、またはナラティブを中心にローンチシーケンスや継続的なコンテンツシステムを構築する場合
+- writing X posts or threads
+- drafting LinkedIn posts or launch updates
+- scripting short-form video or YouTube explainers
+- repurposing articles, podcasts, demos, docs, or internal notes into public content
+- building a launch sequence or ongoing content system around a product, insight, or narrative
 
-## 絶対条件
+## Non-Negotiables
 
-1. 汎用的な投稿フォーミュラではなく、ソース素材から始める。
-2. ペルソナではなく、プラットフォームに合わせてフォーマットを適応する。
-3. 1つの投稿は1つの実際の主張を持つべき。
-4. 具体性は形容詞に勝る。
-5. ユーザーが明示的に求めない限り、エンゲージメントベイトは使用しない。
+1. Start from source material, not generic post formulas.
+2. Adapt the format for the platform, not the persona.
+3. One post should carry one actual claim.
+4. Specificity beats adjectives.
+5. No engagement bait unless the user explicitly asks for it.
 
-## ソースファーストワークフロー
+## Source-First Workflow
 
-ドラフト前に、ソースセットを特定します：
-- 公開記事
-- ノートや内部メモ
-- 製品デモ
-- ドキュメントやチェンジログ
-- トランスクリプト
-- スクリーンショット
-- 同じ著者の過去の投稿
+Before drafting, identify the source set:
+- published articles
+- notes or internal memos
+- product demos
+- docs or changelogs
+- transcripts
+- screenshots
+- prior posts from the same author
 
-ユーザーが特定の声を希望する場合、書く前に実際の例から音声プロファイルを構築します。
-声の一貫性が複数の出力にわたって重要な場合は、標準的なワークフローとして`brand-voice`を使用します。
+If the user wants a specific voice, build a voice profile from real examples before writing.
+Use `brand-voice` as the canonical workflow when voice consistency matters across more than one output.
 
-## 声の扱い
+## Voice Handling
 
-`brand-voice`は標準的な声レイヤーです。
+`brand-voice` is the canonical voice layer.
 
-以下の場合は最初に実行します：
+Run it first when:
 
-- 複数のダウンストリーム出力がある場合
-- ユーザーが文体を明示的に気にする場合
-- コンテンツがローンチ、アウトリーチ、または評判に敏感な場合
+- there are multiple downstream outputs
+- the user explicitly cares about writing style
+- the content is launch, outreach, or reputation-sensitive
 
-ここで2番目の声モデルを再構築する代わりに、生成された`VOICE PROFILE`を再利用します。
-ユーザーがAffaan / ECCの声を具体的に望む場合も、`brand-voice`を信頼できる情報源として扱い、利用可能な最良のライブまたはソース由来の素材を提供します。
+Reuse the resulting `VOICE PROFILE` here instead of rebuilding a second voice model.
+If the user wants Affaan / ECC voice specifically, still treat `brand-voice` as the source of truth and feed it the best live or source-derived material available.
 
-## 禁止事項
+## Hard Bans
 
-以下のいずれかを削除して書き直します：
-- 「急速に進化する今日のランドスケープにおいて」
-- 「ゲームチェンジャー」「革命的な」「最先端の」
-- 「なぜこれが重要かを説明します」（すぐに具体的な内容が続く場合を除く）
-- 返信を集めるためだけのLinkedInスタイルの質問で終わること
-- LinkedIn上の強制的なカジュアルさ
-- ソース素材に存在しなかった偽のエンゲージメントパディング
+Delete and rewrite any of these:
+- "In today's rapidly evolving landscape"
+- "game-changer", "revolutionary", "cutting-edge"
+- "here's why this matters" unless it is followed immediately by something concrete
+- ending with a LinkedIn-style question just to farm replies
+- forced casualness on LinkedIn
+- fake engagement padding that was not present in the source material
 
-## プラットフォーム適応ルール
+## Platform Adaptation Rules
 
 ### X
 
-- 最も強い主張、成果物、または緊張感で始める
-- ソースの声が圧縮されている場合は圧縮を保つ
-- スレッドを書く場合、各投稿は議論を進めなければならない
-- 読者が必要としないコンテキストでパディングしない
+- open with the strongest claim, artifact, or tension
+- keep the compression if the source voice is compressed
+- if writing a thread, each post must advance the argument
+- do not pad with context the audience does not need
 
 ### LinkedIn
 
-- ニッチの外の人々が理解できる程度にのみ展開する
-- ソース素材が本当に内省的でない限り、偽のレッスン投稿にしない
-- 企業的なインスピレーションのリズムはなし
-- 称賛の積み上げなし、「旅」フィラーなし
+- expand only enough for people outside the immediate niche to follow
+- do not turn it into a fake lesson post unless the source material actually is reflective
+- no corporate inspiration cadence
+- no praise-stacking, no "journey" filler
 
-### 短編動画
+### Short Video
 
-- 視覚シーケンスと証拠点の周りでスクリプトを書く
-- 最初の数秒は結果、問題、またはパンチを見せるべき
-- 画面上より紙上で良く聞こえるナレーションを書かない
+- script around the visual sequence and proof points
+- first seconds should show the result, problem, or punch
+- do not write narration that sounds better on paper than on screen
 
 ### YouTube
 
-- 結果または緊張感を早めに見せる
-- フィラーセクションではなく、議論または進行で整理する
-- 明確さに役立つ場合のみチャプタリングを使用する
+- show the result or tension early
+- organize by argument or progression, not filler sections
+- use chaptering only when it helps clarity
 
-### ニュースレター
+### Newsletter
 
-- 要点、衝突、または成果物で始める
-- 最初の段落で準備を整えることに時間を費やさない
-- すべてのセクションで何か新しいことを追加する必要がある
+- open with the point, conflict, or artifact
+- do not spend the first paragraph warming up
+- every section needs to add something new
 
-## 転用フロー
+## Repurposing Flow
 
-1. アンカーアセットを選択する。
-2. 3〜7の原子的な主張またはシーンを抽出する。
-3. 鋭さ、新規性、証拠でランク付けする。
-4. 各出力に1つの強いアイデアを割り当てる。
-5. 各プラットフォームの構造に適応する。
-6. プラットフォーム的なフィラーを除去する。
-7. 品質ゲートを実行する。
+1. Pick the anchor asset.
+2. Extract 3 to 7 atomic claims or scenes.
+3. Rank them by sharpness, novelty, and proof.
+4. Assign one strong idea per output.
+5. Adapt structure for each platform.
+6. Strip platform-shaped filler.
+7. Run the quality gate.
 
-## 成果物
+## Deliverables
 
-キャンペーンを求められた場合、以下を返します：
-- 声のマッチングが重要な場合は短い声プロファイル
-- コアアングル
-- プラットフォームネイティブなドラフト
-- 実行に役立つ場合のみ投稿順序
-- 公開前に埋める必要があるギャップ
+When asked for a campaign, return:
+- a short voice profile if voice matching matters
+- the core angle
+- platform-native drafts
+- posting order only if it helps execution
+- gaps that must be filled before publishing
 
-## 品質ゲート
+## Quality Gate
 
-提供前に：
-- すべてのドラフトはプラットフォームのステレオタイプではなく、意図した著者のように聞こえる
-- すべてのドラフトは実際の主張、証拠点、または具体的な観察を含む
-- 汎用的なハイプ言語が残っていない
-- 偽のエンゲージメントベイトが残っていない
-- 要求されない限りプラットフォーム間でコピーが重複していない
-- すべてのCTAは稼がれておりユーザーが承認している
+Before delivering:
+- every draft sounds like the intended author, not the platform stereotype
+- every draft contains a real claim, proof point, or concrete observation
+- no generic hype language remains
+- no fake engagement bait remains
+- no duplicated copy across platforms unless requested
+- any CTA is earned and user-approved
 
-## 関連スキル
+## Related Skills
 
-- `brand-voice`：ソース由来の声プロファイル
-- `crosspost`：プラットフォーム固有の配布
-- `x-api`：最近の投稿のソーシングと承認済みXの出力の公開
+- `brand-voice` for source-derived voice profiles
+- `crosspost` for platform-specific distribution
+- `x-api` for sourcing recent posts and publishing approved X output

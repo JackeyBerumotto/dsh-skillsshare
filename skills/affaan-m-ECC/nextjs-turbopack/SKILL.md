@@ -1,31 +1,32 @@
 ---
 name: nextjs-turbopack
-description: Next.js 16+とTurbopack — インクリメンタルバンドリング、FSキャッシング、開発速度、Turbopackとwebpackをいつどちらかどうかを選ぶか。
-origin: ECC
+description: Next.js 16+ and Turbopack — incremental bundling, FS caching, dev speed, and when to use Turbopack vs webpack.
+metadata:
+  origin: ECC
 ---
 
-# Next.jsとTurbopack
+# Next.js and Turbopack
 
-Next.js 16+はローカル開発にデフォルトでTurbopackを使用する。TurbopackはRustで書かれたインクリメンタルバンドラーで、開発起動時間とホットアップデートを大幅に高速化する。
+Next.js 16+ uses Turbopack by default for local development: an incremental bundler written in Rust that significantly speeds up dev startup and hot updates.
 
-## 使用するタイミング
+## When to Use
 
-- **Turbopack（デフォルト開発）**: 日々の開発に使用する。特に大規模アプリでコールドスタートとHMRが速い。
-- **Webpack（レガシー開発）**: Turbopackのバグに遭遇した場合、またはwebpackのみのプラグインに依存している場合のみ使用する。`--webpack`（またはNext.jsのバージョンによっては`--no-turbopack`）で無効化する。リリースのドキュメントを確認すること。
-- **プロダクション**: プロダクションビルドの動作（`next build`）はNext.jsのバージョンによってTurbopackまたはwebpackを使用することがある。使用中のバージョンの公式Next.jsドキュメントを確認すること。
+- **Turbopack (default dev)**: Use for day-to-day development. Faster cold start and HMR, especially in large apps.
+- **Webpack (legacy dev)**: Use only if you hit a Turbopack bug or rely on a webpack-only plugin in dev. Disable with `--webpack` (or `--no-turbopack` depending on your Next.js version; check the docs for your release).
+- **Production**: Production build behavior (`next build`) may use Turbopack or webpack depending on Next.js version; check the official Next.js docs for your version.
 
-使用するケース: Next.js 16+アプリの開発またはデバッグ、開発起動やHMRの遅延を診断するとき、またはプロダクションバンドルを最適化するとき。
+Use when: developing or debugging Next.js 16+ apps, diagnosing slow dev startup or HMR, or optimizing production bundles.
 
-## 仕組み
+## How It Works
 
-- **Turbopack**: Next.js開発用インクリメンタルバンドラー。ファイルシステムキャッシングを使用するため再起動が大幅に速くなる（大規模プロジェクトで5〜14倍など）。
-- **開発のデフォルト**: Next.js 16から、`next dev`は無効化しない限りTurbopackで実行される。
-- **ファイルシステムキャッシング**: 再起動は前回の作業を再利用する。キャッシュは通常`.next`以下にある。基本的な使用には追加設定は不要。
-- **バンドルアナライザー（Next.js 16.1+）**: 実験的なバンドルアナライザーで出力を検査し重い依存関係を見つける。設定または実験的フラグで有効化する（使用中のバージョンのNext.jsドキュメントを参照）。
+- **Turbopack**: Incremental bundler for Next.js dev. Uses file-system caching so restarts are much faster (e.g. 5–14x on large projects).
+- **Default in dev**: From Next.js 16, `next dev` runs with Turbopack unless disabled.
+- **File-system caching**: Restarts reuse previous work; cache is typically under `.next`; no extra config needed for basic use.
+- **Bundle Analyzer (Next.js 16.1+)**: Experimental Bundle Analyzer to inspect output and find heavy dependencies; enable via config or experimental flag (see Next.js docs for your version).
 
-## 例
+## Examples
 
-### コマンド
+### Commands
 
 ```bash
 next dev
@@ -33,12 +34,25 @@ next build
 next start
 ```
 
-### 使用方法
+### Usage
 
-ローカル開発にはTurbopackで`next dev`を実行する。バンドルアナライザー（Next.jsドキュメント参照）を使用してコード分割を最適化し、大きな依存関係を削減する。可能な限りApp RouterとサーバーコンポーネントをBestPracticeとして使用する。
+Run `next dev` for local development with Turbopack. Use the Bundle Analyzer (see Next.js docs) to optimize code-splitting and trim large dependencies. Prefer App Router and server components where possible.
 
-## ベストプラクティス
+## Middleware File Naming
 
-- 安定したTurbopackとキャッシングの動作のために最新のNext.js 16.xを使い続ける。
-- 開発が遅い場合は、Turbopack（デフォルト）を使用していることと、キャッシュが不必要にクリアされていないことを確認する。
-- プロダクションバンドルサイズの問題には、使用中のバージョンの公式Next.jsバンドル解析ツールを使用する。
+Next.js 16 introduced `proxy.ts` as the middleware filename, replacing the older `middleware.ts` convention:
+
+- **Next.js 16+**: use `proxy.ts` at the project root
+- **Pre-Next.js 16**: use `middleware.ts` at the project root
+
+The filename change is tied to the **Next.js version**, not to which bundler (Turbopack or webpack) is in use. Always check the official docs for the version you are reviewing.
+
+**Do not flag `proxy.ts` as a misnamed or missing middleware file in Next.js 16 projects.** The file is correct and intentional. Suggesting a rename to `middleware.ts` will break middleware execution.
+
+Reference: [Next.js proxy docs](https://nextjs.org/docs/app/getting-started/proxy)
+
+## Best Practices
+
+- Stay on a recent Next.js 16.x for stable Turbopack and caching behavior.
+- If dev is slow, ensure you're on Turbopack (default) and that the cache isn't being cleared unnecessarily.
+- For production bundle size issues, use the official Next.js bundle analysis tooling for your version.
