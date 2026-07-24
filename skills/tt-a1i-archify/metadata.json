@@ -1,0 +1,11 @@
+{
+  "name": "tt-a1i-archify",
+  "display_name": "Archify — 架构图生成器",
+  "description": "创建精美、可验证的架构图、工作流、时序图、数据流图和生命周期图——自包含 HTML，支持动效和清晰导出。基于 Cocoon-AI/architecture-diagram-generator (MIT, v1.0) 改进而来。",
+  "github_url": "https://github.com/tt-a1i/archify",
+  "stars": 7178,
+  "license": "MIT",
+  "author": "tt-a1i",
+  "skill_count": 1,
+  "last_updated": "2026-07-24T00:00:00.000000"
+}
