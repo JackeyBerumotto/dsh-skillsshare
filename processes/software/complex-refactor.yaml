@@ -32,6 +32,7 @@ phases:
           输出到 docs/constitution.md。
         executor: atomcode
         expert_name: architect
+        skills: []
         expected_artifacts:
           - name: constitution-doc
             type: file
@@ -62,6 +63,7 @@ phases:
           输出到 docs/specification.md。
         executor: atomcode
         expert_name: architect
+        skills: []
         expected_artifacts:
           - name: spec-doc
             type: file
@@ -88,6 +90,7 @@ phases:
           逐条记录决策与理由，输出到 docs/clarifications.md。
         executor: atomcode
         expert_name: architect
+        skills: []
         expected_artifacts:
           - name: clarifications-doc
             type: file
@@ -115,6 +118,7 @@ phases:
           输出到 docs/implementation-plan.md。
         executor: atomcode
         expert_name: tech-lead
+        skills: []
         expected_artifacts:
           - name: plan-doc
             type: file
@@ -141,6 +145,7 @@ phases:
           通过标准。输出到 docs/checklist.md。
         executor: atomcode
         expert_name: tech-lead
+        skills: []
         expected_artifacts:
           - name: checklist-doc
             type: file
@@ -168,6 +173,7 @@ phases:
           输出到 docs/task-cards.md。
         executor: atomcode
         expert_name: tech-lead
+        skills: []
         expected_artifacts:
           - name: task-cards
             type: file
@@ -196,6 +202,7 @@ phases:
           输出到 docs/architecture-analysis.md。
         executor: atomcode
         expert_name: architect
+        skills: []
         expected_artifacts:
           - name: analysis-doc
             type: file
@@ -248,6 +255,7 @@ phases:
           3. 编写项目回顾总结到 docs/retrospective.md
         executor: atomcode
         expert_name: tech-lead
+        skills: []
         expected_artifacts:
           - name: delivery-state
             type: file
