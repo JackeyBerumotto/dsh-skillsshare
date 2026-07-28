@@ -62,7 +62,16 @@ phases:
         max_rework: 2
       - id: s03
         name: TDD 开发
-        step_template: tdd-cycle
+        step_template: []
+        prompt: |
+          按照开发计划，以 TDD 方式实现一个任务：先写失败测试，再写最小实现，再重构。
+          每完成一个任务，更新任务状态并提交一次代码（或生成 diff）。
+          在 .ntd/delivery-state.md 中记录当前已完成功能。
+        expert: senior-dev
+        skills: [4p12s-tdd]
+        model: claude-sonnet-5
+        acceptance_criteria: |
+          对应任务有测试覆盖，且测试通过。
         expected_artifacts:
           - name: test-report
             type: file
@@ -95,7 +104,16 @@ phases:
         max_rework: 1
       - id: s05
         name: 验证
-        step_template: run-tests
+        step_template: []
+        prompt: |
+          运行项目级测试与 lint（如 cargo test / npx tsc --noEmit / npm run build）。
+          修复失败项，直到零错误零告警。
+          将测试报告摘要写入 .ntd/test-report.md。
+        expert: senior-dev
+        skills: [4p12s-test]
+        model: claude-sonnet-5
+        acceptance_criteria: |
+          测试与 lint 全部通过。
         expected_artifacts:
           - name: verify-report
             type: file

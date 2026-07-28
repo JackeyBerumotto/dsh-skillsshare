@@ -24,7 +24,16 @@ phases:
     links:
       - id: req-01
         name: 生成 PRD
-        step_template: write-prd
+        step_template: []
+        prompt: |
+          请根据用户输入的需求，编写一份完整的产品需求文档（PRD）。
+          PRD 必须包含：背景、目标、非目标、功能清单、验收标准、接口/边界说明。
+          将结果写入 docs/requirements/{process_name}-PRD.md。
+        expert: product-manager
+        skills: [4p12s-prd]
+        model: claude-sonnet-5
+        acceptance_criteria: |
+          docs/requirements/{process_name}-PRD.md 存在且包含「验收标准」章节。
         expected_artifacts:
           - name: PRD
             type: file
@@ -38,7 +47,16 @@ phases:
         max_rework: 3
       - id: req-01b
         name: 拆解用户故事
-        step_template: write-stories
+        step_template: []
+        prompt: |
+          阅读 docs/requirements/{process_name}-PRD.md，把功能清单拆分为可交付的用户故事列表。
+          每个故事需包含：标题、As a / I want / So that、验收条件（Given/When/Then）。
+          将结果追加或更新到 docs/requirements/{process_name}-stories.md。
+        expert: product-manager
+        skills: [4p12s-stories]
+        model: claude-sonnet-5
+        acceptance_criteria: |
+          docs/requirements/{process_name}-stories.md 存在且每个用户故事都有验收条件。
         expected_artifacts:
           - name: user-stories
             type: file
@@ -52,7 +70,13 @@ phases:
         max_rework: 3
       - id: req-02
         name: 人工确认 PRD
-        step_template: human-confirm
+        step_template: []
+        prompt: |
+          请人工确认上一阶段产物是否满足验收标准。
+          确认通过后，流程继续；不通过则回退到上游环节。
+        expert: product-manager
+        acceptance_criteria: |
+          人工审批通过。
         review_type: human
         gates:
           - name: 产品负责人审批
@@ -70,7 +94,16 @@ phases:
     links:
       - id: des-01
         name: 技术设计
-        step_template: tech-design
+        step_template: []
+        prompt: |
+          基于 PRD 和用户故事，输出技术设计文档。
+          包含：模块划分、数据模型、API 草图、关键技术决策、风险与回退方案。
+          将结果写入 docs/design/{process_name}-design.md。
+        expert: architect
+        skills: [4p12s-design]
+        model: claude-sonnet-5
+        acceptance_criteria: |
+          docs/design/{process_name}-design.md 存在，且每个功能点都能映射到设计章节。
         expected_artifacts:
           - name: design-doc
             type: file
@@ -83,7 +116,13 @@ phases:
         on_gate_fail: goto:des-01
       - id: des-02
         name: 人工确认设计
-        step_template: human-confirm
+        step_template: []
+        prompt: |
+          请人工确认上一阶段产物是否满足验收标准。
+          确认通过后，流程继续；不通过则回退到上游环节。
+        expert: product-manager
+        acceptance_criteria: |
+          人工审批通过。
         review_type: human
         gates:
           - name: 架构师审批
@@ -101,7 +140,16 @@ phases:
     links:
       - id: imp-01
         name: 制定开发计划
-        step_template: plan-tasks
+        step_template: []
+        prompt: |
+          根据技术设计，制定可执行的开发任务清单。
+          每个任务需包含：任务名、预估工时、依赖关系、验收标准。
+          将结果写入 docs/plan/{process_name}-plan.md。
+        expert: tech-lead
+        skills: [4p12s-plan]
+        model: claude-sonnet-5
+        acceptance_criteria: |
+          docs/plan/{process_name}-plan.md 存在，任务可覆盖设计中的全部模块。
         expected_artifacts:
           - name: plan-doc
             type: file
@@ -114,7 +162,16 @@ phases:
         on_gate_fail: goto:imp-01
       - id: imp-02
         name: TDD 开发循环
-        step_template: tdd-cycle
+        step_template: []
+        prompt: |
+          按照开发计划，以 TDD 方式实现一个任务：先写失败测试，再写最小实现，再重构。
+          每完成一个任务，更新任务状态并提交一次代码（或生成 diff）。
+          在 .ntd/delivery-state.md 中记录当前已完成功能。
+        expert: senior-dev
+        skills: [4p12s-tdd]
+        model: claude-sonnet-5
+        acceptance_criteria: |
+          对应任务有测试覆盖，且测试通过。
         expected_artifacts:
           - name: delivery-state
             type: file
@@ -127,7 +184,16 @@ phases:
         on_gate_fail: goto:imp-02
       - id: imp-03
         name: 测试与检查
-        step_template: run-tests
+        step_template: []
+        prompt: |
+          运行项目级测试与 lint（如 cargo test / npx tsc --noEmit / npm run build）。
+          修复失败项，直到零错误零告警。
+          将测试报告摘要写入 .ntd/test-report.md。
+        expert: senior-dev
+        skills: [4p12s-test]
+        model: claude-sonnet-5
+        acceptance_criteria: |
+          测试与 lint 全部通过。
         expected_artifacts:
           - name: test-report
             type: file
@@ -149,7 +215,15 @@ phases:
     links:
       - id: del-01
         name: 提交与交付
-        step_template: commit-release
+        step_template: []
+        prompt: |
+          整理变更日志、补充文档、准备交付说明。
+          提交代码（或生成最终 patch），并在 .ntd/delivery-state.md 中标记交付完成。
+        expert: tech-lead
+        skills: [4p12s-release]
+        model: claude-sonnet-5
+        acceptance_criteria: |
+          .ntd/delivery-state.md 存在且状态为完成，变更可审计。
         expected_artifacts:
           - name: delivery-state
             type: file

@@ -22,7 +22,16 @@ phases:
     links:
       - id: req-01
         name: 补写 PRD
-        step_template: write-prd
+        step_template: []
+        prompt: |
+          请根据用户输入的需求，编写一份完整的产品需求文档（PRD）。
+          PRD 必须包含：背景、目标、非目标、功能清单、验收标准、接口/边界说明。
+          将结果写入 docs/requirements/{process_name}-PRD.md。
+        expert: product-manager
+        skills: [4p12s-prd]
+        model: claude-sonnet-5
+        acceptance_criteria: |
+          docs/requirements/{process_name}-PRD.md 存在且包含「验收标准」章节。
         expected_artifacts:
           - name: PRD
             type: file
@@ -63,7 +72,16 @@ phases:
         max_rework: 2
       - id: imp-02
         name: 运行测试
-        step_template: run-tests
+        step_template: []
+        prompt: |
+          运行项目级测试与 lint（如 cargo test / npx tsc --noEmit / npm run build）。
+          修复失败项，直到零错误零告警。
+          将测试报告摘要写入 .ntd/test-report.md。
+        expert: senior-dev
+        skills: [4p12s-test]
+        model: claude-sonnet-5
+        acceptance_criteria: |
+          测试与 lint 全部通过。
         expected_artifacts:
           - name: test-report
             type: file
@@ -84,7 +102,15 @@ phases:
     links:
       - id: del-01
         name: 提交
-        step_template: commit-release
+        step_template: []
+        prompt: |
+          整理变更日志、补充文档、准备交付说明。
+          提交代码（或生成最终 patch），并在 .ntd/delivery-state.md 中标记交付完成。
+        expert: tech-lead
+        skills: [4p12s-release]
+        model: claude-sonnet-5
+        acceptance_criteria: |
+          .ntd/delivery-state.md 存在且状态为完成，变更可审计。
         expected_artifacts:
           - name: delivery-state
             type: file
