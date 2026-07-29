@@ -44,7 +44,7 @@ phases:
           - name: 人工确认宪章
             type: human_approval
         on_success: next
-        on_gate_fail: goto:c01
+        on_gate_fail: c01
         max_rework: 2
 
   - id: specify
@@ -73,7 +73,7 @@ phases:
             type: artifact_present
             artifact: spec-doc
         on_success: next
-        on_gate_fail: goto:sp01
+        on_gate_fail: sp01
         max_rework: 3
 
   - id: clarify
@@ -100,7 +100,7 @@ phases:
             type: artifact_present
             artifact: clarifications-doc
         on_success: next
-        on_gate_fail: goto:cl01
+        on_gate_fail: cl01
         max_rework: 2
 
   - id: plan
@@ -128,7 +128,7 @@ phases:
             type: artifact_present
             artifact: plan-doc
         on_success: next
-        on_gate_fail: goto:pl01
+        on_gate_fail: pl01
         max_rework: 2
 
   - id: checklist
@@ -155,7 +155,7 @@ phases:
             type: artifact_present
             artifact: checklist-doc
         on_success: next
-        on_gate_fail: goto:ch01
+        on_gate_fail: ch01
         max_rework: 2
 
   - id: tasks
@@ -183,7 +183,7 @@ phases:
             type: artifact_present
             artifact: task-cards
         on_success: next
-        on_gate_fail: goto:ts01
+        on_gate_fail: ts01
         max_rework: 2
 
   - id: analyze
@@ -214,7 +214,7 @@ phases:
           - name: 人工确认分析
             type: human_approval
         on_success: next
-        on_gate_fail: goto:an01
+        on_gate_fail: an01
         max_rework: 2
 
   - id: implement
@@ -245,7 +245,7 @@ phases:
             type: artifact_present
             artifact: test-report
         on_success: next
-        on_gate_fail: goto:im01
+        on_gate_fail: im01
         max_rework: 5
 
   - id: converge
@@ -277,5 +277,5 @@ phases:
             type: artifact_present
             artifact: delivery-state
         on_success: end
-        on_gate_fail: goto:cv01
+        on_gate_fail: cv01
         max_rework: 3

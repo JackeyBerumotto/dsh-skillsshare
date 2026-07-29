@@ -41,7 +41,7 @@ phases:
             type: artifact_present
             artifact: PRD
         on_success: next
-        on_gate_fail: goto:req-01
+        on_gate_fail: req-01
         max_rework: 2
 
   - id: implement
@@ -68,7 +68,7 @@ phases:
             type: artifact_present
             artifact: delivery-state
         on_success: next
-        on_gate_fail: goto:imp-01
+        on_gate_fail: imp-01
         max_rework: 2
       - id: imp-02
         name: 运行测试
@@ -91,7 +91,7 @@ phases:
             type: script_check
             script: run_tests.sh
         on_success: next
-        on_gate_fail: goto:imp-01
+        on_gate_fail: imp-01
 
   - id: delivery
     name: 交付
@@ -120,4 +120,4 @@ phases:
             type: artifact_present
             artifact: delivery-state
         on_success: end
-        on_gate_fail: goto:del-01
+        on_gate_fail: del-01

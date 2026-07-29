@@ -40,7 +40,7 @@ phases:
             type: artifact_present
             artifact: brainstorm
         on_success: next
-        on_gate_fail: goto:s01
+        on_gate_fail: s01
         max_rework: 2
       - id: s02
         name: 编写计划
@@ -58,7 +58,7 @@ phases:
             type: artifact_present
             artifact: plan
         on_success: next
-        on_gate_fail: goto:s02
+        on_gate_fail: s02
         max_rework: 2
       - id: s03
         name: TDD 开发
@@ -81,7 +81,7 @@ phases:
             type: artifact_present
             artifact: test-report
         on_success: next
-        on_gate_fail: goto:s03
+        on_gate_fail: s03
         max_rework: 2
       - id: s04
         name: 代码审查
@@ -100,7 +100,7 @@ phases:
             type: artifact_present
             artifact: code-review
         on_success: next
-        on_gate_fail: goto:s04
+        on_gate_fail: s04
         max_rework: 1
       - id: s05
         name: 验证
@@ -123,7 +123,7 @@ phases:
             type: artifact_present
             artifact: verify-report
         on_success: next
-        on_gate_fail: goto:s03
+        on_gate_fail: s03
         max_rework: 2
       - id: s06
         name: 回顾总结
@@ -142,5 +142,5 @@ phases:
             type: artifact_present
             artifact: reflect
         on_success: end
-        on_gate_fail: goto:s06
+        on_gate_fail: s06
         max_rework: 1
