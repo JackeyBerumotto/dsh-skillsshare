@@ -1,5 +1,6 @@
 process:
   name: 4p12s-delivery
+  guid: 1f23c7f0-5d42-42d3-a259-eb35b9e27575
   display_name: 标准需求交付工艺（4P12S）
   description: |
     4 阶 12 步裁剪版：需求 → 故事 → 设计 → 计划 → Tasking → TDD → 测试 → 提交。

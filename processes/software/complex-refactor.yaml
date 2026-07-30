@@ -1,5 +1,6 @@
 process:
   name: complex-refactor
+  guid: 8b986558-c5a4-4477-a0da-8a5b8f444194
   display_name: 重构工艺
   description: |
     适合大型重构、强治理、规约驱动的项目：

@@ -1,5 +1,6 @@
 process:
   name: lightweight-task
+  guid: 0b701417-8a5e-417f-97c0-1a8f74497e48
   display_name: 轻量任务工艺
   description: |
     6 步轻量工艺：brainstorm → plan → TDD → code-review → verify → reflect。

@@ -1,5 +1,6 @@
 process:
   name: oral-requirement
+  guid: 1d04689c-971d-4fba-ae0a-b33d0d216d20
   display_name: 口头需求工艺
   description: |
     适合口头/IM 提出的临时需求：先补 PRD，再进入轻量实现。
