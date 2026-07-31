@@ -78,7 +78,6 @@ phases:
         expert: product-manager
         acceptance_criteria: |
           人工审批通过。
-        review_type: human
         gates:
           - name: 产品负责人审批
             type: human_approval
@@ -124,7 +123,6 @@ phases:
         expert: product-manager
         acceptance_criteria: |
           人工审批通过。
-        review_type: human
         gates:
           - name: 架构师审批
             type: human_approval
