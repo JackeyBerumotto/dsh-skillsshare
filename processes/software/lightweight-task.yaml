@@ -38,8 +38,8 @@ phases:
             path: .ntd/brainstorm.md
         gates:
           - name: 方案存在
-            type: artifact_present
-            artifact: brainstorm
+            type: ai_criteria_review
+            min_score: 60
         on_success: next
         on_gate_fail: s01
         max_rework: 2
@@ -56,8 +56,8 @@ phases:
             path: .ntd/plan.md
         gates:
           - name: 计划存在
-            type: artifact_present
-            artifact: plan
+            type: ai_criteria_review
+            min_score: 60
         on_success: next
         on_gate_fail: s02
         max_rework: 2
@@ -79,8 +79,8 @@ phases:
             path: .ntd/test-report.md
         gates:
           - name: 测试通过
-            type: artifact_present
-            artifact: test-report
+            type: ai_criteria_review
+            min_score: 60
         on_success: next
         on_gate_fail: s03
         max_rework: 2
@@ -98,8 +98,8 @@ phases:
             path: .ntd/code-review.md
         gates:
           - name: 审查报告存在
-            type: artifact_present
-            artifact: code-review
+            type: ai_criteria_review
+            min_score: 60
         on_success: next
         on_gate_fail: s04
         max_rework: 1
@@ -121,8 +121,8 @@ phases:
             path: .ntd/verify-report.md
         gates:
           - name: 验证通过
-            type: artifact_present
-            artifact: verify-report
+            type: ai_criteria_review
+            min_score: 60
         on_success: next
         on_gate_fail: s03
         max_rework: 2
@@ -140,8 +140,8 @@ phases:
             path: .ntd/reflect.md
         gates:
           - name: 回顾总结存在
-            type: artifact_present
-            artifact: reflect
+            type: ai_criteria_review
+            min_score: 60
         on_success: end
         on_gate_fail: s06
         max_rework: 1

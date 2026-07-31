@@ -40,8 +40,8 @@ phases:
             path: docs/constitution.md
         gates:
           - name: 宪章存在
-            type: artifact_present
-            artifact: constitution-doc
+            type: ai_criteria_review
+            min_score: 60
           - name: 人工确认宪章
             type: human_approval
         on_success: next
@@ -71,8 +71,8 @@ phases:
             path: docs/specification.md
         gates:
           - name: 规约存在
-            type: artifact_present
-            artifact: spec-doc
+            type: ai_criteria_review
+            min_score: 60
         on_success: next
         on_gate_fail: sp01
         max_rework: 3
@@ -98,8 +98,8 @@ phases:
             path: docs/clarifications.md
         gates:
           - name: 澄清文档存在
-            type: artifact_present
-            artifact: clarifications-doc
+            type: ai_criteria_review
+            min_score: 60
         on_success: next
         on_gate_fail: cl01
         max_rework: 2
@@ -126,8 +126,8 @@ phases:
             path: docs/implementation-plan.md
         gates:
           - name: 计划存在
-            type: artifact_present
-            artifact: plan-doc
+            type: ai_criteria_review
+            min_score: 60
         on_success: next
         on_gate_fail: pl01
         max_rework: 2
@@ -153,8 +153,8 @@ phases:
             path: docs/checklist.md
         gates:
           - name: 检查单存在
-            type: artifact_present
-            artifact: checklist-doc
+            type: ai_criteria_review
+            min_score: 60
         on_success: next
         on_gate_fail: ch01
         max_rework: 2
@@ -181,8 +181,8 @@ phases:
             path: docs/task-cards.md
         gates:
           - name: 任务卡存在
-            type: artifact_present
-            artifact: task-cards
+            type: ai_criteria_review
+            min_score: 60
         on_success: next
         on_gate_fail: ts01
         max_rework: 2
@@ -210,8 +210,8 @@ phases:
             path: docs/architecture-analysis.md
         gates:
           - name: 分析报告存在
-            type: artifact_present
-            artifact: analysis-doc
+            type: ai_criteria_review
+            min_score: 60
           - name: 人工确认分析
             type: human_approval
         on_success: next
@@ -243,8 +243,8 @@ phases:
             path: .ntd/test-report.md
         gates:
           - name: 测试报告存在
-            type: artifact_present
-            artifact: test-report
+            type: ai_criteria_review
+            min_score: 60
         on_success: next
         on_gate_fail: im01
         max_rework: 5
@@ -275,8 +275,8 @@ phases:
             path: docs/retrospective.md
         gates:
           - name: 交付状态存在
-            type: artifact_present
-            artifact: delivery-state
+            type: ai_criteria_review
+            min_score: 60
         on_success: end
         on_gate_fail: cv01
         max_rework: 3

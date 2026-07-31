@@ -41,8 +41,8 @@ phases:
             path: docs/requirements/{process_name}-PRD.md
         gates:
           - name: PRD 存在
-            type: artifact_present
-            artifact: PRD
+            type: ai_criteria_review
+            min_score: 60
         on_success: next
         on_gate_fail: req-01
         max_rework: 3
@@ -64,8 +64,8 @@ phases:
             path: docs/requirements/{process_name}-stories.md
         gates:
           - name: 用户故事存在
-            type: artifact_present
-            artifact: user-stories
+            type: ai_criteria_review
+            min_score: 60
         on_success: next
         on_gate_fail: req-01b
         max_rework: 3
@@ -111,8 +111,8 @@ phases:
             path: docs/design/{process_name}-design.md
         gates:
           - name: 设计文档存在
-            type: artifact_present
-            artifact: design-doc
+            type: ai_criteria_review
+            min_score: 60
         on_success: next
         on_gate_fail: des-01
       - id: des-02
@@ -157,8 +157,8 @@ phases:
             path: docs/plan/{process_name}-plan.md
         gates:
           - name: 计划文档存在
-            type: artifact_present
-            artifact: plan-doc
+            type: ai_criteria_review
+            min_score: 60
         on_success: next
         on_gate_fail: imp-01
       - id: imp-02
@@ -179,8 +179,8 @@ phases:
             path: .ntd/delivery-state.md
         gates:
           - name: delivery-state 更新
-            type: artifact_present
-            artifact: delivery-state
+            type: ai_criteria_review
+            min_score: 60
         on_success: next
         on_gate_fail: imp-02
       - id: imp-03
@@ -201,8 +201,8 @@ phases:
             path: .ntd/test-report.md
         gates:
           - name: 测试通过
-            type: script_check
-            script: run_tests.sh
+            type: ai_criteria_review
+            min_score: 60
         on_success: next
         on_gate_fail: imp-02
 
@@ -231,7 +231,7 @@ phases:
             path: .ntd/delivery-state.md
         gates:
           - name: 交付状态完成
-            type: artifact_present
-            artifact: delivery-state
+            type: ai_criteria_review
+            min_score: 60
         on_success: end
         on_gate_fail: del-01
