@@ -1,0 +1,90 @@
+process:
+  name: gate-test-ai-human-review
+  guid: cb808198-78b0-4802-920a-a1bb2aaf4f48
+  display_name: 门禁测试·AI+人工评审
+  description: 测试 AI 评审门禁，含起草+定稿两个环节。1
+  category: software
+  complexity: standard
+  version: 1.17.0
+limits:
+  max_step_executions: null
+  max_total_tokens: null
+abnormal_handler:
+  prompt: ''
+  trigger_on:
+  - capped_step
+phases:
+- id: p1
+  name: 评审
+  spec: ''
+  spec_ref: null
+  links:
+  - id: l1
+    name: 起草摘要
+    step_template: null
+    prompt: 生成一份工作摘要，写入文件 gate-test-summary.md。
+    executor: null
+    expert: null
+    skills: []
+    model: null
+    expected_artifacts: []
+    gates:
+    - name: AI评审
+      type: ai_criteria_review
+      artifact: null
+      criteria_ref: null
+      min_score: 40
+      script: null
+    - name: 人工评审
+      type: human_approval
+      artifact: null
+      criteria_ref: null
+      min_score: null
+      script: null
+    on_success: next
+    on_gate_fail: break
+    on_rating_fail: break
+    max_rework: 3
+    acceptance_criteria: 摘要包含"结论"二字。
+    review_prompt: |
+      你是一个严格的代码评审专家。请根据下方【验收标准】对【执行输出】进行评审。
+
+      评审范围：
+      - 只读不写 —— 你是裁判，不修改任何文件、不执行额外命令。
+      - 按验收标准逐条对照执行输出。
+      - 客观评分，不要讨好。
+
+      # 原始任务（用户给原 todo 的 prompt）
+      {{original_prompt}}
+
+      # 原 todo 的执行输出（已被截断到 {{max_output_chars}} 字符）
+      {{original_output}}
+
+      # 验收标准
+      {{acceptance_criteria}}
+
+      # 输出要求
+      请先给出一段简短的评审理由（不超过 200 字），然后**在最后一行**严格按以下格式输出分数：
+      RATING: <0-100 的整数>
+
+      注意：
+      - 分数必须是 0-100 的整数。
+      - 输出越严格、越符合所有验收标准，分数越高。
+      - 如果输出被截断且关键证据缺失，请在理由中说明"输出被截断"并按缺失程度扣分。
+  - id: l2
+    name: 定稿
+    step_template: null
+    prompt: 完善摘要到最终版本，写入 gate-test-final.md。
+    executor: null
+    expert: null
+    skills: []
+    model: null
+    expected_artifacts: []
+    gates: []
+    on_success: end
+    on_gate_fail: break
+    on_rating_fail: break
+    max_rework: 3
+    acceptance_criteria: ''
+    review_prompt: ''
+step_templates: []
