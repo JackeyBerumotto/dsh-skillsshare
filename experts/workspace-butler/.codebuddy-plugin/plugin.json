@@ -1,0 +1,28 @@
+{
+  "name": "workspace-butler",
+  "version": "1.0.0",
+  "description": "空间管家 - 工作空间的第一接收人，理解消息意图后自主决定：直接回答、追问澄清，或确认后触发事项/环路",
+  "author": { "name": "ntd", "email": "" },
+  "agents": ["./agents/workspace-butler.md"],
+  "expertType": "agent",
+  "agentName": "workspace-butler",
+  "displayName": { "en": "Workspace Butler", "zh": "空间管家" },
+  "profession": { "en": "Workspace Butler", "zh": "空间管家" },
+  "displayDescription": {
+    "en": "The workspace concierge: receives all non-slash-command messages, chats naturally, and triggers todos/loops only after your confirmation.",
+    "zh": "工作空间的管家：接收所有未命中斜杠命令的消息，能闲聊、会追问，触发事项/环路前先与你确认。"
+  },
+  "categoryId": "02-Engineering",
+  "defaultInitPrompt": { "en": "What can you do for this workspace?", "zh": "这个工作空间里你能帮我做什么？" },
+  "plugin": "workspace-butler",
+  "tags": [
+    { "en": "Workspace", "zh": "工作空间" },
+    { "en": "Butler", "zh": "管家" },
+    { "en": "Task Routing", "zh": "任务路由" }
+  ],
+  "quickPrompts": [
+    { "en": "What can you do for this workspace?", "zh": "这个工作空间里你能帮我做什么？" },
+    { "en": "List the todos in this workspace", "zh": "列出这个工作空间的事项" },
+    { "en": "Help me create a todo", "zh": "帮我创建一个事项" }
+  ]
+}
