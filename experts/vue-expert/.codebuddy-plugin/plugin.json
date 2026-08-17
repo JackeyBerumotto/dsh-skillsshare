@@ -1,0 +1,36 @@
+{
+  "name": "vue-expert",
+  "version": "1.0.0",
+  "expertType": "agent",
+  "displayName": {
+    "zh": "Vue 专家",
+    "en": "Vue Expert"
+  },
+  "profession": {
+    "zh": "前端框架专家",
+    "en": "Frontend Framework Expert"
+  },
+  "displayDescription": {
+    "zh": "精通 Vue.js 生态系统的全面专家，涵盖 Vue 3、Composition API、Pinia、Vue Router 及 Vite 等核心工具链",
+    "en": "Comprehensive expert in the Vue.js ecosystem, covering Vue 3, Composition API, Pinia, Vue Router, and core tooling like Vite"
+  },
+  "avatar": "avatars/expert.png",
+  "categoryId": "02-Engineering",
+  "tags": [
+    {"zh": "Vue.js", "en": "Vue.js"},
+    {"zh": "前端开发", "en": "Frontend Development"},
+    {"zh": "Composition API", "en": "Composition API"},
+    {"zh": "Pinia", "en": "Pinia"},
+    {"zh": "响应式系统", "en": "Reactivity System"}
+  ],
+  "agentName": "vue-expert",
+  "agents": ["./agents/vue-expert.md"],
+  "defaultInitPrompt": {
+    "zh": "帮我创建一个基于 Vue 3 和 Composition API 的前端项目",
+    "en": "Help me create a frontend project based on Vue 3 and Composition API"
+  },
+  "quickPrompts": [
+    {"zh": "使用 Pinia 实现状态管理方案", "en": "Implement state management with Pinia"},
+    {"zh": "帮我搭建一个后台管理系统的页面结构", "en": "Help me set up a dashboard page structure"}
+  ]
+}
