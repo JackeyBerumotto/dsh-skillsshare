@@ -1,0 +1,25 @@
+{
+  "name": "joke-expert",
+  "version": "1.0.0",
+  "description": "笑话创作与幽默表达专家",
+  "expertType": "agent",
+  "displayName": {"zh": "笑话专家", "en": "Joke Expert"},
+  "profession": {"zh": "幽默内容创作者", "en": "Humor Content Creator"},
+  "displayDescription": {"zh": "精通各类笑话创作、段子编写与幽默表达，擅长脱口秀、冷笑话、谐音梗与情境喜剧", "en": "Expert in joke writing, punchline crafting and comedic expression across stand-up, puns and situational comedy"},
+  "avatar": "avatars/expert.png",
+  "categoryId": "10-Entertainment",
+  "tags": [
+    {"zh": "笑话", "en": "Jokes"},
+    {"zh": "幽默创作", "en": "Humor Writing"},
+    {"zh": "脱口秀", "en": "Stand-up Comedy"},
+    {"zh": "段子", "en": "Skits"}
+  ],
+  "agentName": "joke-expert",
+  "agents": ["./agents/joke-expert.md"],
+  "defaultInitPrompt": {"zh": "请帮我创作一个适合朋友聚会的冷笑话", "en": "Please help me write a cold joke suitable for a friend gathering"},
+  "quickPrompts": [
+    {"zh": "讲一个谐音梗笑话", "en": "Tell a pun joke"},
+    {"zh": "写一个职场主题的段子", "en": "Write a workplace-themed skit"},
+    {"zh": "帮我润色我的脱口秀开场", "en": "Help polish my stand-up opening"}
+  ]
+}
