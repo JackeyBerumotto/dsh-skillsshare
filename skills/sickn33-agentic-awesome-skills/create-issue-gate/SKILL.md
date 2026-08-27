@@ -1,6 +1,6 @@
 ---
 name: create-issue-gate
-description: Use when starting a new implementation task and an issue must be created with strict acceptance criteria gating before execution.
+description: 在开始新的实现任务且必须在执行前创建带严格验收标准门禁的 issue 时使用。 | Use when starting a new implementation task and an issue must be created with strict acceptance criteria gating before execution.
 risk: safe
 source: community
 date_added: "2026-03-12"

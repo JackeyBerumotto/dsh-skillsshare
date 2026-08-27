@@ -1,6 +1,6 @@
 ---
 name: spec-to-repo
-description: "Use when the user says 'build me an app', 'create a project from this spec', 'scaffold a new repo', 'generate a starter', 'turn this idea into code', 'bootstrap a project', 'I have requirements and need a codebase', or provides a natural-language project specification and expects a complete, runnable repository. Stack-agnostic: Next.js, FastAPI, Rails, Go, Rust, Flutter, and more."
+description: "当用户说「build me an app」「create a project from this spec」「scaffold a new repo」「generate a starter」「turn this idea into code」「bootstrap a project」「I have requirements and need a codebase」，或提供自然语言项目规格并期望得到完整可运行仓库时使用。与技术栈无关：Next.js、FastAPI、Rails、Go、Rust、Flutter 等。 | Use when the user says 'build me an app', 'create a project from this spec', 'scaffold a new repo', 'generate a starter', 'turn this idea into code', 'bootstrap a project', 'I have requirements and need a codebase', or provides a natural-language project specification and expects a complete, runnable repository. Stack-agnostic: Next.js, FastAPI, Rails, Go, Rust, Flutter, and more."
 ---
 
 # Spec to Repo

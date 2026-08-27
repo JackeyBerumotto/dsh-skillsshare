@@ -1,6 +1,6 @@
 ---
 name: policy-memo
-description: "Write a decision-ready policy memo that frames an issue and recommends an option. Use when asked to write a policy memo, options paper, decision memo for a principal/minister/executive, or brief a decision-maker on a policy choice. Produces a tight memo: the issue, background, options with trade-offs, a clear recommendation, and implementation/risks — written for a busy decision-maker who reads the first paragraph."
+description: "撰写可直接决策的政策备忘录，界定问题并推荐方案。在被要求为负责人/部长/高管编写政策备忘录、方案文件、决策备忘录，或向决策者简报政策选择时使用。产出紧凑的备忘录：问题、背景、带权衡的选项、明确的建议，以及实施/风险——为只读第一段的忙碌决策者而写。 | Write a decision-ready policy memo that frames an issue and recommends an option. Use when asked to write a policy memo, options paper, decision memo for a principal/minister/executive, or brief a decision-maker on a policy choice. Produces a tight memo: the issue, background, options with trade-offs, a clear recommendation, and implementation/risks — written for a busy decision-maker who reads the first paragraph."
 ---
 
 # Policy Memo Skill

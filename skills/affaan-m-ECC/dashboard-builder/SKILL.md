@@ -1,6 +1,6 @@
 ---
 name: dashboard-builder
-description: Build monitoring dashboards that answer real operator questions for Grafana, SigNoz, and similar platforms. Use when turning metrics into a working dashboard instead of a vanity board.
+description: 为 Grafana、SigNoz 及类似平台构建能回答运维人员真实问题的监控仪表盘。当需要把指标变成真正可用的仪表盘而非摆设面板时使用。 | Build monitoring dashboards that answer real operator questions for Grafana, SigNoz, and similar platforms. Use when turning metrics into a working dashboard instead of a vanity board.
 metadata:
   origin: ECC direct-port adaptation
 version: "1.0.0"

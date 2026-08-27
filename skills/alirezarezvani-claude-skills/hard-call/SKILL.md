@@ -1,6 +1,6 @@
 ---
 name: "hard-call"
-description: "/em:hard-call — Framework for decisions with no good options. Use when every option is painful and a structured 10/10/10 + regret-minimization pass is needed — e.g. choosing between a layoff and a down round, or killing a beloved product line."
+description: "/em:hard-call——面向没有好选项决策的框架。适用于每个选项都很痛苦、需要结构化的 10/10/10 加后悔最小化推演时——例如在裁员与估值下调融资之间抉择，或砍掉深受喜爱的产品线。 | /em:hard-call — Framework for decisions with no good options. Use when every option is painful and a structured 10/10/10 + regret-minimization pass is needed — e.g. choosing between a layoff and a down round, or killing a beloved product line."
 ---
 
 # /em:hard-call — Framework for Decisions With No Good Options

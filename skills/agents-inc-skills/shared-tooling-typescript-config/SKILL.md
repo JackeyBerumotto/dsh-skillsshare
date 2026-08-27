@@ -1,6 +1,6 @@
 ---
 name: shared-tooling-typescript-config
-description: TypeScript strict mode configs, TS 5.x+ options (verbatimModuleSyntax, module preserve, moduleDetection force, configDir), path alias sync, specialized configs
+description: TypeScript 严格模式配置、TS 5.x+ 选项（verbatimModuleSyntax、module preserve、moduleDetection force、configDir）、路径别名同步、专用配置。 | TypeScript strict mode configs, TS 5.x+ options (verbatimModuleSyntax, module preserve, moduleDetection force, configDir), path alias sync, specialized configs
 ---
 
 # TypeScript Configuration Patterns

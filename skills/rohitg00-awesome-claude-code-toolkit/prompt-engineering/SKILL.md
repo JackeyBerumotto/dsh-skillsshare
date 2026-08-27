@@ -1,6 +1,6 @@
 ---
 name: prompt-engineering
-description: Prompt engineering patterns including structured prompts, chain-of-thought, few-shot learning, and system prompt design
+description: 提示工程模式，包括结构化提示、思维链、少样本学习和系统提示设计 | Prompt engineering patterns including structured prompts, chain-of-thought, few-shot learning, and system prompt design
 ---
 
 # Prompt Engineering

@@ -1,6 +1,6 @@
 ---
 name: quality-nonconformance
-description: Codified expertise for quality control, non-conformance investigation, root cause analysis, corrective action, and supplier quality management in regulated manufacturing.
+description: 受监管制造企业中质量控制、不合格调查、根因分析、纠正措施和供应商质量管理的体系化专业知识。 | Codified expertise for quality control, non-conformance investigation, root cause analysis, corrective action, and supplier quality management in regulated manufacturing.
 risk: safe
 source: https://github.com/ai-evos/agent-skills
 date_added: '2026-02-27'

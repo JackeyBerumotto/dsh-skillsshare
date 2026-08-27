@@ -1,5 +1,5 @@
 ---
-description: Use when generating conventional commit messages from staged git changes. Trigger with phrases like "create commit message", "generate smart commit", "/commit-smart", or "/gc". Automatically analyzes changes to determine commit type (feat, fix, docs), identifies breaking changes, and formats according to conventional commit standards.
+description: 在根据暂存的 git 变更生成约定式提交消息时使用。触发词如「create commit message」「generate smart commit」「/commit-smart」或「/gc」。自动分析变更以确定提交类型（feat、fix、docs）、识别破坏性变更，并按约定式提交标准格式化。 | Use when generating conventional commit messages from staged git changes. Trigger with phrases like "create commit message", "generate smart commit", "/commit-smart", or "/gc". Automatically analyzes changes to determine commit type (feat, fix, docs), identifies breaking changes, and formats according to conventional commit standards.
 allowed-tools:
 - Read
 - Write

@@ -1,6 +1,6 @@
 ---
 name: pysam
-description: Genomic file toolkit. Read/write SAM/BAM/CRAM alignments, VCF/BCF variants, FASTA/FASTQ sequences, extract regions, calculate coverage, for NGS data processing pipelines.
+description: 基因组文件工具箱。读写 SAM/BAM/CRAM 比对、VCF/BCF 变异、FASTA/FASTQ 序列，提取区域，计算覆盖度，用于 NGS 数据处理流水线。 | Genomic file toolkit. Read/write SAM/BAM/CRAM alignments, VCF/BCF variants, FASTA/FASTQ sequences, extract regions, calculate coverage, for NGS data processing pipelines.
 license: MIT license
 metadata: {"version": "1.0", "skill-author": "K-Dense Inc."}
 ---

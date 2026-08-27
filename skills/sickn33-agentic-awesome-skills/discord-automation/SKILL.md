@@ -1,6 +1,6 @@
 ---
 name: discord-automation
-description: "Automate Discord tasks via Rube MCP (Composio): messages, channels, roles, webhooks, reactions. Always search tools first for current schemas."
+description: "通过 Rube MCP（Composio）自动化 Discord 任务：消息、频道、角色、Webhook、表情回应。务必先搜索工具以获取最新 schema。 | Automate Discord tasks via Rube MCP (Composio): messages, channels, roles, webhooks, reactions. Always search tools first for current schemas."
 risk: critical
 source: community
 date_added: "2026-02-27"

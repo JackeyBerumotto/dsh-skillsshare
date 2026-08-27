@@ -1,6 +1,6 @@
 ---
 name: customer-research
-description: When the user wants to conduct, analyze, or synthesize customer research. Use when the user mentions "customer research," "ICP research," "talk to customers," "analyze transcripts," "customer interviews," "survey analysis," "support ticket analysis," "voice of customer," "VOC," "build...
+description: 当用户想要开展、分析或综合客户研究时使用。当用户提到「customer research」「ICP research」「talk to customers」「analyze transcripts」「customer interviews」「survey analysis」「support ticket analysis」「voice of customer」「VOC」「build……」时也应使用。 | When the user wants to conduct, analyze, or synthesize customer research. Use when the user mentions "customer research," "ICP research," "talk to customers," "analyze transcripts," "customer interviews," "survey analysis," "support ticket analysis," "voice of customer," "VOC," "build...
 risk: unknown
 source: https://github.com/coreyhaines31/marketingskills/tree/main/skills/customer-research
 source_repo: coreyhaines31/marketingskills

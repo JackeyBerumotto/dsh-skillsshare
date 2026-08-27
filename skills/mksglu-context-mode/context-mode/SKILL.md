@@ -1,6 +1,6 @@
 ---
 name: context-mode
-description: MANDATORY routing rules for context-mode. Invoke whenever you analyze, count, filter, compare, search, parse, or transform data; fetch a URL; or run a data-heavy command — so raw bytes stay out of the context window.
+description: context-mode 的强制性路由规则。每当你分析、计数、过滤、比较、搜索、解析或转换数据、抓取 URL，或运行数据密集型命令时都要调用——让原始字节留在上下文窗口之外。 | MANDATORY routing rules for context-mode. Invoke whenever you analyze, count, filter, compare, search, parse, or transform data; fetch a URL; or run a data-heavy command — so raw bytes stay out of the context window.
 ---
 
 # context-mode — MANDATORY routing rules

@@ -1,6 +1,6 @@
 ---
 name: csharp-pro
-description: Write modern C# code with advanced features like records, pattern matching, and async/await. Optimizes .NET applications, implements enterprise patterns, and ensures comprehensive testing.
+description: 编写现代 C# 代码，运用 record、模式匹配和 async/await 等高级特性。优化 .NET 应用，实现企业级模式并确保全面测试。 | Write modern C# code with advanced features like records, pattern matching, and async/await. Optimizes .NET applications, implements enterprise patterns, and ensures comprehensive testing.
 risk: unknown
 source: community
 date_added: '2026-02-27'

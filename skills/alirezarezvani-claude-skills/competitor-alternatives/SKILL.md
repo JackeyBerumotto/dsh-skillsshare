@@ -1,6 +1,6 @@
 ---
 name: "competitor-alternatives"
-description: "When the user wants to create competitor comparison or alternative pages for SEO and sales enablement. Also use when the user mentions 'alternative page,' 'vs page,' 'competitor comparison,' 'comparison page,' '[Product] vs [Product],' '[Product] alternative,' 'competitive landing pages,' 'switch from competitor,' or 'comparison content.' Covers four formats: singular alternative, plural alternatives, you vs competitor, and competitor vs competitor. Emphasizes deep research, modular content architecture, and varied section types beyond feature tables."
+description: "当用户想要为 SEO 和销售赋能创建竞品对比页或替代品页时使用。当用户提到「alternative page」「vs page」「competitor comparison」「comparison page」「[Product] vs [Product]」「[Product] alternative」「competitive landing pages」「switch from competitor」或「comparison content」时也应使用。涵盖四种格式：单个替代品、多个替代品、你与竞品对比、竞品与竞品对比。强调深度研究、模块化内容架构，以及功能对比表之外多样化的板块类型。 | When the user wants to create competitor comparison or alternative pages for SEO and sales enablement. Also use when the user mentions 'alternative page,' 'vs page,' 'competitor comparison,' 'comparison page,' '[Product] vs [Product],' '[Product] alternative,' 'competitive landing pages,' 'switch from competitor,' or 'comparison content.' Covers four formats: singular alternative, plural alternatives, you vs competitor, and competitor vs competitor. Emphasizes deep research, modular content architecture, and varied section types beyond feature tables."
 license: MIT
 metadata:
   version: 1.0.0

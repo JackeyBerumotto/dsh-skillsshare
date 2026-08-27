@@ -1,6 +1,6 @@
 ---
 name: deterministic-design
-description: "Render the UI and prove it's balanced + usable: a deterministic layout audit (centroid / optical-center / pixel-oracle balance via explicit math + annotated screenshot) plus a vision-judged Nielsen usability audit by a separate fresh-eyes judge. The measurement layer taste-only design skills lack."
+description: "渲染 UI 并证明其平衡且可用：一次确定性布局审计（通过显式数学计算加注解截图评估质心/视觉中心/像素神谕平衡），再由独立的全新视角评审者进行视觉评判的 Nielsen 可用性审计。这是只讲审美的设计技能所缺失的度量层。 | Render the UI and prove it's balanced + usable: a deterministic layout audit (centroid / optical-center / pixel-oracle balance via explicit math + annotated screenshot) plus a vision-judged Nielsen usability audit by a separate fresh-eyes judge. The measurement layer taste-only design skills lack."
 risk: safe
 source: community
 source_type: community

@@ -1,6 +1,6 @@
 ---
 name: markdown-formatting
-description: Enforces markdown line-wrap and structure rules for clean git diffs. Use when writing or editing any committed markdown documentation or skill file.
+description: 强制执行 Markdown 换行和结构规则，以获得干净的 git diff。在编写或编辑任何将提交的 Markdown 文档或技能文件时使用。 | Enforces markdown line-wrap and structure rules for clean git diffs. Use when writing or editing any committed markdown documentation or skill file.
 globs: "**/*.md"
 alwaysApply: false
 category: cross-plugin-patterns

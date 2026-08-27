@@ -1,6 +1,6 @@
 ---
 name: "capa-officer"
-description: CAPA system management for medical device QMS. Covers root cause analysis, corrective action planning, effectiveness verification, and CAPA metrics. Use when running CAPA investigations, 5-Why analysis, fishbone diagrams, root cause determination, corrective action tracking, effectiveness verification, or CAPA program optimization.
+description: 面向医疗器械 QMS 的 CAPA 系统管理。涵盖根因分析、纠正措施计划、有效性验证和 CAPA 指标。当执行 CAPA 调查、5 个为什么分析、鱼骨图、根因判定、纠正措施跟踪、有效性验证或 CAPA 计划优化时使用。 | CAPA system management for medical device QMS. Covers root cause analysis, corrective action planning, effectiveness verification, and CAPA metrics. Use when running CAPA investigations, 5-Why analysis, fishbone diagrams, root cause determination, corrective action tracking, effectiveness verification, or CAPA program optimization.
 triggers:
   - CAPA investigation
   - root cause analysis

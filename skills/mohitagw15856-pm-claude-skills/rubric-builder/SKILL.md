@@ -1,6 +1,6 @@
 ---
 name: rubric-builder
-description: "Create a clear grading rubric with criteria and performance-level descriptors that make scoring fair, fast, and consistent. Use when asked to build a rubric, create grading criteria, design an assessment scoring guide, or make grading more objective. Produces an analytic rubric table (criteria × performance levels) with concrete, observable descriptors and a points scheme — plus a short version students can self-check against."
+description: "创建清晰的评分量规，包含评价维度和表现水平描述语，使评分公平、快速且一致。当被要求构建量规、创建评分标准、设计评估评分指南，或让评分更客观时使用。产出一份数字量规表（维度 × 表现水平），带有具体、可观察的描述语和计分方案，另附一份供学生自查的简版。 | Create a clear grading rubric with criteria and performance-level descriptors that make scoring fair, fast, and consistent. Use when asked to build a rubric, create grading criteria, design an assessment scoring guide, or make grading more objective. Produces an analytic rubric table (criteria × performance levels) with concrete, observable descriptors and a points scheme — plus a short version students can self-check against."
 ---
 
 # Rubric Builder Skill

@@ -1,6 +1,6 @@
 ---
 name: papers-skill
-description: "Skill for academic research workflows: search Semantic Scholar (200M+ papers), inspect citations, download arXiv PDFs, and extract PDF text. Bundles a self-contained Python CLI."
+description: "面向学术研究工作流的技能：搜索 Semantic Scholar（2 亿+ 篇论文）、查看引文、下载 arXiv PDF 并提取 PDF 文本。内置自包含的 Python CLI。 | Skill for academic research workflows: search Semantic Scholar (200M+ papers), inspect citations, download arXiv PDFs, and extract PDF text. Bundles a self-contained Python CLI."
 category: research
 risk: safe
 source: community

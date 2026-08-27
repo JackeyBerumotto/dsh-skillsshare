@@ -1,14 +1,6 @@
 ---
 name: executing-active-directory-attack-simulation
-description: 'Executes authorized attack simulations against Active Directory environments
-  to identify misconfigurations, weak credentials, dangerous privilege paths, and
-  exploitable trust relationships that could lead to domain compromise. The tester
-  uses BloodHound for attack path analysis, Mimikatz for credential extraction, and
-  Impacket for protocol-level attacks including Kerberoasting, AS-REP Roasting, and
-  delegation abuse. Activates for requests involving Active Directory pentest, AD
-  attack simulation, domain compromise testing, or Kerberos attack assessment.
-
-  '
+description: "针对 Active Directory 环境执行经授权的攻击模拟，识别可能导致域失陷的配置错误、弱凭据、危险特权路径和可利用的信任关系。测试人员使用 BloodHound 进行攻击路径分析、使用 Mimikatz 提取凭据、使用 Impacket 实施协议级攻击（包括 Kerberoasting、AS-REP Roasting 和委派滥用）。当请求涉及 Active Directory 渗透测试、AD 攻击模拟、域失陷测试或 Kerberos 攻击评估时激活。 | Executes authorized attack simulations against Active Directory environments to identify misconfigurations, weak credentials, dangerous privilege paths, and exploitable trust relationships that could lead to domain compromise. The tester uses BloodHound for attack path analysis, Mimikatz for credential extraction, and Impacket for protocol-level attacks including Kerberoasting, AS-REP Roasting, and delegation abuse. Activates for requests involving Active Directory pentest, AD attack simulation, domain compromise testing, or Kerberos attack assessment."
 domain: cybersecurity
 subdomain: penetration-testing
 tags:

@@ -1,6 +1,6 @@
 ---
 name: linkedin-post-writer
-description: "Draft LinkedIn posts from 16 tested hook formulas mapped to engagement goals (comments, reposts, likes, saves), with 2026 algorithm formatting rules and an AI-tell scrub pass before publishing."
+description: "基于 16 种经过验证、按互动目标（评论、转发、点赞、收藏）映射的钩子公式撰写 LinkedIn 帖子，遵循 2026 年算法格式规则，并在发布前做一轮 AI 痕迹清除。 | Draft LinkedIn posts from 16 tested hook formulas mapped to engagement goals (comments, reposts, likes, saves), with 2026 algorithm formatting rules and an AI-tell scrub pass before publishing."
 category: marketing
 risk: none
 source: community

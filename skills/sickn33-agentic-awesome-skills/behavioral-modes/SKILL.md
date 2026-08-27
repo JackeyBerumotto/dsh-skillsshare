@@ -1,6 +1,6 @@
 ---
 name: behavioral-modes
-description: "AI operational modes (brainstorm, implement, debug, review, teach, ship, orchestrate). Use to adapt behavior based on task type."
+description: "AI 运行模式（头脑风暴、实现、调试、审查、教学、发布、编排）。用于根据任务类型调整行为。 | AI operational modes (brainstorm, implement, debug, review, teach, ship, orchestrate). Use to adapt behavior based on task type."
 risk: unknown
 source: community
 date_added: "2026-02-27"

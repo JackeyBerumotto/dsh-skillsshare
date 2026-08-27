@@ -1,6 +1,6 @@
 ---
 name: voice-review
-description: Runs parallel prose and craft review agents against a voice profile. Use when checking generated content for AI patterns and voice drift before publishing.
+description: 对照声音画像，并行运行文风与文笔评审代理。在发布前检查生成内容中的 AI 痕迹和声音漂移时使用。 | Runs parallel prose and craft review agents against a voice profile. Use when checking generated content for AI patterns and voice drift before publishing.
 globs: "**/*.{md,txt}"
 alwaysApply: false
 category: writing-quality

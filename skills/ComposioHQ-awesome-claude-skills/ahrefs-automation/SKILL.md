@@ -1,6 +1,6 @@
 ---
 name: Ahrefs Automation
-description: "Automate SEO research with Ahrefs -- analyze backlink profiles, research keywords, track domain metrics history, audit organic rankings, and perform batch URL analysis through the Composio Ahrefs integration."
+description: "通过 Composio 的 Ahrefs 集成自动化 SEO 研究——分析反向链接概况、研究关键词、追踪域名指标历史、审计自然排名以及执行批量 URL 分析。 | Automate SEO research with Ahrefs -- analyze backlink profiles, research keywords, track domain metrics history, audit organic rankings, and perform batch URL analysis through the Composio Ahrefs integration."
 requires:
   mcp:
     - rube

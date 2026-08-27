@@ -1,6 +1,6 @@
 ---
 name: web-styling-scss-modules
-description: SCSS Modules, cva, design tokens
+description: SCSS Modules、cva、设计令牌。 | SCSS Modules, cva, design tokens
 ---
 
 # Styling & Design System

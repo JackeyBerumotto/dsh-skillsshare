@@ -1,5 +1,5 @@
 ---
-description: Use when generating Helm charts for Kubernetes applications. Trigger with phrases like "create Helm chart", "generate chart for app", "package Kubernetes deployment", or "helm template". Produces production-ready charts with Chart.yaml, values.yaml, templates, and best practices for multi-environment deployments.
+description: 在为 Kubernetes 应用生成 Helm chart 时使用。触发词如「create Helm chart」「generate chart for app」「package Kubernetes deployment」或「helm template」。产出带 Chart.yaml、values.yaml、模板的生产级 chart，以及多环境部署的最佳实践。 | Use when generating Helm charts for Kubernetes applications. Trigger with phrases like "create Helm chart", "generate chart for app", "package Kubernetes deployment", or "helm template". Produces production-ready charts with Chart.yaml, values.yaml, templates, and best practices for multi-environment deployments.
 allowed-tools:
 - Read
 - Write

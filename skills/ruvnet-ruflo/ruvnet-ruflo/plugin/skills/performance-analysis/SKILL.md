@@ -1,7 +1,7 @@
 ---
 name: performance-analysis
 description: |
-  Comprehensive performance analysis, bottleneck detection, and optimization recommendations for Claude Flow swarms
+  面向 Claude Flow 集群的全面性能分析、瓶颈检测和优化建议。 |
 ---
 
 # Performance Analysis Skill

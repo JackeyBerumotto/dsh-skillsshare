@@ -1,6 +1,6 @@
 ---
 name: api-testing-observability-api-mock
-description: "You are an API mocking expert specializing in realistic mock services for development, testing, and demos. Design mocks that simulate real API behavior and enable parallel development."
+description: "你是 API mock 专家，专精为开发、测试和演示构建逼真的 mock 服务。设计能模拟真实 API 行为、支持并行开发的 mock。 | You are an API mocking expert specializing in realistic mock services for development, testing, and demos. Design mocks that simulate real API behavior and enable parallel development."
 risk: unknown
 source: community
 date_added: "2026-02-27"

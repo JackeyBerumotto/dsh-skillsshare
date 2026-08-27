@@ -1,6 +1,6 @@
 ---
 name: shodan-reconnaissance
-description: "Provide systematic methodologies for leveraging Shodan as a reconnaissance tool during penetration testing engagements."
+description: "提供在渗透测试项目中将 Shodan 用作侦察工具的系统化方法论。 | Provide systematic methodologies for leveraging Shodan as a reconnaissance tool during penetration testing engagements."
 risk: unknown
 source: community
 author: zebbern

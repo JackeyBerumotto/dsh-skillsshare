@@ -1,6 +1,6 @@
 ---
 name: autopilot-loop
-description: Run an autonomous /loop iteration -- check progress, work on next task, schedule next wake
+description: 运行自主 /loop 迭代——检查进度、处理下一个任务、安排下次唤醒。 | Run an autonomous /loop iteration -- check progress, work on next task, schedule next wake
 argument-hint: ""
 allowed-tools: mcp__claude-flow__autopilot_status mcp__claude-flow__autopilot_predict mcp__claude-flow__autopilot_log mcp__claude-flow__autopilot_progress mcp__claude-flow__autopilot_disable ScheduleWakeup Agent
 ---

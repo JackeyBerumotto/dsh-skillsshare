@@ -1,6 +1,6 @@
 ---
 name: creative
-description: Playful, character-driven design with expressive typography and bold graphics for landing pages and creative projects.
+description: 俏皮的角色驱动设计，配以富有表现力的字体和大胆的图形，适用于落地页和创意项目。 | Playful, character-driven design with expressive typography and bold graphics for landing pages and creative projects.
 license: MIT
 metadata:
   author: typeui.sh

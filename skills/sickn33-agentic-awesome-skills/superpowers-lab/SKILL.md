@@ -1,6 +1,6 @@
 ---
 name: superpowers-lab
-description: "Lab environment for Claude superpowers"
+description: "Claude superpowers 的实验环境。 | Lab environment for Claude superpowers"
 risk: safe
 source: "https://github.com/obra/superpowers-lab"
 date_added: "2026-02-27"

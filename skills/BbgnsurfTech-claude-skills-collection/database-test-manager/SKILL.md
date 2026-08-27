@@ -2,7 +2,7 @@
 name: managing-database-tests
 version: 1.0.0
 description: |
-  Database testing including fixtures, transactions, and rollback management.
+  数据库测试，涵盖 fixtures、事务和回滚管理。当执行专项测试时使用。可通过「test the database」「run database tests」或「validate data integrity」等短语触发。 |
   Use when performing specialized testing.
   Trigger with phrases like "test the database", "run database tests", or "validate data integrity".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(test:db-*)

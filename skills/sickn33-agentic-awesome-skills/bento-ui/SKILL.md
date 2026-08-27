@@ -1,6 +1,6 @@
 ---
 name: bento-ui
-description: Web and App implementation guide for Bento UI. Trigger when user wants modular grid cards, Apple-like dashboard style, or sections arranged like a bento box.
+description: Bento UI 的 Web 与 App 实现指南。当用户需要模块化网格卡片、类 Apple 仪表盘风格或便当盒式的分区布局时触发。 | Web and App implementation guide for Bento UI. Trigger when user wants modular grid cards, Apple-like dashboard style, or sections arranged like a bento box.
 date_added: "2026-06-17"
 risk: safe
 source: self

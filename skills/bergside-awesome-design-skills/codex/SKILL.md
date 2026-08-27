@@ -1,6 +1,6 @@
 ---
 name: "codex"
-description: "A radically minimal, blank-canvas interface built as a pure edge-to-edge surface, with almost no color and typography carrying the visual weight. Black serves as the only filled color, the only divider, and the sole surface tone cards."
+description: "一种极致极简的白板式界面，构建为纯粹的通栏表面，几乎没有色彩，由排版承载视觉重量。黑色充当唯一的填充色和唯一的分隔线，也是卡片唯一的表面色调。 | A radically minimal, blank-canvas interface built as a pure edge-to-edge surface, with almost no color and typography carrying the visual weight. Black serves as the only filled color, the only divider, and the sole surface tone cards."
 metadata:
   author: typeui.sh
 ---

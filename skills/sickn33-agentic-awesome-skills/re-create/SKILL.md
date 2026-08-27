@@ -1,6 +1,6 @@
 ---
 name: re-create
-description: "Completely delete and rewrite a file or module from scratch when structural rot makes patching impossible."
+description: "当结构性腐化导致无法打补丁时，彻底删除并从头重写文件或模块。 | Completely delete and rewrite a file or module from scratch when structural rot makes patching impossible."
 risk: critical
 source: community
 date_added: "2026-06-27"

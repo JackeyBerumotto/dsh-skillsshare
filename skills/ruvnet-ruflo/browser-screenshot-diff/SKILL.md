@@ -1,6 +1,6 @@
 ---
 name: browser-screenshot-diff
-description: Visual + DOM diff between two recorded sessions at matching trajectory step ids; used for visual regression and replay verification
+description: 对两段录制会话在相同轨迹步骤 ID 处进行视觉与 DOM 差异比对，用于视觉回归和回放验证。 | Visual + DOM diff between two recorded sessions at matching trajectory step ids; used for visual regression and replay verification
 argument-hint: "<session-id-a> <session-id-b> [--threshold <0..1>] [--mode pixel|dom|both]"
 allowed-tools: mcp__claude-flow__browser_eval Bash Read Write
 ---

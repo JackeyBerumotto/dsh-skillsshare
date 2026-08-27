@@ -1,6 +1,6 @@
 ---
 name: azure-servicebus-dotnet
-description: Azure Service Bus SDK for .NET. Enterprise messaging with queues, topics, subscriptions, and sessions.
+description: 适用于 .NET 的 Azure Service Bus SDK。支持队列、主题、订阅和会话的企业级消息传递。 | Azure Service Bus SDK for .NET. Enterprise messaging with queues, topics, subscriptions, and sessions.
 risk: unknown
 source: community
 date_added: '2026-02-27'

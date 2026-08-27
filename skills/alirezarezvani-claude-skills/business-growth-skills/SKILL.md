@@ -1,6 +1,6 @@
 ---
 name: "business-growth-skills"
-description: "Router/index for the 4 business & growth skills bundled in this plugin: customer-success-manager (health scoring, churn risk, expansion), sales-engineer (RFP analysis, competitive matrices, PoC planning), revenue-operations (pipeline, forecast accuracy, GTM efficiency), and contract-and-proposal-writer. Use when a growth/revenue request doesn't obviously match one skill and you need to pick the right one (e.g., 'which accounts are at risk', 'should we bid on this RFP')."
+description: "本插件内置 4 个业务与增长技能的路由器/索引：customer-success-manager（健康评分、流失风险、扩展）、sales-engineer（RFP 分析、竞争矩阵、PoC 规划）、revenue-operations（管道、预测准确率、GTM 效率）以及 contract-and-proposal-writer。当增长/收入请求无法明显对应到单一技能、需要挑选合适技能时使用（例如「哪些账户有风险」「我们该竞标这份 RFP 吗」）。 | Router/index for the 4 business & growth skills bundled in this plugin: customer-success-manager (health scoring, churn risk, expansion), sales-engineer (RFP analysis, competitive matrices, PoC planning), revenue-operations (pipeline, forecast accuracy, GTM efficiency), and contract-and-proposal-writer. Use when a growth/revenue request doesn't obviously match one skill and you need to pick the right one (e.g., 'which accounts are at risk', 'should we bid on this RFP')."
 version: 2.9.0
 author: Alireza Rezvani
 license: MIT

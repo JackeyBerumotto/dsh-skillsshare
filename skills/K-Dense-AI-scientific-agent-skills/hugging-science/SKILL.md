@@ -1,6 +1,6 @@
 ---
 name: hugging-science
-description: Use when the user is doing AI/ML work in a scientific domain such as biology, chemistry, physics, astronomy, climate, genomics, materials, medicine, ecology, energy, engineering, math, drug discovery, protein design, weather modeling, theorem proving, single-cell, or PDE solving. Hugging Science is a curated catalog of scientific datasets, models, blog posts, and interactive Spaces. This skill helps discover and use resources via `datasets`, `transformers`, the HF Inference API, `gradio_client`, and methodology citations.
+description: 当用户在科学领域（如生物学、化学、物理、天文、气候、基因组学、材料、医学、生态、能源、工程、数学、药物发现、蛋白质设计、气象建模、定理证明、单细胞或偏微分方程求解）从事 AI/ML 工作时使用。Hugging Science 是科学数据集、模型、博客文章和交互式 Spaces 的精选目录。此技能帮助通过 `datasets`、`transformers`、HF Inference API、`gradio_client` 和方法论引用来发现和使用资源。 | Use when the user is doing AI/ML work in a scientific domain such as biology, chemistry, physics, astronomy, climate, genomics, materials, medicine, ecology, energy, engineering, math, drug discovery, protein design, weather modeling, theorem proving, single-cell, or PDE solving. Hugging Science is a curated catalog of scientific datasets, models, blog posts, and interactive Spaces. This skill helps discover and use resources via `datasets`, `transformers`, the HF Inference API, `gradio_client`, and methodology citations.
 metadata: {"version": "1.1", "skill-author": "K-Dense Inc."}
 ---
 

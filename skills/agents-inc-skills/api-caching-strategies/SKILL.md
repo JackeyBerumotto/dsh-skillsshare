@@ -1,6 +1,6 @@
 ---
 name: api-caching-strategies
-description: Application-level caching strategies, HTTP caching, cache invalidation, and stampede prevention
+description: 应用级缓存策略、HTTP 缓存、缓存失效与缓存击穿防护 | Application-level caching strategies, HTTP caching, cache invalidation, and stampede prevention
 ---
 
 # Caching Strategies

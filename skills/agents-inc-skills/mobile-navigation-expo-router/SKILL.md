@@ -1,6 +1,6 @@
 ---
 name: mobile-navigation-expo-router
-description: File-based routing and navigation for Expo/React Native
+description: Expo/React Native 的基于文件的路由与导航 | File-based routing and navigation for Expo/React Native
 ---
 
 # Expo Router Patterns

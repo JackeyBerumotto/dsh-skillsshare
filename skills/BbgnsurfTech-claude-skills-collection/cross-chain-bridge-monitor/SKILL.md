@@ -2,7 +2,7 @@
 name: monitoring-cross-chain-bridges
 version: 1.0.0
 description: |
-  Monitor cross-chain bridge security, liquidity, and transaction status across networks.
+  跨网络监控跨链桥的安全性、流动性与交易状态。用于监控跨链资产转移。触发短语如「monitor bridges」「check cross-chain」或「track bridge transfers」。 |
   Use when monitoring cross-chain asset transfers.
   Trigger with phrases like "monitor bridges", "check cross-chain", or "track bridge transfers".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(crypto:bridge-*)

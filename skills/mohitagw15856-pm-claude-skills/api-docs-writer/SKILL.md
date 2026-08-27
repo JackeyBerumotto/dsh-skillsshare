@@ -1,6 +1,6 @@
 ---
 name: api-docs-writer
-description: "Write clear, developer-facing API documentation. Use when asked to document an API endpoint, write API reference docs, create a developer guide, or turn a raw spec/Postman collection into documentation. Produces endpoint documentation with descriptions, parameters, request/response examples, and error codes."
+description: "撰写清晰的面向开发者的 API 文档。在被要求记录 API 端点、编写 API 参考文档、创建开发者指南，或将原始规格/Postman collection 转化为文档时使用。产出包含描述、参数、请求/响应示例和错误码的端点文档。 | Write clear, developer-facing API documentation. Use when asked to document an API endpoint, write API reference docs, create a developer guide, or turn a raw spec/Postman collection into documentation. Produces endpoint documentation with descriptions, parameters, request/response examples, and error codes."
 ---
 
 # API Docs Writer Skill

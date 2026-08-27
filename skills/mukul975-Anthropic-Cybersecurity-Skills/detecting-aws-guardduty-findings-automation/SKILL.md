@@ -1,8 +1,6 @@
 ---
 name: detecting-aws-guardduty-findings-automation
-description: Automate AWS GuardDuty threat detection findings processing using EventBridge
-  and Lambda to enable real-time incident response, automatic quarantine of compromised
-  resources, and security notification workflows.
+description: "使用 EventBridge 和 Lambda 自动化处理 AWS GuardDuty 威胁检测结果，实现实时事件响应、受损资源的自动隔离和安全通知工作流。 | Automate AWS GuardDuty threat detection findings processing using EventBridge and Lambda to enable real-time incident response, automatic quarantine of compromised resources, and security notification workflows."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

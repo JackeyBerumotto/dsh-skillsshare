@@ -1,6 +1,6 @@
 ---
 name: complexity-cuts
-description: "Lower Big-O on existing code via a one-transformation-at-a-time playbook with verify-revert-stop. For new code use lemmaly; for math-level wins escalate to mathguard."
+description: "通过「一次一个变换」的 playbook 并配合 verify-revert-stop 流程，降低既有代码的 Big-O 复杂度。新代码请用 lemmaly；数学层面的提升请升级到 mathguard。 | Lower Big-O on existing code via a one-transformation-at-a-time playbook with verify-revert-stop. For new code use lemmaly; for math-level wins escalate to mathguard."
 risk: safe
 source: community
 source_repo: morsechimwai/lemmaly

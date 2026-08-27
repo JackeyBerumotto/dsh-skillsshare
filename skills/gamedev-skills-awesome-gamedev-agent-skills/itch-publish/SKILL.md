@@ -1,7 +1,7 @@
 ---
 name: itch-publish
 description: >
-  Publish and update a game on itch.io: create the project page and upload builds with the
+  在 itch.io 上发布并更新游戏：创建项目页面，并用 butler CLI（butler push）向命名渠道上传构建。适用于 itch.io 发布、butler push、面向 Windows/macOS/Linux/HTML5 的渠道命名、上传版本管理，或把 jam 或正式版本构建发布到 itch.io。 |
   butler CLI (butler push) to named channels. Use for itch.io publishing, butler push,
   channel naming for Windows/macOS/Linux/HTML5, versioning uploads, or shipping a jam or
   release build to itch.io.

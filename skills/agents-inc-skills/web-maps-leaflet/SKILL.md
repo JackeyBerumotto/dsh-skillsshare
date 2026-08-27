@@ -1,6 +1,6 @@
 ---
 name: web-maps-leaflet
-description: Leaflet interactive maps - map setup, tile layers, markers, popups, GeoJSON, custom controls, plugins, clustering, events
+description: Leaflet 交互式地图——地图配置、瓦片图层、标记、弹出框、GeoJSON、自定义控件、插件、聚合与事件。 | Leaflet interactive maps - map setup, tile layers, markers, popups, GeoJSON, custom controls, plugins, clustering, events
 ---
 
 # Leaflet Interactive Map Patterns

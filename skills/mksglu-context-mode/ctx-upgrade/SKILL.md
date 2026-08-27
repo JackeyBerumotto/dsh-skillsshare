@@ -1,7 +1,7 @@
 ---
 name: ctx-upgrade
 description: |
-  Update context-mode from GitHub and fix hooks/settings.
+  从 GitHub 更新 context-mode 并修复 hooks/设置。拉取最新代码、构建、安装、更新全局 npm 包、配置 hooks。触发方式：/context-mode:ctx-upgrade。 |
   Pulls latest, builds, installs, updates npm global, configures hooks.
   Trigger: /context-mode:ctx-upgrade
 user-invocable: true

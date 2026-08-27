@@ -1,6 +1,6 @@
 ---
 name: rental-application
-description: "Write a standout rental application / cover letter to a landlord or letting agent. Use when asked to write a rental application, a letter to a landlord, a renter cover letter, or to strengthen an application for a competitive rental. Produces a concise renter profile and cover letter — who you are, why you're a reliable tenant, your evidence, and a clear ask — that helps a landlord choose you."
+description: "撰写出众的租房申请/给房东或租房中介的附信。在被要求编写租房申请、给房东的信、租客附信，或强化竞争性租房的申请时使用。产出简洁的租客画像和附信——你是谁、为何是可靠的租客、你的证明以及明确的请求——帮助房东选中你。 | Write a standout rental application / cover letter to a landlord or letting agent. Use when asked to write a rental application, a letter to a landlord, a renter cover letter, or to strengthen an application for a competitive rental. Produces a concise renter profile and cover letter — who you are, why you're a reliable tenant, your evidence, and a clear ask — that helps a landlord choose you."
 ---
 
 # Rental Application Skill

@@ -1,6 +1,6 @@
 ---
 name: rfp-scoring-matrix
-description: "Build a weighted RFP evaluation matrix and defensible award recommendation. Use when asked to score RFP responses, compare vendor bids, build a supplier evaluation matrix, run a sourcing event scorecard, or decide which bidder to award. Produces a criteria tree with weights, scoring anchors, normalized price scores, a consensus-scored comparison table, and an award recommendation with sensitivity check."
+description: "构建加权的 RFP 评估矩阵和有据可依的授标建议。当被要求为 RFP 响应打分、比较供应商投标、构建供应商评估矩阵、运行采购事件计分卡，或决定授标给哪家投标人时使用。产出一棵带权重的标准树、评分锚点、归一化价格得分、共识评分比较表，以及附带敏感性检查的授标建议。 | Build a weighted RFP evaluation matrix and defensible award recommendation. Use when asked to score RFP responses, compare vendor bids, build a supplier evaluation matrix, run a sourcing event scorecard, or decide which bidder to award. Produces a criteria tree with weights, scoring anchors, normalized price scores, a consensus-scored comparison table, and an award recommendation with sensitivity check."
 ---
 
 # RFP Scoring Matrix Skill

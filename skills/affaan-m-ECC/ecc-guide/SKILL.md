@@ -1,6 +1,6 @@
 ---
 name: ecc-guide
-description: Guide users through ECC's current agents, skills, commands, hooks, rules, install profiles, and project onboarding by reading the live repository surface before answering.
+description: 在回答前先阅读实时仓库信息，引导用户了解 ECC 当前的代理、技能、命令、hook、规则、安装配置和项目入职。 | Guide users through ECC's current agents, skills, commands, hooks, rules, install profiles, and project onboarding by reading the live repository surface before answering.
 metadata:
   origin: community
 ---

@@ -1,6 +1,6 @@
 ---
 name: figma-design-brief
-description: "Write a structured design brief for a Figma design task from a product requirement or feature request. Use when asked to write a design brief, create a design spec for Figma, turn a PRD into design requirements, or brief a designer on what to build in Figma. Produces a brief with goals, scope, user flows, components needed, constraints, and success criteria."
+description: "从产品需求或功能请求出发，为 Figma 设计任务撰写结构化设计简报。在被要求编写设计简报、为 Figma 创建设计规格、把 PRD 转化为设计需求，或向设计师说明要在 Figma 中构建什么时使用。产出包含目标、范围、用户流程、所需组件、约束和成功标准的简报。 | Write a structured design brief for a Figma design task from a product requirement or feature request. Use when asked to write a design brief, create a design spec for Figma, turn a PRD into design requirements, or brief a designer on what to build in Figma. Produces a brief with goals, scope, user flows, components needed, constraints, and success criteria."
 ---
 
 # Figma Design Brief Skill

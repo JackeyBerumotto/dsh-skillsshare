@@ -1,6 +1,6 @@
 ---
 name: game-audio
-description: "Game audio principles. Sound design, music integration, adaptive audio systems."
+description: "游戏音频原则。声音设计、音乐集成、自适应音频系统。 | Game audio principles. Sound design, music integration, adaptive audio systems."
 risk: unknown
 source: community
 date_added: "2026-02-27"

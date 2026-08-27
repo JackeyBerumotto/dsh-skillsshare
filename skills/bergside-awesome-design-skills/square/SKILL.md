@@ -1,6 +1,6 @@
 ---
 name: square
-description: Graceful, refined aesthetic with delicate typography, minimal palettes, and polished layouts that exude sophistication.
+description: 优雅精致的美学，搭配细腻的排版、极简配色和散发高级感的精美布局。 | Graceful, refined aesthetic with delicate typography, minimal palettes, and polished layouts that exude sophistication.
 license: MIT
 metadata:
   author: typeui.sh

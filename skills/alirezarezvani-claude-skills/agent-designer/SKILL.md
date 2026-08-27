@@ -1,6 +1,6 @@
 ---
 name: "agent-designer"
-description: "Use when the user asks to design a multi-agent system, pick an orchestration pattern (supervisor/swarm/pipeline), generate tool schemas for agents, or evaluate agent execution logs for cost, latency, and failure bottlenecks. Examples: 'design an agent architecture for research automation', 'generate Anthropic tool schemas from these tool descriptions', 'analyze these agent run logs for bottlenecks'. NOT for Claude Code workflow files (use workflow-builder) or single-agent prompt design (use agent-workflow-designer)."
+description: "当用户要求设计多代理系统、选择编排模式（supervisor/swarm/pipeline）、为代理生成工具 schema，或评估代理执行日志的成本、延迟和故障瓶颈时使用。示例：「design an agent architecture for research automation」「generate Anthropic tool schemas from these tool descriptions」「analyze these agent run logs for bottlenecks」。不用于 Claude Code 工作流文件（那使用 workflow-builder）或单代理提示设计（那使用 agent-workflow-designer）。 | Use when the user asks to design a multi-agent system, pick an orchestration pattern (supervisor/swarm/pipeline), generate tool schemas for agents, or evaluate agent execution logs for cost, latency, and failure bottlenecks. Examples: 'design an agent architecture for research automation', 'generate Anthropic tool schemas from these tool descriptions', 'analyze these agent run logs for bottlenecks'. NOT for Claude Code workflow files (use workflow-builder) or single-agent prompt design (use agent-workflow-designer)."
 ---
 
 # Agent Designer — Multi-Agent System Architecture

@@ -1,8 +1,6 @@
 ---
 name: performing-cloud-storage-forensic-acquisition
-description: Perform forensic acquisition and analysis of cloud storage services including
-  Google Drive, OneDrive, Dropbox, and Box by collecting both API-based remote data
-  and local sync client artifacts from endpoint devices.
+description: "对 Google Drive、OneDrive、Dropbox 和 Box 等云存储服务执行取证获取和分析，同时收集基于 API 的远程数据和来自终端设备的本地同步客户端痕迹。 | Perform forensic acquisition and analysis of cloud storage services including Google Drive, OneDrive, Dropbox, and Box by collecting both API-based remote data and local sync client artifacts from endpoint devices."
 domain: cybersecurity
 subdomain: digital-forensics
 tags:

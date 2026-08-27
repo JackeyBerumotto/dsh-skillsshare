@@ -1,6 +1,6 @@
 ---
 name: sales-enablement-kit
-description: "Build a sales enablement kit so reps can sell a product, feature, or launch confidently. Use when asked to create sales enablement materials, a rep-ready one-pager, talk tracks, objection handling, or a launch enablement package. Produces a complete kit — positioning summary, discovery questions, talk track, demo flow, objection handling, competitive counters, and a call-to-action for reps."
+description: "构建销售赋能包，让销售代表能够自信地售卖产品、功能或新发布的内容。当被要求创建销售赋能材料、面向销售的一页纸、话术脚本、异议应对，或发布赋能包时使用。产出完整工具包——定位摘要、需求挖掘问题、话术、演示流程、异议应对、竞品反击话术，以及给销售的行动号召。 | Build a sales enablement kit so reps can sell a product, feature, or launch confidently. Use when asked to create sales enablement materials, a rep-ready one-pager, talk tracks, objection handling, or a launch enablement package. Produces a complete kit — positioning summary, discovery questions, talk track, demo flow, objection handling, competitive counters, and a call-to-action for reps."
 ---
 
 # Sales Enablement Kit Skill

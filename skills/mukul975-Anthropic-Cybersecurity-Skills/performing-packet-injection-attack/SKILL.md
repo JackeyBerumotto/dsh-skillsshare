@@ -1,10 +1,6 @@
 ---
 name: performing-packet-injection-attack
-description: 'Crafts and injects custom network packets using Scapy, hping3, and Nemesis
-  during authorized security assessments to test firewall rules, IDS detection, protocol
-  handling, and network stack resilience against malformed and spoofed traffic.
-
-  '
+description: "在授权安全评估期间使用 Scapy、hping3 和 Nemesis 构造并注入自定义网络数据包，测试防火墙规则、IDS 检测、协议处理以及网络协议栈对畸形和伪造流量的抵御能力。 | Crafts and injects custom network packets using Scapy, hping3, and Nemesis during authorized security assessments to test firewall rules, IDS detection, protocol handling, and network stack resilience against malformed and spoofed traffic."
 domain: cybersecurity
 subdomain: network-security
 tags:

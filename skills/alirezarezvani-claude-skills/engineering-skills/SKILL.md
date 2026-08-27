@@ -1,6 +1,6 @@
 ---
 name: "engineering-skills"
-description: "Index of the engineering-team skills bundle for Claude Code, Codex, Gemini CLI, Cursor, OpenClaw, and 6 more tools. Architecture, frontend, backend, QA, DevOps, security, AI/ML, data engineering, Playwright, Stripe, AWS, MS365 (stdlib-only Python tools). Use when browsing or choosing among engineering-team role skills — load only the one specialist SKILL.md you need, never bulk-load the bundle."
+description: "面向 Claude Code、Codex、Gemini CLI、Cursor、OpenClaw 及另外 6 种工具的工程团队技能包索引。涵盖架构、前端、后端、QA、DevOps、安全、AI/ML、数据工程、Playwright、Stripe、AWS、MS365（仅用标准库的 Python 工具）。在浏览或选择工程团队角色技能时使用——只加载你需要的那个专家 SKILL.md，切勿批量加载整个技能包。 | Index of the engineering-team skills bundle for Claude Code, Codex, Gemini CLI, Cursor, OpenClaw, and 6 more tools. Architecture, frontend, backend, QA, DevOps, security, AI/ML, data engineering, Playwright, Stripe, AWS, MS365 (stdlib-only Python tools). Use when browsing or choosing among engineering-team role skills — load only the one specialist SKILL.md you need, never bulk-load the bundle."
 version: 2.9.0
 author: Alireza Rezvani
 license: MIT

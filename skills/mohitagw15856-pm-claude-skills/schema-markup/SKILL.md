@@ -1,6 +1,6 @@
 ---
 name: schema-markup
-description: "Generate structured-data (Schema.org / JSON-LD) markup to win rich results in search. Use when asked about schema markup, structured data, rich snippets, JSON-LD, or making a page eligible for stars/FAQ/breadcrumb results. Produces valid JSON-LD for the right schema type, the rich-result it targets, required vs. recommended fields, and validation/guideline notes."
+description: "生成结构化数据（Schema.org / JSON-LD）标记，以在搜索中赢得富媒体结果。当被问及 schema 标记、结构化数据、富媒体摘要、JSON-LD，或如何让页面有资格展示星级/FAQ/面包屑结果时使用。产出针对正确 schema 类型、目标富媒体结果、必填与推荐字段的有效 JSON-LD，并附验证与准则说明。 | Generate structured-data (Schema.org / JSON-LD) markup to win rich results in search. Use when asked about schema markup, structured data, rich snippets, JSON-LD, or making a page eligible for stars/FAQ/breadcrumb results. Produces valid JSON-LD for the right schema type, the rich-result it targets, required vs. recommended fields, and validation/guideline notes."
 ---
 
 # Schema Markup Skill

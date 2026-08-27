@@ -1,6 +1,6 @@
 ---
 name: learn
-description: Help a user learn a topic through adaptive tutoring, lesson planning, practice, retrieval checks, explanations, study guides, or exercises. Use when the user asks to learn, understand, practice, drill, review, study, or be tutored on something.
+description: 通过自适应辅导、课程规划、练习、检索检测、讲解、学习指南或习题，帮助用户学习某个主题。当用户要求学习、理解、练习、操练、复习、研读某内容或接受辅导时使用。 | Help a user learn a topic through adaptive tutoring, lesson planning, practice, retrieval checks, explanations, study guides, or exercises. Use when the user asks to learn, understand, practice, drill, review, study, or be tutored on something.
 category: "education"
 risk: "safe"
 source: "official"

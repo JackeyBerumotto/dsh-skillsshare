@@ -1,7 +1,7 @@
 ---
 name: ctx-index
 description: |
-  Index a local file or directory into context-mode's persistent FTS5 knowledge base
+  将本地文件或目录索引到 context-mode 的持久 FTS5 知识库，让后续 ctx_search 调用无需重新读取原始文件即可检索聚焦的片段。触发方式：/context-mode:ctx-index |
   so future ctx_search calls can retrieve focused snippets without rereading raw files.
   Trigger: /context-mode:ctx-index
 user-invocable: true

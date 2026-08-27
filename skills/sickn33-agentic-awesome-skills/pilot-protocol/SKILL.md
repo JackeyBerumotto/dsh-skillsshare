@@ -1,6 +1,6 @@
 ---
 name: pilot-protocol
-description: "Give an AI agent a permanent network address, encrypted P2P messaging, and an installable app store via Pilot Protocol"
+description: "通过 Pilot Protocol 为 AI 代理提供永久网络地址、加密 P2P 消息传递和可安装的应用商店 | Give an AI agent a permanent network address, encrypted P2P messaging, and an installable app store via Pilot Protocol"
 category: ai-agents
 risk: critical
 source: community

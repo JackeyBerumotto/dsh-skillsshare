@@ -1,6 +1,6 @@
 ---
 name: Google Cloud Agent SDK Master
-description: Automatic activation for all google cloud agent development kit (adk) Use when appropriate context detected. Trigger with relevant phrases based on skill purpose.
+description: 对所有 google cloud agent development kit（adk）相关操作自动激活。在检测到合适上下文时使用。可基于技能用途以相关短语触发。 | Automatic activation for all google cloud agent development kit (adk) Use when appropriate context detected. Trigger with relevant phrases based on skill purpose.
 version: 1.0.0
 allowed-tools:
 - Read

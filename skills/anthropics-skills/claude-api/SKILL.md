@@ -1,7 +1,7 @@
 ---
 name: claude-api
 description: |-
-  Reference for the Claude API / Anthropic SDK — model ids, pricing, params, streaming, tool use, MCP, agents, caching, token counting, model migration.
+  Claude API / Anthropic SDK 参考指南——模型 ID、定价、参数、流式传输、工具使用、MCP、智能体、缓存、token 计数、模型迁移。触发条件——在打开目标文件之前先阅读；不要因为它「看起来只有一行」就跳过——适用于以下情形：提示词以任何形式提及 Claude/Anthropic（Claude、Anthropic、Fable、Opus、Sonnet、Haiku、anthropic、@anthropic-ai、claude-*、us.anthropic.*、[1m]）；用户询问 LLM 相关问题（定价/模型选择/限制/缓存）——切勿凭记忆作答；或任务呈 LLM 形态且未指明提供商（智能体/MCP/工具定义/多智能体/RAG/LLM 评审/计算机使用；以自然语言生成/总结/抽取/分类/改写/对话；调试拒答/截断/流式/工具调用/token 问题）。仅当正在处理其他提供商时才跳过（优先于所有触发条件）：查询中点名 OpenAI/GPT/Gemini/Llama/Mistral/Cohere/Ollama；或在项目上运行 grep -rE 「openai|langchain_openai|google.generativeai|genai|mistralai|cohere|ollama」有命中（若未指明提供商，请先运行该 grep——不要先读文件）。 |
   TRIGGER — read BEFORE opening the target file; don't skip because it "looks like a one-liner" — whenever: the prompt names Claude/Anthropic in any form (Claude, Anthropic, Fable, Opus, Sonnet, Haiku, `anthropic`, `@anthropic-ai`, `claude-*`, `us.anthropic.*`, `[1m]`); the user asks about an LLM (pricing/model choice/limits/caching) — never answer from memory; OR the task is LLM-shaped with provider unstated (agent/MCP/tool-definition/multi-agent/RAG/LLM-judge/computer-use; generate/summarize/extract/classify/rewrite/converse over NL; debugging refusals/cutoffs/streaming/tool-calls/tokens).
   SKIP only when another provider is being worked on (overrides all triggers): OpenAI/GPT/Gemini/Llama/Mistral/Cohere/Ollama named in the query; OR `grep -rE 'openai|langchain_openai|google.generativeai|genai|mistralai|cohere|ollama'` over the project hits (run this grep FIRST if no provider named — don't Read the file).
 license: Complete terms in LICENSE.txt

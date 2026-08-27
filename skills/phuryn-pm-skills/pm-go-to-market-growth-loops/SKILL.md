@@ -1,6 +1,6 @@
 ---
 name: growth-loops
-description: "Identify growth loops (flywheels) for sustainable traction. Evaluates 5 loop types: Viral, Usage, Collaboration, User-Generated, and Referral. Use when designing growth mechanisms, building product-led traction, or understanding how growth loops work."
+description: "识别增长循环（飞轮）以获得可持续增长。评估 5 种循环类型：病毒式、使用型、协作型、用户生成型和推荐型。在设计增长机制、构建产品驱动的增长或理解增长飞轮原理时使用。 | Identify growth loops (flywheels) for sustainable traction. Evaluates 5 loop types: Viral, Usage, Collaboration, User-Generated, and Referral. Use when designing growth mechanisms, building product-led traction, or understanding how growth loops work."
 ---
 # Growth Loops
 

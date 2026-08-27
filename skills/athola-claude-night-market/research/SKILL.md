@@ -1,6 +1,6 @@
 ---
 name: research
-description: Runs multi-source research across GitHub, HN, Reddit, arXiv, and Semantic Scholar. Use when surveying a technical topic across multiple channels.
+description: 跨 GitHub、HN、Reddit、arXiv 和 Semantic Scholar 运行多源调研。在跨多个渠道调研技术主题时使用。 | Runs multi-source research across GitHub, HN, Reddit, arXiv, and Semantic Scholar. Use when surveying a technical topic across multiple channels.
 alwaysApply: false
 category: orchestration
 tags:

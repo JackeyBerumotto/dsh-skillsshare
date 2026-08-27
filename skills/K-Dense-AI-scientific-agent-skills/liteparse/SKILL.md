@@ -1,6 +1,6 @@
 ---
 name: liteparse
-description: Local document and PDF parsing with spatial text and bounding boxes. Use for extracting text from PDFs, DOCX, Office files, and images; OCR on scans; layout-preserved JSON for RAG; batch-ingesting paper folders; or page screenshots for multimodal agents — even when the user does not name liteparse. Prefer over MarkItDown when you need bboxes, fast local parsing, or PNG page renders; prefer over the pdf skill for merge/split/forms.
+description: 支持空间文本与边界框的本地文档和 PDF 解析。用于从 PDF、DOCX、Office 文件与图像中提取文本、对扫描件做 OCR、为 RAG 生成保留版式的 JSON、批量导入论文文件夹，或为多模态代理生成页面截图——即使用户没有提到 liteparse 也应使用。当需要边界框、快速本地解析或 PNG 页面渲染时，优先于 MarkItDown；需要合并/拆分/表单处理时，优先于 pdf 技能。 | Local document and PDF parsing with spatial text and bounding boxes. Use for extracting text from PDFs, DOCX, Office files, and images; OCR on scans; layout-preserved JSON for RAG; batch-ingesting paper folders; or page screenshots for multimodal agents — even when the user does not name liteparse. Prefer over MarkItDown when you need bboxes, fast local parsing, or PNG page renders; prefer over the pdf skill for merge/split/forms.
 license: Apache-2.0
 allowed-tools: Read Write Edit Bash
 compatibility: Python 3.10+. Optional LibreOffice (Office formats) and ImageMagick (images). Bundled Tesseract for OCR. All processing is local — no cloud API required.

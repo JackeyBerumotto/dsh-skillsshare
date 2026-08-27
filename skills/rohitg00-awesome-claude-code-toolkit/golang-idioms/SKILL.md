@@ -1,6 +1,6 @@
 ---
 name: golang-idioms
-description: Idiomatic Go patterns for error handling, interfaces, concurrency, testing, and module management
+description: 地道的 Go 模式，涵盖错误处理、接口、并发、测试和模块管理。 | Idiomatic Go patterns for error handling, interfaces, concurrency, testing, and module management
 ---
 
 # Go Idioms

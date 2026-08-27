@@ -1,8 +1,6 @@
 ---
 name: testing-ransomware-recovery-procedures
-description: Test and validate ransomware recovery procedures including backup restore
-  operations, RTO/RPO target verification, recovery sequencing, and clean restore
-  validation to ensure organizational resilience against destructive ransomware attacks.
+description: "测试并验证勒索软件恢复流程，包括备份恢复操作、RTO/RPO 目标验证、恢复顺序与干净恢复验证，确保组织具备抵御破坏性勒索软件攻击的韧性。 | Test and validate ransomware recovery procedures including backup restore operations, RTO/RPO target verification, recovery sequencing, and clean restore validation to ensure organizational resilience against destructive ransomware attacks."
 domain: cybersecurity
 subdomain: incident-response
 tags:

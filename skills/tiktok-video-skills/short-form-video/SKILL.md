@@ -1,6 +1,6 @@
 ---
 name: short-form-video
-description: 构建竖屏短视频（9:16），涵盖钩子开场、留存曲线、节奏打断和无缝循环等技巧。
+description: 构建竖屏短视频（9:16），涵盖钩子开场、留存曲线、节奏打断和无缝循环等技巧。 | Build vertical short-form videos (9:16), covering techniques such as hook openings, retention curves, rhythm breaks, and seamless loops.
 description_zh: 构建竖屏短视频（9:16），涵盖钩子开场、留存曲线、节奏打断和无缝循环等技巧。
 version: 0.1.0
 author: iart.ai

@@ -1,6 +1,6 @@
 ---
 name: swiftui-ui-patterns
-description: Apply proven SwiftUI UI patterns for navigation, sheets, async state, and reusable screens.
+description: 运用经过验证的 SwiftUI UI 模式来处理导航、浮层表单、异步状态和可复用界面。 | Apply proven SwiftUI UI patterns for navigation, sheets, async state, and reusable screens.
 risk: safe
 source: "Dimillian/Skills (MIT)"
 date_added: "2026-03-25"

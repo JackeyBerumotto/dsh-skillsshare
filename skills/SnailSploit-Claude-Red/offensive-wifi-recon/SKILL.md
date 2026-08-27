@@ -1,6 +1,6 @@
 ---
 name: offensive-wifi-recon
-description: "Wi-Fi reconnaissance methodology — adapter selection, monitor mode and packet injection setup, regulatory domain handling, multi-band airspace mapping, hidden SSID discovery, BSSID/ESSID/channel/PMF/encryption fingerprinting, client probe analysis, vendor OUI lookup, war-driving with Kismet/airodump-ng/Wigle, and structured airspace data capture for downstream attacks. Use at the start of any wireless engagement to build the target map before active attacks; covers 2.4 GHz, 5 GHz, and 6 GHz (Wi-Fi 6E) bands and adapter compatibility for each."
+description: "Wi-Fi 侦察方法论——适配器选择、监听模式与数据包注入设置、监管域处理、多频段空间测绘、隐藏 SSID 发现、BSSID/ESSID/信道/PMF/加密指纹、客户端探测请求分析、厂商 OUI 查询、使用 Kismet/airodump-ng/Wigle 战争驾驶，以及为后续攻击捕获结构化空间数据。在任何无线项目开始时使用，在主动攻击前建立目标地图；覆盖 2.4 GHz、5 GHz 和 6 GHz（Wi-Fi 6E）频段及各频段的适配器兼容性。 | Wi-Fi reconnaissance methodology — adapter selection, monitor mode and packet injection setup, regulatory domain handling, multi-band airspace mapping, hidden SSID discovery, BSSID/ESSID/channel/PMF/encryption fingerprinting, client probe analysis, vendor OUI lookup, war-driving with Kismet/airodump-ng/Wigle, and structured airspace data capture for downstream attacks. Use at the start of any wireless engagement to build the target map before active attacks; covers 2.4 GHz, 5 GHz, and 6 GHz (Wi-Fi 6E) bands and adapter compatibility for each."
 ---
 
 # Wi-Fi Reconnaissance

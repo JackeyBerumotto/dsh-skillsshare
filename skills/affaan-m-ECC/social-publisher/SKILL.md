@@ -1,6 +1,6 @@
 ---
 name: social-publisher
-description: Agent-driven scheduling and publishing of social media posts across 13 platforms via SocialClaw. Use when the user wants to publish to X, LinkedIn, Instagram, Facebook Pages, TikTok, Discord, Telegram, YouTube, Reddit, WordPress, or Pinterest — or when managing campaigns, uploading media, or monitoring post delivery status.
+description: 通过 SocialClaw 由代理驱动地在 13 个平台上安排和发布社交媒体帖子。当用户想发布到 X、LinkedIn、Instagram、Facebook Pages、TikTok、Discord、Telegram、YouTube、Reddit、WordPress 或 Pinterest，或需要管理营销活动、上传媒体、监控帖子投递状态时使用。 | Agent-driven scheduling and publishing of social media posts across 13 platforms via SocialClaw. Use when the user wants to publish to X, LinkedIn, Instagram, Facebook Pages, TikTok, Discord, Telegram, YouTube, Reddit, WordPress, or Pinterest — or when managing campaigns, uploading media, or monitoring post delivery status.
 metadata:
   origin: community
 ---

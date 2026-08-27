@@ -1,6 +1,6 @@
 ---
 name: testing-prompt-injection-in-rag-pipelines
-description: Probe RAG applications for prompt injection via poisoned retrieved context and embedding manipulation.
+description: 通过投毒的检索上下文和嵌入操纵，探测 RAG 应用的提示注入漏洞。 | Probe RAG applications for prompt injection via poisoned retrieved context and embedding manipulation.
 domain: cybersecurity
 subdomain: ai-security
 tags:

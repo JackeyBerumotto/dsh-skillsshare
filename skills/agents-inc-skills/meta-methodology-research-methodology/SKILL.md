@@ -1,6 +1,6 @@
 ---
 name: meta-methodology-research-methodology
-description: Investigation flow (Glob -> Grep -> Read), evidence-based research with file:line references, structured output format for AI consumption. Use for pattern discovery, implementation research, and codebase investigation.
+description: 调查流程（Glob -> Grep -> Read）、带 file:line 引用的基于证据的研究，以及面向 AI 消费的结构化输出格式。用于模式发现、实现调研和代码库调查。 | Investigation flow (Glob -> Grep -> Read), evidence-based research with file:line references, structured output format for AI consumption. Use for pattern discovery, implementation research, and codebase investigation.
 ---
 
 # Research Methodology

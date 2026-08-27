@@ -1,6 +1,6 @@
 ---
 name: orch-build-mvp
-description: Orchestrate bootstrapping a working MVP from a design or spec document — ingest the doc, plan thin vertical slices, scaffold the first end-to-end slice, then TDD-implement, review, and gated commit. Use to turn an SDD/PRD into a running starting point.
+description: 编排从设计或规范文档引导出可运行的 MVP——吸收文档、规划薄垂直切片、搭建首个端到端切片，然后 TDD 实现、评审并进行门控提交。用于将 SDD/PRD 转化为可运行的起点。 | Orchestrate bootstrapping a working MVP from a design or spec document — ingest the doc, plan thin vertical slices, scaffold the first end-to-end slice, then TDD-implement, review, and gated commit. Use to turn an SDD/PRD into a running starting point.
 metadata:
   origin: ECC
 ---

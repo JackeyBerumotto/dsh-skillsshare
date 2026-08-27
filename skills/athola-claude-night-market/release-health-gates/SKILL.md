@@ -1,6 +1,6 @@
 ---
 name: release-health-gates
-description: Standardizes release approvals with GitHub-aware checklists and deployment gates. Use before releasing to production to verify all gates pass.
+description: 通过适配 GitHub 的检查清单和部署门禁来标准化发布审批。在生产环境发布前使用，以验证所有门禁均通过。 | Standardizes release approvals with GitHub-aware checklists and deployment gates. Use before releasing to production to verify all gates pass.
 alwaysApply: false
 category: governance
 tags:

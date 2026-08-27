@@ -1,6 +1,6 @@
 ---
 name: iot-fleet
-description: Create and manage Cognitum Seed device fleets with firmware policies
+description: 创建并管理 Cognitum Seed 设备集群，支持固件策略 | Create and manage Cognitum Seed device fleets with firmware policies
 allowed-tools: Bash(npx *) mcp__claude-flow__memory_store mcp__claude-flow__memory_search Read
 argument-hint: "<create|list|add|remove|delete> [options]"
 ---

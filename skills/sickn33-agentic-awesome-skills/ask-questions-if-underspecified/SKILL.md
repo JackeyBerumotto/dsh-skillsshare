@@ -1,6 +1,6 @@
 ---
 name: ask-questions-if-underspecified
-description: Clarify requirements before implementing. Use when serious doubts arise.
+description: 在实现之前先澄清需求。当出现重大疑虑时使用。 | Clarify requirements before implementing. Use when serious doubts arise.
 risk: unknown
 source: community
 ---

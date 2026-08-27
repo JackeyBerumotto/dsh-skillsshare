@@ -1,6 +1,6 @@
 ---
 name: web-i18n-vue-i18n
-description: Type-safe i18n for Vue 3 Composition API
+description: Vue 3 Composition API 的类型安全 i18n。 | Type-safe i18n for Vue 3 Composition API
 ---
 
 # vue-i18n Internationalization Patterns

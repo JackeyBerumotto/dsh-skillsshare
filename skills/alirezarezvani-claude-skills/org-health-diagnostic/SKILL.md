@@ -1,6 +1,6 @@
 ---
 name: "org-health-diagnostic"
-description: "Cross-functional organizational health check combining signals from all C-suite roles. Scores 8 dimensions on a traffic-light scale with drill-down recommendations. Use when assessing overall company health, preparing for board reviews, identifying at-risk functions, or when user mentions org health, health check, or health dashboard."
+description: "跨职能的组织健康检查，综合所有 C-suite 角色的信号。以红绿灯量表对 8 个维度打分，并给出可下钻的建议。当评估公司整体健康状况、准备董事会评审、识别有风险的职能，或用户提到组织健康、健康检查或健康仪表盘时使用。 | Cross-functional organizational health check combining signals from all C-suite roles. Scores 8 dimensions on a traffic-light scale with drill-down recommendations. Use when assessing overall company health, preparing for board reviews, identifying at-risk functions, or when user mentions org health, health check, or health dashboard."
 license: MIT
 metadata:
   version: 1.0.0

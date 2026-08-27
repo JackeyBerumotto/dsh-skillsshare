@@ -1,6 +1,6 @@
 ---
 name: docs-as-marketing
-description: Transform documentation into a powerful marketing channel that attracts, converts, and retains developers. This skill covers creating documentation that ranks in search, converts visitors into users, and accelerates adoption through exceptional information architecture and...
+description: 将文档转化为强大的营销渠道，吸引、转化并留住开发者。本技能涵盖如何创建能在搜索中获得排名、把访客转化为用户并通过卓越信息架构加速采用的文档，以及…… | Transform documentation into a powerful marketing channel that attracts, converts, and retains developers. This skill covers creating documentation that ranks in search, converts visitors into users, and accelerates adoption through exceptional information architecture and...
 risk: unknown
 source: https://github.com/jonathimer/devmarketing-skills/tree/main/skills/docs-as-marketing
 source_repo: jonathimer/devmarketing-skills

@@ -1,6 +1,6 @@
 ---
 name: session-handoff
-description: "Write a handoff summary so another agent or person (or a fresh session) can pick up the work with full context. Use when ending a work session, hitting a context limit, switching agents, or pausing a task mid-flight. Produces a structured handoff: what the goal is, what's done, the current state, what's next, and the gotchas — so no context is lost across the boundary."
+description: "撰写交接摘要，让另一个智能体或人（或全新会话）带着完整上下文接手工作。在结束工作会话、达到上下文上限、切换智能体或中途暂停任务时使用。产出结构化交接：目标是什么、已完成什么、当前状态、下一步以及注意事项——确保上下文跨边界不丢失。 | Write a handoff summary so another agent or person (or a fresh session) can pick up the work with full context. Use when ending a work session, hitting a context limit, switching agents, or pausing a task mid-flight. Produces a structured handoff: what the goal is, what's done, the current state, what's next, and the gotchas — so no context is lost across the boundary."
 ---
 
 # Session Handoff Skill

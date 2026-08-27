@@ -1,7 +1,5 @@
 ---
-description: This skill empowers claude to construct recommendation systems using
-  collaborative filtering, content-based filtering, or hybrid approaches. it analyzes
-  user preferences, item features, and interaction data to generate personalized recommendations...
+description: "本技能使 claude 能够构建推荐系统，采用协同过滤、基于内容的过滤或混合方法。它分析用户偏好、物品特征与交互数据，以生成个性化推荐。 | This skill empowers claude to construct recommendation systems using collaborative filtering, content-based filtering, or hybrid approaches. it analyzes user preferences, item features, and interaction data to generate personalized recommendations..."
 allowed-tools:
 - Read
 - Write

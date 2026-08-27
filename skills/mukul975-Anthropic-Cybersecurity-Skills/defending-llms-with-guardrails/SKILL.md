@@ -1,6 +1,6 @@
 ---
 name: defending-llms-with-guardrails
-description: Deploy Llama Guard, NeMo Guardrails, and LLM Guard input/output scanners as runtime defenses.
+description: 部署 Llama Guard、NeMo Guardrails 和 LLM Guard 输入／输出扫描器作为运行时防御。 | Deploy Llama Guard, NeMo Guardrails, and LLM Guard input/output scanners as runtime defenses.
 domain: cybersecurity
 subdomain: ai-security
 tags:

@@ -1,6 +1,6 @@
 ---
 name: linkerd-patterns
-description: "Production patterns for Linkerd service mesh - the lightweight, security-first service mesh for Kubernetes."
+description: "Linkerd 服务网格的生产模式——面向 Kubernetes 的轻量级、安全优先服务网格。 | Production patterns for Linkerd service mesh - the lightweight, security-first service mesh for Kubernetes."
 risk: critical
 source: community
 date_added: "2026-02-27"

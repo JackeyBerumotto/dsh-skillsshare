@@ -1,6 +1,6 @@
 ---
 name: open-source-marketing
-description: When the user wants to market an open source project authentically. Trigger phrases include "open source marketing," "OSS marketing," "GitHub marketing," "promote my library," "grow stars," "launch open source," "open source growth," or "contributor marketing."
+description: 当用户想要真诚地营销一个开源项目时使用。触发词包括「open source marketing」「OSS marketing」「GitHub marketing」「promote my library」「grow stars」「launch open source」「open source growth」或「contributor marketing」。 | When the user wants to market an open source project authentically. Trigger phrases include "open source marketing," "OSS marketing," "GitHub marketing," "promote my library," "grow stars," "launch open source," "open source growth," or "contributor marketing."
 risk: unknown
 source: https://github.com/jonathimer/devmarketing-skills/tree/main/skills/open-source-marketing
 source_repo: jonathimer/devmarketing-skills

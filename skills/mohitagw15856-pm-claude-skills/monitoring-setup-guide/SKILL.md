@@ -1,6 +1,6 @@
 ---
 name: monitoring-setup-guide
-description: "Write a monitoring setup guide for a service — defining what to measure, how to alert on it, and how to build the observability stack covering the four golden signals, business metrics, log strategy, distributed tracing, alerting rules, dashboard layout, and observability debt. Use when asked to set up monitoring for a service, define alerting strategy, write an observability plan, create a dashboard specification, or document logging standards for a team. Produces a metric definitions table, alert rules specification, dashboard layout wireframe, log schema, tracing setup checklist, and monitoring gap analysis."
+description: "为服务编写监控搭建指南——定义测量什么、如何告警，以及如何构建覆盖四大黄金信号、业务指标、日志策略、分布式追踪、告警规则、看板布局和可观测性债务的可观测性技术栈。在被要求为服务搭建监控、定义告警策略、编写可观测性方案、创建看板规格，或为团队记录日志规范时使用。产出指标定义表、告警规则规格、看板布局线框、日志 schema、追踪搭建检查清单和监控差距分析。 | Write a monitoring setup guide for a service — defining what to measure, how to alert on it, and how to build the observability stack covering the four golden signals, business metrics, log strategy, distributed tracing, alerting rules, dashboard layout, and observability debt. Use when asked to set up monitoring for a service, define alerting strategy, write an observability plan, create a dashboard specification, or document logging standards for a team. Produces a metric definitions table, alert rules specification, dashboard layout wireframe, log schema, tracing setup checklist, and monitoring gap analysis."
 ---
 
 # Monitoring Setup Guide Skill

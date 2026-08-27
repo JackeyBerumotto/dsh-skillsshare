@@ -1,7 +1,7 @@
 ---
 name: love2d-core
 description: >
-  Structure and debug a LÖVE (Love2D) game in Lua: the love.load/update/draw loop,
+  用 Lua 构建和调试 LÖVE（Love2D）游戏：love.load/update/draw 循环、基于增量时间的运动、输入以及屏幕状态。在构建 LÖVE 11.x 游戏（main.lua、conf.lua、.love）时使用。 |
   delta-time movement, input, and screen states. Use when building a LÖVE 11.x game
   (main.lua, conf.lua, .love).
 license: Apache-2.0

@@ -1,6 +1,6 @@
 ---
 name: competitor-teardown
-description: "Produce a structured competitive analysis for any product or market. Use when asked for a competitor analysis, competitive teardown, market comparison, SWOT, or positioning map. Generates a structured teardown with positioning map, feature comparison, messaging gaps, and strategic recommendations. For a full landscape doc with feature matrix and win/loss analysis use competitive-analysis instead."
+description: "为任何产品或市场产出结构化竞争分析。当被要求做竞品分析、竞争拆解、市场对比、SWOT 或定位图时使用。生成结构化拆解，包含定位图、功能对比、文案缺口和战略建议。若需要带功能矩阵和赢单/输单分析的完整格局文档，请改用 competitive-analysis。 | Produce a structured competitive analysis for any product or market. Use when asked for a competitor analysis, competitive teardown, market comparison, SWOT, or positioning map. Generates a structured teardown with positioning map, feature comparison, messaging gaps, and strategic recommendations. For a full landscape doc with feature matrix and win/loss analysis use competitive-analysis instead."
 ---
 
 # Competitor Teardown Skill

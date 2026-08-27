@@ -1,6 +1,6 @@
 ---
 name: voice-extract
-description: Extracts a user's writing voice from text samples via SICO comparative analysis. Use when building a voice profile for consistent generation.
+description: 通过 SICO 对比分析从文本样本提取用户的写作声音。在为一致性生成构建声音画像时使用。 | Extracts a user's writing voice from text samples via SICO comparative analysis. Use when building a voice profile for consistent generation.
 globs: "**/*.{md,txt}"
 alwaysApply: false
 category: writing-quality

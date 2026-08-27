@@ -1,6 +1,6 @@
 ---
 name: ai-orchestration-vercel-ai-sdk
-description: Vercel AI SDK patterns - providers, text generation, streaming, structured output, tool calling, chat UI hooks, embeddings, and RAG
+description: Vercel AI SDK 模式——提供商、文本生成、流式输出、结构化输出、工具调用、聊天 UI 钩子、嵌入和 RAG。 | Vercel AI SDK patterns - providers, text generation, streaming, structured output, tool calling, chat UI hooks, embeddings, and RAG
 ---
 
 # Vercel AI SDK Patterns

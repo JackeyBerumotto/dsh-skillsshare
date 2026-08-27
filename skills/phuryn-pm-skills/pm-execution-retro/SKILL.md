@@ -1,6 +1,6 @@
 ---
 name: retro
-description: "Facilitate a structured sprint retrospective — what went well, what didn't, and prioritized action items with owners and deadlines. Use when running a retrospective, reflecting on a sprint, creating action items from team feedback, or learning how to run effective retros."
+description: "主持结构化冲刺回顾——哪些做得好、哪些没做好，以及带负责人与截止日期的优先行动项。在开回顾会、复盘冲刺、从团队反馈提炼行动项或学习如何高效开回顾会时使用。 | Facilitate a structured sprint retrospective — what went well, what didn't, and prioritized action items with owners and deadlines. Use when running a retrospective, reflecting on a sprint, creating action items from team feedback, or learning how to run effective retros."
 ---
 
 ## Sprint Retrospective Facilitator

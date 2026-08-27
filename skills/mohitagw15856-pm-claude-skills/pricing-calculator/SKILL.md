@@ -1,6 +1,6 @@
 ---
 name: pricing-calculator
-description: "Model pricing scenarios — tiers, margins, break-even, and the revenue impact of a price change. Use when asked to calculate pricing, model a price increase, find break-even volume, set tier prices to a margin target, or estimate the revenue effect of a pricing change. Produces a computed pricing model (per-tier margin, break-even units, price-change revenue impact with an elasticity assumption) and a recommendation."
+description: "为定价场景建模——分层、利润率、盈亏平衡，以及价格变化对收入的影响。当被要求计算定价、为涨价建模、求盈亏平衡销量、按利润率目标设定各层价格，或估算定价变更的收入效应时使用。产出计算好的定价模型（各层利润率、盈亏平衡件数、含弹性假设的价格变动收入影响）与建议。 | Model pricing scenarios — tiers, margins, break-even, and the revenue impact of a price change. Use when asked to calculate pricing, model a price increase, find break-even volume, set tier prices to a margin target, or estimate the revenue effect of a pricing change. Produces a computed pricing model (per-tier margin, break-even units, price-change revenue impact with an elasticity assumption) and a recommendation."
 ---
 
 # Pricing Calculator Skill

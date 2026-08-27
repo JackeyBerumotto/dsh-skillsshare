@@ -1,6 +1,6 @@
 ---
 name: game-art
-description: "Game art principles. Visual style selection, asset pipeline, animation workflow."
+description: "游戏美术原则。视觉风格选择、资产管线、动画工作流。 | Game art principles. Visual style selection, asset pipeline, animation workflow."
 risk: unknown
 source: community
 date_added: "2026-02-27"

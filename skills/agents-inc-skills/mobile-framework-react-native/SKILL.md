@@ -1,6 +1,6 @@
 ---
 name: mobile-framework-react-native
-description: React Native mobile development patterns - New Architecture (Fabric, TurboModules, JSI), component architecture, React Navigation 7+, FlashList v2 optimization, gestures with Reanimated 4, platform-specific code, React 19 features
+description: React Native 移动开发模式：新架构（Fabric、TurboModules、JSI）、组件架构、React Navigation 7+、FlashList v2 优化、基于 Reanimated 4 的手势、平台专属代码、React 19 特性。 | React Native mobile development patterns - New Architecture (Fabric, TurboModules, JSI), component architecture, React Navigation 7+, FlashList v2 optimization, gestures with Reanimated 4, platform-specific code, React 19 features
 ---
 
 # React Native Development Patterns

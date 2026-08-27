@@ -1,6 +1,6 @@
 ---
 name: azure-keyvault-secrets-ts
-description: "Manage secrets using Azure Key Vault Secrets SDK for JavaScript (@azure/keyvault-secrets). Use when storing and retrieving application secrets or configuration values."
+description: "使用面向 JavaScript 的 Azure Key Vault Secrets SDK（@azure/keyvault-secrets）管理机密。在存储和读取应用机密或配置值时使用。 | Manage secrets using Azure Key Vault Secrets SDK for JavaScript (@azure/keyvault-secrets). Use when storing and retrieving application secrets or configuration values."
 risk: unknown
 source: community
 date_added: "2026-02-27"

@@ -1,6 +1,6 @@
 ---
 name: vintage
-description: 1950s-1990s nostalgia with skeuomorphic touches, grainy textures, retro color palettes, and pixel-style typography.
+description: 二十世纪五十至九十年代的怀旧风格，带拟物化细节、颗粒质感、复古配色和像素风字体。 | 1950s-1990s nostalgia with skeuomorphic touches, grainy textures, retro color palettes, and pixel-style typography.
 license: MIT
 metadata:
   author: typeui.sh

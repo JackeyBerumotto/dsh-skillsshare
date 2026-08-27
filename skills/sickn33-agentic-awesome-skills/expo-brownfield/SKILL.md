@@ -1,6 +1,6 @@
 ---
 name: expo-brownfield
-description: Integrate Expo and React Native into an existing native iOS or Android app. Use when the user mentions brownfield, embedding React Native in a native app, AAR/XCFramework, or adding Expo to an existing Kotlin/Swift project. Covers both the isolated approach and the integrated approach.
+description: 将 Expo 与 React Native 集成到现有原生 iOS 或 Android 应用。当用户提到 brownfield、在原生应用中嵌入 React Native、AAR/XCFramework，或向现有 Kotlin/Swift 项目添加 Expo 时使用。同时涵盖隔离方案与集成方案。 | Integrate Expo and React Native into an existing native iOS or Android app. Use when the user mentions brownfield, embedding React Native in a native app, AAR/XCFramework, or adding Expo to an existing Kotlin/Swift project. Covers both the isolated approach and the integrated approach.
 risk: unknown
 source: https://github.com/expo/skills/tree/main/plugins/expo/skills/expo-brownfield
 source_repo: expo/skills

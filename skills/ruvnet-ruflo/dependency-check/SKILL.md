@@ -1,6 +1,6 @@
 ---
 name: dependency-check
-description: Scan project dependencies for known vulnerabilities and CVEs. Use when auditing third-party packages, before releases, after `npm install`/lockfile changes, or when investigating reported CVE advisories.
+description: 扫描项目依赖中的已知漏洞和 CVE。在审计第三方包、发布之前、执行 `npm install` 或锁文件变更之后，或调查已报告的 CVE 公告时使用。 | Scan project dependencies for known vulnerabilities and CVEs. Use when auditing third-party packages, before releases, after `npm install`/lockfile changes, or when investigating reported CVE advisories.
 argument-hint: "[--path PATH]"
 allowed-tools: Bash(npx * npm *) mcp__claude-flow__memory_store Read
 ---

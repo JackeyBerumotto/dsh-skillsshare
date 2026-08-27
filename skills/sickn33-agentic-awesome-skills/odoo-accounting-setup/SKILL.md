@@ -1,6 +1,6 @@
 ---
 name: odoo-accounting-setup
-description: "Expert guide for configuring Odoo Accounting: chart of accounts, journals, fiscal positions, taxes, payment terms, and bank reconciliation."
+description: "Odoo 会计配置专家指南：会计科目表、日记账、财政状况、税、付款条款和银行对账。 | Expert guide for configuring Odoo Accounting: chart of accounts, journals, fiscal positions, taxes, payment terms, and bank reconciliation."
 risk: safe
 source: "self"
 ---

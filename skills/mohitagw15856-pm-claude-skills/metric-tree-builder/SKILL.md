@@ -1,6 +1,6 @@
 ---
 name: metric-tree-builder
-description: "Decompose a north-star metric into a driver tree — the inputs and sub-inputs that actually move it — so a team knows which levers to pull. Use when asked to build a metric tree, break down a north-star metric, map metric drivers, or find the inputs behind an output metric. Produces a hierarchical tree from the top metric down to actionable input metrics, with the relationships, the highest-leverage levers, and what to instrument."
+description: "将北极星指标分解为驱动因素树——真正影响它的输入和子输入——让团队知道该拉哪些杠杆。当被要求构建指标树、拆解北极星指标、梳理指标驱动因素或找出产出指标背后的输入时使用。产出从顶层指标到可执行输入指标的层级树，附各指标间关系、杠杆率最高的抓手以及需要埋点监测的内容。 | Decompose a north-star metric into a driver tree — the inputs and sub-inputs that actually move it — so a team knows which levers to pull. Use when asked to build a metric tree, break down a north-star metric, map metric drivers, or find the inputs behind an output metric. Produces a hierarchical tree from the top metric down to actionable input metrics, with the relationships, the highest-leverage levers, and what to instrument."
 ---
 
 # Metric Tree Builder Skill

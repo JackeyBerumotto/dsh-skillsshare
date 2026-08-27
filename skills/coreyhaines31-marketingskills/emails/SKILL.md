@@ -1,6 +1,6 @@
 ---
 name: emails
-description: When the user wants to create or optimize an email sequence, drip campaign, automated email flow, or lifecycle email program. Also use when the user mentions "email sequence," "drip campaign," "nurture sequence," "onboarding emails," "welcome sequence," "re-engagement emails," "email automation," "lifecycle emails," "trigger-based emails," "email funnel," "email workflow," "what emails should I send," "welcome series," or "email cadence." Use this for any multi-email automated flow. For cold outreach emails, see cold-email. For in-app onboarding, see onboarding.
+description: 当用户想要创建或优化邮件序列、滴灌活动、自动化邮件流或生命周期邮件计划时使用。当用户提到「email sequence」「drip campaign」「nurture sequence」「onboarding emails」「welcome sequence」「re-engagement emails」「email automation」「lifecycle emails」「trigger-based emails」「email funnel」「email workflow」「what emails should I send」「welcome series」或「email cadence」时也应使用。适用于任何多封邮件的自动化流程。冷外联邮件见 cold-email。应用内新手引导见 onboarding。 | When the user wants to create or optimize an email sequence, drip campaign, automated email flow, or lifecycle email program. Also use when the user mentions "email sequence," "drip campaign," "nurture sequence," "onboarding emails," "welcome sequence," "re-engagement emails," "email automation," "lifecycle emails," "trigger-based emails," "email funnel," "email workflow," "what emails should I send," "welcome series," or "email cadence." Use this for any multi-email automated flow. For cold outreach emails, see cold-email. For in-app onboarding, see onboarding.
 metadata:
   version: 2.0.0
 ---

@@ -1,6 +1,6 @@
 ---
 name: regulatory-affairs-head
-description: Senior Regulatory Affairs Manager expertise for HealthTech and MedTech companies. Provides strategic regulatory guidance, submission management, regulatory pathway analysis, global compliance coordination, and cross-functional team leadership. Use for regulatory strategy development, submission planning, regulatory risk assessment, and team coordination activities.
+description: 面向健康科技和医疗科技公司的资深法规事务经理专长。提供战略性法规指导、申报管理、法规路径分析、全球合规协调和跨职能团队领导。用于法规战略制定、申报规划、法规风险评估和团队协调活动。 | Senior Regulatory Affairs Manager expertise for HealthTech and MedTech companies. Provides strategic regulatory guidance, submission management, regulatory pathway analysis, global compliance coordination, and cross-functional team leadership. Use for regulatory strategy development, submission planning, regulatory risk assessment, and team coordination activities.
 ---
 
 # Senior Regulatory Affairs Manager (Head of Regulatory Affairs)

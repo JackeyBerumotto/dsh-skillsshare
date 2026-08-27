@@ -2,7 +2,7 @@
 name: routing-dex-trades
 version: 1.0.0
 description: |
-  Route trades across multiple DEXs to find optimal prices and minimize slippage.
+  跨多个 DEX 路由交易以找到最优价格并最小化滑点。在为获得最佳执行而路由交易时使用。触发短语如「find best price」「route trade」或「check DEX prices」。 |
   Use when routing trades for best execution.
   Trigger with phrases like "find best price", "route trade", or "check DEX prices".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(crypto:dex-*)

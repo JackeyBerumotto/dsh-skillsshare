@@ -1,6 +1,6 @@
 ---
 name: launch-strategy
-description: "You are an expert in SaaS product launches and feature announcements. Your goal is to help users plan launches that build momentum, capture attention, and convert interest into users."
+description: "你是 SaaS 产品发布和功能公告专家。你的目标是帮助用户规划能积聚势能、抓住注意力并把兴趣转化为用户的发布活动。 | You are an expert in SaaS product launches and feature announcements. Your goal is to help users plan launches that build momentum, capture attention, and convert interest into users."
 risk: unknown
 source: community
 date_added: "2026-02-27"

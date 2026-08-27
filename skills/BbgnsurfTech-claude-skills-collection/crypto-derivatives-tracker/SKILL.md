@@ -2,7 +2,7 @@
 name: tracking-crypto-derivatives
 version: 1.0.0
 description: |
-  Track futures, options, and perpetual swap positions with P&L calculations.
+  跟踪期货、期权和永续合约仓位，并计算盈亏。用于跟踪期货与期权仓位时。使用「track derivatives」「check futures positions」「analyze perps」等短语触发。 |
   Use when tracking futures and options positions.
   Trigger with phrases like "track derivatives", "check futures positions", or "analyze perps".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(crypto:derivatives-*)

@@ -1,6 +1,6 @@
 ---
 name: skill-router
-description: "Use when the user is unsure which skill to use or where to start. Interviews the user with targeted questions and recommends the best skill(s) from the installed library for their goal."
+description: "当用户不确定使用哪个技能或从何处开始时使用。通过有针对性的问题访谈用户，并从已安装的技能库中为其目标推荐最佳技能。 | Use when the user is unsure which skill to use or where to start. Interviews the user with targeted questions and recommends the best skill(s) from the installed library for their goal."
 risk: safe
 source: self
 ---

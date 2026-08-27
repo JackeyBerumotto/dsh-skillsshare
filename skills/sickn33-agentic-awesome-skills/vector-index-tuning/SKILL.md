@@ -1,6 +1,6 @@
 ---
 name: vector-index-tuning
-description: "Optimize vector index performance for latency, recall, and memory. Use when tuning HNSW parameters, selecting quantization strategies, or scaling vector search infrastructure."
+description: "针对延迟、召回率和内存优化向量索引性能。在调优 HNSW 参数、选择量化策略或扩展向量搜索基础设施时使用。 | Optimize vector index performance for latency, recall, and memory. Use when tuning HNSW parameters, selecting quantization strategies, or scaling vector search infrastructure."
 risk: safe
 source: community
 date_added: "2026-02-27"

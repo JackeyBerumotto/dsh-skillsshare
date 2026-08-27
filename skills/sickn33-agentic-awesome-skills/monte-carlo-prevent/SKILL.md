@@ -1,6 +1,6 @@
 ---
 name: monte-carlo-prevent
-description: "Surfaces Monte Carlo data observability context (table health, alerts, lineage, blast radius) before SQL/dbt edits."
+description: "在修改 SQL/dbt 之前呈现 Monte Carlo 数据可观测性上下文（表健康度、告警、血缘、影响范围）。 | Surfaces Monte Carlo data observability context (table health, alerts, lineage, blast radius) before SQL/dbt edits."
 category: data
 risk: safe
 source: community

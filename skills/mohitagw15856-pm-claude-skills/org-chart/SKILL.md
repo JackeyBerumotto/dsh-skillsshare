@@ -1,6 +1,6 @@
 ---
 name: org-chart
-description: "Turn a team or reporting structure into a clean org chart. Use when asked to draw an org chart, show reporting lines, visualize team structure, or map who reports to whom. Produces a ready-to-render Mermaid org chart (renders live, exportable as PNG/SVG) plus headcount notes and any structural observations."
+description: "将团队或汇报结构转换为清晰的组织架构图。当被要求绘制组织架构图、展示汇报关系、可视化团队结构或梳理谁向谁汇报时使用。产出可直接渲染的 Mermaid 组织架构图（可实时渲染、可导出为 PNG/SVG），附带人员编制说明和结构性观察。 | Turn a team or reporting structure into a clean org chart. Use when asked to draw an org chart, show reporting lines, visualize team structure, or map who reports to whom. Produces a ready-to-render Mermaid org chart (renders live, exportable as PNG/SVG) plus headcount notes and any structural observations."
 ---
 
 # Org Chart Skill

@@ -1,6 +1,6 @@
 ---
 name: workflow-run
-description: Run a workflow — drive an MCP workflow lifecycle (execute/pause/resume/cancel) or invoke + resume a native .claude/workflows/*.js orchestration via the Workflow tool
+description: 运行工作流——驱动 MCP 工作流生命周期（执行/暂停/恢复/取消），或通过 Workflow 工具调用并恢复原生的 .claude/workflows/*.js 编排。 | Run a workflow — drive an MCP workflow lifecycle (execute/pause/resume/cancel) or invoke + resume a native .claude/workflows/*.js orchestration via the Workflow tool
 argument-hint: "<workflow-id-or-name>"
 allowed-tools: mcp__claude-flow__workflow_execute mcp__claude-flow__workflow_run mcp__claude-flow__workflow_pause mcp__claude-flow__workflow_resume mcp__claude-flow__workflow_cancel mcp__claude-flow__workflow_status Workflow Read Bash
 ---

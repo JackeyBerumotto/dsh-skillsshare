@@ -1,6 +1,6 @@
 ---
 name: "caio-review"
-description: "/cs:caio-review <plan> — Eval-demanding Chief AI Officer interrogation of any plan that involves AI: model selection, risk classification, cost economics, or AI hiring. Use when shipping an AI feature without an eval set, choosing between API, fine-tune, and self-hosted, or classifying a use case under the EU AI Act."
+description: "/cs:caio-review <plan>——要求评测佐证的首席 AI 官审讯，针对任何涉及 AI 的计划：模型选型、风险分级、成本经济性或 AI 招聘。适用于在没有评测集的情况下发布 AI 功能、在 API、微调与自托管之间做选择，或依据欧盟 AI 法案对用例分类时。 | /cs:caio-review <plan> — Eval-demanding Chief AI Officer interrogation of any plan that involves AI: model selection, risk classification, cost economics, or AI hiring. Use when shipping an AI feature without an eval set, choosing between API, fine-tune, and self-hosted, or classifying a use case under the EU AI Act."
 ---
 
 # /cs:caio-review — CAIO Forcing Questions

@@ -1,6 +1,6 @@
 ---
 name: validating-pci-dss-compliance
-description: Validate PCI-DSS compliance for payment card data security. Use when auditing payment systems. Trigger with 'validate PCI-DSS', 'check payment security', or 'audit card data'.
+description: 验证支付卡数据安全的 PCI-DSS 合规。在审计支付系统时使用。触发词如「validate PCI-DSS」「check payment security」或「audit card data」。 | Validate PCI-DSS compliance for payment card data security. Use when auditing payment systems. Trigger with 'validate PCI-DSS', 'check payment security', or 'audit card data'.
 version: 1.0.0
 allowed-tools:
 - Read

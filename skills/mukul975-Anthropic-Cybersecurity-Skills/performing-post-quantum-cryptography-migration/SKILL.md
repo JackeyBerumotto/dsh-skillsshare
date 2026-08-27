@@ -1,14 +1,6 @@
 ---
 name: performing-post-quantum-cryptography-migration
-description: 'Assesses organizational readiness for post-quantum cryptography migration
-  per NIST FIPS 203/204/205 standards. Performs cryptographic inventory scanning to
-  identify quantum-vulnerable algorithms (RSA, ECDH, ECDSA), evaluates hybrid TLS
-  configurations with X25519MLKEM768, and validates CRYSTALS-Kyber (ML-KEM) and CRYSTALS-Dilithium
-  (ML-DSA) readiness. Implements crypto-agility assessment using oqs-provider for
-  OpenSSL. Use when planning or executing the transition from classical to post-quantum
-  cryptographic algorithms across enterprise infrastructure.
-
-  '
+description: "依据 NIST FIPS 203/204/205 标准评估组织向后量子密码迁移的准备程度。执行密码资产清点扫描以识别易受量子攻击的算法（RSA、ECDH、ECDSA），评估采用 X25519MLKEM768 的混合 TLS 配置，并验证 CRYSTALS-Kyber（ML-KEM）和 CRYSTALS-Dilithium（ML-DSA）的就绪度。使用 oqs-provider 为 OpenSSL 实施密码敏捷性评估。当在企业基础设施中规划或执行从经典密码算法到后量子密码算法的迁移时使用。 | Assesses organizational readiness for post-quantum cryptography migration per NIST FIPS 203/204/205 standards. Performs cryptographic inventory scanning to identify quantum-vulnerable algorithms (RSA, ECDH, ECDSA), evaluates hybrid TLS configurations with X25519MLKEM768, and validates CRYSTALS-Kyber (ML-KEM) and CRYSTALS-Dilithium (ML-DSA) readiness. Implements crypto-agility assessment using oqs-provider for OpenSSL. Use when planning or executing the transition from classical to post-quantum cryptographic algorithms across enterprise infrastructure."
 domain: cybersecurity
 subdomain: cryptography
 tags:

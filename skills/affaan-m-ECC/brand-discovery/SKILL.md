@@ -1,7 +1,7 @@
 ---
 name: brand-discovery
 description: >-
-  Use when a brand needs to discover or articulate its identity through
+  当品牌需要通过结构化的多轮访谈来发现或阐明自身身份时使用。跨越 8 个模块，运用阶梯法、5 个为什么和投射技术，涵盖目的、定位、受众、个性、声音、叙事以及创始人-品牌张力。产出可断点续用的会话（状态持久化到磁盘）和一份主品牌手册（90_SYNTHESIS.md）。 |
   structured multi-session interviews. Covers purpose, positioning, audience,
   personality, voice, narrative, and founder-brand tension across 8 modules
   using laddering, 5 Whys, and projective techniques. Produces a resumable

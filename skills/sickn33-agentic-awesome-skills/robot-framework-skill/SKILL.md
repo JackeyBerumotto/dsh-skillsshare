@@ -1,6 +1,6 @@
 ---
 name: robot-framework-skill
-description: 'Generates Robot Framework tests in keyword-driven syntax with Python. Supports SeleniumLibrary, RequestsLibrary, and custom keywords. Use when user mentions "Robot Framework", "*** Test Cases ***", "SeleniumLibrary", ".robot file". Triggers on: "Robot Framework", "*** Test Cases ***",...'
+description: '生成关键字驱动语法的 Robot Framework 测试，使用 Python。支持 SeleniumLibrary、RequestsLibrary 和自定义关键字。当用户提到「Robot Framework」、「*** Test Cases ***」、「SeleniumLibrary」、「.robot file」时使用。触发词：「Robot Framework」、「*** Test Cases ***」…… | Generates Robot Framework tests in keyword-driven syntax with Python. Supports SeleniumLibrary, RequestsLibrary, and custom keywords. Use when user mentions "Robot Framework", "*** Test Cases ***", "SeleniumLibrary", ".robot file". Triggers on: "Robot Framework", "*** Test Cases ***",...'
 risk: unknown
 source: https://github.com/LambdaTest/agent-skills/tree/main/robot-framework-skill
 source_repo: LambdaTest/agent-skills

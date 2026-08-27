@@ -2,7 +2,7 @@
 name: performing-security-testing
 version: 1.0.0
 description: |
-  Automate security vulnerability testing covering OWASP Top 10, SQL injection, XSS, CSRF, and authentication issues.
+  自动化安全漏洞测试，涵盖 OWASP Top 10、SQL 注入、XSS、CSRF 以及身份验证问题。在执行安全评估、渗透测试或漏洞扫描时使用。可通过「scan for vulnerabilities」「test security」或「run penetration test」等短语触发。 |
   Use when performing security assessments, penetration tests, or vulnerability scans.
   Trigger with phrases like "scan for vulnerabilities", "test security", or "run penetration test".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(test:security-*)

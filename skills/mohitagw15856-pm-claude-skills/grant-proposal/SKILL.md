@@ -1,6 +1,6 @@
 ---
 name: grant-proposal
-description: "Write a structured grant proposal or funding application for any grant type. Use when asked to write a grant proposal, funding application, research grant, charitable grant, or innovation fund application. Produces a complete proposal with project summary, rationale, methodology, impact, and budget narrative."
+description: "为任何资助类型撰写结构化的资助提案或基金申请。在被要求编写资助提案、基金申请、科研基金、慈善基金或创新基金申请时使用。产出完整提案，包含项目摘要、立项依据、方法论、影响和预算说明。 | Write a structured grant proposal or funding application for any grant type. Use when asked to write a grant proposal, funding application, research grant, charitable grant, or innovation fund application. Produces a complete proposal with project summary, rationale, methodology, impact, and budget narrative."
 ---
 
 # Grant Proposal Skill

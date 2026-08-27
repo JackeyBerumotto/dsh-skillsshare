@@ -1,6 +1,6 @@
 ---
 name: agentdb-query
-description: Query AgentDB through the controller bridge -- semantic routing, hierarchical recall, causal graphs, context synthesis, pattern store/search
+description: 通过控制器桥接查询 AgentDB——语义路由、分层召回、因果图、上下文合成、模式存储/搜索 | Query AgentDB through the controller bridge -- semantic routing, hierarchical recall, causal graphs, context synthesis, pattern store/search
 argument-hint: "<query>"
 allowed-tools: mcp__claude-flow__agentdb_semantic-route mcp__claude-flow__agentdb_hierarchical-recall mcp__claude-flow__agentdb_hierarchical-store mcp__claude-flow__agentdb_context-synthesize mcp__claude-flow__agentdb_causal-edge mcp__claude-flow__agentdb_pattern-search mcp__claude-flow__agentdb_pattern-store mcp__claude-flow__agentdb_controllers mcp__claude-flow__agentdb_health mcp__claude-flow__agentdb_batch mcp__claude-flow__agentdb_feedback mcp__claude-flow__agentdb_consolidate mcp__claude-flow__agentdb_session-start mcp__claude-flow__agentdb_session-end Bash
 ---

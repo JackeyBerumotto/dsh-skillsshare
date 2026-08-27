@@ -1,6 +1,6 @@
 ---
 name: maximalism
-description: Web and App implementation guide for Controlled Maximalism. Trigger when user wants lots of elements, dense content, but a highly curated and artistic presentation.
+description: Controlled Maximalism（可控极繁主义）的 Web 与 App 实现指南。当用户需要大量元素和密集内容，同时保持高度策展化的艺术呈现时触发。 | Web and App implementation guide for Controlled Maximalism. Trigger when user wants lots of elements, dense content, but a highly curated and artistic presentation.
 date_added: "2026-06-17"
 risk: safe
 source: self

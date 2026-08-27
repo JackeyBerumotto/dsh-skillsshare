@@ -1,6 +1,6 @@
 ---
 name: prioritize-assumptions
-description: "Prioritize assumptions using an Impact × Risk matrix and suggest experiments for each. Use when triaging a list of assumptions, deciding what to test first, or applying the assumption prioritization canvas."
+description: "用影响力×风险矩阵对待验证假设排定优先级，并为每个假设建议实验。在筛分假设清单、决定先验证什么，或应用假设优先级画布时使用。 | Prioritize assumptions using an Impact × Risk matrix and suggest experiments for each. Use when triaging a list of assumptions, deciding what to test first, or applying the assumption prioritization canvas."
 ---
 
 ## Prioritize Assumptions

@@ -1,6 +1,6 @@
 ---
 name: stripe-integration
-description: "Master Stripe payment processing integration for robust, PCI-compliant payment flows including checkout, subscriptions, webhooks, and refunds."
+description: "掌握 Stripe 支付处理集成，构建健壮且符合 PCI 规范的支付流程，包括结账、订阅、webhook 与退款。 | Master Stripe payment processing integration for robust, PCI-compliant payment flows including checkout, subscriptions, webhooks, and refunds."
 risk: unknown
 source: community
 date_added: "2026-02-27"

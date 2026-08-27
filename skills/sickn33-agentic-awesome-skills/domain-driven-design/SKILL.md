@@ -1,6 +1,6 @@
 ---
 name: domain-driven-design
-description: "Plan and route Domain-Driven Design work from strategic modeling to tactical implementation and evented architecture patterns."
+description: "规划并路由领域驱动设计（DDD）工作，从战略建模到战术实现与事件化架构模式。 | Plan and route Domain-Driven Design work from strategic modeling to tactical implementation and evented architecture patterns."
 risk: safe
 source: self
 tags: "[ddd, domain, bounded-context, architecture]"

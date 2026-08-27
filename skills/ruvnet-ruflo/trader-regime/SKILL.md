@@ -1,6 +1,6 @@
 ---
 name: trader-regime
-description: Detect current market regime using npx neural-trader — bull/bear/ranging/volatile classification with recommended strategy. Use when the user asks about market conditions, wants to pick a strategy for current conditions, or before running a backtest/signal that should be regime-aware.
+description: 使用 npx neural-trader 检测当前市场状态：牛市/熊市/震荡/高波动分类并给出策略建议。当用户询问市场状况、想为当前行情选择策略，或在运行需要感知市场状态的回测/信号之前使用。 | Detect current market regime using npx neural-trader — bull/bear/ranging/volatile classification with recommended strategy. Use when the user asks about market conditions, wants to pick a strategy for current conditions, or before running a backtest/signal that should be regime-aware.
 allowed-tools: Bash Read mcp__claude-flow__memory_store mcp__claude-flow__memory_search mcp__claude-flow__neural_predict
 argument-hint: "[--symbol SPY] [--symbols AAPL,MSFT]"
 ---

@@ -1,6 +1,6 @@
 ---
 name: "compliance-readiness"
-description: "/cs:compliance-readiness <program> — Multi-framework compliance officer 6-question forcing interrogation of any compliance program. Use before starting a new framework, planning the annual audit calendar, or preparing for certification stage 1."
+description: "/cs:compliance-readiness <program>——多框架合规官对任何合规项目的六问强制审讯。适用于启动新框架之前、规划年度审计日历，或为认证第一阶段做准备时。 | /cs:compliance-readiness <program> — Multi-framework compliance officer 6-question forcing interrogation of any compliance program. Use before starting a new framework, planning the annual audit calendar, or preparing for certification stage 1."
 ---
 
 # /cs:compliance-readiness — Compliance Officer Forcing Questions

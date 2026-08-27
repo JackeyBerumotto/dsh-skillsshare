@@ -1,6 +1,6 @@
 ---
 name: user-personas
-description: "Create refined user personas from research data — 3 personas with JTBD, pains, gains, and unexpected insights. Use when building personas from survey data, creating user profiles from research, or segmenting users for product decisions."
+description: "从研究数据创建精细的用户画像——3 个画像，各含 JTBD、痛点、收获和意外洞察。当基于问卷数据构建画像、从研究中创建用户档案，或为产品决策细分用户时使用。 | Create refined user personas from research data — 3 personas with JTBD, pains, gains, and unexpected insights. Use when building personas from survey data, creating user profiles from research, or segmenting users for product decisions."
 ---
 
 # User Personas

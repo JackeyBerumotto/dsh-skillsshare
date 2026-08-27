@@ -1,6 +1,6 @@
 ---
 name: "revenue-operations"
-description: Analyzes sales pipeline health, revenue forecasting accuracy, and go-to-market efficiency metrics for SaaS revenue optimization. Use when analyzing sales pipeline coverage, forecasting revenue, evaluating go-to-market performance, reviewing sales metrics, assessing pipeline analysis, tracking forecast accuracy with MAPE, calculating GTM efficiency, or measuring sales efficiency and unit economics for SaaS teams.
+description: 分析销售管道健康度、收入预测准确度和上市效率指标，用于 SaaS 收入优化。在分析销售管道覆盖率、预测收入、评估上市表现、评审销售指标、进行管道分析、用 MAPE 跟踪预测准确率、计算 GTM 效率，或衡量 SaaS 团队的销售效率与单位经济模型时使用。 | Analyzes sales pipeline health, revenue forecasting accuracy, and go-to-market efficiency metrics for SaaS revenue optimization. Use when analyzing sales pipeline coverage, forecasting revenue, evaluating go-to-market performance, reviewing sales metrics, assessing pipeline analysis, tracking forecast accuracy with MAPE, calculating GTM efficiency, or measuring sales efficiency and unit economics for SaaS teams.
 ---
 
 # Revenue Operations

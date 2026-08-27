@@ -1,6 +1,6 @@
 ---
 name: cost-report
-description: Generate a cost report showing token usage and USD costs by agent and model
+description: 生成按智能体与模型展示 token 用量与美元成本的报告 | Generate a cost report showing token usage and USD costs by agent and model
 argument-hint: "[--period today]"
 allowed-tools: mcp__claude-flow__memory_search mcp__claude-flow__memory_list mcp__claude-flow__memory_retrieve mcp__claude-flow__agentdb_pattern-search mcp__claude-flow__agentdb_semantic-route Bash
 ---

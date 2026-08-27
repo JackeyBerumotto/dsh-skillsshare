@@ -1,10 +1,6 @@
 ---
 name: analyzing-web-server-logs-for-intrusion
-description: Parse Apache and Nginx access logs to detect SQL injection attempts,
-  local file inclusion, directory traversal, web scanner fingerprints, and brute-force
-  patterns. Uses regex-based pattern matching against OWASP attack signatures, GeoIP
-  enrichment for source attribution, and statistical anomaly detection for request
-  frequency and response size outliers.
+description: "解析 Apache 和 Nginx 访问日志，检测 SQL 注入尝试、本地文件包含、目录遍历、Web 扫描器指纹和暴力破解模式。使用基于正则的模式匹配对照 OWASP 攻击签名，结合 GeoIP 丰富进行来源归因，并通过统计异常检测发现请求频率和响应大小异常值。 | Parse Apache and Nginx access logs to detect SQL injection attempts, local file inclusion, directory traversal, web scanner fingerprints, and brute-force patterns. Uses regex-based pattern matching against OWASP attack signatures, GeoIP enrichment for source attribution, and statistical anomaly detection for request frequency and response size outliers."
 domain: cybersecurity
 subdomain: security-operations
 tags:

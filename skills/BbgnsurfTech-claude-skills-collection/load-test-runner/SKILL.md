@@ -1,6 +1,6 @@
 ---
 name: running-load-tests
-description: Create and execute load tests for performance validation using k6, JMeter, and Artillery. Use when validating application performance under load conditions or identifying bottlenecks. Trigger with phrases like "run load test", "create stress test", or "validate performance under load".
+description: 使用 k6、JMeter 和 Artillery 创建并执行用于性能验证的负载测试。当需要验证应用在负载条件下的性能或识别瓶颈时使用。可通过「run load test」「create stress test」或「validate performance under load」等短语触发。 | Create and execute load tests for performance validation using k6, JMeter, and Artillery. Use when validating application performance under load conditions or identifying bottlenecks. Trigger with phrases like "run load test", "create stress test", or "validate performance under load".
 version: 1.0.0
 allowed-tools:
 - Read

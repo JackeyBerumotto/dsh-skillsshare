@@ -1,6 +1,6 @@
 ---
 name: crossframe-review
-description: "Use when explicit CrossFrame output needs review for reasoning fidelity, evidence boundaries, source anchors, concept drift, article collapse, or repair steps."
+description: "当明确的 CrossFrame 输出需要审查推理保真度、证据边界、来源锚点、概念漂移、文章塌陷或修复步骤时使用。 | Use when explicit CrossFrame output needs review for reasoning fidelity, evidence boundaries, source anchors, concept drift, article collapse, or repair steps."
 category: workflow
 risk: safe
 source: community

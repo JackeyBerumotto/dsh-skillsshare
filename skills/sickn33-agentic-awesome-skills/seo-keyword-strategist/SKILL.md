@@ -1,6 +1,6 @@
 ---
 name: seo-keyword-strategist
-description: Analyzes keyword usage in provided content, calculates density, suggests semantic variations and LSI keywords based on the topic. Prevents over-optimization. Use PROACTIVELY for content optimization.
+description: 分析所提供内容中的关键词使用情况，计算密度，并基于主题建议语义变体和 LSI 关键词。防止过度优化。请在内容优化时主动使用。 | Analyzes keyword usage in provided content, calculates density, suggests semantic variations and LSI keywords based on the topic. Prevents over-optimization. Use PROACTIVELY for content optimization.
 risk: unknown
 source: community
 date_added: '2026-02-27'

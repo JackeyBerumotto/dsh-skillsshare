@@ -1,6 +1,6 @@
 ---
 name: seo
-description: "Run a broad SEO audit across technical SEO, on-page SEO, schema, sitemaps, content quality, AI search readiness, and GEO. Use as the umbrella skill when the user asks for a full SEO analysis or strategy."
+description: "运行覆盖面广泛的 SEO 审计，包括技术 SEO、页面 SEO、schema、站点地图、内容质量、AI 搜索就绪度和 GEO。当用户要求完整的 SEO 分析或策略时作为总纲技能使用。 | Run a broad SEO audit across technical SEO, on-page SEO, schema, sitemaps, content quality, AI search readiness, and GEO. Use as the umbrella skill when the user asks for a full SEO analysis or strategy."
 risk: unknown
 source: "https://github.com/AgriciDaniel/claude-seo"
 date_added: "2026-03-21"

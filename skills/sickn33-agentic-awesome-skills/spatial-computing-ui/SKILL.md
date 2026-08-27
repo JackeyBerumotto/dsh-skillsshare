@@ -1,6 +1,6 @@
 ---
 name: spatial-computing-ui
-description: Web and App implementation guide for Spatial Computing UI. Trigger when user wants floating elements, environmental awareness, and Apple Vision Pro style.
+description: Spatial Computing UI（空间计算界面）的 Web 与 App 实现指南。当用户需要悬浮元素、环境感知和 Apple Vision Pro 风格时触发。 | Web and App implementation guide for Spatial Computing UI. Trigger when user wants floating elements, environmental awareness, and Apple Vision Pro style.
 date_added: "2026-06-17"
 risk: safe
 source: self

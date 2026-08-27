@@ -1,6 +1,6 @@
 ---
 name: install-watchdog
-description: Installs egregore watchdog daemon via launchd or systemd for autonomous relaunching. Use when setting up egregore on a new machine. Do not use on CI/CD runners.
+description: 通过 launchd 或 systemd 安装 egregore 看门狗守护进程以实现自动重启。在新机器上搭建 egregore 时使用。请勿在 CI/CD 运行器上使用。 | Installs egregore watchdog daemon via launchd or systemd for autonomous relaunching. Use when setting up egregore on a new machine. Do not use on CI/CD runners.
 alwaysApply: false
 category: setup
 tools: []

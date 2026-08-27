@@ -1,6 +1,6 @@
 ---
 name: tools-page-seo-optimizer
-description: "Framework-agnostic SEO workflow for any site with multiple tool, product, or feature pages. Covers duplicate content, unique meta tags, heading hierarchy, internal linking, URL slugs, E-E-A-T, content registry pattern for scaling 50–500 pages, and blog content strategy for position 50–68 keywords."
+description: "框架无关的 SEO 工作流，适用于任何拥有多个工具、产品或功能页面的网站。涵盖重复内容、唯一 meta 标签、标题层级、内部链接、URL slug、E-E-A-T、用于扩展 50–500 页的内容注册表模式，以及面向排名第 50–68 位关键词的博客内容策略。 | Framework-agnostic SEO workflow for any site with multiple tool, product, or feature pages. Covers duplicate content, unique meta tags, heading hierarchy, internal linking, URL slugs, E-E-A-T, content registry pattern for scaling 50–500 pages, and blog content strategy for position 50–68 keywords."
 category: seo
 risk: safe
 source: community

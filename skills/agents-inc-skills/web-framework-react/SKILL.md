@@ -1,6 +1,6 @@
 ---
 name: web-framework-react
-description: Component architecture, hooks, patterns
+description: 组件架构、hooks 与模式。 | Component architecture, hooks, patterns
 ---
 
 # React Components

@@ -1,11 +1,6 @@
 ---
 name: conducting-cloud-incident-response
-description: 'Responds to security incidents in cloud environments (AWS, Azure, GCP) by performing identity-based containment,
-  cloud-native log analysis, resource isolation, and forensic evidence acquisition adapted for ephemeral cloud infrastructure.
-  Activates for requests involving cloud incident response, AWS security incident, Azure compromise, GCP breach, cloud forensics,
-  or cloud identity compromise.
-
-  '
+description: "响应云环境（AWS、Azure、GCP）中的安全事件，执行基于身份的遏制、云原生日志分析、资源隔离，以及适配易失性云基础设施的取证证据采集。适用于涉及云事件响应、AWS 安全事件、Azure 失陷、GCP 入侵、云取证或云身份失陷的请求。 | Responds to security incidents in cloud environments (AWS, Azure, GCP) by performing identity-based containment, cloud-native log analysis, resource isolation, and forensic evidence acquisition adapted for ephemeral cloud infrastructure. Activates for requests involving cloud incident response, AWS security incident, Azure compromise, GCP breach, cloud forensics, or cloud identity compromise."
 domain: cybersecurity
 subdomain: incident-response
 tags:

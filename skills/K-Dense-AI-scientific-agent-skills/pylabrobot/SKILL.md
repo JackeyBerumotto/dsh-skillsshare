@@ -1,6 +1,6 @@
 ---
 name: pylabrobot
-description: Vendor-agnostic lab automation framework. Use when controlling multiple equipment types (Hamilton, Tecan, Opentrons, plate readers, pumps) or needing unified programming across different vendors. Best for complex workflows, multi-vendor setups, simulation. For Opentrons-only protocols with official API, opentrons-integration may be simpler.
+description: 与厂商无关的实验室自动化框架。适用于控制多种设备类型（Hamilton、Tecan、Opentrons、酶标仪、泵）或需要跨厂商统一编程的场景。最适合复杂工作流、多厂商环境和仿真。对于仅使用官方 API 的 Opentrons 协议，opentrons-integration 可能更简单。 | Vendor-agnostic lab automation framework. Use when controlling multiple equipment types (Hamilton, Tecan, Opentrons, plate readers, pumps) or needing unified programming across different vendors. Best for complex workflows, multi-vendor setups, simulation. For Opentrons-only protocols with official API, opentrons-integration may be simpler.
 license: MIT license
 metadata: {"version": "1.0", "skill-author": "K-Dense Inc."}
 ---

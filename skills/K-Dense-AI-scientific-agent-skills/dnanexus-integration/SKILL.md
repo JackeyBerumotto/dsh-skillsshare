@@ -1,6 +1,6 @@
 ---
 name: dnanexus-integration
-description: DNAnexus cloud genomics platform. Build apps/applets, manage data (upload/download), dxpy Python SDK, run workflows, FASTQ/BAM/VCF, for genomics pipeline development and execution.
+description: DNAnexus 云基因组学平台。构建 apps/applets、管理数据（上传／下载）、使用 dxpy Python SDK、运行工作流、处理 FASTQ/BAM/VCF，用于基因组学管道的开发与执行。 | DNAnexus cloud genomics platform. Build apps/applets, manage data (upload/download), dxpy Python SDK, run workflows, FASTQ/BAM/VCF, for genomics pipeline development and execution.
 license: Unknown
 compatibility: Requires a DNAnexus account
 required_environment_variables: [{"name": "DX_SECURITY_CONTEXT", "prompt": "DNAnexus auth token context (normally set by `dx login`).", "required_for": "optional features"}, {"name": "DX_ASSET_BWA", "prompt": "Optional asset id for the BWA example.", "required_for": "optional features"}]

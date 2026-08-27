@@ -1,6 +1,6 @@
 ---
 name: consulting-proposal
-description: "Write a consulting proposal that wins the engagement — outcomes over hours. Use when asked to write a consulting proposal, a project proposal, a pitch for a client engagement, or to respond to an RFP. Produces a proposal — the client's problem in their words, your approach & deliverables, outcomes/value, timeline & phases, investment with options, and why-you — framed around results, not a task list. Ready to export as a designed PDF."
+description: "撰写能赢得项目的咨询提案——以成果计价而非工时。在被要求编写咨询提案、项目提案、客户合作推介或响应 RFP 时使用。产出提案——用客户自己的话描述问题、你的方法与交付物、成果/价值、时间线与阶段、带选项的投资方案，以及选择你的理由——围绕结果而非任务清单构建。可导出为设计精美的 PDF。 | Write a consulting proposal that wins the engagement — outcomes over hours. Use when asked to write a consulting proposal, a project proposal, a pitch for a client engagement, or to respond to an RFP. Produces a proposal — the client's problem in their words, your approach & deliverables, outcomes/value, timeline & phases, investment with options, and why-you — framed around results, not a task list. Ready to export as a designed PDF."
 ---
 
 # Consulting Proposal Skill

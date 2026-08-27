@@ -1,6 +1,6 @@
 ---
 name: last-30-days-research
-description: "Searches Reddit, X/Twitter, and the broader web for recent opinions, sentiment, and signal on any topic. Use when you need to know what real people are saying about a tool, product, trend, or event in the past 30 days — cutting through SEO content to surface genuine community reaction. Produces a structured report with consensus findings, pain points, positive signals, contrarian takes, source links, and a signal confidence rating."
+description: "在 Reddit、X/Twitter 及更广泛的网络上搜索任何主题的最新观点、情绪和信号。当你需要了解过去 30 天里真实人群对某工具、产品、趋势或事件的看法时使用——穿透 SEO 内容，挖掘真实的社区反应。产出结构化报告，包含共识发现、痛点、积极信号、反共识观点、来源链接和信号置信度评级。 | Searches Reddit, X/Twitter, and the broader web for recent opinions, sentiment, and signal on any topic. Use when you need to know what real people are saying about a tool, product, trend, or event in the past 30 days — cutting through SEO content to surface genuine community reaction. Produces a structured report with consensus findings, pain points, positive signals, contrarian takes, source links, and a signal confidence rating."
 ---
 
 # Last 30 Days Research

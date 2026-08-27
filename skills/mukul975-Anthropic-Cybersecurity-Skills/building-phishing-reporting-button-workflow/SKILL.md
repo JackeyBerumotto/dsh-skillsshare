@@ -1,8 +1,6 @@
 ---
 name: building-phishing-reporting-button-workflow
-description: Implement a phishing report button in email clients with automated triage
-  workflow that analyzes user-reported suspicious emails and provides feedback to
-  reporters.
+description: "在邮件客户端中实现钓鱼举报按钮，配合自动化分诊工作流，分析用户举报的可疑邮件并向举报者反馈。 | Implement a phishing report button in email clients with automated triage workflow that analyzes user-reported suspicious emails and provides feedback to reporters."
 domain: cybersecurity
 subdomain: phishing-defense
 tags:

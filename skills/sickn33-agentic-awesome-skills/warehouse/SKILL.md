@@ -1,6 +1,6 @@
 ---
 name: warehouse
-description: "Plan and review read-only data warehouse analysis with explicit scope, privacy, provenance, and validation checks."
+description: "规划并审查只读的数据仓库分析，包含明确的范围、隐私、溯源和校验检查。 | Plan and review read-only data warehouse analysis with explicit scope, privacy, provenance, and validation checks."
 category: data
 risk: critical
 source: self

@@ -1,6 +1,6 @@
 ---
 name: paper-reading
-description: Read, summarize, and critically analyze an academic paper from a PDF, official HTML page, URL, or pasted full text. Use for requests such as "read this paper", "快速看懂", "精读论文", "analyze this paper", "paper summary", or strict paper critique. Produces evidence-traceable Markdown or a portable interactive HTML report at one complete, concise close-reading depth, with read-only inspection of authoritative source code when available and no reproduction run.
+description: 从 PDF、官方 HTML 页面、URL 或粘贴的全文中阅读、总结并批判性分析学术论文。用于「read this paper」「快速看懂」「精读论文」「analyze this paper」「paper summary」或严格论文评审等请求。产出证据可溯源的 Markdown 或便携式交互式 HTML 报告，深度为一次完整而简洁的精读；在可得时对权威源码进行只读检视，且不做复现运行。 | Read, summarize, and critically analyze an academic paper from a PDF, official HTML page, URL, or pasted full text. Use for requests such as "read this paper", "快速看懂", "精读论文", "analyze this paper", "paper summary", or strict paper critique. Produces evidence-traceable Markdown or a portable interactive HTML report at one complete, concise close-reading depth, with read-only inspection of authoritative source code when available and no reproduction run.
 ---
 
 # Paper reading

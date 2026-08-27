@@ -1,6 +1,6 @@
 ---
 name: "social-media-manager"
-description: "When the user wants to develop social media strategy, plan content calendars, manage community engagement, or grow their social presence across platforms. Also use when the user mentions 'social media strategy,' 'social calendar,' 'community management,' 'social media plan,' 'grow followers,' 'engagement rate,' 'social media audit,' or 'which platforms should I use.' For writing individual social posts, see social-content. For analyzing social performance data, see social-media-analyzer."
+description: "当用户想要制定社交媒体策略、规划内容日历、管理社区互动或跨平台增长社交影响力时使用。当用户提到「social media strategy」「social calendar」「community management」「social media plan」「grow followers」「engagement rate」「social media audit」或「which platforms should I use」时也应使用。撰写单条社交帖子见 social-content。分析社交表现数据见 social-media-analyzer。 | When the user wants to develop social media strategy, plan content calendars, manage community engagement, or grow their social presence across platforms. Also use when the user mentions 'social media strategy,' 'social calendar,' 'community management,' 'social media plan,' 'grow followers,' 'engagement rate,' 'social media audit,' or 'which platforms should I use.' For writing individual social posts, see social-content. For analyzing social performance data, see social-media-analyzer."
 license: MIT
 metadata:
   version: 1.0.0

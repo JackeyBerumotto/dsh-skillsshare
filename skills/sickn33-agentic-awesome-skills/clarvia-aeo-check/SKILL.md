@@ -1,6 +1,6 @@
 ---
 name: clarvia-aeo-check
-description: "Score any MCP server, API, or CLI for agent-readiness using Clarvia AEO (Agent Experience Optimization). Search 15,400+ indexed tools before adding them to your workflow."
+description: "使用 Clarvia AEO（代理体验优化）为任意 MCP 服务器、API 或 CLI 的代理就绪度评分。在把 15,400+ 已索引工具加入工作流之前先搜索评估。 | Score any MCP server, API, or CLI for agent-readiness using Clarvia AEO (Agent Experience Optimization). Search 15,400+ indexed tools before adding them to your workflow."
 category: tool-quality
 risk: safe
 source: community

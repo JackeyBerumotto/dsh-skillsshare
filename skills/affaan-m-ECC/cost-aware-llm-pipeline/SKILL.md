@@ -1,6 +1,6 @@
 ---
 name: cost-aware-llm-pipeline
-description: Cost optimization patterns for LLM API usage — model routing by task complexity, budget tracking, retry logic, and prompt caching.
+description: LLM API 使用的成本优化模式——按任务复杂度进行模型路由、预算跟踪、重试逻辑以及提示缓存。 | Cost optimization patterns for LLM API usage — model routing by task complexity, budget tracking, retry logic, and prompt caching.
 metadata:
   origin: ECC
 ---

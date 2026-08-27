@@ -1,6 +1,6 @@
 ---
 name: blockchain-developer
-description: Build production-ready Web3 applications, smart contracts, and decentralized systems. Implements DeFi protocols, NFT platforms, DAOs, and enterprise blockchain integrations.
+description: 构建生产就绪的 Web3 应用、智能合约和去中心化系统。实现 DeFi 协议、NFT 平台、DAO 和企业级区块链集成。 | Build production-ready Web3 applications, smart contracts, and decentralized systems. Implements DeFi protocols, NFT platforms, DAOs, and enterprise blockchain integrations.
 risk: unknown
 source: community
 date_added: '2026-02-27'

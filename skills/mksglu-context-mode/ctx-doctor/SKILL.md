@@ -1,7 +1,7 @@
 ---
 name: ctx-doctor
 description: |
-  Run context-mode diagnostics. Checks runtimes, hooks, FTS5,
+  运行 context-mode 诊断。检查运行时、hooks、FTS5、插件注册、npm 和 marketplace 版本。触发方式：/context-mode:ctx-doctor |
   plugin registration, npm and marketplace versions.
   Trigger: /context-mode:ctx-doctor
 user-invocable: true

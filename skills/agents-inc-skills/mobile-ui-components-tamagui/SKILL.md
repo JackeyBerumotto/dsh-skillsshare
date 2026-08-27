@@ -1,6 +1,6 @@
 ---
 name: mobile-ui-components-tamagui
-description: Tamagui universal UI - styled(), tokens, themes, optimizing compiler, responsive media queries, animations, Sheet/Dialog components
+description: Tamagui 通用 UI：styled()、tokens、themes、优化编译器、响应式媒体查询、动画、Sheet/Dialog 组件 | Tamagui universal UI - styled(), tokens, themes, optimizing compiler, responsive media queries, animations, Sheet/Dialog components
 ---
 
 # Tamagui Universal UI Patterns

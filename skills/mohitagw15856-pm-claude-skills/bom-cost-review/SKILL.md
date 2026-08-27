@@ -1,6 +1,6 @@
 ---
 name: bom-cost-review
-description: "Review a bill of materials for cost, risk, and supply exposure — cost rollup, top-10 cost drivers, single-source and EOL risk, MOQ vs forecast mismatch, cost-down candidates, and tariff/logistics sensitivity. Use when asked to review a BOM, find cost-down opportunities, check component sourcing risk, or sanity-check BOM cost against target. Produces a structured BOM review with a cost driver Pareto, risk flags per line, and a prioritised cost-down list."
+description: "审查物料清单（BOM）的成本、风险与供应敞口——成本汇总、前十大成本驱动因素、单一来源与停产（EOL）风险、MOQ 与预测不匹配、降本候选项以及关税/物流敏感性。当被要求审查 BOM、寻找降本机会、检查元器件采购风险，或对照目标核验 BOM 成本时使用。产出结构化的 BOM 审查：成本驱动帕累托图、逐行风险标记，以及按优先级排序的降本清单。 | Review a bill of materials for cost, risk, and supply exposure — cost rollup, top-10 cost drivers, single-source and EOL risk, MOQ vs forecast mismatch, cost-down candidates, and tariff/logistics sensitivity. Use when asked to review a BOM, find cost-down opportunities, check component sourcing risk, or sanity-check BOM cost against target. Produces a structured BOM review with a cost driver Pareto, risk flags per line, and a prioritised cost-down list."
 ---
 
 # BOM Cost Review Skill

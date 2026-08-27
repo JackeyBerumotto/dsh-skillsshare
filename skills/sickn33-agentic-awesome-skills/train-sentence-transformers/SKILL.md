@@ -1,6 +1,6 @@
 ---
 name: train-sentence-transformers
-description: Train or fine-tune sentence-transformers models across `SentenceTransformer` (bi-encoder; dense or static embedding model; for retrieval, similarity, clustering, classification, paraphrase mining, dedup, multimodal), `CrossEncoder` (reranker; pair scoring for two-stage retrieval / pair...
+description: 训练或微调 sentence-transformers 模型，涵盖 `SentenceTransformer`（双编码器；稠密或静态嵌入模型；用于检索、相似度、聚类、分类、复述挖掘、去重、多模态）和 `CrossEncoder`（重排序器；为两阶段检索进行成对评分/成对…… | Train or fine-tune sentence-transformers models across `SentenceTransformer` (bi-encoder; dense or static embedding model; for retrieval, similarity, clustering, classification, paraphrase mining, dedup, multimodal), `CrossEncoder` (reranker; pair scoring for two-stage retrieval / pair...
 risk: unknown
 source: https://github.com/huggingface/skills/tree/main/skills/train-sentence-transformers
 source_repo: huggingface/skills

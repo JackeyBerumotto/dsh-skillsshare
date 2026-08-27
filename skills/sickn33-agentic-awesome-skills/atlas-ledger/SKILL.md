@@ -1,6 +1,6 @@
 ---
 name: atlas-ledger
-description: "Companion to atlas-contract. Auto-invoked by its Final Audit on caught drift; also use after Post Reviews or user requests to record a mistake. Distills drift into WHEN/DON'T/INSTEAD clauses, writes to Atlas.md after confirmation."
+description: "atlas-contract 的配套技能。当其 Final Audit 捕获到漂移时自动调用；也可在 Post Reviews 之后或用户请求记录错误时使用。将漂移提炼为 WHEN/DONT/INSTEAD 条款，确认后写入 Atlas.md。 | Companion to atlas-contract. Auto-invoked by its Final Audit on caught drift; also use after Post Reviews or user requests to record a mistake. Distills drift into WHEN/DON'T/INSTEAD clauses, writes to Atlas.md after confirmation."
 risk: critical
 source: community
 source_repo: wede-wx/atlas

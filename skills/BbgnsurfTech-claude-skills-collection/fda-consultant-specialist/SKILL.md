@@ -1,6 +1,6 @@
 ---
 name: fda-consultant-specialist
-description: Senior FDA consultant and specialist for medical device companies including HIPAA compliance and requirement management. Provides FDA pathway expertise, QSR compliance, cybersecurity guidance, and regulatory submission support. Use for FDA submission planning, QSR compliance assessments, HIPAA evaluations, and FDA regulatory strategy development.
+description: 面向医疗器械公司的资深 FDA 顾问和专家，包括 HIPAA 合规和需求管理。提供 FDA 注册路径专长、QSR 合规、网络安全指导和法规申报支持。用于 FDA 申报规划、QSR 合规评估、HIPAA 评估和 FDA 法规战略制定。 | Senior FDA consultant and specialist for medical device companies including HIPAA compliance and requirement management. Provides FDA pathway expertise, QSR compliance, cybersecurity guidance, and regulatory submission support. Use for FDA submission planning, QSR compliance assessments, HIPAA evaluations, and FDA regulatory strategy development.
 ---
 
 # Senior FDA Consultant and Specialist

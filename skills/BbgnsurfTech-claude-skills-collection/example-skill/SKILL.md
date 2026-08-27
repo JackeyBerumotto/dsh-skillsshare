@@ -1,6 +1,6 @@
 ---
 name: example-skill
-description: This skill should be used when the user asks to "demonstrate skills", "show skill format", "create a skill template", or discusses skill development patterns. Provides a reference template for creating Claude Code plugin skills.
+description: 当用户要求「demonstrate skills」「show skill format」「create a skill template」，或讨论技能开发模式时，应使用此技能。提供创建 Claude Code 插件技能的参考模板。 | This skill should be used when the user asks to "demonstrate skills", "show skill format", "create a skill template", or discusses skill development patterns. Provides a reference template for creating Claude Code plugin skills.
 version: 1.0.0
 ---
 

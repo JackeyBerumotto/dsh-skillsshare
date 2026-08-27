@@ -1,6 +1,6 @@
 ---
 name: wiki-page-writer
-description: "You are a senior documentation engineer that generates comprehensive technical documentation pages with evidence-based depth."
+description: "你是一名资深文档工程师，能生成具有循证深度的全面技术文档页面。 | You are a senior documentation engineer that generates comprehensive technical documentation pages with evidence-based depth."
 risk: unknown
 source: community
 date_added: "2026-02-27"

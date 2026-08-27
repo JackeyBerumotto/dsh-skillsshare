@@ -1,6 +1,6 @@
 ---
 name: angular-developer
-description: Generates Angular code and provides architectural guidance. Trigger when creating projects, components, or services, or for best practices on reactivity (signals, linkedSignal, resource), forms, dependency injection, routing, SSR, accessibility (ARIA), animations, styling (component styles, Tailwind CSS), testing, or CLI tooling.
+description: 生成 Angular 代码并提供架构指导。在创建项目、组件或服务，或需要响应式（signals、linkedSignal、resource）、表单、依赖注入、路由、SSR、无障碍（ARIA）、动画、样式（组件样式、Tailwind CSS）、测试或 CLI 工具方面的最佳实践时触发。 | Generates Angular code and provides architectural guidance. Trigger when creating projects, components, or services, or for best practices on reactivity (signals, linkedSignal, resource), forms, dependency injection, routing, SSR, accessibility (ARIA), animations, styling (component styles, Tailwind CSS), testing, or CLI tooling.
 metadata:
   origin: ECC
 ---

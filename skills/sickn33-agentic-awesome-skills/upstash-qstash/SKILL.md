@@ -1,7 +1,6 @@
 ---
 name: upstash-qstash
-description: Upstash QStash expert for serverless message queues, scheduled
-  jobs, and reliable HTTP-based task delivery without managing infrastructure.
+description: "Upstash QStash 专家，专注于无服务器消息队列、定时作业与可靠的基于 HTTP 的任务投递，无需管理基础设施。 | Upstash QStash expert for serverless message queues, scheduled jobs, and reliable HTTP-based task delivery without managing infrastructure."
 risk: unknown
 source: vibeship-spawner-skills (Apache 2.0)
 date_added: 2026-02-27

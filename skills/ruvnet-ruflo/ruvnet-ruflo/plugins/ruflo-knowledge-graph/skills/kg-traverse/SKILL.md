@@ -1,6 +1,6 @@
 ---
 name: kg-traverse
-description: Pathfinder traversal of the knowledge graph starting from a seed entity
+description: 从种子实体出发的知识图寻路遍历 | Pathfinder traversal of the knowledge graph starting from a seed entity
 argument-hint: "<entity> [--depth N]"
 allowed-tools: mcp__claude-flow__agentdb_hierarchical-recall mcp__claude-flow__agentdb_causal-edge mcp__claude-flow__agentdb_pattern-search mcp__claude-flow__agentdb_context-synthesize Bash
 ---

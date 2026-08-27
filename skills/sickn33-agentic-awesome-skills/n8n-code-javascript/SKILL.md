@@ -1,6 +1,6 @@
 ---
 name: n8n-code-javascript
-description: Write JavaScript code in n8n Code nodes. Use when writing JavaScript in n8n, using $input/$json/$node syntax, making HTTP requests with $helpers, working with dates using DateTime, troubleshooting Code node errors, or choosing between Code node modes.
+description: 在 n8n Code 节点中编写 JavaScript。在编写 n8n 中的 JavaScript、使用 $input/$json/$node 语法、用 $helpers 发起 HTTP 请求、用 DateTime 处理日期、排查 Code 节点错误或在 Code 节点模式之间选择时使用。 | Write JavaScript code in n8n Code nodes. Use when writing JavaScript in n8n, using $input/$json/$node syntax, making HTTP requests with $helpers, working with dates using DateTime, troubleshooting Code node errors, or choosing between Code node modes.
 risk: unknown
 source: community
 ---

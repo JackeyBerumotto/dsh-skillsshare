@@ -1,6 +1,6 @@
 ---
 name: postgres-readonly-queries
-description: "Execute safe read-only SQL queries against PostgreSQL databases with multi-connection support and defense-in-depth write protection."
+description: "对 PostgreSQL 数据库执行安全的只读 SQL 查询，支持多连接并具备纵深写入防护。 | Execute safe read-only SQL queries against PostgreSQL databases with multi-connection support and defense-in-depth write protection."
 category: data
 risk: safe
 source: https://github.com/sanjay3290/ai-skills/tree/main/skills/postgres

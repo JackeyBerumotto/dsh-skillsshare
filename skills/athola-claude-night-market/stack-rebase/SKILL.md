@@ -1,6 +1,6 @@
 ---
 name: stack-rebase
-description: Cascades a rebase through an entire PR stack after a base PR merges or upstream changes. Use when a stack needs to incorporate new base branch commits.
+description: 当基础 PR 合并或上游变更后，把 rebase 级联应用到整个 PR 堆栈。当堆栈需要纳入基础分支的新提交时使用。 | Cascades a rebase through an entire PR stack after a base PR merges or upstream changes. Use when a stack needs to incorporate new base branch commits.
 alwaysApply: false
 category: workflow-automation
 tags:

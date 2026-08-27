@@ -1,6 +1,6 @@
 ---
 name: reference-hunt
-description: Use existing source code as the specification when the user can't describe what they want in words. Use when the user points at a library, module, folder, or site and says "like this," even if it's in a different language or stack.
+description: 当用户无法用语言描述想要什么时，把现有源代码当作规格使用。当用户指向某个库、模块、文件夹或网站并说「像这样」时使用，即使它采用不同的语言或技术栈。 | Use existing source code as the specification when the user can't describe what they want in words. Use when the user points at a library, module, folder, or site and says "like this," even if it's in a different language or stack.
 ---
 
 # Reference hunt

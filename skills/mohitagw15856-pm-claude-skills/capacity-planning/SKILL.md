@@ -1,6 +1,6 @@
 ---
 name: capacity-planning
-description: "Produce a capacity planning document for a service covering traffic forecasts, resource requirements, and scaling strategy. Use when asked to plan infrastructure capacity, forecast resource needs, model traffic growth, define scaling strategy, or produce a capacity review for a service. Produces a structured capacity plan covering current baseline metrics, growth projections, resource requirements per tier, scaling strategy, cost projections, capacity triggers, and an infrastructure action roadmap."
+description: "为服务产出容量规划文档，涵盖流量预测、资源需求和扩容策略。当被要求规划基础设施容量、预测资源需求、建模流量增长、制定扩容策略，或为服务产出容量评审时使用。产出结构化的容量计划，涵盖当前基线指标、增长预测、各层级资源需求、扩容策略、成本预测、容量触发条件和基础设施行动路线图。 | Produce a capacity planning document for a service covering traffic forecasts, resource requirements, and scaling strategy. Use when asked to plan infrastructure capacity, forecast resource needs, model traffic growth, define scaling strategy, or produce a capacity review for a service. Produces a structured capacity plan covering current baseline metrics, growth projections, resource requirements per tier, scaling strategy, cost projections, capacity triggers, and an infrastructure action roadmap."
 ---
 
 # Capacity Planning Skill

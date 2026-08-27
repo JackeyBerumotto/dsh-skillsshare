@@ -1,6 +1,6 @@
 ---
 name: sem-integration
-description: Provides sem semantic-diff detection, install-on-first-use, and fallback patterns. Use when building skills that consume git diff output.
+description: 提供语义 diff 检测、首次使用时安装和回退模式。在构建消费 git diff 输出的技能时使用。 | Provides sem semantic-diff detection, install-on-first-use, and fallback patterns. Use when building skills that consume git diff output.
 alwaysApply: false
 category: infrastructure
 tags:

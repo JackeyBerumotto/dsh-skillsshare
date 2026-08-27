@@ -1,6 +1,6 @@
 ---
 name: gemini-api-dev
-description: Use this skill when building applications with Gemini API hosted models, including Gemini and Gemma 4, working with multimodal content (text, images, audio, video), implementing function calling, using structured outputs, or needing current model specifications. Covers SDK usage...
+description: 在使用 Gemini API 托管模型（包括 Gemini 和 Gemma 4）构建应用、处理多模态内容（文本、图像、音频、视频）、实现函数调用、使用结构化输出或需要最新模型规格时使用此技能。涵盖 SDK 用法…… | Use this skill when building applications with Gemini API hosted models, including Gemini and Gemma 4, working with multimodal content (text, images, audio, video), implementing function calling, using structured outputs, or needing current model specifications. Covers SDK usage...
 risk: unknown
 source: https://github.com/google-gemini/gemini-skills/tree/main/skills/gemini-api-dev
 source_repo: google-gemini/gemini-skills

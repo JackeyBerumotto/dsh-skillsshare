@@ -1,6 +1,6 @@
 ---
 name: feature-flags-architect
-description: Use when adding, retiring, or auditing feature flags. Triggers on "add a flag", "ship behind a flag", "rollout plan", "kill switch", "stale flags", "flag debt", "LaunchDarkly", "GrowthBook", "Statsig", "Unleash", "Flipt", or any progressive-delivery question. Ships flag debt scanner, rollout planner, and kill-switch auditor (all stdlib Python), 4 references on flag taxonomy + provider trade-offs + rollout strategies + lifecycle, plus a /flag-cleanup slash command.
+description: 在添加、下线或审计功能开关时使用。触发词：「add a flag」「ship behind a flag」「rollout plan」「kill switch」「stale flags」「flag debt」「LaunchDarkly」「GrowthBook」「Statsig」「Unleash」「Flipt」，或任何渐进式交付问题。提供开关债务扫描器、发布规划器和紧急停止审计器（均为标准库 Python）、4 份涵盖开关分类法+供应商权衡+发布策略+生命周期的参考资料，以及 /flag-cleanup 斜杠命令。 | Use when adding, retiring, or auditing feature flags. Triggers on "add a flag", "ship behind a flag", "rollout plan", "kill switch", "stale flags", "flag debt", "LaunchDarkly", "GrowthBook", "Statsig", "Unleash", "Flipt", or any progressive-delivery question. Ships flag debt scanner, rollout planner, and kill-switch auditor (all stdlib Python), 4 references on flag taxonomy + provider trade-offs + rollout strategies + lifecycle, plus a /flag-cleanup slash command.
 context: fork
 version: 2.9.0
 author: claude-code-skills

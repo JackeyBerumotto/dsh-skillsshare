@@ -1,6 +1,6 @@
 ---
 name: schedule-recipe
-description: "Turn 'run this every Friday at 4pm' into a working, copy-paste schedule on the user's actual runner. Use when asked to schedule a recurring AI task, set up a routine or cron job for a skill, automate a weekly report, or wire a skill into n8n or GitHub Actions. Produces the exact setup for the chosen runner plus the prompt to run, failure alerting, and a first-run test plan."
+description: "把「每周五下午 4 点运行这个」变成用户实际运行器上可直接复制粘贴的可用计划任务。当被要求为 AI 任务设置定期运行、为技能建立例行程序或 cron 任务、自动化周报，或将技能接入 n8n 或 GitHub Actions 时使用。产出所选运行器的具体配置，以及要运行的提示词、失败告警和首次运行测试计划。 | Turn 'run this every Friday at 4pm' into a working, copy-paste schedule on the user's actual runner. Use when asked to schedule a recurring AI task, set up a routine or cron job for a skill, automate a weekly report, or wire a skill into n8n or GitHub Actions. Produces the exact setup for the chosen runner plus the prompt to run, failure alerting, and a first-run test plan."
 ---
 
 # Schedule Recipe Skill

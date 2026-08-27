@@ -1,6 +1,6 @@
 ---
 name: basecamp-automation
-description: "Automate Basecamp project management, to-dos, messages, people, and to-do list organization via Rube MCP (Composio). Always search tools first for current schemas."
+description: "通过 Rube MCP（Composio）自动化 Basecamp 项目管理、待办事项、消息、人员以及待办清单组织。务必先搜索工具以获取最新 schema。 | Automate Basecamp project management, to-dos, messages, people, and to-do list organization via Rube MCP (Composio). Always search tools first for current schemas."
 risk: critical
 source: community
 date_added: "2026-02-27"

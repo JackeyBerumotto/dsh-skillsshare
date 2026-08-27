@@ -1,6 +1,6 @@
 ---
 name: amazon-alexa
-description: "Integracao completa com Amazon Alexa para criar skills de voz inteligentes, transformar Alexa em assistente com Claude como cerebro (projeto Auri) e integrar com AWS ecosystem (Lambda, DynamoDB, Polly, Transcribe, Lex, Smart Home)."
+description: "与 Amazon Alexa 的完整集成：创建智能语音技能、将 Alexa 变成以 Claude 为大脑的助手（Auri 项目），并与 AWS 生态集成（Lambda、DynamoDB、Polly、Transcribe、Lex、Smart Home）。 | Integracao completa com Amazon Alexa para criar skills de voz inteligentes, transformar Alexa em assistente com Claude como cerebro (projeto Auri) e integrar com AWS ecosystem (Lambda, DynamoDB, Polly, Transcribe, Lex, Smart Home)."
 risk: safe
 source: community
 date_added: '2026-03-06'

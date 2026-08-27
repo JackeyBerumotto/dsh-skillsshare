@@ -1,6 +1,6 @@
 ---
 name: shared-tooling-biome
-description: Biome v2 unified linter, formatter, and import organizer — single Rust-powered tool replacing ESLint + Prettier with 97% Prettier compatibility and 20x faster performance
+description: Biome v2 一体化 linter、格式化工具与 import 组织器——单个基于 Rust 的工具取代 ESLint 加 Prettier，具备 97% 的 Prettier 兼容性和 20 倍的性能提升 | Biome v2 unified linter, formatter, and import organizer — single Rust-powered tool replacing ESLint + Prettier with 97% Prettier compatibility and 20x faster performance
 ---
 
 # Biome

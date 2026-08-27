@@ -1,6 +1,6 @@
 ---
 name: cost-burn
-description: Burn-rate trend over time with optional drift-alert exit code. Bins session spend into buckets, surfaces window-over-window delta, and can exit 1 when latest bucket exceeds prior mean by a configurable %. Distinct from `cost-trend` (benchmark drift); this tracks PRODUCTION spend trajectory.
+description: 呈现消耗率随时间的变化趋势，可选漂移告警退出码。把会话开销分桶统计，展示窗口间环比增量，并可在最新分桶超出此前均值达到可配置百分比时以退出码 1 退出。与 cost-trend（基准漂移）不同，本命令追踪的是生产环境开销走势。 | Burn-rate trend over time with optional drift-alert exit code. Bins session spend into buckets, surfaces window-over-window delta, and can exit 1 when latest bucket exceeds prior mean by a configurable %. Distinct from `cost-trend` (benchmark drift); this tracks PRODUCTION spend trajectory.
 argument-hint: "[--bucket 1d] [--lookback 14d] [--alert-on-acceleration-pct 50] [--format table|json]"
 allowed-tools: Bash
 ---

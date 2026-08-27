@@ -1,6 +1,6 @@
 ---
 name: challenge
-description: Presents adaptive codebase challenge questions with multiple-choice and trace exercises. Use when testing contributor knowledge of the codebase.
+description: 以选择题和调用链追踪练习的形式呈现自适应的代码库挑战问题。在测试贡献者对代码库的掌握程度时使用。 | Presents adaptive codebase challenge questions with multiple-choice and trace exercises. Use when testing contributor knowledge of the codebase.
 model_hint: standard
 ---
 

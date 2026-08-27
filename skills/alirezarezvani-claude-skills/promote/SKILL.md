@@ -1,6 +1,6 @@
 ---
 name: "promote"
-description: "Graduate a proven pattern from auto-memory (MEMORY.md) to CLAUDE.md or .claude/rules/ for permanent enforcement. Use when the user runs /si:promote or asks to make a learned behavior permanent."
+description: "将已验证的模式从自动记忆（MEMORY.md）提升到 CLAUDE.md 或 .claude/rules/ 以永久强制执行。当用户运行 /si:promote 或要求将学到的行为永久化时使用。 | Graduate a proven pattern from auto-memory (MEMORY.md) to CLAUDE.md or .claude/rules/ for permanent enforcement. Use when the user runs /si:promote or asks to make a learned behavior permanent."
 ---
 
 # /si:promote — Graduate Learnings to Rules

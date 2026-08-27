@@ -1,6 +1,6 @@
 ---
 name: skill-optimizer
-description: "Diagnose and optimize Agent Skills (SKILL.md) with real session data and research-backed static analysis. Works with Claude Code, Codex, and any Agent Skills-compatible agent."
+description: "基于真实会话数据和有研究依据的静态分析来诊断并优化 Agent Skills（SKILL.md）。适用于 Claude Code、Codex 以及任何兼容 Agent Skills 的 agent。 | Diagnose and optimize Agent Skills (SKILL.md) with real session data and research-backed static analysis. Works with Claude Code, Codex, and any Agent Skills-compatible agent."
 risk: safe
 source: hqhq1025/skill-optimizer (MIT)
 date_added: "2026-04-11"

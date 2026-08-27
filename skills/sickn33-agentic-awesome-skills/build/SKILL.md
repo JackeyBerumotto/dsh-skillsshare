@@ -1,13 +1,13 @@
 ---
 name: build
-description: build
+description: 功能开发流水线——调研、规划、跟踪并实现重大功能特性。 | Feature development pipeline - research, plan, track, and implement major features.
 risk: unknown
 source: community
 ---
 
 ---
 name: build
-description: Feature development pipeline - research, plan, track, and implement major features.
+description: 功能开发流水线——调研、规划、跟踪并实现重大功能特性。 | Feature development pipeline - research, plan, track, and implement major features.
 argument-hint: [subcommand] [name]
 metadata:
   author: Shpigford

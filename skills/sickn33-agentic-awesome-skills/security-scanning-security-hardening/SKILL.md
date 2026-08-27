@@ -1,6 +1,6 @@
 ---
 name: security-scanning-security-hardening
-description: "Coordinate multi-layer security scanning and hardening across application, infrastructure, and compliance controls."
+description: "协调覆盖应用、基础设施和合规控制的多层安全扫描与加固。 | Coordinate multi-layer security scanning and hardening across application, infrastructure, and compliance controls."
 risk: unknown
 source: community
 date_added: "2026-02-27"

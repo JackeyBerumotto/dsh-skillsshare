@@ -1,6 +1,6 @@
 ---
 name: ux-feedback
-description: Add appropriate user feedback states (loading, success, error, empty) to a component or page
+description: 为组件或页面添加合适的用户反馈状态（加载中、成功、错误、空状态） | Add appropriate user feedback states (loading, success, error, empty) to a component or page
 risk: unknown
 source: https://github.com/bitjaru/styleseed/tree/main/engine/.claude/skills/ss-feedback
 source_repo: bitjaru/styleseed

@@ -1,6 +1,6 @@
 ---
 name: ssh-penetration-testing
-description: "Conduct comprehensive SSH security assessments including enumeration, credential attacks, vulnerability exploitation, tunneling techniques, and post-exploitation activities. This skill covers the complete methodology for testing SSH service security."
+description: "开展全面的 SSH 安全评估，包括枚举、凭据攻击、漏洞利用、隧道技术和后渗透活动。本技能涵盖测试 SSH 服务安全的完整方法论。 | Conduct comprehensive SSH security assessments including enumeration, credential attacks, vulnerability exploitation, tunneling techniques, and post-exploitation activities. This skill covers the complete methodology for testing SSH service security."
 risk: offensive
 source: community
 author: zebbern

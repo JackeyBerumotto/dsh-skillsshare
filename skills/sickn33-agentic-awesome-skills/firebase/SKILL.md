@@ -1,8 +1,6 @@
 ---
 name: firebase
-description: Firebase gives you a complete backend in minutes - auth, database,
-  storage, functions, hosting. But the ease of setup hides real complexity.
-  Security rules are your last line of defense, and they're often wrong.
+description: "Firebase 让您在几分钟内拥有完整后端——身份验证、数据库、存储、函数、托管。但搭建的便捷掩盖了真实的复杂性。安全规则是您的最后一道防线，而它们常常是错的。 | Firebase gives you a complete backend in minutes - auth, database, storage, functions, hosting. But the ease of setup hides real complexity. Security rules are your last line of defense, and they're often wrong."
 risk: unknown
 source: vibeship-spawner-skills (Apache 2.0)
 date_added: 2026-02-27

@@ -1,6 +1,6 @@
 ---
 name: papers
-description: Searches academic literature via arXiv, Semantic Scholar, and open-access PDFs. Use when building literature reviews or finding formal research on a topic.
+description: 通过 arXiv、Semantic Scholar 和开放获取 PDF 检索学术文献。在构建文献综述或查找某主题的正式研究时使用。 | Searches academic literature via arXiv, Semantic Scholar, and open-access PDFs. Use when building literature reviews or finding formal research on a topic.
 alwaysApply: false
 category: research
 tags:

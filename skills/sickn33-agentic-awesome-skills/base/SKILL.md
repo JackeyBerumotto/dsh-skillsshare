@@ -1,6 +1,6 @@
 ---
 name: base
-description: "Database management, forms, reports, and data operations with LibreOffice Base."
+description: "使用 LibreOffice Base 进行数据库管理、表单、报表和数据操作。 | Database management, forms, reports, and data operations with LibreOffice Base."
 category: database-processing
 risk: safe
 source: personal

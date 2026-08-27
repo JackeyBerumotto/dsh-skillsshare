@@ -1,6 +1,6 @@
 ---
 name: canvas-design
-description: "These are instructions for creating design philosophies - aesthetic movements that are then EXPRESSED VISUALLY. Output only .md files, .pdf files, and .png files."
+description: "这些是创建设计哲学的指令——即随后以视觉方式表达出来的美学运动。仅输出 .md 文件、.pdf 文件和 .png 文件。 | These are instructions for creating design philosophies - aesthetic movements that are then EXPRESSED VISUALLY. Output only .md files, .pdf files, and .png files."
 risk: unknown
 source: community
 date_added: "2026-02-27"

@@ -1,6 +1,6 @@
 ---
 name: api-database-knex
-description: SQL query builder for PostgreSQL, MySQL, SQLite, and MSSQL -- fluent queries, schema builder, migrations, seeds, transactions, raw queries
+description: 面向 PostgreSQL、MySQL、SQLite 和 MSSQL 的 SQL 查询构建器——流式查询、schema 构建器、迁移、种子数据、事务、原生查询。 | SQL query builder for PostgreSQL, MySQL, SQLite, and MSSQL -- fluent queries, schema builder, migrations, seeds, transactions, raw queries
 ---
 
 # Knex.js Patterns

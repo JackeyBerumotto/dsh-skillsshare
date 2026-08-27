@@ -1,7 +1,7 @@
 ---
 name: benchmark-methodology
 description: >-
-  Use after competitive-platform-analysis has produced a tiered competitor set.
+  在 competitive-platform-analysis 产出分层的竞争对手集合之后使用。按九个加权维度（定位、语调、视觉工艺、方案打包、证据、企业就绪度、思想领导力、定价、客户的战略张力）为每个竞争对手打分，附带显式的 1-5 评分标准和张力图。在 competitive-report-structure 之前使用。 |
   Scores each competitor across nine weighted dimensions (positioning, voice,
   visual craft, offer packaging, evidence, enterprise-readiness, thought
   leadership, pricing, client's strategic tension) with explicit 1–5 rubrics

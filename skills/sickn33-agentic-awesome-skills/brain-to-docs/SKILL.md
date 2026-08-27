@@ -1,6 +1,6 @@
 ---
 name: brain-to-docs
-description: "Interview the user to turn project vision and decisions into README and ADR documentation."
+description: "访谈用户，将项目愿景和决策转化为 README 与 ADR 文档。 | Interview the user to turn project vision and decisions into README and ADR documentation."
 category: productivity
 risk: critical
 source: community

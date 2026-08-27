@@ -1,6 +1,6 @@
 ---
 name: web-mocks-msw
-description: MSW handlers, browser/server workers, test data. Use when setting up API mocking for development or testing, creating mock handlers with variants, or sharing mocks between browser and Node environments.
+description: MSW 处理器、浏览器/服务器 worker 与测试数据。在为开发或测试搭建 API 模拟、创建带变体的 mock 处理器，或在浏览器与 Node 环境之间共享 mock 时使用。 | MSW handlers, browser/server workers, test data. Use when setting up API mocking for development or testing, creating mock handlers with variants, or sharing mocks between browser and Node environments.
 ---
 
 # API Mocking with MSW

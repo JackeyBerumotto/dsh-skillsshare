@@ -1,6 +1,6 @@
 ---
 name: material-design
-description: Web and App implementation guide for Material Design. Trigger when user wants Google's aesthetic, elevation, motion, and consistent components.
+description: Material Design 的 Web 与 App 实现指南。当用户需要 Google 式美学、海拔层次、动效和一致的组件时触发。 | Web and App implementation guide for Material Design. Trigger when user wants Google's aesthetic, elevation, motion, and consistent components.
 date_added: "2026-06-17"
 risk: safe
 source: self

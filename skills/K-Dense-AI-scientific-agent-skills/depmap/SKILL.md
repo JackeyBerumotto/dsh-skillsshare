@@ -1,6 +1,6 @@
 ---
 name: depmap
-description: Query the Cancer Dependency Map (DepMap) for cancer cell line gene dependency scores (CRISPR Chronos), drug sensitivity data, and gene effect profiles. Use for identifying cancer-specific vulnerabilities, synthetic lethal interactions, and validating oncology drug targets.
+description: 查询 Cancer Dependency Map（DepMap），获取癌细胞系基因依赖评分（CRISPR Chronos）、药物敏感性数据和基因效应谱。用于识别癌症特异性脆弱点、合成致死相互作用，以及验证肿瘤药物靶点。 | Query the Cancer Dependency Map (DepMap) for cancer cell line gene dependency scores (CRISPR Chronos), drug sensitivity data, and gene effect profiles. Use for identifying cancer-specific vulnerabilities, synthetic lethal interactions, and validating oncology drug targets.
 license: CC-BY-4.0
 metadata: {"version": "1.0", "skill-author": "Kuan-lin Huang"}
 ---

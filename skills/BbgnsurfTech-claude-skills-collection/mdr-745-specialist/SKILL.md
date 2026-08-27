@@ -1,6 +1,6 @@
 ---
 name: mdr-745-specialist
-description: EU MDR 2017/745 regulation specialist and consultant for medical device requirement management. Provides comprehensive MDR compliance expertise, gap analysis, technical documentation guidance, clinical evidence requirements, and post-market surveillance implementation. Use for MDR compliance assessment, classification decisions, technical file preparation, and regulatory requirement interpretation.
+description: 欧盟 MDR 2017/745 法规专家与医疗器械需求管理顾问。提供全面的 MDR 合规专业知识、差距分析、技术文档指导、临床证据要求以及上市后监督实施。用于 MDR 合规评估、分类决策、技术文件准备和法规要求解读。 | EU MDR 2017/745 regulation specialist and consultant for medical device requirement management. Provides comprehensive MDR compliance expertise, gap analysis, technical documentation guidance, clinical evidence requirements, and post-market surveillance implementation. Use for MDR compliance assessment, classification decisions, technical file preparation, and regulatory requirement interpretation.
 ---
 
 # Senior MDR 2017/745 Specialist and Consultant

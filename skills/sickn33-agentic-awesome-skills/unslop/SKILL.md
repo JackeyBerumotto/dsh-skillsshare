@@ -1,6 +1,6 @@
 ---
 name: unslop
-description: "Post-process AI-generated text through the unslop CLI to strip AI writing patterns before publishing"
+description: "在发布前通过 unslop CLI 对 AI 生成的文本进行后处理，去除 AI 写作痕迹 | Post-process AI-generated text through the unslop CLI to strip AI writing patterns before publishing"
 category: writing
 risk: safe
 source: community

@@ -1,6 +1,6 @@
 ---
 name: react-flow-architect
-description: "Build production-ready ReactFlow applications with hierarchical navigation, performance optimization, and advanced state management."
+description: "构建生产就绪的 ReactFlow 应用，具备分层导航、性能优化和高级状态管理。 | Build production-ready ReactFlow applications with hierarchical navigation, performance optimization, and advanced state management."
 risk: unknown
 source: community
 date_added: "2026-02-27"

@@ -1,6 +1,6 @@
 ---
 name: cdk-patterns
-description: "Common AWS CDK patterns and constructs for building cloud infrastructure with TypeScript, Python, or Java. Use when designing reusable CDK stacks and L3 constructs."
+description: "使用 TypeScript、Python 或 Java 构建云基础设施的常见 AWS CDK 模式与构造。在设计可复用的 CDK 技术栈和 L3 构造时使用。 | Common AWS CDK patterns and constructs for building cloud infrastructure with TypeScript, Python, or Java. Use when designing reusable CDK stacks and L3 constructs."
 risk: unknown
 source: community
 date_added: "2026-02-27"

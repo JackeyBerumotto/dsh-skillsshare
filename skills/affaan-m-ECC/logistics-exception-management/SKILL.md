@@ -1,7 +1,7 @@
 ---
 name: logistics-exception-management
 description: >
-  Codified expertise for handling freight exceptions, shipment delays,
+  处理货运异常、发运延误、货损、丢失和承运商纠纷的体系化专业知识。基于拥有 15 年以上实际运营经验的物流专业人士整理而成。包含升级协议、承运商特定行为、理赔流程和判断框架。在处理运输异常、货运理赔、交付问题或承运商纠纷时使用。 |
   damages, losses, and carrier disputes. Informed by logistics professionals
   with 15+ years operational experience. Includes escalation protocols,
   carrier-specific behaviors, claims procedures, and judgment frameworks.

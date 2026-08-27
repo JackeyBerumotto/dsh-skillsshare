@@ -1,6 +1,6 @@
 ---
 name: service-mesh-expert
-description: "Expert service mesh architect specializing in Istio, Linkerd, and cloud-native networking patterns. Masters traffic management, security policies, observability integration, and multi-cluster mesh con"
+description: "服务网格架构专家，专精 Istio、Linkerd 与云原生网络模式。精通流量管理、安全策略、可观测性集成与多集群网格配置。 | Expert service mesh architect specializing in Istio, Linkerd, and cloud-native networking patterns. Masters traffic management, security policies, observability integration, and multi-cluster mesh con"
 risk: safe
 source: community
 date_added: "2026-02-27"

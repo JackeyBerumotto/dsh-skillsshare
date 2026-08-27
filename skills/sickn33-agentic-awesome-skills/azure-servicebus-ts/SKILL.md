@@ -1,6 +1,6 @@
 ---
 name: azure-servicebus-ts
-description: "Enterprise messaging with queues, topics, and subscriptions."
+description: "具备队列、主题和订阅的企业级消息传递。 | Enterprise messaging with queues, topics, and subscriptions."
 risk: unknown
 source: community
 date_added: "2026-02-27"

@@ -1,6 +1,6 @@
 ---
 name: "decide"
-description: "/cs:decide <memo> — Log a decision to two-layer memory via decision-logger. Approved memo becomes durable; raw transcripts kept for reference. Use when the founder has approved a boardroom memo and the decision must become durable company memory — e.g. right after /cs:boardroom concludes."
+description: "/cs:decide <memo>——通过 decision-logger 将决策记录到双层记忆。获批备忘录成为持久记录，原始转录留作参考。适用于创始人已批准董事会备忘录且决策必须成为公司持久记忆时——例如在 /cs:boardroom 刚结束时。 | /cs:decide <memo> — Log a decision to two-layer memory via decision-logger. Approved memo becomes durable; raw transcripts kept for reference. Use when the founder has approved a boardroom memo and the decision must become durable company memory — e.g. right after /cs:boardroom concludes."
 ---
 
 # /cs:decide — Log the Decision

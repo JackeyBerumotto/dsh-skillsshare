@@ -1,6 +1,6 @@
 ---
 name: templates
-description: "Project scaffolding templates for new applications. Use when creating new projects from scratch. Contains 12 templates for various tech stacks."
+description: "新应用的项目脚手架模板。在从零创建新项目时使用。包含面向多种技术栈的 12 个模板。 | Project scaffolding templates for new applications. Use when creating new projects from scratch. Contains 12 templates for various tech stacks."
 risk: unknown
 source: community
 date_added: "2026-02-27"

@@ -1,6 +1,6 @@
 ---
 name: web-pwa-service-workers
-description: Service Worker lifecycle, caching strategies, offline patterns, update handling, precaching, runtime caching
+description: Service Worker 生命周期、缓存策略、离线模式、更新处理、预缓存、运行时缓存。 | Service Worker lifecycle, caching strategies, offline patterns, update handling, precaching, runtime caching
 ---
 
 # Service Worker Patterns

@@ -1,7 +1,7 @@
 ---
 name: unity-navmesh
 description: >
-  Add AI navigation in Unity 6: bake a NavMesh with the AI Navigation package (NavMeshSurface),
+  在 Unity 6 中添加 AI 导航：用 AI Navigation 包（NavMeshSurface）烘焙 NavMesh，用 NavMeshAgent.SetDestination 移动代理，并处理动态障碍物。适用于搭建寻路、让敌人追击玩家、烘焙导航时，或用户提到 NavMesh、NavMeshAgent、NavMeshSurface、NavMeshObstacle 或 Unity 寻路时。 |
   move agents with NavMeshAgent.SetDestination, and handle dynamic obstacles. Use when setting
   up pathfinding, making an enemy chase the player, baking navigation, or when the user
   mentions NavMesh, NavMeshAgent, NavMeshSurface, NavMeshObstacle, or Unity pathfinding.

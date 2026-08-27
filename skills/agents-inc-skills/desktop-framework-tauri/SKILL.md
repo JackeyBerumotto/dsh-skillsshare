@@ -1,6 +1,6 @@
 ---
 name: desktop-framework-tauri
-description: Tauri 2.x commands, IPC bridge, permission system, plugins, window management, system tray, packaging
+description: Tauri 2.x 命令、IPC 桥接、权限系统、插件、窗口管理、系统托盘、打包 | Tauri 2.x commands, IPC bridge, permission system, plugins, window management, system tray, packaging
 ---
 
 # Tauri 2.x Desktop & Mobile Apps

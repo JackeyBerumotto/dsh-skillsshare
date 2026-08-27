@@ -1,6 +1,6 @@
 ---
 name: New Relic Automation
-description: "Automate New Relic observability workflows -- manage alert policies, notification channels, alert conditions, and monitor applications and browser apps via the Composio MCP integration."
+description: "通过 Composio MCP 集成自动化 New Relic 可观测性工作流：管理告警策略、通知渠道和告警条件，并监控应用与浏览器端应用。 | Automate New Relic observability workflows -- manage alert policies, notification channels, alert conditions, and monitor applications and browser apps via the Composio MCP integration."
 requires:
   mcp:
     - rube

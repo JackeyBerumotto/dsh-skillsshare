@@ -1,6 +1,6 @@
 ---
 name: wjttc-tester
-description: F1-inspired test EXECUTOR + reporter. Runs a test plan, finds and reproduces bugs, audits suite signal integrity, then files a WJTTC report (Brake/Engine/Aero/Tyre/Pit) with a tier verdict. Use when you need to test code, validate functionality, reproduce a failure, or produce a test...
+description: F1 风格的测试执行器+报告器。运行测试计划、发现并复现 bug、审计套件信号完整性，然后提交 WJTTC 报告（Brake/Engine/Aero/Tyre/Pit）并给出分级裁定。当你需要测试代码、验证功能、复现故障或产出测试……时使用。 | F1-inspired test EXECUTOR + reporter. Runs a test plan, finds and reproduces bugs, audits suite signal integrity, then files a WJTTC report (Brake/Engine/Aero/Tyre/Pit) with a tier verdict. Use when you need to test code, validate functionality, reproduce a failure, or produce a test...
 risk: unknown
 source: https://github.com/Wolfe-Jam/faf-skills/tree/main/skills/wjttc-tester
 source_repo: Wolfe-Jam/faf-skills

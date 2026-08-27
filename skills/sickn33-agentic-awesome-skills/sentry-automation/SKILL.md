@@ -1,6 +1,6 @@
 ---
 name: sentry-automation
-description: "Automate Sentry tasks via Rube MCP (Composio): manage issues/events, configure alerts, track releases, monitor projects and teams. Always search tools first for current schemas."
+description: "通过 Rube MCP（Composio）自动化 Sentry 任务：管理问题/事件、配置警报、追踪版本发布、监控项目和团队。务必先搜索工具以获取最新 schema。 | Automate Sentry tasks via Rube MCP (Composio): manage issues/events, configure alerts, track releases, monitor projects and teams. Always search tools first for current schemas."
 risk: critical
 source: community
 date_added: "2026-02-27"

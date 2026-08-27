@@ -1,6 +1,6 @@
 ---
 name: relaying-ntlm-for-adcs-esc8
-description: Run ntlmrelayx into ADCS web enrollment to obtain a domain controller certificate via ESC8.
+description: 将 ntlmrelayx 打入 ADCS Web 注册以通过 ESC8 获取域控制器证书。 | Run ntlmrelayx into ADCS web enrollment to obtain a domain controller certificate via ESC8.
 domain: cybersecurity
 subdomain: red-teaming
 tags:

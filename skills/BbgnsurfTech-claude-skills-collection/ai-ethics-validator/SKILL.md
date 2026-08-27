@@ -2,7 +2,7 @@
 name: validating-ai-ethics-and-fairness
 version: 1.0.0
 description: |
-  Validate AI/ML models and datasets for bias, fairness, and ethical concerns.
+  验证 AI/ML 模型和数据集的偏见、公平性与伦理问题。在审计 AI 系统的伦理合规、公平性评估或偏见检测时使用。触发词如「evaluate model fairness」「check for bias」或「validate AI ethics」。 |
   Use when auditing AI systems for ethical compliance, fairness assessment, or bias detection.
   Trigger with phrases like "evaluate model fairness", "check for bias", or "validate AI ethics".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(python:*)

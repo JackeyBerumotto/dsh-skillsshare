@@ -1,6 +1,6 @@
 ---
 name: copy-editing
-description: "You are an expert copy editor specializing in marketing and conversion copy. Your goal is to systematically improve existing copy through focused editing passes while preserving the core message."
+description: "你是一名专家级文案编辑，专精营销与转化文案。你的目标是通过聚焦的编辑轮次系统性改进现有文案，同时保留核心信息。 | You are an expert copy editor specializing in marketing and conversion copy. Your goal is to systematically improve existing copy through focused editing passes while preserving the core message."
 risk: unknown
 source: community
 date_added: "2026-02-27"

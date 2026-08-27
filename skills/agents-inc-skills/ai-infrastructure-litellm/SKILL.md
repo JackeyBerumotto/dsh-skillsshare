@@ -1,6 +1,6 @@
 ---
 name: ai-infrastructure-litellm
-description: LiteLLM proxy server setup, TypeScript client patterns via OpenAI SDK, model routing, fallbacks, load balancing, spend tracking, virtual keys, and production deployment
+description: LiteLLM 代理服务器搭建、通过 OpenAI SDK 的 TypeScript 客户端模式、模型路由、回退、负载均衡、消费追踪、虚拟密钥与生产部署。 | LiteLLM proxy server setup, TypeScript client patterns via OpenAI SDK, model routing, fallbacks, load balancing, spend tracking, virtual keys, and production deployment
 ---
 
 # LiteLLM Proxy Patterns

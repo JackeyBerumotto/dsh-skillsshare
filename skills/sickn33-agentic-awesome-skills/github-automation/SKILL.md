@@ -1,6 +1,6 @@
 ---
 name: github-automation
-description: "Operate GitHub issues, pull requests, branches, checks, workflows, and permissions through Rube MCP. Use when GitHub work must be queried or changed programmatically with repository-policy safeguards."
+description: "通过 Rube MCP 操作 GitHub 的 issue、拉取请求、分支、检查、工作流和权限。当需要以程序化方式查询或变更 GitHub 相关工作并施加仓库策略防护时使用。 | Operate GitHub issues, pull requests, branches, checks, workflows, and permissions through Rube MCP. Use when GitHub work must be queried or changed programmatically with repository-policy safeguards."
 risk: critical
 source: community
 date_added: "2026-02-27"

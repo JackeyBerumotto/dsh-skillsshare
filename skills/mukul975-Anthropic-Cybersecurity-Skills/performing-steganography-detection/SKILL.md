@@ -1,7 +1,6 @@
 ---
 name: performing-steganography-detection
-description: Detect and extract hidden data embedded in images, audio, and other media
-  files using steganalysis tools to uncover covert communication channels.
+description: "使用隐写分析工具检测并提取嵌入在图像、音频和其他媒体文件中的隐藏数据，揭示隐蔽通信信道。 | Detect and extract hidden data embedded in images, audio, and other media files using steganalysis tools to uncover covert communication channels."
 domain: cybersecurity
 subdomain: digital-forensics
 tags:

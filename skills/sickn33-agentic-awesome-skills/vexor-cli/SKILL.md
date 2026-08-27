@@ -1,6 +1,6 @@
 ---
 name: vexor-cli
-description: Semantic file discovery via `vexor`. Use whenever locating where something is implemented/loaded/defined in a medium or large repo, or when the file location is unclear. Prefer this over manual browsing.
+description: 通过 `vexor` 进行语义化文件发现。在中等或大型仓库中定位某物的实现/加载/定义位置时，或在文件位置不明确时使用。优先于手动浏览。 | Semantic file discovery via `vexor`. Use whenever locating where something is implemented/loaded/defined in a medium or large repo, or when the file location is unclear. Prefer this over manual browsing.
 risk: unknown
 source: community
 ---

@@ -1,6 +1,6 @@
 ---
 name: security-review
-description: "Review a design, PR, or feature for security issues before it ships. Use when asked to do a security review, security-review a change/PR, or check a feature for vulnerabilities. Produces a structured review across the common risk areas (authn/authz, input handling, secrets, data exposure, dependencies), findings ranked by severity with concrete fixes, and a ship / fix-first verdict. For code and systems you own or are authorized to review."
+description: "在设计、PR 或功能上线前审查其安全问题。当被要求做安全审查、对变更/PR 做安全评审，或检查功能漏洞时使用。产出覆盖常见风险领域（认证/授权、输入处理、密钥、数据暴露、依赖）的结构化审查、按严重程度排序并附具体修复的发现，以及可发布/先修复的结论。适用于你拥有或被授权审查的代码与系统。 | Review a design, PR, or feature for security issues before it ships. Use when asked to do a security review, security-review a change/PR, or check a feature for vulnerabilities. Produces a structured review across the common risk areas (authn/authz, input handling, secrets, data exposure, dependencies), findings ranked by severity with concrete fixes, and a ship / fix-first verdict. For code and systems you own or are authorized to review."
 ---
 
 # Security Review Skill

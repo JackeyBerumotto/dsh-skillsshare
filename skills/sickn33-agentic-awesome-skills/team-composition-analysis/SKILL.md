@@ -1,6 +1,6 @@
 ---
 name: team-composition-analysis
-description: "Design optimal team structures, hiring plans, compensation strategies, and equity allocation for early-stage startups from pre-seed through Series A."
+description: "为从种子前到 A 轮的早期初创公司设计最优团队结构、招聘计划、薪酬策略和股权分配。 | Design optimal team structures, hiring plans, compensation strategies, and equity allocation for early-stage startups from pre-seed through Series A."
 risk: unknown
 source: community
 date_added: '2026-02-27'

@@ -1,6 +1,6 @@
 ---
 name: odoo-purchase-workflow
-description: "Expert guide for Odoo Purchase: RFQ → PO → Receipt → Vendor Bill workflow, purchase agreements, vendor price lists, and 3-way matching."
+description: "Odoo 采购专家指南：RFQ → PO → 收货 → 供应商账单工作流、采购协议、供应商价格清单和三方匹配。 | Expert guide for Odoo Purchase: RFQ → PO → Receipt → Vendor Bill workflow, purchase agreements, vendor price lists, and 3-way matching."
 risk: safe
 source: "self"
 ---

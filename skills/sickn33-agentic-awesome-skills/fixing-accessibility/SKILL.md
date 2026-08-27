@@ -1,6 +1,6 @@
 ---
 name: fixing-accessibility
-description: Audit and fix HTML accessibility issues including ARIA labels, keyboard navigation, focus management, color contrast, and form errors. Use when adding interactive controls, forms, dialogs, or reviewing WCAG compliance.
+description: 审计并修复 HTML 可访问性问题，包括 ARIA 标签、键盘导航、焦点管理、颜色对比度以及表单错误。在添加交互控件、表单、对话框或审查 WCAG 合规性时使用。 | Audit and fix HTML accessibility issues including ARIA labels, keyboard navigation, focus management, color contrast, and form errors. Use when adding interactive controls, forms, dialogs, or reviewing WCAG compliance.
 risk: unknown
 source: https://github.com/ibelick/ui-skills/tree/main/skills/fixing-accessibility
 source_repo: ibelick/ui-skills

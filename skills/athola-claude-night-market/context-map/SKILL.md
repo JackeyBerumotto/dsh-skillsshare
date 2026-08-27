@@ -1,6 +1,6 @@
 ---
 name: context-map
-description: Generates a compressed project context map to avoid expensive Read/Grep calls. Use at session start or before implementing features in an unfamiliar codebase.
+description: 生成压缩的项目上下文地图，避免昂贵的 Read/Grep 调用。在会话开始时，或在不熟悉的代码库中实现功能之前使用。 | Generates a compressed project context map to avoid expensive Read/Grep calls. Use at session start or before implementing features in an unfamiliar codebase.
 category: optimization
 tags:
   - context

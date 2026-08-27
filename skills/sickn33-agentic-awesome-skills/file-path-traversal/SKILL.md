@@ -1,6 +1,6 @@
 ---
 name: file-path-traversal
-description: "Identify and exploit file path traversal (directory traversal) vulnerabilities that allow attackers to read arbitrary files on the server, potentially including sensitive configuration files, credentials, and source code."
+description: "识别并利用文件路径遍历（目录遍历）漏洞，此类漏洞允许攻击者读取服务器上的任意文件，其中可能包括敏感配置文件、凭据和源代码。 | Identify and exploit file path traversal (directory traversal) vulnerabilities that allow attackers to read arbitrary files on the server, potentially including sensitive configuration files, credentials, and source code."
 risk: offensive
 source: community
 author: zebbern

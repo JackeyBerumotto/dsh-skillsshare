@@ -1,6 +1,6 @@
 ---
 name: collections-email
-description: "Write a polite-but-firm payment-reminder / collections email sequence for overdue invoices. Use when asked to write a collections email, a payment reminder, a dunning sequence, or to chase an overdue invoice. Produces a staged sequence — gentle pre-due nudge through escalating overdue reminders to a final notice — that stays professional, keeps the relationship intact, and makes paying easy. Not legal advice."
+description: "为逾期发票撰写礼貌而坚定的付款提醒/催收邮件序列。在被要求编写催收邮件、付款提醒、催缴序列，或追讨逾期发票时使用。产出分阶段序列——从到期前的温和提醒，到逐级升级的逾期提醒，再到最后通知——保持专业、维护关系并让付款变得容易。不构成法律建议。 | Write a polite-but-firm payment-reminder / collections email sequence for overdue invoices. Use when asked to write a collections email, a payment reminder, a dunning sequence, or to chase an overdue invoice. Produces a staged sequence — gentle pre-due nudge through escalating overdue reminders to a final notice — that stays professional, keeps the relationship intact, and makes paying easy. Not legal advice."
 ---
 
 # Collections Email Skill

@@ -1,7 +1,7 @@
 ---
 name: "review"
 description: >-
-  Review Playwright tests for quality. Use when user says "review tests",
+  审查 Playwright 测试的质量。当用户说「review tests」「check test quality」「audit tests」「improve tests」「test code review」或「playwright best practices check」时使用。 |
   "check test quality", "audit tests", "improve tests", "test code review",
   or "playwright best practices check".
 ---

@@ -1,6 +1,6 @@
 ---
 name: quality-gate
-description: Orchestrates the QUALITY pipeline stage for egregore work items, running code review, unbloat, and test updates. Use when running quality checks before a PR.
+description: 为 egregore 工作项编排 QUALITY 管道阶段，运行代码评审、瘦身和测试更新。在 PR 前运行质量检查时使用。 | Orchestrates the QUALITY pipeline stage for egregore work items, running code review, unbloat, and test updates. Use when running quality checks before a PR.
 alwaysApply: false
 category: orchestration
 tags:

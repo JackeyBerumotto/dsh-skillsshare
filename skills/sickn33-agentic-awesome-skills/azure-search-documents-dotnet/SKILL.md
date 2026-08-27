@@ -1,6 +1,6 @@
 ---
 name: azure-search-documents-dotnet
-description: Azure AI Search SDK for .NET (Azure.Search.Documents). Use for building search applications with full-text, vector, semantic, and hybrid search.
+description: 适用于 .NET 的 Azure AI Search SDK（Azure.Search.Documents）。用于构建支持全文、向量、语义和混合搜索的搜索应用。 | Azure AI Search SDK for .NET (Azure.Search.Documents). Use for building search applications with full-text, vector, semantic, and hybrid search.
 risk: unknown
 source: community
 date_added: '2026-02-27'

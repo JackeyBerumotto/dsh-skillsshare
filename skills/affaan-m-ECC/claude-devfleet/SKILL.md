@@ -1,6 +1,6 @@
 ---
 name: claude-devfleet
-description: Orchestrate multi-agent coding tasks via Claude DevFleet — plan projects, dispatch parallel agents in isolated worktrees, monitor progress, and read structured reports.
+description: 通过 Claude DevFleet 编排多智能体编码任务——规划项目、在隔离的 worktree 中调度并行智能体、监控进度并读取结构化报告。 | Orchestrate multi-agent coding tasks via Claude DevFleet — plan projects, dispatch parallel agents in isolated worktrees, monitor progress, and read structured reports.
 metadata:
   origin: community
 ---

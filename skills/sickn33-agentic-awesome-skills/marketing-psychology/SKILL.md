@@ -1,6 +1,6 @@
 ---
 name: marketing-psychology
-description: "Apply behavioral science and mental models to marketing decisions, prioritized using a psychological leverage and feasibility scoring system."
+description: "将行为科学与心智模型应用于营销决策，并借助心理杠杆与可行性评分体系进行优先级排序。 | Apply behavioral science and mental models to marketing decisions, prioritized using a psychological leverage and feasibility scoring system."
 risk: unknown
 source: community
 date_added: "2026-02-27"

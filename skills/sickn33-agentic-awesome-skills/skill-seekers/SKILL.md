@@ -1,6 +1,6 @@
 ---
 name: skill-seekers
-description: "-Automatically convert documentation websites, GitHub repositories, and PDFs into Claude AI skills in minutes."
+description: "自动在几分钟内将文档网站、GitHub 仓库和 PDF 转换为 Claude AI 技能。 | -Automatically convert documentation websites, GitHub repositories, and PDFs into Claude AI skills in minutes."
 risk: safe
 source: "https://github.com/yusufkaraaslan/Skill_Seekers"
 date_added: "2026-02-27"

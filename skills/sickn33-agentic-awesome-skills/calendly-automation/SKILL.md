@@ -1,6 +1,6 @@
 ---
 name: calendly-automation
-description: "Automate Calendly scheduling, event management, invitee tracking, availability checks, and organization administration via Rube MCP (Composio). Always search tools first for current schemas."
+description: "通过 Rube MCP（Composio）自动化 Calendly 日程安排、活动管理、受邀者跟踪、可用时间检查以及组织管理。务必先搜索工具以获取最新 schema。 | Automate Calendly scheduling, event management, invitee tracking, availability checks, and organization administration via Rube MCP (Composio). Always search tools first for current schemas."
 risk: critical
 source: community
 date_added: "2026-02-27"

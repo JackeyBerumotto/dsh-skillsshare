@@ -1,6 +1,6 @@
 ---
 name: architecture-aware-init
-description: Selects architecture paradigm via research before scaffolding. Use when architecture is undecided and the choice needs justification and documentation.
+description: 在脚手架生成之前通过调研选择架构范式。在架构未定且该选择需要论证和文档记录时使用。 | Selects architecture paradigm via research before scaffolding. Use when architecture is undecided and the choice needs justification and documentation.
 alwaysApply: false
 category: project-initialization
 tags:

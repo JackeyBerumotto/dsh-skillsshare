@@ -1,6 +1,6 @@
 ---
 name: vibe-code-cleanup
-description: "Safe production cleanup and hardening for vibe-coded fullstack apps (Next.js, React, Node.js, etc.). Removes dead imports, unused files, and broken references without breaking routes or APIs."
+description: "为氛围编码的全栈应用（Next.js、React、Node.js 等）进行安全的生产环境清理与加固。在不破坏路由或 API 的前提下移除无用导入、未使用文件和失效引用。 | Safe production cleanup and hardening for vibe-coded fullstack apps (Next.js, React, Node.js, etc.). Removes dead imports, unused files, and broken references without breaking routes or APIs."
 category: fullstack
 risk: safe
 source: self

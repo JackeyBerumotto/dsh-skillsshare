@@ -1,6 +1,6 @@
 ---
 name: cloudformation-best-practices
-description: "CloudFormation template optimization, nested stacks, drift detection, and production-ready patterns. Use when writing or reviewing CF templates."
+description: "CloudFormation 模板优化、嵌套堆栈、漂移检测和生产就绪模式。当编写或评审 CF 模板时使用。 | CloudFormation template optimization, nested stacks, drift detection, and production-ready patterns. Use when writing or reviewing CF templates."
 risk: unknown
 source: community
 date_added: "2026-02-27"

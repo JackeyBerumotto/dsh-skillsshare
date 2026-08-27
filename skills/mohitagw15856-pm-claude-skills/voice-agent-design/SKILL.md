@@ -1,6 +1,6 @@
 ---
 name: voice-agent-design
-description: "Design a voice AI agent for phone or in-app conversations — call flows, interruption handling, escalation to humans, and the metrics that catch a bad voice experience. Use when asked to design a voice agent, automate a phone line, spec an IVR replacement, or review why callers hate an existing voice bot. Produces a voice agent spec: persona and disclosure policy, conversation architecture, barge-in and repair behaviour, human-handoff rules, and a launch scorecard."
+description: "设计用于电话或应用内对话的语音 AI agent：呼叫流程、打断处理、升级转人工，以及能发现糟糕语音体验的指标。当被要求设计语音 agent、自动化电话线路、编写 IVR 替代方案规格，或分析来电者为何讨厌现有语音机器人时使用。产出语音 agent 规格说明：人设与身份披露策略、对话架构、抢话与修复行为、转人工规则，以及上线评分卡。 | Design a voice AI agent for phone or in-app conversations — call flows, interruption handling, escalation to humans, and the metrics that catch a bad voice experience. Use when asked to design a voice agent, automate a phone line, spec an IVR replacement, or review why callers hate an existing voice bot. Produces a voice agent spec: persona and disclosure policy, conversation architecture, barge-in and repair behaviour, human-handoff rules, and a launch scorecard."
 ---
 
 # Voice Agent Design Skill

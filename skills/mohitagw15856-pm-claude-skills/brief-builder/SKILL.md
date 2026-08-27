@@ -1,6 +1,6 @@
 ---
 name: brief-builder
-description: "Interview the user with sharp, one-at-a-time questions to turn a vague request into a tight, complete brief any other skill can run on. Use when a request is fuzzy, under-specified, or 'help me think this through', or before running a skill that needs inputs the user hasn't given. Produces a structured brief (goal, audience, constraints, success criteria) and hands off to the right skill — by interrogating, not guessing."
+description: "用犀利的一次一个问题访谈用户，把模糊的请求变成一份紧凑、完整的简报，供任何其他技能执行。在请求含糊、规格不足、用户说「help me think this through」，或在运行一个需要用户尚未给出输入的技能之前使用。产出结构化简报（目标、受众、约束、成功标准）并移交给合适的技能——靠追问而非猜测。 | Interview the user with sharp, one-at-a-time questions to turn a vague request into a tight, complete brief any other skill can run on. Use when a request is fuzzy, under-specified, or 'help me think this through', or before running a skill that needs inputs the user hasn't given. Produces a structured brief (goal, audience, constraints, success criteria) and hands off to the right skill — by interrogating, not guessing."
 ---
 
 # Brief Builder Skill

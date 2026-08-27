@@ -1,6 +1,6 @@
 ---
 name: configure
-description: Set up the Discord channel — save the bot token and review access policy. Use when the user pastes a Discord bot token, asks to configure Discord, asks "how do I set this up" or "who can reach me," or wants to check channel status.
+description: 设置 Discord 频道——保存机器人 token 并评审访问策略。当用户粘贴 Discord 机器人 token、要求配置 Discord、询问「如何设置」或「谁能联系我」，或想检查频道状态时使用。 | Set up the Discord channel — save the bot token and review access policy. Use when the user pastes a Discord bot token, asks to configure Discord, asks "how do I set this up" or "who can reach me," or wants to check channel status.
 user-invocable: true
 allowed-tools:
   - Read

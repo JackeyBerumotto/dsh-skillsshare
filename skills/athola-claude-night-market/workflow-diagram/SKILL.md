@@ -1,6 +1,6 @@
 ---
 name: workflow-diagram
-description: Generates a Mermaid workflow diagram showing process steps, decisions, and state transitions. Use when documenting CI/CD pipelines or lifecycle processes.
+description: 生成展示流程步骤、决策和状态转换的 Mermaid 工作流图。在记录 CI/CD 流水线或生命周期流程时使用。 | Generates a Mermaid workflow diagram showing process steps, decisions, and state transitions. Use when documenting CI/CD pipelines or lifecycle processes.
 ---
 
 # Workflow Diagram

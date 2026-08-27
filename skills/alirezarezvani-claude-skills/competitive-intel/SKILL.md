@@ -1,6 +1,6 @@
 ---
 name: "competitive-intel"
-description: "Systematic competitor tracking that feeds CMO positioning, CRO battlecards, and CPO roadmap decisions. Use when analyzing competitors, building sales battlecards, tracking market moves, positioning against alternatives, or when user mentions competitive intelligence, competitive analysis, competitor research, battlecards, win/loss, or market positioning."
+description: "系统性竞品追踪，为 CMO 的定位决策、CRO 的作战卡和 CPO 的路线图决策提供输入。当需要分析竞争对手、构建销售作战卡、追踪市场动向、针对替代方案进行定位，或用户提到竞争情报、竞争分析、竞品研究、作战卡、赢单/丢单分析或市场定位时使用。 | Systematic competitor tracking that feeds CMO positioning, CRO battlecards, and CPO roadmap decisions. Use when analyzing competitors, building sales battlecards, tracking market moves, positioning against alternatives, or when user mentions competitive intelligence, competitive analysis, competitor research, battlecards, win/loss, or market positioning."
 license: MIT
 metadata:
   version: 1.0.0

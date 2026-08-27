@@ -1,6 +1,6 @@
 ---
 name: loopy
-description: Discover, find, compare, audit, repair, adapt, craft, run, debrief, and prepare repeatable AI-agent loops for publication. Use when a user asks to analyze code or coding threads for recurring work, find a published loop, interview them to turn a goal into a bounded loop, review a loop...
+description: 发现、查找、比较、审计、修复、调整、编写、运行、复盘并准备可发布的可重复 AI agent 循环。当用户要求分析代码或编码会话中的重复工作、查找已发布的循环、通过访谈把目标转化为有界循环、审查循环等时使用。 | Discover, find, compare, audit, repair, adapt, craft, run, debrief, and prepare repeatable AI-agent loops for publication. Use when a user asks to analyze code or coding threads for recurring work, find a published loop, interview them to turn a goal into a bounded loop, review a loop...
 risk: unknown
 source: https://github.com/Forward-Future/loop-library/tree/main/skills/loopy
 source_repo: Forward-Future/loop-library

@@ -1,6 +1,6 @@
 ---
 name: glassmorphism
-description: Frosted glass effect with translucent layers, subtle blur, and luminous borders for depth and modern elegance.
+description: 磨砂玻璃效果：半透明层、细腻模糊与发光边框，营造景深与现代优雅。 | Frosted glass effect with translucent layers, subtle blur, and luminous borders for depth and modern elegance.
 license: MIT
 metadata:
   author: typeui.sh

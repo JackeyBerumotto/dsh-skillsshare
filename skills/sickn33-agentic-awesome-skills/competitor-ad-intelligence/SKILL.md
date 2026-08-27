@@ -1,6 +1,6 @@
 ---
 name: competitor-ad-intelligence
-description: "Research public competitor ads, analyze creative patterns and landing pages, and produce an evidence-labeled strategic teardown."
+description: "研究竞品的公开广告，分析创意模式与落地页，并产出带证据标注的战略拆解。 | Research public competitor ads, analyze creative patterns and landing pages, and produce an evidence-labeled strategic teardown."
 category: marketing
 risk: critical
 source: community

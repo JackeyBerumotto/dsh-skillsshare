@@ -1,6 +1,6 @@
 ---
 name: changelog-writer
-description: "Turn a list of changes, commits, or PRs into clean release notes / a changelog entry. Use when asked to write release notes, a changelog, or a version announcement from raw changes. Produces a Keep-a-Changelog-style entry grouped by type (Added/Changed/Fixed/etc.), written for users — surfacing breaking changes and upgrade notes up top. To go straight from a raw git log use changelog-generator instead."
+description: "将变更列表、提交或 PR 整理成干净的发布说明/变更日志条目。当被要求根据原始变更撰写发布说明、变更日志或版本公告时使用。产出 Keep-a-Changelog 风格的条目，按类型分组（新增/变更/修复等），面向用户撰写——将破坏性变更和升级说明放在最前面。若要直接从原始 git log 生成，请改用 changelog-generator。 | Turn a list of changes, commits, or PRs into clean release notes / a changelog entry. Use when asked to write release notes, a changelog, or a version announcement from raw changes. Produces a Keep-a-Changelog-style entry grouped by type (Added/Changed/Fixed/etc.), written for users — surfacing breaking changes and upgrade notes up top. To go straight from a raw git log use changelog-generator instead."
 ---
 
 # Changelog Writer Skill

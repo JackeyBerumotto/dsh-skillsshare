@@ -1,6 +1,6 @@
 ---
 name: runway-monte-carlo
-description: "Cash runway as a distribution, not a number — Monte Carlo simulated. Use when someone asks how long their cash lasts, when to start fundraising, or how burn/revenue volatility changes their runway; especially when the naive cash÷burn answer is driving a decision. Produces P10/P50/P90 runway, month-by-month death probabilities, and a real .xlsx with editable assumptions and a live naive-runway formula — via the bundled zero-dependency simulator."
+description: "把现金跑道视为一个分布而非单一数字——蒙特卡洛模拟。当有人问现金能撑多久、何时开始融资，或消耗与营收波动如何改变跑道时使用；尤其是当朴素的现金除以消耗的答案正在驱动决策时。产出 P10、P50、P90 跑道，逐月死亡概率，以及一个真实的 .xlsx 文件（含可编辑假设和动态的朴素跑道公式）——通过内置的零依赖模拟器实现。 | Cash runway as a distribution, not a number — Monte Carlo simulated. Use when someone asks how long their cash lasts, when to start fundraising, or how burn/revenue volatility changes their runway; especially when the naive cash÷burn answer is driving a decision. Produces P10/P50/P90 runway, month-by-month death probabilities, and a real .xlsx with editable assumptions and a live naive-runway formula — via the bundled zero-dependency simulator."
 ---
 
 # Runway Monte Carlo

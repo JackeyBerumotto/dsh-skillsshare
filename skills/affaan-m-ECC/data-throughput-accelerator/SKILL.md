@@ -1,6 +1,6 @@
 ---
 name: data-throughput-accelerator
-description: Use when large data ingestion, backfill, export, ETL, warehouse loading, manifest catch-up, or table synchronization needs to become much faster while preserving data correctness.
+description: 当大批量数据摄取、回填、导出、ETL、仓库加载、清单追平或表同步需要在保持数据正确性的同时大幅提速时使用。 | Use when large data ingestion, backfill, export, ETL, warehouse loading, manifest catch-up, or table synchronization needs to become much faster while preserving data correctness.
 license: MIT
 metadata:
   origin: ECC

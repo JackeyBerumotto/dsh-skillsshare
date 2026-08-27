@@ -2,7 +2,7 @@
 name: validating-api-contracts
 version: 1.0.0
 description: |
-  Validate API contracts using consumer-driven contract testing (Pact, Spring Cloud Contract).
+  使用消费者驱动的契约测试（Pact、Spring Cloud Contract）验证 API 契约。在执行专项测试时使用。触发词如「validate API contract」「run contract tests」或「check consumer contracts」。 |
   Use when performing specialized testing.
   Trigger with phrases like "validate API contract", "run contract tests", or "check consumer contracts".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(test:contract-*)

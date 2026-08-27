@@ -1,7 +1,7 @@
 ---
 name: card-game
 description: >
-  Build a card game: card data, deck/hand/discard zones, draw/shuffle/reshuffle, a turn structure,
+  构建卡牌游戏：卡牌数据、牌库、手牌与弃牌区，抽牌、洗牌与重洗，回合结构、费用与效果结算。适用于卡组构筑游戏、TCG 或 CCG，以及 Roguelike 卡组构筑游戏。 |
   costs, and effect resolution. Use for a deckbuilder, TCG/CCG, or roguelike deckbuilder.
 license: Apache-2.0
 compatibility: Engine-agnostic design patterns; snippets are pseudocode (port to your engine)

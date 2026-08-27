@@ -1,6 +1,6 @@
 ---
 name: nodejs-backend-patterns
-description: "Comprehensive guidance for building scalable, maintainable, and production-ready Node.js backend applications with modern frameworks, architectural patterns, and best practices."
+description: "关于使用现代框架、架构模式和最佳实践构建可扩展、可维护、生产可用的 Node.js 后端应用的综合指南。 | Comprehensive guidance for building scalable, maintainable, and production-ready Node.js backend applications with modern frameworks, architectural patterns, and best practices."
 risk: safe
 source: community
 date_added: "2026-02-27"

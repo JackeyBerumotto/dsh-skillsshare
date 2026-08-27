@@ -1,6 +1,6 @@
 ---
 name: scientific-brainstorming
-description: Creative research ideation and exploration. Use for open-ended brainstorming sessions, exploring interdisciplinary connections, challenging assumptions, or identifying research gaps. Best for early-stage research planning when you do not have specific observations yet. For formulating testable hypotheses from data use hypothesis-generation.
+description: 创意研究构思与探索。适用于开放式头脑风暴、探索跨学科联系、挑战既有假设或识别研究空白。最适合尚未获得具体观察的早期研究规划。若要从数据提出可检验的假设，请使用 hypothesis-generation。 | Creative research ideation and exploration. Use for open-ended brainstorming sessions, exploring interdisciplinary connections, challenging assumptions, or identifying research gaps. Best for early-stage research planning when you do not have specific observations yet. For formulating testable hypotheses from data use hypothesis-generation.
 license: MIT license
 metadata: {"version": "1.0", "skill-author": "K-Dense Inc."}
 ---

@@ -1,6 +1,6 @@
 ---
 name: react-patterns
-description: "Modern React patterns and principles. Hooks, composition, performance, TypeScript best practices."
+description: "现代 React 模式与原则：hooks、组合、性能与 TypeScript 最佳实践。 | Modern React patterns and principles. Hooks, composition, performance, TypeScript best practices."
 risk: safe
 source: community
 date_added: "2026-02-27"

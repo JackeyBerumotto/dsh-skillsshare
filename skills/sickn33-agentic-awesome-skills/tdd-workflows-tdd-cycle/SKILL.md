@@ -1,6 +1,6 @@
 ---
 name: tdd-workflows-tdd-cycle
-description: "Use when working with tdd workflows tdd cycle"
+description: "在处理 TDD 工作流（tdd workflows）中的 TDD 循环（tdd cycle）时使用。 | Use when working with tdd workflows tdd cycle"
 risk: unknown
 source: community
 date_added: "2026-02-27"

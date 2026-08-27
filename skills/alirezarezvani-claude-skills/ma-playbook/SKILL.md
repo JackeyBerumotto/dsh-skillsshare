@@ -1,6 +1,6 @@
 ---
 name: "ma-playbook"
-description: "M&A strategy for acquiring companies or being acquired. Due diligence, valuation, integration, and deal structure. Use when evaluating acquisitions, preparing for acquisition, M&A due diligence, integration planning, or deal negotiation."
+description: "收购公司或被收购的并购（M&A）战略，涵盖尽职调查、估值、整合与交易结构。在评估收购、筹备被收购、进行并购尽职调查、整合规划或交易谈判时使用。 | M&A strategy for acquiring companies or being acquired. Due diligence, valuation, integration, and deal structure. Use when evaluating acquisitions, preparing for acquisition, M&A due diligence, integration planning, or deal negotiation."
 license: MIT
 metadata:
   version: 1.0.0

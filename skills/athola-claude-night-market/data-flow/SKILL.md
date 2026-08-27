@@ -1,6 +1,6 @@
 ---
 name: data-flow
-description: Generates a Mermaid sequence diagram showing how data moves between components. Use when tracing request flows or documenting data transformation pipelines.
+description: 生成展示组件间数据流转的 Mermaid 时序图。在追踪请求流程或记录数据转换管道时使用。 | Generates a Mermaid sequence diagram showing how data moves between components. Use when tracing request flows or documenting data transformation pipelines.
 ---
 
 # Data Flow Diagram

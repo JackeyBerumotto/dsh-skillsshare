@@ -1,6 +1,6 @@
 ---
 name: skill-check
-description: "Validate Claude Code skills against the agentskills specification. Catches structural, semantic, and naming issues before users do."
+description: "依据 agentskills 规范验证 Claude Code 技能。在用户之前发现结构性、语义和命名问题。 | Validate Claude Code skills against the agentskills specification. Catches structural, semantic, and naming issues before users do."
 category: development
 risk: safe
 source: https://github.com/olgasafonova/SkillCheck-Free

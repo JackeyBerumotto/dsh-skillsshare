@@ -1,6 +1,6 @@
 ---
 name: labarchive-integration
-description: Electronic lab notebook API integration. Access notebooks, manage entries/attachments, backup notebooks, integrate with Protocols.io/Jupyter/REDCap, for programmatic ELN workflows.
+description: 电子实验记录本 API 集成。访问记录本、管理条目/附件、备份记录本、与 Protocols.io/Jupyter/REDCap 集成，实现可编程的 ELN 工作流。 | Electronic lab notebook API integration. Access notebooks, manage entries/attachments, backup notebooks, integrate with Protocols.io/Jupyter/REDCap, for programmatic ELN workflows.
 license: Unknown
 metadata: {"version": "1.0", "skill-author": "K-Dense Inc."}
 ---

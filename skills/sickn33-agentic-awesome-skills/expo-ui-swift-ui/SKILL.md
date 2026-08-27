@@ -1,13 +1,13 @@
 ---
 name: expo-ui-swift-ui
-description: expo-ui-swift-ui
+description: "@expo/ui/swift-ui 包让你可以在应用中使用 SwiftUI 视图与修饰符。 | The `@expo/ui/swift-ui` package lets you use SwiftUI Views and modifiers in your app."
 risk: unknown
 source: community
 ---
 
 ---
 name: expo-ui-swift-ui
-description: `@expo/ui/swift-ui` package lets you use SwiftUI Views and modifiers in your app.
+description: "@expo/ui/swift-ui 包让你可以在应用中使用 SwiftUI 视图与修饰符。 | The `@expo/ui/swift-ui` package lets you use SwiftUI Views and modifiers in your app."
 ---
 
 > The instructions in this skill apply to SDK 55 only. For other SDK versions, refer to the Expo UI SwiftUI docs for that version for the most accurate information.

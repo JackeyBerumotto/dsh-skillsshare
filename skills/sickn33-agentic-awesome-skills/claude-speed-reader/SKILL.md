@@ -1,6 +1,6 @@
 ---
 name: claude-speed-reader
-description: "-Speed read Claude's responses at 600+ WPM using RSVP with Spritz-style ORP highlighting"
+description: "使用 RSVP 及 Spritz 风格的 ORP 高亮，以每分钟 600 词以上的速度快速阅读 Claude 的回复 | -Speed read Claude's responses at 600+ WPM using RSVP with Spritz-style ORP highlighting"
 risk: safe
 source: "https://github.com/SeanZoR/claude-speed-reader"
 date_added: "2026-02-27"

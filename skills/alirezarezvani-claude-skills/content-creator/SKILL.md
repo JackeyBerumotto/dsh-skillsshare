@@ -1,6 +1,6 @@
 ---
 name: "content-creator"
-description: "Deprecated redirect skill that routes legacy 'content creator' requests to the correct specialist. Use when a user invokes 'content creator', asks to write a blog post, article, guide, or brand voice analysis (routes to content-production), or asks to plan content, build a topic cluster, or create a content calendar (routes to content-strategy). Does not handle requests directly — identifies user intent and redirects to content-production for writing/SEO/brand-voice tasks or content-strategy for planning tasks."
+description: "已弃用的重定向技能，将旧的「content creator」请求路由到正确的专家技能。当用户调用「content creator」、要求撰写博客文章、文章、指南或品牌声音分析（路由到 content-production），或要求规划内容、构建主题集群或创建内容日历（路由到 content-strategy）时使用。它不直接处理请求，而是识别用户意图，将写作/SEO/品牌声音类任务重定向到 content-production，将规划类任务重定向到 content-strategy。 | Deprecated redirect skill that routes legacy 'content creator' requests to the correct specialist. Use when a user invokes 'content creator', asks to write a blog post, article, guide, or brand voice analysis (routes to content-production), or asks to plan content, build a topic cluster, or create a content calendar (routes to content-strategy). Does not handle requests directly — identifies user intent and redirects to content-production for writing/SEO/brand-voice tasks or content-strategy for planning tasks."
 license: MIT
 metadata:
   version: 2.0.0

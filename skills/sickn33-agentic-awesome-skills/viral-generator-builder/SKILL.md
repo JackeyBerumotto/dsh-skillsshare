@@ -1,9 +1,6 @@
 ---
 name: viral-generator-builder
-description: Expert in building shareable generator tools that go viral - name
-  generators, quiz makers, avatar creators, personality tests, and calculator
-  tools. Covers the psychology of sharing, viral mechanics, and building tools
-  people can't resist sharing with friends.
+description: "精通构建易于分享、能病毒式传播的生成器工具——姓名生成器、测验制作器、头像创建器、性格测试和计算器工具。涵盖分享心理学、病毒式传播机制，以及构建让人忍不住分享给朋友的工具。 | Expert in building shareable generator tools that go viral - name generators, quiz makers, avatar creators, personality tests, and calculator tools. Covers the psychology of sharing, viral mechanics, and building tools people can't resist sharing with friends."
 risk: unknown
 source: vibeship-spawner-skills (Apache 2.0)
 date_added: 2026-02-27

@@ -1,6 +1,6 @@
 ---
 name: workflow-setup
-description: Configures GitHub Actions CI/CD workflows for testing, linting, and deployment. Use when setting up automation for a Python, Rust, or TypeScript project.
+description: 配置用于测试、lint 和部署的 GitHub Actions CI/CD 工作流。在为 Python、Rust 或 TypeScript 项目搭建自动化时使用。 | Configures GitHub Actions CI/CD workflows for testing, linting, and deployment. Use when setting up automation for a Python, Rust, or TypeScript project.
 globs: "**/.github/workflows/*.yml"
 alwaysApply: false
 # Custom metadata (not used by Claude for matching):

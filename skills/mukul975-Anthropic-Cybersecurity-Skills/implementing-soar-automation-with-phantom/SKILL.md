@@ -1,12 +1,6 @@
 ---
 name: implementing-soar-automation-with-phantom
-description: 'Implements Security Orchestration, Automation, and Response (SOAR) workflows
-  using Splunk SOAR (formerly Phantom) to automate alert triage, IOC enrichment, containment
-  actions, and incident response playbooks. Use when SOC teams need to reduce manual
-  analyst work, standardize response procedures, or integrate multiple security tools
-  into automated workflows.
-
-  '
+description: "使用 Splunk SOAR（前身为 Phantom）实现安全编排、自动化与响应（SOAR）工作流，自动化告警分诊、IOC 丰富、遏制动作和事件响应剧本。适用于 SOC 团队需要减少分析员人工工作、标准化响应流程，或将多个安全工具集成到自动化工作流时使用。 | Implements Security Orchestration, Automation, and Response (SOAR) workflows using Splunk SOAR (formerly Phantom) to automate alert triage, IOC enrichment, containment actions, and incident response playbooks. Use when SOC teams need to reduce manual analyst work, standardize response procedures, or integrate multiple security tools into automated workflows."
 domain: cybersecurity
 subdomain: soc-operations
 tags:

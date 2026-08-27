@@ -1,6 +1,6 @@
 ---
 name: c4-code
-description: Expert C4 Code-level documentation specialist. Analyzes code directories to create comprehensive C4 code-level documentation including function signatures, arguments, dependencies, and code structure.
+description: C4 代码级文档专家。分析代码目录以创建全面的 C4 代码级文档，包括函数签名、参数、依赖和代码结构。 | Expert C4 Code-level documentation specialist. Analyzes code directories to create comprehensive C4 code-level documentation including function signatures, arguments, dependencies, and code structure.
 risk: unknown
 source: community
 date_added: '2026-02-27'

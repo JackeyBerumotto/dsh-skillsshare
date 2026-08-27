@@ -1,6 +1,6 @@
 ---
 name: telegram-bot-messaging
-description: "Send Telegram messages, files, and alerts via bot API; ask questions with inline buttons and wait for the answer. Supports multiple bots, named chat targets, and CI/cron/hook notifications."
+description: "通过 bot API 发送 Telegram 消息、文件和告警；通过内联按钮提问并等待回答。支持多个机器人、命名聊天目标，以及 CI/cron/钩子通知。 | Send Telegram messages, files, and alerts via bot API; ask questions with inline buttons and wait for the answer. Supports multiple bots, named chat targets, and CI/cron/hook notifications."
 category: productivity
 risk: critical
 source: https://github.com/sanjay3290/ai-skills/tree/main/skills/telegram

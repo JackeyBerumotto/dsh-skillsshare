@@ -1,6 +1,6 @@
 ---
 name: bold
-description: Strong visual presence with heavyweight typography, high-contrast colors, and commanding layouts.
+description: 以粗重的排版、高对比配色和富有气势的版式营造强烈的视觉存在感。 | Strong visual presence with heavyweight typography, high-contrast colors, and commanding layouts.
 license: MIT
 metadata:
   author: typeui.sh

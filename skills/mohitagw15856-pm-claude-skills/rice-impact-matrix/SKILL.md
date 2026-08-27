@@ -1,6 +1,6 @@
 ---
 name: rice-impact-matrix
-description: "Scores features using both RICE and strategic alignment for nuanced prioritisation. Use when asked to prioritise features, build a priority matrix, combine quantitative scoring with strategic fit, or decide what to build next with multiple competing initiatives. Produces a scored priority matrix with RICE scores, strategic alignment ratings, quadrant placement, and sequencing recommendations."
+description: "同时使用 RICE 和战略契合度为功能打分，实现更细腻的优先级排序。当被要求排列功能优先级、构建优先级矩阵、将量化评分与战略契合相结合，或在多个竞争举措中决定下一步构建什么时使用。产出带评分的优先级矩阵，包含 RICE 得分、战略契合评级、象限位置和排序建议。 | Scores features using both RICE and strategic alignment for nuanced prioritisation. Use when asked to prioritise features, build a priority matrix, combine quantitative scoring with strategic fit, or decide what to build next with multiple competing initiatives. Produces a scored priority matrix with RICE scores, strategic alignment ratings, quadrant placement, and sequencing recommendations."
 ---
 
 # RICE + Strategic Alignment Skill

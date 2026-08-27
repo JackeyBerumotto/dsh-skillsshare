@@ -1,6 +1,6 @@
 ---
 name: deepapi
-description: "Use DeepAPI for supported scraping, research, and email workflows with explicit credentials and approval."
+description: "使用 DeepAPI 完成受支持的抓取、研究和邮件工作流，需显式提供凭据并获得批准。 | Use DeepAPI for supported scraping, research, and email workflows with explicit credentials and approval."
 category: research
 risk: critical
 source: community

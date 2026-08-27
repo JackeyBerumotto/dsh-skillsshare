@@ -1,7 +1,7 @@
 ---
 name: makepad-basics
 description: |
-  CRITICAL: Use for Makepad getting started and app structure. Triggers on:
+  关键：用于 Makepad 入门与应用结构。触发词：makepad、makepad getting started、makepad tutorial、live_design!、app_main!、makepad project setup、makepad hello world、「how to create makepad app」、makepad 入门、创建 makepad 应用、makepad 教程、makepad 项目结构 |
   makepad, makepad getting started, makepad tutorial, live_design!, app_main!,
   makepad project setup, makepad hello world, "how to create makepad app",
   makepad 入门, 创建 makepad 应用, makepad 教程, makepad 项目结构

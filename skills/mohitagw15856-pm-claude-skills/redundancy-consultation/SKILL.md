@@ -1,6 +1,6 @@
 ---
 name: redundancy-consultation
-description: "Structure a redundancy consultation process and draft key communications (UK employment law focus). Use when asked to plan a redundancy process, write a redundancy letter, structure a consultation, or manage a reduction in force. Produces a structured consultation plan and draft letters; always recommends qualified HR/legal advice before proceeding."
+description: "构建裁员协商流程并起草关键沟通文件（以英国劳动法为主）。当被要求规划裁员流程、撰写裁员信件、设计协商结构或管理人员裁减时使用。产出结构化的协商计划和信函草稿；始终建议在推进前咨询具备资质的人力资源或法律顾问。 | Structure a redundancy consultation process and draft key communications (UK employment law focus). Use when asked to plan a redundancy process, write a redundancy letter, structure a consultation, or manage a reduction in force. Produces a structured consultation plan and draft letters; always recommends qualified HR/legal advice before proceeding."
 ---
 
 # Redundancy Consultation Skill

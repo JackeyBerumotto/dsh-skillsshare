@@ -1,6 +1,6 @@
 ---
 name: claude-code-guide
-description: "To provide a comprehensive reference for configuring and using Claude Code (the agentic coding tool) to its full potential. This skill synthesizes best practices, configuration templates, and advanced usage patterns."
+description: "提供一份全面参考，帮助你将 Claude Code（智能体编程工具）的配置与使用发挥到极致。本技能汇总了最佳实践、配置模板和高级使用模式。 | To provide a comprehensive reference for configuring and using Claude Code (the agentic coding tool) to its full potential. This skill synthesizes best practices, configuration templates, and advanced usage patterns."
 risk: unknown
 source: community
 date_added: "2026-02-27"

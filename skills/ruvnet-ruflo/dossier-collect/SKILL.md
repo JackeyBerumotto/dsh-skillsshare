@@ -1,6 +1,6 @@
 ---
 name: dossier-collect
-description: Build a graph-structured dossier on a seed entity via parallel fan-out + recursive expansion across web, memory, knowledge-graph, codebase, ADR index, and git intel
+description: 通过并行扇出加递归扩展，整合网络、记忆、知识图谱、代码库、ADR 索引与 git 情报，为种子实体构建图结构的档案 | Build a graph-structured dossier on a seed entity via parallel fan-out + recursive expansion across web, memory, knowledge-graph, codebase, ADR index, and git intel
 argument-hint: "<seed> [--max-depth N] [--max-breadth N] [--sources s1,s2] [--budget-usd N] [--exact]"
 allowed-tools: mcp__claude-flow__memory_store mcp__claude-flow__memory_search mcp__claude-flow__memory_search_unified mcp__claude-flow__agentdb_pattern-search mcp__claude-flow__agentdb_pattern-store mcp__claude-flow__agentdb_hierarchical-recall mcp__claude-flow__embeddings_search mcp__claude-flow__hooks_intelligence_pattern-search mcp__claude-flow__hooks_intelligence_pattern-store mcp__claude-flow__hooks_intelligence_trajectory-start mcp__claude-flow__hooks_intelligence_trajectory-step mcp__claude-flow__hooks_intelligence_trajectory-end mcp__claude-flow__task_create Bash WebSearch WebFetch Read Write Grep Glob
 ---

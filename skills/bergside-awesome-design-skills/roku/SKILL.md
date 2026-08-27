@@ -1,6 +1,6 @@
 ---
 name: roku
-description: App dashboard with purple-themed aesthetic, top-bar navigation, card-based layouts, and developer-first workflows.
+description: 应用仪表盘，采用紫色主题美学、顶栏导航、卡片式布局和开发者优先的工作流。 | App dashboard with purple-themed aesthetic, top-bar navigation, card-based layouts, and developer-first workflows.
 license: MIT
 metadata:
   author: typeui.sh

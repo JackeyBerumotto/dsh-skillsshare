@@ -1,6 +1,6 @@
 ---
 name: apology-letter
-description: "Write a sincere, effective apology to a customer, group, or the public. Use when asked to write an apology, say sorry to a customer or community, make amends after a mistake, or respond to a complaint with an apology. Produces a genuine apology — acknowledgement, taking responsibility, empathy for the impact, the concrete fix and prevention, and an offer to make it right — in the right tone, without excuses or non-apologies."
+description: "撰写给客户、群体或公众的真诚而有效的道歉。在被要求写道歉信、向客户或社区致歉、在失误后弥补，或以道歉回应投诉时使用。产出真诚的道歉——承认问题、承担责任、对影响表达共情、具体的修复与预防措施，以及愿意弥补——语气得体，没有借口或敷衍式道歉。 | Write a sincere, effective apology to a customer, group, or the public. Use when asked to write an apology, say sorry to a customer or community, make amends after a mistake, or respond to a complaint with an apology. Produces a genuine apology — acknowledgement, taking responsibility, empathy for the impact, the concrete fix and prevention, and an offer to make it right — in the right tone, without excuses or non-apologies."
 ---
 
 # Apology Letter Skill

@@ -1,6 +1,6 @@
 ---
 name: tracking-service-reliability
-description: Define and track SLAs, SLIs, and SLOs for service reliability including availability, latency, and error rates. Use when establishing reliability targets or monitoring service health. Trigger with phrases like "define SLOs", "track SLI metrics", or "calculate error budget".
+description: 为服务可靠性定义并跟踪 SLA、SLI 和 SLO，涵盖可用性、延迟和错误率。当确立可靠性目标或监控服务健康时使用。可通过「define SLOs」「track SLI metrics」或「calculate error budget」等短语触发。 | Define and track SLAs, SLIs, and SLOs for service reliability including availability, latency, and error rates. Use when establishing reliability targets or monitoring service health. Trigger with phrases like "define SLOs", "track SLI metrics", or "calculate error budget".
 version: 1.0.0
 allowed-tools:
 - Read

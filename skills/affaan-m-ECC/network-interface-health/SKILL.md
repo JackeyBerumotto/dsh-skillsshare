@@ -1,6 +1,6 @@
 ---
 name: network-interface-health
-description: Diagnose interface errors, drops, CRCs, duplex mismatches, flapping, speed negotiation issues, and counter trends on routers, switches, and Linux hosts.
+description: 诊断路由器、交换机和 Linux 主机上的接口错误、丢包、CRC 错误、双工不匹配、链路抖动、速率协商问题以及计数器趋势。 | Diagnose interface errors, drops, CRCs, duplex mismatches, flapping, speed negotiation issues, and counter trends on routers, switches, and Linux hosts.
 metadata:
   origin: community
 ---

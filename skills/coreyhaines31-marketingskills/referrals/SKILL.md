@@ -1,6 +1,6 @@
 ---
 name: referrals
-description: "When the user wants to create, optimize, or analyze a referral program, affiliate program, or word-of-mouth strategy. Also use when the user mentions 'referral,' 'affiliate,' 'ambassador,' 'word of mouth,' 'viral loop,' 'refer a friend,' 'partner program,' 'referral incentive,' 'how to get referrals,' 'customers referring customers,' or 'affiliate payout.' Use this whenever someone wants existing users or partners to bring in new customers. For launch-specific virality, see launch."
+description: "当用户想要创建、优化或分析推荐计划、联盟计划或口碑策略时使用。当用户提到「referral」「affiliate」「ambassador」「word of mouth」「viral loop」「refer a friend」「partner program」「referral incentive」「how to get referrals」「customers referring customers」或「affiliate payout」时也应使用。每当有人希望老用户或合作伙伴带来新客户时使用。发布期专属的病毒式传播见 launch。 | When the user wants to create, optimize, or analyze a referral program, affiliate program, or word-of-mouth strategy. Also use when the user mentions 'referral,' 'affiliate,' 'ambassador,' 'word of mouth,' 'viral loop,' 'refer a friend,' 'partner program,' 'referral incentive,' 'how to get referrals,' 'customers referring customers,' or 'affiliate payout.' Use this whenever someone wants existing users or partners to bring in new customers. For launch-specific virality, see launch."
 metadata:
   version: 2.0.0
 ---

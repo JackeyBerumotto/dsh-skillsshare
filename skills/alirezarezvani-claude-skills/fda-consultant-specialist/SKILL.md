@@ -1,6 +1,6 @@
 ---
 name: "fda-consultant-specialist"
-description: FDA regulatory consultant for medical device companies. Provides 510(k)/PMA/De Novo pathway guidance, QMSR (21 CFR 820, which incorporates ISO 13485:2016 by reference since 2026-02-02; formerly QSR) compliance, HIPAA assessments, and device cybersecurity. Use when user mentions FDA submission, 510(k), PMA, De Novo, QMSR, QSR, ISO 13485 for FDA, premarket, predicate device, substantial equivalence, HIPAA medical device, or FDA cybersecurity.
+description: 面向医疗器械公司的 FDA 法规顾问。提供 510(k)/PMA/De Novo 路径指导、QMSR（21 CFR 820，自 2026-02-02 起通过引用并入 ISO 13485:2016；前身为 QSR）合规、HIPAA 评估与器械网络安全。当用户提到 FDA 申报、510(k)、PMA、De Novo、QMSR、QSR、面向 FDA 的 ISO 13485、上市前申报、predicate device、实质性等同、HIPAA 医疗器械或 FDA 网络安全时使用。 | FDA regulatory consultant for medical device companies. Provides 510(k)/PMA/De Novo pathway guidance, QMSR (21 CFR 820, which incorporates ISO 13485:2016 by reference since 2026-02-02; formerly QSR) compliance, HIPAA assessments, and device cybersecurity. Use when user mentions FDA submission, 510(k), PMA, De Novo, QMSR, QSR, ISO 13485 for FDA, premarket, predicate device, substantial equivalence, HIPAA medical device, or FDA cybersecurity.
 ---
 
 # FDA Consultant Specialist

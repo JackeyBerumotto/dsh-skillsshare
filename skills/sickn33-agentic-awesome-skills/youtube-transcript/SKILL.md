@@ -1,6 +1,6 @@
 ---
 name: youtube-transcript
-description: "Fetch YouTube transcripts through DeepAPI or local fallback tooling and save clean text output."
+description: "通过 DeepAPI 或本地回退工具获取 YouTube 转录文本，并保存干净的文本输出。 | Fetch YouTube transcripts through DeepAPI or local fallback tooling and save clean text output."
 category: research
 risk: safe
 source: community

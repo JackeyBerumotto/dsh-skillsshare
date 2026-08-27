@@ -1,6 +1,6 @@
 ---
 name: comprehensive-review-full-review
-description: "Use when working with comprehensive review full review"
+description: "在处理全面评审（comprehensive review）中的完整评审（full review）时使用。 | Use when working with comprehensive review full review"
 risk: unknown
 source: community
 date_added: "2026-02-27"

@@ -1,6 +1,6 @@
 ---
 name: 3d-games
-description: "3D game development principles. Rendering, shaders, physics, cameras."
+description: "三维游戏开发原则：渲染、着色器、物理、相机。 | 3D game development principles. Rendering, shaders, physics, cameras."
 risk: unknown
 source: community
 date_added: "2026-02-27"

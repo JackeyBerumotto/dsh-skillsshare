@@ -1,6 +1,6 @@
 ---
 name: skill-fusion
-description: "Fuse two skills from this library into one hybrid brief for a task that sits between them — the meta-skill. Use when a task straddles two skills (a PRD that's also a pitch; a postmortem that must double as a board update) and running them separately would produce two documents where one is needed. Produces the fused operating brief: combined structure, merged quality bar, precedence rules for where the parents disagree, and the fused output itself if input was provided."
+description: "把本库中两个技能融合为一份混合简报，用于横跨两者的任务——元技能。当任务跨越两个技能（一份既是 PRD 又是路演稿的文档；一份必须兼任董事会更新的复盘），而分开跑会产出两份文档、实际只需一份时使用。产出融合操作简报：合并后的结构、统一的品质标准、父技能意见相左时的优先规则，以及在提供输入时的融合产出本身。 | Fuse two skills from this library into one hybrid brief for a task that sits between them — the meta-skill. Use when a task straddles two skills (a PRD that's also a pitch; a postmortem that must double as a board update) and running them separately would produce two documents where one is needed. Produces the fused operating brief: combined structure, merged quality bar, precedence rules for where the parents disagree, and the fused output itself if input was provided."
 ---
 
 # Skill Fusion

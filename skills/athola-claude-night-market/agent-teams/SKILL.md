@@ -1,6 +1,6 @@
 ---
 name: agent-teams
-description: Coordinates Claude agent teams via filesystem protocol. Use when orchestrating parallel agents with task dependencies. Do not use for single-agent tasks.
+description: 通过文件系统协议协调 Claude Agent 团队。在编排带任务依赖的并行 Agent 时使用。不要用于单 Agent 任务。 | Coordinates Claude agent teams via filesystem protocol. Use when orchestrating parallel agents with task dependencies. Do not use for single-agent tasks.
 alwaysApply: false
 category: delegation-framework
 tags:

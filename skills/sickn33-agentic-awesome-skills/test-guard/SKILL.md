@@ -1,6 +1,6 @@
 ---
 name: "test-guard"
-description: "Review generated or changed test code against universal testing rules before it ships or is presented for approval."
+description: "在测试代码发布或提交审批之前，依据通用测试规则对其进行审查。 | Review generated or changed test code against universal testing rules before it ships or is presented for approval."
 risk: "critical"
 source: "community"
 source_repo: "amElnagdy/guard-skills"

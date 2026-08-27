@@ -1,6 +1,6 @@
 ---
 name: memory-bridge
-description: Bridge Claude Code auto-memory into AgentDB with ONNX embeddings, deduplicate, and enable unified cross-project search
+description: 用 ONNX 嵌入把 Claude Code 自动记忆接入 AgentDB，去重并实现统一的跨项目搜索 | Bridge Claude Code auto-memory into AgentDB with ONNX embeddings, deduplicate, and enable unified cross-project search
 argument-hint: "[--all-projects] [--dedupe]"
 allowed-tools: Bash Read mcp__claude-flow__memory_import_claude mcp__claude-flow__memory_bridge_status mcp__claude-flow__memory_search_unified
 ---

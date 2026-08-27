@@ -1,6 +1,6 @@
 ---
 name: api-vector-db-pinecone
-description: Pinecone serverless vector database -- index management, vector operations, metadata filtering, namespaces, hybrid search, inference API
+description: Pinecone 无服务器向量数据库——索引管理、向量操作、元数据过滤、命名空间、混合搜索、推理 API | Pinecone serverless vector database -- index management, vector operations, metadata filtering, namespaces, hybrid search, inference API
 ---
 
 # Pinecone Patterns

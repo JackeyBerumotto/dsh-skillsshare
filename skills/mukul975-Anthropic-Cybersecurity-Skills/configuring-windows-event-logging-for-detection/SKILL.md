@@ -1,13 +1,6 @@
 ---
 name: configuring-windows-event-logging-for-detection
-description: 'Configures Windows Event Logging with advanced audit policies to generate
-  high-fidelity security events for threat detection and forensic investigation. Use
-  when enabling audit policies for logon events, process creation, privilege use,
-  and object access to feed SIEM detection rules. Activates for requests involving
-  Windows audit policy, event log configuration, security logging, or detection-oriented
-  logging.
-
-  '
+description: "配置带高级审核策略的 Windows 事件日志记录，生成高保真安全事件用于威胁检测和取证调查。当需要为登录事件、进程创建、特权使用和对象访问启用审核策略以供给 SIEM 检测规则时使用。当请求涉及 Windows 审核策略、事件日志配置、安全日志记录或面向检测的日志记录时激活。 | Configures Windows Event Logging with advanced audit policies to generate high-fidelity security events for threat detection and forensic investigation. Use when enabling audit policies for logon events, process creation, privilege use, and object access to feed SIEM detection rules. Activates for requests involving Windows audit policy, event log configuration, security logging, or detection-oriented logging."
 domain: cybersecurity
 subdomain: endpoint-security
 tags:

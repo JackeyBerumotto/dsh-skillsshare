@@ -1,6 +1,6 @@
 ---
 name: review-response
-description: "Write the right reply to a customer review — positive, negative, or mixed. Use when asked to respond to a review, reply to a bad/1-star review, handle online reviews, or write review-response templates. Produces tailored, on-brand responses that thank advocates, de-escalate and resolve complaints, and read well to the *future* shopper who's reading them — plus reusable templates."
+description: "撰写给客户评论的恰当回复——好评、差评或褒贬不一。在被要求回应评论、回复差评/一星评论、处理线上评论或编写评论回复模板时使用。产出贴合品牌调性的定制回复，感谢推荐者、安抚并解决投诉，并让未来浏览的购物者读起来舒服——另附可复用模板。 | Write the right reply to a customer review — positive, negative, or mixed. Use when asked to respond to a review, reply to a bad/1-star review, handle online reviews, or write review-response templates. Produces tailored, on-brand responses that thank advocates, de-escalate and resolve complaints, and read well to the *future* shopper who's reading them — plus reusable templates."
 ---
 
 # Review Response Skill

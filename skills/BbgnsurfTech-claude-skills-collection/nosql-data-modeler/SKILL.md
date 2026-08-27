@@ -1,7 +1,7 @@
 ---
 name: modeling-nosql-data
 description: |
-  Use when you need to work with NoSQL data modeling.
+  当你需要进行 NoSQL 数据建模时使用。此技能提供 NoSQL 数据库设计及全面的指导和自动化。触发词如「model NoSQL data」「design document structure」或「optimize NoSQL schema」。 |
   This skill provides NoSQL database design with comprehensive guidance and automation.
   Trigger with phrases like "model NoSQL data", "design document structure",
   or "optimize NoSQL schema".

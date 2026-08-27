@@ -1,6 +1,6 @@
 ---
 name: minimal
-description: Stripped-back design emphasizing whitespace, clean typography, and restrained color for maximum clarity and focus.
+description: 极简设计，强调留白、简洁的排版和克制的配色，以获得最大的清晰度与专注度。 | Stripped-back design emphasizing whitespace, clean typography, and restrained color for maximum clarity and focus.
 license: MIT
 metadata:
   author: typeui.sh

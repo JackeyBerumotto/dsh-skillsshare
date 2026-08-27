@@ -1,17 +1,6 @@
 ---
 name: implementing-llm-guardrails-for-security
-description: 'Implements input and output validation guardrails for LLM-powered applications
-  to prevent prompt injection, data leakage, toxic content generation, and hallucinated
-  outputs. Builds a security validation pipeline using NVIDIA NeMo Guardrails Colang
-  definitions, custom Python validators for PII detection and content policy enforcement,
-  and the Guardrails AI framework for structured output validation. The guardrails
-  system intercepts both user inputs (blocking injection attempts, stripping PII,
-  enforcing topic boundaries) and model outputs (detecting hallucinations, filtering
-  toxic content, validating JSON schema compliance). Activates for requests involving
-  LLM output validation, AI content filtering, guardrail implementation, or LLM safety
-  enforcement.
-
-  '
+description: "为 LLM 驱动的应用实现输入和输出验证护栏，防止提示注入、数据泄漏、有毒内容生成和幻觉输出。使用 NVIDIA NeMo Guardrails Colang 定义、用于 PII 检测和内容策略强制执行的自定义 Python 验证器，以及用于结构化输出验证的 Guardrails AI 框架，构建安全验证管道。护栏系统同时拦截用户输入（阻止注入尝试、剥离 PII、强制主题边界）和模型输出（检测幻觉、过滤有毒内容、验证 JSON 模式合规性）。当请求涉及 LLM 输出验证、AI 内容过滤、护栏实现或 LLM 安全强制执行时激活。 | Implements input and output validation guardrails for LLM-powered applications to prevent prompt injection, data leakage, toxic content generation, and hallucinated outputs. Builds a security validation pipeline using NVIDIA NeMo Guardrails Colang definitions, custom Python validators for PII detection and content policy enforcement, and the Guardrails AI framework for structured output validation. The guardrails system intercepts both user inputs (blocking injection attempts, stripping PII, enforcing topic boundaries) and model outputs (detecting hallucinations, filtering toxic content, validating JSON schema compliance). Activates for requests involving LLM output validation, AI content filtering, guardrail implementation, or LLM safety enforcement."
 domain: cybersecurity
 subdomain: ai-security
 tags:

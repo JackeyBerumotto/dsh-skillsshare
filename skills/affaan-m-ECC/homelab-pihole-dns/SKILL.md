@@ -1,6 +1,6 @@
 ---
 name: homelab-pihole-dns
-description: Pi-hole installation, blocklist management, DNS-over-HTTPS setup, DHCP integration, local DNS records, and troubleshooting broken DNS resolution on a home network.
+description: Pi-hole 安装、拦截列表管理、DNS-over-HTTPS 设置、DHCP 集成、本地 DNS 记录，以及家庭网络中 DNS 解析故障的排查。 | Pi-hole installation, blocklist management, DNS-over-HTTPS setup, DHCP integration, local DNS records, and troubleshooting broken DNS resolution on a home network.
 metadata:
   origin: community
 ---

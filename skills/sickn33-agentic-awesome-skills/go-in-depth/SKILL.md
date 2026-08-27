@@ -1,6 +1,6 @@
 ---
 name: go-in-depth
-description: Go in depth harness — fan-out web searches, fetch sources, adversarially verify claims, synthesize a cited report.
+description: 深入研究工具——扇出式网页搜索、抓取来源、对抗式验证论断、综合成带引用的报告。 | Go in depth harness — fan-out web searches, fetch sources, adversarially verify claims, synthesize a cited report.
 risk: safe
 source: self
 source_type: self

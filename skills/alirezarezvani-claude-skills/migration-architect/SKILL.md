@@ -1,6 +1,6 @@
 ---
 name: "migration-architect"
-description: "Zero-downtime migration planning, compatibility validation, and rollback strategy generation. Tools for system, database, and infrastructure migrations with minimal business impact. Use when planning a database migration, infrastructure cutover, system replacement, or any high-risk transition that needs explicit rollback paths."
+description: "零停机迁移规划、兼容性验证和回滚策略生成。提供面向系统、数据库和基础设施迁移的工具，将业务影响降到最低。在规划数据库迁移、基础设施切换、系统替换，或任何需要明确回滚路径的高风险切换时使用。 | Zero-downtime migration planning, compatibility validation, and rollback strategy generation. Tools for system, database, and infrastructure migrations with minimal business impact. Use when planning a database migration, infrastructure cutover, system replacement, or any high-risk transition that needs explicit rollback paths."
 ---
 
 # Migration Architect

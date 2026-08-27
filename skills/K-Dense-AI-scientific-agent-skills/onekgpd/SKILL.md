@@ -1,7 +1,7 @@
 ---
 name: onekgpd
 description: >
-  Query the 1000 Genomes Project dataset (3,202 whole-genome-sequenced
+  在单个参与者层面查询 1000 Genomes Project 数据集（3,202 个全基因组测序个体，GRCh38）。当问题涉及 1000 Genomes Project 队列中的个体或变异时使用：哪些个体在某个基因或区域携带符合特定条件的变异、哪些个体在某位置是纯合参考基因型、某个基因或区域中存在哪些变异或指定个体携带哪些变异、两个指定个体之间的亲缘关系。返回的变异附带 1000 Genomes 等位基因频率（AF）、gnomAD v4.1 外显子组和基因组 AF、AlphaMissense 评分和 HGVSp 注释。 |
   individuals, GRCh38) at the level of individual participants.
   Use when a question is about individuals or variants in the 1000 Genomes
   Project cohort: which individuals carry variants matching specific criteria

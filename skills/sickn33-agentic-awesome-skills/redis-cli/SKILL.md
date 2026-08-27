@@ -1,6 +1,6 @@
 ---
 name: redis-cli
-description: Redis command-line interface (redis-cli) reference and usage guide. Use this skill whenever the user mentions redis-cli, Redis CLI, or any task involving querying, inspecting, debugging, or managing Redis from the command line. Triggers on key/value reads and writes, SCAN or keyspace...
+description: Redis 命令行界面（redis-cli）参考与使用指南。当用户提到 redis-cli、Redis CLI，或任何涉及从命令行查询、检查、调试或管理 Redis 的任务时使用此技能。可由键值读写、SCAN 或键空间操作等触发…… | Redis command-line interface (redis-cli) reference and usage guide. Use this skill whenever the user mentions redis-cli, Redis CLI, or any task involving querying, inspecting, debugging, or managing Redis from the command line. Triggers on key/value reads and writes, SCAN or keyspace...
 risk: unknown
 source: https://github.com/chaunsin/agent-skills/tree/master/skills/redis-cli
 source_repo: chaunsin/agent-skills

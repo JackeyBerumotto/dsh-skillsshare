@@ -1,6 +1,6 @@
 ---
 name: media-pitch
-description: "Write a media pitch or press outreach email for any story or announcement. Use when asked to write a media pitch, journalist outreach email, press pitch, or story angle for PR. Produces a concise pitch with a compelling news angle, journalist-specific hook, and clear call to action."
+description: "为任何故事或公告撰写媒体推介或记者外联邮件。在被要求编写媒体推介、记者外联邮件、新闻推介或 PR 报道角度时使用。产出简洁的推介，包含有吸引力的新闻角度、针对记者的钩子和明确的行动号召。 | Write a media pitch or press outreach email for any story or announcement. Use when asked to write a media pitch, journalist outreach email, press pitch, or story angle for PR. Produces a concise pitch with a compelling news angle, journalist-specific hook, and clear call to action."
 ---
 
 # Media Pitch Skill

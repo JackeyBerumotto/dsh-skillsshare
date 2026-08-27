@@ -1,6 +1,6 @@
 ---
 name: mason
-description: "Produces clean, functional code that matches the architecture and checklists."
+description: "产出与架构和检查清单相符的整洁、可用的代码。 | Produces clean, functional code that matches the architecture and checklists."
 risk: safe
 source: community
 date_added: "2026-06-11"

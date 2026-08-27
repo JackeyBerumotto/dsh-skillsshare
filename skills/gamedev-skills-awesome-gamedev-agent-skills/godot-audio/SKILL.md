@@ -1,7 +1,7 @@
 ---
 name: godot-audio
 description: >
-  Play and mix audio in Godot 4.x: AudioStreamPlayer (2D/3D variants), audio buses
+  在 Godot 4.x 中播放与混音音频：AudioStreamPlayer（含 2D/3D 变体）、带音量/静音和效果的音频总线、音乐与音效路由、db/线性音量，以及精确的节拍同步播放时序。在 Godot 项目中播放声音或音乐、把 AudioStreamPlayer 节点路由到总线、通过 AudioServer 调整总线音量，或让玩法与节拍同步时使用。 |
   with volume/mute and effects, music vs SFX routing, db/linear volume, and precise
   sync-to-beat playback timing. Use when playing sounds or music in a Godot project,
   routing AudioStreamPlayer nodes to buses, adjusting bus volume via AudioServer, or

@@ -1,6 +1,6 @@
 ---
 name: "tc-tracker"
-description: "Use when the user asks to track technical changes, create change records, manage TC lifecycles, or hand off work between AI sessions. Covers init/create/update/status/resume/close/export workflows for structured code change documentation."
+description: "当用户要求跟踪技术变更、创建变更记录、管理 TC 生命周期或在 AI 会话之间交接工作时使用。涵盖用于结构化代码变更文档的 init/create/update/status/resume/close/export 工作流。 | Use when the user asks to track technical changes, create change records, manage TC lifecycles, or hand off work between AI sessions. Covers init/create/update/status/resume/close/export workflows for structured code change documentation."
 ---
 
 # TC Tracker

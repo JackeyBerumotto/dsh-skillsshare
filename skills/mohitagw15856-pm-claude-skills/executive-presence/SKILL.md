@@ -1,6 +1,6 @@
 ---
 name: executive-presence
-description: "Sharpen how you show up in high-stakes rooms — communicate with gravitas, concision, and confidence. Use when asked to improve executive presence, prepare to present to leadership, sound more senior, command a room, or get coaching before a big meeting. Produces specific guidance — how to open, structure answers (BLUF/headline-first), handle tough questions, project calm, and the habits to drop, tuned to the moment."
+description: "提升你在高风险场合的表现——以威严、简洁和自信进行沟通。当被要求提升高管气场、准备向领导层汇报、让自己听起来更资深、掌控全场，或在重要会议前获得辅导时使用。产出具体指导——如何开场、如何组织回答（BLUF/结论先行）、应对尖锐提问、保持从容，以及需要戒掉的习惯，全部针对当下情境定制。 | Sharpen how you show up in high-stakes rooms — communicate with gravitas, concision, and confidence. Use when asked to improve executive presence, prepare to present to leadership, sound more senior, command a room, or get coaching before a big meeting. Produces specific guidance — how to open, structure answers (BLUF/headline-first), handle tough questions, project calm, and the habits to drop, tuned to the moment."
 ---
 
 # Executive Presence Skill

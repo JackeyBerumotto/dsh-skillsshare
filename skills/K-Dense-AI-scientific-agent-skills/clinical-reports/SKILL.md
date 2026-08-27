@@ -1,6 +1,6 @@
 ---
 name: clinical-reports
-description: Write comprehensive clinical reports including case reports (CARE guidelines), diagnostic reports (radiology/pathology/lab), clinical trial reports (ICH-E3, SAE, CSR), and patient documentation (SOAP, H&P, discharge summaries). Full support with templates, regulatory compliance (HIPAA, FDA, ICH-GCP), and validation tools.
+description: 撰写全面的临床报告，包括病例报告（CARE 指南）、诊断报告（影像/病理/检验）、临床试验报告（ICH-E3、SAE、CSR）和患者记录（SOAP、H&P、出院小结）。提供模板、法规合规（HIPAA、FDA、ICH-GCP）和验证工具的完整支持。 | Write comprehensive clinical reports including case reports (CARE guidelines), diagnostic reports (radiology/pathology/lab), clinical trial reports (ICH-E3, SAE, CSR), and patient documentation (SOAP, H&P, discharge summaries). Full support with templates, regulatory compliance (HIPAA, FDA, ICH-GCP), and validation tools.
 allowed-tools: Read Write Edit Bash
 license: MIT License
 required_environment_variables: [{"name": "OPENROUTER_API_KEY", "prompt": "OpenRouter API key for the skill's LLM-powered steps.", "required_for": "optional features"}]

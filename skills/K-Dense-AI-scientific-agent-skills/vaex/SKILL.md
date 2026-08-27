@@ -1,6 +1,6 @@
 ---
 name: vaex
-description: Use this skill for processing and analyzing large tabular datasets (billions of rows) that exceed available RAM. Vaex excels at out-of-core DataFrame operations, lazy evaluation, fast aggregations, efficient visualization of big data, and machine learning on large datasets. Apply when users need to work with large CSV/HDF5/Arrow/Parquet files, perform fast statistics on massive datasets, create visualizations of big data, or build ML pipelines that do not fit in memory.
+description: 使用本技能处理和分析超出可用内存的大型表格数据集（数十亿行）。Vaex 擅长核外 DataFrame 操作、惰性求值、快速聚合、大数据高效可视化以及大型数据集上的机器学习。当用户需要处理大型 CSV/HDF5/Arrow/Parquet 文件、对海量数据集做快速统计、创建大数据可视化，或构建内存放不下的机器学习流水线时适用。 | Use this skill for processing and analyzing large tabular datasets (billions of rows) that exceed available RAM. Vaex excels at out-of-core DataFrame operations, lazy evaluation, fast aggregations, efficient visualization of big data, and machine learning on large datasets. Apply when users need to work with large CSV/HDF5/Arrow/Parquet files, perform fast statistics on massive datasets, create visualizations of big data, or build ML pipelines that do not fit in memory.
 allowed-tools: Read Write Edit Bash Grep Glob
 license: MIT license
 metadata: {"version": "1.0", "skill-author": "K-Dense Inc."}

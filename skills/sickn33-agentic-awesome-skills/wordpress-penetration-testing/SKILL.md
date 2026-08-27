@@ -1,6 +1,6 @@
 ---
 name: wordpress-penetration-testing
-description: "Assess WordPress installations for common vulnerabilities and WordPress 7.0 attack surfaces."
+description: "评估 WordPress 安装的常见漏洞与 WordPress 7.0 攻击面。 | Assess WordPress installations for common vulnerabilities and WordPress 7.0 attack surfaces."
 risk: offensive
 source: community
 author: zebbern

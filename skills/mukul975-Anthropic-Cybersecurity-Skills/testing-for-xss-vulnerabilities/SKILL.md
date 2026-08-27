@@ -1,14 +1,6 @@
 ---
 name: testing-for-xss-vulnerabilities
-description: 'Tests web applications for Cross-Site Scripting (XSS) vulnerabilities
-  by injecting JavaScript payloads into reflected, stored, and DOM-based contexts
-  to demonstrate client-side code execution, session hijacking, and user impersonation.
-  The tester identifies all injection points and output contexts, crafts context-appropriate
-  payloads, and bypasses sanitization and CSP protections. Activates for requests
-  involving XSS testing, cross-site scripting assessment, client-side injection testing,
-  or JavaScript injection vulnerability testing.
-
-  '
+description: "测试 Web 应用的跨站脚本（XSS）漏洞，向反射型、存储型与 DOM 型上下文注入 JavaScript 载荷，以演示客户端代码执行、会话劫持与用户冒充。测试人员识别所有注入点与输出上下文，构造适配上下文的载荷，并绕过净化与 CSP 防护。适用于涉及 XSS 测试、跨站脚本评估、客户端注入测试或 JavaScript 注入漏洞测试的请求。 | Tests web applications for Cross-Site Scripting (XSS) vulnerabilities by injecting JavaScript payloads into reflected, stored, and DOM-based contexts to demonstrate client-side code execution, session hijacking, and user impersonation. The tester identifies all injection points and output contexts, crafts context-appropriate payloads, and bypasses sanitization and CSP protections. Activates for requests involving XSS testing, cross-site scripting assessment, client-side injection testing, or JavaScript injection vulnerability testing."
 domain: cybersecurity
 subdomain: penetration-testing
 tags:

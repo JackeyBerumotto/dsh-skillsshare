@@ -1,6 +1,6 @@
 ---
 name: enterprise
-description: Dark-themed cloud-platform aesthetic with modular grids, glass-like panels, and strong data hierarchy for productivity dashboards.
+description: 深色主题的云平台美学，采用模块化网格、类玻璃面板和清晰的数据层级，适用于效率型仪表盘。 | Dark-themed cloud-platform aesthetic with modular grids, glass-like panels, and strong data hierarchy for productivity dashboards.
 license: MIT
 metadata:
   author: typeui.sh

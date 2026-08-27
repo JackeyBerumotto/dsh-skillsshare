@@ -1,6 +1,6 @@
 ---
 name: radix-ui-design-system
-description: "Build accessible design systems with Radix UI primitives. Headless component customization, theming strategies, and compound component patterns for production-grade UI libraries."
+description: "使用 Radix UI 原语构建无障碍设计系统。涵盖无头组件定制、主题化策略，以及面向生产级 UI 库的复合组件模式。 | Build accessible design systems with Radix UI primitives. Headless component customization, theming strategies, and compound component patterns for production-grade UI libraries."
 risk: safe
 source: self
 date_added: "2026-02-27"

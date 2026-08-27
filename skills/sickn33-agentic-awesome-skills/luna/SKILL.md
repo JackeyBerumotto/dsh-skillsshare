@@ -1,6 +1,6 @@
 ---
 name: luna
-description: "Reviews code for objective correctness, security, and reliability."
+description: "审查代码的客观正确性、安全性和可靠性。 | Reviews code for objective correctness, security, and reliability."
 risk: safe
 source: community
 date_added: "2026-06-11"

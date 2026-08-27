@@ -1,6 +1,6 @@
 ---
 name: operationalizing-misp-threat-feeds
-description: Run MISP, curate feeds, and auto-generate detections for Wazuh, Sigma, and Suricata.
+description: 运行 MISP、策展情报源，并为 Wazuh、Sigma 和 Suricata 自动生成检测规则。 | Run MISP, curate feeds, and auto-generate detections for Wazuh, Sigma, and Suricata.
 domain: cybersecurity
 subdomain: threat-intelligence
 tags:

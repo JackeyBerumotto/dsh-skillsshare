@@ -1,6 +1,6 @@
 ---
 name: wedding-speech
-description: "A best-man/maid-of-honour/parent wedding toast that actually lands — funny without roasting, moving without syrup, short enough that nobody checks their phone. Use when someone has to give a wedding speech and has either nothing or a dangerous first draft. Produces a 2-4 minute toast built on one good story, plus delivery notes and the three jokes to cut."
+description: "一篇真正打动人心的伴郎、伴娘或父母婚礼祝酒词——有趣而不损人，感人而不腻味，短到没人会掏手机。适用于有人要发表婚礼致辞却毫无准备或初稿很危险时。产出一篇基于一个好故事的二至四分钟祝酒词，附演讲备注和三个应删掉的笑话。 | A best-man/maid-of-honour/parent wedding toast that actually lands — funny without roasting, moving without syrup, short enough that nobody checks their phone. Use when someone has to give a wedding speech and has either nothing or a dangerous first draft. Produces a 2-4 minute toast built on one good story, plus delivery notes and the three jokes to cut."
 ---
 
 # Wedding Speech

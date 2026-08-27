@@ -1,13 +1,13 @@
 ---
 name: django-access-review
-description: django-access-review
+description: "Django 访问控制与 IDOR 安全审查。在审查 Django 视图、DRF viewset、ORM 查询或任何处理用户授权的 Python／Django 代码时使用。触发关键词：IDOR、访问控制、授权、Django 权限、对象权限、租户…… | Django access control and IDOR security review. Use when reviewing Django views, DRF viewsets, ORM queries, or any Python/Django code handling user authorization. Trigger keywords: \"IDOR\", \"access control\", \"authorization\", \"Django permissions\", \"object permissions\", \"tenant..."
 risk: unknown
 source: community
 ---
 
 ---
 name: django-access-review
-description: Django access control and IDOR security review. Use when reviewing Django views, DRF viewsets, ORM queries, or any Python/Django code handling user authorization. Trigger keywords: "IDOR", "access control", "authorization", "Django permissions", "object permissions", "tenant...
+description: "Django 访问控制与 IDOR 安全审查。在审查 Django 视图、DRF viewset、ORM 查询或任何处理用户授权的 Python／Django 代码时使用。触发关键词：IDOR、访问控制、授权、Django 权限、对象权限、租户…… | Django access control and IDOR security review. Use when reviewing Django views, DRF viewsets, ORM queries, or any Python/Django code handling user authorization. Trigger keywords: \"IDOR\", \"access control\", \"authorization\", \"Django permissions\", \"object permissions\", \"tenant..."
 --- LICENSE
 ---
 

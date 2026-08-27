@@ -1,6 +1,6 @@
 ---
 name: backendless-automation
-description: "Automate Backendless tasks via Rube MCP (Composio). Always search tools first for current schemas."
+description: "通过 Rube MCP（Composio）自动化 Backendless 任务。务必先搜索工具以获取最新 schema。 | Automate Backendless tasks via Rube MCP (Composio). Always search tools first for current schemas."
 requires:
   mcp: [rube]
 ---

@@ -1,6 +1,6 @@
 ---
 name: referral-program-design
-description: "Design a referral or viral-loop program that actually drives growth. Use when asked to design a referral program, build a viral/invite loop, set referral incentives, or improve word-of-mouth growth. Produces a referral design — the loop mechanics, incentive structure (who gets what, when), the viral-math estimate (k-factor/cycle time), fraud guardrails, placement & messaging, and success metrics."
+description: "设计能真正驱动增长的推荐或病毒式传播循环项目。当被要求设计推荐计划、构建病毒/邀请循环、设定推荐激励或改善口碑增长时使用。产出推荐设计方案：循环机制、激励结构（谁在何时获得什么）、病毒式传播估算（k 因子/周期时间）、欺诈防护、入口位置与文案，以及成功指标。 | Design a referral or viral-loop program that actually drives growth. Use when asked to design a referral program, build a viral/invite loop, set referral incentives, or improve word-of-mouth growth. Produces a referral design — the loop mechanics, incentive structure (who gets what, when), the viral-math estimate (k-factor/cycle time), fraud guardrails, placement & messaging, and success metrics."
 ---
 
 # Referral Program Design Skill

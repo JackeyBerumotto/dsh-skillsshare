@@ -1,6 +1,6 @@
 ---
 name: portfolio-page
-description: "Structure a portfolio or case-study page that shows your work, not just lists it. Use when asked to write a portfolio page, a project case study, a work showcase, or an 'is this person good?' proof page. Produces a portfolio structure — a positioning header, and per-project case studies (context → your role → what you did → outcome) that demonstrate impact, ready to export as a designed page/PDF."
+description: "构建能够展示（而非仅仅罗列）你作品的作品集或案例页。当被要求撰写作品集页面、项目案例研究、工作成果展示，或「这个人行不行」的证明页时使用。产出作品集结构——定位式页头，以及逐项目的案例研究（背景→你的角色→你做了什么→成果），充分体现影响力，可直接导出为设计好的页面或 PDF。 | Structure a portfolio or case-study page that shows your work, not just lists it. Use when asked to write a portfolio page, a project case study, a work showcase, or an 'is this person good?' proof page. Produces a portfolio structure — a positioning header, and per-project case studies (context → your role → what you did → outcome) that demonstrate impact, ready to export as a designed page/PDF."
 ---
 
 # Portfolio Page Skill

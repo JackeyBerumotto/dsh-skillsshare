@@ -1,6 +1,6 @@
 ---
 name: claude-settings-audit
-description: Analyze a repository to generate recommended Claude Code settings.json permissions. Use when setting up a new project, auditing existing settings, or determining which read-only bash commands to allow. Detects tech stack, build tools, and monorepo structure.
+description: 分析仓库并生成推荐的 Claude Code settings.json 权限。在搭建新项目、审计现有配置，或确定允许哪些只读 bash 命令时使用。可检测技术栈、构建工具和 monorepo 结构。 | Analyze a repository to generate recommended Claude Code settings.json permissions. Use when setting up a new project, auditing existing settings, or determining which read-only bash commands to allow. Detects tech stack, build tools, and monorepo structure.
 risk: unknown
 source: community
 ---

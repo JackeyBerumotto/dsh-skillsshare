@@ -1,6 +1,6 @@
 ---
 name: skill-improver
-description: "Iteratively improve a Claude Code skill using the skill-reviewer agent until it meets quality standards. Use when improving a skill with multiple quality issues, iterating on a new skill until it meets standards, or automated fix-review cycles instead of manual editing."
+description: "使用 skill-reviewer 智能体迭代改进 Claude Code 技能，直到达到质量标准。在改进存在多个质量问题的技能、迭代新技能直到达标，或以自动修复-审查循环替代手动编辑时使用。 | Iteratively improve a Claude Code skill using the skill-reviewer agent until it meets quality standards. Use when improving a skill with multiple quality issues, iterating on a new skill until it meets standards, or automated fix-review cycles instead of manual editing."
 risk: unknown
 source: community
 ---

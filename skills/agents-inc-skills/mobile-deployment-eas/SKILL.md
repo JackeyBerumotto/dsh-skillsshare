@@ -1,6 +1,6 @@
 ---
 name: mobile-deployment-eas
-description: EAS Build, Update, Submit deployment patterns
+description: EAS Build、Update、Submit 部署模式 | EAS Build, Update, Submit deployment patterns
 ---
 
 # EAS Deployment Patterns

@@ -1,8 +1,6 @@
 ---
 name: analyzing-powershell-empire-artifacts
-description: Detect PowerShell Empire framework artifacts in Windows event logs by
-  identifying Base64 encoded launcher patterns, default user agents, staging URL structures,
-  stager IOCs, and known Empire module signatures in Script Block Logging events.
+description: "通过识别 Base64 编码的启动器模式、默认用户代理、staging URL 结构、stager IOC 以及脚本块日志记录事件中已知的 Empire 模块签名，检测 Windows 事件日志中的 PowerShell Empire 框架痕迹。 | Detect PowerShell Empire framework artifacts in Windows event logs by identifying Base64 encoded launcher patterns, default user agents, staging URL structures, stager IOCs, and known Empire module signatures in Script Block Logging events."
 domain: cybersecurity
 subdomain: threat-hunting
 tags:

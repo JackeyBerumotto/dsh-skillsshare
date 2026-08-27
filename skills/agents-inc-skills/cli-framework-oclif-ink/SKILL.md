@@ -1,6 +1,6 @@
 ---
 name: cli-framework-oclif-ink
-description: Modern CLI development combining oclif's command framework with Ink's React-based terminal rendering
+description: 现代 CLI 开发，把 oclif 的命令框架与 Ink 基于 React 的终端渲染相结合。 | Modern CLI development combining oclif's command framework with Ink's React-based terminal rendering
 ---
 
 # oclif + Ink CLI Patterns

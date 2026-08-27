@@ -1,8 +1,6 @@
 ---
 name: implementing-siem-use-case-tuning
-description: Tune SIEM detection rules to reduce false positives by analyzing alert
-  volumes, creating whitelists, adjusting thresholds, and measuring detection efficacy
-  metrics in Splunk and Elastic
+description: "通过分析告警量、创建白名单、调整阈值并衡量检测效能指标，在 Splunk 与 Elastic 中调优 SIEM 检测规则以减少误报。 | Tune SIEM detection rules to reduce false positives by analyzing alert volumes, creating whitelists, adjusting thresholds, and measuring detection efficacy metrics in Splunk and Elastic"
 domain: cybersecurity
 subdomain: security-operations
 tags:

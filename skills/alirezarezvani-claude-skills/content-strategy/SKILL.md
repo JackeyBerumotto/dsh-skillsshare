@@ -1,6 +1,6 @@
 ---
 name: "content-strategy"
-description: "When the user wants to plan a content strategy, decide what content to create, or figure out what topics to cover. Also use when the user mentions \"content strategy,\" \"what should I write about,\" \"content ideas,\" \"blog strategy,\" \"topic clusters,\" or \"content planning.\" For writing individual pieces, see copywriting. For SEO-specific audits, see seo-audit."
+description: "当用户想要规划内容策略、决定创作什么内容或确定覆盖哪些主题时使用。当用户提到「content strategy」「what should I write about」「content ideas」「blog strategy」「topic clusters」或「content planning」时也应使用。撰写单篇内容见 copywriting。SEO 专项审计见 seo-audit。 | When the user wants to plan a content strategy, decide what content to create, or figure out what topics to cover. Also use when the user mentions \"content strategy,\" \"what should I write about,\" \"content ideas,\" \"blog strategy,\" \"topic clusters,\" or \"content planning.\" For writing individual pieces, see copywriting. For SEO-specific audits, see seo-audit."
 license: MIT
 metadata:
   version: 1.0.0

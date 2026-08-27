@@ -1,7 +1,7 @@
 ---
 name: "migrate"
 description: >-
-  Migrate from Cypress or Selenium to Playwright. Use when user mentions
+  从 Cypress 或 Selenium 迁移到 Playwright。当用户提到「cypress」「selenium」「migrate tests」「convert tests」「switch to playwright」「move from cypress」或「replace selenium」时使用。 |
   "cypress", "selenium", "migrate tests", "convert tests", "switch to
   playwright", "move from cypress", or "replace selenium".
 ---

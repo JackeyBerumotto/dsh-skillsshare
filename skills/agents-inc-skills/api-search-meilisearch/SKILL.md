@@ -1,6 +1,6 @@
 ---
 name: api-search-meilisearch
-description: Meilisearch search engine patterns -- client setup, indexing, search, filtering, facets, geo search, multi-tenancy, task management
+description: Meilisearch 搜索引擎模式——客户端配置、索引、搜索、过滤、分面、地理搜索、多租户与任务管理。 | Meilisearch search engine patterns -- client setup, indexing, search, filtering, facets, geo search, multi-tenancy, task management
 ---
 
 # Meilisearch Patterns

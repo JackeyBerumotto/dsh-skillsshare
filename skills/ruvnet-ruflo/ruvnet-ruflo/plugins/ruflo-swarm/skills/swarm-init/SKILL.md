@@ -1,6 +1,6 @@
 ---
 name: swarm-init
-description: Initialize a multi-agent swarm with anti-drift configuration. Use when starting a complex multi-file task that needs 3+ coordinated agents (feature implementation, refactor across modules, security audit). Skip for single-file edits or quick questions.
+description: 初始化带防漂移配置的多智能体集群。在启动需要 3 个以上协同智能体的复杂多文件任务（功能实现、跨模块重构、安全审计）时使用。单文件编辑或快速问答请跳过。 | Initialize a multi-agent swarm with anti-drift configuration. Use when starting a complex multi-file task that needs 3+ coordinated agents (feature implementation, refactor across modules, security audit). Skip for single-file edits or quick questions.
 argument-hint: "[--topology hierarchical|mesh|hierarchical-mesh|ring|star|adaptive]"
 allowed-tools: Bash(npx *) mcp__claude-flow__swarm_init mcp__claude-flow__swarm_status Task SendMessage
 ---

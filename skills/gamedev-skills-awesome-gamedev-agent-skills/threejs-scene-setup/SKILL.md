@@ -1,7 +1,7 @@
 ---
 name: threejs-scene-setup
 description: >
-  Stand up a three.js scene: import maps and the three/addons path, the
+  搭建 three.js 场景：import map 与 three/addons 路径、Scene/PerspectiveCamera/WebGLRenderer 三件套、setAnimationLoop 渲染循环、响应式缩放和 OrbitControls。在启动或调试 three.js 应用时使用——当用户提到 three.js、THREE.Scene、WebGLRenderer、PerspectiveCamera、渲染循环、缩放或 OrbitControls 时。加载模型请使用 threejs-gltf-loading；材质/灯光请使用 threejs-materials-lighting。 |
   Scene/PerspectiveCamera/WebGLRenderer trio, the setAnimationLoop render loop,
   responsive resize, and OrbitControls. Use when starting or debugging a three.js
   app — when the user mentions three.js, THREE.Scene, WebGLRenderer,

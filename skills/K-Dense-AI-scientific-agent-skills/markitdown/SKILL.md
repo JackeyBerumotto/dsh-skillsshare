@@ -1,6 +1,6 @@
 ---
 name: markitdown
-description: Convert files and office documents to Markdown. Supports PDF, DOCX, PPTX, XLSX, images (with OCR), audio (with transcription), HTML, CSV, JSON, XML, ZIP, YouTube URLs, EPubs and more.
+description: 将文件和办公文档转换为 Markdown。支持 PDF、DOCX、PPTX、XLSX、图像（含 OCR）、音频（含转录）、HTML、CSV、JSON、XML、ZIP、YouTube 链接、EPub 等。 | Convert files and office documents to Markdown. Supports PDF, DOCX, PPTX, XLSX, images (with OCR), audio (with transcription), HTML, CSV, JSON, XML, ZIP, YouTube URLs, EPubs and more.
 allowed-tools: Read Write Edit Bash
 license: MIT license
 required_environment_variables: [{"name": "OPENROUTER_API_KEY", "prompt": "OpenRouter API key for the skill's LLM-powered steps.", "required_for": "optional features"}]

@@ -1,7 +1,7 @@
 ---
 name: managing-database-replication
 description: |
-  Use when you need to work with database scalability.
+  当你需要处理数据库可扩展性时使用。此技能提供复制和分片及全面的指导和自动化。触发词如「set up replication」「implement sharding」或「scale database」。 |
   This skill provides replication and sharding with comprehensive guidance and automation.
   Trigger with phrases like "set up replication", "implement sharding",
   or "scale database".

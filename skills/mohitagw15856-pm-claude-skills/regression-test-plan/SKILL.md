@@ -1,6 +1,6 @@
 ---
 name: regression-test-plan
-description: "Design and prioritize a regression test suite so changes don't break what worked. Use when asked to plan regression testing, build a regression suite, decide what to re-test after a change, or trim a bloated regression pack. Produces a risk-based regression plan — what to re-test and why, prioritised tiers (smoke → full), automation candidates, and a run strategy per release — so coverage matches risk and the suite stays fast."
+description: "设计回归测试套件并排定优先级，使变更不会破坏原本正常的功能。当被要求规划回归测试、构建回归套件、决定变更后需要重测的内容，或精简臃肿的回归测试包时使用。产出基于风险的回归计划：重测什么及其原因、划分优先级的分层（冒烟 → 全量）、自动化候选项，以及每个版本的执行策略，从而让覆盖与风险匹配并保持套件快速。 | Design and prioritize a regression test suite so changes don't break what worked. Use when asked to plan regression testing, build a regression suite, decide what to re-test after a change, or trim a bloated regression pack. Produces a risk-based regression plan — what to re-test and why, prioritised tiers (smoke → full), automation candidates, and a run strategy per release — so coverage matches risk and the suite stays fast."
 ---
 
 # Regression Test Plan Skill

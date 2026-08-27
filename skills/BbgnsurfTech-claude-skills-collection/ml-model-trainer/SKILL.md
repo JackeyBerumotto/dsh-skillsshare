@@ -1,9 +1,6 @@
 ---
 name: training-machine-learning-models
-description: Train machine learning models with automated workflows. Analyzes datasets,
-  selects model types (classification, regression), configures parameters, trains
-  with cross-validation, and saves model artifacts. Use when asked to "train model"
-  or "evalua...
+description: "使用自动化工作流训练机器学习模型。分析数据集、选择模型类型（分类、回归）、配置参数、通过交叉验证训练并保存模型产物。当被要求「train model」或「evaluate model」时使用。 | Train machine learning models with automated workflows. Analyzes datasets, selects model types (classification, regression), configures parameters, trains with cross-validation, and saves model artifacts. Use when asked to \"train model\" or \"evalua..."
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash
 license: MIT
 ---

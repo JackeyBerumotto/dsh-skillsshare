@@ -1,6 +1,6 @@
 ---
 name: lingo
-description: Playful, minimal design with bright colors, rounded shapes, tactile 3D borders, and friendly illustrations for approachable interfaces.
+description: 俏皮的极简设计，采用明亮色彩、圆润造型、触感 3D 边框和友好插画，打造亲切易用的界面。 | Playful, minimal design with bright colors, rounded shapes, tactile 3D borders, and friendly illustrations for approachable interfaces.
 license: MIT
 metadata:
   author: typeui.sh

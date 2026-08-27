@@ -1,6 +1,6 @@
 ---
 name: web-forms-vee-validate
-description: VeeValidate v4 patterns - useForm, useField, defineField, useFieldArray, schema validation with Composition API
+description: VeeValidate v4 模式——useForm、useField、defineField、useFieldArray，以及配合 Composition API 的 schema 校验。 | VeeValidate v4 patterns - useForm, useField, defineField, useFieldArray, schema validation with Composition API
 ---
 
 # VeeValidate Form Validation Patterns

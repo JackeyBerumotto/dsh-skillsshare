@@ -1,6 +1,6 @@
 ---
 name: Zoho Desk Automation
-description: "Zoho Desk automation via Rube MCP -- toolkit not currently available in Composio; no ZOHO_DESK_ tools found"
+description: "通过 Rube MCP 实现 Zoho Desk 自动化——该工具箱目前在 Composio 中不可用；未找到 ZOHO_DESK_ 工具。 | Zoho Desk automation via Rube MCP -- toolkit not currently available in Composio; no ZOHO_DESK_ tools found"
 requires:
   mcp:
     - rube

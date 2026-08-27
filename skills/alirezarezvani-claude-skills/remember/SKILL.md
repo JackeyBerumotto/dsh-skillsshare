@@ -1,6 +1,6 @@
 ---
 name: "remember"
-description: "Explicitly save important knowledge to auto-memory with timestamp and context. Use when a discovery is too important to rely on auto-capture."
+description: "将重要知识连同时间戳与上下文显式保存到 auto-memory。当某项发现重要到不能依赖自动捕获时使用。 | Explicitly save important knowledge to auto-memory with timestamp and context. Use when a discovery is too important to rely on auto-capture."
 ---
 
 # /si:remember — Save Knowledge Explicitly

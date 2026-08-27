@@ -1,6 +1,6 @@
 ---
 name: exploratory-test-charter
-description: "Write session-based exploratory testing charters to find what scripted tests miss. Use when asked to plan exploratory testing, write a test charter, design a testing session, or do risk-based exploration of a feature. Produces focused charters — a mission, areas/risks to explore, tactics and oracles, and timeboxed sessions — so exploration is purposeful and accountable, not random clicking."
+description: "编写基于会话的探索性测试章程，发现脚本测试遗漏的问题。在被要求规划探索性测试、编写测试章程、设计测试会话，或对功能做基于风险的探索时使用。产出聚焦的章程——使命、要探索的区域/风险、战术与判断依据，以及限时会话——让探索有目的、可问责，而非随机点击。 | Write session-based exploratory testing charters to find what scripted tests miss. Use when asked to plan exploratory testing, write a test charter, design a testing session, or do risk-based exploration of a feature. Produces focused charters — a mission, areas/risks to explore, tactics and oracles, and timeboxed sessions — so exploration is purposeful and accountable, not random clicking."
 ---
 
 # Exploratory Test Charter Skill

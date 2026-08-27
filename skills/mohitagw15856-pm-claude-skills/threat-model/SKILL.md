@@ -1,6 +1,6 @@
 ---
 name: threat-model
-description: "Threat-model a system or feature to find where it could be attacked, before you build it. Use when asked to threat-model, do a security design review, identify attack surface, or apply STRIDE to a design. Produces a structured threat model: assets, trust boundaries and data flows, threats enumerated by category (STRIDE), and prioritized mitigations. Defensive security for systems you own or are authorized to assess."
+description: "在构建系统或功能之前对其进行威胁建模，找出可能被攻击的位置。当被要求进行威胁建模、安全设计评审、识别攻击面，或对设计应用 STRIDE 时使用。产出结构化的威胁模型：资产、信任边界与数据流、按类别（STRIDE）枚举的威胁，以及按优先级排序的缓解措施。适用于自己拥有或获得授权评估的系统的防御性安全工作。 | Threat-model a system or feature to find where it could be attacked, before you build it. Use when asked to threat-model, do a security design review, identify attack surface, or apply STRIDE to a design. Produces a structured threat model: assets, trust boundaries and data flows, threats enumerated by category (STRIDE), and prioritized mitigations. Defensive security for systems you own or are authorized to assess."
 ---
 
 # Threat Model Skill

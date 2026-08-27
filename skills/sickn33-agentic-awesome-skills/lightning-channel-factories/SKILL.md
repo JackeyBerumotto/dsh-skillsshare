@@ -1,6 +1,6 @@
 ---
 name: lightning-channel-factories
-description: Technical reference on Lightning Network channel factories, multi-party channels, LSP architectures, and Bitcoin Layer 2 scaling without soft forks. Covers Decker-Wattenhofer, timeout trees, MuSig2 key aggregation, HTLC/PTLC forwarding, and watchtower breach detection.
+description: 关于闪电网络通道工厂、多方通道、LSP 架构以及无需软分叉的 Bitcoin 二层扩容的技术参考。涵盖 Decker-Wattenhofer、超时树、MuSig2 密钥聚合、HTLC/PTLC 转发以及瞭望塔违约检测。 | Technical reference on Lightning Network channel factories, multi-party channels, LSP architectures, and Bitcoin Layer 2 scaling without soft forks. Covers Decker-Wattenhofer, timeout trees, MuSig2 key aggregation, HTLC/PTLC forwarding, and watchtower breach detection.
 risk: safe
 source: community
 date_added: '2026-03-03'

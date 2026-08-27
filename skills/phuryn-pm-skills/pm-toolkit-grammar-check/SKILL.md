@@ -1,6 +1,6 @@
 ---
 name: grammar-check
-description: "Identify grammar, logical, and flow errors in text and suggest targeted fixes without rewriting the entire text. Use when proofreading content, checking writing quality, or reviewing a draft."
+description: "识别文本中的语法、逻辑和行文错误，并建议针对性修复而不重写整段文本。在校对内容、检查写作质量或审阅草稿时使用。 | Identify grammar, logical, and flow errors in text and suggest targeted fixes without rewriting the entire text. Use when proofreading content, checking writing quality, or reviewing a draft."
 ---
 # Grammar and Flow Checking
 

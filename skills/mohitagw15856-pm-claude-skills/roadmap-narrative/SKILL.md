@@ -1,6 +1,6 @@
 ---
 name: roadmap-narrative
-description: "Transform a prioritised initiative list into a compelling strategic roadmap narrative. Use when asked to write a roadmap narrative, explain the product roadmap to non-technical stakeholders, connect roadmap items to company goals, or produce an exec-shareable roadmap story. Produces a themed narrative with strategic context, quarter progression arc, an executive summary, and a 'what's not on the roadmap' section."
+description: "将排好优先级的举措清单转化为有说服力的战略路线图叙事。当被要求撰写路线图叙事、向非技术干系人解释产品路线图、将路线图项与公司目标关联，或产出可供高管分享的路线图故事时使用。产出带主题的叙事，包含战略背景、季度推进弧线、执行摘要以及「不在路线图上」部分。 | Transform a prioritised initiative list into a compelling strategic roadmap narrative. Use when asked to write a roadmap narrative, explain the product roadmap to non-technical stakeholders, connect roadmap items to company goals, or produce an exec-shareable roadmap story. Produces a themed narrative with strategic context, quarter progression arc, an executive summary, and a 'what's not on the roadmap' section."
 ---
 
 # Roadmap Narrative Skill

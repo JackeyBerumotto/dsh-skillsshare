@@ -1,6 +1,6 @@
 ---
 name: tinystruct-patterns
-description: Expert guidance for developing with the tinystruct Java framework. Use when working on the tinystruct codebase or any project built on tinystruct — including creating Application classes, @Action-mapped routes, unit tests, ActionRegistry, HTTP/CLI dual-mode handling, the built-in HTTP server, the event system, JSON with Builder/Builders, database persistence with AbstractData, POJO generation, Server-Sent Events (SSE), file uploads, and outbound HTTP networking.
+description: 使用 tinystruct Java 框架开发的专家指引。在开发 tinystruct 代码库或任何基于 tinystruct 的项目时使用——包括创建 Application 类、@Action 映射路由、单元测试、ActionRegistry、HTTP/CLI 双模式处理、内置 HTTP 服务器、事件系统、使用 Builder/Builders 处理 JSON、基于 AbstractData 的数据库持久化、POJO 生成、Server-Sent Events（SSE）、文件上传以及出站 HTTP 网络请求。 | Expert guidance for developing with the tinystruct Java framework. Use when working on the tinystruct codebase or any project built on tinystruct — including creating Application classes, @Action-mapped routes, unit tests, ActionRegistry, HTTP/CLI dual-mode handling, the built-in HTTP server, the event system, JSON with Builder/Builders, database persistence with AbstractData, POJO generation, Server-Sent Events (SSE), file uploads, and outbound HTTP networking.
 metadata:
   origin: ECC
 ---

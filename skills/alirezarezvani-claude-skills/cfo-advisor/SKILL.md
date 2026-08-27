@@ -1,6 +1,6 @@
 ---
 name: "cfo-advisor"
-description: "Financial leadership for startups and scaling companies. Financial modeling, unit economics, fundraising strategy, cash management, and board financial packages. Use when building financial models, analyzing unit economics, planning fundraising, managing cash runway, preparing board materials, or when user mentions CFO, burn rate, runway, fundraising, unit economics, LTV, CAC, term sheets, or financial strategy."
+description: "面向初创与成长期公司的财务领导力。财务建模、单位经济、融资策略、现金管理与董事会财务材料。在构建财务模型、分析单位经济、规划融资、管理现金跑道、准备董事会材料，或用户提到 CFO、burn rate、runway、融资、单位经济、LTV、CAC、条款清单或财务策略时使用。 | Financial leadership for startups and scaling companies. Financial modeling, unit economics, fundraising strategy, cash management, and board financial packages. Use when building financial models, analyzing unit economics, planning fundraising, managing cash runway, preparing board materials, or when user mentions CFO, burn rate, runway, fundraising, unit economics, LTV, CAC, term sheets, or financial strategy."
 license: MIT
 metadata:
   version: 1.0.0

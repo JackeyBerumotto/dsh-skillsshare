@@ -1,6 +1,6 @@
 ---
 name: event-staffing-compliance
-description: Assess worker-classification and compliance risk for temporary event staffing in the US and Canada — W-2 vs 1099, misclassification penalties, joint-employer liability, COI, and wage/hour rules. Includes live state-by-state lookups via MCP.
+description: 评估美国与加拿大临时活动用工的雇员分类与合规风险——W-2 与 1099、错误分类处罚、联合雇主责任、COI 保险以及工资工时规定。支持通过 MCP 实时逐州查询。 | Assess worker-classification and compliance risk for temporary event staffing in the US and Canada — W-2 vs 1099, misclassification penalties, joint-employer liability, COI, and wage/hour rules. Includes live state-by-state lookups via MCP.
 risk: safe
 source: community
 date_added: "2026-06-05"

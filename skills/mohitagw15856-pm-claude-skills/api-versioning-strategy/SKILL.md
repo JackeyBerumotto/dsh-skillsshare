@@ -1,6 +1,6 @@
 ---
 name: api-versioning-strategy
-description: "Write an API versioning strategy document for a service or API platform. Use when asked to define versioning policy, plan API deprecation, classify breaking changes, or document version lifecycle. Produces a complete versioning strategy with breaking-change classification table, deprecation timeline, migration guide template, and client communication template."
+description: "为服务或 API 平台编写 API 版本管理策略文档。在被要求定义版本政策、规划 API 弃用、对破坏性变更分类或记录版本生命周期时使用。产出完整版本策略，包含破坏性变更分类表、弃用时间线、迁移指南模板和客户端沟通模板。 | Write an API versioning strategy document for a service or API platform. Use when asked to define versioning policy, plan API deprecation, classify breaking changes, or document version lifecycle. Produces a complete versioning strategy with breaking-change classification table, deprecation timeline, migration guide template, and client communication template."
 ---
 
 # API Versioning Strategy

@@ -1,7 +1,7 @@
 ---
 name: bug-review
 role: library
-description: Hunts bugs with evidence trails. Use when investigating unexpected behavior or before merging code with potential hidden defects.
+description: 搜寻带有证据链的缺陷。用于调查意外行为，或在合并可能潜藏缺陷的代码之前使用。 | Hunts bugs with evidence trails. Use when investigating unexpected behavior or before merging code with potential hidden defects.
 alwaysApply: false
 category: code-review
 tags:

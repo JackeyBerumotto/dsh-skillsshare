@@ -1,6 +1,6 @@
 ---
 name: web-utilities-native-js
-description: Modern native JavaScript (ES2022-ES2025) utility patterns that replace lodash
+description: 取代 lodash 的现代原生 JavaScript（ES2022-ES2025）工具模式。 | Modern native JavaScript (ES2022-ES2025) utility patterns that replace lodash
 ---
 
 # Native JavaScript Utility Patterns

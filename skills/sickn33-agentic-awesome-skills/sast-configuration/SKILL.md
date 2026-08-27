@@ -1,6 +1,6 @@
 ---
 name: sast-configuration
-description: "Static Application Security Testing (SAST) tool setup, configuration, and custom rule creation for comprehensive security scanning across multiple programming languages."
+description: "静态应用安全测试（SAST）工具的安装、配置和自定义规则创建，用于跨多种编程语言的全面安全扫描。 | Static Application Security Testing (SAST) tool setup, configuration, and custom rule creation for comprehensive security scanning across multiple programming languages."
 risk: unknown
 source: community
 date_added: "2026-02-27"

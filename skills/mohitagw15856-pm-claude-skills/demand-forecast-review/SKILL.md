@@ -1,6 +1,6 @@
 ---
 name: demand-forecast-review
-description: "Interrogate a demand forecast before the business commits supply and inventory to it. Use when asked to review a demand plan, challenge a forecast, check forecast accuracy, decompose baseline vs uplift, or find hockey sticks in the numbers. Produces a forecast credibility review with baseline/uplift decomposition, MAPE and bias history, hockey-stick flags, an assumption register, and consensus-vs-statistical divergence analysis."
+description: "在企业为需求预测投入供应和库存之前对其进行拷问。在被要求审查需求计划、质疑预测、检查预测准确性、分解基线与增量，或寻找数字中的曲棍球杆效应时使用。产出一份预测可信度审查，包含基线/增量分解、MAPE 与偏差历史、曲棍球杆标记、假设登记册以及共识与统计预测的分歧分析。 | Interrogate a demand forecast before the business commits supply and inventory to it. Use when asked to review a demand plan, challenge a forecast, check forecast accuracy, decompose baseline vs uplift, or find hockey sticks in the numbers. Produces a forecast credibility review with baseline/uplift decomposition, MAPE and bias history, hockey-stick flags, an assumption register, and consensus-vs-statistical divergence analysis."
 ---
 
 # Demand Forecast Review Skill

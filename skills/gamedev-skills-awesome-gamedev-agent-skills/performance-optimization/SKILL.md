@@ -1,7 +1,7 @@
 ---
 name: performance-optimization
 description: >
-  Find and fix game performance problems methodically — measure with the engine profiler first,
+  系统化查找并修复游戏性能问题——先用引擎 profiler 测量，推演帧时间预算，定位 CPU 还是 GPU 瓶颈，再应用恰当修复：对象池、draw call 合批、减少分配/GC 尖峰以及资产预算。引擎中立的方法，可与各引擎 profiler 搭配。当用户提到 performance、optimize、低/掉 FPS、帧率下降、卡顿、lag、profiler、帧预算、draw calls、batching、垃圾回收/GC 尖峰、对象池或「游戏跑得慢」时使用。 |
   reason about the frame-time budget, locate the CPU-vs-GPU bottleneck, then apply the right fix:
   object pooling, draw-call batching, fewer allocations/GC spikes, and asset budgets. Engine-
   neutral method that pairs with each engine's profiler. Use when the user mentions performance,

@@ -1,7 +1,7 @@
 ---
 name: visual-novel
 description: >
-  Build a visual novel: a branching script, character and background display, a text box with choices,
+  构建视觉小说：分支剧本、角色与背景显示、带选项的文本框、存档与读档、回放日志以及跳过与自动模式。适用于视觉小说、恋爱模拟或分支剧情类游戏。 |
   save/load, backlog, and skip/auto. Use for a VN, dating sim, or branching story game.
 license: Apache-2.0
 compatibility: Engine-agnostic design patterns; snippets are pseudocode (port to your engine)

@@ -1,6 +1,6 @@
 ---
 name: seo-cannibalization-detector
-description: Analyzes multiple provided pages to identify keyword overlap and potential cannibalization issues. Suggests differentiation strategies. Use PROACTIVELY when reviewing similar content.
+description: 分析提供的多个页面，识别关键词重叠与潜在的蚕食问题，并建议差异化策略。在评审相似内容时请主动使用。 | Analyzes multiple provided pages to identify keyword overlap and potential cannibalization issues. Suggests differentiation strategies. Use PROACTIVELY when reviewing similar content.
 risk: unknown
 source: community
 date_added: '2026-02-27'

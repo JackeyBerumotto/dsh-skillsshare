@@ -1,6 +1,6 @@
 ---
 name: vps-server-management
-description: "Manage authorized VPS hosts and server-side agents through cautious SSH and operations workflows."
+description: "通过谨慎的 SSH 与运维工作流，管理已授权的 VPS 主机和服务器端代理。 | Manage authorized VPS hosts and server-side agents through cautious SSH and operations workflows."
 category: operations
 risk: critical
 source: community

@@ -1,6 +1,6 @@
 ---
 name: puppeteer-skill
-description: 'Generates Puppeteer scripts for browser automation, scraping, and PDF generation. Triggers on: "Puppeteer", "headless Chrome", "page.goto", "scrape", "PDF generation".'
+description: '生成用于浏览器自动化、抓取和 PDF 生成的 Puppeteer 脚本。触发词：「Puppeteer」、「headless Chrome」、「page.goto」、「scrape」、「PDF generation」。 | Generates Puppeteer scripts for browser automation, scraping, and PDF generation. Triggers on: "Puppeteer", "headless Chrome", "page.goto", "scrape", "PDF generation".'
 risk: unknown
 source: https://github.com/LambdaTest/agent-skills/tree/main/puppeteer-skill
 source_repo: LambdaTest/agent-skills

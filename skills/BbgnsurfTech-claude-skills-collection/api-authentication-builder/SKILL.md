@@ -2,7 +2,7 @@
 name: building-api-authentication
 version: 1.0.0
 description: |
-  Build secure API authentication systems with OAuth2, JWT, API keys, and session management.
+  构建安全的 API 认证系统，支持 OAuth2、JWT、API 密钥和会话管理。当实现安全认证流程时使用。触发短语如「build authentication」「add API auth」或「secure the API」。 |
   Use when implementing secure authentication flows.
   Trigger with phrases like "build authentication", "add API auth", or "secure the API".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(api:auth-*)

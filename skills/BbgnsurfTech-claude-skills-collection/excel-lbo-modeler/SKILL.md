@@ -1,7 +1,5 @@
 ---
-description: Create leveraged buyout (LBO) models in Excel with sources & uses, debt
-  schedules, cash flow waterfalls, and IRR calculations for private equity analysis
-  Activates when you request "excel lbo modeler" functionality.
+description: "在 Excel 中创建杠杆收购（LBO）模型，包含资金来源与用途、债务偿还计划、现金流瀑布和 IRR 计算，用于私募股权分析。当你请求「excel lbo modeler」功能时激活。 | Create leveraged buyout (LBO) models in Excel with sources & uses, debt schedules, cash flow waterfalls, and IRR calculations for private equity analysis Activates when you request \"excel lbo modeler\" functionality."
 allowed-tools:
 - Read
 - Write

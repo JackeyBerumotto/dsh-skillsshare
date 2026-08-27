@@ -1,6 +1,6 @@
 ---
 name: geniml
-description: This skill should be used when working with genomic interval data (BED files) for machine learning tasks. Use for training region embeddings (Region2Vec, BEDspace), single-cell ATAC-seq analysis (scEmbed), building consensus peaks (universes), or any ML-based analysis of genomic regions. Applies to BED file collections, scATAC-seq data, chromatin accessibility datasets, and region-based genomic feature learning.
+description: 用于机器学习任务的基因组区间数据（BED 文件）处理。适用于训练区间嵌入（Region2Vec、BEDspace）、单细胞 ATAC-seq 分析（scEmbed）、构建共识峰（universes），或任何基于 ML 的基因组区域分析。适用于 BED 文件集合、scATAC-seq 数据、染色质可及性数据集以及基于区域的基因组特征学习。 | This skill should be used when working with genomic interval data (BED files) for machine learning tasks. Use for training region embeddings (Region2Vec, BEDspace), single-cell ATAC-seq analysis (scEmbed), building consensus peaks (universes), or any ML-based analysis of genomic regions. Applies to BED file collections, scATAC-seq data, chromatin accessibility datasets, and region-based genomic feature learning.
 license: BSD-2-Clause license
 metadata: {"version": "1.0", "skill-author": "K-Dense Inc."}
 ---

@@ -1,6 +1,6 @@
 ---
 name: flat-design-2
-description: Web and App implementation guide for Flat Design 2.0 (Semi-Flat). Trigger when the user wants flat design with subtle shadows and improved usability.
+description: Flat Design 2.0（半扁平设计）的 Web 与 App 实现指南。当用户需要带细微阴影、可用性更佳的扁平设计时触发。 | Web and App implementation guide for Flat Design 2.0 (Semi-Flat). Trigger when the user wants flat design with subtle shadows and improved usability.
 date_added: "2026-06-17"
 risk: safe
 source: self

@@ -1,6 +1,6 @@
 ---
 name: customer-support
-description: Elite AI-powered customer support specialist mastering conversational AI, automated ticketing, sentiment analysis, and omnichannel support experiences.
+description: 顶级 AI 驱动的客户支持专家，精通对话式 AI、自动化工单、情感分析以及全渠道支持体验。 | Elite AI-powered customer support specialist mastering conversational AI, automated ticketing, sentiment analysis, and omnichannel support experiences.
 risk: unknown
 source: community
 date_added: '2026-02-27'

@@ -1,6 +1,6 @@
 ---
 name: adr-verify
-description: Read back adr-patterns + adr-edges namespaces, surface dangling refs / supersede cycles / status mismatches; exit 1 on cycles
+description: 回读 adr-patterns 与 adr-edges 命名空间，暴露悬空引用、取代循环、状态不匹配等问题；发现循环时以退出码 1 结束。 | Read back adr-patterns + adr-edges namespaces, surface dangling refs / supersede cycles / status mismatches; exit 1 on cycles
 argument-hint: ""
 allowed-tools: Bash mcp__claude-flow__memory_list mcp__claude-flow__memory_retrieve
 ---

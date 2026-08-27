@@ -1,6 +1,6 @@
 ---
 name: federation-init
-description: Initialize federation on this node — generate keypair and configure peers
+description: 在此节点上初始化联邦——生成密钥对并配置对等节点 | Initialize federation on this node — generate keypair and configure peers
 allowed-tools: Bash(npx *) mcp__claude-flow__memory_store mcp__claude-flow__hooks_post-task Read Write
 argument-hint: "[--compliance hipaa|soc2|gdpr|none]"
 ---

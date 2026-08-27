@@ -1,6 +1,6 @@
 ---
 name: dataset-datasheet
-description: "Document a dataset so others know what it is, how it was made, and when not to use it. Use when asked to write a datasheet for a dataset, document training/eval data, or assess whether a dataset is fit for a use. Produces a datasheet — motivation, composition, collection process, preprocessing, recommended uses & limits, distribution, and maintenance."
+description: "为数据集编写文档，让他人了解它是什么、如何创建以及何时不该使用。当被要求为数据集编写 datasheet、记录训练/评估数据或评估数据集是否适合某个用途时使用。产出一份 datasheet——动机、构成、采集过程、预处理、推荐用途与限制、分发和维护。 | Document a dataset so others know what it is, how it was made, and when not to use it. Use when asked to write a datasheet for a dataset, document training/eval data, or assess whether a dataset is fit for a use. Produces a datasheet — motivation, composition, collection process, preprocessing, recommended uses & limits, distribution, and maintenance."
 ---
 
 # Dataset Datasheet Skill

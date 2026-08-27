@@ -1,6 +1,6 @@
 ---
 name: google-admin-automation
-description: "Automate Google Workspace Admin tasks via Rube MCP (Composio): manage users, groups, memberships, suspend accounts, create users, add aliases. Always search tools first for current schemas."
+description: "通过 Rube MCP（Composio）自动化 Google Workspace Admin 任务：管理用户、群组与成员资格，停用账户、创建用户、添加别名。务必先搜索工具以获取最新 schema。 | Automate Google Workspace Admin tasks via Rube MCP (Composio): manage users, groups, memberships, suspend accounts, create users, add aliases. Always search tools first for current schemas."
 requires:
   mcp: [rube]
 ---

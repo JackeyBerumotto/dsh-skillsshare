@@ -2,7 +2,7 @@
 name: tracking-regression-tests
 version: 1.0.0
 description: |
-  Track and manage regression test suites across releases.
+  跨版本发布跟踪并管理回归测试套件。用于执行专项测试时。使用「track regressions」「manage regression suite」「validate against baseline」等短语触发。 |
   Use when performing specialized testing.
   Trigger with phrases like "track regressions", "manage regression suite", or "validate against baseline".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(test:regression-*)

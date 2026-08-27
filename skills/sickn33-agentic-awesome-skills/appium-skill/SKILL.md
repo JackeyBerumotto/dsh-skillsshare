@@ -1,6 +1,6 @@
 ---
 name: appium-skill
-description: Generates production-grade Appium mobile automation scripts for Android and iOS in Java, Python, or JavaScript. Supports real device and emulator testing locally and on TestMu AI cloud with 100+ real devices. Use when the user asks to automate mobile apps, test on Android/iOS, write...
+description: 生成生产级的 Appium 移动自动化脚本，覆盖 Android 和 iOS，支持 Java、Python 或 JavaScript。支持本地以及 TestMu AI 云上 100 多台真机与模拟器测试。当用户要求自动化移动应用、在 Android/iOS 上测试、编写……时使用 | Generates production-grade Appium mobile automation scripts for Android and iOS in Java, Python, or JavaScript. Supports real device and emulator testing locally and on TestMu AI cloud with 100+ real devices. Use when the user asks to automate mobile apps, test on Android/iOS, write...
 risk: unknown
 source: https://github.com/LambdaTest/agent-skills/tree/main/appium-skill
 source_repo: LambdaTest/agent-skills

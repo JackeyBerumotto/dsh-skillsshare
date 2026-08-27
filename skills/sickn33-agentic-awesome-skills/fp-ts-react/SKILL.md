@@ -1,6 +1,6 @@
 ---
 name: fp-ts-react
-description: "Practical patterns for using fp-ts with React - hooks, state, forms, data fetching. Use when building React apps with functional programming patterns. Works with React 18/19, Next.js 14/15."
+description: "在 React 中使用 fp-ts 的实用模式——hook、状态、表单、数据获取。在用函数式编程模式构建 React 应用时使用。兼容 React 18/19、Next.js 14/15。 | Practical patterns for using fp-ts with React - hooks, state, forms, data fetching. Use when building React apps with functional programming patterns. Works with React 18/19, Next.js 14/15."
 risk: safe
 source: "https://github.com/whatiskadudoing/fp-ts-skills"
 date_added: "2026-02-27"

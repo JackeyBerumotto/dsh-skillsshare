@@ -1,6 +1,6 @@
 ---
 name: bug-diagnosis
-description: "Diagnose a bug systematically instead of guessing — reproduce, isolate, form hypotheses, and test them to root cause. Use when debugging, chasing a defect, an intermittent failure, or 'why is this happening?'. Produces a structured diagnosis: a reliable repro, the narrowed-down location, ranked hypotheses with how to test each, and the root cause + fix once found."
+description: "系统化地诊断 bug 而非瞎猜：复现、隔离、提出假设并逐一验证以找到根因。当在调试、追踪缺陷、间歇性故障或思考「为什么会发生这种情况」时使用。产出结构化诊断：可靠复现步骤、缩小后的位置范围、按优先级排序的假设及各自的验证方法，以及找到后的根因和修复方案。 | Diagnose a bug systematically instead of guessing — reproduce, isolate, form hypotheses, and test them to root cause. Use when debugging, chasing a defect, an intermittent failure, or 'why is this happening?'. Produces a structured diagnosis: a reliable repro, the narrowed-down location, ranked hypotheses with how to test each, and the root cause + fix once found."
 ---
 
 # Bug Diagnosis Skill

@@ -1,6 +1,6 @@
 ---
 name: web-performance-optimization
-description: "Optimize website and web application performance including loading speed, Core Web Vitals, bundle size, caching strategies, and runtime performance"
+description: "优化网站与 Web 应用性能，包括加载速度、Core Web Vitals、包体积、缓存策略和运行时性能 | Optimize website and web application performance including loading speed, Core Web Vitals, bundle size, caching strategies, and runtime performance"
 risk: unknown
 source: community
 date_added: "2026-02-27"

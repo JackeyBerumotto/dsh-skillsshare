@@ -1,8 +1,5 @@
 ---
-description: Generates conventional commit messages using AI. It analyzes code changes
-  and suggests a commit message adhering to the conventional commits specification.
-  Use this skill when you need help writing clear, standardized commit messages, especially
-  a...
+description: "使用 AI 生成约定式提交信息。它分析代码变更并建议符合 conventional commits 规范的提交信息。当您需要帮助撰写清晰、标准化的提交信息时使用本技能，尤其是…… | Generates conventional commit messages using AI. It analyzes code changes and suggests a commit message adhering to the conventional commits specification. Use this skill when you need help writing clear, standardized commit messages, especially a..."
 allowed-tools:
 - Read
 - Write

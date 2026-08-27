@@ -1,6 +1,6 @@
 ---
 name: ux-copy
-description: Generate UX microcopy (button labels, error messages, empty states, toasts) following a casual-but-polite voice and tone
+description: 生成 UX 微文案（按钮标签、错误信息、空状态、toast），遵循随和却有礼的声音与语气 | Generate UX microcopy (button labels, error messages, empty states, toasts) following a casual-but-polite voice and tone
 risk: unknown
 source: https://github.com/bitjaru/styleseed/tree/main/engine/.claude/skills/ss-copy
 source_repo: bitjaru/styleseed

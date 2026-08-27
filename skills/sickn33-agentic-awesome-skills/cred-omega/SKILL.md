@@ -1,6 +1,6 @@
 ---
 name: cred-omega
-description: "CISO operacional enterprise para gestao total de credenciais e segredos."
+description: "企业级实战 CISO，全面负责凭据与密钥的管理。 | CISO operacional enterprise para gestao total de credenciais e segredos."
 risk: critical
 source: community
 date_added: '2026-03-06'

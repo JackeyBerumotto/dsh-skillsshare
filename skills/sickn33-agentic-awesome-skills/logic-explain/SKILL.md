@@ -1,6 +1,6 @@
 ---
 name: logic-explain
-description: Explain what a specific piece of code actually does for a given input by producing a step-by-step execution trace (interprocedural, with name resolution and type transitions). Trigger when the user is confused about behavior or asks why code produces X instead of Y — "walk me through...
+description: 通过生成逐步执行轨迹（跨过程、含名称解析与类型转换）来解释一段代码对给定输入的实际行为。当用户对行为感到困惑，或询问为什么代码产出 X 而不是 Y 时触发——如「walk me through...」等表述。 | Explain what a specific piece of code actually does for a given input by producing a step-by-step execution trace (interprocedural, with name resolution and type transitions). Trigger when the user is confused about behavior or asks why code produces X instead of Y — "walk me through...
 risk: unknown
 source: https://github.com/hyhmrright/logic-lens/tree/main/skills/logic-explain
 source_repo: hyhmrright/logic-lens

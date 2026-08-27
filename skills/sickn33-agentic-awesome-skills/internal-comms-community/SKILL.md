@@ -1,6 +1,6 @@
 ---
 name: internal-comms-community
-description: "To write internal communications, use this skill for:"
+description: "撰写内部沟通内容时，请使用本技能： | To write internal communications, use this skill for:"
 risk: unknown
 source: community
 date_added: "2026-02-27"

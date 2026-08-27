@@ -1,6 +1,6 @@
 ---
 name: infra-containers-kubernetes
-description: Kubernetes manifests, Helm charts, Kustomize overlays, and resource patterns
+description: Kubernetes 清单、Helm chart、Kustomize overlay 和资源模式 | Kubernetes manifests, Helm charts, Kustomize overlays, and resource patterns
 ---
 
 # Kubernetes Patterns

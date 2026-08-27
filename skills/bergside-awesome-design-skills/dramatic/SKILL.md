@@ -1,6 +1,6 @@
 ---
 name: dramatic
-description: High-contrast, theatrical design with bold layouts, immersive visuals, and unconventional compositions that command attention.
+description: 高对比、戏剧化的设计，搭配大胆布局、沉浸式视觉和不落俗套的构图，牢牢吸引注意力。 | High-contrast, theatrical design with bold layouts, immersive visuals, and unconventional compositions that command attention.
 license: MIT
 metadata:
   author: typeui.sh

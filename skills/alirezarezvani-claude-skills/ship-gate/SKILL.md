@@ -1,7 +1,7 @@
 ---
 name: ship-gate
 description: >
-  Pre-production audit that scans a codebase for security, database,
+  发布前审计，扫描代码库中的安全、数据库、部署、代码质量、AI/LLM、依赖、前端和可观测性问题。拦截部署命令并阻塞，直到关键项通过检查。与技术栈无关。用于「run ship gate」「am I ready to ship」「pre-launch audit」「can I deploy」「push to production」「go live checklist」「preflight check」。不适用于 CI/CD 搭建或基础设施开通。 |
   deployment, code quality, AI/LLM, dependency, frontend, and observability
   issues. Intercepts deploy commands and blocks until critical items pass.
   Stack-agnostic. Use for "run ship gate", "am I ready to ship",

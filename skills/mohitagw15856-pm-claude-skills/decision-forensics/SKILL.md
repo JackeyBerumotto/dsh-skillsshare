@@ -1,6 +1,6 @@
 ---
 name: decision-forensics
-description: "Reconstruct the decision actually made in a messy Slack, email, or meeting thread into a proper decision record — commitments named, silent assumptions surfaced, non-decisions called out. Use when asked what did we actually decide, turn this thread into a decision record, who committed to what, or reconstruct this discussion. Produces a decision record with quoted evidence, a commitments table, reconstructed assumptions, dismissed options, and a confidence note on the reconstruction itself."
+description: "将混乱的 Slack、邮件或会议讨论串中实际做出的决策重构为一份正式的决策记录——点名承诺、浮现隐性假设、标出未作决策的事项。当被问到我们究竟决定了什么、把这条讨论串变成决策记录、谁承诺了什么，或重构这段讨论时使用。产出带引用证据的决策记录、承诺表、重构出的假设、被否决的选项，以及对重构本身可信度的说明。 | Reconstruct the decision actually made in a messy Slack, email, or meeting thread into a proper decision record — commitments named, silent assumptions surfaced, non-decisions called out. Use when asked what did we actually decide, turn this thread into a decision record, who committed to what, or reconstruct this discussion. Produces a decision record with quoted evidence, a commitments table, reconstructed assumptions, dismissed options, and a confidence note on the reconstruction itself."
 ---
 
 # Decision Forensics Skill

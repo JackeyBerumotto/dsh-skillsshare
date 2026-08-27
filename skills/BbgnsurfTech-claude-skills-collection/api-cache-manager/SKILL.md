@@ -2,7 +2,7 @@
 name: managing-api-cache
 version: 1.0.0
 description: |
-  Implement intelligent API response caching with Redis, Memcached, and CDN integration.
+  使用 Redis、Memcached 和 CDN 集成实现智能 API 响应缓存。在使用缓存优化 API 性能时使用。触发短语如「add caching」、「optimize API performance」或「implement cache layer」。 |
   Use when optimizing API performance with caching.
   Trigger with phrases like "add caching", "optimize API performance", or "implement cache layer".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(api:cache-*)

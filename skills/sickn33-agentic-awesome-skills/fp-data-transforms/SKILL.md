@@ -1,6 +1,6 @@
 ---
 name: fp-data-transforms
-description: Everyday data transformations using functional patterns - arrays, objects, grouping, aggregation, and null-safe access
+description: 使用函数式模式的日常数据转换——数组、对象、分组、聚合和空值安全访问 | Everyday data transformations using functional patterns - arrays, objects, grouping, aggregation, and null-safe access
 risk: unknown
 source: community
 version: 1.0.0

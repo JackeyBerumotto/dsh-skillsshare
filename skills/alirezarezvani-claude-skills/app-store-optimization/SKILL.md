@@ -1,6 +1,6 @@
 ---
 name: "app-store-optimization"
-description: App Store Optimization (ASO) toolkit for researching keywords, analyzing competitor rankings, generating metadata suggestions, and improving app visibility on Apple App Store and Google Play Store. Use when the user asks about ASO, app store rankings, app metadata, app titles and descriptions, app store listings, app visibility, or mobile app marketing on iOS or Android. Supports keyword research and scoring, competitor keyword analysis, metadata optimization, A/B test planning, launch checklists, and tracking ranking changes.
+description: 应用商店优化（ASO）工具包，用于关键词研究、竞品排名分析、元数据建议生成，以及提升应用在 Apple App Store 和 Google Play Store 的可见度。当用户询问 ASO、应用商店排名、应用元数据、应用标题与描述、商店列表、应用可见度，或 iOS／Android 移动应用营销时使用。支持关键词研究与评分、竞品关键词分析、元数据优化、A/B 测试规划、上线清单和排名变化跟踪。 | App Store Optimization (ASO) toolkit for researching keywords, analyzing competitor rankings, generating metadata suggestions, and improving app visibility on Apple App Store and Google Play Store. Use when the user asks about ASO, app store rankings, app metadata, app titles and descriptions, app store listings, app visibility, or mobile app marketing on iOS or Android. Supports keyword research and scoring, competitor keyword analysis, metadata optimization, A/B test planning, launch checklists, and tracking ranking changes.
 triggers:
   - ASO
   - app store optimization

@@ -1,7 +1,6 @@
 ---
 name: hunting-evtx-with-chainsaw
-description: Perform rapid Sigma and keyword hunting across Windows event logs with
-  Chainsaw.
+description: "使用 Chainsaw 在 Windows 事件日志中执行快速 Sigma 和关键字狩猎。 | Perform rapid Sigma and keyword hunting across Windows event logs with Chainsaw."
 domain: cybersecurity
 subdomain: threat-hunting
 tags:

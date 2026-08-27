@@ -1,6 +1,6 @@
 ---
 name: architecture-review
-description: Assesses architecture decisions, ADR compliance, and coupling. Use when evaluating design changes or validating structural decisions before merging.
+description: 评估架构决策、ADR 合规性与耦合度。在评审设计变更或合并前验证结构性决策时使用。 | Assesses architecture decisions, ADR compliance, and coupling. Use when evaluating design changes or validating structural decisions before merging.
 alwaysApply: false
 category: architecture
 tags:

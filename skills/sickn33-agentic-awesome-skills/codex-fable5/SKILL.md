@@ -1,6 +1,6 @@
 ---
 name: codex-fable5
-description: "Apply Fable-inspired discipline to Codex work: inspect first, track goals and findings, ground conclusions in evidence, verify before completion, and adapt Claude/Fable prompt guidance without identity or provider claims."
+description: "将受 Fable 启发的纪律应用于 Codex 工作：先调查、跟踪目标与发现、让结论基于证据、完成前先验证，并借鉴 Claude／Fable 的提示词指导而不声称任何身份或提供商。 | Apply Fable-inspired discipline to Codex work: inspect first, track goals and findings, ground conclusions in evidence, verify before completion, and adapt Claude/Fable prompt guidance without identity or provider claims."
 category: agent-behavior
 risk: critical
 source: community

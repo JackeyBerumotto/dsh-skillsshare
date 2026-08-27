@@ -2,7 +2,7 @@
 name: testing-load-balancers
 version: 1.0.0
 description: |
-  Validate load balancer behavior, failover, and traffic distribution.
+  验证负载均衡器的行为、故障转移和流量分布。在执行专项测试时使用。可通过「test load balancer」「validate failover」或「check traffic distribution」等短语触发。 |
   Use when performing specialized testing.
   Trigger with phrases like "test load balancer", "validate failover", or "check traffic distribution".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(test:loadbalancer-*)

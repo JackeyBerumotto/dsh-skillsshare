@@ -1,6 +1,6 @@
 ---
 name: product-marketing-context
-description: "Create or update a reusable product marketing context document with positioning, audience, ICP, use cases, and messaging. Use at the start of a project to avoid repeating core marketing context across tasks."
+description: "创建或更新可复用的产品营销上下文文档，包含定位、受众、ICP、用例和信息传递。在项目开始时使用，避免在各任务间重复核心营销上下文。 | Create or update a reusable product marketing context document with positioning, audience, ICP, use cases, and messaging. Use at the start of a project to avoid repeating core marketing context across tasks."
 risk: unknown
 source: "https://github.com/coreyhaines31/marketingskills"
 date_added: "2026-03-21"

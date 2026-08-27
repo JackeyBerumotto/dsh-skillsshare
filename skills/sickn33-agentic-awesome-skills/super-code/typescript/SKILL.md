@@ -1,6 +1,6 @@
 ---
 name: typescript
-description: "Language-specific super-code guidelines for typescript."
+description: "面向 typescript 的语言级 super-code 编码准则。 | Language-specific super-code guidelines for typescript."
 risk: safe
 source: community
 date_added: "2026-06-16"

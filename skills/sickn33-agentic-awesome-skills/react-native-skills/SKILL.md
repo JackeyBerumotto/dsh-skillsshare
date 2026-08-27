@@ -1,6 +1,6 @@
 ---
 name: react-native-skills
-description: "Use when working with react-native-skills tasks or workflows"
+description: "在处理 react-native-skills 相关任务或工作流时使用。 | Use when working with react-native-skills tasks or workflows"
 risk: safe
 source: "https://github.com/vercel-labs/agent-skills"
 date_added: "2026-06-02"

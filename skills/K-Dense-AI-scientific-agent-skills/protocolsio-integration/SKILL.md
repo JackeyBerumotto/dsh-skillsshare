@@ -1,6 +1,6 @@
 ---
 name: protocolsio-integration
-description: Integration with protocols.io API for managing scientific protocols. This skill should be used when working with protocols.io to search, create, update, or publish protocols; manage protocol steps and materials; handle discussions and comments; organize workspaces; upload and manage files; or integrate protocols.io functionality into workflows. Applicable for protocol discovery, collaborative protocol development, experiment tracking, lab protocol management, and scientific documentation.
+description: 与 protocols.io API 集成以管理科学实验方案。在需要使用 protocols.io 搜索、创建、更新或发布实验方案，管理实验步骤与材料，处理讨论和评论，组织工作区，上传和管理文件，或将 protocols.io 功能集成到工作流时使用。适用于实验方案发现、协作式方案开发、实验跟踪、实验室方案管理以及科学文档记录。 | Integration with protocols.io API for managing scientific protocols. This skill should be used when working with protocols.io to search, create, update, or publish protocols; manage protocol steps and materials; handle discussions and comments; organize workspaces; upload and manage files; or integrate protocols.io functionality into workflows. Applicable for protocol discovery, collaborative protocol development, experiment tracking, lab protocol management, and scientific documentation.
 license: Unknown
 metadata: {"version": "1.0", "skill-author": "K-Dense Inc."}
 ---

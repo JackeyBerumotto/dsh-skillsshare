@@ -1,5 +1,5 @@
 ---
-description: Use when generating infrastructure as code configurations. Trigger with phrases like "create Terraform config", "generate CloudFormation template", "write Pulumi code", or "IaC for AWS/GCP/Azure". Produces production-ready code for Terraform, CloudFormation, Pulumi, ARM templates, and CDK across multiple cloud providers.
+description: 在生成基础设施即代码配置时使用。触发词如「create Terraform config」「generate CloudFormation template」「write Pulumi code」或「IaC for AWS/GCP/Azure」。为多家云厂商产出适用于 Terraform、CloudFormation、Pulumi、ARM 模板和 CDK 的生产级代码。 | Use when generating infrastructure as code configurations. Trigger with phrases like "create Terraform config", "generate CloudFormation template", "write Pulumi code", or "IaC for AWS/GCP/Azure". Produces production-ready code for Terraform, CloudFormation, Pulumi, ARM templates, and CDK across multiple cloud providers.
 allowed-tools:
 - Read
 - Write

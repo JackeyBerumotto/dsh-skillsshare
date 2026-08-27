@@ -1,6 +1,6 @@
 ---
 name: sendblue-notify
-description: "Text the user's phone when a long-running task, agent turn, or scheduled job finishes — via @sendblue/cli for outbound, optionally wired to a Claude Code Stop hook for automatic fire."
+description: "当长时间运行的任务、代理回合或定时作业完成时向用户手机发送短信——通过 @sendblue/cli 发出，并可选接入 Claude Code 的 Stop 钩子以自动触发。 | Text the user's phone when a long-running task, agent turn, or scheduled job finishes — via @sendblue/cli for outbound, optionally wired to a Claude Code Stop hook for automatic fire."
 category: automation
 risk: critical
 source: community

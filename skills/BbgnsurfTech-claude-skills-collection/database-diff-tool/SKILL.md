@@ -1,7 +1,7 @@
 ---
 name: comparing-database-schemas
 description: |
-  Use when you need to work with schema comparison.
+  当你需要处理模式比较时使用。此技能提供数据库模式差异对比和同步及全面的指导和自动化。触发词如「compare schemas」「diff databases」或「sync database schemas」。 |
   This skill provides database schema diff and sync with comprehensive guidance and automation.
   Trigger with phrases like "compare schemas", "diff databases",
   or "sync database schemas".

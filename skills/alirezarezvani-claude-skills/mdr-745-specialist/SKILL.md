@@ -1,6 +1,6 @@
 ---
 name: "mdr-745-specialist"
-description: EU MDR 2017/745 compliance specialist for medical device classification, technical documentation, clinical evidence, and post-market surveillance. Covers Annex VIII classification rules, Annex II/III technical files, Annex XIV clinical evaluation, Art. 86 PSUR schedules, and EUDAMED integration. Use when classifying a medical device under MDR, building or gap-checking a technical file, planning clinical evaluation or PMS/PSUR cadence, or preparing for notified body review (e.g., 'what class is my device under MDR', 'review my PSUR schedule').
+description: 面向医疗器械分类、技术文档、临床证据和上市后监督的欧盟 MDR 2017/745 合规专家。涵盖附录 VIII 分类规则、附录 II/III 技术文件、附录 XIV 临床评价、第 86 条 PSUR 时间表以及 EUDAMED 集成。当在 MDR 下对医疗器械分类、构建或检查技术文件、规划临床评价或 PMS/PSUR 节奏，或准备公告机构评审（例如「我的器械在 MDR 下属于哪个类别」「审查我的 PSUR 时间表」）时使用。 | EU MDR 2017/745 compliance specialist for medical device classification, technical documentation, clinical evidence, and post-market surveillance. Covers Annex VIII classification rules, Annex II/III technical files, Annex XIV clinical evaluation, Art. 86 PSUR schedules, and EUDAMED integration. Use when classifying a medical device under MDR, building or gap-checking a technical file, planning clinical evaluation or PMS/PSUR cadence, or preparing for notified body review (e.g., 'what class is my device under MDR', 'review my PSUR schedule').
 triggers:
   - MDR compliance
   - EU MDR

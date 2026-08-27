@@ -1,6 +1,6 @@
 ---
 name: hugging-face-tool-builder
-description: "Your purpose is now is to create reusable command line scripts and utilities for using the Hugging Face API, allowing chaining, piping and intermediate processing where helpful. You can access the API directly, as well as use the hf command line tool."
+description: "你现在的目的是创建可复用的命令行脚本和工具来使用 Hugging Face API，并在有帮助之处支持链式调用、管道和中间处理。你可以直接访问 API，也可以使用 hf 命令行工具。 | Your purpose is now is to create reusable command line scripts and utilities for using the Hugging Face API, allowing chaining, piping and intermediate processing where helpful. You can access the API directly, as well as use the hf command line tool."
 risk: unknown
 source: community
 ---

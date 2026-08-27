@@ -1,6 +1,6 @@
 ---
 name: quant-analyst
-description: Build financial models, backtest trading strategies, and analyze market data. Implements risk metrics, portfolio optimization, and statistical arbitrage.
+description: 构建金融模型、回测交易策略并分析市场数据。实现风险指标、投资组合优化和统计套利。 | Build financial models, backtest trading strategies, and analyze market data. Implements risk metrics, portfolio optimization, and statistical arbitrage.
 risk: safe
 source: community
 date_added: '2026-02-27'

@@ -1,6 +1,6 @@
 ---
 name: clinical-case-summary
-description: "Write a structured clinical case summary or case presentation. Use when asked to write a clinical case summary, case presentation, patient case report, or clinical handover. Produces a structured summary using SBAR or SOAP format. For educational and documentation purposes only — not a substitute for clinical judgement."
+description: "撰写结构化的临床病例摘要或病例汇报。在被要求编写临床病例摘要、病例汇报、患者病例报告或临床交接时使用。产出使用 SBAR 或 SOAP 格式的结构化摘要。仅用于教育和记录目的——不能替代临床判断。 | Write a structured clinical case summary or case presentation. Use when asked to write a clinical case summary, case presentation, patient case report, or clinical handover. Produces a structured summary using SBAR or SOAP format. For educational and documentation purposes only — not a substitute for clinical judgement."
 ---
 
 # Clinical Case Summary Skill

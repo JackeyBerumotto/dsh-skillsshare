@@ -1,6 +1,6 @@
 ---
 name: csharp
-description: "Language-specific super-code guidelines for csharp."
+description: "面向 csharp 的语言级 super-code 指南。 | Language-specific super-code guidelines for csharp."
 risk: safe
 source: community
 date_added: "2026-06-16"

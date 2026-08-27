@@ -1,6 +1,6 @@
 ---
 name: api-vector-db-weaviate
-description: Weaviate vector database patterns with weaviate-client v3 -- collection management, vectorizer modules, hybrid search, filtering, generative search (RAG), multi-tenancy, batch imports
+description: 基于 weaviate-client v3 的 Weaviate 向量数据库模式——集合管理、向量化模块、混合搜索、过滤、生成式搜索（RAG）、多租户和批量导入。 | Weaviate vector database patterns with weaviate-client v3 -- collection management, vectorizer modules, hybrid search, filtering, generative search (RAG), multi-tenancy, batch imports
 ---
 
 # Weaviate Patterns

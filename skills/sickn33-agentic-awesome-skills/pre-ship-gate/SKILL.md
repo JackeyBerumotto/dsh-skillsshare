@@ -1,6 +1,6 @@
 ---
 name: pre-ship-gate
-description: "A ship gate that runs before any production deploy: checks the silent failure modes that make a deploy 'succeed' while prod stays broken, then verifies the live revision instead of trusting deploy output."
+description: "一道在任何生产部署前运行的发布闸门：检查那些让部署显示「成功」但生产环境仍然故障的静默失效模式，然后验证线上实际版本而不是相信部署输出。 | A ship gate that runs before any production deploy: checks the silent failure modes that make a deploy 'succeed' while prod stays broken, then verifies the live revision instead of trusting deploy output."
 category: quality
 risk: safe
 source: community

@@ -1,6 +1,6 @@
 ---
 name: power
-description: High-end dark aesthetic with bold headings, monochromatic palette, and premium feel for premium brand experiences.
+description: 高端暗色美学，搭配醒目标题、单色调色板和高级质感，适合高端品牌体验。 | High-end dark aesthetic with bold headings, monochromatic palette, and premium feel for premium brand experiences.
 license: MIT
 metadata:
   author: typeui.sh

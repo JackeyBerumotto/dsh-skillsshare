@@ -2,7 +2,7 @@
 name: rate-limiting-apis
 version: 1.0.0
 description: |
-  Implement sophisticated rate limiting with sliding windows, token buckets, and quotas.
+  使用滑动窗口、令牌桶和配额实现精细的速率限制。在保护 API 免受过量请求时使用。触发短语如「add rate limiting」、「limit API requests」或「implement rate limits」。 |
   Use when protecting APIs from excessive requests.
   Trigger with phrases like "add rate limiting", "limit API requests", or "implement rate limits".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(api:ratelimit-*)

@@ -1,7 +1,7 @@
 ---
 name: skill-suggester
 version: 1.0.0
-description: "Scan prompt history for recurring patterns and unmet needs, then propose new skills or command templates"
+description: "扫描提示历史中的重复模式和未满足需求，然后提出新技能或命令模板。 | Scan prompt history for recurring patterns and unmet needs, then propose new skills or command templates"
 risk: safe
 source: community
 source_type: community

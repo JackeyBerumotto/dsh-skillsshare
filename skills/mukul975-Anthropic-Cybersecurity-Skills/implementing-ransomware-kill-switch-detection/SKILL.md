@@ -1,13 +1,6 @@
 ---
 name: implementing-ransomware-kill-switch-detection
-description: 'Detects and exploits ransomware kill switch mechanisms including mutex-based
-  execution guards, domain-based kill switches, and registry-based termination checks.
-  Implements proactive mutex vaccination and kill switch domain monitoring to prevent
-  ransomware from executing. Activates for requests involving ransomware kill switch
-  analysis, mutex vaccination, WannaCry-style domain kill switches, or malware execution
-  guard detection.
-
-  '
+description: "检测并利用勒索软件的终止开关（kill switch）机制，包括基于互斥体的执行防护、基于域名的终止开关以及基于注册表的终止检查。实施主动的互斥体接种和终止开关域名监控，阻止勒索软件运行。当请求涉及勒索软件终止开关分析、互斥体接种、WannaCry 式域名终止开关或恶意软件执行防护检测时激活。 | Detects and exploits ransomware kill switch mechanisms including mutex-based execution guards, domain-based kill switches, and registry-based termination checks. Implements proactive mutex vaccination and kill switch domain monitoring to prevent ransomware from executing. Activates for requests involving ransomware kill switch analysis, mutex vaccination, WannaCry-style domain kill switches, or malware execution guard detection."
 domain: cybersecurity
 subdomain: ransomware-defense
 tags:

@@ -1,9 +1,6 @@
 ---
 name: vertex-engine-inspector
-description: Inspect and validate Vertex AI Agent Engine deployments including Code
-  Execution Sandbox, Memory Bank, A2A protocol compliance, and security posture. Generates
-  production readiness scores. Use when asked to "inspect agent engine" or "validate
-  depl...
+description: "检查并验证 Vertex AI Agent Engine 部署，包括 Code Execution Sandbox、Memory Bank、A2A 协议合规性和安全姿态，并生成生产就绪评分。当被要求「inspect agent engine」或「validate deployment」时使用。 | Inspect and validate Vertex AI Agent Engine deployments including Code Execution Sandbox, Memory Bank, A2A protocol compliance, and security posture. Generates production readiness scores. Use when asked to \"inspect agent engine\" or \"validate depl..."
 allowed-tools: Read, Grep, Glob, Bash
 license: MIT
 ---

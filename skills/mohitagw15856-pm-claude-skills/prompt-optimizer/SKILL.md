@@ -1,6 +1,6 @@
 ---
 name: prompt-optimizer
-description: "Diagnose and rewrite an underperforming LLM prompt so it produces reliable, well-structured output. Use when asked to improve a prompt, fix a prompt that gives inconsistent or wrong results, reduce hallucination/refusals, or make output follow a format. Produces a rewritten prompt with a diagnosis of what was failing, the specific changes and why, and a small test set to verify the fix."
+description: "诊断并重写表现不佳的 LLM 提示词，使其产出可靠、结构良好的结果。当被要求改进提示词、修复给出不一致或错误结果的提示词、减少幻觉/拒答，或让输出遵循格式时使用。产出重写后的提示词，附有对原有问题的诊断、具体改动及原因，以及用于验证修复效果的小型测试集。 | Diagnose and rewrite an underperforming LLM prompt so it produces reliable, well-structured output. Use when asked to improve a prompt, fix a prompt that gives inconsistent or wrong results, reduce hallucination/refusals, or make output follow a format. Produces a rewritten prompt with a diagnosis of what was failing, the specific changes and why, and a small test set to verify the fix."
 ---
 
 # Prompt Optimizer Skill

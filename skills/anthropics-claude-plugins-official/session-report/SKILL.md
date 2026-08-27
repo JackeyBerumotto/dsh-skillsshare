@@ -1,6 +1,6 @@
 ---
 name: session-report
-description: Generate an explorable HTML report of Claude Code session usage (tokens, cache, subagents, skills, expensive prompts) from ~/.claude/projects transcripts.
+description: 从 ~/.claude/projects 的会话转录生成可交互探索的 HTML 报告，呈现 Claude Code 会话用量（token、缓存、子智能体、技能、高开销提示词）。 | Generate an explorable HTML report of Claude Code session usage (tokens, cache, subagents, skills, expensive prompts) from ~/.claude/projects transcripts.
 ---
 
 # Session Report

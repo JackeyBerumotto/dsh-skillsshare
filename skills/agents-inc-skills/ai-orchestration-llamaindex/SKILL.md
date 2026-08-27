@@ -1,6 +1,6 @@
 ---
 name: ai-orchestration-llamaindex
-description: LlamaIndex.TS data framework for RAG, indexing, retrieval, query engines, chat engines, and agentic workflows in TypeScript
+description: LlamaIndex.TS 数据框架，用于 TypeScript 中的 RAG、索引、检索、查询引擎、聊天引擎与智能体工作流。 | LlamaIndex.TS data framework for RAG, indexing, retrieval, query engines, chat engines, and agentic workflows in TypeScript
 ---
 
 # LlamaIndex.TS Patterns

@@ -1,6 +1,6 @@
 ---
 name: lower-thirds
-description: 构建干净、品牌化的人物字幕条动画，支持进入/退出动画、安全区域放置和批量模板化。
+description: 构建干净、品牌化的人物字幕条动画，支持进入/退出动画、安全区域放置和批量模板化。 | Build clean, branded character lower-third caption animations, with support for enter/exit animations, safe-area placement, and batch templating.
 description_zh: 构建干净、品牌化的人物字幕条动画，支持进入/退出动画、安全区域放置和批量模板化。
 version: 0.1.0
 author: iart.ai

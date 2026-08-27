@@ -1,8 +1,6 @@
 ---
 name: implementing-ddos-mitigation-with-cloudflare
-description: Configure Cloudflare DDoS protection with managed rulesets, rate limiting,
-  WAF rules, Bot Management, and origin protection to mitigate volumetric, protocol,
-  and application-layer attacks.
+description: "配置 Cloudflare DDoS 防护，使用托管规则集、速率限制、WAF 规则、Bot Management 和源站保护，缓解流量型、协议型和应用层攻击。 | Configure Cloudflare DDoS protection with managed rulesets, rate limiting, WAF rules, Bot Management, and origin protection to mitigate volumetric, protocol, and application-layer attacks."
 domain: cybersecurity
 subdomain: network-security
 tags:

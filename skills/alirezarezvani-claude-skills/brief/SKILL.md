@@ -1,6 +1,6 @@
 ---
 name: "brief"
-description: "/cs:brief <topic> — Generate a one-page strategy brief from an office-hours intake. First step in the strategic sprint pipeline. Use when a strategic question needs to be framed before boardroom deliberation — e.g. locking options, assumptions, and success criteria for a pricing change or a market-entry decision."
+description: "/cs:brief <topic>——从办公时间访谈生成一页纸战略简报，是战略冲刺流程的第一步。适用于在董事会审议前需要先框定战略问题时——例如为定价调整或市场进入决策锁定选项、假设和成功标准。 | /cs:brief <topic> — Generate a one-page strategy brief from an office-hours intake. First step in the strategic sprint pipeline. Use when a strategic question needs to be framed before boardroom deliberation — e.g. locking options, assumptions, and success criteria for a pricing change or a market-entry decision."
 ---
 
 # /cs:brief — One-Page Strategy Brief

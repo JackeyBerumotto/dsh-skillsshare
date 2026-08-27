@@ -1,6 +1,6 @@
 ---
 name: brand-guidelines-community
-description: "To access Anthropic's official brand identity and style resources, use this skill."
+description: "要访问 Anthropic 官方品牌标识与风格资源，请使用本技能。 | To access Anthropic's official brand identity and style resources, use this skill."
 risk: unknown
 source: community
 date_added: "2026-02-27"

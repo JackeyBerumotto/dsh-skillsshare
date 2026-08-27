@@ -1,12 +1,6 @@
 ---
 name: detecting-rootkit-activity
-description: 'Detects rootkit presence on compromised systems by identifying hidden
-  processes, hooked system calls, modified kernel structures, hidden files, and covert
-  network connections using memory forensics, cross-view detection, and integrity
-  checking techniques. Activates for requests involving rootkit detection, hidden
-  process discovery, kernel integrity checking, or system call hook analysis.
-
-  '
+description: "利用内存取证、交叉视图检测和完整性校验技术，通过识别隐藏进程、被挂钩的系统调用、被篡改的内核结构、隐藏文件和隐蔽网络连接，检测失陷系统上是否存在 rootkit。当请求涉及 rootkit 检测、隐藏进程发现、内核完整性校验或系统调用挂钩分析时激活。 | Detects rootkit presence on compromised systems by identifying hidden processes, hooked system calls, modified kernel structures, hidden files, and covert network connections using memory forensics, cross-view detection, and integrity checking techniques. Activates for requests involving rootkit detection, hidden process discovery, kernel integrity checking, or system call hook analysis."
 domain: cybersecurity
 subdomain: malware-analysis
 tags:

@@ -1,8 +1,6 @@
 ---
 name: performing-cryptographic-audit-of-application
-description: A cryptographic audit systematically reviews an application's use of
-  cryptographic primitives, protocols, and key management to identify vulnerabilities
-  such as weak algorithms, insecure modes, hardco
+description: "密码审计系统性地审查应用程序对密码学原语、协议和密钥管理的使用，以识别弱算法、不安全模式、硬编码等漏洞。 | A cryptographic audit systematically reviews an application's use of cryptographic primitives, protocols, and key management to identify vulnerabilities such as weak algorithms, insecure modes, hardco"
 domain: cybersecurity
 subdomain: cryptography
 tags:

@@ -1,6 +1,6 @@
 ---
 name: api-documentation
-description: "API documentation workflow for generating OpenAPI specs, creating developer guides, and maintaining comprehensive API documentation."
+description: "API 文档工作流，用于生成 OpenAPI 规范、创建开发者指南和维护全面的 API 文档。 | API documentation workflow for generating OpenAPI specs, creating developer guides, and maintaining comprehensive API documentation."
 category: granular-workflow-bundle
 risk: safe
 source: personal

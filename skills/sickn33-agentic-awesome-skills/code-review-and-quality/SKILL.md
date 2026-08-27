@@ -1,6 +1,6 @@
 ---
 name: code-review-and-quality
-description: Conducts multi-axis code review. Use before merging any change. Use when reviewing code written by yourself, another agent, or a human. Use when you need to assess code quality across multiple dimensions before it enters the main branch.
+description: 开展多维度代码审查。在合并任何变更前使用。在审查自己、其他 Agent 或人类编写的代码时使用。在代码进入主分支前需要从多个维度评估代码质量时使用。 | Conducts multi-axis code review. Use before merging any change. Use when reviewing code written by yourself, another agent, or a human. Use when you need to assess code quality across multiple dimensions before it enters the main branch.
 risk: unknown
 source: https://github.com/addyosmani/agent-skills/tree/main/skills/code-review-and-quality
 source_repo: addyosmani/agent-skills

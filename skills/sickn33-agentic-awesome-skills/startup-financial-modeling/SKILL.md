@@ -1,6 +1,6 @@
 ---
 name: startup-financial-modeling
-description: "Build comprehensive 3-5 year financial models with revenue projections, cost structures, cash flow analysis, and scenario planning for early-stage startups."
+description: "为早期初创公司构建全面的 3 至 5 年财务模型，包含收入预测、成本结构、现金流分析和情景规划。 | Build comprehensive 3-5 year financial models with revenue projections, cost structures, cash flow analysis, and scenario planning for early-stage startups."
 risk: unknown
 source: community
 date_added: '2026-02-27'

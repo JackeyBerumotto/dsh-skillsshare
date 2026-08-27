@@ -1,6 +1,6 @@
 ---
 name: riffkit
-description: "Riff a winning TikTok into your own short video — study a proven video's emotion formula and regenerate it with your product, character, and language (EN/ES). Also makes UGC ad creative."
+description: "把一条爆款 TikTok 改编成你自己的短视频——研究已验证视频的情绪公式，再用你的产品、角色和语言（英语/西语）重新生成。也可制作 UGC 广告素材。 | Riff a winning TikTok into your own short video — study a proven video's emotion formula and regenerate it with your product, character, and language (EN/ES). Also makes UGC ad creative."
 category: api-integration
 risk: critical
 source: community

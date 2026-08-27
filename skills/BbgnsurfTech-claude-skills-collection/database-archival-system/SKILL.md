@@ -1,7 +1,7 @@
 ---
 name: archiving-databases
 description: |
-  Use when you need to archive historical database records to reduce primary database size.
+  当你需要将历史数据库记录归档以缩小主数据库体积时使用。此技能自动把旧数据移至归档表或冷存储（S3、Azure Blob、GCS）。触发词如「archive old database records」「implement data retention policy」「move historical data to cold storage」或「reduce database size with archival」。 |
   This skill automates moving old data to archive tables or cold storage (S3, Azure Blob, GCS).
   Trigger with phrases like "archive old database records", "implement data retention policy",
   "move historical data to cold storage", or "reduce database size with archival".

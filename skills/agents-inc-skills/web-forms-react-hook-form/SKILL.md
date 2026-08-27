@@ -1,6 +1,6 @@
 ---
 name: web-forms-react-hook-form
-description: React Hook Form patterns - useForm, Controller, useFieldArray, validation resolver, performance optimization
+description: React Hook Form 模式：useForm、Controller、useFieldArray、校验 resolver、性能优化。 | React Hook Form patterns - useForm, Controller, useFieldArray, validation resolver, performance optimization
 ---
 
 # React Hook Form Patterns

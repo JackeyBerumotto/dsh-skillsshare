@@ -1,8 +1,5 @@
 ---
-description: This skill enables claude to track and manage ai/ml model versions using
-  the model-versioning-tracker plugin. it should be used when the user asks to manage
-  model versions, track model lineage, log model performance, or implement version
-  control f...
+description: "本技能使 claude 能够使用 model-versioning-tracking 插件追踪与管理 AI/ML 模型版本。当用户要求管理模型版本、追踪模型谱系、记录模型性能或实施版本控制时使用本技能。 | This skill enables claude to track and manage ai/ml model versions using the model-versioning-tracker plugin. it should be used when the user asks to manage model versions, track model lineage, log model performance, or implement version control f..."
 allowed-tools:
 - Read
 - Write

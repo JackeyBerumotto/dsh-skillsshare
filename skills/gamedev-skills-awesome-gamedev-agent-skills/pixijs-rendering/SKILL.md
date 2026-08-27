@@ -1,7 +1,7 @@
 ---
 name: pixijs-rendering
 description: >
-  Build a PixiJS v8 render layer: create the async Application, load textures with
+  构建 PixiJS v8 渲染层：创建异步 Application、用 Assets 加载纹理、用 Container 和 Sprite 组合场景图、驱动 ticker 循环、接入指针事件，并用 render group 合并绘制。在构建或调试 PixiJS v8 时使用——当用户提到 PixiJS、Pixi、Application、app.stage、Container、Sprite、Assets.load、app.ticker 或 eventMode 时。锁定 v8 的异步 init() API。 |
   Assets, compose the scene graph with Container and Sprite, drive the ticker loop,
   wire pointer events, and group draws with render groups. Use when building or
   debugging PixiJS v8 — when the user mentions PixiJS, Pixi, Application, app.stage,

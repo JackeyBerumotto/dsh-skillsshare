@@ -1,6 +1,6 @@
 ---
 name: storytelling
-description: Narrative-driven design using visuals, copy, and interaction to guide users through engaging, emotionally resonant journeys.
+description: 叙事驱动的设计，通过视觉、文案和交互引导用户经历引人入胜、富有情感共鸣的旅程。 | Narrative-driven design using visuals, copy, and interaction to guide users through engaging, emotionally resonant journeys.
 license: MIT
 metadata:
   author: typeui.sh

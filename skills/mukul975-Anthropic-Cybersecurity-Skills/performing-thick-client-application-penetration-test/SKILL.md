@@ -1,8 +1,6 @@
 ---
 name: performing-thick-client-application-penetration-test
-description: Conduct a thick client application penetration test to identify insecure
-  local storage, hardcoded credentials, DLL hijacking, memory manipulation, and insecure
-  API communication in desktop applications using dnSpy, Procmon, and Burp Suite.
+description: "使用 dnSpy、Procmon 和 Burp Suite 对胖客户端应用进行渗透测试，识别桌面应用中不安全的本地存储、硬编码凭据、DLL 劫持、内存操纵和不安全的 API 通信。 | Conduct a thick client application penetration test to identify insecure local storage, hardcoded credentials, DLL hijacking, memory manipulation, and insecure API communication in desktop applications using dnSpy, Procmon, and Burp Suite."
 domain: cybersecurity
 subdomain: penetration-testing
 tags:

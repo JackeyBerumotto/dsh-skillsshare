@@ -1,6 +1,6 @@
 ---
 name: neon-ai-gateway
-description: One API and one credential for frontier and open-source LLMs, built into your Neon branch and powered by Databricks. Use when a user wants to call an LLM, add AI/chat/an agent to their app, route between model providers (OpenAI, Anthropic, Google/Gemini, Meta, Alibaba, DeepSeek), or...
+description: 一个 API、一份凭据即可访问前沿与开源 LLM，内置于你的 Neon 分支并由 Databricks 提供支持。当用户希望调用 LLM、为应用添加 AI/聊天/智能体功能，或在模型提供商之间路由（OpenAI、Anthropic、Google/Gemini、Meta、Alibaba、DeepSeek）时使用…… | One API and one credential for frontier and open-source LLMs, built into your Neon branch and powered by Databricks. Use when a user wants to call an LLM, add AI/chat/an agent to their app, route between model providers (OpenAI, Anthropic, Google/Gemini, Meta, Alibaba, DeepSeek), or...
 risk: unknown
 source: https://github.com/neondatabase/agent-skills/tree/main/skills/neon-ai-gateway
 source_repo: neondatabase/agent-skills

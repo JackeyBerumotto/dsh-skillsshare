@@ -1,7 +1,7 @@
 ---
 name: godot-3d-essentials
 description: >
-  Set up a Godot 4.x 3D scene: Node3D transforms, Camera3D, lighting
+  搭建 Godot 4.x 3D 场景：Node3D 变换、Camera3D、光照（DirectionalLight3D/OmniLight3D）、用于天空/环境光/色调映射/后处理的 WorldEnvironment、MeshInstance3D 材质，以及用于基于图块的 3D 关卡的 GridMap。在 Godot 项目中搭建 3D 场景、放置相机/灯光、配置环境与后处理，或处理 Node3D/.tscn 3D 内容和 GridMap 时使用。 |
   (DirectionalLight3D/OmniLight3D), WorldEnvironment for sky/ambient/tonemap/post,
   MeshInstance3D materials, and GridMap for tile-based 3D levels. Use when building
   a 3D scene in a Godot project, placing cameras/lights, configuring environment and

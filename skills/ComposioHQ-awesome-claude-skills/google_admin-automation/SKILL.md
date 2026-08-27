@@ -1,6 +1,6 @@
 ---
 name: google_admin-automation
-description: "Automate Google Admin tasks via Rube MCP (Composio): user management, org units, groups, and domain administration. Always search tools first for current schemas."
+description: "通过 Rube MCP（Composio）自动化 Google Admin 任务：用户管理、组织单元、群组以及域名管理。务必先搜索工具以获取最新 schema。 | Automate Google Admin tasks via Rube MCP (Composio): user management, org units, groups, and domain administration. Always search tools first for current schemas."
 requires:
   mcp: [rube]
 ---

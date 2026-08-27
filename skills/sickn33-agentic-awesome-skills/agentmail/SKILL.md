@@ -1,6 +1,6 @@
 ---
 name: agentmail
-description: Email infrastructure for AI agents. Create accounts, send/receive emails, manage webhooks, and check karma balance via the AgentMail API.
+description: 面向 AI agent 的邮件基础设施。通过 AgentMail API 创建账户、收发邮件、管理 Webhook 并查询 karma 余额。 | Email infrastructure for AI agents. Create accounts, send/receive emails, manage webhooks, and check karma balance via the AgentMail API.
 risk: safe
 source: community
 ---

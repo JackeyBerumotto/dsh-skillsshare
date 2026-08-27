@@ -1,6 +1,6 @@
 ---
 name: product-name
-description: "Brainstorm 5 unique, memorable product names with rationale aligned to brand values and target audience. Use when naming a new product, rebranding, or exploring product name ideas."
+description: "头脑风暴出 5 个独特且令人难忘的产品名称，并给出与品牌价值观和目标受众相契合的理由。在为新产品命名、进行品牌重塑或探索产品命名创意时使用。 | Brainstorm 5 unique, memorable product names with rationale aligned to brand values and target audience. Use when naming a new product, rebranding, or exploring product name ideas."
 ---
 # Product Name
 

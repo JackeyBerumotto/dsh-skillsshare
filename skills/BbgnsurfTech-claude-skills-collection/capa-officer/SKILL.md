@@ -1,6 +1,6 @@
 ---
 name: capa-officer
-description: Senior CAPA Officer specialist for managing Corrective and Preventive Actions within Quality Management Systems. Provides CAPA process management, root cause analysis, effectiveness verification, and continuous improvement coordination. Use for CAPA investigations, corrective action planning, preventive action implementation, and CAPA system optimization.
+description: 资深 CAPA 官员专家，负责在质量管理体系内管理纠正与预防措施。提供 CAPA 流程管理、根因分析、有效性验证和持续改进协调。用于 CAPA 调查、纠正措施计划、预防措施实施和 CAPA 系统优化。 | Senior CAPA Officer specialist for managing Corrective and Preventive Actions within Quality Management Systems. Provides CAPA process management, root cause analysis, effectiveness verification, and continuous improvement coordination. Use for CAPA investigations, corrective action planning, preventive action implementation, and CAPA system optimization.
 ---
 
 # Senior CAPA Officer

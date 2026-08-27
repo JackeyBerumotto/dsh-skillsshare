@@ -1,6 +1,6 @@
 ---
 name: review-core
-description: Provides review-workflow scaffolding for context, evidence, and output. Use at the start of any detailed review to ensure consistent, comparable findings.
+description: 为评审工作流提供上下文、证据和产出物的脚手架。在任何详细评审开始时使用，以确保结论一致且可比较。 | Provides review-workflow scaffolding for context, evidence, and output. Use at the start of any detailed review to ensure consistent, comparable findings.
 alwaysApply: false
 category: review-patterns
 tags:

@@ -1,6 +1,6 @@
 ---
 name: command-center-ui
-description: Web and App implementation guide for Command Center UI. Trigger when user wants monitoring systems, enterprise dashboards, NOCs, and global maps.
+description: Command Center UI（指挥中心界面）的 Web 与 App 实现指南。当用户需要监控系统、企业仪表盘、NOC 和全球地图时触发。 | Web and App implementation guide for Command Center UI. Trigger when user wants monitoring systems, enterprise dashboards, NOCs, and global maps.
 date_added: "2026-06-17"
 risk: safe
 source: self

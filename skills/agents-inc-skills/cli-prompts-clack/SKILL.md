@@ -1,6 +1,6 @@
 ---
 name: cli-prompts-clack
-description: Beautiful interactive CLI prompts with @clack/prompts and custom prompts with @clack/core
+description: 使用 @clack/prompts 打造美观的交互式 CLI 提示，并用 @clack/core 构建自定义提示 | Beautiful interactive CLI prompts with @clack/prompts and custom prompts with @clack/core
 ---
 
 # Clack CLI Prompts

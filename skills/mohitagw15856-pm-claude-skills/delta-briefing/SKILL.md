@@ -1,6 +1,6 @@
 ---
 name: delta-briefing
-description: "Make a recurring brief report what changed since the last edition instead of restating everything. Use when a weekly or monthly report keeps repeating itself, when setting up a scheduled monitor or digest, or when asked to make a recurring update delta-aware. Produces a changes-first brief plus the state record the next run will diff against."
+description: "让周期性简报只报告自上一期以来发生了什么变化，而不是重述一切。当周报或月报总是重复自身、在搭建定时监控或摘要，或被要求让周期性更新具备增量意识时使用。产出一份以变更优先的简报，以及供下次运行做对比的状态记录。 | Make a recurring brief report what changed since the last edition instead of restating everything. Use when a weekly or monthly report keeps repeating itself, when setting up a scheduled monitor or digest, or when asked to make a recurring update delta-aware. Produces a changes-first brief plus the state record the next run will diff against."
 ---
 
 # Delta Briefing Skill

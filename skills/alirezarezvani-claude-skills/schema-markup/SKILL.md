@@ -1,6 +1,6 @@
 ---
 name: "schema-markup"
-description: "When the user wants to implement, audit, or validate structured data (schema markup) on their website. Use when the user mentions 'structured data,' 'schema.org,' 'JSON-LD,' 'rich results,' 'rich snippets,' 'schema markup,' 'FAQ schema,' 'Product schema,' 'HowTo schema,' or 'structured data errors in Search Console.' Also use when someone asks why their content isn't showing rich results or wants to improve AI search visibility. NOT for general SEO audits (use seo-audit) or technical SEO crawl issues (use site-architecture)."
+description: "当用户想要实现、审计或验证网站上的结构化数据（schema 标记）时使用。当用户提到「structured data」「schema.org」「JSON-LD」「rich results」「rich snippets」「schema markup」「FAQ schema」「Product schema」「HowTo schema」或「structured data errors in Search Console」时也应使用。当有人问为什么内容没有展示富结果，或希望提升 AI 搜索可见度时也应使用。不用于一般 SEO 审计（用 seo-audit）或技术 SEO 抓取问题（用 site-architecture）。 | When the user wants to implement, audit, or validate structured data (schema markup) on their website. Use when the user mentions 'structured data,' 'schema.org,' 'JSON-LD,' 'rich results,' 'rich snippets,' 'schema markup,' 'FAQ schema,' 'Product schema,' 'HowTo schema,' or 'structured data errors in Search Console.' Also use when someone asks why their content isn't showing rich results or wants to improve AI search visibility. NOT for general SEO audits (use seo-audit) or technical SEO crawl issues (use site-architecture)."
 license: MIT
 metadata:
   version: 1.0.0

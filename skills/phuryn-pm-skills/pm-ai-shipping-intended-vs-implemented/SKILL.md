@@ -1,6 +1,6 @@
 ---
 name: intended-vs-implemented
-description: "The method for finding the gap between what a system is supposed to do and what the code actually does — the class of bug generic scanners miss because they have no model of intent. Defines what counts as documented intent, what counts as implementation evidence, which mismatches matter, and how to avoid hand-wavy findings. Use when auditing AI-built code, reviewing access control against documented permissions, or checking whether a codebase matches its own documentation."
+description: "用于发现「系统应当做什么」与「代码实际做了什么」之间差距的方法——这类缺陷是通用扫描器因缺乏意图模型而无法发现的。定义什么算作文档化意图、什么算作实现证据、哪些不匹配值得关注，以及如何避免空泛含糊的结论。在审计 AI 构建的代码、对照文档化权限评审访问控制，或检查代码库是否与其自身文档一致时使用。 | The method for finding the gap between what a system is supposed to do and what the code actually does — the class of bug generic scanners miss because they have no model of intent. Defines what counts as documented intent, what counts as implementation evidence, which mismatches matter, and how to avoid hand-wavy findings. Use when auditing AI-built code, reviewing access control against documented permissions, or checking whether a codebase matches its own documentation."
 ---
 
 # Intended vs. Implemented: Auditing the Gap

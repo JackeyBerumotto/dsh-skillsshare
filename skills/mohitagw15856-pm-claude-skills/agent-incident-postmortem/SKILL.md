@@ -1,6 +1,6 @@
 ---
 name: agent-incident-postmortem
-description: "Run a blameless postmortem for an incident caused by an AI agent or LLM feature — hallucinated facts shipped to users, runaway tool use, prompt injection, cost blowouts, or wrong actions taken autonomously. Use when asked to write up an AI incident, analyse why an agent did something wrong, or produce corrective actions after an LLM failure. Produces a structured postmortem with trace reconstruction, a root-cause layer analysis, and corrective actions including a permanent regression case. For non-AI production incidents use incident-postmortem."
+description: "为由 AI 智能体或 LLM 功能引起的事件运行无责复盘——幻觉事实推送给了用户、失控的工具调用、提示词注入、成本爆炸或自主执行的错误操作。当被要求撰写 AI 事件报告、分析智能体为何做错，或在 LLM 失败后产出纠正措施时使用。产出结构化复盘：轨迹重建、根因分层分析，以及包含永久回归用例的纠正措施。非 AI 生产事件请用 incident-postmortem。 | Run a blameless postmortem for an incident caused by an AI agent or LLM feature — hallucinated facts shipped to users, runaway tool use, prompt injection, cost blowouts, or wrong actions taken autonomously. Use when asked to write up an AI incident, analyse why an agent did something wrong, or produce corrective actions after an LLM failure. Produces a structured postmortem with trace reconstruction, a root-cause layer analysis, and corrective actions including a permanent regression case. For non-AI production incidents use incident-postmortem."
 ---
 
 # Agent Incident Postmortem Skill

@@ -1,6 +1,6 @@
 ---
 name: doodle
-description: Hand-drawn, sketch-like style with doodles, handwritten fonts, and imperfect lines for a playful, informal feel.
+description: 手绘、素描风格，搭配涂鸦、手写字体和不完美的线条，营造俏皮、随性的感觉。 | Hand-drawn, sketch-like style with doodles, handwritten fonts, and imperfect lines for a playful, informal feel.
 license: MIT
 metadata:
   author: typeui.sh

@@ -1,6 +1,6 @@
 ---
 name: code-review-checklist
-description: "Generate a tailored code review checklist for any pull request based on the language, type of change, and risk level. Use when asked to review code, check a PR, review a pull request, or generate a code review checklist. Produces a focused checklist with language-specific checks, risk-level-appropriate depth, and a clear approve/request-changes recommendation."
+description: "根据语言、变更类型与风险级别为任何拉取请求生成量身定制的代码评审清单。当被要求评审代码、检查 PR、评审拉取请求或生成代码评审清单时使用。产出聚焦的清单，含语言特定检查项、与风险级别相称的审查深度，以及明确的批准/要求修改建议。 | Generate a tailored code review checklist for any pull request based on the language, type of change, and risk level. Use when asked to review code, check a PR, review a pull request, or generate a code review checklist. Produces a focused checklist with language-specific checks, risk-level-appropriate depth, and a clear approve/request-changes recommendation."
 ---
 
 # Code Review Checklist Skill

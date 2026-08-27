@@ -1,6 +1,6 @@
 ---
 name: briefing-note
-description: "Write a one-page briefing note that gets a busy principal up to speed fast. Use when asked to brief a minister/executive/official, prepare a briefing note or read-ahead, or summarize an issue for a decision or meeting. Produces a tight, single-page note: purpose, background, key facts/considerations, and a recommendation or the decision sought — scannable in two minutes."
+description: "撰写一页简报，让忙碌的负责人快速掌握情况。在被要求向部长/高管/官员做简报、准备简报或预读材料，或为决策或会议总结议题时使用。产出紧凑的单页简报：目的、背景、关键事实/考量，以及建议或所需决策——两分钟内可扫读完毕。 | Write a one-page briefing note that gets a busy principal up to speed fast. Use when asked to brief a minister/executive/official, prepare a briefing note or read-ahead, or summarize an issue for a decision or meeting. Produces a tight, single-page note: purpose, background, key facts/considerations, and a recommendation or the decision sought — scannable in two minutes."
 ---
 
 # Briefing Note Skill

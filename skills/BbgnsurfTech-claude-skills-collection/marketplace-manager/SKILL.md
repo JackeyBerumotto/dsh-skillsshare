@@ -1,7 +1,5 @@
 ---
-description: Automatically manages marketplace catalog updates, syncs marketplace.json,
-  and handles plugin distribution when user mentions marketplace update, sync catalog,
-  or add to marketplace. specific to claude-code-plugins two-catalog system.
+description: "当用户提到 marketplace update、sync catalog 或 add to marketplace 时，自动管理市场目录更新、同步 marketplace.json 并处理插件分发。专用于 claude-code-plugins 双目录系统。 | Automatically manages marketplace catalog updates, syncs marketplace.json, and handles plugin distribution when user mentions marketplace update, sync catalog, or add to marketplace. specific to claude-code-plugins two-catalog system."
 allowed-tools:
 - Read
 - Write

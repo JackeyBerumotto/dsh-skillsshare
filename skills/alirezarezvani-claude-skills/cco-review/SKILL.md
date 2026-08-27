@@ -1,6 +1,6 @@
 ---
 name: "cco-review"
-description: "/cs:cco-review <plan> — Retention-obsessed Chief Customer Officer interrogation of any plan that touches customer retention, segmentation, CS team sizing, or CS team hiring. Use when gross retention is slipping, before approving CSM headcount, or when deciding which customer segments to keep or fire."
+description: "/cs:cco-review <plan>——极度关注留存的 Chief Customer Officer 对任何涉及客户留存、客户细分、CS 团队规模或 CS 团队招聘计划的审讯。适用于总留存下滑时、批准 CSM 编制之前，或决定保留或放弃哪些客户细分时。 | /cs:cco-review <plan> — Retention-obsessed Chief Customer Officer interrogation of any plan that touches customer retention, segmentation, CS team sizing, or CS team hiring. Use when gross retention is slipping, before approving CSM headcount, or when deciding which customer segments to keep or fire."
 ---
 
 # /cs:cco-review — CCO Forcing Questions

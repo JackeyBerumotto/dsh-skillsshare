@@ -1,6 +1,6 @@
 ---
 name: pricing
-description: When the user wants help with pricing decisions, packaging, or monetization strategy. Also use when the user mentions 'pricing,' 'pricing tiers,' 'freemium,' 'free trial,' 'packaging,' 'price increase,' 'value metric,' 'Van Westendorp,' 'willingness to pay,' 'monetization,' 'how much...
+description: 当用户需要定价决策、打包方案或变现策略方面的帮助时使用。当用户提到「pricing」「pricing tiers」「freemium」「free trial」「packaging」「price increase」「value metric」「Van Westendorp」「willingness to pay」「monetization」「how much……」时也应使用。 | When the user wants help with pricing decisions, packaging, or monetization strategy. Also use when the user mentions 'pricing,' 'pricing tiers,' 'freemium,' 'free trial,' 'packaging,' 'price increase,' 'value metric,' 'Van Westendorp,' 'willingness to pay,' 'monetization,' 'how much...
 risk: unknown
 source: https://github.com/coreyhaines31/marketingskills/tree/main/skills/pricing
 source_repo: coreyhaines31/marketingskills

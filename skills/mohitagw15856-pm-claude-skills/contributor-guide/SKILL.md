@@ -1,6 +1,6 @@
 ---
 name: contributor-guide
-description: "Write a CONTRIBUTING guide that helps people contribute to an open-source project without friction. Use when asked to write a CONTRIBUTING.md, set up contribution guidelines, or make a repo welcoming to contributors. Produces a clear guide: how to set up, the contribution workflow, standards, PR expectations, and how to get help — lowering the barrier to a first PR."
+description: "撰写帮助人们顺畅为开源项目做贡献的 CONTRIBUTING 指南。在被要求编写 CONTRIBUTING.md、制定贡献准则或让仓库对贡献者更友好时使用。产出清晰的指南：环境搭建、贡献工作流、规范、PR 预期以及如何获得帮助——降低提交第一个 PR 的门槛。 | Write a CONTRIBUTING guide that helps people contribute to an open-source project without friction. Use when asked to write a CONTRIBUTING.md, set up contribution guidelines, or make a repo welcoming to contributors. Produces a clear guide: how to set up, the contribution workflow, standards, PR expectations, and how to get help — lowering the barrier to a first PR."
 ---
 
 # Contributor Guide Skill

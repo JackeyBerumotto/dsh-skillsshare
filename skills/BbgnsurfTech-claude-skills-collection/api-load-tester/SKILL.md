@@ -2,7 +2,7 @@
 name: load-testing-apis
 version: 1.0.0
 description: |
-  Execute comprehensive load and stress testing to validate API performance and scalability.
+  执行全面的负载和压力测试以验证 API 的性能与可扩展性。在验证 API 在负载下的性能时使用。触发短语包括「load test the API」「stress test API」或「benchmark API performance」。 |
   Use when validating API performance under load.
   Trigger with phrases like "load test the API", "stress test API", or "benchmark API performance".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(api:load-*)

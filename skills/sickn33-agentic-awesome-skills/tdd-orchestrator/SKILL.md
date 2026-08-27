@@ -1,6 +1,6 @@
 ---
 name: tdd-orchestrator
-description: Master TDD orchestrator specializing in red-green-refactor discipline, multi-agent workflow coordination, and comprehensive test-driven development practices.
+description: TDD 大师编排器，专精红-绿-重构纪律、多代理工作流协调与全面的测试驱动开发实践。 | Master TDD orchestrator specializing in red-green-refactor discipline, multi-agent workflow coordination, and comprehensive test-driven development practices.
 risk: unknown
 source: community
 date_added: '2026-02-27'

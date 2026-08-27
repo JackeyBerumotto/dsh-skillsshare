@@ -1,6 +1,6 @@
 ---
 name: sendblue-api
-description: "Send and receive iMessage, SMS, and RCS from application code via the Sendblue HTTP API — text, media, group messages, send styles, reactions, typing indicators, status callbacks, and inbound webhooks."
+description: "通过 Sendblue HTTP API 从应用代码收发 iMessage、短信和 RCS——文本、媒体、群组消息、发送样式、表情回应、输入状态指示、状态回调和入站 webhook。 | Send and receive iMessage, SMS, and RCS from application code via the Sendblue HTTP API — text, media, group messages, send styles, reactions, typing indicators, status callbacks, and inbound webhooks."
 category: api-integration
 risk: critical
 source: community

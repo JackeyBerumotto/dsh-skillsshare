@@ -1,6 +1,6 @@
 ---
 name: outcome-tracker
-description: "Record the testable predictions inside a decision, then score them against reality later — so frameworks earn trust from outcomes, not vibes. Use when committing to a prioritisation, forecast, or plan (to log what it predicts), when asked to review what actually happened, or to compute how well-calibrated past RICE scores, forecasts, or bets have been. Produces a prediction record at decision time, and a calibration report with per-framework hit rates at review time."
+description: "记录一项决策中可检验的预测，日后用现实为其打分——让框架凭借结果而非感觉赢得信任。在敲定优先级排序、预测或计划（记录其预测内容）、被要求回顾实际发生了什么，或计算过去的 RICE 分数、预测或押注的校准度时使用。在决策时产出预测记录，在复盘时产出含各框架命中率的校准报告。 | Record the testable predictions inside a decision, then score them against reality later — so frameworks earn trust from outcomes, not vibes. Use when committing to a prioritisation, forecast, or plan (to log what it predicts), when asked to review what actually happened, or to compute how well-calibrated past RICE scores, forecasts, or bets have been. Produces a prediction record at decision time, and a calibration report with per-framework hit rates at review time."
 ---
 
 # Outcome Tracker Skill

@@ -1,6 +1,6 @@
 ---
 name: react-component-performance
-description: Diagnose slow React components and suggest targeted performance fixes.
+description: 诊断缓慢的 React 组件并给出针对性的性能修复建议。 | Diagnose slow React components and suggest targeted performance fixes.
 risk: safe
 source: "Dimillian/Skills (MIT)"
 date_added: "2026-03-25"

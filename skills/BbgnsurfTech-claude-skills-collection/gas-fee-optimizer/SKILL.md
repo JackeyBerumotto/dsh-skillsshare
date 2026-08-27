@@ -2,7 +2,7 @@
 name: optimizing-gas-fees
 version: 1.0.0
 description: |
-  Predict optimal gas prices and transaction timing to minimize blockchain transaction costs.
+  预测最优 gas 价格和交易时机，以降低区块链交易成本。在优化区块链交易成本时使用。触发短语如「optimize gas」「check gas prices」或「minimize fees」。 |
   Use when optimizing blockchain transaction costs.
   Trigger with phrases like "optimize gas", "check gas prices", or "minimize fees".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(crypto:gas-*)

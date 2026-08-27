@@ -1,6 +1,6 @@
 ---
 name: mobile-hardware-ble-nfc
-description: BLE scanning/connecting/GATT operations with react-native-ble-plx, NFC tag reading/writing with react-native-nfc-manager, permissions, background mode, battery-efficient patterns
+description: 使用 react-native-ble-plx 进行 BLE 扫描、连接与 GATT 操作，使用 react-native-nfc-manager 读写 NFC 标签，涵盖权限、后台模式与省电模式 | BLE scanning/connecting/GATT operations with react-native-ble-plx, NFC tag reading/writing with react-native-nfc-manager, permissions, background mode, battery-efficient patterns
 ---
 
 # BLE & NFC Patterns

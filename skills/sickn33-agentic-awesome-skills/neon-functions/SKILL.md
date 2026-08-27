@@ -1,6 +1,6 @@
 ---
 name: neon-functions
-description: Long-running, serverless Node.js HTTP functions deployed onto your Neon branch, with DATABASE_URL injected automatically and compute that runs next to your data. Use when a user wants to host an API, an AI agent with long streaming responses, a WebSocket or server-sent-events (SSE)...
+description: 长时运行、无服务器的 Node.js HTTP 函数，部署到你的 Neon 分支，自动注入 DATABASE_URL，算力与数据同处运行。当用户想托管 API、需要长时间流式响应的 AI 代理、WebSocket 或服务器推送事件（SSE）等场景时使用。 | Long-running, serverless Node.js HTTP functions deployed onto your Neon branch, with DATABASE_URL injected automatically and compute that runs next to your data. Use when a user wants to host an API, an AI agent with long streaming responses, a WebSocket or server-sent-events (SSE)...
 risk: unknown
 source: https://github.com/neondatabase/agent-skills/tree/main/skills/neon-functions
 source_repo: neondatabase/agent-skills

@@ -1,11 +1,6 @@
 ---
 name: implementing-device-posture-assessment-in-zero-trust
-description: 'Implementing device posture assessment as a zero trust access control
-  by integrating endpoint health signals from CrowdStrike ZTA, Microsoft Intune, and
-  Jamf into conditional access policies that enforce compliance before granting resource
-  access.
-
-  '
+description: "实现设备姿态评估作为零信任访问控制，将来自 CrowdStrike ZTA、Microsoft Intune 和 Jamf 的终端健康信号集成到条件访问策略中，在授予资源访问权限之前强制执行合规。 | Implementing device posture assessment as a zero trust access control by integrating endpoint health signals from CrowdStrike ZTA, Microsoft Intune, and Jamf into conditional access policies that enforce compliance before granting resource access."
 domain: cybersecurity
 subdomain: zero-trust-architecture
 tags:

@@ -2,7 +2,7 @@
 name: running-mutation-tests
 version: 1.0.0
 description: |
-  Execute mutation testing to evaluate test suite effectiveness.
+  执行变异测试以评估测试套件的有效性。在进行专项测试时使用。触发短语包括「run mutation tests」「test the tests」或「validate test effectiveness」。 |
   Use when performing specialized testing.
   Trigger with phrases like "run mutation tests", "test the tests", or "validate test effectiveness".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(test:mutation-*)

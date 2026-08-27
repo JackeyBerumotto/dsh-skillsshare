@@ -1,6 +1,6 @@
 ---
 name: microsoft-azure-webjobs-extensions-authentication-events-dotnet
-description: Microsoft Entra Authentication Events SDK for .NET. Azure Functions triggers for custom authentication extensions.
+description: 面向 .NET 的 Microsoft Entra 身份验证事件 SDK。用于自定义身份验证扩展的 Azure Functions 触发器。 | Microsoft Entra Authentication Events SDK for .NET. Azure Functions triggers for custom authentication extensions.
 risk: unknown
 source: community
 date_added: '2026-02-27'

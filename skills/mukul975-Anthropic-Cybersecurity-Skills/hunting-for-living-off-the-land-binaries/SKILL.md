@@ -1,7 +1,6 @@
 ---
 name: hunting-for-living-off-the-land-binaries
-description: Proactively hunt for adversary abuse of legitimate system binaries (LOLBins)
-  to execute malicious payloads while evading detection.
+description: "主动狩猎对手滥用合法系统二进制文件（LOLBins）以执行恶意载荷并规避检测的行为。 | Proactively hunt for adversary abuse of legitimate system binaries (LOLBins) to execute malicious payloads while evading detection."
 domain: cybersecurity
 subdomain: threat-hunting
 tags:

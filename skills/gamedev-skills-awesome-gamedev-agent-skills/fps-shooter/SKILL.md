@@ -1,7 +1,7 @@
 ---
 name: fps-shooter
 description: >
-  Build a first-person shooter: move+mouse-look controller, hitscan or projectile shooting, weapons,
+  构建第一人称射击游戏：移动加鼠标视角控制、即时命中或弹道射击、武器、生命值与敌人 AI。适用于 FPS，或调校瞄准手感、击杀耗时、后坐力与散布。 |
   health, and enemy AI. Use for an FPS, or tuning aim feel, time-to-kill, recoil, or spread.
 license: Apache-2.0
 compatibility: Engine-agnostic design patterns; snippets are pseudocode (port to your engine)

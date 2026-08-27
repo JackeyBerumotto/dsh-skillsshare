@@ -1,6 +1,6 @@
 ---
 name: social-ad-campaign
-description: "Plan and write a paid social advertising campaign. Use when asked to build a paid social campaign, create Meta/LinkedIn/TikTok/X ad copy, define a social ad strategy, or plan an advertising funnel across social platforms. Produces a complete campaign plan with audience targeting, ad set structure, copy for each ad format, budget allocation, and measurement framework."
+description: "规划并撰写付费社交媒体广告投放。当被要求搭建付费社交投放、撰写 Meta/LinkedIn/TikTok/X 广告文案、制定社交广告策略，或规划跨社交平台的广告漏斗时使用。产出完整的投放计划，包括受众定向、广告组结构、各广告格式的文案、预算分配和衡量框架。 | Plan and write a paid social advertising campaign. Use when asked to build a paid social campaign, create Meta/LinkedIn/TikTok/X ad copy, define a social ad strategy, or plan an advertising funnel across social platforms. Produces a complete campaign plan with audience targeting, ad set structure, copy for each ad format, budget allocation, and measurement framework."
 ---
 
 # Social Ad Campaign Skill

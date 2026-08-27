@@ -1,6 +1,6 @@
 ---
 name: free-tier-strategy
-description: "Design free tiers that convert to paid without creating resentment or abuse. Trigger phrases: free tier design, freemium model, free trial strategy, free tier limits, developer free plan, open source commercial, feature gating, upgrade triggers, free tier conversion"
+description: "设计能转化为付费且不引发反感或滥用的免费套餐。触发短语：free tier design、freemium model、free trial strategy、free tier limits、developer free plan、open source commercial、feature gating、upgrade triggers、free tier conversion。 | Design free tiers that convert to paid without creating resentment or abuse. Trigger phrases: free tier design, freemium model, free trial strategy, free tier limits, developer free plan, open source commercial, feature gating, upgrade triggers, free tier conversion"
 risk: unknown
 source: https://github.com/jonathimer/devmarketing-skills/tree/main/skills/free-tier-strategy
 source_repo: jonathimer/devmarketing-skills

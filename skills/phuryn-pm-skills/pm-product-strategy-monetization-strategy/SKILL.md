@@ -1,6 +1,6 @@
 ---
 name: monetization-strategy
-description: "Brainstorm 3-5 monetization strategies with audience fit, risks, and validation experiments. Use when exploring revenue models, evaluating pricing strategies, or deciding how to monetize a product."
+description: "头脑风暴出 3 至 5 种变现策略，包含受众匹配度、风险与验证实验。在探索收入模式、评估定价策略，或决定如何为产品变现时使用。 | Brainstorm 3-5 monetization strategies with audience fit, risks, and validation experiments. Use when exploring revenue models, evaluating pricing strategies, or deciding how to monetize a product."
 ---
 # Monetization Strategy
 

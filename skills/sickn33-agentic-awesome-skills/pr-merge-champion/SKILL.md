@@ -1,6 +1,6 @@
 ---
 name: pr-merge-champion
-description: "Optimize pull requests for quick approval and merging by ensuring clean diffs, comprehensive self-reviews, and structured documentation."
+description: "通过确保干净的 diff、全面的自查和结构化文档，优化拉取请求以快速获批和合并。 | Optimize pull requests for quick approval and merging by ensuring clean diffs, comprehensive self-reviews, and structured documentation."
 category: workflow
 risk: safe
 source: self

@@ -1,6 +1,6 @@
 ---
 name: docker-best-practices
-description: Docker best practices including multi-stage builds, compose patterns, image optimization, and security
+description: Docker 最佳实践，包括多阶段构建、compose 模式、镜像优化和安全 | Docker best practices including multi-stage builds, compose patterns, image optimization, and security
 ---
 
 # Docker Best Practices

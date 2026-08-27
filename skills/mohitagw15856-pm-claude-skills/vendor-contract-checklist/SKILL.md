@@ -1,6 +1,6 @@
 ---
 name: vendor-contract-checklist
-description: "Review a vendor/SaaS contract against a practical checklist before you sign. Use when asked to review a vendor contract, check a SaaS/MSA/subscription agreement, flag risky terms, or prepare negotiation points before signing. Produces a structured review — key terms extracted, a risk-flagged checklist (commercial, legal, security, exit), questions to ask, and prioritised negotiation points. Not legal advice."
+description: "在签署前依照实用检查清单审查供应商/SaaS 合同。当被要求审查供应商合同、检查 SaaS/MSA/订阅协议、标记风险条款，或在签署前准备谈判要点时使用。产出结构化审查——提取的关键条款、带风险标记的检查清单（商务、法律、安全、退出）、需要提出的问题，以及按优先级排序的谈判要点。不构成法律意见。 | Review a vendor/SaaS contract against a practical checklist before you sign. Use when asked to review a vendor contract, check a SaaS/MSA/subscription agreement, flag risky terms, or prepare negotiation points before signing. Produces a structured review — key terms extracted, a risk-flagged checklist (commercial, legal, security, exit), questions to ask, and prioritised negotiation points. Not legal advice."
 ---
 
 # Vendor Contract Checklist Skill

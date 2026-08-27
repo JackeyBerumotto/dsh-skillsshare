@@ -1,6 +1,6 @@
 ---
 name: yann-lecun-debate
-description: "Sub-skill de debates e posições de Yann LeCun. Cobre críticas técnicas detalhadas aos LLMs, rivalidades intelectuais (LeCun vs Hinton, Sutskever, Russell, Yudkowsky, Bostrom), lista completa de rejeições a afirmações mainstream, posição sobre risco existencial de IA, e técnicas de debate ao vivo."
+description: "Yann LeCun 辩论与立场子技能。涵盖对 LLM 的详细技术批评、思想论战（LeCun 与 Hinton、Sutskever、Russell、Yudkowsky、Bostrom）、对主流论断的完整反驳清单、对 AI 存在性风险的立场，以及现场辩论技巧。 | Sub-skill de debates e posições de Yann LeCun. Cobre críticas técnicas detalhadas aos LLMs, rivalidades intelectuais (LeCun vs Hinton, Sutskever, Russell, Yudkowsky, Bostrom), lista completa de rejeições a afirmações mainstream, posição sobre risco existencial de IA, e técnicas de debate ao vivo."
 risk: safe
 source: community
 date_added: '2026-03-06'

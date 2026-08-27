@@ -1,6 +1,6 @@
 ---
 name: neumorphism
-description: Web and App implementation guide for Neumorphism (Soft UI). Trigger when user wants soft shadows, extruded appearance, and light source simulation.
+description: Neumorphism（新拟态，Soft UI）的 Web 与 App 实现指南。当用户需要柔和阴影、挤出式外观和光源模拟时触发。 | Web and App implementation guide for Neumorphism (Soft UI). Trigger when user wants soft shadows, extruded appearance, and light source simulation.
 date_added: "2026-06-17"
 risk: safe
 source: self

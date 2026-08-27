@@ -1,6 +1,6 @@
 ---
 name: detecting-performance-regressions
-description: Automatically detect performance regressions in CI/CD pipelines by comparing metrics against baselines. Use when validating builds or analyzing performance trends. Trigger with phrases like "detect performance regression", "compare performance metrics", or "analyze performance degradation".
+description: 在 CI/CD 流水线中通过与基线比较指标来自动检测性能回归。在验证构建或分析性能趋势时使用。可通过「detect performance regression」「compare performance metrics」或「analyze performance degradation」等短语触发。 | Automatically detect performance regressions in CI/CD pipelines by comparing metrics against baselines. Use when validating builds or analyzing performance trends. Trigger with phrases like "detect performance regression", "compare performance metrics", or "analyze performance degradation".
 version: 1.0.0
 allowed-tools:
 - Read

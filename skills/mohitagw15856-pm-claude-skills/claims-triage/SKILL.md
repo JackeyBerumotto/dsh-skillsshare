@@ -1,6 +1,6 @@
 ---
 name: claims-triage
-description: "Triage an incoming insurance claim: check the coverage trigger against policy wording, band severity and complexity, screen for fraud indicators, set a first-pass reserve range, and route with an SLA. Use when asked to triage a claim, review a first notice of loss (FNOL), assess a new claim, decide fast-track vs adjuster routing, or screen a claim for SIU referral. Produces a structured triage note with coverage view, severity band, indicator screen, reserve range, and a routing recommendation."
+description: "对收到的保险理赔进行分诊：对照保单措辞核对承保触发条件、划分严重程度与复杂度等级、筛查欺诈指标、设定初步准备金区间，并按 SLA 完成路由。当被要求分诊理赔、审核首次损失通知（FNOL）、评估新理赔、决定快速通道还是理赔员路由，或筛查是否转介 SIU 时使用。产出结构化分诊记录，包含承保意见、严重程度等级、指标筛查、准备金区间和路由建议。 | Triage an incoming insurance claim: check the coverage trigger against policy wording, band severity and complexity, screen for fraud indicators, set a first-pass reserve range, and route with an SLA. Use when asked to triage a claim, review a first notice of loss (FNOL), assess a new claim, decide fast-track vs adjuster routing, or screen a claim for SIU referral. Produces a structured triage note with coverage view, severity band, indicator screen, reserve range, and a routing recommendation."
 ---
 
 # Claims Triage Skill

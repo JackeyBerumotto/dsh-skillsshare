@@ -1,6 +1,6 @@
 ---
 name: api-graphql-yoga
-description: GraphQL Yoga v5 server, Envelop plugins, subscriptions, error masking
+description: GraphQL Yoga v5 服务器、Envelop 插件、订阅、错误屏蔽 | GraphQL Yoga v5 server, Envelop plugins, subscriptions, error masking
 ---
 
 # GraphQL Yoga Patterns

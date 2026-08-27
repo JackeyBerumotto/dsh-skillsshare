@@ -1,6 +1,6 @@
 ---
 name: mobile-navigation-react-navigation
-description: React Navigation 7+ patterns - static and dynamic APIs, type-safe navigation, stack/tab/drawer navigators, deep linking, authentication flows, screen preloading, header customization
+description: React Navigation 7+ 模式：静态与动态 API、类型安全导航、堆栈/标签/抽屉导航器、深度链接、认证流程、页面预加载、头部自定义。 | React Navigation 7+ patterns - static and dynamic APIs, type-safe navigation, stack/tab/drawer navigators, deep linking, authentication flows, screen preloading, header customization
 ---
 
 # React Navigation Patterns

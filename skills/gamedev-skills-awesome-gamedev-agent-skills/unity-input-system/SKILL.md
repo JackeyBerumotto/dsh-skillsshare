@@ -1,7 +1,7 @@
 ---
 name: unity-input-system
 description: >
-  Wire player input in Unity 6 with the Input System package: Input Actions, action maps,
+  使用 Input System 包在 Unity 6 中接入玩家输入：Input Actions、action map、PlayerInput 组件，以及通过回调或轮询读取数值。当项目包含 .inputactions 资产或 com.unity.inputsystem，或用户提到 Unity Input System、InputAction、action map、PlayerInput、control scheme 或按键重绑时使用。 |
   the PlayerInput component, and reading values via callbacks or polling. Use when the
   project has a .inputactions asset or com.unity.inputsystem, or when the user mentions the
   Unity Input System, InputAction, action maps, PlayerInput, control schemes, or rebinding.

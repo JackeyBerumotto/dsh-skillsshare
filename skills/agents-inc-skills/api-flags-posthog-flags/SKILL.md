@@ -1,6 +1,6 @@
 ---
 name: api-flags-posthog-flags
-description: PostHog feature flags, rollouts, A/B testing. Use when implementing gradual rollouts, A/B tests, kill switches, remote configuration, beta features, or user targeting with PostHog.
+description: PostHog 功能开关、灰度发布与 A/B 测试。在使用 PostHog 实现渐进发布、A/B 测试、紧急开关、远程配置、beta 功能或用户定向时使用。 | PostHog feature flags, rollouts, A/B testing. Use when implementing gradual rollouts, A/B tests, kill switches, remote configuration, beta features, or user targeting with PostHog.
 ---
 
 # Feature Flags with PostHog

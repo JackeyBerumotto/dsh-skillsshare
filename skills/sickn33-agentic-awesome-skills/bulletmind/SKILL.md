@@ -1,6 +1,6 @@
 ---
 name: bulletmind
-description: "Convert input into clean, structured, hierarchical bullet points for summarization, note-taking, and structured thinking."
+description: "将输入转换为整洁、结构化、层次分明的要点列表，用于摘要、笔记和结构化思考。 | Convert input into clean, structured, hierarchical bullet points for summarization, note-taking, and structured thinking."
 category: writing
 risk: safe
 source: community

@@ -1,6 +1,6 @@
 ---
 name: dependency-verification
-description: Verifies a package exists before install, defending against hallucination and slopsquatting. Use when adding, recommending, or installing a package.
+description: 在安装前验证软件包是否真实存在，防范幻觉和抢注仿冒（slopsquatting）。在添加、推荐或安装软件包时使用。 | Verifies a package exists before install, defending against hallucination and slopsquatting. Use when adding, recommending, or installing a package.
 alwaysApply: false
 category: workflow-methodology
 tags:

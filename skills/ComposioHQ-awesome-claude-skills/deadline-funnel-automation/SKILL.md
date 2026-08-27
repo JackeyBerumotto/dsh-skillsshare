@@ -1,6 +1,6 @@
 ---
 name: deadline-funnel-automation
-description: "Automate Deadline Funnel tasks via Rube MCP (Composio). Always search tools first for current schemas."
+description: "通过 Rube MCP（Composio）自动化 Deadline Funnel 任务。务必先搜索工具以获取最新 schema。 | Automate Deadline Funnel tasks via Rube MCP (Composio). Always search tools first for current schemas."
 requires:
   mcp: [rube]
 ---

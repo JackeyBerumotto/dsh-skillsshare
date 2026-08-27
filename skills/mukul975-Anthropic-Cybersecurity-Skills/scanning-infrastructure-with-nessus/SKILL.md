@@ -1,8 +1,6 @@
 ---
 name: scanning-infrastructure-with-nessus
-description: Tenable Nessus is the industry-leading vulnerability scanner used to
-  identify security weaknesses across network infrastructure including servers, workstations,
-  network devices, and operating systems.
+description: "Tenable Nessus 是业界领先的漏洞扫描器，用于识别服务器、工作站、网络设备与操作系统等网络基础设施中的安全弱点。 | Tenable Nessus is the industry-leading vulnerability scanner used to identify security weaknesses across network infrastructure including servers, workstations, network devices, and operating systems."
 domain: cybersecurity
 subdomain: vulnerability-management
 tags:

@@ -1,6 +1,6 @@
 ---
 name: "senior-security"
-description: Use when the user asks for STRIDE threat modeling, DREAD risk scoring, data-flow-diagram threat analysis, or a quick secret scan — or when a security request needs routing to the right specialist skill (pen-testing, incident response, cloud posture, red team, AI security, threat hunting, secure code review). This skill owns threat modeling; everything else routes to a sibling.
+description: 当用户要求 STRIDE 威胁建模、DREAD 风险评分、数据流图威胁分析或快速密钥扫描时使用——或当安全请求需要路由到合适的专业技能（渗透测试、事件响应、云态势、红队、AI 安全、威胁狩猎、安全代码评审）时。此技能负责威胁建模；其余一律路由到兄弟技能。 | Use when the user asks for STRIDE threat modeling, DREAD risk scoring, data-flow-diagram threat analysis, or a quick secret scan — or when a security request needs routing to the right specialist skill (pen-testing, incident response, cloud posture, red team, AI security, threat hunting, secure code review). This skill owns threat modeling; everything else routes to a sibling.
 ---
 
 # Senior Security Engineer — Threat Modeling + Security Router

@@ -1,7 +1,6 @@
 ---
 name: performing-bluetooth-security-assessment
-description: Assess Bluetooth Low Energy device security by scanning, enumerating
-  GATT services, and detecting vulnerabilities
+description: "通过扫描、枚举 GATT 服务和检测漏洞来评估低功耗蓝牙设备的安全性 | Assess Bluetooth Low Energy device security by scanning, enumerating GATT services, and detecting vulnerabilities"
 domain: cybersecurity
 subdomain: wireless-security
 tags:

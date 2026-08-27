@@ -1,6 +1,6 @@
 ---
 name: community-building
-description: When the user wants to build, grow, or improve a developer community on Discord, Slack, or forums. Trigger phrases include "developer community," "Discord server," "Slack community," "community strategy," "community engagement," "community moderation," "community growth," or "community...
+description: 当用户想要在 Discord、Slack 或论坛上构建、发展或改进开发者社区时使用。触发词包括「developer community」「Discord server」「Slack community」「community strategy」「community engagement」「community moderation」「community growth」或「community……」。 | When the user wants to build, grow, or improve a developer community on Discord, Slack, or forums. Trigger phrases include "developer community," "Discord server," "Slack community," "community strategy," "community engagement," "community moderation," "community growth," or "community...
 risk: unknown
 source: https://github.com/jonathimer/devmarketing-skills/tree/main/skills/community-building
 source_repo: jonathimer/devmarketing-skills

@@ -1,6 +1,6 @@
 ---
 name: azure-search-documents-py
-description: Azure AI Search SDK for Python. Use for vector search, hybrid search, semantic ranking, indexing, and skillsets.
+description: 适用于 Python 的 Azure AI Search SDK。用于向量搜索、混合搜索、语义排序、索引和技能集。 | Azure AI Search SDK for Python. Use for vector search, hybrid search, semantic ranking, indexing, and skillsets.
 risk: unknown
 source: community
 date_added: '2026-02-27'

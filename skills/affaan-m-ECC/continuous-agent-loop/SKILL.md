@@ -1,6 +1,6 @@
 ---
 name: continuous-agent-loop
-description: Patterns for continuous autonomous agent loops with quality gates, evals, and recovery controls.
+description: 持续自主智能体循环的模式，包含质量门、评估和恢复控制。 | Patterns for continuous autonomous agent loops with quality gates, evals, and recovery controls.
 metadata:
   origin: ECC
 ---

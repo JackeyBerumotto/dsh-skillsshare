@@ -1,6 +1,6 @@
 ---
 name: agentkit-seo
-description: Route broad or ambiguous AgentKit SEO work to the right module while keeping context scoped. Use when a request spans multiple surfaces, asks for overall digital-presence strategy, involves provider or install architecture, needs agent-context planning, or the correct platform skill is unclear.
+description: 将宽泛或模糊的 AgentKit SEO 工作路由到合适的模块，同时保持上下文范围可控。当请求跨越多个载体、要求整体数字存在策略、涉及提供商或安装架构、需要智能体上下文规划，或不确定哪个平台技能正确时使用。 | Route broad or ambiguous AgentKit SEO work to the right module while keeping context scoped. Use when a request spans multiple surfaces, asks for overall digital-presence strategy, involves provider or install architecture, needs agent-context planning, or the correct platform skill is unclear.
 user-invocable: true
 argument: The specific SEO optimization task or platform to focus on (e.g., GitHub, LinkedIn, CV, etc.)
 ---

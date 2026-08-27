@@ -1,6 +1,6 @@
 ---
 name: web-styling-tailwind
-description: Tailwind CSS v4 - utility-first CSS framework with CSS-first configuration
+description: Tailwind CSS v4：采用 CSS 优先配置的 utility-first CSS 框架 | Tailwind CSS v4 - utility-first CSS framework with CSS-first configuration
 ---
 
 # Tailwind CSS v4+ Patterns

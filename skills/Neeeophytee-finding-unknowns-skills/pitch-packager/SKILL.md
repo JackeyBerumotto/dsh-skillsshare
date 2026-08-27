@@ -1,6 +1,6 @@
 ---
 name: pitch-packager
-description: Package a finished piece of work (spec, prototype, implementation notes) into a single document that gets reviewers to understanding and approval fast. Use when the user needs buy-in, a review, or a shareable summary of what was built and why.
+description: 将一件已完成的工作（规格、原型、实现笔记）打包成单一文档，让评审者快速理解并批准。当用户需要获得认可、进行评审，或获得一份关于构建了什么及其原因的可分享摘要时使用。 | Package a finished piece of work (spec, prototype, implementation notes) into a single document that gets reviewers to understanding and approval fast. Use when the user needs buy-in, a review, or a shareable summary of what was built and why.
 ---
 
 # Pitch packager

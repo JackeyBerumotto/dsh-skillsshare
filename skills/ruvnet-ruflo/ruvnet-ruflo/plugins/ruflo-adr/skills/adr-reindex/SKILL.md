@@ -1,6 +1,6 @@
 ---
 name: adr-reindex
-description: Reconcile the ADR index against a DELETED ADR file or relation line by dropping and rebuilding adr-patterns + adr-edges from scratch (scripts/reindex.mjs). Use when adr-index alone leaves stale rows behind.
+description: 在 ADR 文件或关系行被删除后，通过彻底清空并从零重建 adr-patterns 与 adr-edges（scripts/reindex.mjs）来校准 ADR 索引。当仅靠 adr-index 会残留过期行时使用。 | Reconcile the ADR index against a DELETED ADR file or relation line by dropping and rebuilding adr-patterns + adr-edges from scratch (scripts/reindex.mjs). Use when adr-index alone leaves stale rows behind.
 argument-hint: ""
 allowed-tools: Bash mcp__claude-flow__memory_list
 ---

@@ -1,6 +1,6 @@
 ---
 name: leiloeiro-risco
-description: Analise de risco em leiloes de imoveis. Score 36 pontos, riscos juridicos/financeiros/operacionais, stress test 4 cenarios e ROI ponderado por risco.
+description: 房产拍卖风险评估。36 项评分、法律／财务／运营风险、4 种情景压力测试以及按风险加权的 ROI。 | Analise de risco em leiloes de imoveis. Score 36 pontos, riscos juridicos/financeiros/operacionais, stress test 4 cenarios e ROI ponderado por risco.
 risk: safe
 source: community
 date_added: '2026-03-06'

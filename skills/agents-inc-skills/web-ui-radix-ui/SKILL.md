@@ -1,6 +1,6 @@
 ---
 name: web-ui-radix-ui
-description: Unstyled accessible UI primitives
+description: 无样式的可访问 UI 原语组件。 | Unstyled accessible UI primitives
 ---
 
 # Radix UI Primitives

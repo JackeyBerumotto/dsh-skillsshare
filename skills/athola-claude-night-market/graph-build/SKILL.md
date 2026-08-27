@@ -1,6 +1,6 @@
 ---
 name: graph-build
-description: Builds or updates the code knowledge graph via tree-sitter AST and SQLite. Use when setting up the graph before search or blast-radius analysis.
+description: 通过 tree-sitter AST 和 SQLite 构建或更新代码知识图谱。当在搜索或影响面分析之前搭建图谱时使用。 | Builds or updates the code knowledge graph via tree-sitter AST and SQLite. Use when setting up the graph before search or blast-radius analysis.
 model_hint: standard
 ---
 

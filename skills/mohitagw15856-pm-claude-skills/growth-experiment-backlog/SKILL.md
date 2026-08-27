@@ -1,6 +1,6 @@
 ---
 name: growth-experiment-backlog
-description: "Build and prioritise a growth experiment backlog. Use when asked to plan growth experiments, prioritise growth ideas, set up a test backlog, or run a growth process/sprint. Produces a prioritised backlog — each experiment as a hypothesis with the metric it moves, an ICE/PXL score, the minimum test design, and a definition of done; plus the cadence to run it."
+description: "构建增长实验待办列表并排定优先级。当被要求规划增长实验、为增长想法排序、建立测试待办列表，或运行增长流程或增长冲刺时使用。产出按优先级排序的待办列表——每个实验都是一个假设，包含其所影响的指标、ICE 或 PXL 得分、最小测试设计和完成定义——并附上执行节奏。 | Build and prioritise a growth experiment backlog. Use when asked to plan growth experiments, prioritise growth ideas, set up a test backlog, or run a growth process/sprint. Produces a prioritised backlog — each experiment as a hypothesis with the metric it moves, an ICE/PXL score, the minimum test design, and a definition of done; plus the cadence to run it."
 ---
 
 # Growth Experiment Backlog Skill

@@ -1,6 +1,6 @@
 ---
 name: react-performance
-description: React and Next.js performance optimization patterns adapted from Vercel Engineering's React Best Practices (https://github.com/vercel-labs/agent-skills). Organizes 70+ rules across 8 priority categories — waterfalls, bundle size, server-side, client fetching, re-render, rendering, JS micro-perf, advanced. Use when writing, reviewing, or refactoring React/Next.js code for performance.
+description: 改编自 Vercel Engineering 的 React 最佳实践（https://github.com/vercel-labs/agent-skills）的 React 与 Next.js 性能优化模式。将 70 余条规则组织为 8 个优先级类别——瀑布式请求、包体积、服务端、客户端获取、重复渲染、渲染、JS 微性能、进阶。在为性能编写、审查或重构 React/Next.js 代码时使用。 | React and Next.js performance optimization patterns adapted from Vercel Engineering's React Best Practices (https://github.com/vercel-labs/agent-skills). Organizes 70+ rules across 8 priority categories — waterfalls, bundle size, server-side, client fetching, re-render, rendering, JS micro-perf, advanced. Use when writing, reviewing, or refactoring React/Next.js code for performance.
 metadata:
   origin: ECC
 ---

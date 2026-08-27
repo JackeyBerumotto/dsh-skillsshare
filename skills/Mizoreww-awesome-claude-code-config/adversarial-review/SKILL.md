@@ -1,7 +1,7 @@
 ---
 name: adversarial-review
 description: >-
-  Adversarial code review using the opposite model. Spawns 1–3 reviewers on the
+  使用对立模型进行对抗式代码评审。在对立模型上派生 1–3 名评审员（Claude 派生 Codex，Codex 派生 Claude），从不同的批判视角挑战工作成果。触发词：「adversarial review」。 |
   opposing model (Claude spawns Codex, Codex spawns Claude) to challenge work from
   distinct critical lenses. Triggers: "adversarial review".
 schedule: "After cook sessions that produce large diffs (200+ lines), implement plan phases, or complete a planning session"

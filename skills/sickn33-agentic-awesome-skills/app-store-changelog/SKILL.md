@@ -1,6 +1,6 @@
 ---
 name: app-store-changelog
-description: Generate user-facing App Store release notes from git history since the last tag.
+description: 根据上个 tag 以来的 git 历史生成面向用户的 App Store 发布说明。 | Generate user-facing App Store release notes from git history since the last tag.
 risk: safe
 source: "Dimillian/Skills (MIT)"
 date_added: "2026-03-25"

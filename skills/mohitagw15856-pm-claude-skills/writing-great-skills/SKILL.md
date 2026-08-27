@@ -1,6 +1,6 @@
 ---
 name: writing-great-skills
-description: "Author a high-quality Agent Skill (SKILL.md) that an AI reliably triggers and executes well — strong frontmatter, a sharp description with trigger phrases, a clear output contract, quality checks, and anti-patterns. Use when asked to write a skill, create a SKILL.md, improve a skill, review a skill for quality, or contribute to a skills library. Produces a complete, SkillCheck-passing SKILL.md plus a short rationale for the key choices."
+description: "编写高质量的 Agent Skill（SKILL.md），让 AI 能够可靠触发并良好执行——包括完善的前言、带触发短语的精炼描述、清晰的输出契约、质量检查和反模式。当被要求编写 skill、创建 SKILL.md、改进 skill、审查 skill 质量或向 skill 库贡献时使用。产出一份完整且通过 SkillCheck 的 SKILL.md，并附关键选择的简要说明。 | Author a high-quality Agent Skill (SKILL.md) that an AI reliably triggers and executes well — strong frontmatter, a sharp description with trigger phrases, a clear output contract, quality checks, and anti-patterns. Use when asked to write a skill, create a SKILL.md, improve a skill, review a skill for quality, or contribute to a skills library. Produces a complete, SkillCheck-passing SKILL.md plus a short rationale for the key choices."
 ---
 
 # Writing Great Skills Skill

@@ -1,6 +1,6 @@
 ---
 name: verification-before-completion
-description: "Verify work actually meets its brief BEFORE declaring it done — a structured self-review pass that catches the gaps, unmet requirements, and untested claims that 'looks finished' hides. Use before handing over any deliverable (document, code, analysis, plan), when past work kept coming back with 'you missed…', or as the standing final step of any multi-step task. Produces the verified deliverable plus a short verification record: what was checked, what was found and fixed, what remains open."
+description: "在宣布完成之前，先验证工作是否真正满足任务要求——一次结构化的自查，找出「看起来已完成」背后隐藏的缺口、未满足的要求和未经检验的断言。适用于交付任何成果（文档、代码、分析、计划）之前、过往成果一再被退回「你漏掉了……」时，或作为任何多步骤任务的固定收尾环节。产出经过验证的成果和一份简短验证记录：检查了什么、发现并修复了什么、还有哪些遗留问题。 | Verify work actually meets its brief BEFORE declaring it done — a structured self-review pass that catches the gaps, unmet requirements, and untested claims that 'looks finished' hides. Use before handing over any deliverable (document, code, analysis, plan), when past work kept coming back with 'you missed…', or as the standing final step of any multi-step task. Produces the verified deliverable plus a short verification record: what was checked, what was found and fixed, what remains open."
 ---
 
 # Verification Before Completion Skill

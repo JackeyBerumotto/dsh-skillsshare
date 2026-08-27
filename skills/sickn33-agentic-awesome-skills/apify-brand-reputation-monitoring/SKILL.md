@@ -1,6 +1,6 @@
 ---
 name: apify-brand-reputation-monitoring
-description: "Scrape reviews, ratings, and brand mentions from multiple platforms using Apify Actors."
+description: "使用 Apify Actor 从多个平台抓取评论、评分和品牌提及。 | Scrape reviews, ratings, and brand mentions from multiple platforms using Apify Actors."
 risk: unknown
 source: community
 ---

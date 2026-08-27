@@ -1,6 +1,6 @@
 ---
 name: scientific-writing
-description: Core skill for the deep research and writing tool. Write scientific manuscripts in full paragraphs (never bullet points). Use two-stage process with (1) section outlines with key points using research-lookup then (2) convert to flowing prose. IMRAD structure, citations (APA/AMA/Vancouver), figures/tables, reporting guidelines (CONSORT/STROBE/PRISMA), for research papers and journal submissions.
+description: 深度研究与写作工具的核心技能。以完整段落撰写科学手稿（绝不使用要点列表）。采用两阶段流程：（1）借助 research-lookup 生成含要点的分节大纲，然后（2）转换为流畅的成段文字。面向研究论文和期刊投稿，支持 IMRAD 结构、引用格式（APA/AMA/Vancouver）、图表以及报告规范（CONSORT/STROBE/PRISMA）。 | Core skill for the deep research and writing tool. Write scientific manuscripts in full paragraphs (never bullet points). Use two-stage process with (1) section outlines with key points using research-lookup then (2) convert to flowing prose. IMRAD structure, citations (APA/AMA/Vancouver), figures/tables, reporting guidelines (CONSORT/STROBE/PRISMA), for research papers and journal submissions.
 allowed-tools: Read Write Edit Bash
 license: MIT license
 required_environment_variables: [{"name": "OPENROUTER_API_KEY", "prompt": "OpenRouter API key for the skill's LLM-powered steps.", "required_for": "optional features"}]

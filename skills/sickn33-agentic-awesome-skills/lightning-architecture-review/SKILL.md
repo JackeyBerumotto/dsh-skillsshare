@@ -1,6 +1,6 @@
 ---
 name: lightning-architecture-review
-description: Review Bitcoin Lightning Network protocol designs, compare channel factory approaches, and analyze Layer 2 scaling tradeoffs. Covers trust models, on-chain footprint, consensus requirements, HTLC/PTLC compatibility, liveness, and watchtower support.
+description: 审查比特币闪电网络协议设计，比较通道工厂方案，分析二层扩容权衡。涵盖信任模型、链上足迹、共识要求、HTLC/PTLC 兼容性、活性以及瞭望塔支持。 | Review Bitcoin Lightning Network protocol designs, compare channel factory approaches, and analyze Layer 2 scaling tradeoffs. Covers trust models, on-chain footprint, consensus requirements, HTLC/PTLC compatibility, liveness, and watchtower support.
 risk: safe
 source: community
 date_added: '2026-03-03'

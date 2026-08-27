@@ -1,6 +1,6 @@
 ---
 name: monte-carlo-performance-diagnosis
-description: "Diagnoses pipeline performance issues -- slow jobs, expensive queries, latency trends -- using Monte Carlo's cross-platform observability. Uses a tiered investigation approach: discover problems, bridge to affected tables, then drill into root causes. Activates when a user asks about..."
+description: "使用 Monte Carlo 的跨平台可观测性诊断流水线性能问题：缓慢任务、昂贵查询、延迟趋势。采用分层调查方法：先发现问题，再关联到受影响的表，然后深入根因。当用户询问相关问题时激活。 | Diagnoses pipeline performance issues -- slow jobs, expensive queries, latency trends -- using Monte Carlo's cross-platform observability. Uses a tiered investigation approach: discover problems, bridge to affected tables, then drill into root causes. Activates when a user asks about..."
 risk: unknown
 source: https://github.com/monte-carlo-data/mc-agent-toolkit/tree/main/skills/performance-diagnosis
 source_repo: monte-carlo-data/mc-agent-toolkit

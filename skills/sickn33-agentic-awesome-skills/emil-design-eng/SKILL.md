@@ -1,6 +1,6 @@
 ---
 name: emil-design-eng
-description: "Use when designing or reviewing polished product UI with Emil Kowalski-inspired animation, interaction, and component craft guidance."
+description: "在设计或评审精美的产品 UI 时使用，提供受 Emil Kowalski 启发的动画、交互和组件工艺指导。 | Use when designing or reviewing polished product UI with Emil Kowalski-inspired animation, interaction, and component craft guidance."
 category: frontend
 risk: safe
 source: community

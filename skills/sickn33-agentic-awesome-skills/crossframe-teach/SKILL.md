@@ -1,6 +1,6 @@
 ---
 name: crossframe-teach
-description: "Use when CrossFrame Suite routes explicit Chinese teaching of CrossFrame concepts, misreading boundaries, plain-language examples, signals, or exercises."
+description: "当 CrossFrame Suite 路由到以中文明确讲授 CrossFrame 概念、误读边界、通俗示例、信号或练习时使用。 | Use when CrossFrame Suite routes explicit Chinese teaching of CrossFrame concepts, misreading boundaries, plain-language examples, signals, or exercises."
 category: content
 risk: safe
 source: community

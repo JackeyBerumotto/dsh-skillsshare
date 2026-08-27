@@ -1,6 +1,6 @@
 ---
 name: rust-systems
-description: Rust systems programming patterns including ownership, traits, async runtime, error handling, and unsafe guidelines
+description: Rust 系统编程模式，涵盖所有权、trait、异步运行时、错误处理和 unsafe 准则。 | Rust systems programming patterns including ownership, traits, async runtime, error handling, and unsafe guidelines
 ---
 
 # Rust Systems

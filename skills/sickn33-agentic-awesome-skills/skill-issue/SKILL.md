@@ -1,7 +1,7 @@
 ---
 id: skill-issue
 name: skill-issue
-description: "Find out why a coding-agent skill won't fire — grade each SKILL.md A–F on activation, simulate which skill a prompt triggers, and flag collisions where one silently shadows another."
+description: "找出某个编码智能体技能不肯触发的原因——为每个 SKILL.md 的激活能力打 A–F 等级，模拟某条提示会触发哪个技能，并标记一个技能默默遮蔽另一个的冲突。 | Find out why a coding-agent skill won't fire — grade each SKILL.md A–F on activation, simulate which skill a prompt triggers, and flag collisions where one silently shadows another."
 category: meta
 risk: safe
 source: community

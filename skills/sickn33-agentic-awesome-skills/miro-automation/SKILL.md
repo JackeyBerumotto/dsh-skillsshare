@@ -1,6 +1,6 @@
 ---
 name: miro-automation
-description: "Automate Miro tasks via Rube MCP (Composio): boards, items, sticky notes, frames, sharing, connectors. Always search tools first for current schemas."
+description: "通过 Rube MCP（Composio）自动化 Miro 任务：白板、项目、便签、框架、共享和连接线。务必先搜索工具以获取最新 schema。 | Automate Miro tasks via Rube MCP (Composio): boards, items, sticky notes, frames, sharing, connectors. Always search tools first for current schemas."
 risk: critical
 source: community
 date_added: "2026-02-27"

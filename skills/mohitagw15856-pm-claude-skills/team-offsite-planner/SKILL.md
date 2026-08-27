@@ -1,6 +1,6 @@
 ---
 name: team-offsite-planner
-description: "Plan a team offsite from goals to full agenda. Use when asked to plan a team offsite, away day, team retreat, quarterly offsite, or team-building event. Produces a full agenda, session designs, facilitation notes, and logistics checklist."
+description: "从目标到完整议程规划团队外出活动。当被要求规划团队外出日、团建度假、季度 offsite 或团队建设活动时使用。产出完整议程、环节设计、引导说明和后勤清单。 | Plan a team offsite from goals to full agenda. Use when asked to plan a team offsite, away day, team retreat, quarterly offsite, or team-building event. Produces a full agenda, session designs, facilitation notes, and logistics checklist."
 ---
 
 # Team Offsite Planner Skill

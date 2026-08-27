@@ -1,6 +1,6 @@
 ---
 name: polis-protocol-a-self-optimizing-city-of-agents
-description: "Polis Protocol: A Self-Optimizing City of Agents"
+description: "Polis 协议：自我优化的智能体之城 | Polis Protocol: A Self-Optimizing City of Agents"
 risk: unknown
 source: https://github.com/yehudalevy-collab/polis-protocol/tree/main/
 source_repo: yehudalevy-collab/polis-protocol

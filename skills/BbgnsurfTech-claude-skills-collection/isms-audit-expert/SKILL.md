@@ -1,6 +1,6 @@
 ---
 name: isms-audit-expert
-description: Senior ISMS Audit Expert for internal and external information security management system auditing. Provides ISO 27001 audit expertise, security audit program management, security control assessment, and compliance verification. Use for ISMS internal auditing, external audit preparation, security control testing, and ISO 27001 certification support.
+description: 资深 ISMS 审计专家，负责信息安全管理体系的内外部审计。提供 ISO 27001 审计专长、安全审计项目管理、安全控制评估和合规验证。用于 ISMS 内部审计、外部审计准备、安全控制测试和 ISO 27001 认证支持。 | Senior ISMS Audit Expert for internal and external information security management system auditing. Provides ISO 27001 audit expertise, security audit program management, security control assessment, and compliance verification. Use for ISMS internal auditing, external audit preparation, security control testing, and ISO 27001 certification support.
 ---
 
 # Senior ISMS Audit Expert

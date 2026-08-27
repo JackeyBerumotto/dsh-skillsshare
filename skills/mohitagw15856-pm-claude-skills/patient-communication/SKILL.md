@@ -1,6 +1,6 @@
 ---
 name: patient-communication
-description: "Write clear, plain-English patient communications for any healthcare context. Use when asked to write a patient letter, patient information leaflet, appointment letter, test-results letter, discharge summary for patients, or health education content. Produces an accessible patient communication at an appropriate reading level with clear next steps."
+description: "为任何医疗场景撰写清晰、平实的患者沟通文案。在被要求编写患者信函、患者须知、预约信、检查结果信、面向患者的出院小结或健康科普内容时使用。产出阅读难度适当、后续步骤清晰的无障碍患者沟通文案。 | Write clear, plain-English patient communications for any healthcare context. Use when asked to write a patient letter, patient information leaflet, appointment letter, test-results letter, discharge summary for patients, or health education content. Produces an accessible patient communication at an appropriate reading level with clear next steps."
 ---
 
 # Patient Communication Skill

@@ -1,6 +1,6 @@
 ---
 name: atlas-contract
-description: "Goal-integrity skill. Use for backend/API/persistence, preserve/do-not-change, tests/validation, mocks, rework, multi-part requests. Emits Goal Contracts, Deviation Notices, Phase Checks, Final Audits. Skip for Q&A or trivial edits."
+description: "目标完整性技能。用于后端/API/持久层、保留不改动、测试验证、mock、返工、多部分请求。产出目标契约、偏差通知、阶段检查、最终审计。问答或琐碎编辑时跳过。 | Goal-integrity skill. Use for backend/API/persistence, preserve/do-not-change, tests/validation, mocks, rework, multi-part requests. Emits Goal Contracts, Deviation Notices, Phase Checks, Final Audits. Skip for Q&A or trivial edits."
 risk: critical
 source: community
 source_repo: wede-wx/atlas

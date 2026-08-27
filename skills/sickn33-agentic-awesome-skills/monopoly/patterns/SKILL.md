@@ -1,6 +1,6 @@
 ---
 name: patterns
-description: Reference document for monopoly patterns.
+description: 垄断模式的参考文档。 | Reference document for monopoly patterns.
 source: community
 risk: safe
 reports-to: monopoly

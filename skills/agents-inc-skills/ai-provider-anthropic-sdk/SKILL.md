@@ -1,6 +1,6 @@
 ---
 name: ai-provider-anthropic-sdk
-description: Official Anthropic SDK patterns for TypeScript/Node.js — client setup, Messages API, streaming, tool use, vision, extended thinking, structured outputs, prompt caching, batch API, and production best practices
+description: TypeScript/Node.js 的 Anthropic 官方 SDK 模式：客户端设置、Messages API、流式传输、工具使用、视觉、扩展思考、结构化输出、提示缓存、批量 API 和生产最佳实践 | Official Anthropic SDK patterns for TypeScript/Node.js — client setup, Messages API, streaming, tool use, vision, extended thinking, structured outputs, prompt caching, batch API, and production best practices
 ---
 
 # Anthropic SDK Patterns

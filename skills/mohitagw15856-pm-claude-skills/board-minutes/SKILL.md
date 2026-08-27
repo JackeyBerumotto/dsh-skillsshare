@@ -1,6 +1,6 @@
 ---
 name: board-minutes
-description: "Write formal board meeting minutes from an agenda, notes, transcript, or discussion summary. Use when asked to draft board minutes, governance minutes, meeting minutes for a board, or a formal record of decisions and actions. Produces structured board minutes with attendees, agenda items, resolutions, decisions, action register, and approval-ready wording."
+description: "根据议程、笔记、转写稿或讨论摘要撰写正式的董事会会议纪要。在被要求起草董事会纪要、治理纪要、董事会会议记录，或决策与行动的正式记录时使用。产出结构化董事会纪要，包含出席者、议程项、决议、决策、行动登记和可供批准的措辞。 | Write formal board meeting minutes from an agenda, notes, transcript, or discussion summary. Use when asked to draft board minutes, governance minutes, meeting minutes for a board, or a formal record of decisions and actions. Produces structured board minutes with attendees, agenda items, resolutions, decisions, action register, and approval-ready wording."
 ---
 
 # Board Minutes Skill

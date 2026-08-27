@@ -1,6 +1,6 @@
 ---
 name: witness
-description: Sign, verify, and track fix-marker regressions over time using a deterministic Ed25519 witness manifest. Works in any project — clone the toolkit, run init, register fixes, regen on each release.
+description: 使用确定性 Ed25519 见证清单，对修复标记的回归进行签名、验证和长期跟踪。适用于任何项目——克隆工具包、运行 init、注册修复、每次发布时重新生成。 | Sign, verify, and track fix-marker regressions over time using a deterministic Ed25519 witness manifest. Works in any project — clone the toolkit, run init, register fixes, regen on each release.
 argument-hint: "init|regen|verify|history [...]"
 allowed-tools: Bash(node *), Read, Write, Edit
 ---

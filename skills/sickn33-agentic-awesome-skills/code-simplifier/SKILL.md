@@ -1,6 +1,6 @@
 ---
 name: code-simplifier
-description: Simplifies and refines code for clarity, consistency, and maintainability while preserving all functionality. Use when asked to "simplify code", "clean up code", "refactor for clarity", "improve readability", or review recently modified code for elegance. Focuses on project-specific best practices.
+description: 在保留全部功能的前提下，为清晰性、一致性和可维护性简化并精炼代码。当被要求「简化代码」「清理代码」「为清晰性重构」「提升可读性」，或评审近期修改代码的优雅度时使用。专注于项目专属的最佳实践。 | Simplifies and refines code for clarity, consistency, and maintainability while preserving all functionality. Use when asked to "simplify code", "clean up code", "refactor for clarity", "improve readability", or review recently modified code for elegance. Focuses on project-specific best practices.
 risk: unknown
 source: community
 ---

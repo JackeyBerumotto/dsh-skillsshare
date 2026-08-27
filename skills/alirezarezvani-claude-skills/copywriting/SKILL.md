@@ -1,6 +1,6 @@
 ---
 name: "copywriting"
-description: "When the user wants to write, rewrite, or improve marketing copy for any page — including homepage, landing pages, pricing pages, feature pages, about pages, or product pages. Also use when the user says \"write copy for,\" \"improve this copy,\" \"rewrite this page,\" \"marketing copy,\" \"headline help,\" or \"CTA copy.\" For email copy, see email-sequence. For popup copy, see popup-cro."
+description: "当用户想要为任何页面撰写、重写或改进营销文案——包括首页、落地页、定价页、功能页、关于页或产品页——时使用。当用户说「write copy for」「improve this copy」「rewrite this page」「marketing copy」「headline help」或「CTA copy」时也应使用。邮件文案见 email-sequence。弹窗文案见 popup-cro。 | When the user wants to write, rewrite, or improve marketing copy for any page — including homepage, landing pages, pricing pages, feature pages, about pages, or product pages. Also use when the user says \"write copy for,\" \"improve this copy,\" \"rewrite this page,\" \"marketing copy,\" \"headline help,\" or \"CTA copy.\" For email copy, see email-sequence. For popup copy, see popup-cro."
 license: MIT
 metadata:
   version: 1.0.0

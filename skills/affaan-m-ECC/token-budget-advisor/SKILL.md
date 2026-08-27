@@ -1,7 +1,7 @@
 ---
 name: token-budget-advisor
 description: >-
-  Offers the user an informed choice about how much response depth to
+  在回答前就让用户对消耗多少回复深度做出知情选择。当用户明确希望控制回复长度、深度或 token 预算时使用此技能。触发条件：「token budget」「token count」「token usage」「token limit」「response length」「answer depth」「short version」「brief answer」「detailed answer」「exhaustive answer」「respuesta corta vs larga」「cuántos tokens」「ahorrar tokens」「responde al 50%」「dame la versión corta」「quiero controlar cuánto usas」，或用户明确要求控制回答大小或深度的明显变体。不触发的条件：用户在当前会话中已指定级别（应维持该级别）、请求明显只需一个词的回答，或「token」指的是身份验证/会话/支付令牌而非回复大小。 |
   consume before answering. Use this skill when the user explicitly
   wants to control response length, depth, or token budget.
   TRIGGER when: "token budget", "token count", "token usage", "token limit",

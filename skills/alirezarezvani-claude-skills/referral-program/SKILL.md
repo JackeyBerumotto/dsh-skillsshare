@@ -1,6 +1,6 @@
 ---
 name: "referral-program"
-description: "When the user wants to design, launch, or optimize a referral or affiliate program. Use when they mention 'referral program,' 'affiliate program,' 'word of mouth,' 'refer a friend,' 'incentive program,' 'customer referrals,' 'brand ambassador,' 'partner program,' 'referral link,' or 'growth through referrals.' Covers program mechanics, incentive design, and optimization — not just the idea of referrals but the actual system."
+description: "当用户想要设计、启动或优化推荐或联盟计划时使用。当用户提到「referral program」「affiliate program」「word of mouth」「refer a friend」「incentive program」「customer referrals」「brand ambassador」「partner program」「referral link」或「growth through referrals」时也应使用。涵盖计划机制、激励设计和优化——不只是推荐这个点子，而是实际的体系。 | When the user wants to design, launch, or optimize a referral or affiliate program. Use when they mention 'referral program,' 'affiliate program,' 'word of mouth,' 'refer a friend,' 'incentive program,' 'customer referrals,' 'brand ambassador,' 'partner program,' 'referral link,' or 'growth through referrals.' Covers program mechanics, incentive design, and optimization — not just the idea of referrals but the actual system."
 license: MIT
 metadata:
   version: 1.0.0

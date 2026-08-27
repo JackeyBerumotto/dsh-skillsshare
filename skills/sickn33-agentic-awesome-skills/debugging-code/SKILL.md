@@ -1,6 +1,6 @@
 ---
 name: debugging-code
-description: Interactively debug source code — set breakpoints, step through execution line by line, inspect live variable state, evaluate expressions against the running program, and navigate the call stack to trace root causes. Use when a program crashes, raises unexpected exceptions, produces...
+description: 以交互方式调试源代码——设置断点、逐行单步执行、检查实时变量状态、对运行中的程序求值表达式，并导航调用栈以追踪根因。在程序崩溃、抛出意外异常、产生…… | Interactively debug source code — set breakpoints, step through execution line by line, inspect live variable state, evaluate expressions against the running program, and navigate the call stack to trace root causes. Use when a program crashes, raises unexpected exceptions, produces...
 risk: unknown
 source: https://github.com/AlmogBaku/debug-skill/tree/master/skills/debugging-code
 source_repo: AlmogBaku/debug-skill

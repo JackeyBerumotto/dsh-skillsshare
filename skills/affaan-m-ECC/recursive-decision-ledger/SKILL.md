@@ -1,6 +1,6 @@
 ---
 name: recursive-decision-ledger
-description: Use when the user asks for repeated rollouts, marked decision processes, high-dimensional search, stochastic optimization, local-optima exploration, ensemble comparison, or recursive reasoning with a visible evidence trail.
+description: 当用户要求重复的滚动发布、带标记的决策过程、高维搜索、随机优化、局部最优探索、集成比较，或带可见证据轨迹的递归推理时使用。 | Use when the user asks for repeated rollouts, marked decision processes, high-dimensional search, stochastic optimization, local-optima exploration, ensemble comparison, or recursive reasoning with a visible evidence trail.
 license: MIT
 metadata:
   origin: ECC

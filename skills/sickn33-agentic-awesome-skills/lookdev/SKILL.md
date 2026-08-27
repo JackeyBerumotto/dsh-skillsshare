@@ -1,6 +1,6 @@
 ---
 name: lookdev
-description: "Human-in-the-loop web studio to tune AI-generated output by eye. Stand up a local interactive studio (sliders, pickers, drag handles) or an inline edit/highlight/comment annotation studio for prose & media, instead of guessing values or shipping a static comparison grid."
+description: "供人在回路中凭肉眼调优 AI 生成输出的网页工作室。搭建本地交互式工作室（滑块、选择器、拖拽手柄），或为文本与媒体提供行内编辑/高亮/批注工作室，而不是靠猜数值或发布静态对比网格。 | Human-in-the-loop web studio to tune AI-generated output by eye. Stand up a local interactive studio (sliders, pickers, drag handles) or an inline edit/highlight/comment annotation studio for prose & media, instead of guessing values or shipping a static comparison grid."
 risk: safe
 source: community
 source_type: community

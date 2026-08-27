@@ -1,6 +1,6 @@
 ---
 name: web-testing-react-testing-library
-description: React Testing Library patterns - query hierarchy, userEvent, async utilities, renderHook, custom render with providers, accessibility-first testing
+description: React Testing Library 模式：查询层级、userEvent、异步工具、renderHook、带 providers 的自定义 render、无障碍优先测试。 | React Testing Library patterns - query hierarchy, userEvent, async utilities, renderHook, custom render with providers, accessibility-first testing
 ---
 
 # React Testing Library Patterns

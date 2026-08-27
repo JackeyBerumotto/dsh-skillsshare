@@ -1,6 +1,6 @@
 ---
 name: compression-strategy
-description: Recommends context compression strategies for bloated or quota-heavy sessions. Use when context feels sluggish or quota burns faster than expected.
+description: 为臃肿或配额消耗过大的会话推荐上下文压缩策略。当上下文显得迟滞或配额消耗快于预期时使用。 | Recommends context compression strategies for bloated or quota-heavy sessions. Use when context feels sluggish or quota burns faster than expected.
 globs:
 alwaysApply: false
 progressive_loading: true

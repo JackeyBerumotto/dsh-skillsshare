@@ -1,6 +1,6 @@
 ---
 name: lead-magnets
-description: "Plan and optimize lead magnets for email capture and lead generation. Use when designing gated content, checklists, templates, downloadable resources, or other offers that convert visitors into subscribers."
+description: "规划并优化用于邮件捕获和线索获取的引流磁铁。在设计门控内容、清单、模板、可下载资源或其他能把访客转化为订阅者的诱饵时使用。 | Plan and optimize lead magnets for email capture and lead generation. Use when designing gated content, checklists, templates, downloadable resources, or other offers that convert visitors into subscribers."
 risk: unknown
 source: "https://github.com/coreyhaines31/marketingskills"
 date_added: "2026-03-21"

@@ -1,6 +1,6 @@
 ---
 name: wiki-qa
-description: "Answer repository questions grounded entirely in source code evidence. Use when user asks a question about the codebase, user wants to understand a specific file, function, or component, or user asks \"how does X work\" or \"where is Y defined\"."
+description: "完全基于源代码证据回答仓库相关问题。当用户询问代码库问题、想理解某个文件、函数或组件，或问「X 是如何工作的」「Y 在哪里定义」时使用。 | Answer repository questions grounded entirely in source code evidence. Use when user asks a question about the codebase, user wants to understand a specific file, function, or component, or user asks \"how does X work\" or \"where is Y defined\"."
 risk: safe
 source: community
 date_added: "2026-02-27"

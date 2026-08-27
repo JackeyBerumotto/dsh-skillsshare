@@ -1,7 +1,7 @@
 ---
 name: managing-database-recovery
 description: |
-  Use when you need to work with database operations.
+  当你需要处理数据库运维时使用。此技能提供数据库管理和优化及全面的指导和自动化。触发词如「manage database」「optimize database」或「configure database」。 |
   This skill provides database management and optimization with comprehensive guidance and automation.
   Trigger with phrases like "manage database", "optimize database",
   or "configure database".

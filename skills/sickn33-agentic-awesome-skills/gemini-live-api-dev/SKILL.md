@@ -1,6 +1,6 @@
 ---
 name: gemini-live-api-dev
-description: Use this skill when building real-time, bidirectional streaming applications with the Gemini Live API. Covers WebSocket-based audio/video/text streaming, voice activity detection (VAD), native audio features, function calling, session management, ephemeral tokens for client-side auth,...
+description: 在使用 Gemini Live API 构建实时双向流式应用时使用此技能。涵盖基于 WebSocket 的音频/视频/文本流、语音活动检测（VAD）、原生音频功能、函数调用、会话管理、用于客户端认证的临时令牌…… | Use this skill when building real-time, bidirectional streaming applications with the Gemini Live API. Covers WebSocket-based audio/video/text streaming, voice activity detection (VAD), native audio features, function calling, session management, ephemeral tokens for client-side auth,...
 risk: unknown
 source: https://github.com/google-gemini/gemini-skills/tree/main/skills/gemini-live-api-dev
 source_repo: google-gemini/gemini-skills

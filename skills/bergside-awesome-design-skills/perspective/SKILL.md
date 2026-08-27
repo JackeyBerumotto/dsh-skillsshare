@@ -1,6 +1,6 @@
 ---
 name: perspective
-description: Spatial depth design with isometric views, vanishing points, and layered elements that guide attention through 3D-like realism.
+description: 空间深度设计，采用等轴测视图、消失点和分层元素，以类 3D 的真实感引导注意力。 | Spatial depth design with isometric views, vanishing points, and layered elements that guide attention through 3D-like realism.
 license: MIT
 metadata:
   author: typeui.sh

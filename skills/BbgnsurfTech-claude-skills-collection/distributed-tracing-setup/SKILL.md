@@ -1,8 +1,5 @@
 ---
-description: This skill automates the setup of distributed tracing for microservices.
-  it helps developers implement end-to-end request visibility by configuring context
-  propagation, span creation, trace collection, and analysis. use this skill when
-  the user re...
+description: "本技能自动化微服务分布式追踪的搭建。它通过配置上下文传播、span 创建、追踪收集与分析，帮助开发者实现端到端请求可见性。当用户请求实现或配置分布式追踪时使用本技能。 | This skill automates the setup of distributed tracing for microservices. it helps developers implement end-to-end request visibility by configuring context propagation, span creation, trace collection, and analysis. use this skill when the user re..."
 allowed-tools:
 - Read
 - Write

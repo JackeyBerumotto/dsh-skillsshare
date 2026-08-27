@@ -1,6 +1,6 @@
 ---
 name: api-designer
-description: Generates complete, production-ready REST API endpoint specifications for any system or domain the user describes. Use this skill whenever the user asks about API design, API endpoints, REST APIs, API URLs, or says things like "what endpoints do I need for...", "design an API for...",...
+description: 为用户描述的任何系统或领域生成完整、可用于生产的 REST API 端点规范。当用户询问 API 设计、API 端点、REST API、API URL，或说「what endpoints do I need for...」、「design an API for...」之类的话时，使用此技能…… | Generates complete, production-ready REST API endpoint specifications for any system or domain the user describes. Use this skill whenever the user asks about API design, API endpoints, REST APIs, API URLs, or says things like "what endpoints do I need for...", "design an API for...",...
 risk: unknown
 source: https://github.com/LambdaTest/agent-skills/tree/main/api-skill/api-designer
 source_repo: LambdaTest/agent-skills

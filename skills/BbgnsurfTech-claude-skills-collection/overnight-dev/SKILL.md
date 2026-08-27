@@ -1,6 +1,6 @@
 ---
 name: overnight-development
-description: Automates software development overnight using git hooks to enforce test-driven Use when appropriate context detected. Trigger with relevant phrases based on skill purpose.
+description: 利用 git 钩子在夜间自动化软件开发，以强制执行测试驱动。在检测到合适上下文时使用。可基于技能用途以相关短语触发。 | Automates software development overnight using git hooks to enforce test-driven Use when appropriate context detected. Trigger with relevant phrases based on skill purpose.
 version: 1.0.0
 allowed-tools:
 - Read

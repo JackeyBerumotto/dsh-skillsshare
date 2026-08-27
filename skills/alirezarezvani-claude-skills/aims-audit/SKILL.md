@@ -1,6 +1,6 @@
 ---
 name: "aims-audit"
-description: "/cs:aims-audit <scope> — ISO/IEC 42001 AIMS internal-audit 6-question forcing interrogation. Use before certification stage 1, before annual internal audit cycles, or when onboarding a new AI system into an existing AIMS."
+description: "/cs:aims-audit <scope>——ISO/IEC 42001 AIMS 内部审计六问强制审讯。适用于认证第一阶段之前、年度内部审计周期开始前，或将新 AI 系统纳入现有 AIMS 时使用。 | /cs:aims-audit <scope> — ISO/IEC 42001 AIMS internal-audit 6-question forcing interrogation. Use before certification stage 1, before annual internal audit cycles, or when onboarding a new AI system into an existing AIMS."
 ---
 
 # /cs:aims-audit — AIMS ISO 42001 Forcing Questions

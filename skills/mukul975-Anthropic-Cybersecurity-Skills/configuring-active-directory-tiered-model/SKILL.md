@@ -1,8 +1,6 @@
 ---
 name: configuring-active-directory-tiered-model
-description: Implement Microsoft's Enhanced Security Admin Environment (ESAE) tiered
-  administration model for Active Directory. Covers Tier 0/1/2 separation, privileged
-  access workstations (PAWs), administrative f
+description: "为 Active Directory 实施 Microsoft 的增强安全管理环境（ESAE）分层管理模型。涵盖 Tier 0/1/2 隔离、特权访问工作站（PAW）、管理林等内容。 | Implement Microsoft's Enhanced Security Admin Environment (ESAE) tiered administration model for Active Directory. Covers Tier 0/1/2 separation, privileged access workstations (PAWs), administrative f"
 domain: cybersecurity
 subdomain: identity-access-management
 tags:

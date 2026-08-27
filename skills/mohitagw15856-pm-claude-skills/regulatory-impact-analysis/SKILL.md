@@ -1,6 +1,6 @@
 ---
 name: regulatory-impact-analysis
-description: "Produce a regulatory impact analysis (RIA) weighing the costs, benefits, and alternatives of a proposed rule. Use when asked to assess a regulation's impact, do a cost-benefit analysis of a policy, justify a rulemaking, or compare regulatory options. Produces a structured RIA: the problem and rationale, options including the baseline, costs vs. benefits, distributional effects, and a reasoned recommendation."
+description: "产出监管影响分析（RIA），权衡拟议规则的成本、收益和替代方案。当被要求评估法规影响、对政策做成本收益分析、为立法提供论证，或比较监管选项时使用。产出结构化的 RIA：问题与依据、包括基线在内的选项、成本与收益对比、分配效应，以及有理有据的建议。 | Produce a regulatory impact analysis (RIA) weighing the costs, benefits, and alternatives of a proposed rule. Use when asked to assess a regulation's impact, do a cost-benefit analysis of a policy, justify a rulemaking, or compare regulatory options. Produces a structured RIA: the problem and rationale, options including the baseline, costs vs. benefits, distributional effects, and a reasoned recommendation."
 ---
 
 # Regulatory Impact Analysis Skill

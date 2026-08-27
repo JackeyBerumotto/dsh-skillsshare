@@ -1,6 +1,6 @@
 ---
 name: desktop-multiwindow-electron
-description: Multi-window management, WebContentsView, BaseWindow, window lifecycle, inter-window communication, state persistence
+description: 多窗口管理、WebContentsView、BaseWindow、窗口生命周期、窗口间通信、状态持久化 | Multi-window management, WebContentsView, BaseWindow, window lifecycle, inter-window communication, state persistence
 ---
 
 # Electron Multi-Window Patterns

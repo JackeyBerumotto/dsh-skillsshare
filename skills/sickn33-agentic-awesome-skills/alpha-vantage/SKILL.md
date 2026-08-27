@@ -1,6 +1,6 @@
 ---
 name: alpha-vantage
-description: "Access 20+ years of global financial data: equities, options, forex, crypto, commodities, economic indicators, and 50+ technical indicators."
+description: "获取二十年以上全球金融数据：股票、期权、外汇、加密货币、大宗商品、经济指标，以及五十个以上技术指标。 | Access 20+ years of global financial data: equities, options, forex, crypto, commodities, economic indicators, and 50+ technical indicators."
 risk: unknown
 source: community
 metadata:

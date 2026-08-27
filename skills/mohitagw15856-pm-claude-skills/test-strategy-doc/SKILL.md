@@ -1,6 +1,6 @@
 ---
 name: test-strategy-doc
-description: "Write a test strategy document from a feature spec, PRD, or system description. Use when asked to create a test plan, write a test strategy, define QA approach, or plan testing for a feature or release. Produces a complete test strategy with scope, risk assessment, test types, coverage targets, and a prioritised test case outline."
+description: "从功能规格、PRD 或系统描述编写测试策略文档。在被要求创建测试计划、编写测试策略、定义 QA 方法，或为功能或发布规划测试时使用。产出完整测试策略，包含范围、风险评估、测试类型、覆盖目标和按优先级排序的测试用例大纲。 | Write a test strategy document from a feature spec, PRD, or system description. Use when asked to create a test plan, write a test strategy, define QA approach, or plan testing for a feature or release. Produces a complete test strategy with scope, risk assessment, test types, coverage targets, and a prioritised test case outline."
 ---
 
 # Test Strategy Document Skill

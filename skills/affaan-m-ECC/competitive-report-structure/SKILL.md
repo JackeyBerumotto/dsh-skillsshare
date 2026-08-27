@@ -1,7 +1,7 @@
 ---
 name: competitive-report-structure
 description: >-
-  Use after benchmark-methodology has produced scored competitor profile cards.
+  在 benchmark-methodology 产出带评分的竞争对手画像卡之后使用。将研究发现汇编成决策级报告：格局图、竞争对手画像、对标矩阵、空白区分析、战略建议和团队对齐触发问题。这是三技能竞争流水线的最后一步。 |
   Assembles findings into a decision-grade report: landscape map, competitor
   profiles, benchmarking matrix, white-space analysis, strategic recommendations,
   and team alignment trigger questions. Final step in the three-skill competitive

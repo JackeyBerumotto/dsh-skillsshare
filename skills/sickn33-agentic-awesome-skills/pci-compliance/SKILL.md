@@ -1,6 +1,6 @@
 ---
 name: pci-compliance
-description: "Master PCI DSS (Payment Card Industry Data Security Standard) compliance for secure payment processing and handling of cardholder data."
+description: "掌握 PCI DSS（支付卡行业数据安全标准）合规，实现安全的支付处理与持卡人数据管理。 | Master PCI DSS (Payment Card Industry Data Security Standard) compliance for secure payment processing and handling of cardholder data."
 risk: unknown
 source: community
 date_added: "2026-02-27"

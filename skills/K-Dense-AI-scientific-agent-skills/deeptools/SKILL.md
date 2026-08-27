@@ -1,6 +1,6 @@
 ---
 name: deeptools
-description: NGS analysis toolkit. BAM to bigWig conversion, QC (correlation, PCA, fingerprints), heatmaps/profiles (TSS, peaks), for ChIP-seq, RNA-seq, ATAC-seq visualization.
+description: NGS 分析工具集：BAM 到 bigWig 转换、质量控制（相关性、PCA、指纹图谱）、热图/分布图（TSS、peaks），用于 ChIP-seq、RNA-seq、ATAC-seq 可视化。 | NGS analysis toolkit. BAM to bigWig conversion, QC (correlation, PCA, fingerprints), heatmaps/profiles (TSS, peaks), for ChIP-seq, RNA-seq, ATAC-seq visualization.
 license: BSD license
 allowed-tools:
   - Read

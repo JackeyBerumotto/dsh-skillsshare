@@ -1,6 +1,6 @@
 ---
 name: torchdrug
-description: PyTorch-native graph neural networks for molecules and proteins. Use when building custom GNN architectures for drug discovery, protein modeling, or knowledge graph reasoning. Best for custom model development, protein property prediction, retrosynthesis. For pre-trained models and diverse featurizers use deepchem; for benchmark datasets use pytdc.
+description: 面向分子和蛋白质的 PyTorch 原生图神经网络。在为药物发现、蛋白质建模或知识图谱推理构建自定义 GNN 架构时使用。最适合自定义模型开发、蛋白质性质预测和逆合成分析。若需预训练模型和多样化特征化器请用 deepchem；若需基准数据集请用 pytdc。 | PyTorch-native graph neural networks for molecules and proteins. Use when building custom GNN architectures for drug discovery, protein modeling, or knowledge graph reasoning. Best for custom model development, protein property prediction, retrosynthesis. For pre-trained models and diverse featurizers use deepchem; for benchmark datasets use pytdc.
 license: Apache-2.0 license
 metadata: {"version": "1.0", "skill-author": "K-Dense Inc."}
 ---

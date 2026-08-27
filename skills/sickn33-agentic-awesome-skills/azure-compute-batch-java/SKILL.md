@@ -1,6 +1,6 @@
 ---
 name: azure-compute-batch-java
-description: Azure Batch SDK for Java. Run large-scale parallel and HPC batch jobs with pools, jobs, tasks, and compute nodes.
+description: 适用于 Java 的 Azure Batch SDK。使用池、作业、任务和计算节点运行大规模并行与 HPC 批处理作业。 | Azure Batch SDK for Java. Run large-scale parallel and HPC batch jobs with pools, jobs, tasks, and compute nodes.
 risk: unknown
 source: community
 date_added: '2026-02-27'

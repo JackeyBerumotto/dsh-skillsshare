@@ -1,6 +1,6 @@
 ---
 name: pulse
-description: Dynamic, vibrant style with thick borders, geometric shapes, high-contrast colors, and expressive typography conveying motion and vitality.
+description: 动感鲜活的风格，以粗边框、几何形状、高对比度色彩和富有表现力的排版传递动感与活力。 | Dynamic, vibrant style with thick borders, geometric shapes, high-contrast colors, and expressive typography conveying motion and vitality.
 license: MIT
 metadata:
   author: typeui.sh

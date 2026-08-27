@@ -1,14 +1,6 @@
 ---
 name: implementing-api-key-security-controls
-description: 'Implements secure API key generation, storage, rotation, and revocation
-  controls to protect API authentication credentials from leakage, brute force, and
-  abuse. The engineer designs API key formats with sufficient entropy, implements
-  secure hashing for storage, enforces per-key scoping and rate limiting, monitors
-  for leaked keys in public repositories, and builds key rotation workflows. Activates
-  for requests involving API key management, API key security, key rotation policy,
-  or API credential protection.
-
-  '
+description: "实现安全的 API 密钥生成、存储、轮换和撤销控制，保护 API 认证凭据免遭泄漏、暴力破解和滥用。工程师设计具备足够熵的 API 密钥格式，实现安全的存储哈希，强制执行按密钥的范围限定和速率限制，监控公共代码仓库中的密钥泄漏，并构建密钥轮换工作流。当请求涉及 API 密钥管理、API 密钥安全、密钥轮换策略或 API 凭据保护时激活。 | Implements secure API key generation, storage, rotation, and revocation controls to protect API authentication credentials from leakage, brute force, and abuse. The engineer designs API key formats with sufficient entropy, implements secure hashing for storage, enforces per-key scoping and rate limiting, monitors for leaked keys in public repositories, and builds key rotation workflows. Activates for requests involving API key management, API key security, key rotation policy, or API credential protection."
 domain: cybersecurity
 subdomain: api-security
 tags:

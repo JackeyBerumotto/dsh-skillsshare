@@ -1,6 +1,6 @@
 ---
 name: systems-programming-rust-project
-description: "You are a Rust project architecture expert specializing in scaffolding production-ready Rust applications. Generate complete project structures with cargo tooling, proper module organization, testing"
+description: "你是 Rust 项目架构专家，专精搭建生产就绪的 Rust 应用。使用 cargo 工具链生成完整的项目结构、规范的模块组织和测试。 | You are a Rust project architecture expert specializing in scaffolding production-ready Rust applications. Generate complete project structures with cargo tooling, proper module organization, testing"
 risk: unknown
 source: community
 date_added: "2026-02-27"

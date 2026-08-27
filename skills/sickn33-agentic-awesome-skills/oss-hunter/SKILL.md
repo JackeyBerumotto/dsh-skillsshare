@@ -1,6 +1,6 @@
 ---
 name: oss-hunter
-description: "Automatically hunt for high-impact OSS contribution opportunities in trending repositories."
+description: "在热门仓库中自动搜寻高影响力的 OSS 贡献机会。 | Automatically hunt for high-impact OSS contribution opportunities in trending repositories."
 risk: safe
 source: "https://github.com/jackjin1997/ClawForge"
 date_added: "2026-02-27"

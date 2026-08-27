@@ -1,6 +1,6 @@
 ---
 name: git-troubleshooter
-description: "Diagnose a tangled git situation and give the exact, safe commands to fix it. Use when asked to undo a commit, recover lost work, fix a bad merge or rebase, resolve a detached HEAD, unstage files, or get out of a git mess. Produces the diagnosis, the precise commands to run in order, what each does, and a recovery note if something goes wrong."
+description: "诊断混乱的 git 状况并给出准确、安全的修复命令。当被要求撤销提交、找回丢失的工作、修复糟糕的 merge 或 rebase、解决游离 HEAD、取消暂存文件或摆脱 git 困境时使用。产出诊断结论、按顺序执行的精确命令、每条命令的作用，以及出错时的恢复说明。 | Diagnose a tangled git situation and give the exact, safe commands to fix it. Use when asked to undo a commit, recover lost work, fix a bad merge or rebase, resolve a detached HEAD, unstage files, or get out of a git mess. Produces the diagnosis, the precise commands to run in order, what each does, and a recovery note if something goes wrong."
 ---
 
 # Git Troubleshooter Skill

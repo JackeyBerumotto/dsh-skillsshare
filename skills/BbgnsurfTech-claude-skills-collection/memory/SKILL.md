@@ -2,7 +2,7 @@
 name: memory
 version: 1.0.0
 description: |
-  Access and use project memories from previous sessions for context-aware assistance.
+  访问并使用以往会话中的项目记忆，以获得具备上下文感知的协助。适用于回顾过往决策、查阅项目约定或理解用户偏好时。以「remember when」「like before」「what was our decision about」等短语触发。 |
   Use when recalling past decisions, checking project conventions, or understanding user preferences.
   Trigger with phrases like "remember when", "like before", or "what was our decision about".
 allowed-tools: Read, Write

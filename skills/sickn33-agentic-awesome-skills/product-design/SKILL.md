@@ -1,6 +1,6 @@
 ---
 name: product-design
-description: "Design de produto nivel Apple — sistemas visuais, UX flows, acessibilidade, linguagem visual proprietaria, design tokens, prototipagem e handoff. Cobre Figma, design systems, tipografia, cor, espacamento, motion design e principios de design cognitivo."
+description: "苹果级产品设计：视觉系统、UX 流程、无障碍设计、专属视觉语言、设计 token、原型设计与交付。涵盖 Figma、设计系统、字体排印、色彩、间距、动效设计和认知设计原则。 | Design de produto nivel Apple — sistemas visuais, UX flows, acessibilidade, linguagem visual proprietaria, design tokens, prototipagem e handoff. Cobre Figma, design systems, tipografia, cor, espacamento, motion design e principios de design cognitivo."
 risk: none
 source: community
 date_added: '2026-03-06'

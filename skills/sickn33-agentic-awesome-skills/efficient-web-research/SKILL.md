@@ -3,7 +3,7 @@ name: efficient-web-research
 source: community
 risk: safe
 description: >
-  Protocol for token-efficient web research. Use when accessing URLs, GitHub repos, or running search queries. Prevents full-page fetching waste.
+  节省 token 的 Web 研究协议。在访问 URL、GitHub 仓库或执行搜索查询时使用。避免整页抓取造成的浪费。 |
 ---
 
 # Efficient Web Research Skill

@@ -1,6 +1,6 @@
 ---
 name: "incident-commander"
-description: "Comprehensive incident response framework from detection through resolution and post-incident review. Battle-tested SRE/DevOps practices: severity classification, timeline reconstruction, structured post-incident analysis. Use when declaring an incident, coordinating multi-team response during an outage, leading a post-mortem, or setting up on-call practices for a new service."
+description: "覆盖从检测到解决及事后复盘的综合事件响应框架。经过实战检验的 SRE/DevOps 实践：严重性分级、时间线重建、结构化事后分析。在宣告事件、故障期间协调多团队响应、主持事后复盘或为新服务建立值班制度时使用。 | Comprehensive incident response framework from detection through resolution and post-incident review. Battle-tested SRE/DevOps practices: severity classification, timeline reconstruction, structured post-incident analysis. Use when declaring an incident, coordinating multi-team response during an outage, leading a post-mortem, or setting up on-call practices for a new service."
 ---
 
 # Incident Commander Skill

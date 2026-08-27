@@ -1,6 +1,6 @@
 ---
 name: video-downloader
-description: Downloads videos from YouTube and other platforms for offline viewing, editing, or archival. Handles various formats and quality options.
+description: 从 YouTube 及其他平台下载视频，用于离线观看、编辑或归档。支持多种格式和画质选项。 | Downloads videos from YouTube and other platforms for offline viewing, editing, or archival. Handles various formats and quality options.
 ---
 
 # Video Downloader

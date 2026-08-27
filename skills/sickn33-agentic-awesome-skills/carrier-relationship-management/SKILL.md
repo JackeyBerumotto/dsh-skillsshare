@@ -1,6 +1,6 @@
 ---
 name: carrier-relationship-management
-description: Codified expertise for managing carrier portfolios, negotiating freight rates, tracking carrier performance, allocating freight, and maintaining strategic carrier relationships.
+description: 管理承运商组合、谈判运价、跟踪承运商绩效、分配货运量以及维护战略性承运商关系的体系化专业知识。 | Codified expertise for managing carrier portfolios, negotiating freight rates, tracking carrier performance, allocating freight, and maintaining strategic carrier relationships.
 risk: safe
 source: https://github.com/ai-evos/agent-skills
 date_added: '2026-02-27'

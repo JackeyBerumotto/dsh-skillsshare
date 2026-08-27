@@ -1,6 +1,6 @@
 ---
 name: pydantic-ai
-description: "Build production-ready AI agents with PydanticAI — type-safe tool use, structured outputs, dependency injection, and multi-model support."
+description: "使用 PydanticAI 构建生产就绪的 AI 智能体——类型安全的工具调用、结构化输出、依赖注入和多模型支持。 | Build production-ready AI agents with PydanticAI — type-safe tool use, structured outputs, dependency injection, and multi-model support."
 category: ai-agents
 risk: safe
 source: community

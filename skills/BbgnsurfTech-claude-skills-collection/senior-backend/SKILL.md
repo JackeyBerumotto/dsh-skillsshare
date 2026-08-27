@@ -1,6 +1,6 @@
 ---
 name: senior-backend
-description: Comprehensive backend development skill for building scalable backend systems using NodeJS, Express, Go, Python, Postgres, GraphQL, REST APIs. Includes API scaffolding, database optimization, security implementation, and performance tuning. Use when designing APIs, optimizing database queries, implementing business logic, handling authentication/authorization, or reviewing backend code.
+description: 使用 NodeJS、Express、Go、Python、Postgres、GraphQL、REST API 构建可扩展后端系统的综合后端开发技能。包括 API 脚手架、数据库优化、安全实现和性能调优。在设计 API、优化数据库查询、实现业务逻辑、处理身份验证/授权或审查后端代码时使用。 | Comprehensive backend development skill for building scalable backend systems using NodeJS, Express, Go, Python, Postgres, GraphQL, REST APIs. Includes API scaffolding, database optimization, security implementation, and performance tuning. Use when designing APIs, optimizing database queries, implementing business logic, handling authentication/authorization, or reviewing backend code.
 ---
 
 # Senior Backend

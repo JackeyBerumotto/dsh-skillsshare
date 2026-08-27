@@ -1,6 +1,6 @@
 ---
 name: countdown-video
-description: 制作精确到帧的倒计时视频，支持 mm:ss 和 dd:hh:mm:ss 格式，包含数字翻转/滚动动画效果。
+description: 制作精确到帧的倒计时视频，支持 mm:ss 和 dd:hh:mm:ss 格式，包含数字翻转/滚动动画效果。 | Create frame-accurate countdown videos supporting mm:ss and dd:hh:mm:ss formats, with number flip/rolling animation effects.
 description_zh: 制作精确到帧的倒计时视频，支持 mm:ss 和 dd:hh:mm:ss 格式，包含数字翻转/滚动动画效果。
 version: 0.1.0
 author: iart.ai

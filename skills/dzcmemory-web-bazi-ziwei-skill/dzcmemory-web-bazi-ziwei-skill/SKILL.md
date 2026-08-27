@@ -1,6 +1,6 @@
 ---
 name: bazi-ziwei
-description: 八字 + 紫微斗数 AI 排盘与综合分析。当用户提供生辰（阳历/农历日期、时辰、性别）询问八字、紫微、命理、命盘、流年大运相关问题时使用。基于 Yiqi 算法库 + enrichBazi 补全层精准排盘（杜绝 LLM 自行排盘出错），支持按需独立分析八字 / 独立分析紫微 / 两盘交叉印证。
+description: 八字 + 紫微斗数 AI 排盘与综合分析。当用户提供生辰（阳历/农历日期、时辰、性别）询问八字、紫微、命理、命盘、流年大运相关问题时使用。基于 Yiqi 算法库 + enrichBazi 补全层精准排盘（杜绝 LLM 自行排盘出错），支持按需独立分析八字 / 独立分析紫微 / 两盘交叉印证。 | AI charting and comprehensive analysis for BaZi (Eight Characters) + Zi Wei Dou Shu. Use when the user provides birth details (solar/lunar calendar date, birth hour, gender) and asks about BaZi, Zi Wei, Chinese fate calculation, natal charts, or annual luck and major fortune cycles. Built on the Yiqi algorithm library + the enrichBazi enrichment layer for precise charting (eliminating errors from an LLM doing its own charting); supports on-demand standalone BaZi analysis, standalone Zi Wei analysis, or cross-validation of both charts.
 ---
 
 # 八字 + 紫微斗数综合分析 Skill

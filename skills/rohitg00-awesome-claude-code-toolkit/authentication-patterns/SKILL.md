@@ -1,6 +1,6 @@
 ---
 name: authentication-patterns
-description: Authentication and authorization patterns including OAuth2, JWT, RBAC, session management, and PKCE flows
+description: 身份验证与授权模式，包括 OAuth2、JWT、RBAC、会话管理以及 PKCE 流程。 | Authentication and authorization patterns including OAuth2, JWT, RBAC, session management, and PKCE flows
 ---
 
 # Authentication Patterns

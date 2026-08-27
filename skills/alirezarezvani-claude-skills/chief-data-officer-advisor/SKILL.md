@@ -1,6 +1,6 @@
 ---
 name: "chief-data-officer-advisor"
-description: "Chief Data Officer advisory for startups: AI training data rights and consent provenance, data product strategy (warehouse vs lakehouse vs mesh, build-vs-buy), B2B customer-data-as-asset valuation and M&A readiness, data team org evolution. Use when deciding whether to train models on customer data, choosing data architecture, valuing data for fundraising or M&A, sequencing data hires, or when user mentions CDO, chief data officer, data strategy, data mesh, lakehouse, training data, data product, data monetization, or customer data asset. NOT a tactical data engineering skill — strategic decisions only."
+description: "面向初创公司的首席数据官顾问：AI 训练数据权利与授权链路、数据产品战略（仓库、湖仓一体还是数据网格，自建还是购买）、把 B2B 客户数据当作资产估值与并购准备、数据团队组织演进。当决定是否用客户数据训练模型、选择数据架构、为融资或并购评估数据价值、排定数据岗招聘次序时，或当用户提到 CDO、首席数据官、数据战略、数据网格、湖仓一体、训练数据、数据产品、数据变现或客户数据资产时使用。并非战术性数据工程技能——仅限战略决策。 | Chief Data Officer advisory for startups: AI training data rights and consent provenance, data product strategy (warehouse vs lakehouse vs mesh, build-vs-buy), B2B customer-data-as-asset valuation and M&A readiness, data team org evolution. Use when deciding whether to train models on customer data, choosing data architecture, valuing data for fundraising or M&A, sequencing data hires, or when user mentions CDO, chief data officer, data strategy, data mesh, lakehouse, training data, data product, data monetization, or customer data asset. NOT a tactical data engineering skill — strategic decisions only."
 license: MIT
 metadata:
   version: 1.0.0

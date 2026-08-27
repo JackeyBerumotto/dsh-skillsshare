@@ -1,6 +1,6 @@
 ---
 name: tavily-web
-description: "Web search, content extraction, crawling, and research capabilities using Tavily API. Use when you need to search the web for current information, extracting content from URLs, or crawling websites."
+description: "使用 Tavily API 进行网页搜索、内容提取、爬取和研究。当需要联网搜索最新信息、从 URL 提取内容或爬取网站时使用。 | Web search, content extraction, crawling, and research capabilities using Tavily API. Use when you need to search the web for current information, extracting content from URLs, or crawling websites."
 risk: unknown
 source: community
 date_added: "2026-02-27"

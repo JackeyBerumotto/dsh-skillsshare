@@ -1,6 +1,6 @@
 ---
 name: the-honoured-one
-description: "Forces the AI to fully load context and read relevant files before performing complex, multi-file tasks, architectural changes, or debugging. Prevents acting on assumptions."
+description: "强制 AI 在执行复杂的多文件任务、架构变更或调试之前完整加载上下文并阅读相关文件。防止凭假设行事。 | Forces the AI to fully load context and read relevant files before performing complex, multi-file tasks, architectural changes, or debugging. Prevents acting on assumptions."
 risk: safe
 source: community
 date_added: "2026-06-25"

@@ -1,6 +1,6 @@
 ---
 name: personal-board-of-directors
-description: "Five standing advisors — the Operator, the Skeptic, the CFO, the Coach, the Customer — debate your decision on paper and vote. Use when asked to help me decide, pressure-test this decision, what would smart advisors say, or convene my board. Produces five distinct advisor memos, a disagreement map, a vote with a stated decision rule, and the one question to resolve before deciding."
+description: "五位常驻顾问——运营者、怀疑者、CFO、教练、客户——在纸面上辩论你的决定并投票。当被要求「帮我决定」「压力测试这个决定」「聪明的顾问会怎么说」或「召集我的董事会」时使用。产出五份立场分明的顾问备忘录、一张分歧图、一次附明确决策规则的投票，以及决定前必须先解决的那个问题。 | Five standing advisors — the Operator, the Skeptic, the CFO, the Coach, the Customer — debate your decision on paper and vote. Use when asked to help me decide, pressure-test this decision, what would smart advisors say, or convene my board. Produces five distinct advisor memos, a disagreement map, a vote with a stated decision rule, and the one question to resolve before deciding."
 ---
 
 # Personal Board of Directors Skill

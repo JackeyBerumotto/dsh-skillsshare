@@ -1,6 +1,6 @@
 ---
 name: "git-worktree-manager"
-description: "Run parallel feature work safely with Git worktrees. Standardizes branch isolation, port allocation, environment sync, and cleanup so each worktree behaves like an independent local app. Optimized for multi-agent workflows where each agent or terminal session owns one worktree. Use when running multiple feature branches simultaneously, isolating experimental work, or coordinating multi-agent development across the same repo."
+description: "使用 Git worktree 安全地并行开展功能开发。将分支隔离、端口分配、环境同步和清理标准化，使每个 worktree 的表现如同独立的本地应用。为多智能体工作流优化，每个智能体或终端会话独占一个 worktree。在同时运行多个功能分支、隔离实验性工作，或跨同一仓库协调多智能体开发时使用。 | Run parallel feature work safely with Git worktrees. Standardizes branch isolation, port allocation, environment sync, and cleanup so each worktree behaves like an independent local app. Optimized for multi-agent workflows where each agent or terminal session owns one worktree. Use when running multiple feature branches simultaneously, isolating experimental work, or coordinating multi-agent development across the same repo."
 ---
 
 # Git Worktree Manager

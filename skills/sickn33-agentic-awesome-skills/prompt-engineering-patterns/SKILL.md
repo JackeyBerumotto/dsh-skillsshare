@@ -1,6 +1,6 @@
 ---
 name: prompt-engineering-patterns
-description: "Master advanced prompt engineering techniques to maximize LLM performance, reliability, and controllability."
+description: "掌握高级提示工程技巧，最大化 LLM 的性能、可靠性与可控性。 | Master advanced prompt engineering techniques to maximize LLM performance, reliability, and controllability."
 risk: unknown
 source: community
 date_added: "2026-02-27"

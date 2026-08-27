@@ -1,6 +1,6 @@
 ---
 name: mcp-builder-ms
-description: "Use this skill when building MCP servers to integrate external APIs or services, whether in Python (FastMCP) or Node/TypeScript (MCP SDK)."
+description: "在构建用于集成外部 API 或服务的 MCP 服务器时使用此技能，无论是 Python（FastMCP）还是 Node/TypeScript（MCP SDK）。 | Use this skill when building MCP servers to integrate external APIs or services, whether in Python (FastMCP) or Node/TypeScript (MCP SDK)."
 risk: unknown
 source: community
 date_added: "2026-02-27"

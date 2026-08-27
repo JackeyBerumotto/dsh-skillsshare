@@ -1,6 +1,6 @@
 ---
 name: fantasy
-description: Game-inspired fantasy aesthetic with bold, premium visuals, rich color palettes, and immersive thematic elements.
+description: 游戏风格的奇幻美学：大胆的高级视觉、丰富配色与沉浸式主题元素。 | Game-inspired fantasy aesthetic with bold, premium visuals, rich color palettes, and immersive thematic elements.
 license: MIT
 metadata:
   author: typeui.sh

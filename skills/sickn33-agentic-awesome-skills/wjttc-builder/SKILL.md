@@ -1,6 +1,6 @@
 ---
 name: wjttc-builder
-description: PLAN and GENERATE WJTTC (Championship-Grade) test suites for any project. Analyzes the codebase, classifies components across the WJTTC five tiers (Brake · Engine · Aero · Tyre · Pit), writes a tiered test plan, and scaffolds executable test files. This is the BUILDER — it plans and...
+description: 为任意项目规划和生成 WJTTC（锦标赛级）测试套件。分析代码库，将组件分类到 WJTTC 的五个层级（Brake · Engine · Aero · Tyre · Pit），编写分层测试计划，并搭建可执行的测试文件。这是构建器（BUILDER），负责规划并…… | PLAN and GENERATE WJTTC (Championship-Grade) test suites for any project. Analyzes the codebase, classifies components across the WJTTC five tiers (Brake · Engine · Aero · Tyre · Pit), writes a tiered test plan, and scaffolds executable test files. This is the BUILDER — it plans and...
 risk: unknown
 source: https://github.com/Wolfe-Jam/faf-skills/tree/main/skills/wjttc-builder
 source_repo: Wolfe-Jam/faf-skills

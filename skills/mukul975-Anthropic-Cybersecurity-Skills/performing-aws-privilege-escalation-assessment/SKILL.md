@@ -1,10 +1,6 @@
 ---
 name: performing-aws-privilege-escalation-assessment
-description: 'Performing authorized privilege escalation assessments in AWS environments
-  to identify IAM misconfigurations that allow users or roles to elevate their permissions
-  using Pacu, CloudFox, Principal Mapper, and manual IAM policy analysis techniques.
-
-  '
+description: "在 AWS 环境中执行授权的权限提升评估，识别允许用户或角色提升权限的 IAM 错误配置，使用 Pacu、CloudFox、Principal Mapper 以及手工 IAM 策略分析技术。 | Performing authorized privilege escalation assessments in AWS environments to identify IAM misconfigurations that allow users or roles to elevate their permissions using Pacu, CloudFox, Principal Mapper, and manual IAM policy analysis techniques."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

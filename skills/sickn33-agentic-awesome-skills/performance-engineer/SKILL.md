@@ -1,6 +1,6 @@
 ---
 name: performance-engineer
-description: "Expert performance engineer specializing in modern observability,"
+description: "性能工程专家，专精现代可观测性…… | Expert performance engineer specializing in modern observability,"
 risk: unknown
 source: community
 date_added: "2026-02-27"

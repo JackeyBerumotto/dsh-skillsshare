@@ -1,6 +1,6 @@
 ---
 name: geometric
-description: Geometric, structured design with clean typography, neutral colors, precise shapes, and intuitive layouts that stay out of the way.
+description: 几何化、结构化的设计，搭配干净的排版、中性配色、精确的形状和不喧宾夺主的直观布局。 | Geometric, structured design with clean typography, neutral colors, precise shapes, and intuitive layouts that stay out of the way.
 license: MIT
 metadata:
   author: typeui.sh

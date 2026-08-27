@@ -1,7 +1,6 @@
 ---
 name: building-devsecops-pipeline-with-gitlab-ci
-description: Design and implement a comprehensive DevSecOps pipeline in GitLab CI/CD
-  integrating SAST, DAST, container scanning, dependency scanning, and secret detection.
+description: "在 GitLab CI/CD 中设计并实现全面的 DevSecOps 流水线，集成 SAST、DAST、容器扫描、依赖扫描和密钥检测。 | Design and implement a comprehensive DevSecOps pipeline in GitLab CI/CD integrating SAST, DAST, container scanning, dependency scanning, and secret detection."
 domain: cybersecurity
 subdomain: devsecops
 tags:

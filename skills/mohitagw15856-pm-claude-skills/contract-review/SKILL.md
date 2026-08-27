@@ -1,6 +1,6 @@
 ---
 name: contract-review
-description: "Review and summarise any contract or legal agreement. Use when asked to review a contract, check an agreement, flag legal risks, or summarise key clauses. Produces a structured review with key terms, flagged clauses, risk rating, and plain English summary. Not a substitute for qualified legal advice."
+description: "审查并总结任何合同或法律协议。当被要求审查合同、检查协议、标记法律风险或总结关键条款时使用。产出结构化审查，包含关键条款、标记条款、风险评级和通俗易懂的摘要。不能替代合格的法律意见。 | Review and summarise any contract or legal agreement. Use when asked to review a contract, check an agreement, flag legal risks, or summarise key clauses. Produces a structured review with key terms, flagged clauses, risk rating, and plain English summary. Not a substitute for qualified legal advice."
 ---
 
 # Contract Review Skill

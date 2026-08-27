@@ -2,7 +2,7 @@
 name: migrating-apis
 version: 1.0.0
 description: |
-  Migrate APIs between versions, platforms, or frameworks with minimal downtime.
+  在版本、平台或框架之间迁移 API，并把停机时间降到最低。用于在版本之间升级 API。触发短语如「migrate the API」「upgrade API version」或「migrate to new API」。 |
   Use when upgrading APIs between versions.
   Trigger with phrases like "migrate the API", "upgrade API version", or "migrate to new API".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(api:migrate-*)

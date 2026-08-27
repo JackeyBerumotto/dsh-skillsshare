@@ -1,6 +1,6 @@
 ---
 name: web-editor-tiptap
-description: Rich text editor framework with TipTap and ProseMirror
+description: 基于 TipTap 与 ProseMirror 的富文本编辑器框架。 | Rich text editor framework with TipTap and ProseMirror
 ---
 
 # TipTap Editor Patterns

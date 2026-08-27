@@ -1,6 +1,6 @@
 ---
 name: "vpe-advisor"
-description: "VP of Engineering advisory for startups: delivery throughput (DORA 4 metrics + bottleneck identification), engineering hiring funnel (sourcing → screen → onsite → offer conversion + time-to-fill + pipeline gap), engineering team structure (squad/tribe/chapter design + tech-lead manager-trigger thresholds), and production discipline (on-call, deployment cadence, postmortem culture). Use when sprint velocity is dropping, eng hiring is broken, team structure is unclear, or deciding when to add a tech-lead manager. NOT a CTO skill (which owns architecture) — VPE owns delivery operations and how the team ships."
+description: "初创公司工程副总裁顾问：交付吞吐量（DORA 4 指标+瓶颈识别）、工程招聘漏斗（寻源→筛选→现场面试→offer 转化+到岗时长+管道缺口）、工程团队结构（小队/部落/章节设计+增设技术主管经理的触发阈值），以及生产纪律（值班、部署节奏、事后复盘文化）。当冲刺速率下滑、工程招聘失灵、团队结构不清或斟酌何时增设技术主管经理时使用。不是 CTO 技能（那负责架构）——VPE 负责交付运营和团队如何发布产品。 | VP of Engineering advisory for startups: delivery throughput (DORA 4 metrics + bottleneck identification), engineering hiring funnel (sourcing → screen → onsite → offer conversion + time-to-fill + pipeline gap), engineering team structure (squad/tribe/chapter design + tech-lead manager-trigger thresholds), and production discipline (on-call, deployment cadence, postmortem culture). Use when sprint velocity is dropping, eng hiring is broken, team structure is unclear, or deciding when to add a tech-lead manager. NOT a CTO skill (which owns architecture) — VPE owns delivery operations and how the team ships."
 license: MIT
 metadata:
   version: 1.0.0

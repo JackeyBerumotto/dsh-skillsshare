@@ -1,6 +1,6 @@
 ---
 name: medical-bill-decoder
-description: "Decode an itemized medical bill or EOB into plain English and find the charges worth disputing. Use when someone asks 'why is my medical bill so high', 'decode my hospital bill', 'what is this EOB saying', or 'can I negotiate this bill'. Produces a line-by-line decode, duplicate and unbundling flags, balance-billing red flags, and ready-to-read scripts for requesting an itemized bill, financial assistance, and a negotiation call."
+description: "将逐项列出的医疗账单或 EOB 解读成通俗易懂的语言，并找出值得争议的费用。当有人问「我的医疗账单为什么这么高」「解读我的医院账单」「这份 EOB 写的是什么」或「这张账单能协商吗」时使用。产出逐行解读、重复收费与拆项收费标记、余额账单危险信号，以及可直接照读的话术——用于索取逐项账单、申请财务援助和进行谈判通话。 | Decode an itemized medical bill or EOB into plain English and find the charges worth disputing. Use when someone asks 'why is my medical bill so high', 'decode my hospital bill', 'what is this EOB saying', or 'can I negotiate this bill'. Produces a line-by-line decode, duplicate and unbundling flags, balance-billing red flags, and ready-to-read scripts for requesting an itemized bill, financial assistance, and a negotiation call."
 ---
 
 # Medical Bill Decoder Skill

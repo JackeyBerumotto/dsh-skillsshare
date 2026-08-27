@@ -1,6 +1,6 @@
 ---
 name: nerdzao-elite-gemini-high
-description: "Modo Elite Coder + UX Pixel-Perfect otimizado especificamente para Gemini 3.1 Pro High. Workflow completo com foco em qualidade máxima e eficiência de tokens."
+description: "专为 Gemini 3.1 Pro High 优化的 Elite Coder + UX Pixel-Perfect 模式。以最高质量与 token 效率为核心的完整工作流。 | Modo Elite Coder + UX Pixel-Perfect otimizado especificamente para Gemini 3.1 Pro High. Workflow completo com foco em qualidade máxima e eficiência de tokens."
 risk: safe
 source: community
 date_added: "2026-02-27"

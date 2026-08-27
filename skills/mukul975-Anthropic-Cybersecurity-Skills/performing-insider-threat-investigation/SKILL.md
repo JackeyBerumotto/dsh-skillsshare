@@ -1,13 +1,6 @@
 ---
 name: performing-insider-threat-investigation
-description: 'Investigates insider threat incidents involving employees, contractors,
-  or trusted partners who misuse authorized access to steal data, sabotage systems,
-  or violate security policies. Combines digital forensics, user behavior analytics,
-  and HR/legal coordination to build an evidence-based case. Activates for requests
-  involving insider threat investigation, employee data theft, privilege misuse, user
-  behavior anomaly, or internal threat detection.
-
-  '
+description: "调查涉及员工、承包商或受信任合作伙伴滥用授权访问以窃取数据、破坏系统或违反安全策略的内部威胁事件。结合数字取证、用户行为分析和人力/法务协作，构建基于证据的案件。当请求涉及内部威胁调查、员工数据窃取、权限滥用、用户行为异常或内部威胁检测时激活。 | Investigates insider threat incidents involving employees, contractors, or trusted partners who misuse authorized access to steal data, sabotage systems, or violate security policies. Combines digital forensics, user behavior analytics, and HR/legal coordination to build an evidence-based case. Activates for requests involving insider threat investigation, employee data theft, privilege misuse, user behavior anomaly, or internal threat detection."
 domain: cybersecurity
 subdomain: incident-response
 tags:

@@ -1,6 +1,6 @@
 ---
 name: budget-variance-analysis
-description: "Produce a structured budget variance analysis from actual vs budget figures. Use when asked to analyse budget variances, explain underspend or overspend, write a variance commentary, or investigate why actuals differ from plan. Produces a categorised variance table with root cause analysis and management commentary."
+description: "根据实际与预算数字产出结构化的预算差异分析。当被要求分析预算差异、解释节支或超支、撰写差异说明，或调查实际为何偏离计划时使用。产出分类的差异表，附根因分析和管理层说明。 | Produce a structured budget variance analysis from actual vs budget figures. Use when asked to analyse budget variances, explain underspend or overspend, write a variance commentary, or investigate why actuals differ from plan. Produces a categorised variance table with root cause analysis and management commentary."
 ---
 
 # Budget Variance Analysis Skill

@@ -1,6 +1,6 @@
 ---
 name: desktop-updates-electron-updater
-description: Cross-platform auto-update patterns with electron-updater (electron-builder ecosystem)
+description: 基于 electron-updater（electron-builder 生态）的跨平台自动更新模式 | Cross-platform auto-update patterns with electron-updater (electron-builder ecosystem)
 ---
 
 # Electron Auto-Update Patterns

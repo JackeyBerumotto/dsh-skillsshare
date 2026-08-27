@@ -1,6 +1,6 @@
 ---
 name: expo-deployment
-description: Deploy Expo apps to production with EAS — build and submit to the iOS App Store, Google Play Store, and TestFlight, configure eas.json build and submit profiles, manage app versions and build numbers, publish App Store metadata and ASO, and deploy web bundles and API routes via EAS...
+description: 使用 EAS 将 Expo 应用部署到生产环境——构建并提交到 iOS App Store、Google Play Store 和 TestFlight，配置 eas.json 的 build 和 submit 配置文件，管理应用版本号和构建号，发布 App Store 元数据与 ASO，并通过 EAS 部署 Web 产物和 API 路由…… | Deploy Expo apps to production with EAS — build and submit to the iOS App Store, Google Play Store, and TestFlight, configure eas.json build and submit profiles, manage app versions and build numbers, publish App Store metadata and ASO, and deploy web bundles and API routes via EAS...
 risk: unknown
 source: https://github.com/expo/skills/tree/main/plugins/expo/skills/expo-deployment
 source_repo: expo/skills

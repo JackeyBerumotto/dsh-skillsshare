@@ -1,6 +1,6 @@
 ---
 name: raci-matrix
-description: "Define a RACI matrix for a cross-functional project or process. Use when asked to build a RACI, create a responsibility matrix, clarify ownership across teams, or document decision rights. Produces a complete RACI matrix with role definitions, decision mapping, and a process for resolving conflicts."
+description: "为跨职能项目或流程定义 RACI 矩阵。当被要求构建 RACI、创建责任矩阵、厘清跨团队职责归属或记录决策权时使用。产出完整的 RACI 矩阵，包含角色定义、决策映射以及冲突解决流程。 | Define a RACI matrix for a cross-functional project or process. Use when asked to build a RACI, create a responsibility matrix, clarify ownership across teams, or document decision rights. Produces a complete RACI matrix with role definitions, decision mapping, and a process for resolving conflicts."
 ---
 
 # RACI Matrix Skill

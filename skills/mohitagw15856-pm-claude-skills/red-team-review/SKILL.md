@@ -1,6 +1,6 @@
 ---
 name: red-team-review
-description: "Stress-test a plan, strategy, PRD, or launch by simulating hostile expert personas who attack it from every angle. Use when asked to red-team, stress-test, pre-mortem, pressure-test, play devil's advocate, or find the blind spots in a plan before committing. Produces a per-persona critique, a ranked list of the most dangerous risks, a pre-mortem, and the specific changes that would most strengthen the plan."
+description: "通过模拟从各个角度攻击方案的对立专家角色，对计划、策略、PRD 或发布方案进行压力测试。当被要求红队评估、压力测试、事前验尸、高压测试、唱反调，或在敲定计划前找出其盲点时使用。产出按角色划分的批评、按危险程度排序的风险列表、事前验尸分析以及最能强化该计划的具体修改建议。 | Stress-test a plan, strategy, PRD, or launch by simulating hostile expert personas who attack it from every angle. Use when asked to red-team, stress-test, pre-mortem, pressure-test, play devil's advocate, or find the blind spots in a plan before committing. Produces a per-persona critique, a ranked list of the most dangerous risks, a pre-mortem, and the specific changes that would most strengthen the plan."
 ---
 
 # Red-Team Review Skill

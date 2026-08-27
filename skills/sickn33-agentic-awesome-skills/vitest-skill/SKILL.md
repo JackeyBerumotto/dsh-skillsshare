@@ -1,6 +1,6 @@
 ---
 name: vitest-skill
-description: 'Generates Vitest tests in JavaScript/TypeScript with Vite-native speed. Jest-compatible API with ESM support and HMR. Use when user mentions "Vitest", "vi.mock", "vitest.config". Triggers on: "Vitest", "vi.mock", "vi.fn", "Vite test", "vitest config".'
+description: '生成 JavaScript/TypeScript 的 Vitest 测试，具备 Vite 原生速度。兼容 Jest 的 API，支持 ESM 和 HMR。当用户提到「Vitest」、「vi.mock」、「vitest.config」时使用。触发词：「Vitest」、「vi.mock」、「vi.fn」、「Vite test」、「vitest config」。 | Generates Vitest tests in JavaScript/TypeScript with Vite-native speed. Jest-compatible API with ESM support and HMR. Use when user mentions "Vitest", "vi.mock", "vitest.config". Triggers on: "Vitest", "vi.mock", "vi.fn", "Vite test", "vitest config".'
 risk: unknown
 source: https://github.com/LambdaTest/agent-skills/tree/main/vitest-skill
 source_repo: LambdaTest/agent-skills

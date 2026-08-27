@@ -1,6 +1,6 @@
 ---
 name: beautiful-prose
-description: A hard-edged writing style contract for timeless, forceful English prose without modern AI tics. Use when users ask for prose or rewrites that must be clean, exact, concrete, and free of AI cadence, filler, or therapeutic tone.
+description: 一份硬朗的写作风格契约，用于经久有力、不带现代 AI 腔调的英文散文。适用于用户要求产出或改写必须干净、精确、具体，且摆脱 AI 节奏、废话或治愈式语气的文字时。 | A hard-edged writing style contract for timeless, forceful English prose without modern AI tics. Use when users ask for prose or rewrites that must be clean, exact, concrete, and free of AI cadence, filler, or therapeutic tone.
 risk: unknown
 source: community
 ---

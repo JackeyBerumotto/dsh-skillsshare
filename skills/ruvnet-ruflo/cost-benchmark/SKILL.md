@@ -1,6 +1,6 @@
 ---
 name: cost-benchmark
-description: Run the corpus benchmark — booster locally, optional Gemini/Sonnet/Opus baselines — and persist a verifiable measured-vs-claimed table
+description: 运行语料基准测试——本地 booster，可选 Gemini/Sonnet/Opus 基线——并持久化一张可验证的实测对宣称对照表。 | Run the corpus benchmark — booster locally, optional Gemini/Sonnet/Opus baselines — and persist a verifiable measured-vs-claimed table
 argument-hint: "[--llm] [--anthropic]"
 allowed-tools: Bash
 ---

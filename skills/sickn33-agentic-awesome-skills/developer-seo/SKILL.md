@@ -1,6 +1,6 @@
 ---
 name: developer-seo
-description: 'SEO strategy for technical queries and developer audiences. Covers keyword research for "how to X in language" queries, error message SEO, Stack Overflow-style content, technical long-tail keywords, and competing with official documentation sites. Use when asked about: - SEO for...'
+description: '面向技术查询和开发者受众的 SEO 策略。覆盖「如何在某语言中实现 X」类查询的关键词研究、错误信息 SEO、Stack Overflow 式内容、技术长尾关键词，以及与官方文档站点竞争的方法。当被问到以下主题时使用：SEO 相关…… | SEO strategy for technical queries and developer audiences. Covers keyword research for "how to X in language" queries, error message SEO, Stack Overflow-style content, technical long-tail keywords, and competing with official documentation sites. Use when asked about: - SEO for...'
 risk: unknown
 source: https://github.com/jonathimer/devmarketing-skills/tree/main/skills/developer-seo
 source_repo: jonathimer/devmarketing-skills

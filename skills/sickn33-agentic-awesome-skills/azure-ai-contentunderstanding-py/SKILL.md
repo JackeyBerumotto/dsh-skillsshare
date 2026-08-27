@@ -1,6 +1,6 @@
 ---
 name: azure-ai-contentunderstanding-py
-description: Azure AI Content Understanding SDK for Python. Use for multimodal content extraction from documents, images, audio, and video.
+description: 适用于 Python 的 Azure AI Content Understanding SDK。用于从文档、图像、音频和视频中提取多模态内容。 | Azure AI Content Understanding SDK for Python. Use for multimodal content extraction from documents, images, audio, and video.
 risk: unknown
 source: community
 date_added: '2026-02-27'

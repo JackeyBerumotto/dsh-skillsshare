@@ -1,6 +1,6 @@
 ---
 name: outreach-message
-description: "Write cold outreach and networking messages that actually get replies. Use when asked to write a cold message to a recruiter/hiring manager, a LinkedIn connection note, a referral request, or a networking/coffee-chat ask during a job search. Produces short, specific, reply-worthy messages — tuned to the recipient and the ask — with a clear subject and a low-friction call to action."
+description: "撰写真正能收到回复的冷外联和人脉拓展消息。在被要求求职期间给招聘者/招聘经理写冷消息、LinkedIn 连接备注、内推请求，或约咖啡/人脉交流的请求时使用。产出简短、具体、值得回复的消息——针对收件人和诉求调优——带清晰主题和低摩擦的行动号召。 | Write cold outreach and networking messages that actually get replies. Use when asked to write a cold message to a recruiter/hiring manager, a LinkedIn connection note, a referral request, or a networking/coffee-chat ask during a job search. Produces short, specific, reply-worthy messages — tuned to the recipient and the ask — with a clear subject and a low-friction call to action."
 ---
 
 # Outreach Message Skill

@@ -1,6 +1,6 @@
 ---
 name: customer-advisory-board
-description: "Plan and run a customer advisory board (CAB). Use when asked to design a customer advisory board, plan a CAB meeting agenda, choose CAB members, or write CAB invitations and follow-ups. Produces a CAB program plan — objectives, member selection criteria, a meeting agenda, discussion guides, roles, logistics, and a follow-up and value-capture plan."
+description: "规划并运营客户顾问委员会（CAB）。当被要求设计客户顾问委员会、规划 CAB 会议议程、遴选 CAB 成员，或撰写 CAB 邀请与跟进时使用。产出一份 CAB 项目计划——目标、成员遴选标准、会议议程、讨论指南、角色分工、后勤，以及跟进与价值回收计划。 | Plan and run a customer advisory board (CAB). Use when asked to design a customer advisory board, plan a CAB meeting agenda, choose CAB members, or write CAB invitations and follow-ups. Produces a CAB program plan — objectives, member selection criteria, a meeting agenda, discussion guides, roles, logistics, and a follow-up and value-capture plan."
 ---
 
 # Customer Advisory Board Skill

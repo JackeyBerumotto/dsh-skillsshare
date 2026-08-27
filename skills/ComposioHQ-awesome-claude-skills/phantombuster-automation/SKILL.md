@@ -1,6 +1,6 @@
 ---
 name: PhantomBuster Automation
-description: "Automate lead generation, web scraping, and social media data extraction workflows through PhantomBuster's cloud platform via Composio"
+description: "通过 Composio 借助 PhantomBuster 云平台自动化潜客获取、网页抓取和社交媒体数据提取工作流 | Automate lead generation, web scraping, and social media data extraction workflows through PhantomBuster's cloud platform via Composio"
 requires:
   mcp:
     - rube

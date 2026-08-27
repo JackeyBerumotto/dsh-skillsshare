@@ -1,6 +1,6 @@
 ---
 name: tax-planning-checklist
-description: "Generate a structured tax planning checklist and review framework for any individual or business context. Use when asked to review tax planning, prepare for year-end tax, check tax efficiency, or identify tax-saving opportunities. Produces a checklist of considerations, common reliefs, and a review framework. Not a substitute for qualified tax advice."
+description: "为任何个人或企业场景生成结构化税务规划清单与审查框架。当被要求审查税务规划、筹备年末税务、检查税务效率或挖掘节税机会时使用。产出注意事项、常见减免与审查框架清单。不能替代合格的税务建议。 | Generate a structured tax planning checklist and review framework for any individual or business context. Use when asked to review tax planning, prepare for year-end tax, check tax efficiency, or identify tax-saving opportunities. Produces a checklist of considerations, common reliefs, and a review framework. Not a substitute for qualified tax advice."
 ---
 
 # Tax Planning Checklist Skill

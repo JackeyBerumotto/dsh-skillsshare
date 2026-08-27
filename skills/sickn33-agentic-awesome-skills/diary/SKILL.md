@@ -1,6 +1,6 @@
 ---
 name: diary
-description: "Unified Diary System: A context-preserving automated logger for multi-project development."
+description: "统一日志系统：面向多项目开发、可保留上下文的自动记录器。 | Unified Diary System: A context-preserving automated logger for multi-project development."
 risk: safe
 source: self
 ---

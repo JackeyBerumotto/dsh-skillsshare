@@ -1,6 +1,6 @@
 ---
 name: devops-automation
-description: CI/CD pipeline design with GitHub Actions, Docker, Kubernetes, Helm, and GitOps patterns
+description: 使用 GitHub Actions、Docker、Kubernetes、Helm 和 GitOps 模式的 CI/CD 流水线设计 | CI/CD pipeline design with GitHub Actions, Docker, Kubernetes, Helm, and GitOps patterns
 ---
 
 # DevOps Automation

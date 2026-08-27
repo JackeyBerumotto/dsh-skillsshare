@@ -1,6 +1,6 @@
 ---
 name: uniprot-database
-description: Direct REST API access to UniProt. Protein searches, FASTA retrieval, ID mapping, Swiss-Prot/TrEMBL. For Python workflows with multiple databases, prefer bioservices (unified interface to 40+ services). Use this for direct HTTP/REST work or UniProt-specific control.
+description: 直接通过 REST API 访问 UniProt。支持蛋白质检索、FASTA 获取、ID 映射、Swiss-Prot/TrEMBL。涉及多个数据库的 Python 工作流建议优先使用 bioservices（40 多个服务的统一接口）。本技能适用于直接进行 HTTP/REST 操作或需要 UniProt 专属控制的场景。 | Direct REST API access to UniProt. Protein searches, FASTA retrieval, ID mapping, Swiss-Prot/TrEMBL. For Python workflows with multiple databases, prefer bioservices (unified interface to 40+ services). Use this for direct HTTP/REST work or UniProt-specific control.
 license: Unknown
 metadata:
     skill-author: K-Dense Inc.

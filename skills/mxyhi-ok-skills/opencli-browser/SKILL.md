@@ -1,6 +1,6 @@
 ---
 name: opencli-browser
-description: Use when an agent needs to drive a real Chrome window via opencli — inspect a page, fill forms, click through logged-in flows, or extract data ad-hoc. Covers the selector-first target contract, compound form fields, stale-ref handling, network capture, and the agent-native envelopes the CLI returns. Not for writing adapters — see opencli-adapter-author for that.
+description: 当代理需要通过 opencli 驱动真实的 Chrome 窗口时使用——检查页面、填写表单、点击走通已登录的流程，或临时提取数据。涵盖选择器优先的目标契约、复合表单字段、失效引用处理、网络捕获，以及 CLI 返回的面向代理的原生封装。不用于编写适配器——那请参见 opencli-adapter-author。 | Use when an agent needs to drive a real Chrome window via opencli — inspect a page, fill forms, click through logged-in flows, or extract data ad-hoc. Covers the selector-first target contract, compound form fields, stale-ref handling, network capture, and the agent-native envelopes the CLI returns. Not for writing adapters — see opencli-adapter-author for that.
 allowed-tools: Bash(opencli:*), Read, Edit, Write
 ---
 

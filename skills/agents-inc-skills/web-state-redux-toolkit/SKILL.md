@@ -1,6 +1,6 @@
 ---
 name: web-state-redux-toolkit
-description: Redux Toolkit patterns for complex client state. Use when managing enterprise-scale state, needing DevTools, entity normalization, or RTK Query for data fetching.
+description: 面向复杂客户端状态的 Redux Toolkit 模式。在管理企业级状态、需要 DevTools、实体规范化或用 RTK Query 获取数据时使用。 | Redux Toolkit patterns for complex client state. Use when managing enterprise-scale state, needing DevTools, entity normalization, or RTK Query for data fetching.
 ---
 
 # Redux Toolkit Patterns

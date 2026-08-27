@@ -1,6 +1,6 @@
 ---
 name: technical-tutorials
-description: When the user wants to create step-by-step technical tutorials, quickstarts, or code walkthroughs. Trigger phrases include "tutorial," "quickstart," "getting started guide," "walkthrough," "step by step," "how to guide," "hands-on guide," or "code tutorial."
+description: 当用户想要创建分步骤技术教程、快速入门或代码走读时使用。触发词包括「tutorial」「quickstart」「getting started guide」「walkthrough」「step by step」「how to guide」「hands-on guide」或「code tutorial」。 | When the user wants to create step-by-step technical tutorials, quickstarts, or code walkthroughs. Trigger phrases include "tutorial," "quickstart," "getting started guide," "walkthrough," "step by step," "how to guide," "hands-on guide," or "code tutorial."
 risk: unknown
 source: https://github.com/jonathimer/devmarketing-skills/tree/main/skills/technical-tutorials
 source_repo: jonathimer/devmarketing-skills

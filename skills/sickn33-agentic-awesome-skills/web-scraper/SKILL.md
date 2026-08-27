@@ -1,6 +1,6 @@
 ---
 name: web-scraper
-description: Web scraping inteligente multi-estrategia. Extrai dados estruturados de paginas web (tabelas, listas, precos). Paginacao, monitoramento e export CSV/JSON.
+description: 多策略智能网页抓取。从网页中提取结构化数据（表格、列表、价格）。支持分页、监控和 CSV/JSON 导出。 | Web scraping inteligente multi-estrategia. Extrai dados estruturados de paginas web (tabelas, listas, precos). Paginacao, monitoramento e export CSV/JSON.
 risk: safe
 source: community
 date_added: '2026-03-06'

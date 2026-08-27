@@ -1,6 +1,6 @@
 ---
 name: implement
-description: Implement a piece of work based on a PRD or set of issues.
+description: 根据 PRD 或一组 issue 实现一项工作。 | Implement a piece of work based on a PRD or set of issues.
 risk: unknown
 source: https://github.com/mattpocock/skills/tree/main/skills/engineering/implement
 source_repo: mattpocock/skills

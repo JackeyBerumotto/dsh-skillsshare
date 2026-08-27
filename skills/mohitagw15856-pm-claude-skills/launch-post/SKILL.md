@@ -1,6 +1,6 @@
 ---
 name: launch-post
-description: "Write a developer-audience launch post — Show HN, a Product Hunt blurb, a 'we shipped X' dev blog intro, or a launch tweet thread. Use when launching a tool, library, API, or open-source project to a technical audience. Produces a credible, hype-free post that leads with what it does and why it's different, plus title options and a comment-ready first reply."
+description: "撰写面向开发者的发布文章——Show HN、Product Hunt 简介、「我们发布了 X」的开发者博客开篇，或发布推文串。在向技术受众发布工具、库、API 或开源项目时使用。产出可信、不炒作的文章，以它做什么和有何不同开头，并附标题选项和可直接发布的第一条评论。 | Write a developer-audience launch post — Show HN, a Product Hunt blurb, a 'we shipped X' dev blog intro, or a launch tweet thread. Use when launching a tool, library, API, or open-source project to a technical audience. Produces a credible, hype-free post that leads with what it does and why it's different, plus title options and a comment-ready first reply."
 ---
 
 # Launch Post Skill

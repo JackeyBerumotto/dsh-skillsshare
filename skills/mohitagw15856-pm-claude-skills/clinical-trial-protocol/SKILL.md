@@ -1,6 +1,6 @@
 ---
 name: clinical-trial-protocol
-description: "Draft a clinical trial protocol synopsis with the elements regulators and IRBs expect. Use when asked to write a clinical trial protocol, a study protocol synopsis, a trial design, or to structure endpoints/eligibility/statistics for an interventional study. Produces a structured protocol synopsis — objectives, design, population with eligibility, interventions, endpoints, statistics, and safety/ethics — for expert review. (For non-clinical/UX research, use research-protocol.)"
+description: "起草包含监管机构和 IRB 所期望要素的临床试验方案摘要。当被要求撰写临床试验方案、研究方案摘要、试验设计，或为干预性研究搭建终点/入组资格/统计框架时使用。产出供专家评审的结构化方案摘要——目标、设计、人群与入组资格、干预措施、终点、统计以及安全性/伦理。（非临床/UX 研究请使用 research-protocol。） | Draft a clinical trial protocol synopsis with the elements regulators and IRBs expect. Use when asked to write a clinical trial protocol, a study protocol synopsis, a trial design, or to structure endpoints/eligibility/statistics for an interventional study. Produces a structured protocol synopsis — objectives, design, population with eligibility, interventions, endpoints, statistics, and safety/ethics — for expert review. (For non-clinical/UX research, use research-protocol.)"
 ---
 
 # Clinical Trial Protocol Skill

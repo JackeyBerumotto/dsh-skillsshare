@@ -1,7 +1,6 @@
 ---
 name: implementing-rapid7-insightvm-for-scanning
-description: Deploy and configure Rapid7 InsightVM Security Console and Scan Engines
-  for authenticated and unauthenticated vulnerability scanning across enterprise environments.
+description: "部署并配置 Rapid7 InsightVM 安全控制台和扫描引擎，在企业环境中进行带凭据和无凭据的漏洞扫描。 | Deploy and configure Rapid7 InsightVM Security Console and Scan Engines for authenticated and unauthenticated vulnerability scanning across enterprise environments."
 domain: cybersecurity
 subdomain: vulnerability-management
 tags:

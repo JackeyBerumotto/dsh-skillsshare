@@ -1,6 +1,6 @@
 ---
 name: harness-bench
-description: Manage `@metaharness/darwin` bench suites — `bench create <repo>` scaffolds a JSON suite from a repo's test corpus; `bench verify <suite.json>` checks suite well-formedness. Bench suites are the fixed evaluation corpora that `harness-evolve --bench <suite.json>` scores variants against, decoupling evolution from the repo's natural tests. Degrades gracefully when @metaharness/darwin is absent.
+description: 管理 `@metaharness/darwin` 的 bench 套件——`bench create <repo>` 可从仓库测试语料生成 JSON 套件；`bench verify <suite.json>` 检查套件格式是否规范。Bench 套件是固定的评测语料，`harness-evolve --bench <suite.json>` 以它为变体打分，从而把进化过程与仓库自身的测试解耦。当 @metaharness/darwin 缺失时可优雅降级。 | Manage `@metaharness/darwin` bench suites — `bench create <repo>` scaffolds a JSON suite from a repo's test corpus; `bench verify <suite.json>` checks suite well-formedness. Bench suites are the fixed evaluation corpora that `harness-evolve --bench <suite.json>` scores variants against, decoupling evolution from the repo's natural tests. Degrades gracefully when @metaharness/darwin is absent.
 argument-hint: "--op create --repo <path> [--out <path>]  |  --op verify --suite <path>"
 allowed-tools: Bash
 ---

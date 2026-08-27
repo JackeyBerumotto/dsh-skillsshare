@@ -1,6 +1,6 @@
 ---
 name: "azure-cloud-architect"
-description: "Design Azure architectures for startups and enterprises. Use when asked to design Azure infrastructure, create Bicep/ARM templates, optimize Azure costs, set up Azure DevOps pipelines, or migrate to Azure. Covers AKS, App Service, Azure Functions, Cosmos DB, and cost optimization."
+description: "为初创公司和企业设计 Azure 架构。当被要求设计 Azure 基础设施、创建 Bicep/ARM 模板、优化 Azure 成本、搭建 Azure DevOps 流水线或迁移到 Azure 时使用。涵盖 AKS、App Service、Azure Functions、Cosmos DB 和成本优化。 | Design Azure architectures for startups and enterprises. Use when asked to design Azure infrastructure, create Bicep/ARM templates, optimize Azure costs, set up Azure DevOps pipelines, or migrate to Azure. Covers AKS, App Service, Azure Functions, Cosmos DB, and cost optimization."
 ---
 
 # Azure Cloud Architect

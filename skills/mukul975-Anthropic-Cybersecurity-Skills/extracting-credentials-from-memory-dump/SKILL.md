@@ -1,7 +1,6 @@
 ---
 name: extracting-credentials-from-memory-dump
-description: Extract cached credentials, password hashes, Kerberos tickets, and authentication
-  tokens from memory dumps using Volatility and Mimikatz for forensic investigation.
+description: "使用 Volatility 和 Mimikatz 从内存转储中提取缓存凭据、密码哈希、Kerberos 票据和身份验证令牌，用于取证调查。 | Extract cached credentials, password hashes, Kerberos tickets, and authentication tokens from memory dumps using Volatility and Mimikatz for forensic investigation."
 domain: cybersecurity
 subdomain: digital-forensics
 tags:

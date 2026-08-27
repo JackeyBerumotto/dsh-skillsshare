@@ -1,6 +1,6 @@
 ---
 name: thumbnail-creator
-description: "Generate article or newsletter thumbnail candidates using the Gemini API from inside Claude Code. Claude reads article copy, proposes composition concepts, writes image generation prompts incorporating brand specs, calls Gemini to generate the images, evaluates the results via computer vision, and returns ranked candidates with rationale. Use when asked to create thumbnails, generate cover images, or produce visual candidates for an article or newsletter."
+description: "在 Claude Code 内部通过 Gemini API 生成文章或新闻通讯缩略图候选。Claude 阅读文章正文，提出构图概念，撰写融入品牌规范的图像生成提示词，调用 Gemini 生成图像，通过计算机视觉评估结果，并返回带理由的排序候选。当被要求创建缩略图、生成封面图像，或为文章或新闻通讯制作视觉候选时使用。 | Generate article or newsletter thumbnail candidates using the Gemini API from inside Claude Code. Claude reads article copy, proposes composition concepts, writes image generation prompts incorporating brand specs, calls Gemini to generate the images, evaluates the results via computer vision, and returns ranked candidates with rationale. Use when asked to create thumbnails, generate cover images, or produce visual candidates for an article or newsletter."
 ---
 
 # Thumbnail Creator Skill (via Gemini)

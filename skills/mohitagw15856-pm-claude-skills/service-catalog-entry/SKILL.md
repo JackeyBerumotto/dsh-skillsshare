@@ -1,6 +1,6 @@
 ---
 name: service-catalog-entry
-description: "Write a service catalog entry for a microservice or internal platform service — covering service identity, purpose, architecture context, SLAs, API contract summary, data classification, dependencies, operational runbooks, and known limitations. Use when asked to document a service for an internal developer portal, write a service README for a platform catalog, create a service overview page, or onboard a new service to a service registry. Produces a complete service catalog entry suitable for an internal developer portal or wiki."
+description: "为微服务或内部平台服务编写服务目录条目——涵盖服务标识、用途、架构上下文、SLA、API 契约摘要、数据分级、依赖、运维手册和已知限制。在被要求为内部开发者门户记录服务、为平台目录编写服务 README、创建服务概览页，或将新服务登记到服务注册中心时使用。产出适合内部开发者门户或 wiki 的完整服务目录条目。 | Write a service catalog entry for a microservice or internal platform service — covering service identity, purpose, architecture context, SLAs, API contract summary, data classification, dependencies, operational runbooks, and known limitations. Use when asked to document a service for an internal developer portal, write a service README for a platform catalog, create a service overview page, or onboard a new service to a service registry. Produces a complete service catalog entry suitable for an internal developer portal or wiki."
 ---
 
 # Service Catalog Entry Skill

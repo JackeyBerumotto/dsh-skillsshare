@@ -2,7 +2,7 @@
 name: creating-webhook-handlers
 version: 1.0.0
 description: |
-  Create webhook endpoints with signature verification, retry logic, and payload validation.
+  创建具备签名验证、重试逻辑和载荷校验的 webhook 端点。当需要接收和处理 webhook 事件时使用。可通过「create webhook」「handle webhook events」或「setup webhook handler」等短语触发。 |
   Use when receiving and processing webhook events.
   Trigger with phrases like "create webhook", "handle webhook events", or "setup webhook handler".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(api:webhook-*)

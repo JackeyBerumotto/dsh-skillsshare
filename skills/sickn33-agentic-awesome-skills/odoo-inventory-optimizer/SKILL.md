@@ -1,6 +1,6 @@
 ---
 name: odoo-inventory-optimizer
-description: "Expert guide for Odoo Inventory: stock valuation (FIFO/AVCO), reordering rules, putaway strategies, routes, and multi-warehouse configuration."
+description: "Odoo 库存专家指南：库存计价（FIFO/AVCO）、再订货规则、上架策略、路线以及多仓库配置。 | Expert guide for Odoo Inventory: stock valuation (FIFO/AVCO), reordering rules, putaway strategies, routes, and multi-warehouse configuration."
 risk: safe
 source: "self"
 ---

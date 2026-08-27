@@ -2,7 +2,7 @@
 name: running-smoke-tests
 version: 1.0.0
 description: |
-  Execute fast smoke tests validating critical functionality after deployment.
+  执行快速冒烟测试，在部署后验证关键功能。在进行专项测试时使用。触发短语包括「run smoke tests」「quick validation」或「test critical paths」。 |
   Use when performing specialized testing.
   Trigger with phrases like "run smoke tests", "quick validation", or "test critical paths".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(test:smoke-*)

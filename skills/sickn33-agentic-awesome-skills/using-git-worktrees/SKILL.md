@@ -1,6 +1,6 @@
 ---
 name: using-git-worktrees
-description: "Git worktrees create isolated workspaces sharing the same repository, allowing work on multiple branches simultaneously without switching."
+description: "Git worktree 创建共享同一仓库的隔离工作区，允许同时在多个分支上工作而无需来回切换。 | Git worktrees create isolated workspaces sharing the same repository, allowing work on multiple branches simultaneously without switching."
 risk: critical
 source: community
 date_added: "2026-02-27"

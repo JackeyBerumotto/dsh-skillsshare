@@ -1,6 +1,6 @@
 ---
 name: intent-driven-development
-description: Turn ambiguous or high-impact product and engineering changes into scoped, verifiable acceptance criteria before or alongside implementation. Use when a user asks to clarify a feature, define acceptance criteria, de-risk a security/data/migration/integration change, prepare implementation requirements for another agent, or make a complex request testable. Do not trigger for trivial edits, straightforward fixes, active debugging, code review, or implementation requests whose acceptance conditions are already clear unless the user explicitly invokes this skill.
+description: 在实施之前或同时，把模糊或高影响力的产品与工程变更转化为范围明确、可验证的验收标准。当用户要求澄清功能、定义验收标准、为安全/数据/迁移/集成变更降低风险、为其他智能体准备实现需求，或让复杂请求变得可测试时使用。对于琐碎编辑、简单修复、正在进行的调试、代码评审，或验收条件已经明确的实现请求，除非用户显式调用本技能，否则不要触发。 | Turn ambiguous or high-impact product and engineering changes into scoped, verifiable acceptance criteria before or alongside implementation. Use when a user asks to clarify a feature, define acceptance criteria, de-risk a security/data/migration/integration change, prepare implementation requirements for another agent, or make a complex request testable. Do not trigger for trivial edits, straightforward fixes, active debugging, code review, or implementation requests whose acceptance conditions are already clear unless the user explicitly invokes this skill.
 ---
 
 # Intent-Driven Development

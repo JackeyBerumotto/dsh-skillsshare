@@ -2,7 +2,7 @@
 name: managing-test-environments
 version: 1.0.0
 description: |
-  Provision and manage isolated test environments with configuration and data.
+  配置并管理带配置和数据的隔离测试环境。在执行专项测试时使用。触发短语如「manage test environment」「provision test env」或「setup test infrastructure」。 |
   Use when performing specialized testing.
   Trigger with phrases like "manage test environment", "provision test env", or "setup test infrastructure".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(test:env-*)

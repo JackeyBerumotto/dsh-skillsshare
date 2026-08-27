@@ -1,6 +1,6 @@
 ---
 name: ai-elements
-description: Build AI chat interfaces using ai-elements components — conversations, messages, tool displays, prompt inputs, and more. Use when the user wants to build a chatbot, AI assistant UI, or any AI-powered chat interface.
+description: 使用 ai-elements 组件构建 AI 聊天界面——对话、消息、工具展示、提示输入框等。当用户想构建聊天机器人、AI 助手界面或任何 AI 驱动的聊天界面时使用。 | Build AI chat interfaces using ai-elements components — conversations, messages, tool displays, prompt inputs, and more. Use when the user wants to build a chatbot, AI assistant UI, or any AI-powered chat interface.
 ---
 
 # AI Elements

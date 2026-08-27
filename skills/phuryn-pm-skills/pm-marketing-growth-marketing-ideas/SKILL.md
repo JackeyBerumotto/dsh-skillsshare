@@ -1,6 +1,6 @@
 ---
 name: marketing-ideas
-description: "Generate 5 creative, cost-effective marketing ideas with channels, messaging, and engagement rationale. Use when brainstorming marketing campaigns, planning product promotion, or looking for creative marketing tactics."
+description: "生成 5 个有创意且划算的营销点子，附渠道、信息与互动理由。在头脑风暴营销活动、规划产品推广或寻找创意营销打法时使用。 | Generate 5 creative, cost-effective marketing ideas with channels, messaging, and engagement rationale. Use when brainstorming marketing campaigns, planning product promotion, or looking for creative marketing tactics."
 ---
 # Marketing Ideas
 

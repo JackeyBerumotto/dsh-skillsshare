@@ -1,14 +1,6 @@
 ---
 name: performing-api-inventory-and-discovery
-description: 'Performs API inventory and discovery to identify all API endpoints in
-  an organization''s environment including documented, undocumented, shadow, zombie,
-  and deprecated APIs. The tester uses passive traffic analysis, active scanning,
-  DNS enumeration, JavaScript analysis, and cloud resource inventory to build a comprehensive
-  API catalog. Maps to OWASP API9:2023 Improper Inventory Management. Activates for
-  requests involving API discovery, shadow API detection, API inventory audit, or
-  attack surface mapping.
-
-  '
+description: "执行 API 清单与发现，识别组织环境中的所有 API 端点，包括已文档化、未文档化、影子、僵尸和已弃用的 API。测试人员使用被动流量分析、主动扫描、DNS 枚举、JavaScript 分析和云资源清点构建全面的 API 目录。对应 OWASP API9:2023 资产清单管理不当。当请求涉及 API 发现、影子 API 检测、API 清单审计或攻击面绘制时激活。 | Performs API inventory and discovery to identify all API endpoints in an organization''s environment including documented, undocumented, shadow, zombie, and deprecated APIs. The tester uses passive traffic analysis, active scanning, DNS enumeration, JavaScript analysis, and cloud resource inventory to build a comprehensive API catalog. Maps to OWASP API9:2023 Improper Inventory Management. Activates for requests involving API discovery, shadow API detection, API inventory audit, or attack surface mapping."
 domain: cybersecurity
 subdomain: api-security
 tags:

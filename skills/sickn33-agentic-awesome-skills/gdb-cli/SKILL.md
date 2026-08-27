@@ -1,6 +1,6 @@
 ---
 name: gdb-cli
-description: "GDB debugging assistant for AI agents - analyze core dumps, debug live processes, investigate crashes and deadlocks with source code correlation"
+description: "面向 AI 智能体的 GDB 调试助手——分析核心转储、调试运行中的进程、结合源码关联排查崩溃与死锁 | GDB debugging assistant for AI agents - analyze core dumps, debug live processes, investigate crashes and deadlocks with source code correlation"
 category: development
 risk: critical
 source: community

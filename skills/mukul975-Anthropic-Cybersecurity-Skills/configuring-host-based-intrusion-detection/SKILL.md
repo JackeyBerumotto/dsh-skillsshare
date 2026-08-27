@@ -1,13 +1,6 @@
 ---
 name: configuring-host-based-intrusion-detection
-description: 'Configures host-based intrusion detection systems (HIDS) to monitor
-  endpoint file integrity, system calls, and configuration changes for security violations.
-  Use when deploying OSSEC, Wazuh, or AIDE for endpoint monitoring, building file
-  integrity monitoring (FIM) policies, or meeting compliance requirements for change
-  detection. Activates for requests involving HIDS configuration, file integrity monitoring,
-  OSSEC/Wazuh deployment, or host-based detection.
-
-  '
+description: "配置基于主机的入侵检测系统（HIDS），监控终端文件完整性、系统调用和配置变更以发现安全违规。当部署 OSSEC、Wazuh 或 AIDE 进行终端监控、构建文件完整性监控（FIM）策略或满足变更检测合规要求时使用。当请求涉及 HIDS 配置、文件完整性监控、OSSEC/Wazuh 部署或基于主机的检测时激活。 | Configures host-based intrusion detection systems (HIDS) to monitor endpoint file integrity, system calls, and configuration changes for security violations. Use when deploying OSSEC, Wazuh, or AIDE for endpoint monitoring, building file integrity monitoring (FIM) policies, or meeting compliance requirements for change detection. Activates for requests involving HIDS configuration, file integrity monitoring, OSSEC/Wazuh deployment, or host-based detection."
 domain: cybersecurity
 subdomain: endpoint-security
 tags:

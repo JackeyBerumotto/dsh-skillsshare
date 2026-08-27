@@ -1,6 +1,6 @@
 ---
 name: tiered-audit
-description: Runs a three-tier codebase audit (git history, targeted scans, full review) with gating. Use when auditing a codebase before release or after incidents.
+description: 运行三级代码库审计（git 历史、定向扫描、全面评审）并带门禁。在发布前或事故后审计代码库时使用。 | Runs a three-tier codebase audit (git history, targeted scans, full review) with gating. Use when auditing a codebase before release or after incidents.
 alwaysApply: false
 category: audit
 tags:

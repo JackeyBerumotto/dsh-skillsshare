@@ -1,6 +1,6 @@
 ---
 name: "AgentDB Memory Patterns"
-description: "Implement persistent memory patterns for AI agents using AgentDB. Includes session memory, long-term storage, pattern learning, and context management. Use when building stateful agents, chat systems, or intelligent assistants."
+description: "使用 AgentDB 为 AI 智能体实现持久记忆模式。包括会话记忆、长期存储、模式学习和上下文管理。在构建有状态智能体、聊天系统或智能助手时使用。 | Implement persistent memory patterns for AI agents using AgentDB. Includes session memory, long-term storage, pattern learning, and context management. Use when building stateful agents, chat systems, or intelligent assistants."
 ---
 
 # AgentDB Memory Patterns

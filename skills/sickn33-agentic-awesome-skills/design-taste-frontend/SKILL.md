@@ -1,6 +1,6 @@
 ---
 name: design-taste-frontend
-description: "Use when building high-agency frontend interfaces with strict design taste, calibrated color, responsive layout, and motion rules."
+description: "在构建高自主性的前端界面时使用，要求严格的设计品味、校准的色彩、响应式布局和动效规则。 | Use when building high-agency frontend interfaces with strict design taste, calibrated color, responsive layout, and motion rules."
 category: frontend
 risk: safe
 source: community

@@ -1,6 +1,6 @@
 ---
 name: sendgrid-automation
-description: "Automate SendGrid email delivery workflows including marketing campaigns (Single Sends), contact and list management, sender identity setup, and email analytics through Composio's SendGrid toolkit."
+description: "通过 Composio 的 SendGrid 工具包自动化 SendGrid 邮件投递工作流，包括营销活动（Single Sends）、联系人与列表管理、发件人身份设置以及邮件分析。 | Automate SendGrid email delivery workflows including marketing campaigns (Single Sends), contact and list management, sender identity setup, and email analytics through Composio's SendGrid toolkit."
 risk: critical
 source: community
 date_added: "2026-02-27"

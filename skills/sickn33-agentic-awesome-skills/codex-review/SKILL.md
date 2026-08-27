@@ -1,6 +1,6 @@
 ---
 name: codex-review
-description: "Professional code review with auto CHANGELOG generation, integrated with Codex AI. Use when you want professional code review before commits, you need automatic CHANGELOG generation, or reviewing large-scale refactoring."
+description: "专业代码评审并自动生成 CHANGELOG，集成 Codex AI。当你想在提交前做专业代码评审、需要自动生成 CHANGELOG，或评审大规模重构时使用。 | Professional code review with auto CHANGELOG generation, integrated with Codex AI. Use when you want professional code review before commits, you need automatic CHANGELOG generation, or reviewing large-scale refactoring."
 risk: unknown
 source: community
 date_added: "2026-02-27"

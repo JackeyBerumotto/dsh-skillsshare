@@ -1,5 +1,5 @@
 ---
-description: Use when detecting infrastructure drift from desired state. Trigger with phrases like "check for drift", "infrastructure drift detection", "compare actual vs desired state", or "detect configuration changes". Identifies discrepancies between current infrastructure and IaC definitions using terraform plan, cloudformation drift detection, or manual comparison.
+description: 在检测基础设施相对期望状态的偏移时使用。触发词如「check for drift」「infrastructure drift detection」「compare actual vs desired state」或「detect configuration changes」。使用 terraform plan、cloudformation 偏移检测或人工比对，识别当前基础设施与 IaC 定义之间的差异。 | Use when detecting infrastructure drift from desired state. Trigger with phrases like "check for drift", "infrastructure drift detection", "compare actual vs desired state", or "detect configuration changes". Identifies discrepancies between current infrastructure and IaC definitions using terraform plan, cloudformation drift detection, or manual comparison.
 allowed-tools:
 - Read
 - Write

@@ -1,6 +1,6 @@
 ---
 name: job-description-writer
-description: "Write a clear, inclusive, and structured job description for any role. Use when asked to write a job description, job posting, JD, or job advert. Produces a complete JD with role summary, responsibilities, requirements, and inclusive language review."
+description: "为任何职位撰写清晰、包容且结构化的职位描述。在被要求编写职位描述、招聘启事、JD 或职位广告时使用。产出完整的 JD，包含角色概述、职责、要求和包容性用语审查。 | Write a clear, inclusive, and structured job description for any role. Use when asked to write a job description, job posting, JD, or job advert. Produces a complete JD with role summary, responsibilities, requirements, and inclusive language review."
 ---
 
 # Job Description Writer Skill

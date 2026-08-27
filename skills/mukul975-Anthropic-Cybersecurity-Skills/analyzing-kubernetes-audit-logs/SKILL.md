@@ -1,11 +1,6 @@
 ---
 name: analyzing-kubernetes-audit-logs
-description: 'Parses Kubernetes API server audit logs (JSON lines) to detect exec-into-pod,
-  secret access, RBAC modifications, privileged pod creation, and anonymous API access.
-  Builds threat detection rules from audit event patterns. Use when investigating
-  Kubernetes cluster compromise or building k8s-specific SIEM detection rules.
-
-  '
+description: "解析 Kubernetes API 服务器审计日志（JSON lines），检测 exec-into-pod、Secret 访问、RBAC 修改、特权 Pod 创建和匿名 API 访问。基于审计事件模式构建威胁检测规则。适用于调查 Kubernetes 集群失陷或构建 k8s 专用 SIEM 检测规则时使用。 | Parses Kubernetes API server audit logs (JSON lines) to detect exec-into-pod, secret access, RBAC modifications, privileged pod creation, and anonymous API access. Builds threat detection rules from audit event patterns. Use when investigating Kubernetes cluster compromise or building k8s-specific SIEM detection rules."
 domain: cybersecurity
 subdomain: container-security
 tags:

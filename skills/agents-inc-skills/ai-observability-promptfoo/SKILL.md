@@ -1,6 +1,6 @@
 ---
 name: ai-observability-promptfoo
-description: Testing and evaluation framework for LLM prompts and applications -- promptfooconfig.yaml, assertions, model-graded evals, red teaming, CI/CD integration, custom providers, and comparative evaluation
+description: LLM 提示词与应用的测试评估框架：promptfooconfig.yaml、断言、模型评分评估、红队测试、CI/CD 集成、自定义 provider 和对比评估 | Testing and evaluation framework for LLM prompts and applications -- promptfooconfig.yaml, assertions, model-graded evals, red teaming, CI/CD integration, custom providers, and comparative evaluation
 ---
 
 # Promptfoo Patterns

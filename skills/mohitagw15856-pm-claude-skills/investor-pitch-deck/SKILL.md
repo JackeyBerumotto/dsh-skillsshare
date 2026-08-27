@@ -1,6 +1,6 @@
 ---
 name: investor-pitch-deck
-description: "Build the narrative and slide structure for an investor pitch deck. Use when asked to create a pitch deck, investor presentation, fundraising deck, or startup pitch. Produces a slide-by-slide structure with narrative beats, key messages, and what each slide must prove to an investor."
+description: "为投资人路演幻灯片构建叙事和页面结构。当被要求创建路演幻灯片、投资人演示、融资简报或创业路演时使用。产出逐页结构，包含叙事节拍、关键信息，以及每页必须向投资人证明的内容。 | Build the narrative and slide structure for an investor pitch deck. Use when asked to create a pitch deck, investor presentation, fundraising deck, or startup pitch. Produces a slide-by-slide structure with narrative beats, key messages, and what each slide must prove to an investor."
 ---
 
 # Investor Pitch Deck Skill

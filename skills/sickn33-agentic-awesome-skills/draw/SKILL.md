@@ -1,6 +1,6 @@
 ---
 name: draw
-description: "Vector graphics and diagram creation, format conversion (ODG/SVG/PDF) with LibreOffice Draw."
+description: "使用 LibreOffice Draw 进行矢量图形与图表创建及格式转换（ODG/SVG/PDF）。 | Vector graphics and diagram creation, format conversion (ODG/SVG/PDF) with LibreOffice Draw."
 category: graphics-processing
 risk: safe
 source: personal

@@ -1,6 +1,6 @@
 ---
 name: ii-commons
-description: "Deterministic search across arXiv, PubMed/PMC, and US policy corpora with daily freshness cutoffs."
+description: "跨 arXiv、PubMed/PMC 和美国政策语料库的确定性检索，支持按日新鲜度截止。 | Deterministic search across arXiv, PubMed/PMC, and US policy corpora with daily freshness cutoffs."
 category: research
 risk: safe
 source: community

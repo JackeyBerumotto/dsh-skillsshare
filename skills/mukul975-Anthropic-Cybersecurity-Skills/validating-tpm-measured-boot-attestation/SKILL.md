@@ -1,6 +1,6 @@
 ---
 name: validating-tpm-measured-boot-attestation
-description: Verify TPM PCRs and measured-boot and remote-attestation integrity.
+description: 验证 TPM PCR、度量启动和远程证明的完整性。 | Verify TPM PCRs and measured-boot and remote-attestation integrity.
 domain: cybersecurity
 subdomain: hardware-firmware-security
 tags:

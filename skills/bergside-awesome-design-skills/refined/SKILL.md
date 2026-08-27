@@ -1,6 +1,6 @@
 ---
 name: refined
-description: Carefully curated, modern minimal style with elegant serif typography and understated, sophisticated palettes.
+description: 精心策划的现代极简风格，配优雅的衬线排版和低调而精致的配色。 | Carefully curated, modern minimal style with elegant serif typography and understated, sophisticated palettes.
 license: MIT
 metadata:
   author: typeui.sh

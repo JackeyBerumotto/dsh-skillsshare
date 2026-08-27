@@ -1,6 +1,6 @@
 ---
 name: unship
-description: "Compare AI agent-made UI variants locally in a real app, then keep one and clean up unused temporary code."
+description: "在本地真实应用中比较 AI Agent 生成的多个 UI 变体，然后保留其一并清理未使用的临时代码。 | Compare AI agent-made UI variants locally in a real app, then keep one and clean up unused temporary code."
 category: development
 risk: critical
 source: community

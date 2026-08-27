@@ -1,6 +1,6 @@
 ---
 name: power-user-cultivation
-description: When the user wants to identify and nurture developer advocates, build champion programs, or turn active users into contributors and evangelists. Trigger phrases include "power users," "developer advocates," "ambassador program," "champion program," "community contributors," "referral...
+description: 当用户想要识别并培养开发者布道者、构建冠军计划，或将活跃用户转化为贡献者和传播者时使用。触发词包括「power users」「developer advocates」「ambassador program」「champion program」「community contributors」「referral……」。 | When the user wants to identify and nurture developer advocates, build champion programs, or turn active users into contributors and evangelists. Trigger phrases include "power users," "developer advocates," "ambassador program," "champion program," "community contributors," "referral...
 risk: unknown
 source: https://github.com/jonathimer/devmarketing-skills/tree/main/skills/power-user-cultivation
 source_repo: jonathimer/devmarketing-skills

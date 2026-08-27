@@ -1,7 +1,7 @@
 ---
 name: finding-security-misconfigurations
 description: |
-  Identify security misconfigurations in infrastructure-as-code, application settings, and system configurations.
+  识别基础设施即代码、应用设置和系统配置中的安全错误配置。在需要审计 Terraform/CloudFormation 模板、检查应用配置文件、验证系统安全设置或确保符合安全最佳实践时使用。触发短语如「find security misconfigurations」、「audit infrastructure security」、「check config security」或「scan for misconfigured settings」。 |
   Use when you need to audit Terraform/CloudFormation templates, check application config files, validate system security settings, or ensure compliance with security best practices.
   Trigger with phrases like "find security misconfigurations", "audit infrastructure security", "check config security", or "scan for misconfigured settings".
 allowed-tools:

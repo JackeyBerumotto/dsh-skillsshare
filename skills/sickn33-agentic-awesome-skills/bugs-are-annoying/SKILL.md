@@ -1,6 +1,6 @@
 ---
 name: bugs-are-annoying
-description: Adversarial code auditor that hunts down bugs, logic errors, and security flaws. Use for deep correctness passes, not style reviews.
+description: 对抗式代码审计器，专用于追查缺陷、逻辑错误和安全漏洞。适用于深度正确性审查，而非风格评审。 | Adversarial code auditor that hunts down bugs, logic errors, and security flaws. Use for deep correctness passes, not style reviews.
 risk: critical
 source: community
 date_added: "2026-06-19"

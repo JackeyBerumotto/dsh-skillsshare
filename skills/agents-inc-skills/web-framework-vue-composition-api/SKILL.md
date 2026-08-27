@@ -1,6 +1,6 @@
 ---
 name: web-framework-vue-composition-api
-description: Vue 3 Composition API patterns, reactivity primitives, composables, lifecycle hooks
+description: Vue 3 Composition API 模式、响应式原语、组合式函数和生命周期钩子。 | Vue 3 Composition API patterns, reactivity primitives, composables, lifecycle hooks
 ---
 
 # Vue 3 Composition API

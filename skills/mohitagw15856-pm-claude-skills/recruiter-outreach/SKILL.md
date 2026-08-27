@@ -1,6 +1,6 @@
 ---
 name: recruiter-outreach
-description: "Write personalized candidate outreach that gets replies. Use when asked to write a recruiter InMail, a candidate outreach email, a sourcing message, or a follow-up sequence. Produces a short, personalized first message (hook tied to the candidate, the role's appeal, a low-friction ask) plus a 2–3 step follow-up sequence — honest and candidate-respectful, not spammy."
+description: "撰写能收到回复的个性化候选人触达。在被要求编写招聘 InMail、候选人触达邮件、sourcing 消息或跟进序列时使用。产出简短、个性化的首条消息（贴合候选人的钩子、职位吸引力、低摩擦的请求）外加 2-3 步跟进序列——诚实且尊重候选人，不惹人烦。 | Write personalized candidate outreach that gets replies. Use when asked to write a recruiter InMail, a candidate outreach email, a sourcing message, or a follow-up sequence. Produces a short, personalized first message (hook tied to the candidate, the role's appeal, a low-friction ask) plus a 2–3 step follow-up sequence — honest and candidate-respectful, not spammy."
 ---
 
 # Recruiter Outreach Skill

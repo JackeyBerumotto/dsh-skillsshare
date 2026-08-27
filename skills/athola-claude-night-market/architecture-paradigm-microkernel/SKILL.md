@@ -1,6 +1,6 @@
 ---
 name: architecture-paradigm-microkernel
-description: Applies microkernel architecture with minimal core and plugin extensibility. Use when building platforms where third parties extend core functionality.
+description: 应用微内核架构，核心极简并支持插件扩展。在构建由第三方扩展核心功能的平台时使用。 | Applies microkernel architecture with minimal core and plugin extensibility. Use when building platforms where third parties extend core functionality.
 alwaysApply: false
 category: architectural-pattern
 tags:

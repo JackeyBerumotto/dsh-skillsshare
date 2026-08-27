@@ -1,6 +1,6 @@
 ---
 name: developer-onboarding-doc
-description: "Write a developer onboarding document for a service, codebase, or team. Use when asked to write a developer guide, service README, onboarding doc for a new engineer, codebase orientation, or getting-started guide for a technical team. Produces a structured doc covering service overview, architecture, local setup, key patterns, testing, deployment, and who to ask for what."
+description: "为服务、代码库或团队编写开发者入职文档。在被要求编写开发者指南、服务 README、新工程师入职文档、代码库导览或技术团队入门指南时使用。产出结构化文档，涵盖服务概览、架构、本地搭建、关键模式、测试、部署以及遇到问题该找谁。 | Write a developer onboarding document for a service, codebase, or team. Use when asked to write a developer guide, service README, onboarding doc for a new engineer, codebase orientation, or getting-started guide for a technical team. Produces a structured doc covering service overview, architecture, local setup, key patterns, testing, deployment, and who to ask for what."
 ---
 
 # Developer Onboarding Document Skill

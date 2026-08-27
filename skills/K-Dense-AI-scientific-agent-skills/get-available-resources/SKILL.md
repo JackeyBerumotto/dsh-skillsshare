@@ -1,6 +1,6 @@
 ---
 name: get-available-resources
-description: This skill should be used at the start of any computationally intensive scientific task to detect and report available system resources (CPU cores, GPUs, memory, disk space). It creates a JSON file with resource information and strategic recommendations that inform computational approach decisions such as whether to use parallel processing (joblib, multiprocessing), out-of-core computing (Dask, Zarr), GPU acceleration (PyTorch, JAX), or memory-efficient strategies. Use this skill before running analyses, training models, processing large datasets, or any task where resource constraints matter.
+description: 此技能应在任何计算密集型科学任务开始时使用，用于检测并报告可用系统资源（CPU 核心、GPU、内存、磁盘空间）。它会创建一个包含资源信息和策略性建议的 JSON 文件，为计算方案决策提供依据，例如是否使用并行处理（joblib、multiprocessing）、核外计算（Dask、Zarr）、GPU 加速（PyTorch、JAX）或内存高效策略。在运行分析、训练模型、处理大型数据集或任何资源约束重要的任务之前使用本技能。 | This skill should be used at the start of any computationally intensive scientific task to detect and report available system resources (CPU cores, GPUs, memory, disk space). It creates a JSON file with resource information and strategic recommendations that inform computational approach decisions such as whether to use parallel processing (joblib, multiprocessing), out-of-core computing (Dask, Zarr), GPU acceleration (PyTorch, JAX), or memory-efficient strategies. Use this skill before running analyses, training models, processing large datasets, or any task where resource constraints matter.
 license: MIT license
 metadata: {"version": "1.0", "skill-author": "K-Dense Inc."}
 ---

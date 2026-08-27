@@ -1,8 +1,6 @@
 ---
 name: plaid-fintech
-description: Expert patterns for Plaid API integration including Link token
-  flows, transactions sync, identity verification, Auth for ACH, balance checks,
-  webhook handling, and fintech compliance best practices.
+description: "Plaid API 集成的专家模式，包括 Link 令牌流程、交易同步、身份验证、面向 ACH 的 Auth、余额检查、webhook 处理以及金融科技合规最佳实践。 | Expert patterns for Plaid API integration including Link token flows, transactions sync, identity verification, Auth for ACH, balance checks, webhook handling, and fintech compliance best practices."
 risk: unknown
 source: vibeship-spawner-skills (Apache 2.0)
 date_added: 2026-02-27

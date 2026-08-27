@@ -1,6 +1,6 @@
 ---
 name: whiteboard-to-spec
-description: "Turn photos of a whiteboard, sticky-note wall, or napkin sketch into a structured spec the team can execute. Use when given whiteboard photos after a workshop, sketch images of a flow or architecture, or asked to 'write up what we drew'. Produces a structured write-up — decisions, flows, open questions, owners — that preserves everything on the board and flags what was ambiguous. Requires image input."
+description: "把白板、便利贴墙或餐巾纸草图的照片转化为团队可执行的结构化规格。当在工作坊之后收到白板照片、收到流程或架构的草图图像，或被要求「把我们画的整理成文」时使用。产出结构化的整理文档——决策、流程、待解问题、负责人——保留白板上的全部内容并标记模糊之处。需要图像输入。 | Turn photos of a whiteboard, sticky-note wall, or napkin sketch into a structured spec the team can execute. Use when given whiteboard photos after a workshop, sketch images of a flow or architecture, or asked to 'write up what we drew'. Produces a structured write-up — decisions, flows, open questions, owners — that preserves everything on the board and flags what was ambiguous. Requires image input."
 ---
 
 # Whiteboard To Spec Skill

@@ -1,6 +1,6 @@
 ---
 name: ui-setup
-description: Interactive setup wizard — guides you step-by-step to configure the design system for your project
+description: 交互式设置向导——一步步引导你为项目配置设计系统 | Interactive setup wizard — guides you step-by-step to configure the design system for your project
 risk: unknown
 source: https://github.com/bitjaru/styleseed/tree/main/engine/.claude/skills/ss-setup
 source_repo: bitjaru/styleseed

@@ -1,7 +1,7 @@
 ---
 name: conducting-cyber-risk-assessment-with-nist-800-30
 description: >-
-  Conduct a defensible cybersecurity risk assessment using the NIST SP 800-30 Rev 1
+  使用 NIST SP 800-30 Rev 1 方法论开展有据可依的网络安全风险评估：准备范围和风险模型，识别威胁源和威胁事件，识别漏洞和诱发条件，判定可能性和影响，计算风险，并以按优先级排序的风险登记册形式沟通结果。在组织需要真正的风险评估（而非成熟度评分）、控制框架（CSF、ISO 27001、RMF、SOC 2、PCI）要求以书面风险分析作为输入、领导层询问「我们最大的风险是什么、有多严重」、评估新系统或重大变更的风险，或从头构建风险登记册时使用。这是为框架选择、ATO 资料包和处置决策提供输入的方法论。关键词：风险评估、NIST 800-30、威胁建模、可能性与影响、风险登记册、风险分析、威胁源、漏洞、风险判定、定性风险、风险矩阵、剩余风险、风险处置。 |
   methodology: prepare scope and a risk model, identify threat sources and threat events,
   identify vulnerabilities and predisposing conditions, determine likelihood and impact,
   compute risk, and communicate results as a prioritized risk register. Use when an

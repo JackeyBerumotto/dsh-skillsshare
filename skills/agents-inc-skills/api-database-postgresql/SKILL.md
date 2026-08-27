@@ -1,6 +1,6 @@
 ---
 name: api-database-postgresql
-description: Direct PostgreSQL access with node-postgres (pg) -- connection pools, parameterized queries, transactions, streaming, LISTEN/NOTIFY, error handling
+description: 使用 node-postgres（pg）直接访问 PostgreSQL：连接池、参数化查询、事务、流式处理、LISTEN/NOTIFY 和错误处理。 | Direct PostgreSQL access with node-postgres (pg) -- connection pools, parameterized queries, transactions, streaming, LISTEN/NOTIFY, error handling
 ---
 
 # PostgreSQL Patterns (node-postgres)

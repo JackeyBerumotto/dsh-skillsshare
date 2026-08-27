@@ -1,6 +1,6 @@
 ---
 name: expo-dev-client
-description: Build Expo app for development
+description: 构建用于开发的 Expo 应用 | Build Expo app for development
 risk: unknown
 source: https://github.com/expo/skills/tree/main/plugins/expo/skills/expo-dev-client
 source_repo: expo/skills

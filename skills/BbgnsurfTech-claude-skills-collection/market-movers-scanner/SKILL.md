@@ -2,7 +2,7 @@
 name: scanning-market-movers
 version: 1.0.0
 description: |
-  Identify significant price movements and unusual volume across crypto markets.
+  识别加密市场中的显著价格波动和异常成交量。在跟踪显著价格波动时使用。触发短语如「scan market movers」、「check biggest gainers」或「find pumps」。 |
   Use when tracking significant price movements.
   Trigger with phrases like "scan market movers", "check biggest gainers", or "find pumps".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(crypto:movers-*)

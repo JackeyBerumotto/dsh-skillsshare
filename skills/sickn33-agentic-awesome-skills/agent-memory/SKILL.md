@@ -1,6 +1,6 @@
 ---
 name: agent-memory
-description: A hybrid memory system that provides persistent, searchable knowledge management for AI agents.
+description: 一种为 AI 代理提供持久、可检索知识管理的混合记忆系统。 | A hybrid memory system that provides persistent, searchable knowledge management for AI agents.
 risk: unknown
 source: https://github.com/webzler/agentMemory/tree/main/
 source_repo: webzler/agentMemory

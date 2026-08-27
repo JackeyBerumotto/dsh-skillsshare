@@ -1,6 +1,6 @@
 ---
 name: qutip
-description: Quantum physics simulation library for open quantum systems. Use when studying master equations, Lindblad dynamics, decoherence, quantum optics, or cavity QED. Best for physics research, open system dynamics, and educational simulations. NOT for circuit-based quantum computing—use qiskit, cirq, or pennylane for quantum algorithms and hardware execution.
+description: 面向开放量子系统的量子物理仿真库。在研究主方程、Lindblad 动力学、退相干、量子光学或腔 QED 时使用。最适合物理研究、开放系统动力学和教学仿真。不适用于基于电路的量子计算——量子算法和硬件执行请使用 qiskit、cirq 或 pennylane。 | Quantum physics simulation library for open quantum systems. Use when studying master equations, Lindblad dynamics, decoherence, quantum optics, or cavity QED. Best for physics research, open system dynamics, and educational simulations. NOT for circuit-based quantum computing—use qiskit, cirq, or pennylane for quantum algorithms and hardware execution.
 license: BSD-3-Clause license
 metadata: {"version": "1.0", "skill-author": "K-Dense Inc."}
 ---

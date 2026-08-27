@@ -1,7 +1,7 @@
 ---
 name: robius-widget-patterns
 description: |
-  CRITICAL: Use for Robius widget patterns. Triggers on:
+  关键：用于 Robius 组件模式。触发词：apply_over、TextOrImage、modal、可复用、模态、collapsible、drag drop、reusable widget、widget design、pageflip、组件设计、组件模式 |
   apply_over, TextOrImage, modal, 可复用, 模态,
   collapsible, drag drop, reusable widget, widget design,
   pageflip, 组件设计, 组件模式

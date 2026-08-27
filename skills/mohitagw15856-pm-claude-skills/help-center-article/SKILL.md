@@ -1,6 +1,6 @@
 ---
 name: help-center-article
-description: "Write a help-center / knowledge-base article that actually resolves the issue and deflects tickets. Use when asked to write a help doc, KB article, FAQ entry, how-to, or support documentation. Produces a findable, skimmable article — task-based title, the answer up front, numbered steps, screenshots-to-add markers, troubleshooting, and related links — written so users self-serve instead of contacting support."
+description: "撰写真正解决问题并减少工单的帮助中心/知识库文章。在被要求编写帮助文档、KB 文章、FAQ 条目、操作指南或支持文档时使用。产出易找到、易浏览的文章——基于任务的标题、答案前置、编号步骤、待补截图标记、故障排查和相关链接——让用户自助解决而非联系客服。 | Write a help-center / knowledge-base article that actually resolves the issue and deflects tickets. Use when asked to write a help doc, KB article, FAQ entry, how-to, or support documentation. Produces a findable, skimmable article — task-based title, the answer up front, numbered steps, screenshots-to-add markers, troubleshooting, and related links — written so users self-serve instead of contacting support."
 ---
 
 # Help Center Article Skill

@@ -1,8 +1,6 @@
 ---
 name: hardening-docker-containers-for-production
-description: Hardening Docker containers for production involves applying security
-  best practices aligned with CIS Docker Benchmark v1.8.0 to minimize attack surface,
-  prevent privilege escalation, and enforce leas
+description: "生产环境的 Docker 容器加固需要应用与 CIS Docker Benchmark v1.8.0 保持一致的安全最佳实践，以最小化攻击面、防止权限提升并强制最小权限原则。 | Hardening Docker containers for production involves applying security best practices aligned with CIS Docker Benchmark v1.8.0 to minimize attack surface, prevent privilege escalation, and enforce leas"
 domain: cybersecurity
 subdomain: container-security
 tags:

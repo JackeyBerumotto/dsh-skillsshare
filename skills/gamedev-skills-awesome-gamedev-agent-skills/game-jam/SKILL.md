@@ -1,7 +1,7 @@
 ---
 name: game-jam
 description: >
-  Plan and ship a game under a jam deadline: lock scope to the clock, schedule the hours,
+  在 game jam 截止期限下规划并发布游戏：按时间锁定范围、排定工时、砍功能并按时提交。适用于 game jam（Ludum Dare、GMTK Jam、Global Game Jam）、48 小时或周末开发，以及 jam 作品的范围规划与提交。 |
   cut features, and submit on time. Use for a game jam (Ludum Dare, GMTK Jam, Global Game
   Jam), a 48-hour or weekend build, or scoping and submitting a jam entry.
 license: Apache-2.0

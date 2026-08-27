@@ -1,6 +1,6 @@
 ---
 name: open-dynamic-workflows
-description: "Plan, orchestrate, and adversarially verify parallel AI coding agents with a dynamic multi-agent workflow engine."
+description: "使用动态多智能体工作流引擎，规划、编排并以对抗方式校验并行 AI 编程智能体。 | Plan, orchestrate, and adversarially verify parallel AI coding agents with a dynamic multi-agent workflow engine."
 category: ai-agents
 risk: critical
 source: community

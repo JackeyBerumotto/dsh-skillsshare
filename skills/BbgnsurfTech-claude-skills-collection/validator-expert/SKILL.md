@@ -1,8 +1,6 @@
 ---
 name: validator-expert
-description: Validate production readiness of Vertex AI Agent Engine deployments across
-  security, monitoring, performance, compliance, and best practices. Generates weighted
-  scores (0-100%) with actionable recommendations. Use when asked to "validate deploymen...
+description: "验证 Vertex AI Agent Engine 部署的生产就绪度，覆盖安全、监控、性能、合规与最佳实践。生成带可行动建议的加权评分（0-100%）。当被要求验证部署就绪度时使用。 | Validate production readiness of Vertex AI Agent Engine deployments across security, monitoring, performance, compliance, and best practices. Generates weighted scores (0-100%) with actionable recommendations. Use when asked to \"validate deploymen..."
 allowed-tools: Read, Grep, Glob, Bash
 license: MIT
 ---

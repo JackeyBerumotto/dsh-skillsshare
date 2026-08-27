@@ -1,6 +1,6 @@
 ---
 name: shipping-artifacts
-description: "The durable documentation set that makes an AI-built (vibe-coded) app reviewable before shipping. A small core every app needs — architecture, user/permission flows, permissions, variables/secrets, and a test-coverage map — plus conditional docs added only when they apply: emails, scheduled work, SEO, and embedded agents/automation. Defines what each doc must capture and how a reviewer or auditor uses it. Use when documenting a codebase for handoff, mapping user journeys and trust-boundary crossings, planning test coverage, or preparing for a security or performance audit."
+description: "让 AI 构建（vibe-coded）的应用在发布前可评审的持久文档集。包含每个应用都需要的一小套核心文档——架构、用户/权限流程、权限、变量/密钥和测试覆盖率映射——外加仅在适用时添加的条件文档：邮件、定时任务、SEO 以及内嵌代理/自动化。定义每份文档必须记录的内容，以及评审者或审计者如何使用它。在为代码库编写交接文档、绘制用户旅程与信任边界穿越点、规划测试覆盖率或准备安全或性能审计时使用。 | The durable documentation set that makes an AI-built (vibe-coded) app reviewable before shipping. A small core every app needs — architecture, user/permission flows, permissions, variables/secrets, and a test-coverage map — plus conditional docs added only when they apply: emails, scheduled work, SEO, and embedded agents/automation. Defines what each doc must capture and how a reviewer or auditor uses it. Use when documenting a codebase for handoff, mapping user journeys and trust-boundary crossings, planning test coverage, or preparing for a security or performance audit."
 ---
 
 # Shipping Artifacts: The Docs That Make AI-Built Code Reviewable

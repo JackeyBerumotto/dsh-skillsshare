@@ -1,8 +1,6 @@
 ---
 name: testing-for-broken-access-control
-description: Systematically testing web applications for broken access control vulnerabilities
-  including privilege escalation, missing function-level checks, and insecure direct
-  object references.
+description: "系统性测试 Web 应用的失效访问控制漏洞，包括权限提升、缺失的功能级检查与不安全的直接对象引用。 | Systematically testing web applications for broken access control vulnerabilities including privilege escalation, missing function-level checks, and insecure direct object references."
 domain: cybersecurity
 subdomain: web-application-security
 tags:

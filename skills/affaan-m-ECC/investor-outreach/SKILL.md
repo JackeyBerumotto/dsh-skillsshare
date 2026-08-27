@@ -1,6 +1,6 @@
 ---
 name: investor-outreach
-description: Draft cold emails, warm intro blurbs, follow-ups, update emails, and investor communications for fundraising. Use when the user wants outreach to angels, VCs, strategic investors, or accelerators and needs concise, personalized, investor-facing messaging.
+description: 为融资起草陌生开发邮件、热引荐简介、跟进邮件、进展邮件和投资人沟通内容。当用户想要接触天使投资人、VC、战略投资者或加速器，并需要简洁、个性化、面向投资人的信息时使用。 | Draft cold emails, warm intro blurbs, follow-ups, update emails, and investor communications for fundraising. Use when the user wants outreach to angels, VCs, strategic investors, or accelerators and needs concise, personalized, investor-facing messaging.
 metadata:
   origin: ECC
 ---

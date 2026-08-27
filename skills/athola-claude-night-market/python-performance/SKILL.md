@@ -1,6 +1,6 @@
 ---
 name: python-performance
-description: Profiles Python code for performance bottlenecks and memory issues. Use when Python code is slow or when profiling for optimization before a release.
+description: 对 Python 代码进行性能剖析，定位性能瓶颈和内存问题。当 Python 代码缓慢，或在发布前为优化进行剖析时使用。 | Profiles Python code for performance bottlenecks and memory issues. Use when Python code is slow or when profiling for optimization before a release.
 globs: "**/*.py"
 alwaysApply: false
 category: performance

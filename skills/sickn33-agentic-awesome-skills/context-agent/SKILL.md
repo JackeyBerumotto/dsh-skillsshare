@@ -1,6 +1,6 @@
 ---
 name: context-agent
-description: Agente de contexto para continuidade entre sessoes. Salva resumos, decisoes, tarefas pendentes e carrega briefing automatico na sessao seguinte.
+description: 用于会话间延续的上下文代理。保存摘要、决策和待办任务，并在下一次会话自动加载简报。 | Agente de contexto para continuidade entre sessoes. Salva resumos, decisoes, tarefas pendentes e carrega briefing automatico na sessao seguinte.
 risk: safe
 source: community
 date_added: '2026-03-06'

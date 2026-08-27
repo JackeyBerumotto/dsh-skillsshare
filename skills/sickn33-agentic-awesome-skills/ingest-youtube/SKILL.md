@@ -1,6 +1,6 @@
 ---
 name: ingest-youtube
-description: "Pull a YouTube video transcript into a queryable markdown vault with yt-dlp subtitle discovery, VTT cleanup, metadata frontmatter, and capture-seed stubs."
+description: "用 yt-dlp 字幕发现、VTT 清理、元数据 frontmatter 和捕获种子存根，将 YouTube 视频字幕拉取为可查询的 markdown 知识库。 | Pull a YouTube video transcript into a queryable markdown vault with yt-dlp subtitle discovery, VTT cleanup, metadata frontmatter, and capture-seed stubs."
 risk: safe
 source: community
 source_repo: adelaidasofia/ai-brain-starter

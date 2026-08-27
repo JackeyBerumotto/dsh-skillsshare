@@ -1,6 +1,6 @@
 ---
 name: idea-autopsy
-description: "Autopsy a business idea before you build it: kill-list check, five hard filters, a free-AI one-prompt test, live ad-market verification, and a verdict with a named kill-pattern."
+description: "在动手构建之前先解剖商业创意：淘汰清单核查、五道硬性过滤、免费 AI 的单提示测试、广告市场的实地验证，以及附带命名淘汰模式的最终裁定。 | Autopsy a business idea before you build it: kill-list check, five hard filters, a free-AI one-prompt test, live ad-market verification, and a verdict with a named kill-pattern."
 category: product
 risk: critical
 source: community

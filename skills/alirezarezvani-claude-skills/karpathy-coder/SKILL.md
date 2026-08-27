@@ -1,6 +1,6 @@
 ---
 name: karpathy-coder
-description: Use when writing, reviewing, or committing code to enforce Karpathy's 4 coding principles — surface assumptions before coding, keep it simple, make surgical changes, define verifiable goals. Triggers on "review my diff", "check complexity", "am I overcomplicating this", "karpathy check", "before I commit", or any code quality concern where the LLM might be overcoding.
+description: 在编写、评审或提交代码时使用，以强制执行 Karpathy 的 4 条编码原则——编码前显式呈现假设、保持简单、做外科手术式修改、定义可验证的目标。触发词：「review my diff」「check complexity」「am I overcomplicating this」「karpathy check」「before I commit」，或任何 LLM 可能过度编码的代码质量问题。 | Use when writing, reviewing, or committing code to enforce Karpathy's 4 coding principles — surface assumptions before coding, keep it simple, make surgical changes, define verifiable goals. Triggers on "review my diff", "check complexity", "am I overcomplicating this", "karpathy check", "before I commit", or any code quality concern where the LLM might be overcoding.
 context: fork
 version: 2.9.0
 author: claude-code-skills

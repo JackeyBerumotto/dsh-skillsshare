@@ -1,7 +1,6 @@
 ---
 name: detecting-kerberoasting-attacks
-description: Detect Kerberoasting attacks by monitoring for anomalous Kerberos TGS
-  requests targeting service accounts with SPNs for offline password cracking.
+description: "通过监控针对拥有 SPN 的服务账户的异常 Kerberos TGS 请求，检测以离线破解密码为目的的 Kerberoasting 攻击。 | Detect Kerberoasting attacks by monitoring for anomalous Kerberos TGS requests targeting service accounts with SPNs for offline password cracking."
 domain: cybersecurity
 subdomain: threat-hunting
 tags:

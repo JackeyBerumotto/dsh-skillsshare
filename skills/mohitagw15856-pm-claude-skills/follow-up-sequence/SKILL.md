@@ -1,6 +1,6 @@
 ---
 name: follow-up-sequence
-description: "Write the follow-up messages that keep a candidate on the radar without being annoying. Use when asked to write a post-interview thank-you, a follow-up after no reply, a nudge on a stalled application, or a check-in sequence during a job search. Produces a timed sequence — what to send, when, and the exact wording — that adds value or shows interest at each step rather than just 'checking in'."
+description: "撰写既保持候选人关注度又不惹人烦的跟进消息。在被要求写面试后致谢、无回复后的跟进、催促停滞的申请，或求职期间的定期问候序列时使用。产出带时间安排的序列——发什么、何时发以及确切措辞——每一步都提供价值或表达关注，而不只是「随便问候」。 | Write the follow-up messages that keep a candidate on the radar without being annoying. Use when asked to write a post-interview thank-you, a follow-up after no reply, a nudge on a stalled application, or a check-in sequence during a job search. Produces a timed sequence — what to send, when, and the exact wording — that adds value or shows interest at each step rather than just 'checking in'."
 ---
 
 # Follow-Up Sequence Skill

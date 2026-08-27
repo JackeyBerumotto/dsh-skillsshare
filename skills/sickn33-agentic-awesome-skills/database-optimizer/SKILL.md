@@ -1,6 +1,6 @@
 ---
 name: database-optimizer
-description: Expert database optimizer specializing in modern performance tuning, query optimization, and scalable architectures.
+description: 资深数据库优化专家，专注现代性能调优、查询优化和可扩展架构。 | Expert database optimizer specializing in modern performance tuning, query optimization, and scalable architectures.
 risk: unknown
 source: community
 date_added: '2026-02-27'

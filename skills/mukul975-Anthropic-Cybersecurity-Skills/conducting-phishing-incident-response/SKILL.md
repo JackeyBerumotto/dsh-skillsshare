@@ -1,13 +1,6 @@
 ---
 name: conducting-phishing-incident-response
-description: 'Responds to phishing incidents by analyzing reported emails, extracting
-  indicators, assessing credential compromise, quarantining malicious messages across
-  the organization, and remediating affected accounts. Covers email header analysis,
-  URL/attachment sandboxing, and mailbox-wide purge operations. Activates for requests
-  involving phishing response, email incident, credential phishing, spear phishing
-  investigation, or phishing remediation.
-
-  '
+description: "响应钓鱼事件，分析被举报邮件、提取威胁指标、评估凭据泄露、在全组织范围隔离恶意邮件并修复受影响账户。涵盖邮件头分析、URL/附件沙箱检测与全邮箱清除操作。适用于涉及钓鱼响应、邮件事件、凭据钓鱼、鱼叉式钓鱼调查或钓鱼修复的请求。 | Responds to phishing incidents by analyzing reported emails, extracting indicators, assessing credential compromise, quarantining malicious messages across the organization, and remediating affected accounts. Covers email header analysis, URL/attachment sandboxing, and mailbox-wide purge operations. Activates for requests involving phishing response, email incident, credential phishing, spear phishing investigation, or phishing remediation."
 domain: cybersecurity
 subdomain: incident-response
 tags:

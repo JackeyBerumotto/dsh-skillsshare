@@ -1,6 +1,6 @@
 ---
 name: punch-list-builder
-description: "Turn walkthrough notes, photos, or voice-memo transcripts into a proper construction punch list with location, trade, and spec reference per item. Use when asked to build a punch list, clean up walkthrough notes, organise a deficiency list, prep for substantial completion, or track punch items to closeout. Produces a numbered punch list grouped by location with severity tiers, responsible subcontractor, back-charge candidates, and closeout/retainage linkage."
+description: "将现场巡查笔记、照片或语音备忘录转写转化为规范的施工收尾核查清单，每项附带位置、工种和规格引用。当被要求建立收尾核查清单、整理巡查笔记、组织缺陷清单、为实质性竣工做准备或跟踪核查项直至完工时使用。产出按位置分组、带严重程度分级的编号核查清单，包含责任分包商、反扣款候选以及与竣工/留置金的关联。 | Turn walkthrough notes, photos, or voice-memo transcripts into a proper construction punch list with location, trade, and spec reference per item. Use when asked to build a punch list, clean up walkthrough notes, organise a deficiency list, prep for substantial completion, or track punch items to closeout. Produces a numbered punch list grouped by location with severity tiers, responsible subcontractor, back-charge candidates, and closeout/retainage linkage."
 ---
 
 # Punch List Builder Skill

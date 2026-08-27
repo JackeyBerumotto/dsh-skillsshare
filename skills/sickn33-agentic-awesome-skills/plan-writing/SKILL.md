@@ -1,6 +1,6 @@
 ---
 name: plan-writing
-description: "Structured task planning with clear breakdowns, dependencies, and verification criteria. Use when implementing features, refactoring, or any multi-step work."
+description: "结构化任务规划，包含清晰的分解、依赖关系和验证标准。在实现功能、重构或任何多步骤工作时使用。 | Structured task planning with clear breakdowns, dependencies, and verification criteria. Use when implementing features, refactoring, or any multi-step work."
 risk: unknown
 source: community
 date_added: "2026-02-27"

@@ -1,6 +1,6 @@
 ---
 name: stability-ai
-description: Geracao de imagens via Stability AI (SD3.5, Ultra, Core). Text-to-image, img2img, inpainting, upscale, remove-bg, search-replace. 15 estilos artisticos.
+description: 通过 Stability AI（SD3.5、Ultra、Core）生成图像。支持文生图、img2img、局部重绘、放大、移除背景、搜索替换。15 种艺术风格。 | Geracao de imagens via Stability AI (SD3.5, Ultra, Core). Text-to-image, img2img, inpainting, upscale, remove-bg, search-replace. 15 estilos artisticos.
 risk: safe
 source: community
 date_added: '2026-03-06'

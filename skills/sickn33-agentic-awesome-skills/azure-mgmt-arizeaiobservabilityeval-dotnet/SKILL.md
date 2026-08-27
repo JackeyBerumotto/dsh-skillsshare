@@ -1,6 +1,6 @@
 ---
 name: azure-mgmt-arizeaiobservabilityeval-dotnet
-description: Azure Resource Manager SDK for Arize AI Observability and Evaluation (.NET).
+description: 适用于 .NET 的 Arize AI Observability and Evaluation Azure Resource Manager SDK。 | Azure Resource Manager SDK for Arize AI Observability and Evaluation (.NET).
 risk: unknown
 source: community
 date_added: '2026-02-27'

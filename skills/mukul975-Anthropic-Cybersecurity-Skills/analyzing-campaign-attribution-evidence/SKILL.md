@@ -1,8 +1,6 @@
 ---
 name: analyzing-campaign-attribution-evidence
-description: Campaign attribution analysis involves systematically evaluating evidence
-  to determine which threat actor or group is responsible for a cyber operation. This
-  skill covers collecting and weighting attr
+description: "攻击活动归属分析涉及系统性地评估证据，以确定哪个威胁行为者或团伙应对某次网络行动负责。本技能涵盖归属证据的收集与加权…… | Campaign attribution analysis involves systematically evaluating evidence to determine which threat actor or group is responsible for a cyber operation. This skill covers collecting and weighting attr"
 domain: cybersecurity
 subdomain: threat-intelligence
 tags:

@@ -1,7 +1,6 @@
 ---
 name: implementing-image-provenance-verification-with-cosign
-description: Sign and verify container image provenance using Sigstore Cosign with
-  keyless OIDC-based signing, attestations, and Kubernetes admission enforcement.
+description: "使用 Sigstore Cosign 对容器镜像来源进行签名与验证，支持无密钥的基于 OIDC 的签名、证明（attestation）以及 Kubernetes 准入强制。 | Sign and verify container image provenance using Sigstore Cosign with keyless OIDC-based signing, attestations, and Kubernetes admission enforcement."
 domain: cybersecurity
 subdomain: container-security
 tags:

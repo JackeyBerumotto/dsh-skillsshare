@@ -1,6 +1,6 @@
 ---
 name: matplotlib
-description: Low-level plotting library for full customization. Use when you need fine-grained control over every plot element, creating novel plot types, or integrating with specific scientific workflows. Export to PNG/PDF/SVG for publication. For quick statistical plots use seaborn; for interactive plots use plotly; for publication-ready multi-panel figures with journal styling, use scientific-visualization.
+description: 用于完全自定义的底层绘图库。当你需要对每个绘图元素做细粒度控制、创建新颖的图表类型，或与特定科研工作流集成时使用。可导出为 PNG/PDF/SVG 用于发表。快速统计图请用 seaborn；交互式图表请用 plotly；需要期刊排版、可直接发表的多面板图，请用 scientific-visualization。 | Low-level plotting library for full customization. Use when you need fine-grained control over every plot element, creating novel plot types, or integrating with specific scientific workflows. Export to PNG/PDF/SVG for publication. For quick statistical plots use seaborn; for interactive plots use plotly; for publication-ready multi-panel figures with journal styling, use scientific-visualization.
 allowed-tools:
   - Read
   - Write

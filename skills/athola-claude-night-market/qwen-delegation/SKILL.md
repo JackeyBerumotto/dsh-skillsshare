@@ -1,6 +1,6 @@
 ---
 name: qwen-delegation
-description: Delegates tasks to Qwen CLI via delegation-core for Alibaba's models. Use when delegation-core selects Qwen or large-context batch processing is needed.
+description: 通过 delegation-core 将任务委派给 Qwen CLI，面向 Alibaba 的模型。当 delegation-core 选中 Qwen 或需要大上下文批量处理时使用。 | Delegates tasks to Qwen CLI via delegation-core for Alibaba's models. Use when delegation-core selects Qwen or large-context batch processing is needed.
 alwaysApply: false
 category: delegation-implementation
 tags:

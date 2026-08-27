@@ -1,8 +1,6 @@
 ---
 name: performing-cloud-incident-containment-procedures
-description: Execute cloud-native incident containment across AWS, Azure, and GCP
-  by isolating compromised resources, revoking credentials, preserving forensic evidence,
-  and applying security group restrictions to prevent lateral movement.
+description: "在 AWS、Azure 和 GCP 中执行云原生事件遏制，通过隔离失陷资源、吊销凭据、保全取证证据并施加安全组限制来防止横向移动。 | Execute cloud-native incident containment across AWS, Azure, and GCP by isolating compromised resources, revoking credentials, preserving forensic evidence, and applying security group restrictions to prevent lateral movement."
 domain: cybersecurity
 subdomain: incident-response
 tags:

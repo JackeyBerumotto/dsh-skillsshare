@@ -1,6 +1,6 @@
 ---
 name: launch-tiering-framework
-description: "Tier a product launch (T1/T2/T3) and scope the right go-to-market effort. Use when asked to decide a launch tier, right-size launch activities, build a launch tiering framework, or plan channels and effort proportional to a launch's impact. Produces a tiering recommendation with the scoring rationale, the activities and channels for that tier, owners, and a lightweight launch checklist."
+description: "为产品发布划分层级（T1/T2/T3），并确定与之匹配的市场推广投入规模。当被要求决定发布层级、合理规划发布活动、构建发布分级框架，或按发布影响力规划渠道与投入时使用。产出分级建议及评分依据、该层级的活动与渠道、负责人，以及一份轻量级发布清单。 | Tier a product launch (T1/T2/T3) and scope the right go-to-market effort. Use when asked to decide a launch tier, right-size launch activities, build a launch tiering framework, or plan channels and effort proportional to a launch's impact. Produces a tiering recommendation with the scoring rationale, the activities and channels for that tier, owners, and a lightweight launch checklist."
 ---
 
 # Launch Tiering Framework Skill

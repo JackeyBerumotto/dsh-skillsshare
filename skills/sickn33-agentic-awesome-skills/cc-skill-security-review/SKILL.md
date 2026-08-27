@@ -1,6 +1,6 @@
 ---
 name: cc-skill-security-review
-description: "This skill ensures all code follows security best practices and identifies potential vulnerabilities. Use when implementing authentication or authorization, handling user input or file uploads, or creating new API endpoints."
+description: "此技能确保所有代码遵循安全最佳实践并识别潜在漏洞。在实现身份验证或授权、处理用户输入或文件上传，或创建新 API 端点时使用。 | This skill ensures all code follows security best practices and identifies potential vulnerabilities. Use when implementing authentication or authorization, handling user input or file uploads, or creating new API endpoints."
 risk: unknown
 source: community
 date_added: "2026-02-27"

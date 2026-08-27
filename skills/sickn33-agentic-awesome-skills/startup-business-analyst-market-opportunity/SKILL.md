@@ -1,6 +1,6 @@
 ---
 name: startup-business-analyst-market-opportunity
-description: 'Generate comprehensive market opportunity analysis with TAM/SAM/SOM
+description: 生成全面的市场机会分析，包含 TAM/SAM/SOM | 'Generate comprehensive market opportunity analysis with TAM/SAM/SOM
 
   calculations
 

@@ -11,7 +11,7 @@ metadata:
     - "IEEE / ACM / APA / MLA / Chicago / Turabian Style Guides"
     - "Springer LNCS / Nature / HBR Document Templates"
 description: >
-  Professional DOCX document creation, editing, and formatting using OpenXML SDK (.NET).
+  使用 OpenXML SDK（.NET）进行专业 DOCX 文档创建、编辑和排版。三条流水线：（A）从零创建新文档，（B）在既有文档中填充/编辑内容，（C）通过 XSD 验证关卡应用模板格式。只要用户想生成、修改或排版 Word 文档，就必须使用此技能——包括用户说「写报告」「起草提案」「制作合同」「填写表单」「按此模板重排格式」，或任何最终产出为 .docx 文件的任务。即使用户没有明确提到 docx，只要任务隐含可打印/正式文档，就使用此技能。 |
   Three pipelines: (A) create new documents from scratch, (B) fill/edit content in existing
   documents, (C) apply template formatting with XSD validation gate-check.
   MUST use this skill whenever the user wants to produce, modify, or format a Word document —

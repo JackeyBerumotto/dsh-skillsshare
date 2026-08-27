@@ -1,6 +1,6 @@
 ---
 name: api-vector-db-chroma
-description: Chroma vector database -- collection management, automatic embedding, metadata filtering, document storage, query patterns
+description: Chroma 向量数据库——集合管理、自动嵌入、元数据过滤、文档存储、查询模式 | Chroma vector database -- collection management, automatic embedding, metadata filtering, document storage, query patterns
 ---
 
 # Chroma Patterns

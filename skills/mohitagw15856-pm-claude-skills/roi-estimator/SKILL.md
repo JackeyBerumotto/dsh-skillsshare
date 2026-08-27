@@ -1,6 +1,6 @@
 ---
 name: roi-estimator
-description: "Estimate the ROI, payback, and NPV of an investment, project, or purchase. Use when asked to calculate ROI, build a business case, justify a purchase/initiative, work out payback period, or compare options by return. Produces a computed ROI summary (net benefit, ROI %, payback, simple NPV) with the assumptions made explicit and a sensitivity note, so a business case is defensible."
+description: "估算投资、项目或采购的 ROI、回本期和 NPV。当被要求计算 ROI、构建商业论证、为采购/立项提供依据、计算回本周期或按回报比较方案时使用。产出计算好的 ROI 摘要（净收益、ROI 百分比、回本期、简化 NPV），假设条件明确列出并附敏感性说明，使商业论证站得住脚。 | Estimate the ROI, payback, and NPV of an investment, project, or purchase. Use when asked to calculate ROI, build a business case, justify a purchase/initiative, work out payback period, or compare options by return. Produces a computed ROI summary (net benefit, ROI %, payback, simple NPV) with the assumptions made explicit and a sensitivity note, so a business case is defensible."
 ---
 
 # ROI Estimator Skill

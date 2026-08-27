@@ -1,7 +1,6 @@
 ---
 name: ai-product
-description: Every product will be AI-powered. The question is whether you'll
-  build it right or ship a demo that falls apart in production.
+description: "每个产品都将由 AI 驱动。问题在于您会把它构建到位，还是交付一个在生产环境中土崩瓦解的演示品。 | Every product will be AI-powered. The question is whether you'll build it right or ship a demo that falls apart in production."
 risk: safe
 source: vibeship-spawner-skills (Apache 2.0)
 date_added: 2026-02-27

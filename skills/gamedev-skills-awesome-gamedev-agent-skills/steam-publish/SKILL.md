@@ -1,7 +1,7 @@
 ---
 name: steam-publish
 description: >
-  Publish or update a game on Steam with Steamworks and SteamPipe: configure depots and
+  使用 Steamworks 和 SteamPipe 在 Steam 上发布或更新游戏：配置 depot 和 package、用 steamcmd 上传构建、将构建设置为分支上的 live 版本，并执行发布检查清单。适用于 Steam 发布、app_build.vdf/steamcmd 上传、depot、beta 分支或商店页面上线。 |
   packages, upload builds with steamcmd, set a build live on a branch, and run the release
   checklists. Use for Steam publishing, app_build.vdf/steamcmd uploads, depots, beta branches,
   or a store page release.

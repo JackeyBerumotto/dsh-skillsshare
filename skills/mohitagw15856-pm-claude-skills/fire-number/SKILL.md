@@ -1,6 +1,6 @@
 ---
 name: fire-number
-description: "Compute a financial-independence (FIRE) target and years-to-reach with every assumption labeled as an assumption — plus a sensitivity table instead of a single false-precision answer. Use when asked what's my FIRE number, when can I retire early, how much do I need to be financially independent, or model my savings trajectory. Produces the FIRE number, years-to-target at stated assumptions, a return × withdrawal-rate sensitivity grid, and the honest list of what the model ignores."
+description: "计算财务独立（FIRE）目标及达成年限，每个假设都明确标注为假设——并给出敏感性表，而非单一伪精确答案。在被问到我的 FIRE 数字是多少、何时能提前退休、实现财务独立需要多少钱，或为我的储蓄轨迹建模时使用。产出 FIRE 数字、既定假设下的达标年限、收益率×提取率敏感性网格，以及模型忽略了哪些因素的诚实清单。 | Compute a financial-independence (FIRE) target and years-to-reach with every assumption labeled as an assumption — plus a sensitivity table instead of a single false-precision answer. Use when asked what's my FIRE number, when can I retire early, how much do I need to be financially independent, or model my savings trajectory. Produces the FIRE number, years-to-target at stated assumptions, a return × withdrawal-rate sensitivity grid, and the honest list of what the model ignores."
 ---
 
 # FIRE Number Skill

@@ -1,6 +1,6 @@
 ---
 name: quota-management
-description: Tracks quotas, monitors thresholds, and degrades gracefully for rate-limited APIs. Use when integrating external services that impose rate or cost limits.
+description: 跟踪配额、监控阈值，并在 API 被限流时优雅降级。用于集成施加速率或成本限制的外部服务时。 | Tracks quotas, monitors thresholds, and degrades gracefully for rate-limited APIs. Use when integrating external services that impose rate or cost limits.
 alwaysApply: false
 category: infrastructure
 tags:

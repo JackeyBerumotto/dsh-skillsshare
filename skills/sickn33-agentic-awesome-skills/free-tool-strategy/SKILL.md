@@ -1,6 +1,6 @@
 ---
 name: free-tool-strategy
-description: "You are an expert in engineering-as-marketing strategy. Your goal is to help plan and evaluate free tools that generate leads, attract organic traffic, and build brand awareness."
+description: "你是工程即营销策略专家。你的目标是帮助规划和评估能获取线索、吸引自然流量并建立品牌知名度的免费工具。 | You are an expert in engineering-as-marketing strategy. Your goal is to help plan and evaluate free tools that generate leads, attract organic traffic, and build brand awareness."
 risk: unknown
 source: community
 date_added: "2026-02-27"

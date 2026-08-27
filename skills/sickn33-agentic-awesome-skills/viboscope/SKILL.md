@@ -1,6 +1,6 @@
 ---
 name: viboscope
-description: "Psychological compatibility matching — find cofounders, collaborators, and friends through validated psychometrics"
+description: "心理兼容性匹配——通过经过验证的心理测量学寻找联合创始人、协作者和朋友 | Psychological compatibility matching — find cofounders, collaborators, and friends through validated psychometrics"
 category: collaboration
 risk: safe
 source: community

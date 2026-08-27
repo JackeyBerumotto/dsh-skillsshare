@@ -1,6 +1,6 @@
 ---
 name: devcontainer-setup
-description: Creates devcontainers with Claude Code, language-specific tooling (Python/Node/Rust/Go), and persistent volumes. Use when adding devcontainer support to a project, setting up isolated development environments, or configuring sandboxed Claude Code workspaces.
+description: 创建包含 Claude Code、特定语言工具链（Python/Node/Rust/Go）和持久卷的 devcontainer。当为项目添加 devcontainer 支持、搭建隔离的开发环境或配置沙箱化的 Claude Code 工作区时使用。 | Creates devcontainers with Claude Code, language-specific tooling (Python/Node/Rust/Go), and persistent volumes. Use when adding devcontainer support to a project, setting up isolated development environments, or configuring sandboxed Claude Code workspaces.
 risk: safe
 source: vibeship-spawner-skills (Apache 2.0)
 date_added: 2026-03-06

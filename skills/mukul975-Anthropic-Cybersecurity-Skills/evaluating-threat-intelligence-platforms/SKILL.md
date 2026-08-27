@@ -1,14 +1,6 @@
 ---
 name: evaluating-threat-intelligence-platforms
-description: 'Evaluates and selects Threat Intelligence Platform (TIP) products based
-  on organizational requirements including feed integration capability, STIX/TAXII
-  support, workflow automation, analyst interface, and total cost of ownership. Use
-  when conducting a TIP procurement, migrating between TIP solutions, or assessing
-  whether the current TIP meets program maturity requirements. Activates for requests
-  involving ThreatConnect, MISP, OpenCTI, Anomali, EclecticIQ, or TIP procurement
-  decisions.
-
-  '
+description: "基于组织需求评估并选择威胁情报平台（TIP）产品，考量因素包括情报源集成能力、STIX/TAXII 支持、工作流自动化、分析人员界面和总拥有成本。适用于开展 TIP 采购、在不同 TIP 方案之间迁移，或评估现有 TIP 是否满足项目成熟度要求。当请求涉及 ThreatConnect、MISP、OpenCTI、Anomali、EclecticIQ 或 TIP 采购决策时激活。 | Evaluates and selects Threat Intelligence Platform (TIP) products based on organizational requirements including feed integration capability, STIX/TAXII support, workflow automation, analyst interface, and total cost of ownership. Use when conducting a TIP procurement, migrating between TIP solutions, or assessing whether the current TIP meets program maturity requirements. Activates for requests involving ThreatConnect, MISP, OpenCTI, Anomali, EclecticIQ, or TIP procurement decisions."
 domain: cybersecurity
 subdomain: threat-intelligence
 tags:

@@ -1,6 +1,6 @@
 ---
 name: mobile-styling-unistyles
-description: Unistyles 3.0 styling - C++ powered StyleSheet superset with zero re-renders, theming, breakpoints, variants, dynamic functions, runtime values
+description: Unistyles 3.0 样式方案——C++ 驱动的 StyleSheet 超集，零重渲染、主题、断点、变体、动态函数、运行时值。 | Unistyles 3.0 styling - C++ powered StyleSheet superset with zero re-renders, theming, breakpoints, variants, dynamic functions, runtime values
 ---
 
 # Unistyles 3.0 Patterns

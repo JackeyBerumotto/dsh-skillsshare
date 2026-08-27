@@ -1,6 +1,6 @@
 ---
 name: refactoring-plan
-description: "Plan a safe, incremental refactor of messy code without changing behavior. Use when code needs restructuring, is hard to change, has grown tangled, or you want to clean it up before adding a feature. Produces a sequenced plan of small behavior-preserving steps, the safety net (tests/characterization) to add first, and the target structure — refactoring as a series of green commits, not a risky big-bang rewrite."
+description: "规划对混乱代码的安全、渐进式重构，且不改变行为。当代码需要重组、难以修改、已经纠缠不清，或想在添加新功能前先清理时使用。产出一份数小步、保持行为的顺序化计划、需要先补齐的安全网（测试/特征测试），以及目标结构——把重构变成一系列绿色提交，而不是高风险的推倒重写。 | Plan a safe, incremental refactor of messy code without changing behavior. Use when code needs restructuring, is hard to change, has grown tangled, or you want to clean it up before adding a feature. Produces a sequenced plan of small behavior-preserving steps, the safety net (tests/characterization) to add first, and the target structure — refactoring as a series of green commits, not a risky big-bang rewrite."
 ---
 
 # Refactoring Plan Skill

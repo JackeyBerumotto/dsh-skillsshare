@@ -1,6 +1,6 @@
 ---
 name: architecture-patterns
-description: "Master proven backend architecture patterns including Clean Architecture, Hexagonal Architecture, and Domain-Driven Design to build maintainable, testable, and scalable systems."
+description: "掌握经过验证的后端架构模式，包括整洁架构、六边形架构与领域驱动设计，构建可维护、可测试、可扩展的系统。 | Master proven backend architecture patterns including Clean Architecture, Hexagonal Architecture, and Domain-Driven Design to build maintainable, testable, and scalable systems."
 risk: none
 source: community
 date_added: "2026-02-27"

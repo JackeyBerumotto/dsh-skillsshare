@@ -1,6 +1,6 @@
 ---
 name: offensive-bluetooth-classic
-description: "Bluetooth Classic (BR/EDR) attack methodology — device discovery, service enumeration via SDP, LMP/L2CAP layer attacks, legacy PIN cracking (BlueBorne / KNOB), Bluetooth file-transfer abuse (BlueSnarfing legacy), unauthenticated profile abuse (HSP, HFP, OPP), and modern relevance against older industrial / automotive / accessory targets. Use when in-scope devices use Bluetooth Classic (Bluetooth ≤ 4.0 BR/EDR) — common in legacy car kits, industrial sensors, older medical devices, and audio accessories."
+description: "蓝牙经典（BR/EDR）攻击方法论——设备发现、通过 SDP 的服务枚举、LMP 与 L2CAP 层攻击、传统 PIN 破解（BlueBorne、KNOB）、蓝牙文件传输滥用（传统 BlueSnarfing）、未认证的配置文件滥用（HSP、HFP、OPP），以及针对老旧工业、汽车与外设目标的现实意义。当目标范围内的设备使用蓝牙经典（蓝牙 4.0 及以下的 BR/EDR）时使用——常见于传统车载套件、工业传感器、老式医疗设备和音频配件。 | Bluetooth Classic (BR/EDR) attack methodology — device discovery, service enumeration via SDP, LMP/L2CAP layer attacks, legacy PIN cracking (BlueBorne / KNOB), Bluetooth file-transfer abuse (BlueSnarfing legacy), unauthenticated profile abuse (HSP, HFP, OPP), and modern relevance against older industrial / automotive / accessory targets. Use when in-scope devices use Bluetooth Classic (Bluetooth ≤ 4.0 BR/EDR) — common in legacy car kits, industrial sensors, older medical devices, and audio accessories."
 ---
 
 # Bluetooth Classic (BR/EDR) Attacks

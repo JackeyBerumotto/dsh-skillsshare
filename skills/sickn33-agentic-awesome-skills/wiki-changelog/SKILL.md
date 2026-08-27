@@ -1,6 +1,6 @@
 ---
 name: wiki-changelog
-description: "Generate structured changelogs from git history. Use when user asks \"what changed recently\", \"generate a changelog\", \"summarize commits\" or user wants to understand recent development activity."
+description: "根据 git 历史生成结构化变更日志。当用户说「what changed recently」、「generate a changelog」、「summarize commits」，或想了解近期开发活动时使用。 | Generate structured changelogs from git history. Use when user asks \"what changed recently\", \"generate a changelog\", \"summarize commits\" or user wants to understand recent development activity."
 risk: unknown
 source: community
 date_added: "2026-02-27"

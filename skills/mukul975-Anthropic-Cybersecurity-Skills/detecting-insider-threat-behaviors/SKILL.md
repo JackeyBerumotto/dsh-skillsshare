@@ -1,8 +1,6 @@
 ---
 name: detecting-insider-threat-behaviors
-description: Detect insider threat behavioral indicators including unusual data access,
-  off-hours activity, mass file downloads, privilege abuse, and resignation-correlated
-  data theft.
+description: "检测内部威胁行为指标，包括异常数据访问、非工作时间活动、批量文件下载、特权滥用以及与离职相关的数据窃取。 | Detect insider threat behavioral indicators including unusual data access, off-hours activity, mass file downloads, privilege abuse, and resignation-correlated data theft."
 domain: cybersecurity
 subdomain: threat-hunting
 tags:

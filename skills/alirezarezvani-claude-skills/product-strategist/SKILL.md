@@ -1,6 +1,6 @@
 ---
 name: "product-strategist"
-description: Strategic product leadership toolkit for Head of Product covering OKR cascade generation, quarterly planning, competitive landscape analysis, product vision documents, and team scaling proposals. Use when creating quarterly OKR documents, defining product goals or KPIs, building product roadmaps, running competitive analysis, drafting team structure or hiring plans, aligning product strategy across engineering and design, or generating cascaded goal hierarchies from company to team level.
+description: 面向产品负责人的战略产品领导力工具包，涵盖 OKR 级联生成、季度规划、竞争格局分析、产品愿景文档和团队扩张方案。适用于创建季度 OKR 文档、定义产品目标或 KPI、构建产品路线图、开展竞争分析、起草团队结构或招聘计划、在工程与设计之间对齐产品战略，或生成从公司级到团队级的目标级联体系。 | Strategic product leadership toolkit for Head of Product covering OKR cascade generation, quarterly planning, competitive landscape analysis, product vision documents, and team scaling proposals. Use when creating quarterly OKR documents, defining product goals or KPIs, building product roadmaps, running competitive analysis, drafting team structure or hiring plans, aligning product strategy across engineering and design, or generating cascaded goal hierarchies from company to team level.
 ---
 
 # Product Strategist

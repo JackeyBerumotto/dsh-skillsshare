@@ -1,6 +1,6 @@
 ---
 name: retro-design
-description: Web and App implementation guide for Retro Design (60s-80s). Trigger when user wants vintage aesthetics, warm muted colors, and nostalgic layouts.
+description: Retro Design（复古设计，60 至 80 年代）的 Web 与 App 实现指南。当用户需要怀旧美学、温暖柔和的色调和富有年代感的版式时触发。 | Web and App implementation guide for Retro Design (60s-80s). Trigger when user wants vintage aesthetics, warm muted colors, and nostalgic layouts.
 date_added: "2026-06-17"
 risk: safe
 source: self

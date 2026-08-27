@@ -2,7 +2,7 @@
 name: logging-api-requests
 version: 1.0.0
 description: |
-  Log API requests with correlation IDs, performance metrics, and security audit trails.
+  记录 API 请求，包含关联 ID、性能指标与安全审计轨迹。用于审计 API 请求与响应。触发短语如「log API requests」「add API logging」或「track API calls」。 |
   Use when auditing API requests and responses.
   Trigger with phrases like "log API requests", "add API logging", or "track API calls".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(api:log-*)

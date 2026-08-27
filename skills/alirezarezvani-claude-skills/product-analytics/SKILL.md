@@ -1,6 +1,6 @@
 ---
 name: product-analytics
-description: Use when defining product KPIs, building metric dashboards, running cohort or retention analysis, or interpreting feature adoption trends across product stages.
+description: 在定义产品 KPI、构建指标看板、进行同期群或留存分析，或解读跨产品阶段的功能采用趋势时使用。 | Use when defining product KPIs, building metric dashboards, running cohort or retention analysis, or interpreting feature adoption trends across product stages.
 ---
 
 # Product Analytics

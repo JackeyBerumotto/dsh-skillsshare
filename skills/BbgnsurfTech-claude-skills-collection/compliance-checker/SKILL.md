@@ -1,7 +1,7 @@
 ---
 name: checking-infrastructure-compliance
 description: |
-  Use when you need to work with compliance checking.
+  当你需要处理合规检查时使用。此技能提供合规监控和验证及全面的指导和自动化。触发词如「check compliance」「validate policies」或「audit compliance」。 |
   This skill provides compliance monitoring and validation with comprehensive guidance and automation.
   Trigger with phrases like "check compliance", "validate policies",
   or "audit compliance".

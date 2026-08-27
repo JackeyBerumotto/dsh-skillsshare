@@ -1,6 +1,6 @@
 ---
 name: lease-decoder
-description: "Decode a residential lease into plain English and rank the clauses that can hurt you. Use when someone asks 'what am I signing', 'decode my lease', 'is this rental agreement normal', or 'can my landlord really do this'. Produces a clause-by-clause decode table, ranked red flags, break-clause and deposit math, questions to ask before signing, and what's actually negotiable."
+description: "将住宅租约解读成通俗易懂的语言，并给可能损害你利益的条款排序。当有人问「我要签的是什么」「解读我的租约」「这份租房协议正常吗」或「房东真的能这样做吗」时使用。产出逐条解读表、按严重程度排序的危险信号、解约条款与押金的计算、签署前应提出的问题，以及真正可以协商的部分。 | Decode a residential lease into plain English and rank the clauses that can hurt you. Use when someone asks 'what am I signing', 'decode my lease', 'is this rental agreement normal', or 'can my landlord really do this'. Produces a clause-by-clause decode table, ranked red flags, break-clause and deposit math, questions to ask before signing, and what's actually negotiable."
 ---
 
 # Lease Decoder Skill

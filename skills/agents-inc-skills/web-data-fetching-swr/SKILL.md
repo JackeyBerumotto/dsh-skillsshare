@@ -1,6 +1,6 @@
 ---
 name: web-data-fetching-swr
-description: SWR data fetching patterns - useSWR, useSWRMutation, caching, revalidation, infinite scroll
+description: SWR 数据获取模式——useSWR、useSWRMutation、缓存、重新验证、无限滚动。 | SWR data fetching patterns - useSWR, useSWRMutation, caching, revalidation, infinite scroll
 ---
 
 # SWR Data Fetching Patterns

@@ -1,6 +1,6 @@
 ---
 name: editorial
-description: Magazine-inspired editorial layout with refined serif typography, structured grids, and elegant reading experiences.
+description: 杂志风格的编辑排版，配以精致的衬线字体、结构化网格与优雅的阅读体验。 | Magazine-inspired editorial layout with refined serif typography, structured grids, and elegant reading experiences.
 license: MIT
 metadata:
   author: typeui.sh

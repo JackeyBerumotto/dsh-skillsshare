@@ -1,6 +1,6 @@
 ---
 name: android-ui-journey-testing
-description: "XML-specified Android UI journey testing, interactive step execution, assertion verification, and JSON outcome reporting."
+description: "用 XML 定义的 Android UI 路径测试、交互式步骤执行、断言验证和 JSON 结果报告。 | XML-specified Android UI journey testing, interactive step execution, assertion verification, and JSON outcome reporting."
 category: testing
 risk: critical
 source: self

@@ -1,6 +1,6 @@
 ---
 name: senior-fullstack
-description: "Complete toolkit for senior fullstack with modern tools and best practices."
+description: "面向资深全栈工程师的完整工具包，配备现代工具与最佳实践。 | Complete toolkit for senior fullstack with modern tools and best practices."
 risk: critical
 source: community
 date_added: "2026-02-27"

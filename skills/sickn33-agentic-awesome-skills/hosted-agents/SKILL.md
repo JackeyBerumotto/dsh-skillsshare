@@ -1,6 +1,6 @@
 ---
 name: hosted-agents
-description: Build background agents in sandboxed environments. Use for hosted coding agents, sandboxed VMs, Modal sandboxes, and remote coding environments.
+description: 在沙箱环境中构建后台智能体。适用于托管式编码智能体、沙箱虚拟机、Modal 沙箱和远程编码环境。 | Build background agents in sandboxed environments. Use for hosted coding agents, sandboxed VMs, Modal sandboxes, and remote coding environments.
 risk: unknown
 source: community
 ---

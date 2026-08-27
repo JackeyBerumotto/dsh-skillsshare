@@ -1,6 +1,6 @@
 ---
 name: email-campaign
-description: "Write and sequence multi-email nurture or launch campaigns. Use when asked for an email sequence, drip campaign, onboarding emails, product launch emails, or nurture flow. Produces subject lines, preview text, full email body, and send-timing recommendations for each email in the sequence."
+description: "撰写并编排多邮件培育或发布活动。在被要求做邮件序列、滴灌活动、入职邮件、产品发布邮件或培育流程时使用。为序列中的每封邮件产出主题行、预览文本、完整正文和发送时机建议。 | Write and sequence multi-email nurture or launch campaigns. Use when asked for an email sequence, drip campaign, onboarding emails, product launch emails, or nurture flow. Produces subject lines, preview text, full email body, and send-timing recommendations for each email in the sequence."
 ---
 
 # Email Campaign Skill

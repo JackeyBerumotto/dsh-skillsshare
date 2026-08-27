@@ -1,6 +1,6 @@
 ---
 name: "Swarm Orchestration"
-description: "Orchestrate multi-agent swarms with agentic-flow for parallel task execution, dynamic topology, and intelligent coordination. Use when scaling beyond single agents, implementing complex workflows, or building distributed AI systems."
+description: "使用 agentic-flow 编排多智能体集群，实现并行任务执行、动态拓扑和智能协调。在超越单智能体规模、实现复杂工作流或构建分布式 AI 系统时使用。 | Orchestrate multi-agent swarms with agentic-flow for parallel task execution, dynamic topology, and intelligent coordination. Use when scaling beyond single agents, implementing complex workflows, or building distributed AI systems."
 ---
 
 # Swarm Orchestration

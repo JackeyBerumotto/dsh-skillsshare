@@ -1,6 +1,6 @@
 ---
 name: api-database-edgedb
-description: Graph-relational database with EdgeQL query language, code-first schema, link-based relations, computed properties, and fully typed TypeScript query builder
+description: 图关系数据库，带 EdgeQL 查询语言、代码优先的架构、基于链接的关系、计算属性和完全类型化的 TypeScript 查询构建器 | Graph-relational database with EdgeQL query language, code-first schema, link-based relations, computed properties, and fully typed TypeScript query builder
 ---
 
 # Gel (formerly EdgeDB) Patterns

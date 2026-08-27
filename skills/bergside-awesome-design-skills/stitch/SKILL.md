@@ -1,6 +1,6 @@
 ---
 name: stitch
-description: Clean, high-contrast enterprise design for data-driven workflows with intuitive drag-and-drop patterns and structured layouts.
+description: 面向数据驱动工作流的干净、高对比度企业设计，配直观的拖拽模式和结构化布局。 | Clean, high-contrast enterprise design for data-driven workflows with intuitive drag-and-drop patterns and structured layouts.
 license: MIT
 metadata:
   author: typeui.sh

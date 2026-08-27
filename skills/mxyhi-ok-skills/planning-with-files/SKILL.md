@@ -1,6 +1,6 @@
 ---
 name: planning-with-files
-description: "Manus-style persistent file-based planning for AI coding agents: keeps task_plan.md, findings.md, and progress.md on disk so work survives context loss and /clear. Use when asked to plan out, break down, or organize a multi-step project, research task, or any work requiring 5+ tool calls. Supports automatic session recovery after /clear."
+description: "面向 AI 编码代理的 Manus 风格持久化文件规划：把 task_plan.md、findings.md 和 progress.md 保存在磁盘上，使工作在上下文丢失和 /clear 之后仍可延续。当被要求规划、拆解或组织多步骤项目、研究任务，或任何需要 5 次以上工具调用的工作时使用。支持 /clear 之后的自动会话恢复。 | Manus-style persistent file-based planning for AI coding agents: keeps task_plan.md, findings.md, and progress.md on disk so work survives context loss and /clear. Use when asked to plan out, break down, or organize a multi-step project, research task, or any work requiring 5+ tool calls. Supports automatic session recovery after /clear."
 allowed-tools: "Read Write Edit Bash Glob Grep"
 metadata:
   version: "3.4.0"

@@ -1,6 +1,6 @@
 ---
 name: "fiction"
-description: "A playful, energetic, cartoonesque interface inspired by friendly children's-book illustrations — warm cream backgrounds, big bold custom display typography, saturated brand color blocks, thick black outlines, generously rounded shapes"
+description: "受友好儿童绘本插画启发的趣味、活力、卡通风界面——暖奶油色背景、大而粗的自定义展示字体、高饱和品牌色块、粗黑描边、宽绰的圆润造型 | A playful, energetic, cartoonesque interface inspired by friendly children's-book illustrations — warm cream backgrounds, big bold custom display typography, saturated brand color blocks, thick black outlines, generously rounded shapes"
 metadata:
   author: typeui.sh
 ---

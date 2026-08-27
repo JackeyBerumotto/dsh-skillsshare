@@ -1,6 +1,6 @@
 ---
 name: api-sdk-generator
-description: Generates client SDK code, API wrapper libraries, request/response models, and language-specific usage patterns for any REST API. Use whenever the user asks to "generate an SDK", "write a client library", "create API wrappers", "generate TypeScript types from my API", "write a Python...
+description: 为任何 REST API 生成客户端 SDK 代码、API 封装库、请求/响应模型以及特定语言的使用模式。当用户要求「generate an SDK」、「write a client library」、「create API wrappers」、「generate TypeScript types from my API」、「write a Python……」时使用 | Generates client SDK code, API wrapper libraries, request/response models, and language-specific usage patterns for any REST API. Use whenever the user asks to "generate an SDK", "write a client library", "create API wrappers", "generate TypeScript types from my API", "write a Python...
 risk: unknown
 source: https://github.com/LambdaTest/agent-skills/tree/main/api-skill/api-sdk-generator
 source_repo: LambdaTest/agent-skills

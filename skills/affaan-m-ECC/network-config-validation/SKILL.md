@@ -1,6 +1,6 @@
 ---
 name: network-config-validation
-description: Pre-deployment checks for router and switch configuration, including dangerous commands, duplicate addresses, subnet overlaps, stale references, management-plane risk, and IOS-style security hygiene.
+description: 路由器和交换机配置的部署前检查，包括危险命令、重复地址、子网重叠、失效引用、管理面风险和 IOS 风格的安全基线。 | Pre-deployment checks for router and switch configuration, including dangerous commands, duplicate addresses, subnet overlaps, stale references, management-plane risk, and IOS-style security hygiene.
 metadata:
   origin: community
 ---

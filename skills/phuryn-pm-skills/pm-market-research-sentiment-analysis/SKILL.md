@@ -1,6 +1,6 @@
 ---
 name: sentiment-analysis
-description: "Analyze user feedback data to identify segments with sentiment scores, JTBD, and product satisfaction insights. Use when analyzing user feedback at scale, running sentiment analysis on reviews or surveys, or identifying satisfaction patterns."
+description: "分析用户反馈数据，结合情感评分、JTBD（待完成任务）与产品满意度洞察识别用户群体。在大规模分析用户反馈、对评论或问卷进行情感分析，或识别满意度模式时使用。 | Analyze user feedback data to identify segments with sentiment scores, JTBD, and product satisfaction insights. Use when analyzing user feedback at scale, running sentiment analysis on reviews or surveys, or identifying satisfaction patterns."
 ---
 
 # Sentiment Analysis

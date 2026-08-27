@@ -1,6 +1,6 @@
 ---
 name: dynamic-workflow-mode
-description: "Design task-local harnesses, eval gates, and reusable skill extraction for Claude dynamic workflow mode and other adaptive agent harnesses."
+description: "为 Claude 动态工作流模式及其他自适应 agent 框架设计任务局部的测试装置、评估门禁和可复用的技能抽取。 | Design task-local harnesses, eval gates, and reusable skill extraction for Claude dynamic workflow mode and other adaptive agent harnesses."
 metadata:
   origin: ECC
 ---

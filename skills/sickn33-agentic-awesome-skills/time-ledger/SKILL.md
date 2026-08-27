@@ -1,6 +1,6 @@
 ---
 name: time-ledger
-description: "Natural-language time tracking: parse what the user says they did into Activity/Minutes/Date rows in their own Notion database — asking instead of guessing when unsure."
+description: "自然语言时间跟踪：把用户口述的所作所为解析为其 Notion 数据库中的活动/分钟/日期行——不确定时主动询问而非猜测。 | Natural-language time tracking: parse what the user says they did into Activity/Minutes/Date rows in their own Notion database — asking instead of guessing when unsure."
 category: productivity
 risk: critical
 source: community

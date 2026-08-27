@@ -1,6 +1,6 @@
 ---
 name: "executive-mentor"
-description: "Adversarial thinking partner for founders and executives. Stress-tests plans, prepares for brutal board meetings, dissects decisions with no good options, and forces honest post-mortems. Use when you need someone to find the holes before the board does, make a decision you've been avoiding, or understand what actually went wrong."
+description: "面向创始人和高管的对抗式思考伙伴。对计划进行压力测试，为严酷的董事会会议做准备，剖析没有好选项的决策，并强迫进行诚实的复盘。当你需要有人在董事会之前找出漏洞、做出一直回避的决策，或弄清究竟哪里出了问题时使用。 | Adversarial thinking partner for founders and executives. Stress-tests plans, prepares for brutal board meetings, dissects decisions with no good options, and forces honest post-mortems. Use when you need someone to find the holes before the board does, make a decision you've been avoiding, or understand what actually went wrong."
 license: MIT
 metadata:
   version: 1.0.0

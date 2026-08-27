@@ -1,6 +1,6 @@
 ---
 name: high-contrast
-description: Web and App implementation guide for High Contrast Design. Trigger when user wants accessibility-focused design, extreme legibility, or stark visual impact.
+description: High Contrast Design（高对比设计）的 Web 与 App 实现指南。当用户需要聚焦可访问性的设计、极致易读性或强烈视觉冲击时触发。 | Web and App implementation guide for High Contrast Design. Trigger when user wants accessibility-focused design, extreme legibility, or stark visual impact.
 date_added: "2026-06-17"
 risk: safe
 source: self

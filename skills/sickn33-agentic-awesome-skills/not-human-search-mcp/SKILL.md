@@ -1,6 +1,6 @@
 ---
 name: not-human-search-mcp
-description: "Search AI-ready websites, inspect indexed site details, verify MCP endpoints, and discover tools and APIs using the Not Human Search MCP server"
+description: "使用 Not Human Search MCP 服务器搜索 AI 友好网站、检查已索引的站点详情、验证 MCP 端点，并发现工具和 API。 | Search AI-ready websites, inspect indexed site details, verify MCP endpoints, and discover tools and APIs using the Not Human Search MCP server"
 category: mcp
 risk: safe
 source: "https://nothumansearch.ai"

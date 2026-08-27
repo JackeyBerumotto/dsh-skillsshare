@@ -1,6 +1,6 @@
 ---
 name: daa-agent
-description: Create and adapt Dynamic Agentic Architecture agents that learn and evolve
+description: 创建并调整能够学习和进化的 Dynamic Agentic Architecture 智能体 | Create and adapt Dynamic Agentic Architecture agents that learn and evolve
 argument-hint: "<create|adapt|status> [options]"
 allowed-tools: mcp__claude-flow__daa_agent_create mcp__claude-flow__daa_agent_adapt mcp__claude-flow__daa_learning_status mcp__claude-flow__daa_performance_metrics mcp__claude-flow__daa_knowledge_share Bash
 ---

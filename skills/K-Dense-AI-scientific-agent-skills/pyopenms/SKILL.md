@@ -1,6 +1,6 @@
 ---
 name: pyopenms
-description: Complete mass spectrometry analysis platform. Use for proteomics and metabolomics workflows—feature detection, peptide/protein identification, label-free and isobaric quantification, adduct/accurate-mass annotation, and complex LC-MS/MS pipelines. Supports extensive file formats and algorithms. For simple spectral comparison and small-molecule library matching use matchms.
+description: 完整的质谱分析平台。用于蛋白质组学和代谢组学工作流——特征检测、肽段/蛋白质鉴定、非标记和同位素标记定量、加合物/精确质量数注释以及复杂的 LC-MS/MS 流程。支持大量文件格式和算法。如需简单的谱图比较和小分子库匹配，请使用 matchms。 | Complete mass spectrometry analysis platform. Use for proteomics and metabolomics workflows—feature detection, peptide/protein identification, label-free and isobaric quantification, adduct/accurate-mass annotation, and complex LC-MS/MS pipelines. Supports extensive file formats and algorithms. For simple spectral comparison and small-molecule library matching use matchms.
 license: 3 clause BSD license
 allowed-tools: Read Write Edit Bash
 compatibility: Requires Python 3.9+ and uv. Examples and scripts target pyOpenMS 3.5.0.

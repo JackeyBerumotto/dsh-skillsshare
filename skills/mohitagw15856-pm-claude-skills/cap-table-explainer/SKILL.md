@@ -1,6 +1,6 @@
 ---
 name: cap-table-explainer
-description: "Explain a cap table, dilution, SAFEs, option pools, and round mechanics in plain English with the actual math. Use when asked to explain dilution, model a SAFE or priced round, size an option pool, understand a term sheet's economics, or figure out who owns what after a raise. Produces a worked ownership breakdown before/after the round, the dilution math step by step, and the traps founders miss. Not legal or financial advice."
+description: "用通俗语言解释股权结构表、稀释、SAFE、期权池与融资轮机制，并给出真实计算。当被要求解释稀释、为 SAFE 或定价轮建模、确定期权池规模、理解条款清单的经济条款，或弄清融资后谁拥有什么时使用。产出融资前后的股权拆解、逐步稀释计算，以及创始人容易忽略的陷阱。不构成法律或财务建议。 | Explain a cap table, dilution, SAFEs, option pools, and round mechanics in plain English with the actual math. Use when asked to explain dilution, model a SAFE or priced round, size an option pool, understand a term sheet's economics, or figure out who owns what after a raise. Produces a worked ownership breakdown before/after the round, the dilution math step by step, and the traps founders miss. Not legal or financial advice."
 ---
 
 # Cap Table Explainer Skill

@@ -1,6 +1,6 @@
 ---
 name: web-meta-framework-docusaurus
-description: Docusaurus 3.x documentation framework — site configuration, docs/blog plugins, sidebars, versioning, MDX, swizzling, and deployment
+description: Docusaurus 3.x 文档框架——站点配置、docs/blog 插件、侧边栏、版本管理、MDX、swizzling 和部署 | Docusaurus 3.x documentation framework — site configuration, docs/blog plugins, sidebars, versioning, MDX, swizzling, and deployment
 ---
 
 # Docusaurus

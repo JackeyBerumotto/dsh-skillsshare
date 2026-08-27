@@ -2,7 +2,7 @@
 name: simulating-flash-loans
 version: 1.0.0
 description: |
-  Simulate flash loan arbitrage strategies and profitability across DeFi protocols.
+  跨 DeFi 协议模拟闪电贷套利策略与盈利能力。在执行加密货币分析时使用。触发语句如「analyze crypto」「check blockchain」或「monitor market」。 |
   Use when performing crypto analysis.
   Trigger with phrases like "analyze crypto", "check blockchain", or "monitor market".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(crypto:flashloan-*)

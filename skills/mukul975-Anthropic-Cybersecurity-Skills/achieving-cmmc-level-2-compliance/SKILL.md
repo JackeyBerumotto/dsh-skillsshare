@@ -1,7 +1,7 @@
 ---
 name: achieving-cmmc-level-2-compliance
 description: >-
-  Prepare a defense-contractor environment for CMMC Level 2 certification: scope CUI
+  为国防承包商环境准备 CMMC Level 2 认证：界定 CUI 与 FCI 范围、跨 14 个族落实 110 项 NIST SP 800-171 Rev 2 安全要求、用 DoD 评估方法计算 SPRS 分数、管理合规的 POA&M，并让组织为 C3PAO 评估做好准备。当组织在 DoD 合同下处理受控非密信息（CUI）、合同含 DFARS 条款 252.204-7012/7019/7020/7021、在准备或应对 CMMC 评估、在计算或提升 SPRS 分数、在为 800-171 编写系统安全计划或 POA&M，或在界定哪些系统位于 CUI 边界内时使用。关键词：CMMC、CMMC Level 2、NIST 800-171、SP 800-171 Rev 2、CUI、FCI、SPRS、DFARS 7012、C3PAO、POA&M、系统安全计划、DoD 评估方法、110 项控制、国防工业基础、DIB、FedRAMP 等效。 |
   and FCI, implement the 110 NIST SP 800-171 Rev 2 security requirements across 14
   families, compute the SPRS score with the DoD Assessment Methodology, manage a
   compliant POA&M, and ready the organization for a C3PAO assessment. Use when an

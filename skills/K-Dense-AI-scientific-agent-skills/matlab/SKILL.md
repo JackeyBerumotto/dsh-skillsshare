@@ -1,6 +1,6 @@
 ---
 name: matlab
-description: MATLAB and GNU Octave numerical computing for matrix operations, data analysis, visualization, and scientific computing. Use when writing MATLAB/Octave scripts for linear algebra, signal processing, image processing, differential equations, optimization, statistics, or creating scientific visualizations. Also use when the user needs help with MATLAB syntax, functions, or wants to convert between MATLAB and Python code. Scripts can be executed with MATLAB or the open-source GNU Octave interpreter.
+description: MATLAB 与 GNU Octave 数值计算，涵盖矩阵运算、数据分析、可视化与科学计算。在编写用于线性代数、信号处理、图像处理、微分方程、优化或统计的 MATLAB/Octave 脚本，或创建科学可视化时使用。当用户需要 MATLAB 语法或函数方面的帮助，或想在 MATLAB 与 Python 代码之间相互转换时也可使用。脚本可用 MATLAB 或开源的 GNU Octave 解释器执行。 | MATLAB and GNU Octave numerical computing for matrix operations, data analysis, visualization, and scientific computing. Use when writing MATLAB/Octave scripts for linear algebra, signal processing, image processing, differential equations, optimization, statistics, or creating scientific visualizations. Also use when the user needs help with MATLAB syntax, functions, or wants to convert between MATLAB and Python code. Scripts can be executed with MATLAB or the open-source GNU Octave interpreter.
 license: For MATLAB (https://www.mathworks.com/pricing-licensing.html) and for Octave (GNU General Public License version 3)
 compatibility: Requires either MATLAB or Octave to be installed for testing, but not required for just generating scripts.
 metadata: {"version": "1.0", "skill-author": "K-Dense Inc."}

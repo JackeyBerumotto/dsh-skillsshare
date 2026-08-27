@@ -2,7 +2,7 @@
 name: testing-browser-compatibility
 version: 1.0.0
 description: |
-  Test across multiple browsers and devices for cross-browser compatibility.
+  跨多种浏览器和设备进行测试以确保跨浏览器兼容性。在需要确保跨浏览器或跨设备兼容性时使用。触发短语如「test browser compatibility」「check cross-browser」或「validate on browsers」。 |
   Use when ensuring cross-browser or device compatibility.
   Trigger with phrases like "test browser compatibility", "check cross-browser", or "validate on browsers".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(test:browser-*)

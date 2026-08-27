@@ -1,6 +1,6 @@
 ---
 name: histolab
-description: Lightweight WSI tile extraction and preprocessing. Use for basic slide processing, tissue detection, tile extraction, and stain normalization for H&E images. Best for simple pipelines, dataset preparation, and quick tile-based analysis. For advanced spatial proteomics, multiplexed imaging, or deep learning pipelines use pathml.
+description: 轻量级 WSI 切片提取与预处理。用于基本的病理切片处理、组织检测、切片提取以及 H&E 图像的染色归一化。最适合简单流水线、数据集准备和快速的基于切片的分析。若需高级空间蛋白质组学、多重成像或深度学习流水线，请使用 pathml。 | Lightweight WSI tile extraction and preprocessing. Use for basic slide processing, tissue detection, tile extraction, and stain normalization for H&E images. Best for simple pipelines, dataset preparation, and quick tile-based analysis. For advanced spatial proteomics, multiplexed imaging, or deep learning pipelines use pathml.
 license: Apache-2.0 license
 compatibility: Requires Python 3.8–3.11 (histolab 0.7.0), OpenSlide system libraries, and Linux or macOS. Sample data via histolab.data requires pooch.
 metadata: {"version": "1.1", "skill-author": "K-Dense Inc."}

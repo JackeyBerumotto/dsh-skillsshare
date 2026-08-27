@@ -1,6 +1,6 @@
 ---
 name: ai-provider-openai-sdk
-description: Official OpenAI SDK patterns for TypeScript/Node.js — client setup, Chat Completions, Responses API, streaming, structured outputs, function calling, embeddings, vision, audio, and production best practices
+description: TypeScript/Node.js 的 OpenAI 官方 SDK 模式：客户端设置、Chat Completions、Responses API、流式传输、结构化输出、函数调用、嵌入、视觉、音频和生产最佳实践 | Official OpenAI SDK patterns for TypeScript/Node.js — client setup, Chat Completions, Responses API, streaming, structured outputs, function calling, embeddings, vision, audio, and production best practices
 ---
 
 # OpenAI SDK Patterns

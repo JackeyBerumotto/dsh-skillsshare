@@ -1,6 +1,6 @@
 ---
 name: analytics
-description: When the user wants to set up, improve, or audit analytics tracking and measurement. Also use when the user mentions "set up tracking," "GA4," "Google Analytics," "conversion tracking," "event tracking," "UTM parameters," "tag manager," "GTM," "analytics implementation," "tracking plan," "how do I measure this," "track conversions," "attribution," "Mixpanel," "Segment," "are my events firing," or "analytics isn't working." Use this whenever someone asks how to know if something is working or wants to measure marketing results. For A/B test measurement, see ab-testing.
+description: 当用户想要设置、改进或审计分析埋点与度量时使用。当用户提到「set up tracking」「GA4」「Google Analytics」「conversion tracking」「event tracking」「UTM parameters」「tag manager」「GTM」「analytics implementation」「tracking plan」「how do I measure this」「track conversions」「attribution」「Mixpanel」「Segment」「are my events firing」或「分析没正常工作」时也应使用。每当有人问如何知道某事是否奏效或想要衡量营销效果时使用。A/B 测试度量见 ab-testing。 | When the user wants to set up, improve, or audit analytics tracking and measurement. Also use when the user mentions "set up tracking," "GA4," "Google Analytics," "conversion tracking," "event tracking," "UTM parameters," "tag manager," "GTM," "analytics implementation," "tracking plan," "how do I measure this," "track conversions," "attribution," "Mixpanel," "Segment," "are my events firing," or "analytics isn't working." Use this whenever someone asks how to know if something is working or wants to measure marketing results. For A/B test measurement, see ab-testing.
 metadata:
   version: 2.0.0
 ---

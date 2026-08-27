@@ -1,6 +1,6 @@
 ---
 name: "adversarial-reviewer"
-description: "Adversarial code review that breaks the self-review monoculture. Use when you want a genuinely critical review of recent changes, before merging a PR, or when you suspect Claude is being too agreeable about code quality. Forces perspective shifts through hostile reviewer personas that catch blind spots the author's mental model shares with the reviewer."
+description: "打破自我评审单一文化的对抗式代码评审。当你想对近期变更做真正批判性的评审、在合并 PR 之前，或怀疑 Claude 对代码质量过于附和时使用。通过敌对评审员角色强制切换视角，捕捉作者与评审员共享心智模型造成的盲点。 | Adversarial code review that breaks the self-review monoculture. Use when you want a genuinely critical review of recent changes, before merging a PR, or when you suspect Claude is being too agreeable about code quality. Forces perspective shifts through hostile reviewer personas that catch blind spots the author's mental model shares with the reviewer."
 tier: "STANDARD"
 category: "Engineering / Code Quality"
 dependencies: "None (prompt-only, no external tools required)"

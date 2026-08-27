@@ -1,6 +1,6 @@
 ---
 name: weaviate-cookbooks
-description: "Build Weaviate AI apps from official cookbook blueprints for RAG, agentic RAG, data exploration, multimodal PDF search, async clients, and frontends."
+description: "依据官方 cookbook 蓝图构建 Weaviate AI 应用，涵盖 RAG、代理式 RAG、数据探索、多模态 PDF 搜索、异步客户端与前端。 | Build Weaviate AI apps from official cookbook blueprints for RAG, agentic RAG, data exploration, multimodal PDF search, async clients, and frontends."
 category: ai
 risk: safe
 source: community

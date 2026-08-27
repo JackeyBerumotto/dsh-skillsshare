@@ -1,6 +1,6 @@
 ---
 name: windows-privilege-escalation
-description: "Provide systematic methodologies for discovering and exploiting privilege escalation vulnerabilities on Windows systems during penetration testing engagements."
+description: "提供在渗透测试项目中发现并利用 Windows 系统权限提升漏洞的系统化方法论。 | Provide systematic methodologies for discovering and exploiting privilege escalation vulnerabilities on Windows systems during penetration testing engagements."
 risk: offensive
 source: community
 author: zebbern

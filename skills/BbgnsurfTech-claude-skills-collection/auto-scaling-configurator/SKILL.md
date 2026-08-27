@@ -1,7 +1,7 @@
 ---
 name: configuring-auto-scaling-policies
 description: |
-  Use when you need to work with auto-scaling.
+  当你需要处理自动扩缩容时使用。此技能提供自动扩缩容配置及全面的指导和自动化。触发词如「configure auto-scaling」「set up elastic scaling」或「implement scaling」。 |
   This skill provides auto-scaling configuration with comprehensive guidance and automation.
   Trigger with phrases like "configure auto-scaling", "set up elastic scaling",
   or "implement scaling".

@@ -1,6 +1,6 @@
 ---
 name: precommit-setup
-description: Configures pre-commit hooks for linting, type checking, formatting, and testing. Use when setting up a new project or adding quality gates to an existing one.
+description: 配置用于 lint、类型检查、格式化和测试的 pre-commit 钩子。在搭建新项目或为现有项目添加质量门禁时使用。 | Configures pre-commit hooks for linting, type checking, formatting, and testing. Use when setting up a new project or adding quality gates to an existing one.
 globs: "**/.pre-commit-config.yaml"
 alwaysApply: false
 # Custom metadata (not used by Claude for matching):

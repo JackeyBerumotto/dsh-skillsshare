@@ -2,7 +2,7 @@
 name: detecting-data-anomalies
 version: 1.0.0
 description: |
-  Identify anomalies and outliers in datasets using machine learning algorithms.
+  使用机器学习算法识别数据集中的异常和离群点。在分析数据中的异常模式、离群点或偏离正常行为的意外变化时使用。触发短语如「detect anomalies」、「find outliers」或「identify unusual patterns」。 |
   Use when analyzing data for unusual patterns, outliers, or unexpected deviations from normal behavior.
   Trigger with phrases like "detect anomalies", "find outliers", or "identify unusual patterns".
 allowed-tools: Read, Bash(python:*), Grep, Glob

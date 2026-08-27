@@ -1,6 +1,6 @@
 ---
 name: api-specs-openapi
-description: OpenAPI 3.1 specification, schema design, code generation
+description: OpenAPI 3.1 规范、schema 设计、代码生成 | OpenAPI 3.1 specification, schema design, code generation
 ---
 
 # OpenAPI Specification Patterns

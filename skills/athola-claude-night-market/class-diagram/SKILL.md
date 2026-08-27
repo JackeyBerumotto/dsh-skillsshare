@@ -1,6 +1,6 @@
 ---
 name: class-diagram
-description: Generates a Mermaid class diagram showing types, inheritance, and composition. Use when visualizing class hierarchies or documenting a module public API.
+description: 生成展示类型、继承和组合关系的 Mermaid 类图。在可视化类层次结构或记录模块公共 API 时使用。 | Generates a Mermaid class diagram showing types, inheritance, and composition. Use when visualizing class hierarchies or documenting a module public API.
 ---
 
 # Class Diagram

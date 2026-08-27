@@ -1,6 +1,6 @@
 ---
 name: zeroize-audit
-description: "Detects missing zeroization of sensitive data in source code and identifies zeroization removed by compiler optimizations, with assembly-level analysis, and control-flow verification. Use for auditing C/C++/Rust code handling secrets, keys, passwords, or other sensitive data."
+description: "检测源代码中敏感数据缺失清零（zeroization）的情况，并通过汇编级分析和控制流验证识别被编译器优化移除的清零操作。用于审计处理机密、密钥、密码或其他敏感数据的 C/C++/Rust 代码。 | Detects missing zeroization of sensitive data in source code and identifies zeroization removed by compiler optimizations, with assembly-level analysis, and control-flow verification. Use for auditing C/C++/Rust code handling secrets, keys, passwords, or other sensitive data."
 allowed-tools:
   - Read
   - Grep

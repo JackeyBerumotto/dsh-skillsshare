@@ -1,6 +1,6 @@
 ---
 name: doc-generator
-description: Generates or remediates documentation with human-quality writing. Use when creating new docs, rewriting AI-generated content, or applying style profiles.
+description: 生成或修复文档，具备人类水准的写作质量。在创建新文档、改写 AI 生成内容或应用风格配置时使用。 | Generates or remediates documentation with human-quality writing. Use when creating new docs, rewriting AI-generated content, or applying style profiles.
 globs: "**/*.md"
 alwaysApply: false
 category: artifact-generation

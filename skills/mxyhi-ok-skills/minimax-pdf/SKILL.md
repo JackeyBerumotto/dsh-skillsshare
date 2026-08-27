@@ -1,7 +1,7 @@
 ---
 name: minimax-pdf
 description: >
-  Use this skill when visual quality and design identity matter for a PDF.
+  当 PDF 的视觉质量和设计风格很重要时使用此技能。CREATE（从零生成）：「make a PDF」「generate a report」「write a proposal」「create a resume」「beautiful PDF」「professional document」「cover page」「polished PDF」「client-ready document」。FILL（填写表单字段）：「fill in the form」「fill out this PDF」「complete the form fields」「write values into PDF」「what fields does this PDF have」。REFORMAT（对现有文档应用设计）：「reformat this document」「apply our style」「convert this Markdown/text to PDF」「make this doc look good」「re-style this PDF」。此技能采用基于令牌的设计系统：颜色、排版和间距由文档类型推导并贯穿每一页。输出可直接付印。当外观重要而不仅仅是需要任意 PDF 输出时，优先使用此技能。 |
   CREATE (generate from scratch): "make a PDF", "generate a report", "write a proposal",
   "create a resume", "beautiful PDF", "professional document", "cover page",
   "polished PDF", "client-ready document".

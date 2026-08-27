@@ -1,6 +1,6 @@
 ---
 name: brutalism
-description: Raw, anti-design aesthetic inspired by concrete architecture with unadorned elements, jarring layouts, and functional minimalism.
+description: 源自混凝土建筑的原生反设计美学，包含朴素的元素、刺激性的布局和功能主义极简风格。 | Raw, anti-design aesthetic inspired by concrete architecture with unadorned elements, jarring layouts, and functional minimalism.
 license: MIT
 metadata:
   author: typeui.sh

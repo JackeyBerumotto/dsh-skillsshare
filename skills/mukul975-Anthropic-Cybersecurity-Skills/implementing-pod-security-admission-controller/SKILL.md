@@ -1,7 +1,6 @@
 ---
 name: implementing-pod-security-admission-controller
-description: Implement Kubernetes Pod Security Admission to enforce baseline and restricted
-  security profiles at namespace level using built-in admission controller.
+description: "使用内置准入控制器实现 Kubernetes Pod Security Admission，在命名空间级别强制执行 baseline 和 restricted 安全配置文件。 | Implement Kubernetes Pod Security Admission to enforce baseline and restricted security profiles at namespace level using built-in admission controller."
 domain: cybersecurity
 subdomain: container-security
 tags:

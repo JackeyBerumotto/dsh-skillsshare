@@ -1,6 +1,6 @@
 ---
 name: astro
-description: "Build content-focused websites with Astro — zero JS by default, islands architecture, multi-framework components, and Markdown/MDX support."
+description: "使用 Astro 构建以内容为核心的网站——默认零 JS、岛屿架构、多框架组件，以及 Markdown 与 MDX 支持。 | Build content-focused websites with Astro — zero JS by default, islands architecture, multi-framework components, and Markdown/MDX support."
 category: frontend
 risk: safe
 source: community

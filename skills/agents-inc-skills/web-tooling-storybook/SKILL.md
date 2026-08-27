@@ -1,6 +1,6 @@
 ---
 name: web-tooling-storybook
-description: Storybook patterns - CSF 3.0, args, controls, autodocs, play functions, interaction testing, visual testing, addons configuration
+description: Storybook 模式：CSF 3.0、args、controls、autodocs、play 函数、交互测试、视觉测试、addons 配置 | Storybook patterns - CSF 3.0, args, controls, autodocs, play functions, interaction testing, visual testing, addons configuration
 ---
 
 # Storybook Patterns

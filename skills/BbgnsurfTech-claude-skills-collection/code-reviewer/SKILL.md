@@ -1,6 +1,6 @@
 ---
 name: code-reviewer
-description: Comprehensive code review skill for TypeScript, JavaScript, Python, Swift, Kotlin, Go. Includes automated code analysis, best practice checking, security scanning, and review checklist generation. Use when reviewing pull requests, providing code feedback, identifying issues, or ensuring code quality standards.
+description: 面向 TypeScript、JavaScript、Python、Swift、Kotlin、Go 的综合代码审查技能。包括自动化代码分析、最佳实践检查、安全扫描和审查清单生成。在审查拉取请求、提供代码反馈、识别问题或确保代码质量标准时使用。 | Comprehensive code review skill for TypeScript, JavaScript, Python, Swift, Kotlin, Go. Includes automated code analysis, best practice checking, security scanning, and review checklist generation. Use when reviewing pull requests, providing code feedback, identifying issues, or ensuring code quality standards.
 ---
 
 # Code Reviewer

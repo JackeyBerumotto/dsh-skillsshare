@@ -1,8 +1,6 @@
 ---
 name: performing-csrf-attack-simulation
-description: Testing web applications for Cross-Site Request Forgery vulnerabilities
-  by crafting forged requests that exploit authenticated user sessions during authorized
-  security assessments.
+description: "在经授权的安全评估中，通过构造利用已认证用户会话的伪造请求来测试 Web 应用的跨站请求伪造（CSRF）漏洞。 | Testing web applications for Cross-Site Request Forgery vulnerabilities by crafting forged requests that exploit authenticated user sessions during authorized security assessments."
 domain: cybersecurity
 subdomain: web-application-security
 tags:

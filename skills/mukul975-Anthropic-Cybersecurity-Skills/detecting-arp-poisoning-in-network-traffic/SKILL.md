@@ -1,8 +1,6 @@
 ---
 name: detecting-arp-poisoning-in-network-traffic
-description: Detect and prevent ARP spoofing attacks using ARPWatch, Dynamic ARP Inspection,
-  Wireshark analysis, and custom monitoring scripts to protect against man-in-the-middle
-  interception.
+description: "使用 ARPWatch、动态 ARP 检查、Wireshark 分析和自定义监控脚本，检测并防御 ARP 欺骗攻击，防范中间人拦截。 | Detect and prevent ARP spoofing attacks using ARPWatch, Dynamic ARP Inspection, Wireshark analysis, and custom monitoring scripts to protect against man-in-the-middle interception."
 domain: cybersecurity
 subdomain: network-security
 tags:

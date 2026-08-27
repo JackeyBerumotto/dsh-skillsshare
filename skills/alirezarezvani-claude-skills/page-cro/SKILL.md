@@ -1,6 +1,6 @@
 ---
 name: "page-cro"
-description: When the user wants to optimize, improve, or increase conversions on any marketing page — including homepage, landing pages, pricing pages, feature pages, or blog posts. Also use when the user says "CRO," "conversion rate optimization," "this page isn't converting," "improve conversions," or "why isn't this page working." For signup/registration flows, see signup-flow-cro. For post-signup activation, see onboarding-cro. For forms outside of signup, see form-cro. For popups/modals, see popup-cro.
+description: 当用户想要优化、改进或提升任何营销页面——包括首页、落地页、定价页、功能页或博客文章——的转化时使用。当用户说「CRO」「conversion rate optimization」「这个页面不转化」「improve conversions」或「为什么这个页面不起作用」时也应使用。注册/登录流程见 signup-flow-cro。注册后激活见 onboarding-cro。注册之外的表单见 form-cro。弹窗/模态框见 popup-cro。 | When the user wants to optimize, improve, or increase conversions on any marketing page — including homepage, landing pages, pricing pages, feature pages, or blog posts. Also use when the user says "CRO," "conversion rate optimization," "this page isn't converting," "improve conversions," or "why isn't this page working." For signup/registration flows, see signup-flow-cro. For post-signup activation, see onboarding-cro. For forms outside of signup, see form-cro. For popups/modals, see popup-cro.
 license: MIT
 metadata:
   version: 1.0.0

@@ -1,6 +1,6 @@
 ---
 name: content-calendar
-description: "Generate a structured content calendar for any brand, product, or creator. Use when asked for a content plan, editorial calendar, social media schedule, or weekly/monthly content strategy. Produces a calendar with topics, formats, channels, and copy hooks."
+description: "为任何品牌、产品或创作者生成结构化内容日历。当被要求提供内容计划、编辑日历、社交媒体排期或周/月内容策略时使用。产出含主题、形式、渠道与文案钩子的日历。 | Generate a structured content calendar for any brand, product, or creator. Use when asked for a content plan, editorial calendar, social media schedule, or weekly/monthly content strategy. Produces a calendar with topics, formats, channels, and copy hooks."
 ---
 
 # Content Calendar Skill

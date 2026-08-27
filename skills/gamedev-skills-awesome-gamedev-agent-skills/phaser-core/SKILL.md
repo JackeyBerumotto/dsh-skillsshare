@@ -1,7 +1,7 @@
 ---
 name: phaser-core
 description: >
-  Set up and debug a Phaser 3 game: the Game config, the Scene lifecycle
+  搭建并调试 Phaser 3 游戏：Game 配置、Scene 生命周期（init/preload/create/update）、资源加载器、相机和跨场景通信。在构建或调试 Phaser 3 游戏时使用——当用户提到 Phaser、Phaser.Game、Phaser.Scene、preload/create/update、this.load、this.add 或场景切换时。街机物理的运动/碰撞请使用 phaser-arcade-physics。 |
   (init/preload/create/update), the asset loader, cameras, and cross-scene
   communication. Use when building or debugging a Phaser 3 game — when the user
   mentions Phaser, Phaser.Game, Phaser.Scene, preload/create/update, this.load,

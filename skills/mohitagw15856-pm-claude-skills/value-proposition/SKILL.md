@@ -1,6 +1,6 @@
 ---
 name: value-proposition
-description: "Craft a sharp value proposition that says who it's for, the outcome, and why you over the alternative. Use when asked to write a value prop, a value proposition, a one-liner, or to clarify 'what do we even say we do?'. Produces a primary value-prop statement, a plain-language one-liner, 3 benefit-led variations, and the before→after transformation it promises — ready to headline a landing page."
+description: "打造一句犀利的价值主张，说清面向谁、带来什么结果，以及为什么选你而不是替代方案。当被要求撰写价值主张（value prop）、一句话介绍（one-liner），或澄清「我们到底该怎么描述自己在做什么」时使用。产出一组内容：主价值主张陈述、通俗版一句话介绍、3 个以利益为核心的变体，以及承诺的「前→后」转变——可直接用作落地页主标题。 | Craft a sharp value proposition that says who it's for, the outcome, and why you over the alternative. Use when asked to write a value prop, a value proposition, a one-liner, or to clarify 'what do we even say we do?'. Produces a primary value-prop statement, a plain-language one-liner, 3 benefit-led variations, and the before→after transformation it promises — ready to headline a landing page."
 ---
 
 # Value Proposition Skill

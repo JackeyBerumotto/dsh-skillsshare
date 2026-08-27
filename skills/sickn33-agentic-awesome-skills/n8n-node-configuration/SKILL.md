@@ -1,6 +1,6 @@
 ---
 name: n8n-node-configuration
-description: Operation-aware node configuration guidance. Use when configuring nodes, understanding property dependencies, determining required fields, choosing between get_node detail levels, or learning common configuration patterns by node type.
+description: 具备操作感知的节点配置指南。在配置节点、理解属性依赖、确定必填字段、在 get_node 详情级别之间选择或学习按节点类型划分的常见配置模式时使用。 | Operation-aware node configuration guidance. Use when configuring nodes, understanding property dependencies, determining required fields, choosing between get_node detail levels, or learning common configuration patterns by node type.
 risk: unknown
 source: community
 ---

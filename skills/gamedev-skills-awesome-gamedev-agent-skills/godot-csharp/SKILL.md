@@ -1,7 +1,7 @@
 ---
 name: godot-csharp
 description: >
-  Use C#/.NET in Godot 4.x: partial classes extending nodes, the PascalCase lifecycle
+  在 Godot 4.x 中使用 C#/.NET：扩展节点的 partial 类、PascalCase 命名的生命周期（_Ready/_Process/_PhysicsProcess）、[Export] 字段、作为 C# 事件的 [Signal] 委托、GetNode<T>，以及 C# 与 GDScript 之间的相互调用。当用 C# 编写 Godot 游戏代码（.cs 文件、.csproj）、需要 Godot .NET 构建、把 GDScript 模式转换为 C#，或将 Godot 信号绑定为 C# 事件时使用。 |
   (_Ready/_Process/_PhysicsProcess), [Export] fields, [Signal] delegates as C# events,
   GetNode<T>, and calling between C# and GDScript. Use when writing Godot game code in
   C# (.cs files, .csproj), needing the Godot .NET build, converting GDScript patterns

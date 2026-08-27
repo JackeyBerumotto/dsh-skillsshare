@@ -1,6 +1,6 @@
 ---
 name: crossframe-essay
-description: "Use when explicit CrossFrame work needs a Chinese critical insight essay, commentary, concept essay, public piece, or structure-to-article draft after diagnosis."
+description: "当明确的 CrossFrame 工作在诊断之后需要中文的批判性洞察随笔、评论、概念文章、公开发表作品或从结构到成文的草稿时使用。 | Use when explicit CrossFrame work needs a Chinese critical insight essay, commentary, concept essay, public piece, or structure-to-article draft after diagnosis."
 category: content
 risk: safe
 source: community

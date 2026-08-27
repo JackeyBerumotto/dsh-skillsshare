@@ -1,6 +1,6 @@
 ---
 name: github-code-review
-description: Comprehensive GitHub code review with AI-powered swarm coordination
+description: 借助 AI 驱动的集群协作进行全面的 GitHub 代码审查。 | Comprehensive GitHub code review with AI-powered swarm coordination
 ---
 
 # GitHub Code Review Skill

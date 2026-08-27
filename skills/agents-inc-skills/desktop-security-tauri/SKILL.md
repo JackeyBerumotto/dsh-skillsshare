@@ -1,6 +1,6 @@
 ---
 name: desktop-security-tauri
-description: Tauri 2.x deny-by-default security model, capabilities, permissions, scopes, ACL
+description: Tauri 2.x 默认拒绝的安全模型、capabilities、permissions、scopes、ACL | Tauri 2.x deny-by-default security model, capabilities, permissions, scopes, ACL
 ---
 
 # Tauri Capabilities & ACL

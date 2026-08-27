@@ -1,6 +1,6 @@
 ---
 name: sql-sentinel
-description: "Audit SQL for the cost & performance anti-patterns that burn warehouse credits. Scores warehouse health 0-100 and outputs a prioritized cost-reduction plan for BigQuery, Snowflake, Redshift, and Postgres."
+description: "审计 SQL 中消耗仓库额度、拖累性能的反模式。为仓库健康度打 0-100 分，并针对 BigQuery、Snowflake、Redshift 和 Postgres 输出按优先级排序的降本计划。 | Audit SQL for the cost & performance anti-patterns that burn warehouse credits. Scores warehouse health 0-100 and outputs a prioritized cost-reduction plan for BigQuery, Snowflake, Redshift, and Postgres."
 category: data
 risk: critical
 source: community

@@ -1,6 +1,6 @@
 ---
 name: "office-hours"
-description: "/cs:office-hours <topic> — YC-style 6-question founder interrogation before any advice. Forces clarity on problem, customer, distribution, defensibility, capital, and founder fit. Use when a founder question is too vague to route — e.g. 'should we grow faster?' — or before drafting a strategy brief."
+description: "/cs:office-hours <topic>——YC 风格的六问创始人审讯，先于任何建议给出，强制厘清问题、客户、分发渠道、防御性、资本和创始人匹配度。适用于创始人问题过于模糊无法路由时——例如「我们该更快增长吗？」——或起草战略简报之前。 | /cs:office-hours <topic> — YC-style 6-question founder interrogation before any advice. Forces clarity on problem, customer, distribution, defensibility, capital, and founder fit. Use when a founder question is too vague to route — e.g. 'should we grow faster?' — or before drafting a strategy brief."
 ---
 
 # /cs:office-hours — Six-Question Founder Interrogation

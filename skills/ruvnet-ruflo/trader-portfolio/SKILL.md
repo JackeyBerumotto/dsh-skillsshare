@@ -1,6 +1,6 @@
 ---
 name: trader-portfolio
-description: Optimize portfolio allocation using npx neural-trader mean-variance engine with risk constraints and rebalancing plan
+description: 使用 npx neural-trader 的均值-方差引擎优化投资组合配置，附带风险约束和再平衡计划 | Optimize portfolio allocation using npx neural-trader mean-variance engine with risk constraints and rebalancing plan
 allowed-tools: Bash Read mcp__claude-flow__memory_store mcp__claude-flow__memory_retrieve mcp__claude-flow__memory_search mcp__claude-flow__neural_predict mcp__claude-flow__agentdb_pattern-search
 argument-hint: "[--risk-target NUMBER]"
 ---

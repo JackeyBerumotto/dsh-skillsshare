@@ -1,7 +1,7 @@
 ---
 name: architecture-paradigm-domain-driven
 role: library
-description: Models a business in its own language. Use when the domain has real business rules to capture.
+description: 用业务自身的语言为业务建模。当领域存在需要捕捉的真实业务规则时使用。 | Models a business in its own language. Use when the domain has real business rules to capture.
 alwaysApply: false
 category: architectural-pattern
 tags:

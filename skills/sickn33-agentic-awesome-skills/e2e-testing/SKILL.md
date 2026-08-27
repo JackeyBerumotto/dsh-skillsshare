@@ -1,6 +1,6 @@
 ---
 name: e2e-testing
-description: "End-to-end testing workflow with Playwright for browser automation, visual regression, cross-browser testing, and CI/CD integration."
+description: "基于 Playwright 的端到端测试工作流，涵盖浏览器自动化、视觉回归、跨浏览器测试和 CI/CD 集成。 | End-to-end testing workflow with Playwright for browser automation, visual regression, cross-browser testing, and CI/CD integration."
 category: granular-workflow-bundle
 risk: safe
 source: personal

@@ -1,6 +1,6 @@
 ---
 name: "iso13485-audit-prep"
-description: "/cs:iso13485-audit-prep <scope> — ISO 13485 QMS audit 6-question forcing interrogation. Design controls + CAPA + post-market focused. Use before Clause 8.2.4 internal audit, MDR / FDA QSR alignment review, or product-launch DHF closure audit."
+description: "/cs:iso13485-audit-prep <scope>——ISO 13485 QMS 审计六问强制审讯，聚焦设计控制、CAPA 和上市后环节。适用于条款 8.2.4 内部审计前、MDR 与 FDA QSR 对齐审查，或产品发布的 DHF 收尾审计前。 | /cs:iso13485-audit-prep <scope> — ISO 13485 QMS audit 6-question forcing interrogation. Design controls + CAPA + post-market focused. Use before Clause 8.2.4 internal audit, MDR / FDA QSR alignment review, or product-launch DHF closure audit."
 ---
 
 # /cs:iso13485-audit-prep — ISO 13485 QMS Forcing Questions

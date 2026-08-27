@@ -1,6 +1,6 @@
 ---
 name: "quality-documentation-manager"
-description: Document control system management for medical device QMS. Covers document numbering, version control, change management, and 21 CFR Part 11 compliance. Use when working on document control procedures, change control workflows, document numbering, version management, electronic signature compliance, or regulatory documentation review.
+description: 医疗器械 QMS 的文档控制体系管理。涵盖文档编号、版本控制、变更管理以及 21 CFR Part 11 合规。当处理文档控制程序、变更控制工作流、文档编号、版本管理、电子签名合规或法规文档评审时使用。 | Document control system management for medical device QMS. Covers document numbering, version control, change management, and 21 CFR Part 11 compliance. Use when working on document control procedures, change control workflows, document numbering, version management, electronic signature compliance, or regulatory documentation review.
 triggers:
   - document control
   - document numbering

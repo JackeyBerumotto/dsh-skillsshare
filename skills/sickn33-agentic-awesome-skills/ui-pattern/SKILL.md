@@ -1,6 +1,6 @@
 ---
 name: ui-pattern
-description: Generate a composed UI pattern (card layout, list, form section, grid, etc.) using design system primitives
+description: 用设计系统原语生成组合式 UI 模式（卡片布局、列表、表单区块、网格等） | Generate a composed UI pattern (card layout, list, form section, grid, etc.) using design system primitives
 risk: unknown
 source: https://github.com/bitjaru/styleseed/tree/main/engine/.claude/skills/ss-pattern
 source_repo: bitjaru/styleseed

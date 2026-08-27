@@ -1,6 +1,6 @@
 ---
 name: architecture-paradigm-functional-core
-description: Applies Functional Core, Imperative Shell to isolate logic from side effects. Use when business logic is entangled with I/O or unit tests are slow and brittle.
+description: 应用「函数式内核、命令式外壳」模式将业务逻辑与副作用隔离。当业务逻辑与 I/O 纠缠不清，或单元测试缓慢脆弱时使用。 | Applies Functional Core, Imperative Shell to isolate logic from side effects. Use when business logic is entangled with I/O or unit tests are slow and brittle.
 alwaysApply: false
 category: architectural-pattern
 tags:

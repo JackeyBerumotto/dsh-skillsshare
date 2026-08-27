@@ -1,6 +1,6 @@
 ---
 name: sales-battlecard
-description: "Create a competitive sales battlecard for any competitor. Use when asked to build a battlecard, competitive comparison, sales cheat sheet, or objection handling guide for a specific competitor. Produces a one-page battlecard with positioning, differentiators, objection responses, and landmines."
+description: "为任意竞争对手创建销售竞对战卡。当被要求为特定竞品构建战卡、竞争对比、销售速查表或异议应对指南时使用。产出一页式战卡，包含定位、差异化优势、异议应对话术以及可给对手设置的雷区。 | Create a competitive sales battlecard for any competitor. Use when asked to build a battlecard, competitive comparison, sales cheat sheet, or objection handling guide for a specific competitor. Produces a one-page battlecard with positioning, differentiators, objection responses, and landmines."
 ---
 
 # Sales Battlecard Skill

@@ -1,6 +1,6 @@
 ---
 name: skill-writer
-description: Create and improve agent skills following the Agent Skills specification. Use when asked to create, write, or update skills.
+description: 按照 Agent Skills 规范创建和改进智能体技能。当被要求创建、编写或更新技能时使用。 | Create and improve agent skills following the Agent Skills specification. Use when asked to create, write, or update skills.
 risk: unknown
 source: community
 ---

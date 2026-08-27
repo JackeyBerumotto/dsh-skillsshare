@@ -1,6 +1,6 @@
 ---
 name: web-dataviz-d3
-description: D3.js data visualization — selections, data joins, scales, axes, shapes, transitions, force layouts, geo projections, framework integration
+description: D3.js 数据可视化——selection、data join、比例尺、坐标轴、图形、过渡动画、力导向布局、地理投影以及框架集成 | D3.js data visualization — selections, data joins, scales, axes, shapes, transitions, force layouts, geo projections, framework integration
 ---
 
 # D3.js Data Visualization Patterns

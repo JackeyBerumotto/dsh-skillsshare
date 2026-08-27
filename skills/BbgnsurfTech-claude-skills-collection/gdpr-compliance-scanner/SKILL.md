@@ -1,6 +1,6 @@
 ---
 name: scanning-for-gdpr-compliance
-description: Scan for GDPR compliance issues in data handling and privacy practices. Use when ensuring EU data protection compliance. Trigger with 'scan GDPR compliance', 'check data privacy', or 'validate GDPR'.
+description: 扫描数据处理和隐私实践中的 GDPR 合规问题。在确保欧盟数据保护合规时使用。触发语句：「scan GDPR compliance」「check data privacy」或「validate GDPR」。 | Scan for GDPR compliance issues in data handling and privacy practices. Use when ensuring EU data protection compliance. Trigger with 'scan GDPR compliance', 'check data privacy', or 'validate GDPR'.
 version: 1.0.0
 allowed-tools:
 - Read

@@ -1,6 +1,6 @@
 ---
 name: product-vision
-description: "Brainstorm an inspiring, achievable, and emotional product vision that motivates teams and aligns stakeholders. Use when defining or refining a product vision, creating a vision statement, or aligning the team around a shared direction."
+description: "头脑风暴出一个鼓舞人心、切实可行且富有感染力的产品愿景，以激励团队并对齐利益相关者。在定义或完善产品愿景、撰写愿景陈述，或围绕共同方向凝聚团队时使用。 | Brainstorm an inspiring, achievable, and emotional product vision that motivates teams and aligns stakeholders. Use when defining or refining a product vision, creating a vision statement, or aligning the team around a shared direction."
 ---
 # Product Vision
 

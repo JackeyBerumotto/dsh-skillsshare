@@ -1,6 +1,6 @@
 ---
 name: test-case-writer
-description: "Turn a requirement or user story into clear, executable test cases. Use when asked to write test cases, test scenarios, a test suite for a feature, or to derive tests from acceptance criteria. Produces structured test cases — preconditions, steps, test data, expected results — across happy path, edge cases, and negative cases, plus a coverage note, so a tester (or automation) can run them without guessing."
+description: "将需求或用户故事转化为清晰、可执行的测试用例。当被要求编写测试用例、测试场景、为某功能编写测试套件，或从验收标准推导测试时使用。产出结构化测试用例——前置条件、步骤、测试数据、预期结果——覆盖正常路径、边界情况和异常情况，并附覆盖说明，让测试人员（或自动化）无需猜测即可执行。 | Turn a requirement or user story into clear, executable test cases. Use when asked to write test cases, test scenarios, a test suite for a feature, or to derive tests from acceptance criteria. Produces structured test cases — preconditions, steps, test data, expected results — across happy path, edge cases, and negative cases, plus a coverage note, so a tester (or automation) can run them without guessing."
 ---
 
 # Test Case Writer Skill

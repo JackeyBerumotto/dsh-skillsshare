@@ -1,6 +1,6 @@
 ---
 name: pptx-slide-auditor
-description: "Audit a PowerPoint presentation for layout issues, text overflow, visual hierarchy problems, and consistency gaps. Use when asked to review a slide deck, check a presentation before a meeting, audit slides for layout problems, or QA a deck before sharing. Produces a slide-by-slide report with issues ranked by severity and specific fixes. Best used with Claude Opus 4.7 or newer for reliable slide-level vision analysis."
+description: "审计 PowerPoint 演示文稿的版式问题、文字溢出、视觉层级问题和一致性缺口。当被要求评审幻灯片、会前检查演示文稿、审计幻灯片版式问题，或在分享前做质量检查时使用。产出逐页报告，包含按严重程度排序的问题和具体修复方案。搭配 Claude Opus 4.7 或更新版本使用效果最佳，可获得可靠的页面级视觉分析。 | Audit a PowerPoint presentation for layout issues, text overflow, visual hierarchy problems, and consistency gaps. Use when asked to review a slide deck, check a presentation before a meeting, audit slides for layout problems, or QA a deck before sharing. Produces a slide-by-slide report with issues ranked by severity and specific fixes. Best used with Claude Opus 4.7 or newer for reliable slide-level vision analysis."
 ---
 
 # PPTX Slide Auditor Skill

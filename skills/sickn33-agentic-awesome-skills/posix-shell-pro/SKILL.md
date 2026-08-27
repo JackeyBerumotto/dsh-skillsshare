@@ -1,6 +1,6 @@
 ---
 name: posix-shell-pro
-description: Expert in strict POSIX sh scripting for maximum portability across Unix-like systems. Specializes in shell scripts that run on any POSIX-compliant shell (dash, ash, sh, bash --posix).
+description: 严格 POSIX sh 脚本专家，在类 Unix 系统间实现最大可移植性。专精可在任何 POSIX 兼容 shell（dash、ash、sh、bash --posix）上运行的脚本。 | Expert in strict POSIX sh scripting for maximum portability across Unix-like systems. Specializes in shell scripts that run on any POSIX-compliant shell (dash, ash, sh, bash --posix).
 risk: critical
 source: community
 date_added: '2026-02-27'

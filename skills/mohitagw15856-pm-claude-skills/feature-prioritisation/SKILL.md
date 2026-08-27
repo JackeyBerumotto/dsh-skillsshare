@@ -1,6 +1,6 @@
 ---
 name: feature-prioritisation
-description: "Apply prioritisation frameworks (RICE, MoSCoW, Kano, ICE, Opportunity Scoring) to rank features and backlog items. Use when asked to prioritise features, rank a backlog, decide what to build next, or evaluate tradeoffs between competing ideas. Produces a scored, ranked feature list with framework-specific tables, recommended build order, deprioritised items, and assumptions made."
+description: "运用优先级框架（RICE、MoSCoW、Kano、ICE、机会评分）对功能和待办事项排序。当被要求确定功能优先级、对待办排序、决定下一步做什么，或在竞争想法之间权衡时使用。产出带评分和排序的功能列表，包含各框架专属表格、建议的构建顺序、被降低优先级的条目以及所作假设。 | Apply prioritisation frameworks (RICE, MoSCoW, Kano, ICE, Opportunity Scoring) to rank features and backlog items. Use when asked to prioritise features, rank a backlog, decide what to build next, or evaluate tradeoffs between competing ideas. Produces a scored, ranked feature list with framework-specific tables, recommended build order, deprioritised items, and assumptions made."
 ---
 
 # Feature Prioritisation Skill

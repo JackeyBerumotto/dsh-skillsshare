@@ -1,7 +1,7 @@
 ---
 name: ctx-search
 description: |
-  Search context-mode's persistent FTS5 knowledge base for previously indexed
+  在 context-mode 的持久化 FTS5 知识库中搜索此前已索引的本地项目内容、文档或会话记忆。触发方式：/context-mode:ctx-search。 |
   local project content, documentation, or session memory.
   Trigger: /context-mode:ctx-search
 user-invocable: true

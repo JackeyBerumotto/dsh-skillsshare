@@ -1,6 +1,6 @@
 ---
 name: seo-content-brief
-description: "Create a structured SEO content brief for any target keyword or topic. Use when asked to write an SEO brief, content brief, keyword brief, or content strategy document. Produces a complete brief with target keyword, search intent, outline, competitor insights, internal links, and on-page SEO guidance."
+description: "为任意目标关键词或主题创建结构化的 SEO 内容简报。当被要求撰写 SEO 简报、内容简报、关键词简报或内容策略文档时使用。产出完整简报，包含目标关键词、搜索意图、大纲、竞品洞察、内链以及页内 SEO 指引。 | Create a structured SEO content brief for any target keyword or topic. Use when asked to write an SEO brief, content brief, keyword brief, or content strategy document. Produces a complete brief with target keyword, search intent, outline, competitor insights, internal links, and on-page SEO guidance."
 ---
 
 # SEO Content Brief Skill

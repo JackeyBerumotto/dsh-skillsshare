@@ -1,6 +1,6 @@
 ---
 name: azure-storage-queue-ts
-description: Azure Queue Storage JavaScript/TypeScript SDK (@azure/storage-queue) for message queue operations. Use for sending, receiving, peeking, and deleting messages in queues.
+description: Azure Queue Storage 的 JavaScript 和 TypeScript SDK（@azure/storage-queue），用于消息队列操作。适用于在队列中发送、接收、窥视和删除消息。 | Azure Queue Storage JavaScript/TypeScript SDK (@azure/storage-queue) for message queue operations. Use for sending, receiving, peeking, and deleting messages in queues.
 risk: unknown
 source: community
 date_added: '2026-02-27'

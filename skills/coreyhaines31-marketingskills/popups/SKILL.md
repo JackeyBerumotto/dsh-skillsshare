@@ -1,6 +1,6 @@
 ---
 name: popups
-description: When the user wants to create or optimize popups, modals, overlays, slide-ins, or banners for conversion purposes. Also use when the user mentions "exit intent," "popup conversions," "modal optimization," "lead capture popup," "email popup," "announcement banner," "overlay," "collect emails with a popup," "exit popup," "scroll trigger," "sticky bar," or "notification bar." Use this for any overlay or interrupt-style conversion element. For forms outside of popups, see cro. For general page conversion optimization, see cro.
+description: 当用户想要为转化目的创建或优化弹窗、模态框、浮层、滑入条或横幅时使用。当用户提到「exit intent」「popup conversions」「modal optimization」「lead capture popup」「email popup」「announcement banner」「overlay」「collect emails with a popup」「exit popup」「scroll trigger」「sticky bar」或「notification bar」时也应使用。适用于任何浮层或打断式转化元素。弹窗之外的表单见 cro。一般页面转化优化见 cro。 | When the user wants to create or optimize popups, modals, overlays, slide-ins, or banners for conversion purposes. Also use when the user mentions "exit intent," "popup conversions," "modal optimization," "lead capture popup," "email popup," "announcement banner," "overlay," "collect emails with a popup," "exit popup," "scroll trigger," "sticky bar," or "notification bar." Use this for any overlay or interrupt-style conversion element. For forms outside of popups, see cro. For general page conversion optimization, see cro.
 metadata:
   version: 2.0.0
 ---

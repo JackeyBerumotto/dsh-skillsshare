@@ -1,6 +1,6 @@
 ---
 name: ab-test-planner
-description: "Design statistically rigorous A/B tests for product features, UI changes, onboarding flows, and pricing experiments. Use when asked to set up an experiment, design an A/B test, calculate sample size, or interpret test results. Produces a complete test plan with hypothesis, variant definitions, sample size, duration estimate, guardrail metrics, and a results interpretation guide."
+description: "为产品功能、UI 变更、入驻流程和定价实验设计统计上严谨的 A/B 测试。当被要求搭建实验、设计 A/B 测试、计算样本量或解读测试结果时使用。产出完整的测试计划，包含假设、变体定义、样本量、时长估算、护栏指标和结果解读指南。 | Design statistically rigorous A/B tests for product features, UI changes, onboarding flows, and pricing experiments. Use when asked to set up an experiment, design an A/B test, calculate sample size, or interpret test results. Produces a complete test plan with hypothesis, variant definitions, sample size, duration estimate, guardrail metrics, and a results interpretation guide."
 ---
 
 # A/B Test Planner Skill

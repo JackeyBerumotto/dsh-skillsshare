@@ -1,6 +1,6 @@
 ---
 name: hybrid-cloud-networking
-description: "Configure secure, high-performance connectivity between on-premises and cloud environments using VPN, Direct Connect, and ExpressRoute."
+description: "使用 VPN、Direct Connect 和 ExpressRoute 配置本地与云环境之间安全、高性能的连接。 | Configure secure, high-performance connectivity between on-premises and cloud environments using VPN, Direct Connect, and ExpressRoute."
 risk: safe
 source: community
 date_added: "2026-02-27"

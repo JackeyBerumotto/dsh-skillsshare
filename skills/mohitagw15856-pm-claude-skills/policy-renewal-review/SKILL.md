@@ -1,6 +1,6 @@
 ---
 name: policy-renewal-review
-description: "Run a pre-renewal review of an insurance programme: scan coverage gaps against current operations, test limit adequacy against inflation and exposure growth, read the claims experience into pricing expectations, frame market alternatives, and arm the broker negotiation. Use when asked to prepare for a policy renewal, review cover before renewal, check if limits are still adequate, or build renewal negotiation points. Produces a structured renewal review with gap findings, limit assessment, pricing outlook, and negotiation points."
+description: "对保险方案进行续保前审查：对照当前运营扫描保障缺口、结合通胀和风险敞口增长检验限额充足性、把理赔经验读进定价预期、框定市场替代方案，并为经纪人谈判做好准备。当被要求准备续保、在续保前审查保障、检查限额是否仍然充足，或制定续保谈判要点时使用。产出结构化续保审查：缺口发现、限额评估、定价展望和谈判要点。 | Run a pre-renewal review of an insurance programme: scan coverage gaps against current operations, test limit adequacy against inflation and exposure growth, read the claims experience into pricing expectations, frame market alternatives, and arm the broker negotiation. Use when asked to prepare for a policy renewal, review cover before renewal, check if limits are still adequate, or build renewal negotiation points. Produces a structured renewal review with gap findings, limit assessment, pricing outlook, and negotiation points."
 ---
 
 # Policy Renewal Review Skill

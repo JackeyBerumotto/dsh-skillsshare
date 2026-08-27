@@ -1,8 +1,6 @@
 ---
 name: performing-web-cache-poisoning-attack
-description: Exploiting web cache mechanisms to serve malicious content to other users
-  by poisoning cached responses through unkeyed headers and parameters during authorized
-  security tests.
+description: "在授权安全测试中利用 Web 缓存机制，通过非键控（unkeyed）请求头和参数毒化缓存响应，向其他用户提供恶意内容。 | Exploiting web cache mechanisms to serve malicious content to other users by poisoning cached responses through unkeyed headers and parameters during authorized security tests."
 domain: cybersecurity
 subdomain: web-application-security
 tags:

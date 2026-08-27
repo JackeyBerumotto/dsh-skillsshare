@@ -1,6 +1,6 @@
 ---
 name: parent-communication
-description: "Draft clear, warm, professional messages to parents or guardians — progress notes, concerns, positive news, behaviour issues, or meeting requests. Use when asked to email a parent, write home about a student, raise a concern with a guardian, or share an update. Produces a ready-to-send message that is specific, partnership-oriented, and constructive — never accusatory — with the tone matched to the situation."
+description: "起草清晰、温暖、专业的致家长或监护人信息——进度通知、关注事项、好消息、行为问题或会面请求。当被要求给家长发邮件、向家里通报学生情况、向监护人反映问题或分享近况时使用。产出可直接发送的信息，具体、以合作为导向且具有建设性——绝不带指责——语气与情境相匹配。 | Draft clear, warm, professional messages to parents or guardians — progress notes, concerns, positive news, behaviour issues, or meeting requests. Use when asked to email a parent, write home about a student, raise a concern with a guardian, or share an update. Produces a ready-to-send message that is specific, partnership-oriented, and constructive — never accusatory — with the tone matched to the situation."
 ---
 
 # Parent Communication Skill

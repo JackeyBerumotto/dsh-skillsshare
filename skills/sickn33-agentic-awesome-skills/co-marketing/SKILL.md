@@ -1,6 +1,6 @@
 ---
 name: co-marketing
-description: When the user wants to find co-marketing partners, plan joint campaigns, or brainstorm partnership opportunities. Use when the user says 'co-marketing,' 'partner marketing,' 'joint campaign,' 'who should we partner with,' 'integration marketing,' 'cross-promotion,' 'collaborate with...
+description: 当用户想要寻找联合营销伙伴、规划联合活动或构思合作机会时使用。当用户说「co-marketing」「partner marketing」「joint campaign」「who should we partner with」「integration marketing」「cross-promotion」「collaborate with……」时也应使用。 | When the user wants to find co-marketing partners, plan joint campaigns, or brainstorm partnership opportunities. Use when the user says 'co-marketing,' 'partner marketing,' 'joint campaign,' 'who should we partner with,' 'integration marketing,' 'cross-promotion,' 'collaborate with...
 risk: unknown
 source: https://github.com/coreyhaines31/marketingskills/tree/main/skills/co-marketing
 source_repo: coreyhaines31/marketingskills

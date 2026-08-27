@@ -1,6 +1,6 @@
 ---
 name: "a11y-audit"
-description: "Accessibility audit skill for scanning, fixing, and verifying WCAG 2.2 Level A and AA compliance across React, Next.js, Vue, Angular, Svelte, and plain HTML codebases. Use when auditing accessibility, fixing a11y violations, checking color contrast, generating compliance reports, or integrating accessibility checks into CI/CD pipelines."
+description: "无障碍审计技能，用于在 React、Next.js、Vue、Angular、Svelte 和纯 HTML 代码库中扫描、修复并验证 WCAG 2.2 A 级和 AA 级合规。适用于审计无障碍性、修复 a11y 违规、检查颜色对比度、生成合规报告或将无障碍检查集成到 CI/CD 管线时。 | Accessibility audit skill for scanning, fixing, and verifying WCAG 2.2 Level A and AA compliance across React, Next.js, Vue, Angular, Svelte, and plain HTML codebases. Use when auditing accessibility, fixing a11y violations, checking color contrast, generating compliance reports, or integrating accessibility checks into CI/CD pipelines."
 ---
 
 # Accessibility Audit

@@ -1,6 +1,6 @@
 ---
 name: neon-postgres-egress-optimizer
-description: Diagnose and fix excessive Postgres egress (network data transfer) in a codebase. Use when a user mentions high database bills, unexpected data transfer costs, network transfer charges, egress spikes, "why is my Neon bill so high", "database costs jumped", SELECT * optimization, query...
+description: 诊断并修复代码库中过高的 Postgres 出口流量（网络数据传输）。当用户提到高额数据库账单、意外的数据传输成本、网络传输费用、出口流量激增、「why is my Neon bill so high」「database costs jumped」、SELECT * 优化、查询优化等时使用。 | Diagnose and fix excessive Postgres egress (network data transfer) in a codebase. Use when a user mentions high database bills, unexpected data transfer costs, network transfer charges, egress spikes, "why is my Neon bill so high", "database costs jumped", SELECT * optimization, query...
 risk: unknown
 source: https://github.com/neondatabase/agent-skills/tree/main/skills/neon-postgres-egress-optimizer
 source_repo: neondatabase/agent-skills

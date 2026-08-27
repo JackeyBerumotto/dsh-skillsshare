@@ -1,14 +1,6 @@
 ---
 name: performing-privacy-impact-assessment
-description: 'Automates the Privacy Impact Assessment (PIA) workflow including data
-  flow mapping, privacy risk scoring matrices, GDPR Article 35 DPIA and CCPA/CPRA
-  alignment checks, data inventory cataloging, and remediation tracking. Implements
-  the NIST Privacy Framework PRAM methodology and ICO DPIA guidance for systematic
-  identification and mitigation of privacy risks across processing activities. Use
-  when conducting privacy assessments for new systems, evaluating regulatory compliance
-  posture, or building automated privacy governance programs.
-
-  '
+description: "自动化隐私影响评估（PIA）工作流，包括数据流映射、隐私风险评分矩阵、GDPR 第 35 条 DPIA 与 CCPA/CPRA 对齐检查、数据资产编目和整改跟踪。实现 NIST 隐私框架 PRAM 方法论和 ICO DPIA 指引，对各处理活动系统地识别和缓解隐私风险。当对新系统进行隐私评估、评估监管合规态势或构建自动化隐私治理计划时使用。 | Automates the Privacy Impact Assessment (PIA) workflow including data flow mapping, privacy risk scoring matrices, GDPR Article 35 DPIA and CCPA/CPRA alignment checks, data inventory cataloging, and remediation tracking. Implements the NIST Privacy Framework PRAM methodology and ICO DPIA guidance for systematic identification and mitigation of privacy risks across processing activities. Use when conducting privacy assessments for new systems, evaluating regulatory compliance posture, or building automated privacy governance programs."
 domain: cybersecurity
 subdomain: privacy-compliance
 tags:

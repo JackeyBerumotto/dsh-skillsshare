@@ -1,6 +1,6 @@
 ---
 name: microcopy-writer
-description: "Write the small UI text that guides users — buttons, labels, tooltips, CTAs, confirmations. Use when asked to write microcopy, button/CTA text, form labels, tooltips, helper text, or to make UI wording clearer. Produces specific, action-oriented microcopy with options and rationale, matched to the moment and the product's voice — concise, scannable, and free of jargon."
+description: "撰写引导用户的小型 UI 文案——按钮、标签、提示框、CTA、确认提示。在被要求编写微文案、按钮/CTA 文字、表单标签、tooltip、帮助文字，或让 UI 用语更清晰时使用。产出具体、面向行动的微文案，附选项和理由，贴合使用场景和产品声音——简洁、可扫读、无行话。 | Write the small UI text that guides users — buttons, labels, tooltips, CTAs, confirmations. Use when asked to write microcopy, button/CTA text, form labels, tooltips, helper text, or to make UI wording clearer. Produces specific, action-oriented microcopy with options and rationale, matched to the moment and the product's voice — concise, scannable, and free of jargon."
 ---
 
 # Microcopy Writer Skill

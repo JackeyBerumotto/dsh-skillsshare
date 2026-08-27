@@ -1,6 +1,6 @@
 ---
 name: requesting-code-review
-description: "Use when completing tasks, implementing major features, or before merging to verify work meets requirements"
+description: "在完成任务、实现重大功能或合并之前使用，以验证工作符合需求。 | Use when completing tasks, implementing major features, or before merging to verify work meets requirements"
 risk: unknown
 source: community
 date_added: "2026-02-27"

@@ -1,6 +1,6 @@
 ---
 name: nx-workspace-patterns
-description: "Configure and optimize Nx monorepo workspaces. Use when setting up Nx, configuring project boundaries, optimizing build caching, or implementing affected commands."
+description: "配置并优化 Nx monorepo 工作区。在搭建 Nx、配置项目边界、优化构建缓存或实现 affected 命令时使用。 | Configure and optimize Nx monorepo workspaces. Use when setting up Nx, configuring project boundaries, optimizing build caching, or implementing affected commands."
 risk: unknown
 source: community
 date_added: "2026-02-27"

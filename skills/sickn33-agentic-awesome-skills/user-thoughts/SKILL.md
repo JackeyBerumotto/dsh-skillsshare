@@ -1,7 +1,7 @@
 ---
 name: user-thoughts
 description: >-
-  Persist user decisions and project constraints to mdbase across sessions.
+  跨会话将用户决策和项目约束持久化到 mdbase。在 /user-thoughts 或 /ustht 时触发，或当用户讨论架构、技术栈、规则、UI/UX 或项目记忆时触发。 |
   Trigger on /user-thoughts or /ustht, or when the user discusses architecture,
   tech stack, rules, UI/UX, or project memory.
 license: MIT

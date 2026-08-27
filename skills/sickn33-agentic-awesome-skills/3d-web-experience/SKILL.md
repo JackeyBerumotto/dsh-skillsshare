@@ -1,9 +1,6 @@
 ---
 name: 3d-web-experience
-description: Expert in building 3D experiences for the web - Three.js, React
-  Three Fiber, Spline, WebGL, and interactive 3D scenes. Covers product
-  configurators, 3D portfolios, immersive websites, and bringing depth to web
-  experiences.
+description: "精通构建 Web 3D 体验——Three.js、React Three Fiber、Spline、WebGL 以及交互式 3D 场景。涵盖产品配置器、3D 作品集、沉浸式网站，以及为 Web 体验增添纵深感。 | Expert in building 3D experiences for the web - Three.js, React Three Fiber, Spline, WebGL, and interactive 3D scenes. Covers product configurators, 3D portfolios, immersive websites, and bringing depth to web experiences."
 risk: unknown
 source: vibeship-spawner-skills (Apache 2.0)
 date_added: 2026-02-27

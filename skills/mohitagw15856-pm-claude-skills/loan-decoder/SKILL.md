@@ -1,6 +1,6 @@
 ---
 name: loan-decoder
-description: "Decode a personal, auto, or mortgage loan offer into what it really costs and where the traps are. Use when someone asks 'is this loan a good deal', 'decode my loan offer', 'what am I signing', or 'what will this mortgage actually cost me'. Produces a total-cost-of-loan number, APR vs advertised-rate reconciliation, ranked red flags (prepayment penalties, junk fees, rate-reset exposure), and the three questions that most change the deal."
+description: "解读个人贷款、汽车贷款或抵押贷款报价，弄清真实成本和陷阱所在。当有人问「这笔贷款划算吗」「解读我的贷款报价」「我要签的是什么」或「这笔房贷实际会花我多少钱」时使用。产出贷款总成本数字、APR 与宣传利率的对账、按严重程度排序的危险信号（提前还款罚金、垃圾费用、利率重置风险），以及最能改变交易的三个问题。 | Decode a personal, auto, or mortgage loan offer into what it really costs and where the traps are. Use when someone asks 'is this loan a good deal', 'decode my loan offer', 'what am I signing', or 'what will this mortgage actually cost me'. Produces a total-cost-of-loan number, APR vs advertised-rate reconciliation, ranked red flags (prepayment penalties, junk fees, rate-reset exposure), and the three questions that most change the deal."
 ---
 
 # Loan Decoder Skill

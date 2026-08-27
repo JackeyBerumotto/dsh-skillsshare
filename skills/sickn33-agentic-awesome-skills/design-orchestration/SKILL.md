@@ -1,6 +1,6 @@
 ---
 name: design-orchestration
-description: Orchestrates design workflows by routing work through brainstorming, multi-agent review, and execution readiness in the correct order.
+description: 按正确顺序将工作路由经过头脑风暴、多智能体评审和执行就绪，从而编排设计工作流。 | Orchestrates design workflows by routing work through brainstorming, multi-agent review, and execution readiness in the correct order.
 risk: unknown
 source: community
 date_added: '2026-02-27'

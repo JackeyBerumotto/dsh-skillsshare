@@ -1,6 +1,6 @@
 ---
 name: dig
-description: Refines an active research session by drilling deeper into a subtopic. Use after tome:research to narrow results to a specific channel or angle.
+description: 通过深入某个子主题来精炼进行中的研究会话。在 tome:research 之后使用，以将结果收窄到特定渠道或角度。 | Refines an active research session by drilling deeper into a subtopic. Use after tome:research to narrow results to a specific channel or angle.
 alwaysApply: false
 category: research
 tags:

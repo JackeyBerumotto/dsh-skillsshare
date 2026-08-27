@@ -1,6 +1,6 @@
 ---
 name: offensive-osint
-description: "Comprehensive OSINT methodology skill for offensive security, red team intelligence gathering, and bug bounty reconnaissance. Covers domain recon, email harvesting, social media profiling, GitHub/code leaks, Shodan/Censys enumeration, breach data lookup, employee profiling, infrastructure mapping, cryptocurrency tracing, geospatial intelligence, and AI-assisted analysis workflows. Use when performing reconnaissance against a target domain or organization, investigating a person or entity, tracing cryptocurrency flows, geolocating images or events, or building an attack-surface map."
+description: "面向攻击性安全、红队情报收集和漏洞赏金侦察的全面 OSINT 方法论技能。涵盖域名侦察、邮箱收集、社交媒体画像、GitHub/代码泄露、Shodan/Censys 枚举、泄露数据查询、员工画像、基础设施映射、加密货币追踪、地理空间情报以及 AI 辅助分析工作流。在针对目标域名或组织进行侦察、调查某人或某实体、追踪加密货币流向、对图像或事件进行地理定位，或构建攻击面地图时使用。 | Comprehensive OSINT methodology skill for offensive security, red team intelligence gathering, and bug bounty reconnaissance. Covers domain recon, email harvesting, social media profiling, GitHub/code leaks, Shodan/Censys enumeration, breach data lookup, employee profiling, infrastructure mapping, cryptocurrency tracing, geospatial intelligence, and AI-assisted analysis workflows. Use when performing reconnaissance against a target domain or organization, investigating a person or entity, tracing cryptocurrency flows, geolocating images or events, or building an attack-surface map."
 ---
 
 # Offensive OSINT Methodology

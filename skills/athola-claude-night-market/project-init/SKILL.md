@@ -1,6 +1,6 @@
 ---
 name: project-init
-description: Scaffolds new projects with git, CI/CD workflows, pre-commit hooks, and build config. Use when starting a new Python, Rust, or TypeScript project from scratch.
+description: 为新项目脚手架生成 git、CI/CD 工作流、pre-commit 钩子和构建配置。在从零开始创建 Python、Rust 或 TypeScript 项目时使用。 | Scaffolds new projects with git, CI/CD workflows, pre-commit hooks, and build config. Use when starting a new Python, Rust, or TypeScript project from scratch.
 alwaysApply: false
 model: claude-sonnet-4-6
 tools: []

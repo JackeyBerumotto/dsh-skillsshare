@@ -1,6 +1,6 @@
 ---
 name: python-patterns
-description: "Python development principles and decision-making. Framework selection, async patterns, type hints, project structure. Teaches thinking, not copying."
+description: "Python 开发原则与决策。框架选择、异步模式、类型提示、项目结构。教的是思维方式，而非照搬代码。 | Python development principles and decision-making. Framework selection, async patterns, type hints, project structure. Teaches thinking, not copying."
 risk: unknown
 source: community
 date_added: "2026-02-27"

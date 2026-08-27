@@ -1,7 +1,7 @@
 ---
 name: blueprint
 description: >-
-  Turn a one-line objective into a step-by-step construction plan for
+  把一行目标变成面向多会话、多智能体工程项目的分步施工计划。每一步都带有自包含的上下文简报，让全新智能体可以冷启动执行。包含对抗性评审门、依赖图、并行步骤检测、反模式目录和计划变更协议。当用户为复杂的多 PR 任务请求计划、蓝图或路线图，或描述需要多个会话才能完成的工作时触发。当任务可在单个 PR 或少于 3 次工具调用内完成，或用户说「直接做」时不要触发。 |
   multi-session, multi-agent engineering projects. Each step has a
   self-contained context brief so a fresh agent can execute it cold.
   Includes adversarial review gate, dependency graph, parallel step

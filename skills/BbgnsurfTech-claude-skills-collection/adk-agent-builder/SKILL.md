@@ -1,7 +1,5 @@
 ---
-description: Build production-ready AI agents using Google's Agent Development Kit
-  with Claude integration, React patterns, multi-agent orchestration, and comprehensive
-  tool libraries
+description: "使用 Google 的 Agent Development Kit 构建生产级 AI 智能体，具备 Claude 集成、ReAct 模式、多智能体编排和全面的工具库 | Build production-ready AI agents using Google's Agent Development Kit with Claude integration, React patterns, multi-agent orchestration, and comprehensive tool libraries"
 name: adk-agent-builder
 allowed-tools:
 - Read

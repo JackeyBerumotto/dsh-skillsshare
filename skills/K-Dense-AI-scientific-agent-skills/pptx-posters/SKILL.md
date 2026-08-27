@@ -1,6 +1,6 @@
 ---
 name: pptx-posters
-description: Create research posters using HTML/CSS that can be exported to PDF or PPTX. Use this skill ONLY when the user explicitly requests PowerPoint/PPTX poster format. For standard research posters, use latex-posters instead. This skill provides modern web-based poster design with responsive layouts and easy visual integration.
+description: 使用 HTML/CSS 创建可导出为 PDF 或 PPTX 的研究海报。仅当用户明确要求 PowerPoint/PPTX 海报格式时才使用本技能。标准研究海报请改用 latex-posters。本技能提供现代化的 Web 海报设计，具备响应式布局和便捷的视觉集成。 | Create research posters using HTML/CSS that can be exported to PDF or PPTX. Use this skill ONLY when the user explicitly requests PowerPoint/PPTX poster format. For standard research posters, use latex-posters instead. This skill provides modern web-based poster design with responsive layouts and easy visual integration.
 allowed-tools: Read Write Edit Bash
 license: MIT license
 required_environment_variables: [{"name": "OPENROUTER_API_KEY", "prompt": "OpenRouter API key for the skill's LLM-powered steps.", "required_for": "optional features"}]

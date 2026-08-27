@@ -1,6 +1,6 @@
 ---
 name: llm-app-patterns
-description: "Production-ready patterns for building LLM applications, inspired by [Dify](https://github.com/langgenius/dify) and industry best practices."
+description: "构建生产级 LLM 应用的模式，参考 Dify（github.com/langgenius/dify）与行业最佳实践。 | Production-ready patterns for building LLM applications, inspired by [Dify](https://github.com/langgenius/dify) and industry best practices."
 risk: unknown
 source: community
 date_added: "2026-02-27"

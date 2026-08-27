@@ -1,6 +1,6 @@
 ---
 name: ux-audit
-description: Audit screens for UX issues using Nielsen's heuristics and modern mobile UX best practices
+description: 运用 Nielsen 启发式原则和现代移动端 UX 最佳实践，审计界面的 UX 问题。 | Audit screens for UX issues using Nielsen's heuristics and modern mobile UX best practices
 risk: unknown
 source: https://github.com/bitjaru/styleseed/tree/main/engine/.claude/skills/ss-audit
 source_repo: bitjaru/styleseed

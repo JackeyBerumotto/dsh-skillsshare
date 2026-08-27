@@ -2,7 +2,7 @@
 name: monitoring-whale-activity
 version: 1.0.0
 description: |
-  Track large crypto transactions and whale wallet movements across blockchains.
+  跨区块链跟踪大额加密货币交易和巨鲸钱包动向。用于跟踪大户动向时。使用「track whales」「monitor large transfers」「check whale activity」等短语触发。 |
   Use when tracking large holder movements.
   Trigger with phrases like "track whales", "monitor large transfers", or "check whale activity".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(crypto:whale-*)

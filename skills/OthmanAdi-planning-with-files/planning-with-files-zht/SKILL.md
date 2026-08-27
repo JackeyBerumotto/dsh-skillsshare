@@ -1,6 +1,6 @@
 ---
 name: planning-with-files-zht
-description: 基於 Manus 風格的檔案規劃系統，用於組織和追蹤複雜任務的進度。建立 task_plan.md、findings.md 和 progress.md 三個檔案。當使用者要求規劃、拆解或組織多步驟專案、研究任務或需要超過5次工具呼叫的工作時使用。支援 /clear 後的自動會話恢復。觸發詞：任務規劃、專案計畫、制定計畫、分解任務、多步驟規劃、進度追蹤、檔案規劃、幫我規劃、拆解專案
+description: "基於 Manus 風格的檔案規劃系統，用於組織和追蹤複雜任務的進度。建立 task_plan.md、findings.md 和 progress.md 三個檔案。當使用者要求規劃、拆解或組織多步驟專案、研究任務或需要超過5次工具呼叫的工作時使用。支援 /clear 後的自動會話恢復。觸發詞：任務規劃、專案計畫、制定計畫、分解任務、多步驟規劃、進度追蹤、檔案規劃、幫我規劃、拆解專案 | Manus-style file-based planning system for organizing and tracking progress on complex tasks. Creates three files: task_plan.md, findings.md, and progress.md. Use when the user asks to plan, break down, or organize multi-step projects, research tasks, or work requiring more than 5 tool calls. Supports automatic session recovery after /clear. Trigger words: 任務規劃, 專案計畫, 制定計畫, 分解任務, 多步驟規劃, 進度追蹤, 檔案規劃, 幫我規劃, 拆解專案"
 user-invocable: true
 allowed-tools: "Read Write Edit Bash Glob Grep"
 hooks:

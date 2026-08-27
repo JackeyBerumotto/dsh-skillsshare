@@ -1,6 +1,6 @@
 ---
 name: content-repurposer
-description: "Turn one piece of content into a full multi-platform pack — X/Twitter thread, LinkedIn post, newsletter section, Instagram carousel, and a short-form video script — each rewritten natively for its platform, not copy-pasted. Use when asked to repurpose content, atomize a blog post or video, turn one idea into many posts, or get more mileage from a piece. Produces ready-to-post drafts per platform with hooks, formatting, and CTAs tuned to each."
+description: "把一条内容变成完整的多平台内容包——X/Twitter 推文串、LinkedIn 帖子、通讯栏目、Instagram 轮播图和短视频脚本——每一条都针对其平台原生改写，而非复制粘贴。当被要求再利用内容、把博客或视频拆解原子化、把一个创意变成多条帖子，或从一条内容中获取更多价值时使用。产出各平台可直接发布的草稿，附带针对各平台调优的钩子、格式和 CTA。 | Turn one piece of content into a full multi-platform pack — X/Twitter thread, LinkedIn post, newsletter section, Instagram carousel, and a short-form video script — each rewritten natively for its platform, not copy-pasted. Use when asked to repurpose content, atomize a blog post or video, turn one idea into many posts, or get more mileage from a piece. Produces ready-to-post drafts per platform with hooks, formatting, and CTAs tuned to each."
 ---
 
 # Content Repurposer Skill

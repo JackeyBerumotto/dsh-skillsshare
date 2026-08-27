@@ -1,6 +1,6 @@
 ---
 name: incident-postmortem
-description: "Write a structured incident postmortem or post-incident review. Use when asked to write a postmortem, incident report, P1/P2 review, outage report, or RCA (root cause analysis). Produces a blameless postmortem with timeline, root cause, contributing factors, impact summary, and action items."
+description: "撰写结构化的事故复盘或事后审查。在被要求编写复盘、事故报告、P1/P2 审查、故障报告或 RCA（根因分析）时使用。产出对事不对人的复盘，包含时间线、根因、促成因素、影响摘要和行动项。 | Write a structured incident postmortem or post-incident review. Use when asked to write a postmortem, incident report, P1/P2 review, outage report, or RCA (root cause analysis). Produces a blameless postmortem with timeline, root cause, contributing factors, impact summary, and action items."
 ---
 
 # Incident Postmortem Skill

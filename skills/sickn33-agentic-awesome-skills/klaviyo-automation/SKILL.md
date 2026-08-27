@@ -1,6 +1,6 @@
 ---
 name: klaviyo-automation
-description: "Automate Klaviyo tasks via Rube MCP (Composio): manage email/SMS campaigns, inspect campaign messages, track tags, and monitor send jobs. Always search tools first for current schemas."
+description: "通过 Rube MCP（Composio）自动化 Klaviyo 任务：管理邮件与短信营销活动、查看活动消息、跟踪标签并监控发送任务。务必先搜索工具以获取最新 schema。 | Automate Klaviyo tasks via Rube MCP (Composio): manage email/SMS campaigns, inspect campaign messages, track tags, and monitor send jobs. Always search tools first for current schemas."
 risk: safe
 source: community
 date_added: "2026-02-27"

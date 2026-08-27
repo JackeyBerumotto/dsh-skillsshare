@@ -1,8 +1,5 @@
 ---
-description: This skill enables claude to manage and monitor ssl/tls certificates
-  using the ssl-certificate-manager plugin. it is activated when the user requests
-  actions related to ssl certificates, such as checking certificate expiry, renewing
-  certificates, ...
+description: "本技能使 claude 能够使用 ssl-certificate-manager 插件管理和监控 SSL/TLS 证书。当用户请求与 SSL 证书相关的操作（如检查证书到期、续期证书等）时激活。 | This skill enables claude to manage and monitor ssl/tls certificates using the ssl-certificate-manager plugin. it is activated when the user requests actions related to ssl certificates, such as checking certificate expiry, renewing certificates, ..."
 allowed-tools:
 - Read
 - Bash

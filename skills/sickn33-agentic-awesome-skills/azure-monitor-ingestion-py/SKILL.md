@@ -1,6 +1,6 @@
 ---
 name: azure-monitor-ingestion-py
-description: Azure Monitor Ingestion SDK for Python. Use for sending custom logs to Log Analytics workspace via Logs Ingestion API.
+description: 适用于 Python 的 Azure Monitor Ingestion SDK。用于通过 Logs Ingestion API 向 Log Analytics 工作区发送自定义日志。 | Azure Monitor Ingestion SDK for Python. Use for sending custom logs to Log Analytics workspace via Logs Ingestion API.
 risk: unknown
 source: community
 date_added: '2026-02-27'

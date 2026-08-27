@@ -1,8 +1,5 @@
 ---
-description: This skill enables claude to conduct a security-focused code review using
-  the security-agent plugin. it analyzes code for potential vulnerabilities like sql
-  injection, xss, authentication flaws, and insecure dependencies. claude uses this
-  skill wh...
+description: "本技能使 claude 能够使用 security-agent 插件执行以安全为核心的代码审查。它分析代码中的潜在漏洞，如 SQL 注入、XSS、身份验证缺陷与不安全的依赖。当用户请求安全代码审查时使用本技能。 | This skill enables claude to conduct a security-focused code review using the security-agent plugin. it analyzes code for potential vulnerabilities like sql injection, xss, authentication flaws, and insecure dependencies. claude uses this skill wh..."
 allowed-tools:
 - Read
 - Write

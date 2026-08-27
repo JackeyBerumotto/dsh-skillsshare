@@ -1,6 +1,6 @@
 ---
 name: claude-automation-recommender
-description: Analyze a codebase and recommend Claude Code automations (hooks, subagents, skills, plugins, MCP servers). Use when user asks for automation recommendations, wants to optimize their Claude Code setup, mentions improving Claude Code workflows, asks how to first set up Claude Code for a project, or wants to know what Claude Code features they should use.
+description: 分析代码库并推荐 Claude Code 自动化方案（钩子、子代理、技能、插件、MCP 服务器）。当用户寻求自动化建议、想优化其 Claude Code 配置、提到改进 Claude Code 工作流、询问如何为项目初次搭建 Claude Code，或想知道应使用哪些 Claude Code 功能时使用。 | Analyze a codebase and recommend Claude Code automations (hooks, subagents, skills, plugins, MCP servers). Use when user asks for automation recommendations, wants to optimize their Claude Code setup, mentions improving Claude Code workflows, asks how to first set up Claude Code for a project, or wants to know what Claude Code features they should use.
 tools: Read, Glob, Grep, Bash
 ---
 

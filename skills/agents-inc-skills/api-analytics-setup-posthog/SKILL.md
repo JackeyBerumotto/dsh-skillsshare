@@ -1,6 +1,6 @@
 ---
 name: api-analytics-setup-posthog
-description: PostHog analytics and feature flags setup
+description: PostHog 分析与功能开关配置 | PostHog analytics and feature flags setup
 ---
 
 # PostHog Analytics & Feature Flags Setup

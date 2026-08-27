@@ -1,6 +1,6 @@
 ---
 name: debugging-and-error-recovery
-description: Guides systematic root-cause debugging. Use when tests fail, builds break, behavior doesn't match expectations, or you encounter any unexpected error. Use when you need a systematic approach to finding and fixing the root cause rather than guessing.
+description: 指导系统性的根因调试。在测试失败、构建中断、行为与预期不符，或遇到任何意外错误时使用。当你需要系统性地查找并修复根因而非瞎猜时使用。 | Guides systematic root-cause debugging. Use when tests fail, builds break, behavior doesn't match expectations, or you encounter any unexpected error. Use when you need a systematic approach to finding and fixing the root cause rather than guessing.
 ---
 
 # Debugging and Error Recovery

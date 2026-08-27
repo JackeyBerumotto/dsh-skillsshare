@@ -1,6 +1,6 @@
 ---
 name: ai-engineering-toolkit
-description: "6 production-ready AI engineering workflows: prompt evaluation (8-dimension scoring), context budget planning, RAG pipeline design, agent security audit (65-point checklist), eval harness building, and product sense coaching."
+description: "六套可直接投产的 AI 工程工作流：提示词评测（八维评分）、上下文预算规划、RAG 管线设计、代理安全审计（六十五点检查清单）、评测工具链搭建和产品感觉辅导。 | 6 production-ready AI engineering workflows: prompt evaluation (8-dimension scoring), context budget planning, RAG pipeline design, agent security audit (65-point checklist), eval harness building, and product sense coaching."
 category: data-ai
 risk: offensive
 source: community

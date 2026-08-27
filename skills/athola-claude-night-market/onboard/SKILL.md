@@ -1,6 +1,6 @@
 ---
 name: onboard
-description: Guides a new developer through five staged challenge sets covering architecture, domain, patterns, and hardening. Use when onboarding contributors.
+description: 通过五个阶段性挑战集引导新开发者，涵盖架构、领域、模式和强化。在安排贡献者入职时使用。 | Guides a new developer through five staged challenge sets covering architecture, domain, patterns, and hardening. Use when onboarding contributors.
 model_hint: standard
 ---
 

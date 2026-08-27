@@ -1,6 +1,6 @@
 ---
 name: mobile-animation-reanimated
-description: React Native Reanimated 4 - shared values, animated styles, spring/timing/decay, layout animations, gesture integration, scroll-driven animations, interpolation, worklets, CSS animations
+description: React Native Reanimated 4：共享值、动画样式、spring/timing/decay、布局动画、手势集成、滚动驱动动画、插值、worklets、CSS 动画。 | React Native Reanimated 4 - shared values, animated styles, spring/timing/decay, layout animations, gesture integration, scroll-driven animations, interpolation, worklets, CSS animations
 ---
 
 # React Native Reanimated Patterns

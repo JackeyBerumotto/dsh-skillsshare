@@ -1,7 +1,7 @@
 ---
 name: robotics-design-patterns
 description: >
-  Architecture patterns, design principles, and proven recipes for building robust robotics software.
+  构建健壮机器人软件的架构模式、设计原则与经过验证的实践方法。在设计机器人软件架构、在行为框架之间选型、构建感知-规划-控制流水线、实现状态机、设计安全系统或规划多机器人系统时使用本技能。当用户提到行为树、有限状态机、包容式架构、传感器融合、机器人安全、看门狗、心跳、优雅降级、硬件抽象层、实时约束或机器人软件架构时触发。同样适用于仿真到实机迁移、数字孪生和机器人集群管理。 |
   Use this skill when designing robot software architectures, choosing between behavioral frameworks,
   structuring perception-planning-control pipelines, implementing state machines, designing safety
   systems, or architecting multi-robot systems. Trigger whenever the user mentions behavior trees,

@@ -1,6 +1,6 @@
 ---
 name: twitter-algorithm-optimizer
-description: Analyze and optimize tweets for maximum reach using Twitter's open-source algorithm insights. Rewrite and edit user tweets to improve engagement and visibility based on how the recommendation system ranks content.
+description: 基于 Twitter 开源算法的洞见分析并优化推文以获得最大触达。根据推荐系统的内容排序机制重写和编辑用户推文，提升互动率和曝光度。 | Analyze and optimize tweets for maximum reach using Twitter's open-source algorithm insights. Rewrite and edit user tweets to improve engagement and visibility based on how the recommendation system ranks content.
 license: AGPL-3.0 (referencing Twitter's algorithm source)
 ---
 

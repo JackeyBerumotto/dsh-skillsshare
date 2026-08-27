@@ -1,6 +1,6 @@
 ---
 name: neon-postgres-branches
-description: Choose and create the right Neon branch type for testing and development. Use when users ask about Neon branching, migration testing with real data, isolated test environments, schema-only branch workflows for sensitive data, or branch creation via Neon CLI or Neon MCP. Triggers...
+description: 为测试和开发选择并创建合适的 Neon 分支类型。当用户询问 Neon 分支、用真实数据做迁移测试、隔离的测试环境、面向敏感数据的仅表结构分支工作流，或通过 Neon CLI 或 Neon MCP 创建分支时使用。触发条件…… | Choose and create the right Neon branch type for testing and development. Use when users ask about Neon branching, migration testing with real data, isolated test environments, schema-only branch workflows for sensitive data, or branch creation via Neon CLI or Neon MCP. Triggers...
 risk: unknown
 source: https://github.com/neondatabase/agent-skills/tree/main/skills/neon-postgres-branches
 source_repo: neondatabase/agent-skills

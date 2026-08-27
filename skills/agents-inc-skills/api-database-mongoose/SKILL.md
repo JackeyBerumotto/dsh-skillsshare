@@ -1,6 +1,6 @@
 ---
 name: api-database-mongoose
-description: MongoDB ODM with schemas, validation, middleware, and TypeScript support
+description: MongoDB ODM，支持 schema、校验、中间件与 TypeScript。 | MongoDB ODM with schemas, validation, middleware, and TypeScript support
 ---
 
 # Mongoose ODM Patterns

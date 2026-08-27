@@ -1,6 +1,6 @@
 ---
 name: api-security-best-practices
-description: "Implement secure API design patterns including authentication, authorization, input validation, rate limiting, and protection against common API vulnerabilities"
+description: "实现安全的 API 设计模式，包括身份验证、授权、输入校验、速率限制以及对常见 API 漏洞的防护 | Implement secure API design patterns including authentication, authorization, input validation, rate limiting, and protection against common API vulnerabilities"
 risk: unknown
 source: community
 date_added: "2026-02-27"

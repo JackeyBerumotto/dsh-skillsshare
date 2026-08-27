@@ -1,6 +1,6 @@
 ---
 name: style-learner
-description: Extracts writing style patterns from exemplar text into a reusable profile. Use when creating a style guide or learning a specific author's voice.
+description: 从范例文本提取写作风格模式，形成可复用画像。在创建风格指南或学习特定作者的声音时使用。 | Extracts writing style patterns from exemplar text into a reusable profile. Use when creating a style guide or learning a specific author's voice.
 globs: "**/*.md"
 alwaysApply: false
 category: writing-quality

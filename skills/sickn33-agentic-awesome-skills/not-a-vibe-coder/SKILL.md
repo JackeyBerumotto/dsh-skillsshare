@@ -1,6 +1,6 @@
 ---
 name: not-a-vibe-coder
-description: Turns vague prompts into 8 structured planning files for brand new projects. DO NOT use on existing codebases.
+description: 为全新项目把模糊的提示词转化为 8 个结构化规划文件。不要在现有代码库上使用。 | Turns vague prompts into 8 structured planning files for brand new projects. DO NOT use on existing codebases.
 source: community
 risk: critical
 ---

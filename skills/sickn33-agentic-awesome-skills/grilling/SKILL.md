@@ -1,6 +1,6 @@
 ---
 name: grilling
-description: Interview the user relentlessly about a plan or design. Use when the user wants to stress-test a plan before building, or uses any 'grill' trigger phrases.
+description: 就计划或设计毫不留情地访谈用户。在用户想在构建之前压力测试计划，或使用任何「grill」触发短语时使用。 | Interview the user relentlessly about a plan or design. Use when the user wants to stress-test a plan before building, or uses any 'grill' trigger phrases.
 category: "productivity"
 risk: "safe"
 source: "community"

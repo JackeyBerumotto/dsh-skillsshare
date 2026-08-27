@@ -1,6 +1,6 @@
 ---
 name: resolving-merge-conflicts
-description: Use when you need to resolve an in-progress git merge/rebase conflict.
+description: 当你需要解决进行中的 git merge/rebase 冲突时使用。 | Use when you need to resolve an in-progress git merge/rebase conflict.
 risk: unknown
 source: https://github.com/mattpocock/skills/tree/main/skills/engineering/resolving-merge-conflicts
 source_repo: mattpocock/skills

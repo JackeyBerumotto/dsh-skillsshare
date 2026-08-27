@@ -1,6 +1,6 @@
 ---
 name: validating-csrf-protection
-description: Validate CSRF protection implementations for security gaps. Use when reviewing form security or state-changing operations. Trigger with 'validate CSRF', 'check CSRF protection', or 'review token security'.
+description: 验证 CSRF 保护实现的安全缺口。在评审表单安全或状态变更操作时使用。触发词如「validate CSRF」「check CSRF protection」或「review token security」。 | Validate CSRF protection implementations for security gaps. Use when reviewing form security or state-changing operations. Trigger with 'validate CSRF', 'check CSRF protection', or 'review token security'.
 version: 1.0.0
 allowed-tools:
 - Read

@@ -1,6 +1,6 @@
 ---
 name: word-document
-description: "Build a real, formatted Word (.docx) document — headings, styles, tables, TOC-ready. Use when asked to produce a Word doc, a .docx, a formatted report/contract/proposal/letter as an actual file (not markdown). Produces an actual .docx via a generated python-docx script with proper heading styles, body text, tables, and page structure. Requires a code-execution environment (Claude Code, the API code tool, or Claude.ai)."
+description: "构建真实、带格式的 Word（.docx）文档——标题、样式、表格，可直接生成目录。当被要求以实际文件（而非 markdown）交付 Word 文档、.docx，或格式化的报告、合同、提案、信函时使用。通过生成的 python-docx 脚本产出真实的 .docx 文件，具备规范的标题样式、正文、表格与页面结构。需要代码执行环境（Claude Code、API 代码工具或 Claude.ai）。 | Build a real, formatted Word (.docx) document — headings, styles, tables, TOC-ready. Use when asked to produce a Word doc, a .docx, a formatted report/contract/proposal/letter as an actual file (not markdown). Produces an actual .docx via a generated python-docx script with proper heading styles, body text, tables, and page structure. Requires a code-execution environment (Claude Code, the API code tool, or Claude.ai)."
 ---
 
 # Word Document Skill

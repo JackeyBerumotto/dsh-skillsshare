@@ -1,6 +1,6 @@
 ---
 name: board-deck-narrative
-description: "Build the storyline and slide structure for a board presentation. Use when asked to create a board deck, board presentation narrative, board meeting slides, or quarterly board update. Produces a complete slide-by-slide structure with narrative beats, talking points, and slide content guidance."
+description: "为董事会演示构建故事线和幻灯片结构。当被要求创建董事会简报、董事会演示叙事、董事会会议幻灯片或季度董事会汇报时使用。产出完整的逐页结构，包含叙事节拍、发言要点和幻灯片内容指导。 | Build the storyline and slide structure for a board presentation. Use when asked to create a board deck, board presentation narrative, board meeting slides, or quarterly board update. Produces a complete slide-by-slide structure with narrative beats, talking points, and slide content guidance."
 ---
 
 # Board Deck Narrative Skill

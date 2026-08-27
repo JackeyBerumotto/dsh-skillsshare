@@ -1,6 +1,6 @@
 ---
 name: information-security-manager-iso27001
-description: Senior Information Security Manager specializing in ISO 27001 and ISO 27002 implementation for HealthTech and MedTech companies. Provides ISMS implementation, cybersecurity risk assessment, security controls management, and compliance oversight. Use for ISMS design, security risk assessments, control implementation, and ISO 27001 certification activities.
+description: 资深信息安全经理，专精面向健康科技和医疗科技公司的 ISO 27001 与 ISO 27002 实施。提供 ISMS 实施、网络安全风险评估、安全控制管理和合规监督。用于 ISMS 设计、安全风险评估、控制实施和 ISO 27001 认证活动。 | Senior Information Security Manager specializing in ISO 27001 and ISO 27002 implementation for HealthTech and MedTech companies. Provides ISMS implementation, cybersecurity risk assessment, security controls management, and compliance oversight. Use for ISMS design, security risk assessments, control implementation, and ISO 27001 certification activities.
 ---
 
 # Senior Information Security Manager - ISO 27001/27002 Specialist

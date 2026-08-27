@@ -1,6 +1,6 @@
 ---
 name: office-productivity
-description: "Office productivity workflow covering document creation, spreadsheet automation, presentation generation, and integration with LibreOffice and Microsoft Office formats."
+description: "办公生产力工作流，涵盖文档创建、电子表格自动化、演示文稿生成，以及与 LibreOffice 和 Microsoft Office 格式的集成。 | Office productivity workflow covering document creation, spreadsheet automation, presentation generation, and integration with LibreOffice and Microsoft Office formats."
 category: workflow-bundle
 risk: safe
 source: personal

@@ -1,6 +1,6 @@
 ---
 name: damage-control
-description: Recovers broken agent state via crash recovery, context overflow, and merge conflict protocols. Use when an agent session fails or a worktree is corrupted.
+description: 通过崩溃恢复、上下文溢出和合并冲突协议恢复损坏的智能体状态。当智能体会话失败或工作树损坏时使用。 | Recovers broken agent state via crash recovery, context overflow, and merge conflict protocols. Use when an agent session fails or a worktree is corrupted.
 alwaysApply: false
 category: infrastructure
 tags:

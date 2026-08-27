@@ -1,8 +1,6 @@
 ---
 name: performing-kubernetes-penetration-testing
-description: Kubernetes penetration testing systematically evaluates cluster security
-  by simulating attacker techniques against the API server, kubelet, etcd, pods, RBAC,
-  network policies, and secrets. Using tools
+description: "Kubernetes 渗透测试通过模拟攻击者对 API 服务器、kubelet、etcd、Pod、RBAC、网络策略和 Secret 的攻击技术，系统化评估集群安全性，并借助相关工具开展测试。 | Kubernetes penetration testing systematically evaluates cluster security by simulating attacker techniques against the API server, kubelet, etcd, pods, RBAC, network policies, and secrets. Using tools"
 domain: cybersecurity
 subdomain: container-security
 tags:

@@ -1,6 +1,6 @@
 ---
 name: ui-motion
-description: Apply a named StyleSeed motion to a component — either one of the 5 personality seeds (Spring/Silk/Snap/Float/Pulse × entrance/exit/hover/press/layout) or a distinctive keyword move from the motion library (toggle-flip, toggle-curtain, reveal-blur, pop-in, shimmer, …). Translates vibe...
+description: 为组件应用指定的 StyleSeed 动效——可以是 5 种个性种子里的一种（Spring／Silk／Snap／Float／Pulse × 入场／退场／悬停／按压／布局），也可以是动效库中特色鲜明的关键词动作（toggle-flip、toggle-curtain、reveal-blur、pop-in、shimmer 等）。把设计氛围转化为动效…… | Apply a named StyleSeed motion to a component — either one of the 5 personality seeds (Spring/Silk/Snap/Float/Pulse × entrance/exit/hover/press/layout) or a distinctive keyword move from the motion library (toggle-flip, toggle-curtain, reveal-blur, pop-in, shimmer, …). Translates vibe...
 risk: unknown
 source: https://github.com/bitjaru/styleseed/tree/main/engine/.claude/skills/ss-motion
 source_repo: bitjaru/styleseed

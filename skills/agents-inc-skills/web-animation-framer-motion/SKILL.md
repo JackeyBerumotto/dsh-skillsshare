@@ -1,6 +1,6 @@
 ---
 name: web-animation-framer-motion
-description: Motion (formerly Framer Motion) animation patterns - motion components, variants, gestures, layout animations, scroll-linked animations, accessibility
+description: Motion（原 Framer Motion）动画模式：motion 组件、variants、手势、布局动画、滚动联动动画、无障碍访问 | Motion (formerly Framer Motion) animation patterns - motion components, variants, gestures, layout animations, scroll-linked animations, accessibility
 ---
 
 # Motion Animation Patterns

@@ -1,8 +1,6 @@
 ---
 name: tuning-hyperparameters
-description: Optimize machine learning model hyperparameters using grid search, random
-  search, or Bayesian optimization. Finds best parameter configurations to maximize
-  performance. Use when asked to "tune hyperparameters" or "optimize model".
+description: "使用网格搜索、随机搜索或贝叶斯优化优化机器学习模型超参数，寻找最佳参数配置以最大化性能。当被要求「tune hyperparameters」或「optimize model」时使用。 | Optimize machine learning model hyperparameters using grid search, random search, or Bayesian optimization. Finds best parameter configurations to maximize performance. Use when asked to \"tune hyperparameters\" or \"optimize model\"."
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash
 license: MIT
 ---

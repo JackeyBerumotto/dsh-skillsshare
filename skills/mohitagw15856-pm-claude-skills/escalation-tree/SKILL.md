@@ -1,6 +1,6 @@
 ---
 name: escalation-tree
-description: "Design a support/incident escalation tree — who handles what, when it escalates, and to whom. Use when asked to design an escalation path, an escalation matrix, support tiers, an on-call escalation policy, or to fix 'tickets bounce around / nothing gets escalated in time'. Produces an escalation tree — tiers & ownership, severity definitions, time-based triggers, routing rules, contacts/roles, and the customer-communication cadence per level."
+description: "设计支持/事件升级树：谁处理什么、何时升级、升级给谁。当被要求设计升级路径、升级矩阵、支持分级、值班升级策略，或解决「工单来回踢皮球/没有及时升级」的问题时使用。产出一棵升级树：分级与职责、严重度定义、基于时间的触发条件、路由规则、联系人/角色，以及各层级的客户沟通节奏。 | Design a support/incident escalation tree — who handles what, when it escalates, and to whom. Use when asked to design an escalation path, an escalation matrix, support tiers, an on-call escalation policy, or to fix 'tickets bounce around / nothing gets escalated in time'. Produces an escalation tree — tiers & ownership, severity definitions, time-based triggers, routing rules, contacts/roles, and the customer-communication cadence per level."
 ---
 
 # Escalation Tree Skill

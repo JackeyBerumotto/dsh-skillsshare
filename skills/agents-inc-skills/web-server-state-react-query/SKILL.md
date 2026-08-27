@@ -1,6 +1,6 @@
 ---
 name: web-server-state-react-query
-description: React Query server state, hey-api OpenAPI codegen, type-safe data fetching
+description: React Query 服务端状态、hey-api OpenAPI 代码生成、类型安全的数据获取。 | React Query server state, hey-api OpenAPI codegen, type-safe data fetching
 ---
 
 # React Query + hey-api Patterns

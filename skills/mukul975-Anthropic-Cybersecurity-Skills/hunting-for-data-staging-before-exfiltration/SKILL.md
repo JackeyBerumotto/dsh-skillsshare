@@ -1,8 +1,6 @@
 ---
 name: hunting-for-data-staging-before-exfiltration
-description: Detect data staging activity before exfiltration by monitoring for archive
-  creation with 7-Zip/RAR, unusual temp folder access, large file consolidation, and
-  staging directory patterns via EDR and process telemetry
+description: "通过 EDR 和进程遥测监控使用 7-Zip/RAR 创建压缩包、异常的临时文件夹访问、大文件归并以及中转目录模式，检测数据外泄前的集中暂存活动。 | Detect data staging activity before exfiltration by monitoring for archive creation with 7-Zip/RAR, unusual temp folder access, large file consolidation, and staging directory patterns via EDR and process telemetry"
 domain: cybersecurity
 subdomain: threat-hunting
 tags:

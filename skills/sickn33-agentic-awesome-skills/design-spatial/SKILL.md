@@ -1,6 +1,6 @@
 ---
 name: design-spatial
-description: Design — spatial composition
+description: 设计：空间构图。 | Design — spatial composition
 risk: unknown
 source: https://github.com/connerkward/ckw-design-skill/tree/main/deterministic-design/design-spatial
 source_repo: connerkward/ckw-design-skill

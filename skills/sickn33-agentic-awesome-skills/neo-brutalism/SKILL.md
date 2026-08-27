@@ -1,6 +1,6 @@
 ---
 name: neo-brutalism
-description: Web and App implementation guide for Neo-Brutalism. Trigger when user wants thick borders, hard shadows, bright colors, and a playful yet structured look.
+description: Neo-Brutalism（新粗野主义）的 Web 与 App 实现指南。当用户需要粗边框、硬阴影、明亮色彩以及俏皮而结构分明的外观时触发。 | Web and App implementation guide for Neo-Brutalism. Trigger when user wants thick borders, hard shadows, bright colors, and a playful yet structured look.
 date_added: "2026-06-17"
 risk: safe
 source: self

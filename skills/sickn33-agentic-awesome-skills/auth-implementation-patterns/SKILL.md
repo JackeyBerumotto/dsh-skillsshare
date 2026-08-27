@@ -1,6 +1,6 @@
 ---
 name: auth-implementation-patterns
-description: "Build secure, scalable authentication and authorization systems using industry-standard patterns and modern best practices."
+description: "使用行业标准的模式和现代最佳实践构建安全、可扩展的认证与授权系统。 | Build secure, scalable authentication and authorization systems using industry-standard patterns and modern best practices."
 risk: unknown
 source: community
 date_added: "2026-02-27"

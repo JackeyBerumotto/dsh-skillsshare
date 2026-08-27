@@ -1,7 +1,6 @@
 ---
 name: analyzing-active-directory-acl-abuse
-description: Detect dangerous ACL misconfigurations in Active Directory using ldap3
-  to identify GenericAll, WriteDACL, and WriteOwner abuse paths
+description: "使用 ldap3 检测 Active Directory 中危险的 ACL 配置错误，识别 GenericAll、WriteDACL 和 WriteOwner 滥用路径。 | Detect dangerous ACL misconfigurations in Active Directory using ldap3 to identify GenericAll, WriteDACL, and WriteOwner abuse paths"
 domain: cybersecurity
 subdomain: identity-security
 tags:

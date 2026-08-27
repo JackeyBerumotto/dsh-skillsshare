@@ -1,6 +1,6 @@
 ---
 name: api-database-redis
-description: Redis in-memory data store patterns with ioredis and node-redis -- caching, sessions, rate limiting, pub/sub, streams, queues, transactions, cluster
+description: 使用 ioredis 和 node-redis 的 Redis 内存数据存储模式——缓存、会话、限流、发布/订阅、流、队列、事务、集群。 | Redis in-memory data store patterns with ioredis and node-redis -- caching, sessions, rate limiting, pub/sub, streams, queues, transactions, cluster
 ---
 
 # Redis Patterns

@@ -1,6 +1,6 @@
 ---
 name: "chief-of-staff"
-description: "C-suite orchestration layer. Routes founder questions to the right advisor role(s), triggers multi-role board meetings for complex decisions, synthesizes outputs, and tracks decisions. Every C-suite interaction starts here. Loads company context automatically. Use when a founder question needs routing to the right advisor — e.g. 'should we raise now or cut burn?' — or when a multi-domain decision needs a board meeting convened."
+description: "高管层编排中枢。把创始人问题路由到合适的顾问角色，为复杂决策触发多角色董事会会议，汇总产出并跟踪决策。每次高管层交互都从这里开始，自动加载公司上下文。当创始人问题需要路由到合适顾问时——例如「现在该融资还是削减消耗？」——或当跨领域决策需要召开董事会会议时使用。 | C-suite orchestration layer. Routes founder questions to the right advisor role(s), triggers multi-role board meetings for complex decisions, synthesizes outputs, and tracks decisions. Every C-suite interaction starts here. Loads company context automatically. Use when a founder question needs routing to the right advisor — e.g. 'should we raise now or cut burn?' — or when a multi-domain decision needs a board meeting convened."
 license: MIT
 metadata:
   version: 1.0.0

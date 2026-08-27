@@ -1,6 +1,6 @@
 --- 
 name: design-spells
-description: Curated micro-interactions and design details that add "magic" and personality to websites and apps.
+description: 精选的微交互和设计细节，为网站和应用增添「魔力」与个性。 | Curated micro-interactions and design details that add "magic" and personality to websites and apps.
 risk: safe
 source: community
 date_added: "2026-03-07"

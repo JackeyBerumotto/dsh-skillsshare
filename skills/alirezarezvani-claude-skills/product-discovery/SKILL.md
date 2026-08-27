@@ -1,6 +1,6 @@
 ---
 name: product-discovery
-description: Use when validating product opportunities, mapping assumptions, planning discovery sprints, or testing problem-solution fit before committing delivery resources.
+description: 在投入交付资源之前验证产品机会、映射假设、规划发现冲刺或检验问题-方案契合度时使用。 | Use when validating product opportunities, mapping assumptions, planning discovery sprints, or testing problem-solution fit before committing delivery resources.
 ---
 
 # Product Discovery

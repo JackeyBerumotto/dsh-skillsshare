@@ -1,6 +1,6 @@
 ---
 name: verification-before-completion
-description: "Claiming work is complete without verification is dishonesty, not efficiency. Use when ANY variation of success/completion claims, ANY expression of satisfaction, or ANY positive statement about work state."
+description: "未经核实就宣称工作完成是不诚实，而非效率。当出现任何形式的成功或完成声明、任何满意的表达，或任何关于工作状态的积极陈述时使用。 | Claiming work is complete without verification is dishonesty, not efficiency. Use when ANY variation of success/completion claims, ANY expression of satisfaction, or ANY positive statement about work state."
 risk: unknown
 source: community
 date_added: "2026-02-27"

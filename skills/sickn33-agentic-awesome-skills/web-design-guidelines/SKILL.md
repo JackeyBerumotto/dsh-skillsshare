@@ -1,6 +1,6 @@
 ---
 name: web-design-guidelines
-description: "Review files for compliance with Web Interface Guidelines."
+description: "审查文件是否符合 Web 界面指南。 | Review files for compliance with Web Interface Guidelines."
 risk: safe
 source: community
 date_added: "2026-02-27"

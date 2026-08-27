@@ -1,6 +1,6 @@
 ---
 name: jpa-patterns
-description: JPA/Hibernate patterns for entity design, relationships, query optimization, transactions, auditing, indexing, pagination, and pooling in Spring Boot.
+description: 面向 Spring Boot 的 JPA/Hibernate 模式，涵盖实体设计、关联关系、查询优化、事务、审计、索引、分页和连接池。 | JPA/Hibernate patterns for entity design, relationships, query optimization, transactions, auditing, indexing, pagination, and pooling in Spring Boot.
 metadata:
   origin: ECC
 ---

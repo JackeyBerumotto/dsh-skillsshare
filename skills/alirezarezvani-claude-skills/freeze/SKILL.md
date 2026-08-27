@@ -1,6 +1,6 @@
 ---
 name: "freeze"
-description: "/cs:freeze <decision> <days> — Lock a strategic decision for a cooldown period to prevent impulse reversal. Mirrors gstack's safety primitives for the business layer. Use when an irreversible decision was made under pressure — e.g. a layoff plan or multi-year contract — and deserves a cooling-off lock before execution."
+description: "/cs:freeze <decision> <days>——将战略决策锁定一段冷静期以防冲动反悔，相当于把 gstack 的安全原语映射到业务层。适用于在压力下做出不可逆决策时——例如裁员计划或多年期合同——在执行前值得加一道冷静锁。 | /cs:freeze <decision> <days> — Lock a strategic decision for a cooldown period to prevent impulse reversal. Mirrors gstack's safety primitives for the business layer. Use when an irreversible decision was made under pressure — e.g. a layoff plan or multi-year contract — and deserves a cooling-off lock before execution."
 ---
 
 # /cs:freeze — Cooldown Lock on a Decision

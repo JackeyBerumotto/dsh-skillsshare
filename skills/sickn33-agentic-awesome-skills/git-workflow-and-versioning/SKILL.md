@@ -1,6 +1,6 @@
 ---
 name: git-workflow-and-versioning
-description: Structures git workflow practices. Use when making any code change. Use when committing, branching, resolving conflicts, or when you need to organize work across multiple parallel streams.
+description: 规范 git 工作流实践。在进行任何代码变更时使用。在提交、分支、解决冲突，或需要在多个并行工作流之间组织工作时使用。 | Structures git workflow practices. Use when making any code change. Use when committing, branching, resolving conflicts, or when you need to organize work across multiple parallel streams.
 risk: unknown
 source: https://github.com/addyosmani/agent-skills/tree/main/skills/git-workflow-and-versioning
 source_repo: addyosmani/agent-skills

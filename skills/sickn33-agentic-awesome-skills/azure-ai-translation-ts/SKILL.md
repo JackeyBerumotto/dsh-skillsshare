@@ -1,6 +1,6 @@
 ---
 name: azure-ai-translation-ts
-description: "Text and document translation with REST-style clients."
+description: "使用 REST 风格客户端进行文本与文档翻译。 | Text and document translation with REST-style clients."
 risk: unknown
 source: community
 date_added: "2026-02-27"

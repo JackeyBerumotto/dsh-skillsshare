@@ -1,6 +1,6 @@
 ---
 name: browser
-description: Web browser automation with AI-optimized snapshots for claude-flow agents
+description: 面向 claude-flow 智能体的 Web 浏览器自动化，提供经 AI 优化的快照。 | Web browser automation with AI-optimized snapshots for claude-flow agents
 version: 1.0.0
 triggers:
   - /browser

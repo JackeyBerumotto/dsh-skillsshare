@@ -1,6 +1,6 @@
 ---
 name: style-fingerprint
-description: "Study 3-5 documents the user actually shipped and distil a compact style card — so every skill writes in their voice, not the model's. Use when asked to learn my writing style, make outputs sound like me, build a voice profile, or when a user complains AI drafts don't sound like them. Produces a style card (rhythm, register, structure habits, pet phrases, banned moves) saved to the Brain where every other skill reads it."
+description: "研究用户实际发布的 3 至 5 份文档，提炼出一份紧凑的风格卡——让每个技能都以用户的口吻写作，而不是模型的。当被要求学习我的写作风格、让输出听起来像我、建立声音画像，或用户抱怨 AI 草稿不像自己时使用。产出风格卡（节奏、语域、结构习惯、惯用语、禁止手法），保存到 Brain 中供其他所有技能读取。 | Study 3-5 documents the user actually shipped and distil a compact style card — so every skill writes in their voice, not the model's. Use when asked to learn my writing style, make outputs sound like me, build a voice profile, or when a user complains AI drafts don't sound like them. Produces a style card (rhythm, register, structure habits, pet phrases, banned moves) saved to the Brain where every other skill reads it."
 ---
 
 # Style Fingerprint Skill

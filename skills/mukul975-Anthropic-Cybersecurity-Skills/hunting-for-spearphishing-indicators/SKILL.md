@@ -1,7 +1,6 @@
 ---
 name: hunting-for-spearphishing-indicators
-description: Hunt for spearphishing campaign indicators across email logs, endpoint
-  telemetry, and network data to detect targeted email attacks.
+description: "在电子邮件日志、终端遥测数据和网络数据中狩猎鱼叉式网络钓鱼活动指标，以检测定向邮件攻击。 | Hunt for spearphishing campaign indicators across email logs, endpoint telemetry, and network data to detect targeted email attacks."
 domain: cybersecurity
 subdomain: threat-hunting
 tags:

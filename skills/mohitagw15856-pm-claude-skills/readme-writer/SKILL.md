@@ -1,6 +1,6 @@
 ---
 name: readme-writer
-description: "Write a clear, well-structured README for a software project or open-source repo. Use when asked to write or improve a README, document a project, or make a repo approachable. Produces a complete README — one-line pitch, badges, quickstart, usage, install, contributing, license — that gets someone from landing to running fast."
+description: "为软件项目或开源仓库撰写清晰、结构良好的 README。在被要求编写或改进 README、为项目编写文档，或让仓库更易上手时使用。产出完整的 README——一句话介绍、徽章、快速上手、用法、安装、贡献和许可证——让人从进入页面到跑通项目一路顺畅。 | Write a clear, well-structured README for a software project or open-source repo. Use when asked to write or improve a README, document a project, or make a repo approachable. Produces a complete README — one-line pitch, badges, quickstart, usage, install, contributing, license — that gets someone from landing to running fast."
 ---
 
 # README Writer Skill

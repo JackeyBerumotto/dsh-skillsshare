@@ -1,6 +1,6 @@
 ---
 name: rfp-response
-description: "Write a compliant, competitive response to an RFP/RFQ/ITT (government or enterprise procurement). Use when responding to a request for proposal, bidding on a tender, or answering a procurement questionnaire. Produces a compliance-matrix-driven response that answers every requirement, wins on evaluation criteria, and reads as low-risk to the buyer — structured to the scoring, not the seller's ego."
+description: "撰写合规且具竞争力的 RFP/RFQ/ITT（政府或企业采购）应标书。在需要响应征求建议书、参与投标或填写采购问卷时使用。产出以合规矩阵驱动的应答——逐项回应要求、在评估标准上取胜、让买方读起来风险可控——按评分标准而非卖方自我组织内容。 | Write a compliant, competitive response to an RFP/RFQ/ITT (government or enterprise procurement). Use when responding to a request for proposal, bidding on a tender, or answering a procurement questionnaire. Produces a compliance-matrix-driven response that answers every requirement, wins on evaluation criteria, and reads as low-risk to the buyer — structured to the scoring, not the seller's ego."
 ---
 
 # RFP Response Skill

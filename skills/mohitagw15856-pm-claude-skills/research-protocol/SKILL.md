@@ -1,6 +1,6 @@
 ---
 name: research-protocol
-description: "Write a structured research protocol or study design document. Use when asked to write a research protocol, study protocol, research plan, methodology section, or research proposal. Produces a complete protocol with objectives, methodology, ethical considerations, and analysis plan."
+description: "撰写结构化的研究方案或研究设计文档。在被要求编写研究方案、研究计划、方法论章节或研究提案时使用。产出完整方案，包含目标、方法论、伦理考量和分析计划。 | Write a structured research protocol or study design document. Use when asked to write a research protocol, study protocol, research plan, methodology section, or research proposal. Produces a complete protocol with objectives, methodology, ethical considerations, and analysis plan."
 ---
 
 # Research Protocol Skill

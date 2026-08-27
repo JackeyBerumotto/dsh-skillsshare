@@ -1,6 +1,6 @@
 ---
 name: "founder-mode"
-description: "/cs:founder-mode <question> — Auto-routes any founder question to the right C-role advisor or to /cs:boardroom for multi-role topics. The single-command entry point. Use when a founder asks any strategic question without knowing which advisor or command fits — e.g. 'runway pressure' routes to the CFO, 'gross retention dropped' routes to the CCO."
+description: "/cs:founder-mode <question>——自动将创始人的任何问题路由到合适的 C 级顾问，多角色话题则路由到 /cs:boardroom，是单一命令入口。适用于创始人提出任何战略问题但不清楚该找哪位顾问或用哪个命令时——例如「跑道资金压力」路由到 CFO，「总留存下降」路由到 CCO。 | /cs:founder-mode <question> — Auto-routes any founder question to the right C-role advisor or to /cs:boardroom for multi-role topics. The single-command entry point. Use when a founder asks any strategic question without knowing which advisor or command fits — e.g. 'runway pressure' routes to the CFO, 'gross retention dropped' routes to the CCO."
 ---
 
 # /cs:founder-mode — The Auto-Router

@@ -1,6 +1,6 @@
 ---
 name: y2k-design
-description: Web and App implementation guide for Y2K Design. Trigger when user wants chrome effects, futuristic 2000s look, blob shapes, and tech optimism.
+description: Y2K Design 的 Web 与 App 实现指南。当用户需要铬合金质感、2000 年代未来主义外观、blob 形状和技术乐观主义时触发。 | Web and App implementation guide for Y2K Design. Trigger when user wants chrome effects, futuristic 2000s look, blob shapes, and tech optimism.
 date_added: "2026-06-17"
 risk: safe
 source: self

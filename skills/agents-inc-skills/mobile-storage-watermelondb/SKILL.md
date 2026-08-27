@@ -1,6 +1,6 @@
 ---
 name: mobile-storage-watermelondb
-description: WatermelonDB reactive local database for React Native - schema, models, decorators, reactive queries, relations, writers/readers, batch operations, migrations, sync
+description: WatermelonDB——React Native 的响应式本地数据库：schema、模型、装饰器、响应式查询、关联关系、写入器/读取器、批量操作、迁移和同步。 | WatermelonDB reactive local database for React Native - schema, models, decorators, reactive queries, relations, writers/readers, batch operations, migrations, sync
 ---
 
 # WatermelonDB Patterns

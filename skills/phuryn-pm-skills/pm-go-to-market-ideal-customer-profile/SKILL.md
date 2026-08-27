@@ -1,6 +1,6 @@
 ---
 name: ideal-customer-profile
-description: "Identify the Ideal Customer Profile (ICP) from research data with demographics, behaviors, JTBD, and needs. Use when defining your ICP, analyzing PMF survey data, or understanding who your best customers are."
+description: "从研究数据中识别理想客户画像（ICP），包含人群特征、行为、JTBD 和需求。在定义 ICP、分析 PMF 调研数据或了解谁是你最好的客户时使用。 | Identify the Ideal Customer Profile (ICP) from research data with demographics, behaviors, JTBD, and needs. Use when defining your ICP, analyzing PMF survey data, or understanding who your best customers are."
 ---
 # Ideal Customer Profile
 

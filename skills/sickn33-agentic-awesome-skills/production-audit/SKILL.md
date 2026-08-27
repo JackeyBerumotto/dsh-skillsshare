@@ -1,6 +1,6 @@
 ---
 name: production-audit
-description: "Audit a shipped repo for production-readiness gaps across RLS, webhooks, secrets, grants, Stripe idempotency, mobile UX, and deployment health."
+description: "审计已上线的仓库在生产就绪方面的缺口，涵盖 RLS、webhook、密钥、授权、Stripe 幂等性、移动端 UX 以及部署健康度。 | Audit a shipped repo for production-readiness gaps across RLS, webhooks, secrets, grants, Stripe idempotency, mobile UX, and deployment health."
 category: security
 risk: critical
 source: community

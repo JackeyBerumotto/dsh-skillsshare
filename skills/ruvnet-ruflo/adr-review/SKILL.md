@@ -1,6 +1,6 @@
 ---
 name: adr-review
-description: Review code changes against accepted ADRs for compliance violations
+description: 依据已接受的 ADR 审查代码变更是否存在违规。 | Review code changes against accepted ADRs for compliance violations
 argument-hint: "[--branch BRANCH]"
 allowed-tools: mcp__claude-flow__agentdb_hierarchical-query mcp__claude-flow__agentdb_causal-query mcp__claude-flow__memory_search Bash Read Grep Glob
 ---

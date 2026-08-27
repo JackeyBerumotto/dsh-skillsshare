@@ -1,7 +1,7 @@
 ---
 name: unreal-blueprints
 description: >
-  Build Unreal Engine 5 gameplay with Blueprint visual scripting: Blueprint Classes, the
+  使用 Blueprint 可视化脚本构建虚幻引擎 5 玩法：Blueprint 类、事件图表与构造脚本、变量、函数与宏，以及 Blueprint 之间的通信（Cast、接口、事件分发器）。在编写 Blueprint、连接事件图表、决定 Blueprint 之间如何通信时使用，或当用户提到 Blueprint、BP、事件图表、构造脚本或 Blueprint 的 .uasset 时使用。 |
   Event Graph and Construction Script, variables/functions/macros, and Blueprint
   communication (Cast, Interfaces, Event Dispatchers). Use when working in Blueprints, wiring
   an event graph, deciding how Blueprints talk to each other, or when the user mentions

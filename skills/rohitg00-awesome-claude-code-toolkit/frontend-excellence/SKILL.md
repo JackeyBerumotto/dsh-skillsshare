@@ -1,6 +1,6 @@
 ---
 name: frontend-excellence
-description: Modern frontend patterns for React Server Components, performance optimization, and Core Web Vitals
+description: 面向 React Server Components、性能优化与 Core Web Vitals 的现代前端模式。 | Modern frontend patterns for React Server Components, performance optimization, and Core Web Vitals
 ---
 
 # Frontend Excellence

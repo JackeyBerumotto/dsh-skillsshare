@@ -1,6 +1,6 @@
 ---
 name: glossary-builder
-description: "Build a translation/terminology glossary so a product's key terms render consistently everywhere. Use when asked to create a glossary, a termbase, a do-not-translate list, or to keep terminology consistent across translators/locales. Produces a glossary — each source term with its approved translation per locale, part of speech, definition/context, and do-not-translate flags — ready for a CAT tool or style guide."
+description: "构建翻译术语表，让产品的关键术语在所有场合保持一致呈现。当被要求创建词汇表、术语库、不翻译列表，或在译员和语言环境之间保持术语一致时使用。产出一份术语表——每个源术语附带各语言环境的审定译名、词性、定义或上下文以及免翻译标记——可直接用于 CAT 工具或风格指南。 | Build a translation/terminology glossary so a product's key terms render consistently everywhere. Use when asked to create a glossary, a termbase, a do-not-translate list, or to keep terminology consistent across translators/locales. Produces a glossary — each source term with its approved translation per locale, part of speech, definition/context, and do-not-translate flags — ready for a CAT tool or style guide."
 ---
 
 # Glossary Builder Skill

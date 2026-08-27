@@ -1,6 +1,6 @@
 ---
 name: self-review
-description: "Write a performance self-review that's specific, evidenced, and balanced. Use when asked to write a self-review, self-assessment, or self-evaluation for a performance cycle. Produces a complete self-review — accomplishments mapped to impact and competencies, growth areas owned honestly, and a forward-looking development plan, in the voice of the person being reviewed."
+description: "撰写具体、有据、平衡的绩效自评。在被要求为绩效周期编写自评、自我评估或自我评价时使用。产出完整自评——把成果映射到影响力和能力、坦诚面对待成长领域，以及前瞻性的发展计划——以被评估者本人的口吻撰写。 | Write a performance self-review that's specific, evidenced, and balanced. Use when asked to write a self-review, self-assessment, or self-evaluation for a performance cycle. Produces a complete self-review — accomplishments mapped to impact and competencies, growth areas owned honestly, and a forward-looking development plan, in the voice of the person being reviewed."
 ---
 
 # Self-Review Skill

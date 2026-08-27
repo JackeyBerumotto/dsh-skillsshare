@@ -1,6 +1,6 @@
 ---
 name: build-mcp-server
-description: This skill should be used when the user asks to "build an MCP server", "create an MCP", "make an MCP integration", "wrap an API for Claude", "expose tools to Claude", "make an MCP app", or discusses building something with the Model Context Protocol. It is the entry point for MCP server development — it interrogates the user about their use case, determines the right deployment model (remote HTTP, MCPB, local stdio), picks a tool-design pattern, and hands off to specialized skills.
+description: 当用户要求「build an MCP server」「create an MCP」「make an MCP integration」「wrap an API for Claude」「expose tools to Claude」「make an MCP app」，或讨论用模型上下文协议构建东西时，应使用此技能。它是 MCP 服务器开发的入口——向你详细询问使用场景、确定合适的部署模型（远程 HTTP、MCPB、本地 stdio）、选定工具设计模式，然后移交给专门的技能。 | This skill should be used when the user asks to "build an MCP server", "create an MCP", "make an MCP integration", "wrap an API for Claude", "expose tools to Claude", "make an MCP app", or discusses building something with the Model Context Protocol. It is the entry point for MCP server development — it interrogates the user about their use case, determines the right deployment model (remote HTTP, MCPB, local stdio), picks a tool-design pattern, and hands off to specialized skills.
 version: 0.1.0
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: skill-scanner
-description: "Scan agent skills for security issues before adoption. Detects prompt injection, malicious code, excessive permissions, secret exposure, and supply chain risks."
+description: "在采用前扫描代理技能的安全问题。检测提示注入、恶意代码、过度权限、密钥暴露和供应链风险。 | Scan agent skills for security issues before adoption. Detects prompt injection, malicious code, excessive permissions, secret exposure, and supply chain risks."
 risk: unknown
 source: community
 ---

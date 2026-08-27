@@ -1,6 +1,6 @@
 ---
 name: context-engineering
-description: Optimizes agent context setup. Use when starting a new session, when agent output quality degrades, when switching between tasks, or when you need to configure rules files and context for a project.
+description: 优化智能体上下文配置。在开始新会话、智能体输出质量下降、在任务之间切换，或需要为项目配置规则文件和上下文时使用。 | Optimizes agent context setup. Use when starting a new session, when agent output quality degrades, when switching between tasks, or when you need to configure rules files and context for a project.
 ---
 
 # Context Engineering

@@ -1,6 +1,6 @@
 ---
 name: smtp-penetration-testing
-description: "Conduct comprehensive security assessments of SMTP (Simple Mail Transfer Protocol) servers to identify vulnerabilities including open relays, user enumeration, weak authentication, and misconfiguration."
+description: "对 SMTP（简单邮件传输协议）服务器开展全面安全评估，识别包括开放中继、用户枚举、弱身份验证和配置错误在内的漏洞。 | Conduct comprehensive security assessments of SMTP (Simple Mail Transfer Protocol) servers to identify vulnerabilities including open relays, user enumeration, weak authentication, and misconfiguration."
 risk: offensive
 source: community
 author: zebbern

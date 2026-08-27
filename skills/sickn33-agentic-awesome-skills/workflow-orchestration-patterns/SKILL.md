@@ -1,6 +1,6 @@
 ---
 name: workflow-orchestration-patterns
-description: "Master workflow orchestration architecture with Temporal, covering fundamental design decisions, resilience patterns, and best practices for building reliable distributed systems."
+description: "掌握基于 Temporal 的工作流编排架构，涵盖基础设计决策、韧性模式与构建可靠分布式系统的最佳实践。 | Master workflow orchestration architecture with Temporal, covering fundamental design decisions, resilience patterns, and best practices for building reliable distributed systems."
 risk: unknown
 source: community
 date_added: "2026-02-27"

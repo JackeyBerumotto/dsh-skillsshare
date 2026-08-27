@@ -1,6 +1,6 @@
 ---
 name: nanobanana-ppt-skills
-description: "AI-powered PPT generation with document analysis and styled images"
+description: "AI 驱动的 PPT 生成，支持文档分析和风格化图片 | AI-powered PPT generation with document analysis and styled images"
 risk: safe
 source: "https://github.com/op7418/NanoBanana-PPT-Skills"
 date_added: "2026-02-27"

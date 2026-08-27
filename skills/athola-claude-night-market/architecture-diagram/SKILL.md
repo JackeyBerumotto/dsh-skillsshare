@@ -1,6 +1,6 @@
 ---
 name: architecture-diagram
-description: Generates a Mermaid architecture diagram showing high-level component relationships. Use when visualizing how plugins or modules fit together.
+description: 生成展示高层组件关系的 Mermaid 架构图。在可视化插件或模块如何组合时使用。 | Generates a Mermaid architecture diagram showing high-level component relationships. Use when visualizing how plugins or modules fit together.
 ---
 
 # Architecture Diagram

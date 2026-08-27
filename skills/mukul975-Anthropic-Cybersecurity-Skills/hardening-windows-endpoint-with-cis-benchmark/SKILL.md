@@ -1,13 +1,6 @@
 ---
 name: hardening-windows-endpoint-with-cis-benchmark
-description: 'Hardens Windows endpoints using CIS (Center for Internet Security) Benchmark
-  recommendations to reduce attack surface, enforce security baselines, and meet compliance
-  requirements. Use when deploying new Windows workstations or servers, remediating
-  audit findings, or establishing organization-wide security baselines. Activates
-  for requests involving Windows hardening, CIS benchmarks, GPO security baselines,
-  or endpoint configuration compliance.
-
-  '
+description: "使用 CIS（互联网安全中心）基准建议加固 Windows 终端，以减少攻击面、实施安全基线并满足合规要求。适用于部署新的 Windows 工作站或服务器、整改审计发现的问题，或建立覆盖全组织的安全基线。当请求涉及 Windows 加固、CIS 基准、GPO 安全基线或终端配置合规时激活。 | Hardens Windows endpoints using CIS (Center for Internet Security) Benchmark recommendations to reduce attack surface, enforce security baselines, and meet compliance requirements. Use when deploying new Windows workstations or servers, remediating audit findings, or establishing organization-wide security baselines. Activates for requests involving Windows hardening, CIS benchmarks, GPO security baselines, or endpoint configuration compliance."
 domain: cybersecurity
 subdomain: endpoint-security
 tags:

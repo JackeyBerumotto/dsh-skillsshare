@@ -1,6 +1,6 @@
 ---
 name: humanize-chinese
-description: Detect and rewrite AI-like Chinese text with a practical workflow for scoring, humanization, academic AIGC reduction, and style conversion. Use when the user asks to 去AI味, 降AIGC, 去除AI痕迹, 论文降重, 知网检测, 维普检测, humanize chinese, detect AI text, or make Chinese text sound more natural.
+description: 检测并改写具有 AI 味的中文文本，提供涵盖打分、人工化、学术 AIGC 降重和风格转换的实用工作流。当用户要求去AI味、降AIGC、去除AI痕迹、论文降重、知网检测、维普检测、humanize chinese、detect AI text 或让中文听起来更自然时使用。 | Detect and rewrite AI-like Chinese text with a practical workflow for scoring, humanization, academic AIGC reduction, and style conversion. Use when the user asks to 去AI味, 降AIGC, 去除AI痕迹, 论文降重, 知网检测, 维普检测, humanize chinese, detect AI text, or make Chinese text sound more natural.
 category: content
 risk: safe
 source: community

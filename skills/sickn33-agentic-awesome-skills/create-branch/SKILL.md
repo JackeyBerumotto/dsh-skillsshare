@@ -1,6 +1,6 @@
 ---
 name: create-branch
-description: Create a git branch following Sentry naming conventions. Use when asked to "create a branch", "new branch", "start a branch", "make a branch", "switch to a new branch", or when starting new work on the default branch.
+description: 按照 Sentry 命名规范创建 git 分支。当被要求「create a branch」「new branch」「start a branch」「make a branch」「switch to a new branch」，或在默认分支上开始新工作时使用。 | Create a git branch following Sentry naming conventions. Use when asked to "create a branch", "new branch", "start a branch", "make a branch", "switch to a new branch", or when starting new work on the default branch.
 argument-hint: '[optional description of the work]'
 risk: critical
 source: community

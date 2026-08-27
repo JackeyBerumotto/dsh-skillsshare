@@ -1,6 +1,6 @@
 ---
 name: context-engineering-review
-description: "Review what an LLM feature or agent actually puts in its context window — and find what's bloating, missing, or fighting itself. Use when asked to review a system prompt and context assembly, cut token usage without losing quality, debug an agent that ignores instructions, or audit how retrieval results, history, and tool definitions are packed into the window. Produces a context inventory with a keep/cut/restructure verdict per component, ordering and caching fixes, and a token budget. For wording-level prompt tuning use prompt-optimizer."
+description: "审查 LLM 功能或智能体实际装入上下文窗口的内容——找出其中臃肿、缺失或自相冲突的部分。当被要求审查系统提示词与上下文组装、在不损失质量的前提下削减 token 用量、调试无视指令的智能体，或审计检索结果、历史和工具定义如何打包进窗口时使用。产出上下文清单：每个组件的保留/删除/重构结论、顺序与缓存修复，以及 token 预算。措辞层面的提示词调优请用 prompt-optimizer。 | Review what an LLM feature or agent actually puts in its context window — and find what's bloating, missing, or fighting itself. Use when asked to review a system prompt and context assembly, cut token usage without losing quality, debug an agent that ignores instructions, or audit how retrieval results, history, and tool definitions are packed into the window. Produces a context inventory with a keep/cut/restructure verdict per component, ordering and caching fixes, and a token budget. For wording-level prompt tuning use prompt-optimizer."
 ---
 
 # Context Engineering Review Skill

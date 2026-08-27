@@ -1,6 +1,6 @@
 ---
 name: analyzing-network-latency
-description: Analyze network latency and optimize request patterns for faster communication. Use when diagnosing slow network performance or optimizing API calls. Trigger with phrases like "analyze network latency", "optimize API calls", or "reduce network delays".
+description: 分析网络延迟并优化请求模式以加快通信。在诊断网络性能缓慢或优化 API 调用时使用。触发短语如「analyze network latency」、「optimize API calls」或「reduce network delays」。 | Analyze network latency and optimize request patterns for faster communication. Use when diagnosing slow network performance or optimizing API calls. Trigger with phrases like "analyze network latency", "optimize API calls", or "reduce network delays".
 version: 1.0.0
 allowed-tools:
 - Read

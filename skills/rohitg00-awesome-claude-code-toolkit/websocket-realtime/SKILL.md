@@ -1,6 +1,6 @@
 ---
 name: websocket-realtime
-description: Real-time communication patterns with WebSocket, Socket.io, Server-Sent Events, and scaling strategies
+description: 基于 WebSocket、Socket.io、Server-Sent Events 的实时通信模式与扩展策略。 | Real-time communication patterns with WebSocket, Socket.io, Server-Sent Events, and scaling strategies
 ---
 
 # WebSocket & Real-Time

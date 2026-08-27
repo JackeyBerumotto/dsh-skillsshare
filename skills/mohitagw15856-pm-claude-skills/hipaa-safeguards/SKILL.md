@@ -1,6 +1,6 @@
 ---
 name: hipaa-safeguards
-description: "Map HIPAA Security Rule safeguards and run a risk analysis for systems handling PHI. Use when asked to become HIPAA-compliant, assess HIPAA safeguards, prepare for handling PHI/ePHI, or scope a BAA. Produces a HIPAA assessment — the administrative/physical/technical safeguards with required-vs-addressable status, a risk analysis, BAA scope, and a prioritised remediation plan."
+description: "对照 HIPAA 安全规则各项防护措施进行映射，并为处理 PHI 的系统开展风险分析。当被要求达到 HIPAA 合规、评估 HIPAA 防护措施、为处理 PHI/ePHI 做准备，或界定 BAA 范围时使用。产出一份 HIPAA 评估——含管理/物理/技术防护措施及其必需与可选状态、风险分析、BAA 范围，以及按优先级排序的整改计划。 | Map HIPAA Security Rule safeguards and run a risk analysis for systems handling PHI. Use when asked to become HIPAA-compliant, assess HIPAA safeguards, prepare for handling PHI/ePHI, or scope a BAA. Produces a HIPAA assessment — the administrative/physical/technical safeguards with required-vs-addressable status, a risk analysis, BAA scope, and a prioritised remediation plan."
 ---
 
 # HIPAA Safeguards Skill

@@ -1,7 +1,7 @@
 ---
 name: unity-scriptableobjects
 description: >
-  Architect Unity 6 data and decoupling with ScriptableObjects: config/data assets, shared
+  使用 ScriptableObjects 规划 Unity 6 的数据与解耦：配置／数据资产、共享运行时变量、事件通道以及运行时集合／注册表。在设计数据驱动系统、替换单例／管理器、用 CreateAssetMenu 创建 .asset 数据，或用户提到 ScriptableObject、SO 架构或数据资产时使用。 |
   runtime variables, event channels, and runtime sets/registries. Use when designing
   data-driven systems, replacing singletons/managers, creating .asset data with
   CreateAssetMenu, or when the user mentions ScriptableObject, SO architecture, or data assets.

@@ -1,6 +1,6 @@
 ---
 name: proof-of-work
-description: Enforces validation and evidence before claiming work complete. Use before declaring implementation done, creating a PR, or submitting deliverables for review.
+description: 在宣称工作完成之前强制要求验证和证据。在宣布实现完成、创建 PR 或提交交付物评审之前使用。 | Enforces validation and evidence before claiming work complete. Use before declaring implementation done, creating a PR, or submitting deliverables for review.
 alwaysApply: false
 category: workflow-methodology
 tags:

@@ -1,12 +1,6 @@
 ---
 name: building-incident-response-dashboard
-description: 'Builds real-time incident response dashboards in Splunk, Elastic, or
-  Grafana to provide SOC analysts and leadership with situational awareness during
-  active incidents, tracking affected systems, containment status, IOC spread, and
-  response timeline. Use when IR teams need unified visibility during incident coordination
-  and post-incident reporting.
-
-  '
+description: "在 Splunk、Elastic 或 Grafana 中构建实时事件响应仪表板，在活跃事件期间为 SOC 分析师和管理层提供态势感知，跟踪受影响系统、遏制状态、IOC 扩散和响应时间线。当 IR 团队需要在事件协调和事后报告期间获得统一可见性时使用。 | Builds real-time incident response dashboards in Splunk, Elastic, or Grafana to provide SOC analysts and leadership with situational awareness during active incidents, tracking affected systems, containment status, IOC spread, and response timeline. Use when IR teams need unified visibility during incident coordination and post-incident reporting."
 domain: cybersecurity
 subdomain: soc-operations
 tags:

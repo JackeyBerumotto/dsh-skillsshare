@@ -1,5 +1,5 @@
 ---
-description: Use when provisioning Vertex AI ADK infrastructure with Terraform. Trigger with phrases like "deploy ADK terraform", "agent engine infrastructure", "provision ADK agent", "vertex AI agent terraform", or "code execution sandbox terraform". Provisions Agent Engine runtime, 14-day code execution sandbox, Memory Bank, VPC Service Controls, IAM roles, and secure multi-agent infrastructure.
+description: 在使用 Terraform 配置 Vertex AI ADK 基础设施时使用。触发词如「deploy ADK terraform」「agent engine infrastructure」「provision ADK agent」「vertex AI agent terraform」或「code execution sandbox terraform」。配置 Agent Engine 运行时、14 天代码执行沙箱、Memory Bank、VPC Service Controls、IAM 角色以及安全的多代理基础设施。 | Use when provisioning Vertex AI ADK infrastructure with Terraform. Trigger with phrases like "deploy ADK terraform", "agent engine infrastructure", "provision ADK agent", "vertex AI agent terraform", or "code execution sandbox terraform". Provisions Agent Engine runtime, 14-day code execution sandbox, Memory Bank, VPC Service Controls, IAM roles, and secure multi-agent infrastructure.
 allowed-tools:
 - Read
 - Write

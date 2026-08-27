@@ -1,6 +1,6 @@
 ---
 name: web-utilities-date-fns
-description: date-fns patterns for TypeScript - formatting, parsing, manipulation, comparison, timezone handling, and internationalization
+description: date-fns 的 TypeScript 模式——格式化、解析、操作、比较、时区处理和国际化。 | date-fns patterns for TypeScript - formatting, parsing, manipulation, comparison, timezone handling, and internationalization
 ---
 
 # date-fns Date Utility Patterns

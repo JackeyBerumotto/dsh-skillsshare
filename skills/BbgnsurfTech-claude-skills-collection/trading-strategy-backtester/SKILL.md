@@ -2,7 +2,7 @@
 name: backtesting-trading-strategies
 version: 1.0.0
 description: |
-  Backtest crypto trading strategies against historical data with performance metrics.
+  用历史数据回测加密货币交易策略并提供性能指标。在使用历史数据验证交易策略时使用。可通过「backtest strategy」「test trading signals」或「validate approach」等短语触发。 |
   Use when validating trading strategies with historical data.
   Trigger with phrases like "backtest strategy", "test trading signals", or "validate approach".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(crypto:backtest-*)

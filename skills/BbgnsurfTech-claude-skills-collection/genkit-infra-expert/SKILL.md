@@ -1,5 +1,5 @@
 ---
-description: Use when deploying Genkit applications to production with Terraform. Trigger with phrases like "deploy genkit terraform", "provision genkit infrastructure", "firebase functions terraform", "cloud run deployment", or "genkit production infrastructure". Provisions Firebase Functions, Cloud Run services, GKE clusters, monitoring dashboards, and CI/CD for AI workflows.
+description: 在使用 Terraform 将 Genkit 应用部署到生产环境时使用。触发词如「deploy genkit terraform」「provision genkit infrastructure」「firebase functions terraform」「cloud run deployment」或「genkit production infrastructure」。为 AI 工作流配置 Firebase Functions、Cloud Run 服务、GKE 集群、监控看板和 CI/CD。 | Use when deploying Genkit applications to production with Terraform. Trigger with phrases like "deploy genkit terraform", "provision genkit infrastructure", "firebase functions terraform", "cloud run deployment", or "genkit production infrastructure". Provisions Firebase Functions, Cloud Run services, GKE clusters, monitoring dashboards, and CI/CD for AI workflows.
 allowed-tools:
 - Read
 - Write

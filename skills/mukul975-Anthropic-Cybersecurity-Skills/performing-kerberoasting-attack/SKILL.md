@@ -1,8 +1,6 @@
 ---
 name: performing-kerberoasting-attack
-description: Kerberoasting is a post-exploitation technique that targets service accounts
-  in Active Directory by requesting Kerberos TGS (Ticket Granting Service) tickets
-  for accounts with Service Principal Names
+description: "Kerberoasting 是一种后渗透技术，通过为具有服务主体名称（SPN）的账户请求 Kerberos TGS（票据授予服务）票据，攻击 Active Directory 中的服务账户。 | Kerberoasting is a post-exploitation technique that targets service accounts in Active Directory by requesting Kerberos TGS (Ticket Granting Service) tickets for accounts with Service Principal Names"
 domain: cybersecurity
 subdomain: red-teaming
 tags:

@@ -1,6 +1,6 @@
 ---
 name: api-documenter
-description: Master API documentation with OpenAPI 3.1, AI-powered tools, and modern developer experience practices. Create interactive docs, generate SDKs, and build comprehensive developer portals.
+description: 掌握 API 文档写作，运用 OpenAPI 3.1、AI 驱动工具与现代开发者体验实践。创建交互式文档、生成 SDK，并构建完善的开发者门户。 | Master API documentation with OpenAPI 3.1, AI-powered tools, and modern developer experience practices. Create interactive docs, generate SDKs, and build comprehensive developer portals.
 risk: unknown
 source: community
 date_added: '2026-02-27'

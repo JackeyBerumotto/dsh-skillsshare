@@ -1,7 +1,7 @@
 ---
 name: database-documentation-gen
 description: |
-  Use when you need to work with database documentation.
+  当你需要处理数据库文档时使用。此技能提供自动化文档生成及全面的指导和自动化。触发词如「generate docs」「document schema」或「create database documentation」。 |
   This skill provides automated documentation generation with comprehensive guidance and automation.
   Trigger with phrases like "generate docs", "document schema",
   or "create database documentation".

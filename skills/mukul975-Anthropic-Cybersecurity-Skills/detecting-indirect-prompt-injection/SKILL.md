@@ -1,6 +1,6 @@
 ---
 name: detecting-indirect-prompt-injection
-description: Detect and defend against prompt injection hidden in documents, web pages, and images consumed by an agent.
+description: 检测并防御隐藏在 agent 消费的文档、网页和图像中的提示注入。 | Detect and defend against prompt injection hidden in documents, web pages, and images consumed by an agent.
 domain: cybersecurity
 subdomain: ai-security
 tags:

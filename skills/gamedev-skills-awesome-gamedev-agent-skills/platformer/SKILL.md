@@ -1,7 +1,7 @@
 ---
 name: platformer
 description: >
-  Build a 2D platformer: run/jump control with coyote time, jump buffering, and variable jump
+  构建 2D 平台跳跃游戏：带土狼时间、跳跃缓冲和可变跳跃高度的跑跳控制，外加瓦片关卡与危险物。适用于平台跳跃游戏或类似马里奥与 Celeste 的作品，以及调校跳跃手感。 |
   height, plus tiled levels and hazards. Use for a platformer or Mario/Celeste-like, or tuning jump feel.
 license: Apache-2.0
 compatibility: Engine-agnostic design patterns; snippets are pseudocode (port to your engine)

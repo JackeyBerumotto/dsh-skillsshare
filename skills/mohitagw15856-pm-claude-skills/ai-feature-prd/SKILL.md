@@ -1,6 +1,6 @@
 ---
 name: ai-feature-prd
-description: "Write a PRD for an AI-powered feature, covering the things normal PRDs miss. Use when asked to spec an AI/LLM feature, write a PRD for a feature that uses a model, or plan an AI capability (assistant, summarizer, generator, classifier). Produces an AI feature PRD — problem & UX of uncertainty, model approach, eval criteria, guardrails, fallback behaviour, the data flywheel, and cost/latency budget."
+description: "为 AI 驱动的功能撰写 PRD，覆盖普通 PRD 容易遗漏的内容。在被要求为 AI/LLM 功能做规格定义、为使用模型的功能编写 PRD 或规划 AI 能力（助手、摘要器、生成器、分类器）时使用。产出 AI 功能 PRD——不确定性的问题定义与 UX、模型方案、评估标准、护栏、回退行为、数据飞轮以及成本/延迟预算。 | Write a PRD for an AI-powered feature, covering the things normal PRDs miss. Use when asked to spec an AI/LLM feature, write a PRD for a feature that uses a model, or plan an AI capability (assistant, summarizer, generator, classifier). Produces an AI feature PRD — problem & UX of uncertainty, model approach, eval criteria, guardrails, fallback behaviour, the data flywheel, and cost/latency budget."
 ---
 
 # AI Feature PRD Skill

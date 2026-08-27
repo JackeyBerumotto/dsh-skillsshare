@@ -1,6 +1,6 @@
 ---
 name: product-naming
-description: "Generate and evaluate names for a product, feature, or release. Use when asked to name a product/feature/company, brainstorm naming options, or choose between name candidates. Produces a shortlist of names across naming strategies, each with rationale, plus an evaluation against clear criteria (clarity, fit, memorability, availability checks to run) and a recommendation — not just a random list."
+description: "为产品、功能或版本生成并评估名称。当被要求给产品/功能/公司命名、头脑风暴命名选项或在候选名称之间抉择时使用。产出跨命名策略的候选短名单并附理由，再按明确标准（清晰度、契合度、记忆度、待执行的可用性检查）评估并给出推荐——而不是随机罗列。 | Generate and evaluate names for a product, feature, or release. Use when asked to name a product/feature/company, brainstorm naming options, or choose between name candidates. Produces a shortlist of names across naming strategies, each with rationale, plus an evaluation against clear criteria (clarity, fit, memorability, availability checks to run) and a recommendation — not just a random list."
 ---
 
 # Product Naming Skill

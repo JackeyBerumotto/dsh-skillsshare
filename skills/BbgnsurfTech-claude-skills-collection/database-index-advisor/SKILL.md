@@ -1,7 +1,7 @@
 ---
 name: analyzing-database-indexes
 description: |
-  Use when you need to work with database indexing.
+  当你需要处理数据库索引时使用。此技能提供索引设计和优化及全面的指导和自动化。触发词如「create indexes」「optimize indexes」或「improve query performance」。 |
   This skill provides index design and optimization with comprehensive guidance and automation.
   Trigger with phrases like "create indexes", "optimize indexes",
   or "improve query performance".

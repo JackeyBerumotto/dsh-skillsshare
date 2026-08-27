@@ -1,6 +1,6 @@
 ---
 name: legal-brief
-description: "Draft a structured legal brief, case summary, or legal argument outline. Use when asked to write a legal brief, case note, legal memo, argument outline, or position paper. Produces a structured document using IRAC format (Issue, Rule, Application, Conclusion)."
+description: "起草结构化的法律意见书、案例摘要或法律论证大纲。当被要求撰写法律意见书、案例评注、法律备忘录、论证大纲或立场文件时使用。产出采用 IRAC 格式（问题、规则、适用、结论）的结构化文档。 | Draft a structured legal brief, case summary, or legal argument outline. Use when asked to write a legal brief, case note, legal memo, argument outline, or position paper. Produces a structured document using IRAC format (Issue, Rule, Application, Conclusion)."
 ---
 
 # Legal Brief Skill

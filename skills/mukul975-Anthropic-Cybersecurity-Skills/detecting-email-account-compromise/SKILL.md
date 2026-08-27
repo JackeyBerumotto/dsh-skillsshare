@@ -1,8 +1,6 @@
 ---
 name: detecting-email-account-compromise
-description: Detect compromised O365 and Google Workspace email accounts by analyzing
-  inbox rule creation, suspicious sign-in locations, mail forwarding rules, and unusual
-  API access patterns via Microsoft Graph and audit logs.
+description: "通过 Microsoft Graph 和审计日志分析收件箱规则创建、可疑登录地点、邮件转发规则以及异常 API 访问模式，检测已失陷的 O365 和 Google Workspace 邮箱账户。 | Detect compromised O365 and Google Workspace email accounts by analyzing inbox rule creation, suspicious sign-in locations, mail forwarding rules, and unusual API access patterns via Microsoft Graph and audit logs."
 domain: cybersecurity
 subdomain: incident-response
 tags:

@@ -1,7 +1,7 @@
 ---
 name: caveman-commit
 description: >
-  Ultra-compressed commit message generator. Cuts noise from commit messages while preserving
+  超压缩提交信息生成器。在保留意图与推理的同时剔除提交信息中的噪音。采用 Conventional Commits 格式。标题不超过 50 字符，仅当「为什么」不明显时才写正文。当用户说「write a commit」「commit message」「generate commit」「/commit」或调用 /caveman-commit 时使用。暂存变更时自动触发。 |
   intent and reasoning. Conventional Commits format. Subject ≤50 chars, body only when "why"
   isn't obvious. Use when user says "write a commit", "commit message", "generate commit",
   "/commit", or invokes /caveman-commit. Auto-triggers when staging changes.

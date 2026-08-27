@@ -1,6 +1,6 @@
 ---
 name: neobrutalism
-description: Modern take on brutalism with bold borders, vivid accent colors, and raw, high-contrast layouts on warm surfaces.
+description: 现代版粗野主义，以醒目的粗边框、鲜明的强调色，以及暖色表面上的原始高对比布局为特色。 | Modern take on brutalism with bold borders, vivid accent colors, and raw, high-contrast layouts on warm surfaces.
 license: MIT
 metadata:
   author: typeui.sh

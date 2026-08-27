@@ -1,6 +1,6 @@
 ---
 name: api-database-typeorm
-description: Decorator-based ORM for TypeScript with Active Record and Data Mapper patterns
+description: 基于装饰器的 TypeScript ORM，支持 Active Record 和 Data Mapper 模式 | Decorator-based ORM for TypeScript with Active Record and Data Mapper patterns
 ---
 
 # Database with TypeORM

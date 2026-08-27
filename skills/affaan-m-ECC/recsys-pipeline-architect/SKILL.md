@@ -1,6 +1,6 @@
 ---
 name: recsys-pipeline-architect
-description: Design composable recommendation, ranking, and feed pipelines using the six-stage Source→Hydrator→Filter→Scorer→Selector→SideEffect framework popularized by xAI's open-sourced For You algorithm. Use this skill whenever the user is building any system that picks "the top K items for a (user, context)" — social feeds, content CMSs, RAG rerankers, task prioritizers, notification triage, search reranking, ad ranking.
+description: 使用由 xAI 开源的 For You 算法推广的六阶段 Source→Hydrator→Filter→Scorer→Selector→SideEffect 框架，设计可组合的推荐、排序和信息流流水线。当用户构建任何为（用户，上下文）挑选「前 K 个条目」的系统时使用本技能：社交信息流、内容 CMS、RAG 重排器、任务优先级排序、通知分诊、搜索重排、广告排序。 | Design composable recommendation, ranking, and feed pipelines using the six-stage Source→Hydrator→Filter→Scorer→Selector→SideEffect framework popularized by xAI's open-sourced For You algorithm. Use this skill whenever the user is building any system that picks "the top K items for a (user, context)" — social feeds, content CMSs, RAG rerankers, task prioritizers, notification triage, search reranking, ad ranking.
 metadata:
   origin: community
 ---

@@ -1,6 +1,6 @@
 ---
 name: metrics-dashboard
-description: "Define and design a product metrics dashboard with key metrics, data sources, visualization types, and alert thresholds. Use when creating a metrics dashboard, defining KPIs, setting up product analytics, or building a data monitoring plan."
+description: "定义并设计产品指标仪表盘，包含关键指标、数据源、可视化类型和告警阈值。当创建指标仪表盘、定义 KPI、搭建产品分析或制定数据监控计划时使用。 | Define and design a product metrics dashboard with key metrics, data sources, visualization types, and alert thresholds. Use when creating a metrics dashboard, defining KPIs, setting up product analytics, or building a data monitoring plan."
 ---
 
 ## Product Metrics Dashboard

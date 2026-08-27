@@ -1,6 +1,6 @@
 ---
 name: simpy
-description: Process-based discrete-event simulation framework in Python. Use this skill when building simulations of systems with processes, queues, resources, and time-based events such as manufacturing systems, service operations, network traffic, logistics, or any system where entities interact with shared resources over time.
+description: Python 中基于进程的离散事件仿真框架。在构建包含进程、队列、资源和基于时间事件的系统仿真时使用此技能，例如制造系统、服务运营、网络流量、物流，或任何实体随时间与共享资源交互的系统。 | Process-based discrete-event simulation framework in Python. Use this skill when building simulations of systems with processes, queues, resources, and time-based events such as manufacturing systems, service operations, network traffic, logistics, or any system where entities interact with shared resources over time.
 license: MIT license
 metadata: {"version": "1.0", "skill-author": "K-Dense Inc."}
 ---

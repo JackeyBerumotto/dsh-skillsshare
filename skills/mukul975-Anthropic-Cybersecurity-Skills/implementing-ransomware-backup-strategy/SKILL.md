@@ -1,14 +1,6 @@
 ---
 name: implementing-ransomware-backup-strategy
-description: 'Designs and implements a ransomware-resilient backup strategy following
-  the 3-2-1-1-0 methodology (3 copies, 2 media types, 1 offsite, 1 immutable/air-gapped,
-  0 errors on restore verification). Configures backup schedules aligned to RPO/RTO
-  requirements, implements backup credential isolation to prevent ransomware from
-  compromising backup infrastructure, and establishes automated restore testing. Activates
-  for requests involving ransomware backup planning, backup resilience, air-gapped
-  backup design, or backup recovery point objective configuration.
-
-  '
+description: "设计并实现具备勒索软件韧性的备份策略，遵循 3-2-1-1-0 方法论（3 份副本、2 种介质、1 份异地、1 份不可变或物理隔离、恢复验证 0 错误）。配置与 RPO/RTO 要求相匹配的备份计划，实施备份凭据隔离以防勒索软件破坏备份基础设施，并建立自动化恢复测试。当请求涉及勒索软件备份规划、备份韧性、物理隔离备份设计或备份恢复点目标配置时激活。 | Designs and implements a ransomware-resilient backup strategy following the 3-2-1-1-0 methodology (3 copies, 2 media types, 1 offsite, 1 immutable/air-gapped, 0 errors on restore verification). Configures backup schedules aligned to RPO/RTO requirements, implements backup credential isolation to prevent ransomware from compromising backup infrastructure, and establishes automated restore testing. Activates for requests involving ransomware backup planning, backup resilience, air-gapped backup design, or backup recovery point objective configuration."
 domain: cybersecurity
 subdomain: ransomware-defense
 tags:

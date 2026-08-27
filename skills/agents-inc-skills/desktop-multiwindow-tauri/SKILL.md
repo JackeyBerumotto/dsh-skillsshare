@@ -1,6 +1,6 @@
 ---
 name: desktop-multiwindow-tauri
-description: Tauri 2.x multi-window creation, event system, window state persistence, parent/child and modal windows
+description: Tauri 2.x 多窗口创建、事件系统、窗口状态持久化、父子窗口和模态窗口 | Tauri 2.x multi-window creation, event system, window state persistence, parent/child and modal windows
 ---
 
 # Tauri Multi-Window & Events

@@ -1,6 +1,6 @@
 ---
 name: comparative-market-analysis
-description: "Build a comparative market analysis (CMA) to price a property. Use when asked to do a CMA, a comparative market analysis, price a home, or estimate a property's value from comparables. Produces a structured CMA — the subject property, selected comparables with adjustments, an estimated value range, market context, and a pricing recommendation with rationale — for a real-estate professional to review. Not a formal appraisal."
+description: "构建比较市场分析（CMA）以便为房产定价。当被要求做 CMA、比较市场分析、为住宅定价，或依据可比案例估算房产价值时使用。产出结构化的 CMA——标的房产、经调整的精选可比案例、估值区间、市场背景，以及附带理由的定价建议——供房地产专业人士审阅。不属于正式评估。 | Build a comparative market analysis (CMA) to price a property. Use when asked to do a CMA, a comparative market analysis, price a home, or estimate a property's value from comparables. Produces a structured CMA — the subject property, selected comparables with adjustments, an estimated value range, market context, and a pricing recommendation with rationale — for a real-estate professional to review. Not a formal appraisal."
 ---
 
 # Comparative Market Analysis Skill

@@ -1,6 +1,6 @@
 ---
 name: architecture-paradigm-client-server
-description: Applies client-server architecture for web/mobile apps. Use when designing systems with centralized backend services, trust boundaries, or offline-first sync.
+description: 应用客户端／服务器架构构建 Web 与移动应用。在设计具有集中式后端服务、信任边界或离线优先同步的系统时使用。 | Applies client-server architecture for web/mobile apps. Use when designing systems with centralized backend services, trust boundaries, or offline-first sync.
 alwaysApply: false
 category: architectural-pattern
 tags:

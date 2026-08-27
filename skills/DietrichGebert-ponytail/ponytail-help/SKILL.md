@@ -1,7 +1,7 @@
 ---
 name: ponytail-help
 description: >
-  Quick-reference card for all ponytail modes, skills, and commands.
+  所有 ponytail 模式、技能和命令的速查卡。一次性展示，不是持久模式。触发：/ponytail-help、「ponytail help」、「what ponytail commands」、「how do I use ponytail」。 |
   One-shot display, not a persistent mode. Trigger: /ponytail-help,
   "ponytail help", "what ponytail commands", "how do I use ponytail".
 ---

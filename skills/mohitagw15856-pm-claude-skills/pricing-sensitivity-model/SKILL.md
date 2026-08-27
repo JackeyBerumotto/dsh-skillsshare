@@ -1,6 +1,6 @@
 ---
 name: pricing-sensitivity-model
-description: "Van Westendorp price sensitivity, computed from real survey answers — crossings found by interpolation, not read off a chart by eye. Use when someone has (or plans) the four-question pricing survey (too cheap / cheap / expensive / too expensive) and needs the optimal price point, the acceptable range, and a defensible readout. Produces OPP/IPP and the PMC–PME range, the four cumulative curves as data, and a real .xlsx with a live revenue what-if — via the bundled zero-dependency script."
+description: "Van Westendorp 价格敏感度分析，基于真实问卷答案计算——交叉点通过插值求得，而非肉眼从图表读取。当用户已拥有（或计划开展）四问定价调研（太便宜/便宜/贵/太贵），并需要最优价格点、可接受区间和有据可依的解读时使用。产出 OPP/IPP 与 PMC–PME 区间、四条累计曲线的数据，以及一份带实时收入假设分析的真实 .xlsx 文件——由内置零依赖脚本完成。 | Van Westendorp price sensitivity, computed from real survey answers — crossings found by interpolation, not read off a chart by eye. Use when someone has (or plans) the four-question pricing survey (too cheap / cheap / expensive / too expensive) and needs the optimal price point, the acceptable range, and a defensible readout. Produces OPP/IPP and the PMC–PME range, the four cumulative curves as data, and a real .xlsx with a live revenue what-if — via the bundled zero-dependency script."
 ---
 
 # Pricing Sensitivity Model (Van Westendorp)

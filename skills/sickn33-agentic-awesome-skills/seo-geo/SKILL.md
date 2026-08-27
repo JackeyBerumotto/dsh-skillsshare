@@ -1,6 +1,6 @@
 ---
 name: seo-geo
-description: "Optimize content for AI Overviews, ChatGPT, Perplexity, and other AI search systems. Use when improving GEO, AI citations, llms.txt readiness, crawler accessibility, and passage-level citability."
+description: "为 AI Overviews、ChatGPT、Perplexity 及其他 AI 搜索系统优化内容。在改进 GEO、AI 引用、llms.txt 就绪度、爬虫可访问性和段落级可引用性时使用。 | Optimize content for AI Overviews, ChatGPT, Perplexity, and other AI search systems. Use when improving GEO, AI citations, llms.txt readiness, crawler accessibility, and passage-level citability."
 risk: unknown
 source: "https://github.com/AgriciDaniel/claude-seo"
 date_added: "2026-03-21"

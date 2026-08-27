@@ -1,6 +1,6 @@
 ---
 name: video-content-strategist
-description: "Use when planning video content strategy, writing video scripts, optimizing YouTube channels, building short-form video pipelines (Reels, TikTok, Shorts), or repurposing long-form content into video. Triggers: 'start a YouTube channel', 'video content strategy', 'write a video script', 'repurpose into video', 'YouTube SEO', 'short-form video'. NOT for written blog content (use content-production). NOT for social captions without video (use social-media-manager)."
+description: "在规划视频内容策略、撰写视频脚本、优化 YouTube 频道、构建短视频流水线（Reels、TikTok、Shorts），或将长内容改编为视频时使用。触发词：「start a YouTube channel」「video content strategy」「write a video script」「repurpose into video」「YouTube SEO」「short-form video」。不用于书面博客内容（那使用 content-production）。不用于无视频的社交文案（那使用 social-media-manager）。 | Use when planning video content strategy, writing video scripts, optimizing YouTube channels, building short-form video pipelines (Reels, TikTok, Shorts), or repurposing long-form content into video. Triggers: 'start a YouTube channel', 'video content strategy', 'write a video script', 'repurpose into video', 'YouTube SEO', 'short-form video'. NOT for written blog content (use content-production). NOT for social captions without video (use social-media-manager)."
 ---
 
 # Video Content Strategist

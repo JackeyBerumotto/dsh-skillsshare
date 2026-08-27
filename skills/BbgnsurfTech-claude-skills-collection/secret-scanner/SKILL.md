@@ -1,6 +1,6 @@
 ---
 name: scanning-for-secrets
-description: Scan for exposed secrets, API keys, and credentials in code. Use when auditing for secret leaks. Trigger with 'scan for secrets', 'find exposed keys', or 'check credentials'.
+description: 扫描代码中暴露的密钥、API key 和凭据。在审计密钥泄露时使用。触发语句：「scan for secrets」「find exposed keys」或「check credentials」。 | Scan for exposed secrets, API keys, and credentials in code. Use when auditing for secret leaks. Trigger with 'scan for secrets', 'find exposed keys', or 'check credentials'.
 version: 1.0.0
 allowed-tools:
 - Read

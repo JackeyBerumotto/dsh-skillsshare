@@ -1,8 +1,6 @@
 ---
 name: agent-evaluation
-description: Testing and benchmarking LLM agents including behavioral testing,
-  capability assessment, reliability metrics, and production monitoring—where
-  even top agents achieve less than 50% on real-world benchmarks
+description: "对 LLM 智能体进行测试与基准评估，包括行为测试、能力评估、可靠性指标与生产监控——即便顶尖智能体在真实世界基准上的得分也不足 50%。 | Testing and benchmarking LLM agents including behavioral testing, capability assessment, reliability metrics, and production monitoring—where even top agents achieve less than 50% on real-world benchmarks"
 risk: safe
 source: vibeship-spawner-skills (Apache 2.0)
 date_added: 2026-02-27

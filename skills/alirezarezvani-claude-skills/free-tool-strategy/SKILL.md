@@ -1,6 +1,6 @@
 ---
 name: "free-tool-strategy"
-description: "When the user wants to build a free tool for marketing — lead generation, SEO value, or brand awareness. Use when they mention 'engineering as marketing,' 'free tool,' 'calculator,' 'generator,' 'checker,' 'grader,' 'marketing tool,' 'lead gen tool,' 'build something for traffic,' 'interactive tool,' or 'free resource.' Covers idea evaluation, tool design, and launch strategy. For pure SEO content strategy (no tool), use seo-audit or content-strategy instead."
+description: "当用户想要构建用于营销的免费工具——线索获取、SEO 价值或品牌知名度——时使用。当用户提到「engineering as marketing」「free tool」「calculator」「generator」「checker」「grader」「marketing tool」「lead gen tool」「build something for traffic」「interactive tool」或「free resource」时也应使用。涵盖点子评估、工具设计和发布策略。若是纯粹的 SEO 内容策略（不含工具），请改用 seo-audit 或 content-strategy。 | When the user wants to build a free tool for marketing — lead generation, SEO value, or brand awareness. Use when they mention 'engineering as marketing,' 'free tool,' 'calculator,' 'generator,' 'checker,' 'grader,' 'marketing tool,' 'lead gen tool,' 'build something for traffic,' 'interactive tool,' or 'free resource.' Covers idea evaluation, tool design, and launch strategy. For pure SEO content strategy (no tool), use seo-audit or content-strategy instead."
 license: MIT
 metadata:
   version: 1.0.0

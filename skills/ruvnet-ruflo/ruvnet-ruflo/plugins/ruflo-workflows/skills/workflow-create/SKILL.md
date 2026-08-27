@@ -1,6 +1,6 @@
 ---
 name: workflow-create
-description: Author a workflow — either an MCP workflow template (persisted, lifecycle) or a native .claude/workflows/*.js orchestration script (agent/parallel/pipeline fan-out)
+description: 编写工作流——可以是 MCP 工作流模板（持久化、带生命周期管理），也可以是原生 .claude/workflows/*.js 编排脚本（支持 agent/parallel/pipeline 扇出）。 | Author a workflow — either an MCP workflow template (persisted, lifecycle) or a native .claude/workflows/*.js orchestration script (agent/parallel/pipeline fan-out)
 argument-hint: "<name> [--native] [--steps N]"
 allowed-tools: mcp__claude-flow__workflow_create mcp__claude-flow__workflow_template mcp__claude-flow__workflow_list mcp__claude-flow__workflow_status mcp__claude-flow__workflow_delete Write Read Edit Bash
 ---

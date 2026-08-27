@@ -1,6 +1,6 @@
 ---
 name: security-scanning-security-sast
-description: 'Static Application Security Testing (SAST) for code vulnerability
+description: 用于代码漏洞的静态应用安全测试（SAST） | 'Static Application Security Testing (SAST) for code vulnerability
 
   analysis across multiple languages and frameworks
 

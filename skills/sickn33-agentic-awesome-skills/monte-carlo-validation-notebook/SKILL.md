@@ -1,6 +1,6 @@
 ---
 name: monte-carlo-validation-notebook
-description: "Generates SQL validation notebooks for dbt PR changes with before/after comparison queries."
+description: "为 dbt PR 变更生成 SQL 验证笔记本，附带前后对比查询。 | Generates SQL validation notebooks for dbt PR changes with before/after comparison queries."
 category: data
 risk: safe
 source: community

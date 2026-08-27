@@ -1,6 +1,6 @@
 ---
 name: parallel-web
-description: "Use Parallel CLI for web search, URL extraction, deep research, structured data enrichment, entity discovery, and recurring web monitoring. Best for requests that explicitly need current web evidence, academic-source discovery, repeated entity lookups, exhaustive reports, or ongoing change tracking."
+description: "使用 Parallel CLI 进行网页搜索、URL 提取、深度研究、结构化数据充实、实体发现和定期网页监控。最适合明确需要当前网页证据、学术来源发现、重复实体查询、详尽报告或持续变更跟踪的请求。 | Use Parallel CLI for web search, URL extraction, deep research, structured data enrichment, entity discovery, and recurring web monitoring. Best for requests that explicitly need current web evidence, academic-source discovery, repeated entity lookups, exhaustive reports, or ongoing change tracking."
 license: MIT
 compatibility: Requires parallel-cli and internet access.
 metadata: {"version": "1.2", "author": "K-Dense, Inc.", "openclaw": {"primaryEnv": "PARALLEL_API_KEY", "envVars": [{"name": "PARALLEL_API_KEY", "required": true, "description": "Parallel API key."}]}}

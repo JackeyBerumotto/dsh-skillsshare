@@ -1,6 +1,6 @@
 ---
 name: regex-builder
-description: "Build a regular expression from a plain-English description, or explain an existing one. Use when asked to write a regex, match/validate/extract a pattern, or understand what a regex does. Produces the regex, a token-by-token breakdown, passing and failing test cases, and notes on flavor/edge cases."
+description: "根据平实的英文描述构建正则表达式，或解释现有的正则表达式。当被要求编写正则、匹配、验证或提取某种模式，或理解某个正则的作用时使用。产出正则表达式、逐个 token 的拆解、通过与失败的测试用例，以及关于方言与边界情况的说明。 | Build a regular expression from a plain-English description, or explain an existing one. Use when asked to write a regex, match/validate/extract a pattern, or understand what a regex does. Produces the regex, a token-by-token breakdown, passing and failing test cases, and notes on flavor/edge cases."
 ---
 
 # Regex Builder & Explainer Skill

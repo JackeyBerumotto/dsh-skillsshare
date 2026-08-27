@@ -1,6 +1,6 @@
 ---
 name: "board-meeting"
-description: "Multi-agent board meeting protocol for strategic decisions. Runs a structured 6-phase deliberation: context loading, independent C-suite contributions (isolated, no cross-pollination), critic analysis, synthesis, founder review, and decision extraction. Use when the user invokes /cs:boardroom, calls a board meeting, or wants structured multi-perspective executive deliberation on a strategic question."
+description: "面向战略决策的多智能体董事会会议协议。运行结构化的六阶段审议：加载上下文、各高管独立贡献（相互隔离、不交叉影响）、批评分析、综合归纳、创始人复核和决策提取。当用户调用 /cs:boardroom、召集董事会会议，或希望就战略问题进行结构化的多视角高管审议时使用。 | Multi-agent board meeting protocol for strategic decisions. Runs a structured 6-phase deliberation: context loading, independent C-suite contributions (isolated, no cross-pollination), critic analysis, synthesis, founder review, and decision extraction. Use when the user invokes /cs:boardroom, calls a board meeting, or wants structured multi-perspective executive deliberation on a strategic question."
 license: MIT
 metadata:
   version: 1.0.0

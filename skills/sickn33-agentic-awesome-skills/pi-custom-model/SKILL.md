@@ -1,6 +1,6 @@
 ---
 name: pi-custom-model
-description: "Register custom Pi Agent model slugs so saved OpenRouter variants resolve correctly."
+description: "注册自定义 Pi Agent 模型 slug，使保存的 OpenRouter 变体能够正确解析。 | Register custom Pi Agent model slugs so saved OpenRouter variants resolve correctly."
 category: operations
 risk: critical
 source: community

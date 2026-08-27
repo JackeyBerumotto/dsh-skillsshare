@@ -1,6 +1,6 @@
 ---
 name: shader-programming-glsl
-description: "Expert guide for writing efficient GLSL shaders (Vertex/Fragment) for web and game engines, covering syntax, uniforms, and common effects."
+description: "为 Web 和游戏引擎编写高效 GLSL 着色器（Vertex/Fragment）的专家指南，涵盖语法、uniform 和常见效果。 | Expert guide for writing efficient GLSL shaders (Vertex/Fragment) for web and game engines, covering syntax, uniforms, and common effects."
 risk: safe
 source: community
 date_added: "2026-02-27"

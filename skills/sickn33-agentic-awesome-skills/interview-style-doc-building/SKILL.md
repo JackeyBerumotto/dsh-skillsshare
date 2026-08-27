@@ -1,6 +1,6 @@
 ---
 name: interview-style-doc-building
-description: "Build structured strategy documents by asking one question at a time and patching the file."
+description: "通过每次只问一个问题并逐步修补文件来构建结构化战略文档。 | Build structured strategy documents by asking one question at a time and patching the file."
 category: productivity
 risk: critical
 source: community

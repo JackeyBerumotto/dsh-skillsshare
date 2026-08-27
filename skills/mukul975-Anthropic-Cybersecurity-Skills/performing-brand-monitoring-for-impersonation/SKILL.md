@@ -1,8 +1,6 @@
 ---
 name: performing-brand-monitoring-for-impersonation
-description: Monitor for brand impersonation attacks across domains, social media,
-  mobile apps, and dark web channels to detect phishing campaigns, fake sites, and
-  unauthorized brand usage targeting your organization.
+description: "监控跨域名、社交媒体、移动应用和暗网渠道的品牌冒充攻击，检测针对你所在组织的钓鱼活动、仿冒站点和未授权品牌使用。 | Monitor for brand impersonation attacks across domains, social media, mobile apps, and dark web channels to detect phishing campaigns, fake sites, and unauthorized brand usage targeting your organization."
 domain: cybersecurity
 subdomain: threat-intelligence
 tags:

@@ -1,7 +1,7 @@
 ---
 name: makepad-animation
 description: |
-  CRITICAL: Use for Makepad animation system. Triggers on:
+  关键：用于 Makepad 动画系统。触发词：makepad animation、makepad animator、makepad hover、makepad state、makepad transition、「from：{ all：Forward」、makepad pressed、makepad 动画、makepad 状态、makepad 过渡、makepad 悬停效果 |
   makepad animation, makepad animator, makepad hover, makepad state,
   makepad transition, "from: { all: Forward", makepad pressed,
   makepad 动画, makepad 状态, makepad 过渡, makepad 悬停效果

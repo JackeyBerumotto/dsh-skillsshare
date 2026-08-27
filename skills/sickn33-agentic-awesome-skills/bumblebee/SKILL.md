@@ -1,6 +1,6 @@
 ---
 name: bumblebee
-description: "Run Bumblebee supply-chain inventory and exposure scans on macOS/Linux to detect compromised packages, extensions, and MCP host configs."
+description: "在 macOS/Linux 上运行 Bumblebee 供应链盘点与暴露扫描，检测被入侵的软件包、扩展和 MCP 宿主配置。 | Run Bumblebee supply-chain inventory and exposure scans on macOS/Linux to detect compromised packages, extensions, and MCP host configs."
 category: security
 risk: safe
 source: community

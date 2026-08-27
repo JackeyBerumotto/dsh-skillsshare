@@ -1,6 +1,6 @@
 ---
 name: token-conservation
-description: Enforces token quota management at session start with conservation and compression checks. Use at the start of every session or before large context loads.
+description: 在会话开始时强制执行 token 配额管理，并进行节省与压缩检查。在每个会话开始时或加载大上下文之前使用。 | Enforces token quota management at session start with conservation and compression checks. Use at the start of every session or before large context loads.
 alwaysApply: true
 progressive_loading: true
 dependencies:

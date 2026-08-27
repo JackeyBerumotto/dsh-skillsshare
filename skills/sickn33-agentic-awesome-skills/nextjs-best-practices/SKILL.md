@@ -1,6 +1,6 @@
 ---
 name: nextjs-best-practices
-description: "Next.js App Router principles. Server Components, data fetching, routing patterns."
+description: "Next.js App Router 原则：服务器组件、数据获取、路由模式。 | Next.js App Router principles. Server Components, data fetching, routing patterns."
 risk: unknown
 source: community
 date_added: "2026-02-27"

@@ -1,6 +1,6 @@
 ---
 name: grafana-dashboards
-description: "Create and manage production-ready Grafana dashboards for comprehensive system observability."
+description: "创建并管理生产级 Grafana 仪表盘，实现全面的系统可观测性。 | Create and manage production-ready Grafana dashboards for comprehensive system observability."
 risk: unknown
 source: community
 date_added: "2026-02-27"

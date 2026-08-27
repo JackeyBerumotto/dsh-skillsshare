@@ -1,7 +1,7 @@
 ---
 name: rpg
 description: >
-  Build an RPG: stats and leveling, inventory and equipment, quests, branching dialogue, save/load,
+  构建 RPG 游戏：属性与升级、物品栏与装备、任务、分支对话、存档与读档以及战斗。适用于 RPG 或 JRPG，或用于设计属性、物品栏、任务或战斗系统。 |
   and combat. Use for an RPG/JRPG, or designing stat, inventory, quest, or combat systems.
 license: Apache-2.0
 compatibility: Engine-agnostic design patterns; snippets are pseudocode (port to your engine)

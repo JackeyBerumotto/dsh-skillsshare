@@ -1,6 +1,6 @@
 ---
 name: web-styling-cva
-description: Class Variance Authority - type-safe component variant styling with cva(), compound variants, and VariantProps
+description: Class Variance Authority——用 cva()、复合变体和 VariantProps 实现类型安全的组件变体样式 | Class Variance Authority - type-safe component variant styling with cva(), compound variants, and VariantProps
 ---
 
 # CVA (Class Variance Authority) Patterns

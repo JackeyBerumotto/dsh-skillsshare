@@ -1,6 +1,6 @@
 ---
 name: ditto
-description: "Use when a user asks to mine or update a private, evidence-backed work profile from local Claude Code, Codex, Copilot CLI, or OpenCode sessions."
+description: "当用户要求从本地 Claude Code、Codex、Copilot CLI 或 OpenCode 会话中挖掘或更新一份私有、有据可查的工作画像时使用。 | Use when a user asks to mine or update a private, evidence-backed work profile from local Claude Code, Codex, Copilot CLI, or OpenCode sessions."
 category: agent-behavior
 risk: critical
 source: community

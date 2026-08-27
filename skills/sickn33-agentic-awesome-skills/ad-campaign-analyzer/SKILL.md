@@ -1,6 +1,6 @@
 ---
 name: ad-campaign-analyzer
-description: "Analyze cross-channel campaign data, quantify uncertainty, and propose evidence-labeled budget tests without overstating causality."
+description: "分析跨渠道营销活动数据，量化不确定性，并提出带证据标签的预算实验，不夸大因果关系。 | Analyze cross-channel campaign data, quantify uncertainty, and propose evidence-labeled budget tests without overstating causality."
 category: marketing
 risk: critical
 source: community

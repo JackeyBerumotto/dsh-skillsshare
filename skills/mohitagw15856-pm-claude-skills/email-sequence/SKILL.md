@@ -1,6 +1,6 @@
 ---
 name: email-sequence
-description: "Write a multi-email nurture/onboarding/launch sequence with a goal per email. Use when asked to write an email sequence, a welcome/onboarding series, a nurture drip, a launch sequence, or a re-engagement series. Produces the sequence map (trigger, timing, goal per email) plus the full copy for each email — subject, body, and one CTA — designed to move the reader one step at a time."
+description: "撰写多封邮件的培育/入职/发布序列，每封邮件有明确目标。在被要求编写邮件序列、欢迎/入职系列、培育滴灌、发布序列或再互动系列时使用。产出序列图（触发条件、时机、每封邮件的目标）以及每封邮件的完整文案——主题、正文和单一 CTA——设计为一步一步推动读者前进。 | Write a multi-email nurture/onboarding/launch sequence with a goal per email. Use when asked to write an email sequence, a welcome/onboarding series, a nurture drip, a launch sequence, or a re-engagement series. Produces the sequence map (trigger, timing, goal per email) plus the full copy for each email — subject, body, and one CTA — designed to move the reader one step at a time."
 ---
 
 # Email Sequence Skill

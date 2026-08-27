@@ -1,6 +1,6 @@
 ---
 name: offensive-wpa2-psk
-description: "WPA/WPA2-PSK attack methodology — four-way handshake capture via targeted deauthentication, PMKID attacks (no client required), hcxdumptool / hcxpcapngtool conversion to hashcat hc22000 format, GPU-accelerated cracking with dictionary, mask, and rule-based attacks, vendor default-PSK generators (UPC, Sky, BT, etc.), 802.11r FT key cracking, opportunistic key cache analysis, and signal-level optimization. Use when the in-scope network is WPA/WPA2 Personal — the most common consumer/SMB encryption mode."
+description: "WPA/WPA2-PSK 攻击方法论——通过定向反认证捕获四次握手、PMKID 攻击（无需客户端）、使用 hcxdumptool/hcxpcapngtool 转换为 hashcat hc22000 格式、借助字典/掩码/规则攻击进行 GPU 加速破解、厂商默认 PSK 生成器（UPC、Sky、BT 等）、802.11r FT 密钥破解、机会性密钥缓存分析以及信号级优化。当目标网络采用 WPA/WPA2 Personal——最常见的消费级/中小企业加密模式——时使用。 | WPA/WPA2-PSK attack methodology — four-way handshake capture via targeted deauthentication, PMKID attacks (no client required), hcxdumptool / hcxpcapngtool conversion to hashcat hc22000 format, GPU-accelerated cracking with dictionary, mask, and rule-based attacks, vendor default-PSK generators (UPC, Sky, BT, etc.), 802.11r FT key cracking, opportunistic key cache analysis, and signal-level optimization. Use when the in-scope network is WPA/WPA2 Personal — the most common consumer/SMB encryption mode."
 ---
 
 # WPA/WPA2-PSK Attacks

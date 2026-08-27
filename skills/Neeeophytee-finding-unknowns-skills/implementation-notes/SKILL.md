@@ -1,6 +1,6 @@
 ---
 name: implementation-notes
-description: Keep a running implementation-notes.md during a build, logging every deviation from the plan and every discovered edge case. Use whenever implementing against an agreed plan or spec, especially in long autonomous sessions.
+description: 在构建期间持续维护 implementation-notes.md，记录每一处偏离计划的地方和每一个发现的边界情况。在按照既定计划或规格实现时使用，尤其是在长时间自主会话中。 | Keep a running implementation-notes.md during a build, logging every deviation from the plan and every discovered edge case. Use whenever implementing against an agreed plan or spec, especially in long autonomous sessions.
 ---
 
 # Implementation notes

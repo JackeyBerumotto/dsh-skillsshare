@@ -1,7 +1,7 @@
 ---
 name: carrier-relationship-management
 description: >
-  Codified expertise for managing carrier portfolios, negotiating freight rates,
+  管理承运商组合、谈判运价、跟踪承运商绩效、分配货运量以及维护战略性承运商关系的体系化专业知识。基于拥有 15 年以上经验的运输经理整理而成。包含记分卡框架、RFP 流程、市场情报和合规审查。在管理承运商、谈判运价、评估承运商绩效或制定货运战略时使用。 |
   tracking carrier performance, allocating freight, and maintaining strategic
   carrier relationships. Informed by transportation managers with 15+ years
   experience. Includes scorecarding frameworks, RFP processes, market intelligence,

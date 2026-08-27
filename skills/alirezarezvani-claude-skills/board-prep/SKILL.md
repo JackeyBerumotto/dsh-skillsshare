@@ -1,6 +1,6 @@
 ---
 name: "board-prep"
-description: "Board meeting preparation for the adversarial scenario, not the friendly one. Forces numbers-cold mastery, anticipates hard questions, builds a narrative that acknowledges weakness without losing the room. Use when preparing for a board meeting, an investor update, fundraising presentation, or any high-stakes adversarial review where every number must live in your head not just on a slide."
+description: "为对抗性场景而非友好场景准备董事会会议。强制做到对数字烂熟于心，预判尖锐提问，并构建一种承认弱点却不失场面掌控力的叙事。在准备董事会会议、投资人汇报、融资路演，或任何高风险的对抗性评审（每个数字都必须装在你脑子里，而不只是出现在幻灯片上）时使用。 | Board meeting preparation for the adversarial scenario, not the friendly one. Forces numbers-cold mastery, anticipates hard questions, builds a narrative that acknowledges weakness without losing the room. Use when preparing for a board meeting, an investor update, fundraising presentation, or any high-stakes adversarial review where every number must live in your head not just on a slide."
 ---
 
 # /em:board-prep — Board Meeting Preparation

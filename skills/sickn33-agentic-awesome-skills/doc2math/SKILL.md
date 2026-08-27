@@ -1,6 +1,6 @@
 ---
 name: doc2math
-description: Convert narrative technical documents into grounded Mathematical Problem Specifications with variables, constraints, objectives, and uncertainty.
+description: 将叙述性技术文档转换为严谨的数学问题规约，包含变量、约束、目标和不确定性。 | Convert narrative technical documents into grounded Mathematical Problem Specifications with variables, constraints, objectives, and uncertainty.
 risk: safe
 source: community
 date_added: "2026-05-31"

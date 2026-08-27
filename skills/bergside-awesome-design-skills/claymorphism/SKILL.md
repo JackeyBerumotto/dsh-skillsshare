@@ -1,6 +1,6 @@
 ---
 name: claymorphism
-description: Soft, rounded 3D-like shapes mimicking malleable clay with playful, puffy elements and colorful surfaces.
+description: 柔和、圆润的类 3D 造型，模仿可塑黏土，元素蓬松俏皮、表面多彩。 | Soft, rounded 3D-like shapes mimicking malleable clay with playful, puffy elements and colorful surfaces.
 license: MIT
 metadata:
   author: typeui.sh

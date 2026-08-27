@@ -1,6 +1,6 @@
 ---
 name: test-fixing
-description: "Systematically identify and fix all failing tests using smart grouping strategies. Use when explicitly asks to fix tests (\"fix these tests\", \"make tests pass\"), reports test failures (\"tests are failing\", \"test suite is broken\"), or completes implementation and wants tests passing."
+description: "使用智能分组策略系统地识别并修复所有失败的测试。当用户明确要求修复测试（「fix these tests」「make tests pass」）、报告测试失败（「tests are failing」「test suite is broken」），或完成实现后希望测试全部通过时使用。 | Systematically identify and fix all failing tests using smart grouping strategies. Use when explicitly asks to fix tests (\"fix these tests\", \"make tests pass\"), reports test failures (\"tests are failing\", \"test suite is broken\"), or completes implementation and wants tests passing."
 risk: safe
 source: community
 date_added: "2026-02-27"

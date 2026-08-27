@@ -1,6 +1,6 @@
 ---
 name: scholar-evaluation
-description: Structured scholarly-work evaluation for papers, proposals, literature reviews, methods sections, evidence quality, citation support, and research-writing feedback.
+description: 对论文、提案、文献综述、方法部分、证据质量、引文支撑和研究写作反馈进行结构化学术评价。 | Structured scholarly-work evaluation for papers, proposals, literature reviews, methods sections, evidence quality, citation support, and research-writing feedback.
 metadata:
   origin: community
 ---

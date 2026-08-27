@@ -1,6 +1,6 @@
 ---
 name: ai-patterns-tool-use-patterns
-description: Provider-agnostic patterns for LLM function calling, tool loops, and agentic workflows
+description: 与供应商无关的 LLM 函数调用、工具循环和智能体工作流模式 | Provider-agnostic patterns for LLM function calling, tool loops, and agentic workflows
 ---
 
 # Tool Use Patterns

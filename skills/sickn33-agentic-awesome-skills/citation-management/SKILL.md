@@ -1,6 +1,6 @@
 ---
 name: citation-management
-description: "Manage citations systematically throughout the research and writing process."
+description: "在研究与写作的整个过程中系统化管理引用。 | Manage citations systematically throughout the research and writing process."
 license: MIT License
 metadata:
     skill-author: K-Dense Inc.

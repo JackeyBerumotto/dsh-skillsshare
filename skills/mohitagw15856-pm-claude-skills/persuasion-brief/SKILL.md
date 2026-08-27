@@ -1,6 +1,6 @@
 ---
 name: persuasion-brief
-description: "Build the case to win someone over to a decision, idea, or change. Use when asked to persuade someone, build a case for an idea, get buy-in, win over a skeptic, or prepare to pitch a proposal internally. Produces a persuasion brief — the audience's current view and what moves them, the core argument, the proof, objection handling, the emotional and logical appeals, and the ask."
+description: "构建论证方案，让别人接受某个决策、想法或变革。当被要求说服某人、为某个想法建立论证、争取认同、赢得怀疑者，或准备在内部推介提案时使用。产出一份说服简报——受众当前的观点及其转变动因、核心论点、证据、异议应对、情感与理性诉求，以及具体的请求。 | Build the case to win someone over to a decision, idea, or change. Use when asked to persuade someone, build a case for an idea, get buy-in, win over a skeptic, or prepare to pitch a proposal internally. Produces a persuasion brief — the audience's current view and what moves them, the core argument, the proof, objection handling, the emotional and logical appeals, and the ask."
 ---
 
 # Persuasion Brief Skill

@@ -1,6 +1,6 @@
 ---
 name: figma-design-critique-pm
-description: "Runs a PM-perspective design critique focused on product outcomes and user goals, not aesthetics. Use when asked for a PM design critique, a product review of a Figma design, or feedback from a product perspective without needing to be a designer. Produces structured outcome-based feedback tied to user goals, business metrics, and requirement coverage."
+description: "从产品经理视角进行设计评审，聚焦产品成果和用户目标而非美学。当被要求做 PM 视角的设计评审、对 Figma 设计做产品审查，或无需设计师身份即可从产品角度给出反馈时使用。产出与用户目标、业务指标和需求覆盖率挂钩的、基于成果的结构化反馈。 | Runs a PM-perspective design critique focused on product outcomes and user goals, not aesthetics. Use when asked for a PM design critique, a product review of a Figma design, or feedback from a product perspective without needing to be a designer. Produces structured outcome-based feedback tied to user goals, business metrics, and requirement coverage."
 ---
 
 # Figma Design Critique — PM Perspective Skill

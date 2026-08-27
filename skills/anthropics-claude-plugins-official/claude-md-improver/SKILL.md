@@ -1,6 +1,6 @@
 ---
 name: claude-md-improver
-description: Audit and improve CLAUDE.md files in repositories. Use when user asks to check, audit, update, improve, or fix CLAUDE.md files. Scans for all CLAUDE.md files, evaluates quality against templates, outputs quality report, then makes targeted updates. Also use when the user mentions "CLAUDE.md maintenance" or "project memory optimization".
+description: 审计并改进仓库中的 CLAUDE.md 文件。当用户要求检查、审计、更新、改进或修复 CLAUDE.md 文件时使用。扫描所有 CLAUDE.md 文件，依据模板评估质量，输出质量报告，然后进行针对性更新。当用户提到「CLAUDE.md 维护」或「项目记忆优化」时也可使用。 | Audit and improve CLAUDE.md files in repositories. Use when user asks to check, audit, update, improve, or fix CLAUDE.md files. Scans for all CLAUDE.md files, evaluates quality against templates, outputs quality report, then makes targeted updates. Also use when the user mentions "CLAUDE.md maintenance" or "project memory optimization".
 tools: Read, Glob, Grep, Bash, Edit
 ---
 

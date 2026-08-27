@@ -1,12 +1,6 @@
 ---
 name: securing-kubernetes-on-cloud
-description: 'This skill covers hardening managed Kubernetes clusters on EKS, AKS,
-  and GKE by implementing Pod Security Standards, network policies, workload identity,
-  RBAC scoping, image admission controls, and runtime security monitoring. It addresses
-  cloud-specific security features including IRSA for EKS, Workload Identity for GKE,
-  and Managed Identities for AKS.
-
-  '
+description: "本技能涵盖加固 EKS、AKS 与 GKE 上的托管 Kubernetes 集群，实施 Pod Security Standards、网络策略、工作负载身份、RBAC 作用域限制、镜像准入控制与运行时安全监控。内容涉及各云特有的安全特性，包括 EKS 的 IRSA、GKE 的 Workload Identity 与 AKS 的 Managed Identities。 | This skill covers hardening managed Kubernetes clusters on EKS, AKS, and GKE by implementing Pod Security Standards, network policies, workload identity, RBAC scoping, image admission controls, and runtime security monitoring. It addresses cloud-specific security features including IRSA for EKS, Workload Identity for GKE, and Managed Identities for AKS."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

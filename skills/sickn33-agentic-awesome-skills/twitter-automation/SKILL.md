@@ -1,6 +1,6 @@
 ---
 name: twitter-automation
-description: "Automate Twitter/X tasks via Rube MCP (Composio): posts, search, users, bookmarks, lists, media. Always search tools first for current schemas."
+description: "通过 Rube MCP（Composio）自动化 Twitter/X 任务：帖子、搜索、用户、书签、列表和媒体。务必先搜索工具以获取最新 schema。 | Automate Twitter/X tasks via Rube MCP (Composio): posts, search, users, bookmarks, lists, media. Always search tools first for current schemas."
 risk: critical
 source: community
 date_added: "2026-02-27"

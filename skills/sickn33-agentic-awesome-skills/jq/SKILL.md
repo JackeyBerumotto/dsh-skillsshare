@@ -1,6 +1,6 @@
 ---
 name: jq
-description: "Expert jq usage for JSON querying, filtering, transformation, and pipeline integration. Practical patterns for real shell workflows."
+description: "jq 专家用法，用于 JSON 查询、过滤、转换与管道集成。面向真实 shell 工作流的实用模式。 | Expert jq usage for JSON querying, filtering, transformation, and pipeline integration. Practical patterns for real shell workflows."
 category: development
 risk: safe
 source: community

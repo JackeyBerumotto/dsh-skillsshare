@@ -1,6 +1,6 @@
 ---
 name: sred-project-organizer
-description: Take a list of projects and their related documentation, and organize them into the SRED format for submission.
+description: 获取项目列表及其相关文档，并整理为 SRED 格式以便提交。 | Take a list of projects and their related documentation, and organize them into the SRED format for submission.
 risk: unknown
 source: community
 ---

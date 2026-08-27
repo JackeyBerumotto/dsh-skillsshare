@@ -1,6 +1,6 @@
 ---
 name: benchmark-optimization-loop
-description: Use when the user asks to make something faster, try many variants, run recursive optimization, benchmark latency/throughput/cost, or choose the best implementation by repeated measured tests.
+description: 当用户要求让某物更快、尝试多种变体、运行递归优化、对延迟/吞吐/成本做基准测试，或通过反复的实测选出最佳实现时使用。 | Use when the user asks to make something faster, try many variants, run recursive optimization, benchmark latency/throughput/cost, or choose the best implementation by repeated measured tests.
 license: MIT
 metadata:
   origin: ECC

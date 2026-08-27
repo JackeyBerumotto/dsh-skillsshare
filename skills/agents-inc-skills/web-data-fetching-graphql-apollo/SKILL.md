@@ -1,6 +1,6 @@
 ---
 name: web-data-fetching-graphql-apollo
-description: Apollo Client GraphQL patterns - useQuery, useMutation, cache management, optimistic updates, subscriptions
+description: Apollo Client GraphQL 模式——useQuery、useMutation、缓存管理、乐观更新、订阅 | Apollo Client GraphQL patterns - useQuery, useMutation, cache management, optimistic updates, subscriptions
 ---
 
 # Apollo Client GraphQL Patterns

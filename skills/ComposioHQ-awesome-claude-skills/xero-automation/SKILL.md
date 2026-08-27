@@ -1,6 +1,6 @@
 ---
 name: Xero Automation
-description: "Xero Automation: manage invoices, contacts, payments, bank transactions, and accounts in Xero for cloud-based bookkeeping"
+description: "Xero 自动化：在 Xero 中管理发票、联系人、付款、银行交易和账户，实现云端记账。 | Xero Automation: manage invoices, contacts, payments, bank transactions, and accounts in Xero for cloud-based bookkeeping"
 requires:
   mcp: [rube]
 ---

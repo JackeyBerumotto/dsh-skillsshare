@@ -1,7 +1,7 @@
 ---
 name: managing-environment-configurations
 description: |
-  Use when you need to work with environment configuration.
+  当你需要处理环境配置时使用。此技能提供环境和配置管理及全面的指导和自动化。触发词如「manage environments」「configure environments」或「sync configurations」。 |
   This skill provides environment and configuration management with comprehensive guidance and automation.
   Trigger with phrases like "manage environments", "configure environments",
   or "sync configurations".

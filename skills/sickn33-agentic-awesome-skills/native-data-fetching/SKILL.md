@@ -1,6 +1,6 @@
 ---
 name: native-data-fetching
-description: Use when implementing or debugging ANY network request, API call, or data fetching. Covers fetch API, React Query, SWR, error handling, caching, offline support, and Expo Router data loaders (`useLoaderData`).
+description: 在实现或调试任何网络请求、API 调用或数据获取时使用。涵盖 fetch API、React Query、SWR、错误处理、缓存、离线支持以及 Expo Router 数据加载器（`useLoaderData`）。 | Use when implementing or debugging ANY network request, API call, or data fetching. Covers fetch API, React Query, SWR, error handling, caching, offline support, and Expo Router data loaders (`useLoaderData`).
 risk: unknown
 source: https://github.com/expo/skills/tree/main/plugins/expo/skills/native-data-fetching
 source_repo: expo/skills

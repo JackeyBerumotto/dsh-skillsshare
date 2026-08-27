@@ -1,6 +1,6 @@
 ---
 name: backend-security-coder
-description: Expert in secure backend coding practices specializing in input validation, authentication, and API security. Use PROACTIVELY for backend security implementations or security code reviews.
+description: 安全后端编码实践专家，专精输入校验、身份验证与 API 安全。在后端安全实现或安全代码审查中主动使用。 | Expert in secure backend coding practices specializing in input validation, authentication, and API security. Use PROACTIVELY for backend security implementations or security code reviews.
 risk: unknown
 source: community
 date_added: '2026-02-27'

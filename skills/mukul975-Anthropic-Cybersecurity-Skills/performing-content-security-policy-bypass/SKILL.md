@@ -1,8 +1,6 @@
 ---
 name: performing-content-security-policy-bypass
-description: Analyze and bypass Content Security Policy implementations to achieve
-  cross-site scripting by exploiting misconfigurations, JSONP endpoints, unsafe directives,
-  and policy injection techniques.
+description: "分析并绕过内容安全策略（CSP）实现，利用错误配置、JSONP 端点、不安全指令和策略注入技术实现跨站脚本攻击。 | Analyze and bypass Content Security Policy implementations to achieve cross-site scripting by exploiting misconfigurations, JSONP endpoints, unsafe directives, and policy injection techniques."
 domain: cybersecurity
 subdomain: web-application-security
 tags:

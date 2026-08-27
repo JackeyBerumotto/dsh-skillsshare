@@ -1,6 +1,6 @@
 ---
 name: architecture-paradigm-pipeline
-description: Applies pipes-and-filters for sequential data transformations. Use when data flows through discrete stages like ETL, streaming analytics, or CI/CD pipelines.
+description: 应用管道-过滤器模式处理顺序数据变换。当数据流经离散阶段（如 ETL、流式分析或 CI/CD 流水线）时使用。 | Applies pipes-and-filters for sequential data transformations. Use when data flows through discrete stages like ETL, streaming analytics, or CI/CD pipelines.
 alwaysApply: false
 category: architectural-pattern
 tags:

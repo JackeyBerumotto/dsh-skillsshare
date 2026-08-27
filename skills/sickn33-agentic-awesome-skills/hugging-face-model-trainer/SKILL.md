@@ -1,6 +1,6 @@
 ---
 name: hugging-face-model-trainer
-description: Train or fine-tune language and vision models using TRL (Transformer Reinforcement Learning) or Unsloth with Hugging Face Jobs infrastructure. Covers SFT, DPO, GRPO and reward modeling training methods, plus GGUF conversion for local deployment. Includes guidance on the TRL Jobs...
+description: 使用 TRL（Transformer 强化学习）或 Unsloth 在 Hugging Face Jobs 基础设施上训练或微调语言与视觉模型。涵盖 SFT、DPO、GRPO 和奖励建模训练方法，以及用于本地部署的 GGUF 转换。还包括 TRL Jobs 相关指导…… | Train or fine-tune language and vision models using TRL (Transformer Reinforcement Learning) or Unsloth with Hugging Face Jobs infrastructure. Covers SFT, DPO, GRPO and reward modeling training methods, plus GGUF conversion for local deployment. Includes guidance on the TRL Jobs...
 risk: unknown
 source: https://github.com/huggingface/skills/tree/main/skills/huggingface-llm-trainer
 source_repo: huggingface/skills

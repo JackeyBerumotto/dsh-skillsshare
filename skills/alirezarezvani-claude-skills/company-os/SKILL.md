@@ -1,6 +1,6 @@
 ---
 name: "company-os"
-description: "The meta-framework for how a company runs — the connective tissue between all C-suite roles. Covers operating system selection (EOS, Scaling Up, OKR-native, hybrid), accountability charts, scorecards, meeting pulse, issue resolution, and 90-day rocks. Use when setting up company operations, selecting a management framework, designing meeting rhythms, building accountability systems, implementing OKRs, or when user mentions EOS, Scaling Up, operating system, L10 meetings, rocks, scorecard, accountability chart, or quarterly planning."
+description: "关于公司如何运转的元框架——连接所有 C-suite 角色的黏合组织。涵盖操作系统选型（EOS、Scaling Up、OKR 原生、混合）、职责图、计分卡、会议节奏、问题解决和 90 天岩石目标。在搭建公司运营体系、选择管理框架、设计会议节奏、构建职责体系、实施 OKR 时使用，或当用户提到 EOS、Scaling Up、运营系统、L10 会议、rocks、计分卡、职责图或季度规划时使用。 | The meta-framework for how a company runs — the connective tissue between all C-suite roles. Covers operating system selection (EOS, Scaling Up, OKR-native, hybrid), accountability charts, scorecards, meeting pulse, issue resolution, and 90-day rocks. Use when setting up company operations, selecting a management framework, designing meeting rhythms, building accountability systems, implementing OKRs, or when user mentions EOS, Scaling Up, operating system, L10 meetings, rocks, scorecard, accountability chart, or quarterly planning."
 license: MIT
 metadata:
   version: 1.0.0

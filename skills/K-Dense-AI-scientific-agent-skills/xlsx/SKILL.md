@@ -1,6 +1,6 @@
 ---
 name: xlsx
-description: "Create, edit, analyze, or convert Excel spreadsheets (.xlsx, .xlsm) where the workbook file is the primary deliverable. Use for formulas, formatting, financial models, multi-sheet workbooks, and tabular cleanup exported to Excel. Also applies to .csv/.tsv when the user wants spreadsheet output. Do NOT use for Word documents, HTML reports, standalone Python scripts, database pipelines, or Google Sheets API work."
+description: "创建、编辑、分析或转换 Excel 电子表格（.xlsx、.xlsm），且工作簿文件是主要交付物。适用于公式、格式化、财务模型、多工作表工作簿以及导出为 Excel 的表格清理。当用户需要电子表格输出时也适用于 .csv/.tsv。不要用于 Word 文档、HTML 报告、独立 Python 脚本、数据库管道或 Google Sheets API 工作。 | Create, edit, analyze, or convert Excel spreadsheets (.xlsx, .xlsm) where the workbook file is the primary deliverable. Use for formulas, formatting, financial models, multi-sheet workbooks, and tabular cleanup exported to Excel. Also applies to .csv/.tsv when the user wants spreadsheet output. Do NOT use for Word documents, HTML reports, standalone Python scripts, database pipelines, or Google Sheets API work."
 allowed-tools: Read Write Edit Bash Grep Glob
 license: Proprietary. LICENSE.txt has complete terms
 metadata: {"version": "1.1", "skill-author": "K-Dense Inc."}

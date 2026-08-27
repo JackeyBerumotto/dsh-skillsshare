@@ -1,7 +1,7 @@
 ---
 name: godot-2d-movement
 description: >
-  Implement 2D kinematic character movement in Godot 4.x with CharacterBody2D and
+  在 Godot 4.x 中使用 CharacterBody2D 与 move_and_slide() 实现 2D 运动学角色移动：带重力的平台跑跳、俯视角 8 方向移动、坡度处理以及碰撞读取。在编写 2D 玩家或敌人控制器、平台或俯视角角色，或在含 CharacterBody2D 的 .tscn 中修复 move_and_slide()/is_on_floor() 行为时使用。 |
   move_and_slide(): platformer run/jump with gravity, top-down 8-direction motion,
   slope handling, and reading collisions. Use when coding a 2D player or enemy
   controller, a platformer or top-down character, or fixing move_and_slide()/

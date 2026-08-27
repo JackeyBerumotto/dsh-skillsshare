@@ -1,5 +1,5 @@
 ---
-description: Use when validating GitHub Actions workflows for Google Cloud and Vertex AI deployments. Trigger with phrases like "validate github actions", "setup workload identity federation", "github actions security", "deploy agent with ci/cd", or "automate vertex ai deployment". Enforces Workload Identity Federation (WIF), validates OIDC permissions, ensures least privilege IAM, and implements security best practices.
+description: 在为 Google Cloud 和 Vertex AI 部署验证 GitHub Actions 工作流时使用。触发词如「validate github actions」「setup workload identity federation」「github actions security」「deploy agent with ci/cd」或「automate vertex ai deployment」。强制使用 Workload Identity Federation（WIF）、验证 OIDC 权限、确保最小权限 IAM 并实施安全最佳实践。 | Use when validating GitHub Actions workflows for Google Cloud and Vertex AI deployments. Trigger with phrases like "validate github actions", "setup workload identity federation", "github actions security", "deploy agent with ci/cd", or "automate vertex ai deployment". Enforces Workload Identity Federation (WIF), validates OIDC permissions, ensures least privilege IAM, and implements security best practices.
 allowed-tools:
 - Read
 - Write

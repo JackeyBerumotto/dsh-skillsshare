@@ -1,6 +1,6 @@
 ---
 name: customer-success-plan
-description: "Build a joint customer success plan for a specific account. Use when asked to create a success plan, joint success plan, mutual action plan, or customer onboarding plan. Produces a structured success plan with business goals, milestones, success metrics, ownership, and a 90-180 day roadmap."
+description: "为特定客户构建联合客户成功计划。当被要求创建成功计划、联合成功计划、共同行动计划或客户上手计划时使用。产出结构化的成功计划，包含业务目标、里程碑、成功指标、责任人与 90 至 180 天路线图。 | Build a joint customer success plan for a specific account. Use when asked to create a success plan, joint success plan, mutual action plan, or customer onboarding plan. Produces a structured success plan with business goals, milestones, success metrics, ownership, and a 90-180 day roadmap."
 ---
 
 # Customer Success Plan Skill

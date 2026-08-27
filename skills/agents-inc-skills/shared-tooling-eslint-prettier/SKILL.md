@@ -1,6 +1,6 @@
 ---
 name: shared-tooling-eslint-prettier
-description: ESLint 9/10 flat config with defineConfig(), Prettier v3.0+ shared config, eslint-config-prettier integration, typescript-eslint v8+ projectService
+description: ESLint 9/10 扁平配置与 defineConfig()、Prettier v3.0+ 共享配置、eslint-config-prettier 集成、typescript-eslint v8+ projectService | ESLint 9/10 flat config with defineConfig(), Prettier v3.0+ shared config, eslint-config-prettier integration, typescript-eslint v8+ projectService
 ---
 
 # ESLint & Prettier

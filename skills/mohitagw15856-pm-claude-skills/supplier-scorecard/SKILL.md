@@ -1,6 +1,6 @@
 ---
 name: supplier-scorecard
-description: "Build a quarterly supplier performance scorecard with a weighted grade and a clear escalate/develop/exit call. Use when asked to review supplier performance, prepare a quarterly business review for a vendor, score a supplier on OTIF and quality, or decide whether to escalate or exit a supplier. Produces a weighted scorecard with trend arrows, per-dimension evidence, corrective-action status, and a recommendation."
+description: "构建季度供应商绩效记分卡，给出加权评分以及明确的升级、培养或退出决定。当被要求评审供应商绩效、为某供应商准备季度业务回顾、按 OTIF 和质量为供应商打分，或决定对某供应商是升级处理还是退出时使用。产出带趋势箭头的加权记分卡，包含各维度证据、纠正措施状态与建议。 | Build a quarterly supplier performance scorecard with a weighted grade and a clear escalate/develop/exit call. Use when asked to review supplier performance, prepare a quarterly business review for a vendor, score a supplier on OTIF and quality, or decide whether to escalate or exit a supplier. Produces a weighted scorecard with trend arrows, per-dimension evidence, corrective-action status, and a recommendation."
 ---
 
 # Supplier Scorecard Skill

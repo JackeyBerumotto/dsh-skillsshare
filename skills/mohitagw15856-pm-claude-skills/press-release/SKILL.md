@@ -1,6 +1,6 @@
 ---
 name: press-release
-description: "Write a professional press release for any announcement. Use when asked to write a press release, media announcement, news release, or press statement. Produces a structured press release with headline, dateline, body, boilerplate, and media contact — ready to send to journalists."
+description: "为任何公告撰写专业的新闻稿。在被要求编写新闻稿、媒体公告、新闻发布或新闻声明时使用。产出结构化新闻稿，包含标题、电头、正文、公司简介和媒体联系人——可随时发给记者。 | Write a professional press release for any announcement. Use when asked to write a press release, media announcement, news release, or press statement. Produces a structured press release with headline, dateline, body, boilerplate, and media contact — ready to send to journalists."
 ---
 
 # Press Release Skill

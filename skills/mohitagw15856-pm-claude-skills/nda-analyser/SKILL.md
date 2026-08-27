@@ -1,6 +1,6 @@
 ---
 name: nda-analyser
-description: "Analyses a Non-Disclosure Agreement clause by clause and flags unusual terms, one-sided provisions, and negotiation points. Use when reviewing an NDA, mutual NDA, confidentiality agreement, or non-disclosure deed before signing or countering. Produces a plain English verdict, clause-by-clause risk analysis, and a prioritised negotiation checklist — always with a disclaimer that qualified legal advice is required before signing."
+description: "逐条分析保密协议，标记异常条款、单方面条款和谈判要点。在签署或回应 NDA、双向 NDA、保密协议或保密契据之前评审时使用。产出通俗语言的结论、逐条风险分析以及按优先级排序的谈判清单——并始终附带免责声明：签署前必须咨询合格的法律意见。 | Analyses a Non-Disclosure Agreement clause by clause and flags unusual terms, one-sided provisions, and negotiation points. Use when reviewing an NDA, mutual NDA, confidentiality agreement, or non-disclosure deed before signing or countering. Produces a plain English verdict, clause-by-clause risk analysis, and a prioritised negotiation checklist — always with a disclaimer that qualified legal advice is required before signing."
 ---
 
 # NDA Analyser Skill

@@ -1,6 +1,6 @@
 ---
 name: trader-cloud-backtest
-description: Run a heavy neural-trader job (long walk-forward, big Monte-Carlo, parameter sweep, model training) on the Anthropic Managed Agent cloud runtime instead of locally
+description: 在 Anthropic Managed Agent 云运行时而非本地运行繁重的 neural-trader 作业（长程走前验证、大规模蒙特卡洛、参数扫描、模型训练）。 | Run a heavy neural-trader job (long walk-forward, big Monte-Carlo, parameter sweep, model training) on the Anthropic Managed Agent cloud runtime instead of locally
 allowed-tools: mcp__claude-flow__managed_agent_create mcp__claude-flow__managed_agent_prompt mcp__claude-flow__managed_agent_events mcp__claude-flow__managed_agent_status mcp__claude-flow__managed_agent_terminate mcp__claude-flow__memory_store mcp__claude-flow__memory_retrieve mcp__claude-flow__memory_search mcp__claude-flow__agentdb_pattern-store Bash Read
 argument-hint: "<backtest|train|sweep> <strategy-or-model> --symbol <TICKER> [--period 2020-2024] [--mc-paths 1000]"
 ---

@@ -1,6 +1,6 @@
 ---
 name: decision-journal
-description: Contract for the project decision journal (tradeoffs and lessons-learned logs). Use when recording a decision, tradeoff, or lesson, or building a consumer hook.
+description: 项目决策日志（权衡与经验教训记录）的契约。在记录决策、权衡或经验教训，或构建消费者钩子时使用。 | Contract for the project decision journal (tradeoffs and lessons-learned logs). Use when recording a decision, tradeoff, or lesson, or building a consumer hook.
 alwaysApply: false
 model_hint: standard
 ---

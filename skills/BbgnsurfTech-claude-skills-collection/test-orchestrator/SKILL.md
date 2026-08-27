@@ -2,7 +2,7 @@
 name: orchestrating-test-execution
 version: 1.0.0
 description: |
-  Coordinate parallel test execution across multiple environments and frameworks.
+  协调跨多个环境和框架的并行测试执行。在执行专项测试时使用。通过「orchestrate tests」「run parallel tests」「coordinate test execution」等短语触发。 |
   Use when performing specialized testing.
   Trigger with phrases like "orchestrate tests", "run parallel tests", or "coordinate test execution".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(test:orchestrate-*)

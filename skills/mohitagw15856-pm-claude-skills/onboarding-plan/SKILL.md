@@ -1,6 +1,6 @@
 ---
 name: onboarding-plan
-description: "Create a structured 30/60/90-day onboarding plan for any new hire. Use when asked to write an onboarding plan, new hire plan, 30-60-90 day plan, or first 90 days roadmap. Produces a week-by-week plan with milestones, meetings, learning goals, and success criteria."
+description: "为任意新员工创建结构化的 30/60/90 天入职计划。当被要求撰写入职计划、新员工计划、30-60-90 天计划或前 90 天路线图时使用。产出逐周计划，包含里程碑、会议、学习目标和成功标准。 | Create a structured 30/60/90-day onboarding plan for any new hire. Use when asked to write an onboarding plan, new hire plan, 30-60-90 day plan, or first 90 days roadmap. Produces a week-by-week plan with milestones, meetings, learning goals, and success criteria."
 ---
 
 # Onboarding Plan Skill

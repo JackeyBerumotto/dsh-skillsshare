@@ -1,6 +1,6 @@
 ---
 name: kotlin-testing
-description: Kotlin testing patterns with Kotest, MockK, coroutine testing, property-based testing, and Kover coverage. Follows TDD methodology with idiomatic Kotlin practices.
+description: Kotlin 测试模式，涵盖 Kotest、MockK、协程测试、基于属性的测试和 Kover 覆盖率。遵循 TDD 方法论与地道的 Kotlin 实践。 | Kotlin testing patterns with Kotest, MockK, coroutine testing, property-based testing, and Kover coverage. Follows TDD methodology with idiomatic Kotlin practices.
 metadata:
   origin: ECC
 ---

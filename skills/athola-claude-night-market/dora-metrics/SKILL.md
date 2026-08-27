@@ -1,6 +1,6 @@
 ---
 name: dora-metrics
-description: Computes DORA delivery-performance metrics from git and GitHub API. Use when assessing deployment frequency, lead time, or change failure rate.
+description: 从 git 和 GitHub API 计算 DORA 交付绩效指标。在评估部署频率、前置时间或变更失败率时使用。 | Computes DORA delivery-performance metrics from git and GitHub API. Use when assessing deployment frequency, lead time, or change failure rate.
 alwaysApply: false
 category: governance
 tags:

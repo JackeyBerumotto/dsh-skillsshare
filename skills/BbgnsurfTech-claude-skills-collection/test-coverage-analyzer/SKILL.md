@@ -2,7 +2,7 @@
 name: analyzing-test-coverage
 version: 1.0.0
 description: |
-  Analyze code coverage metrics and identify untested code paths.
+  分析代码覆盖率指标并识别未被测试的代码路径。在分析未测试代码或覆盖缺口时使用。触发短语如「analyze coverage」、「check test coverage」或「find untested code」。 |
   Use when analyzing untested code or coverage gaps.
   Trigger with phrases like "analyze coverage", "check test coverage", or "find untested code".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(test:coverage-*)

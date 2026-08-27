@@ -1,6 +1,6 @@
 ---
 name: cover-letter
-description: "Write a specific, non-generic cover letter that connects your evidence to the role. Use when asked to write a cover letter, an application letter, or a note to accompany a resume. Produces a tight 3–4 paragraph letter — a real hook, two evidence paragraphs mapping your proof to the job's needs, and a confident close — tailored to the company, ready to export as a designed PDF."
+description: "撰写具体、不落俗套的求职信，把你的证据与职位要求联系起来。在被要求编写求职信、申请信或随简历附上的说明时使用。产出紧凑的 3-4 段信件——真正的钩子、两段把你的证明映射到职位需求的证据段落，以及自信的收尾——针对公司定制，可导出为设计精美的 PDF。 | Write a specific, non-generic cover letter that connects your evidence to the role. Use when asked to write a cover letter, an application letter, or a note to accompany a resume. Produces a tight 3–4 paragraph letter — a real hook, two evidence paragraphs mapping your proof to the job's needs, and a confident close — tailored to the company, ready to export as a designed PDF."
 ---
 
 # Cover Letter Skill

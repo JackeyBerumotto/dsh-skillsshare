@@ -1,6 +1,6 @@
 ---
 name: architecture-paradigms
-description: Selects and routes to the right architecture paradigm. Use when choosing patterns for a new system or comparing trade-offs before making architecture decisions.
+description: 选择并路由到合适的架构范式。在为新系统选择模式或在做出架构决策前比较权衡时使用。 | Selects and routes to the right architecture paradigm. Use when choosing patterns for a new system or comparing trade-offs before making architecture decisions.
 alwaysApply: false
 category: architecture-decision
 tags:

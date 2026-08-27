@@ -1,6 +1,6 @@
 ---
 name: azure-mgmt-apimanagement-py
-description: Azure API Management SDK for Python. Use for managing APIM services, APIs, products, subscriptions, and policies.
+description: 适用于 Python 的 Azure API Management SDK。用于管理 APIM 服务、API、产品、订阅和策略。 | Azure API Management SDK for Python. Use for managing APIM services, APIs, products, subscriptions, and policies.
 risk: unknown
 source: community
 date_added: '2026-02-27'

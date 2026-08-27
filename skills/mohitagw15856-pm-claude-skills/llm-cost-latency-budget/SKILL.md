@@ -1,6 +1,6 @@
 ---
 name: llm-cost-latency-budget
-description: "Model the cost and latency of an LLM feature before it ships and surprises the bill. Use when asked to estimate LLM API costs, set a latency/token budget, decide which model tier to use, or bring down the cost of an AI feature. Produces a cost & latency budget — token math per request, monthly cost projection, model tiering, caching/streaming levers, p95 latency targets, and a guardrail/alert plan."
+description: "在 LLM 功能上线并让账单大吃一惊之前，先为其成本与延迟建模。当被要求估算 LLM API 成本、设定延迟/token 预算、决定使用哪个模型档位，或降低 AI 功能成本时使用。产出成本与延迟预算——每次请求的 token 计算、月度成本预测、模型分层、缓存/流式开关、p95 延迟目标与护栏/告警方案。 | Model the cost and latency of an LLM feature before it ships and surprises the bill. Use when asked to estimate LLM API costs, set a latency/token budget, decide which model tier to use, or bring down the cost of an AI feature. Produces a cost & latency budget — token math per request, monthly cost projection, model tiering, caching/streaming levers, p95 latency targets, and a guardrail/alert plan."
 ---
 
 # LLM Cost & Latency Budget Skill

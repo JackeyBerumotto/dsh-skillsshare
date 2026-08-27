@@ -1,6 +1,6 @@
 ---
 name: animation-vocabulary
-description: Reverse-lookup glossary that turns a vague description of a web animation or motion effect into its exact term ("the bouncy thing when a popover opens" → Pop in; "the iOS rubber-band scroll" → Rubber-banding). Use when the user asks "what's it called when…", or describes a motion effect without knowing its name and wants the right word to prompt an AI or designer with. For naming an effect, not designing or building one.
+description: 反向查询词汇表，把对网页动画或动效的模糊描述转换为确切术语（「弹出层打开时那种弹跳的效果」→ Pop in；「iOS 的橡皮筋滚动」→ Rubber-banding）。当用户问「那种效果叫什么来着……」，或描述某个动效却不知道名称、想要准确的词去提示 AI 或设计师时使用。用于命名效果，而非设计或实现效果。 | Reverse-lookup glossary that turns a vague description of a web animation or motion effect into its exact term ("the bouncy thing when a popover opens" → Pop in; "the iOS rubber-band scroll" → Rubber-banding). Use when the user asks "what's it called when…", or describes a motion effect without knowing its name and wants the right word to prompt an AI or designer with. For naming an effect, not designing or building one.
 ---
 
 # Animation Vocabulary

@@ -1,6 +1,6 @@
 ---
 name: savings-goal-plan
-description: "Turn a savings goal into a month-by-month funding plan. Use when asked to save for something (emergency fund, house deposit, trip, big purchase), or to figure out how much to set aside each month. Produces the required monthly contribution, a timeline, milestones, and trade-offs if the target date is too aggressive. Educational, not regulated financial advice."
+description: "将储蓄目标转化为逐月资金计划。当被要求为某件事储蓄（应急基金、购房首付、旅行、大额消费）或计算每月应存多少时使用。产出所需的月度投入、时间线、里程碑，以及目标日期过于激进时的权衡方案。仅供教育参考，不构成受监管的财务建议。 | Turn a savings goal into a month-by-month funding plan. Use when asked to save for something (emergency fund, house deposit, trip, big purchase), or to figure out how much to set aside each month. Produces the required monthly contribution, a timeline, milestones, and trade-offs if the target date is too aggressive. Educational, not regulated financial advice."
 ---
 
 # Savings Goal Plan Skill

@@ -1,6 +1,6 @@
 ---
 name: rdkit
-description: Cheminformatics toolkit for fine-grained molecular control. SMILES/SDF parsing, descriptors (MW, LogP, TPSA), fingerprints, substructure search, 2D/3D generation, similarity, reactions. For standard workflows with simpler interface, use datamol (wrapper around RDKit). Use rdkit for advanced control, custom sanitization, specialized algorithms.
+description: 面向细粒度分子控制的化学信息学工具包。SMILES 与 SDF 解析、描述符（MW、LogP、TPSA）、分子指纹、子结构搜索、2D 与 3D 生成、相似性、反应。若只需接口更简单的标准工作流，用 datamol（RDKit 的封装）；需要高级控制、自定义净化或专门算法时用 rdkit。 | Cheminformatics toolkit for fine-grained molecular control. SMILES/SDF parsing, descriptors (MW, LogP, TPSA), fingerprints, substructure search, 2D/3D generation, similarity, reactions. For standard workflows with simpler interface, use datamol (wrapper around RDKit). Use rdkit for advanced control, custom sanitization, specialized algorithms.
 license: BSD-3-Clause license
 allowed-tools:
   - Read

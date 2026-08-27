@@ -1,6 +1,6 @@
 ---
 name: dorodango
-description: Polishes working code through successive quality passes in fresh subagents. Use after tests pass when code needs multi-dimension refinement before release.
+description: 通过全新的子智能体进行多轮质量打磨，完善可运行的代码。在测试通过后、代码发布前需要多维度精修时使用。 | Polishes working code through successive quality passes in fresh subagents. Use after tests pass when code needs multi-dimension refinement before release.
 alwaysApply: false
 category: workflow
 tags:

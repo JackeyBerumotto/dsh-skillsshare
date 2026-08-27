@@ -1,6 +1,6 @@
 ---
 name: infra-iac-sst
-description: SST (Ion) infrastructure-as-code — TypeScript-first serverless on AWS with Pulumi, resource linking, and live Lambda dev
+description: SST（Ion）基础设施即代码——基于 Pulumi 的 TypeScript 优先 AWS 无服务器方案，支持资源链接和 Lambda 实时开发。 | SST (Ion) infrastructure-as-code — TypeScript-first serverless on AWS with Pulumi, resource linking, and live Lambda dev
 ---
 
 # SST (Ion) Patterns

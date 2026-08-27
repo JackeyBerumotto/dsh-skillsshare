@@ -1,6 +1,6 @@
 ---
 name: design-it
-description: "Routes frontend design tasks to 48 specific UI styles. Triggers for websites, app screens, or UI components requesting a specific aesthetic."
+description: "将前端设计任务路由到 48 种具体的 UI 风格。当网站、应用页面或 UI 组件请求特定美学风格时触发。 | Routes frontend design tasks to 48 specific UI styles. Triggers for websites, app screens, or UI components requesting a specific aesthetic."
 category: frontend
 risk: safe
 source: self

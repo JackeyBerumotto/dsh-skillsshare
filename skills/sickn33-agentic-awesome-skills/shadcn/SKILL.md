@@ -1,6 +1,6 @@
 ---
 name: shadcn
-description: Manages shadcn/ui components and projects, providing context, documentation, and usage patterns for building modern design systems.
+description: 管理 shadcn/ui 组件与项目，为构建现代设计系统提供上下文、文档与使用模式。 | Manages shadcn/ui components and projects, providing context, documentation, and usage patterns for building modern design systems.
 user-invocable: false
 risk: safe
 source: https://github.com/shadcn-ui/ui/tree/main/skills/shadcn

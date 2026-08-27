@@ -1,6 +1,6 @@
 ---
 name: lambdatest-agent-skills
-description: "Production-grade test automation skills for 46 frameworks across E2E, unit, mobile, BDD, visual, and cloud testing in 15+ languages."
+description: "面向 46 个框架的生产级测试自动化技能，覆盖 E2E、单元、移动、BDD、视觉和云测试，支持 15 种以上语言。 | Production-grade test automation skills for 46 frameworks across E2E, unit, mobile, BDD, visual, and cloud testing in 15+ languages."
 category: testing
 risk: safe
 source: community

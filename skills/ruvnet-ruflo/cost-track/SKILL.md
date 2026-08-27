@@ -1,6 +1,6 @@
 ---
 name: cost-track
-description: Auto-capture per-session token usage from the Claude Code session jsonl and persist to the cost-tracking namespace
+description: 从 Claude Code 会话 jsonl 中自动采集每个会话的 token 用量，并持久化到 cost-tracking 命名空间。 | Auto-capture per-session token usage from the Claude Code session jsonl and persist to the cost-tracking namespace
 argument-hint: ""
 allowed-tools: Bash mcp__claude-flow__memory_store
 ---

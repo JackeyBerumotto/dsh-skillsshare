@@ -1,6 +1,6 @@
 ---
 name: microservices-decomposition
-description: "Design a microservices decomposition for a monolith or new system, defining service boundaries, ownership, communication patterns, and migration plan. Use when asked to decompose a monolith, define service boundaries, design a microservices architecture, or plan a strangler-fig migration. Produces a bounded context map, service inventory table, communication pattern decisions, data ownership matrix, migration roadmap, and risk register."
+description: "为单体系统或新系统设计微服务拆分方案，定义服务边界、所有权、通信模式和迁移计划。当被要求拆分单体应用、定义服务边界、设计微服务架构或规划绞杀者模式迁移时使用。产出限界上下文图、服务清单表、通信模式决策、数据所有权矩阵、迁移路线图和风险登记表。 | Design a microservices decomposition for a monolith or new system, defining service boundaries, ownership, communication patterns, and migration plan. Use when asked to decompose a monolith, define service boundaries, design a microservices architecture, or plan a strangler-fig migration. Produces a bounded context map, service inventory table, communication pattern decisions, data ownership matrix, migration roadmap, and risk register."
 ---
 
 # Microservices Decomposition

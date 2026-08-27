@@ -1,6 +1,6 @@
 ---
 name: flow-nexus-neural
-description: Train and deploy neural networks in distributed E2B sandboxes with Flow Nexus
+description: 使用 Flow Nexus 在分布式 E2B 沙箱中训练并部署神经网络。 | Train and deploy neural networks in distributed E2B sandboxes with Flow Nexus
 ---
 
 # Flow Nexus Neural Networks

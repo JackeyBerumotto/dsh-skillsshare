@@ -1,6 +1,6 @@
 ---
 name: slide-deck
-description: "Build a real, editable PowerPoint (.pptx) deck from an outline or brief. Use when asked to make a slide deck, a PowerPoint, a pitch/board/sales deck as an actual file, or to turn a doc/notes into slides. Produces an actual .pptx via a generated python-pptx script — a title slide, one idea per content slide with a clear headline and concise bullets, and consistent styling. Requires a code-execution environment (Claude Code, the API code tool, or Claude.ai)."
+description: "根据大纲或简介构建真实可编辑的 PowerPoint（.pptx）演示文稿。当被要求制作幻灯片、PowerPoint，以实际文件形式交付路演、董事会或销售演示文稿，或把文档笔记转成幻灯片时使用。通过生成的 python-pptx 脚本产出真实的 .pptx 文件——一张标题页，每张内容页一个观点并配有清晰标题与简洁要点，样式保持一致。需要代码执行环境（Claude Code、API 代码工具或 Claude.ai）。 | Build a real, editable PowerPoint (.pptx) deck from an outline or brief. Use when asked to make a slide deck, a PowerPoint, a pitch/board/sales deck as an actual file, or to turn a doc/notes into slides. Produces an actual .pptx via a generated python-pptx script — a title slide, one idea per content slide with a clear headline and concise bullets, and consistent styling. Requires a code-execution environment (Claude Code, the API code tool, or Claude.ai)."
 ---
 
 # Slide Deck Skill

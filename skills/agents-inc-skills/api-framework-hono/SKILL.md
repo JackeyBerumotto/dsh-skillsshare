@@ -1,6 +1,6 @@
 ---
 name: api-framework-hono
-description: Hono routes, OpenAPI, Zod validation
+description: Hono 路由、OpenAPI、Zod 校验 | Hono routes, OpenAPI, Zod validation
 ---
 
 # API Development with Hono + OpenAPI

@@ -1,6 +1,6 @@
 ---
 name: "senior-prompt-engineer"
-description: Use when the user asks to optimize prompts, design prompt templates, evaluate LLM outputs with an eval set, measure RAG retrieval quality, validate agent/tool configurations, analyze token usage, or design structured-output contracts. Covers eval-driven prompt iteration, RAG metrics (relevance, faithfulness, coverage), agent workflow validation, and token/cost budgeting — all model-agnostic, with three stdlib Python tools.
+description: 当用户要求优化提示词、设计提示词模板、用评估集评估 LLM 输出、测量 RAG 检索质量、验证代理/工具配置、分析 token 用量或设计结构化输出契约时使用。涵盖评估驱动的提示词迭代、RAG 指标（相关性、忠实度、覆盖率）、代理工作流验证以及 token/成本预算——全部与模型无关，附带三个标准库 Python 工具。 | Use when the user asks to optimize prompts, design prompt templates, evaluate LLM outputs with an eval set, measure RAG retrieval quality, validate agent/tool configurations, analyze token usage, or design structured-output contracts. Covers eval-driven prompt iteration, RAG metrics (relevance, faithfulness, coverage), agent workflow validation, and token/cost budgeting — all model-agnostic, with three stdlib Python tools.
 ---
 
 # Senior Prompt Engineer

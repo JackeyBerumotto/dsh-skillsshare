@@ -1,6 +1,6 @@
 ---
 name: agent-context-loader
-description: 'Proactive auto-loading: automatically detects and loads agents.md files Use when appropriate context detected. Trigger with relevant phrases based on skill purpose.
+description: 主动自动加载：自动检测并加载 agents.md 文件。当检测到合适的上下文时使用。基于技能用途以相关短语触发。 | 'Proactive auto-loading: automatically detects and loads agents.md files Use when appropriate context detected. Trigger with relevant phrases based on skill purpose.
 version: 1.0.0
 allowed-tools:
 - Read

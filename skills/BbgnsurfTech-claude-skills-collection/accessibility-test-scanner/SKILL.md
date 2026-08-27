@@ -2,7 +2,7 @@
 name: scanning-accessibility
 version: 1.0.0
 description: |
-  Validate WCAG compliance and accessibility standards (ARIA, keyboard navigation).
+  验证 WCAG 合规和无障碍标准（ARIA、键盘导航）。在审计 WCAG 合规或屏幕阅读器兼容性时使用。触发词如「scan accessibility」「check WCAG compliance」或「validate screen readers」。 |
   Use when auditing WCAG compliance or screen reader compatibility.
   Trigger with phrases like "scan accessibility", "check WCAG compliance", or "validate screen readers".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(test:a11y-*)

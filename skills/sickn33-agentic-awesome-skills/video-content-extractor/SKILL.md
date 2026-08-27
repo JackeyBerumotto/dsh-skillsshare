@@ -1,6 +1,6 @@
 ---
 name: video-content-extractor
-description: "Extract key frames from MP4 videos at configurable intervals, run Tesseract OCR, and generate structured Markdown reports with video metadata and timestamped text transcripts."
+description: "按可配置间隔从 MP4 视频提取关键帧，运行 Tesseract OCR，并生成含视频元数据与带时间戳文本转录的结构化 Markdown 报告。 | Extract key frames from MP4 videos at configurable intervals, run Tesseract OCR, and generate structured Markdown reports with video metadata and timestamped text transcripts."
 category: media-processing
 risk: safe
 source: community

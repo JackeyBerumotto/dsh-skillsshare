@@ -1,6 +1,6 @@
 ---
 name: read-all-adrs
-description: "Read every ADR in a project before summarizing architectural context or decisions."
+description: "在总结架构背景或决策之前，先阅读项目中的每一份 ADR。 | Read every ADR in a project before summarizing architectural context or decisions."
 category: productivity
 risk: safe
 source: community

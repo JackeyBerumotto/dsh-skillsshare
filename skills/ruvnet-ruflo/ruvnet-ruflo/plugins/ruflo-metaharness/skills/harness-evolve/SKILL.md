@@ -1,6 +1,6 @@
 ---
 name: harness-evolve
-description: Run `@metaharness/darwin evolve <repo>` to mutate a harness's seven policy surfaces (planner/contextBuilder/reviewer/retryPolicy/toolPolicy/memoryPolicy/scorePolicy), sandbox-score each variant, and promote only measured wins. The model is frozen; the harness evolves. Closes the loop ADR-150 opens (score+genome describe; evolve changes). Degrades gracefully when @metaharness/darwin is absent (ADR-150 + ADR-153 architectural constraints).
+description: 运行 @metaharness/darwin evolve <repo>，对一个 harness 的七个策略面（planner/contextBuilder/reviewer/retryPolicy/toolPolicy/memoryPolicy/scorePolicy）进行变异，在沙箱中为每个变体打分，只晋升经过实测的改进。模型冻结；harness 进化。闭环 ADR-150 开启的问题（score+genome 只描述；evolve 才改变）。当 @metaharness/darwin 缺失时优雅降级（ADR-150 + ADR-153 架构约束）。 | Run `@metaharness/darwin evolve <repo>` to mutate a harness's seven policy surfaces (planner/contextBuilder/reviewer/retryPolicy/toolPolicy/memoryPolicy/scorePolicy), sandbox-score each variant, and promote only measured wins. The model is frozen; the harness evolves. Closes the loop ADR-150 opens (score+genome describe; evolve changes). Degrades gracefully when @metaharness/darwin is absent (ADR-150 + ADR-153 architectural constraints).
 argument-hint: "--repo <path> [--generations 3] [--children 3] [--concurrency 2] [--sandbox real|mock|agent] [--selection pareto|quality-diversity|...] [--mutator deterministic|ruvllm] [--diagnose] [--confirm]"
 allowed-tools: Bash
 ---

@@ -1,6 +1,6 @@
 ---
 name: "paid-ads"
-description: "When the user wants help with paid advertising campaigns on Google Ads, Meta (Facebook/Instagram), LinkedIn, Twitter/X, or other ad platforms. Also use when the user mentions 'PPC,' 'paid media,' 'ad copy,' 'ad creative,' 'ROAS,' 'CPA,' 'ad campaign,' 'retargeting,' or 'audience targeting.' This skill covers campaign strategy, ad creation, audience targeting, and optimization."
+description: "当用户需要 Google Ads、Meta（Facebook/Instagram）、LinkedIn、Twitter/X 或其他广告平台付费广告活动的帮助时使用。当用户提到「PPC」「paid media」「ad copy」「ad creative」「ROAS」「CPA」「ad campaign」「retargeting」或「audience targeting」时也应使用。本技能涵盖营销活动策略、广告创建、受众定向和优化。 | When the user wants help with paid advertising campaigns on Google Ads, Meta (Facebook/Instagram), LinkedIn, Twitter/X, or other ad platforms. Also use when the user mentions 'PPC,' 'paid media,' 'ad copy,' 'ad creative,' 'ROAS,' 'CPA,' 'ad campaign,' 'retargeting,' or 'audience targeting.' This skill covers campaign strategy, ad creation, audience targeting, and optimization."
 license: MIT
 metadata:
   version: 1.0.0

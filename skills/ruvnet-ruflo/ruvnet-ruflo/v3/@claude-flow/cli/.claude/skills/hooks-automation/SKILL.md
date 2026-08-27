@@ -1,6 +1,6 @@
 ---
 name: Hooks Automation
-description: Automated coordination, formatting, and learning from Claude Code operations using intelligent hooks with MCP integration. Includes pre/post task hooks, session management, Git integration, memory coordination, and neural pattern training for enhanced development workflows.
+description: 利用带 MCP 集成的智能钩子，对 Claude Code 操作进行自动化协调、格式化与学习。包含任务前后钩子、会话管理、Git 集成、记忆协调以及神经模式训练，用于增强开发工作流。 | Automated coordination, formatting, and learning from Claude Code operations using intelligent hooks with MCP integration. Includes pre/post task hooks, session management, Git integration, memory coordination, and neural pattern training for enhanced development workflows.
 ---
 
 # Hooks Automation

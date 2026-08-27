@@ -1,6 +1,6 @@
 ---
 name: n8n-expression-syntax
-description: Validate n8n expression syntax and fix common errors. Use when writing n8n expressions, using {{}} syntax, accessing $json/$node variables, troubleshooting expression errors, or working with webhook data in workflows.
+description: 验证 n8n 表达式语法并修复常见错误。在编写 n8n 表达式、使用 {{}} 语法、访问 $json/$node 变量、排查表达式错误，或在工作流中处理 webhook 数据时使用。 | Validate n8n expression syntax and fix common errors. Use when writing n8n expressions, using {{}} syntax, accessing $json/$node variables, troubleshooting expression errors, or working with webhook data in workflows.
 risk: unknown
 source: community
 ---

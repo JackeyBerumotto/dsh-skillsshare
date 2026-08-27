@@ -1,6 +1,6 @@
 ---
 name: agent-introspection-debugging
-description: Structured self-debugging workflow for AI agent failures using capture, diagnosis, contained recovery, and introspection reports.
+description: 针对 AI 代理故障的结构化自调试工作流，采用捕获、诊断、受控恢复和内省报告。 | Structured self-debugging workflow for AI agent failures using capture, diagnosis, contained recovery, and introspection reports.
 metadata:
   origin: ECC
 ---

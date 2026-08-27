@@ -1,6 +1,6 @@
 ---
 name: hugging-face-gradio
-description: Build Gradio web UIs and demos in Python. Use when creating or editing Gradio apps, components, event listeners, layouts, or chatbots.
+description: 用 Python 构建 Gradio Web 界面与演示。在创建或编辑 Gradio 应用、组件、事件监听器、布局或聊天机器人时使用。 | Build Gradio web UIs and demos in Python. Use when creating or editing Gradio apps, components, event listeners, layouts, or chatbots.
 risk: unknown
 source: https://github.com/huggingface/skills/tree/main/skills/huggingface-gradio
 source_repo: huggingface/skills

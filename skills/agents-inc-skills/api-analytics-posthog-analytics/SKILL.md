@@ -1,6 +1,6 @@
 ---
 name: api-analytics-posthog-analytics
-description: PostHog event tracking, user identification, group analytics for B2B, GDPR consent patterns. Use when implementing product analytics, tracking user behavior, setting up funnels, or configuring privacy-compliant tracking.
+description: PostHog 事件追踪、用户识别、面向 B2B 的群组分析、GDPR 同意模式。在实现产品分析、追踪用户行为、搭建漏斗或配置隐私合规的追踪时使用。 | PostHog event tracking, user identification, group analytics for B2B, GDPR consent patterns. Use when implementing product analytics, tracking user behavior, setting up funnels, or configuring privacy-compliant tracking.
 ---
 
 # PostHog Analytics Patterns

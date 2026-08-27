@@ -1,8 +1,6 @@
 ---
 name: testing-for-open-redirect-vulnerabilities
-description: Identify and test open redirect vulnerabilities in web applications by
-  analyzing URL redirection parameters, bypass techniques, and exploitation chains
-  for phishing and token theft.
+description: "通过分析 URL 重定向参数、绕过技术以及用于钓鱼和令牌窃取的利用链，识别并测试 Web 应用中的开放重定向漏洞。 | Identify and test open redirect vulnerabilities in web applications by analyzing URL redirection parameters, bypass techniques, and exploitation chains for phishing and token theft."
 domain: cybersecurity
 subdomain: web-application-security
 tags:

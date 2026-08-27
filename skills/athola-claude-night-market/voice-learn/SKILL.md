@@ -1,6 +1,6 @@
 ---
 name: voice-learn
-description: Improves a voice profile by learning from manual edits. Use after editing generated text to refine registers and close voice drift over time.
+description: 通过学习手动编辑来改进文风画像。在编辑生成文本后使用，以细化语域并逐步消除文风漂移。 | Improves a voice profile by learning from manual edits. Use after editing generated text to refine registers and close voice drift over time.
 globs: "**/*.{md,txt}"
 alwaysApply: false
 category: writing-quality

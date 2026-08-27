@@ -1,6 +1,6 @@
 ---
 name: vector-cluster
-description: Cluster code by graph community detection via npx ruvector@0.2.25 hooks graph-cluster (spectral / Louvain)
+description: 通过 npx ruvector@0.2.25 hooks graph-cluster（谱聚类或 Louvain）以图社区检测方式对代码聚类 | Cluster code by graph community detection via npx ruvector@0.2.25 hooks graph-cluster (spectral / Louvain)
 argument-hint: "<namespace> [--k N]"
 allowed-tools: Bash Read mcp__claude-flow__memory_search mcp__claude-flow__memory_store mcp__claude-flow__memory_list
 ---

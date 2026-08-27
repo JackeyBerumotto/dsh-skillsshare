@@ -1,6 +1,6 @@
 ---
 name: scanpy
-description: "Scanpy is a scalable Python toolkit for analyzing single-cell RNA-seq data, built on AnnData. Apply this skill for complete single-cell workflows including quality control, normalization, dimensionality reduction, clustering, marker gene identification, visualization, and trajectory analysis."
+description: "Scanpy 是基于 AnnData 构建的可扩展 Python 工具包，用于分析单细胞 RNA 测序数据。将此技能应用于完整单细胞工作流，包括质量控制、归一化、降维、聚类、标志基因识别、可视化和轨迹分析。 | Scanpy is a scalable Python toolkit for analyzing single-cell RNA-seq data, built on AnnData. Apply this skill for complete single-cell workflows including quality control, normalization, dimensionality reduction, clustering, marker gene identification, visualization, and trajectory analysis."
 license: SD-3-Clause license
 metadata:
     skill-author: K-Dense Inc.

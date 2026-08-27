@@ -1,6 +1,6 @@
 ---
 name: git-advanced
-description: Advanced git workflows including worktrees, bisect, interactive rebase, hooks, and recovery techniques
+description: 高级 git 工作流，包括 worktree、bisect、交互式 rebase、钩子和恢复技巧 | Advanced git workflows including worktrees, bisect, interactive rebase, hooks, and recovery techniques
 ---
 
 # Git Advanced

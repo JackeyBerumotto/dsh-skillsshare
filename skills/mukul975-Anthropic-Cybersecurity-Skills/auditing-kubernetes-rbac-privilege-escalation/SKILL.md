@@ -1,6 +1,6 @@
 ---
 name: auditing-kubernetes-rbac-privilege-escalation
-description: Find over-permissive RBAC roles and service-account token abuse paths in Kubernetes using kubectl auth can-i, rbac-police, kubectl-who-can, and rakkess during authorized cluster security reviews.
+description: 在授权的集群安全评审中，使用 kubectl auth can-i、rbac-police、kubectl-who-can 与 rakkess 查找 Kubernetes 中权限过宽的 RBAC 角色与服务账号令牌滥用路径。 | Find over-permissive RBAC roles and service-account token abuse paths in Kubernetes using kubectl auth can-i, rbac-police, kubectl-who-can, and rakkess during authorized cluster security reviews.
 domain: cybersecurity
 subdomain: container-security
 tags:

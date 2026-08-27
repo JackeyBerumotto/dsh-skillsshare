@@ -1,6 +1,6 @@
 ---
 name: firebase-vertex-ai
-description: Firebase platform expert with Vertex AI Gemini integration for Authentication, Firestore, Storage, Functions, Hosting, and AI-powered features. Use when asked to "setup firebase", "deploy to firebase", or "integrate vertex ai with firebase".
+description: Firebase 平台专家，集成 Vertex AI Gemini，覆盖 Authentication、Firestore、Storage、Functions、Hosting 与 AI 驱动功能。当被要求「setup firebase」「deploy to firebase」或「integrate vertex ai with firebase」时使用。 | Firebase platform expert with Vertex AI Gemini integration for Authentication, Firestore, Storage, Functions, Hosting, and AI-powered features. Use when asked to "setup firebase", "deploy to firebase", or "integrate vertex ai with firebase".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash
 license: MIT
 version: 1.0.0

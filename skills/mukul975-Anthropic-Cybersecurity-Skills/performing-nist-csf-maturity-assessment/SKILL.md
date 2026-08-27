@@ -1,10 +1,6 @@
 ---
 name: performing-nist-csf-maturity-assessment
-description: The NIST Cybersecurity Framework (CSF) 2.0, released in February 2024,
-  provides a comprehensive taxonomy for managing cybersecurity risk through six core
-  Functions - Govern, Identify, Protect, Detect, Respond, and Recover. This skill
-  covers conducting a maturity assessment against the CSF using Implementation Tiers
-  to measure organizational cybersecurity posture and create improvement roadmaps.
+description: "NIST 网络安全框架（CSF）2.0 于 2024 年 2 月发布，通过治理（Govern）、识别（Identify）、防护（Protect）、检测（Detect）、响应（Respond）与恢复（Recover）六大核心功能，提供了管理网络安全风险的综合分类体系。本技能涵盖使用实施层级对照 CSF 开展成熟度评估，以衡量组织的网络安全态势并制定改进路线图。 | The NIST Cybersecurity Framework (CSF) 2.0, released in February 2024, provides a comprehensive taxonomy for managing cybersecurity risk through six core Functions - Govern, Identify, Protect, Detect, Respond, and Recover. This skill covers conducting a maturity assessment against the CSF using Implementation Tiers to measure organizational cybersecurity posture and create improvement roadmaps."
 domain: cybersecurity
 subdomain: compliance-governance
 tags:

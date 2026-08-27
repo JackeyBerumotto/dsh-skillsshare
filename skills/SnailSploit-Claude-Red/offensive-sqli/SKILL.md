@@ -1,6 +1,6 @@
 ---
 name: offensive-sqli
-description: "SQL injection testing skill for offensive security assessments and bug bounty hunting. Covers error-based, UNION-based, boolean/time-based blind, out-of-band, second-order, NoSQL, GraphQL, WebSocket, and JSON-operator SQLi. Includes WAF bypass techniques, database-specific exploitation (MySQL, MSSQL, PostgreSQL, Oracle), cloud-native attack paths, ORM CVE tracking, and SQLmap automation. Use when performing web application SQL injection testing, database enumeration, privilege escalation via SQLi, or assessing injection vectors in APIs and modern stacks."
+description: "用于进攻性安全评估和漏洞赏金的 SQL 注入测试技能。覆盖报错型、UNION 型、布尔/时间盲注、带外、二阶、NoSQL、GraphQL、WebSocket 和 JSON 运算符注入。包含 WAF 绕过技术、特定数据库利用（MySQL、MSSQL、PostgreSQL、Oracle）、云原生攻击路径、ORM CVE 跟踪和 SQLmap 自动化。在执行 Web 应用 SQL 注入测试、数据库枚举、通过 SQLi 提权，或评估 API 与现代技术栈中的注入向量时使用。 | SQL injection testing skill for offensive security assessments and bug bounty hunting. Covers error-based, UNION-based, boolean/time-based blind, out-of-band, second-order, NoSQL, GraphQL, WebSocket, and JSON-operator SQLi. Includes WAF bypass techniques, database-specific exploitation (MySQL, MSSQL, PostgreSQL, Oracle), cloud-native attack paths, ORM CVE tracking, and SQLmap automation. Use when performing web application SQL injection testing, database enumeration, privilege escalation via SQLi, or assessing injection vectors in APIs and modern stacks."
 ---
 
 # SQL Injection — Offensive Testing Methodology

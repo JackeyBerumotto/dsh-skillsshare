@@ -1,6 +1,6 @@
 ---
 name: developer-advocacy
-description: When the user wants to do developer advocacy activities including conference talks, live coding, podcasts, and building in public. Trigger phrases include "developer advocacy," "devrel," "conference talk," "CFP," "call for papers," "live coding," "podcast," "building in public,"...
+description: 当用户想要开展开发者布道活动（包括大会演讲、现场编程、播客和公开构建）时使用。触发词包括「developer advocacy」「devrel」「conference talk」「CFP」「call for papers」「live coding」「podcast」「building in public」…… | When the user wants to do developer advocacy activities including conference talks, live coding, podcasts, and building in public. Trigger phrases include "developer advocacy," "devrel," "conference talk," "CFP," "call for papers," "live coding," "podcast," "building in public,"...
 risk: unknown
 source: https://github.com/jonathimer/devmarketing-skills/tree/main/skills/developer-advocacy
 source_repo: jonathimer/devmarketing-skills

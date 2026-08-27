@@ -1,6 +1,6 @@
 ---
 name: matchms
-description: Spectral similarity and compound identification for metabolomics. Use for comparing mass spectra, computing similarity scores (cosine, modified cosine), and identifying unknown compounds from spectral libraries. Best for metabolite identification, spectral matching, library searching. For full LC-MS/MS proteomics pipelines use pyopenms.
+description: 面向代谢组学的谱相似性与化合物鉴定。用于比较质谱、计算相似度得分（余弦、修正余弦）以及从谱库鉴定未知化合物。最适合代谢物鉴定、谱匹配和谱库检索。完整的 LC-MS/MS 蛋白质组学流水线请使用 pyopenms。 | Spectral similarity and compound identification for metabolomics. Use for comparing mass spectra, computing similarity scores (cosine, modified cosine), and identifying unknown compounds from spectral libraries. Best for metabolite identification, spectral matching, library searching. For full LC-MS/MS proteomics pipelines use pyopenms.
 license: Apache-2.0 license
 metadata: {"version": "1.0", "skill-author": "K-Dense Inc."}
 ---

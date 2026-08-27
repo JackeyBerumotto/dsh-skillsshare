@@ -1,12 +1,6 @@
 ---
 name: building-identity-governance-lifecycle-process
-description: 'Builds comprehensive identity governance and lifecycle management processes
-  including joiner-mover-leaver automation, role mining, access request workflows,
-  periodic recertification, and orphaned account remediation using IGA platforms.
-  Activates for requests involving identity lifecycle management, JML processes, role-based
-  access provisioning, or identity governance program design.
-
-  '
+description: "构建全面的身份治理和生命周期管理流程，包括入职、调岗、离职自动化、角色挖掘、访问请求工作流、周期性复核和孤儿账户整改，使用 IGA 平台实现。当请求涉及身份生命周期管理、JML 流程、基于角色的访问配置或身份治理计划设计时激活。 | Builds comprehensive identity governance and lifecycle management processes including joiner-mover-leaver automation, role mining, access request workflows, periodic recertification, and orphaned account remediation using IGA platforms. Activates for requests involving identity lifecycle management, JML processes, role-based access provisioning, or identity governance program design."
 domain: cybersecurity
 subdomain: identity-access-management
 tags:

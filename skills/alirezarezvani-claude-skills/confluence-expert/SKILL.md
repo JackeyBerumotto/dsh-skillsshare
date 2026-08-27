@@ -1,6 +1,6 @@
 ---
 name: "confluence-expert"
-description: Atlassian Confluence expert for creating and managing spaces, knowledge bases, and documentation. Configures space permissions and hierarchies, creates page templates with macros, sets up documentation taxonomies, designs page layouts, and manages content governance. Use when users need to build or restructure a Confluence space, design page hierarchies with permission structures, author or standardise documentation templates, embed Jira reports in pages, run knowledge base audits, or establish documentation standards and collaborative workflows.
+description: Atlassian Confluence 专家，负责创建和管理空间、知识库与文档。配置空间权限与层级、创建带宏的页面模板、搭建文档分类体系、设计页面布局并管理内容治理。当用户需要构建或重组 Confluence 空间、设计带权限结构的页面层级、编写或统一文档模板、在页面中嵌入 Jira 报告、开展知识库审计，或建立文档标准和协作流程时使用。 | Atlassian Confluence expert for creating and managing spaces, knowledge bases, and documentation. Configures space permissions and hierarchies, creates page templates with macros, sets up documentation taxonomies, designs page layouts, and manages content governance. Use when users need to build or restructure a Confluence space, design page hierarchies with permission structures, author or standardise documentation templates, embed Jira reports in pages, run knowledge base audits, or establish documentation standards and collaborative workflows.
 ---
 
 # Atlassian Confluence Expert

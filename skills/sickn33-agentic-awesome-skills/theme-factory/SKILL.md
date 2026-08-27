@@ -1,6 +1,6 @@
 ---
 name: theme-factory
-description: "This skill provides a curated collection of professional font and color themes themes, each with carefully selected color palettes and font pairings. Once a theme is chosen, it can be applied to any artifact."
+description: "此技能提供一组精选的专业字体与配色主题，每个主题都配有精心挑选的调色板和字体搭配。选定主题后，即可将其应用到任何 artifact。 | This skill provides a curated collection of professional font and color themes themes, each with carefully selected color palettes and font pairings. Once a theme is chosen, it can be applied to any artifact."
 risk: unknown
 source: community
 date_added: "2026-02-27"

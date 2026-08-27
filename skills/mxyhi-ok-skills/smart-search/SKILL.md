@@ -1,6 +1,6 @@
 ---
 name: smart-search
-description: 基于 opencli 命令的智能搜索路由器。当用户想要使用 OpenCLI、CLI 或 API 搜索、查询、查找或研究信息时，尤其是涉及指定网站、社交媒体、技术资料、新闻、购物、旅游、求职、金融或中文内容时，务必使用此 skill
+description: 基于 opencli 命令的智能搜索路由器。当用户想要使用 OpenCLI、CLI 或 API 搜索、查询、查找或研究信息时，尤其是涉及指定网站、社交媒体、技术资料、新闻、购物、旅游、求职、金融或中文内容时，务必使用此 skill | Smart search router based on the opencli command. Must be used whenever the user wants to search, query, find, or research information using OpenCLI, a CLI, or an API, especially when it involves specified websites, social media, technical material, news, shopping, travel, job hunting, finance, or Chinese-language content.
 ---
 
 # 智能搜索路由器

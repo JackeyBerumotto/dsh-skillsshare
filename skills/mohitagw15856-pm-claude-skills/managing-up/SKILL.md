@@ -1,6 +1,6 @@
 ---
 name: managing-up
-description: "Work more effectively with your manager — communicate, align, escalate, and get what you need. Use when asked how to manage up, work better with a boss, get buy-in from your manager, escalate without overstepping, or prepare to raise something with leadership. Produces a managing-up plan — what your manager needs and how they operate, how to frame your ask, what to bring vs. escalate, and the message."
+description: "与你的经理更高效地协作——沟通、对齐、上报并获得所需支持。当被问到如何向上管理、如何与上级更好地合作、如何争取经理支持、如何不越界地上报，或准备向高层反映事项时使用。产出一份向上管理计划——你的经理需要什么及其行事方式、如何组织你的诉求、哪些自行处理哪些上报，以及沟通话术。 | Work more effectively with your manager — communicate, align, escalate, and get what you need. Use when asked how to manage up, work better with a boss, get buy-in from your manager, escalate without overstepping, or prepare to raise something with leadership. Produces a managing-up plan — what your manager needs and how they operate, how to frame your ask, what to bring vs. escalate, and the message."
 ---
 
 # Managing Up Skill

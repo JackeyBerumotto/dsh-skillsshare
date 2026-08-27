@@ -1,6 +1,6 @@
 ---
 name: sales-forecasting-model
-description: "Build a structured sales forecast framework for any business or team. Use when asked to build a sales forecast, create a revenue model, project pipeline, or build a bottom-up forecast. Produces a forecast methodology, pipeline model, scenario analysis, and assumption log."
+description: "为任何业务或团队构建结构化的销售预测框架。当被要求做销售预测、创建收入模型、预测销售管线，或构建自下而上的预测时使用。产出预测方法论、管线模型、情景分析与假设日志。 | Build a structured sales forecast framework for any business or team. Use when asked to build a sales forecast, create a revenue model, project pipeline, or build a bottom-up forecast. Produces a forecast methodology, pipeline model, scenario analysis, and assumption log."
 ---
 
 # Sales Forecasting Model Skill

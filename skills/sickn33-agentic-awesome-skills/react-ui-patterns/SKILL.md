@@ -1,6 +1,6 @@
 ---
 name: react-ui-patterns
-description: "Modern React UI patterns for loading states, error handling, and data fetching. Use when building UI components, handling async data, or managing UI states."
+description: "现代 React UI 模式，涵盖加载状态、错误处理与数据获取。在构建 UI 组件、处理异步数据或管理 UI 状态时使用。 | Modern React UI patterns for loading states, error handling, and data fetching. Use when building UI components, handling async data, or managing UI states."
 risk: unknown
 source: community
 date_added: "2026-02-27"

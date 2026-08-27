@@ -1,6 +1,6 @@
 ---
 name: codebase-cleanup-tech-debt
-description: "You are a technical debt expert specializing in identifying, quantifying, and prioritizing technical debt in software projects. Analyze the codebase to uncover debt, assess its impact, and create acti"
+description: "你是技术债专家，专精识别、量化软件项目中的技术债并排定优先级。分析代码库发现技术债、评估其影响，并创建可执行的行动计划。 | You are a technical debt expert specializing in identifying, quantifying, and prioritizing technical debt in software projects. Analyze the codebase to uncover debt, assess its impact, and create acti"
 risk: unknown
 source: community
 date_added: "2026-02-27"

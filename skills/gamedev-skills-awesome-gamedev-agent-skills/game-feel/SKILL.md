@@ -1,7 +1,7 @@
 ---
 name: game-feel
 description: >
-  Add "juice" and game feel that makes actions satisfying — screen shake, hit-stop/freeze
+  添加让动作令人满足的「juice」和游戏手感——屏幕震动、打击停顿或冻结帧、补间缓动、挤压拉伸、击退以及分层视听反馈——作为与检测到的引擎的补间、粒子和相机 API 配合的引擎无关技术。适用于用户提到游戏手感、juice、「让它手感好、有打击感」、屏幕震动、打击停顿、屏幕冻结、缓动、挤压拉伸、顿帧，或命中、跳跃、拾取和死亡时的反馈与打磨时。 |
   frames, tweened/eased motion, squash & stretch, knockback, and layered audio-visual
   feedback — as engine-neutral techniques that pair with the detected engine's tween,
   particle, and camera APIs. Use when the user mentions game feel, juice, "make it feel

@@ -1,6 +1,6 @@
 ---
 name: nextjs-app-router-patterns
-description: "Comprehensive patterns for Next.js 14+ App Router architecture, Server Components, and modern full-stack React development."
+description: "面向 Next.js 14+ App Router 架构、Server Components 和现代全栈 React 开发的综合模式。 | Comprehensive patterns for Next.js 14+ App Router architecture, Server Components, and modern full-stack React development."
 risk: safe
 source: community
 date_added: "2026-02-27"

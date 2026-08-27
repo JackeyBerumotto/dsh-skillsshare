@@ -1,6 +1,6 @@
 ---
 name: gtm-strategy
-description: "Create a go-to-market strategy covering marketing channels, messaging, success metrics, and launch timeline. Use when planning a product launch, creating a GTM plan from scratch, or defining a launch strategy for a new market."
+description: "创建涵盖营销渠道、信息传递、成功指标和发布时间表的上市策略。当规划产品发布、从零制定 GTM 计划，或为新市场定义发布策略时使用。 | Create a go-to-market strategy covering marketing channels, messaging, success metrics, and launch timeline. Use when planning a product launch, creating a GTM plan from scratch, or defining a launch strategy for a new market."
 ---
 # GTM Strategy
 

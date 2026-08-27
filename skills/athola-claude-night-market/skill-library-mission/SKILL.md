@@ -1,6 +1,6 @@
 ---
 name: skill-library-mission
-description: "Build a project skill library in .claude/skills/ via discovery, parallel authoring, and review. Use when packaging tribal knowledge. Do not use for one skill."
+description: "通过发现、并行编写与评审，在 .claude/skills/ 中构建项目技能库。在沉淀团队隐性知识时使用。不要用于单个技能。 | Build a project skill library in .claude/skills/ via discovery, parallel authoring, and review. Use when packaging tribal knowledge. Do not use for one skill."
 alwaysApply: false
 category: workflow-orchestration
 tags:

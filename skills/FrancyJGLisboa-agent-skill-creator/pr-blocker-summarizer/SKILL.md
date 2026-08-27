@@ -1,6 +1,6 @@
 ---
 name: pr-blocker-summarizer
-description: Summarizes open pull requests into a blockers-first standup digest. Activates when the user asks to summarize open PRs, find blocked pull requests, generate a PR standup, or triage review backlog from a PR export.
+description: 将处于打开状态的拉取请求汇总为以阻塞项优先的站会摘要。当用户要求总结打开的 PR、找出被阻塞的拉取请求、生成 PR 站会摘要，或根据 PR 导出数据分诊评审积压时激活。 | Summarizes open pull requests into a blockers-first standup digest. Activates when the user asks to summarize open PRs, find blocked pull requests, generate a PR standup, or triage review backlog from a PR export.
 license: MIT
 metadata:
   author: agent-skill-creator

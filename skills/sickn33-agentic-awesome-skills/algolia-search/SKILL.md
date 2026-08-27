@@ -1,7 +1,6 @@
 ---
 name: algolia-search
-description: Expert patterns for Algolia search implementation, indexing
-  strategies, React InstantSearch, and relevance tuning
+description: "Algolia 搜索实现、索引策略、React InstantSearch 和相关性调优的专家模式。 | Expert patterns for Algolia search implementation, indexing strategies, React InstantSearch, and relevance tuning"
 risk: unknown
 source: vibeship-spawner-skills (Apache 2.0)
 date_added: 2026-02-27

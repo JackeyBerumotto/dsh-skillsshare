@@ -1,6 +1,6 @@
 ---
 name: swift
-description: "Language-specific super-code guidelines for swift."
+description: "面向 swift 的语言级 super-code 编码准则。 | Language-specific super-code guidelines for swift."
 risk: safe
 source: community
 date_added: "2026-06-16"

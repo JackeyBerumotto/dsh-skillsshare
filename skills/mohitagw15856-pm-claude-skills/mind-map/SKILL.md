@@ -1,6 +1,6 @@
 ---
 name: mind-map
-description: "Turn a topic, brainstorm, or document into a structured mind map. Use when asked to brainstorm around a theme, organize ideas, break a topic into branches, or summarize something as a mind map. Produces a ready-to-render Mermaid mindmap (renders live, exportable as PNG/SVG) plus a short note on the structure chosen."
+description: "将主题、头脑风暴或文档转换为结构化思维导图。当被要求围绕某个主题头脑风暴、组织想法、把主题拆分成分支或将内容总结为思维导图时使用。产出可直接渲染的 Mermaid 思维导图（可实时渲染、可导出为 PNG/SVG），并附简短说明解释所选结构。 | Turn a topic, brainstorm, or document into a structured mind map. Use when asked to brainstorm around a theme, organize ideas, break a topic into branches, or summarize something as a mind map. Produces a ready-to-render Mermaid mindmap (renders live, exportable as PNG/SVG) plus a short note on the structure chosen."
 ---
 
 # Mind Map Skill

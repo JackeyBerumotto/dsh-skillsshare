@@ -1,6 +1,6 @@
 ---
 name: google-address-validation-automation
-description: "Automate Google Address Validation tasks via Rube MCP (Composio). Always search tools first for current schemas."
+description: "通过 Rube MCP（Composio）自动化 Google Address Validation 任务。务必先搜索工具以获取最新 schema。 | Automate Google Address Validation tasks via Rube MCP (Composio). Always search tools first for current schemas."
 requires:
   mcp: [rube]
 ---

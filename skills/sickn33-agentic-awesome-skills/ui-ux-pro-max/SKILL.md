@@ -1,6 +1,6 @@
 ---
 name: ui-ux-pro-max
-description: "Comprehensive design guide for web and mobile applications. Use when designing new UI components or pages, choosing color palettes and typography, or reviewing code for UX issues."
+description: "面向 Web 和移动应用的综合设计指南。在设计新 UI 组件或页面、选择配色方案和字体排印，或审查代码中的 UX 问题时使用。 | Comprehensive design guide for web and mobile applications. Use when designing new UI components or pages, choosing color palettes and typography, or reviewing code for UX issues."
 risk: unknown
 source: community
 date_added: "2026-02-27"

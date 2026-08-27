@@ -1,6 +1,6 @@
 ---
 name: browser-record
-description: Open a named, traced browser session into an RVF cognitive container with a ruvector trajectory recording every action
+description: 将一个具名、可追踪的浏览器会话打开到 RVF 认知容器中，并以 ruvector 轨迹记录每一个操作 | Open a named, traced browser session into an RVF cognitive container with a ruvector trajectory recording every action
 argument-hint: "<url-or-task> [--with-dom] [--viewport WxH]"
 allowed-tools: mcp__claude-flow__browser_open mcp__claude-flow__browser_close mcp__claude-flow__browser_session-list mcp__claude-flow__browser_screenshot mcp__claude-flow__browser_snapshot mcp__claude-flow__browser_wait mcp__claude-flow__aidefence_has_pii mcp__claude-flow__aidefence_scan Bash Read Write
 ---

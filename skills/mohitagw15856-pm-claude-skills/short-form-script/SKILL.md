@@ -1,6 +1,6 @@
 ---
 name: short-form-script
-description: "Write a short-form video script for TikTok, Instagram Reels, or YouTube Shorts — built on the hook→retention→payoff structure that drives watch-time. Use when asked to script a Reel, TikTok, Short, or any 15–60s vertical video. Produces a timed script with a 0–3s hook, retention beats with on-screen text and B-roll cues, a payoff, and a CTA — plus a caption and on-screen-text list. Distinct from long-form YouTube scripting."
+description: "为 TikTok、Instagram Reels 或 YouTube Shorts 撰写短视频脚本——基于驱动观看时长的钩子→留存→回报结构。在被要求为 Reel、TikTok、Short 或任何 15-60 秒竖屏视频写脚本时使用。产出带时间轴的脚本——0-3 秒钩子、带屏显文字和 B-roll 提示的留存节拍、回报和 CTA——另附贴文文案和屏显文字清单。与长视频 YouTube 脚本有所区别。 | Write a short-form video script for TikTok, Instagram Reels, or YouTube Shorts — built on the hook→retention→payoff structure that drives watch-time. Use when asked to script a Reel, TikTok, Short, or any 15–60s vertical video. Produces a timed script with a 0–3s hook, retention beats with on-screen text and B-roll cues, a payoff, and a CTA — plus a caption and on-screen-text list. Distinct from long-form YouTube scripting."
 ---
 
 # Short-Form Script Skill

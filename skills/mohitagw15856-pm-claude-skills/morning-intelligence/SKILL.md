@@ -1,6 +1,6 @@
 ---
 name: morning-intelligence
-description: "Interviews you across 15 questions to capture your role, topics, sources, exclusions, and format preferences, then writes a master prompt you can paste into a scheduled task or Claude Code Routine. Use when you want to set up a personalised daily news brief, build a reusable morning news prompt, or create an automated intelligence briefing. Produces a confirmed summary of your preferences, a ready-to-paste master prompt, and setup instructions for both Cowork Scheduled Tasks and Claude Code Routines."
+description: "通过 15 个问题访谈你，捕获你的角色、话题、来源、排除项和格式偏好，然后撰写可粘贴到定时任务或 Claude Code Routine 的主提示词。在你想要设置个性化每日新闻简报、构建可复用的晨间新闻提示词或创建自动化情报简报时使用。产出确认后的偏好摘要、可直接粘贴的主提示词，以及 Cowork Scheduled Tasks 与 Claude Code Routines 的设置说明。 | Interviews you across 15 questions to capture your role, topics, sources, exclusions, and format preferences, then writes a master prompt you can paste into a scheduled task or Claude Code Routine. Use when you want to set up a personalised daily news brief, build a reusable morning news prompt, or create an automated intelligence briefing. Produces a confirmed summary of your preferences, a ready-to-paste master prompt, and setup instructions for both Cowork Scheduled Tasks and Claude Code Routines."
 ---
 
 # Morning Intelligence Skill

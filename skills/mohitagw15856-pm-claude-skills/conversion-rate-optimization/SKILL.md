@@ -1,6 +1,6 @@
 ---
 name: conversion-rate-optimization
-description: "Audit a landing page or funnel step and produce a prioritised CRO test plan. Use when asked to improve conversion rate, audit a landing/signup/checkout page, reduce funnel drop-off, or plan A/B tests for a page. Produces a CRO plan — a heuristic conversion audit, the diagnosed friction, prioritised test hypotheses (ICE), test designs with sample-size math, and the measurement guardrails."
+description: "审计落地页或漏斗环节并生成按优先级排序的 CRO 测试计划。当被要求提升转化率、审计落地页/注册页/结账页、减少漏斗流失或为某个页面规划 A/B 测试时使用。产出一份 CRO 计划——启发式转化审计、诊断出的摩擦点、按优先级排序的测试假设（ICE）、含样本量计算的测试设计以及度量护栏。 | Audit a landing page or funnel step and produce a prioritised CRO test plan. Use when asked to improve conversion rate, audit a landing/signup/checkout page, reduce funnel drop-off, or plan A/B tests for a page. Produces a CRO plan — a heuristic conversion audit, the diagnosed friction, prioritised test hypotheses (ICE), test designs with sample-size math, and the measurement guardrails."
 ---
 
 # Conversion Rate Optimization Skill

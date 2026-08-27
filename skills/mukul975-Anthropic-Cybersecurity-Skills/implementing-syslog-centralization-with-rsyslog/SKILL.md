@@ -1,9 +1,6 @@
 ---
 name: implementing-syslog-centralization-with-rsyslog
-description: Configure rsyslog for centralized log collection with TLS encryption,
-  custom templates, and log rotation. Generates server and client configuration files
-  with GnuTLS stream drivers, x509 certificate authentication, per-host log segregation,
-  and reliable queue settings for high-availability syslog infrastructure.
+description: "配置 rsyslog 进行集中式日志收集，支持 TLS 加密、自定义模板和日志轮转。生成带有 GnuTLS 流驱动、x509 证书认证、按主机日志隔离以及可靠队列设置的服务器和客户端配置文件，构建高可用 syslog 基础设施。 | Configure rsyslog for centralized log collection with TLS encryption, custom templates, and log rotation. Generates server and client configuration files with GnuTLS stream drivers, x509 certificate authentication, per-host log segregation, and reliable queue settings for high-availability syslog infrastructure."
 domain: cybersecurity
 subdomain: security-operations
 tags:

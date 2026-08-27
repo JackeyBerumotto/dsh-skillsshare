@@ -1,6 +1,6 @@
 ---
 name: seo-forensic-incident-response
-description: "Investigate sudden drops in organic traffic or rankings and run a structured forensic SEO incident response with triage, root-cause analysis and recovery plan."
+description: "调查自然流量或排名骤降，并运行结构化的 SEO 取证事件响应，包括分诊、根因分析和恢复计划。 | Investigate sudden drops in organic traffic or rankings and run a structured forensic SEO incident response with triage, root-cause analysis and recovery plan."
 risk: safe
 source: original
 date_added: "2026-02-27"

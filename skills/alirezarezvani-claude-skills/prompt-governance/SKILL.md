@@ -1,6 +1,6 @@
 ---
 name: prompt-governance
-description: "Use when managing prompts in production at scale: versioning prompts, running A/B tests on prompts, building prompt registries, preventing prompt regressions, or creating eval pipelines for production AI features. Triggers: 'manage prompts in production', 'prompt versioning', 'prompt regression', 'prompt A/B test', 'prompt registry', 'eval pipeline'. NOT for writing or improving individual prompts (use senior-prompt-engineer). NOT for RAG pipeline design (use rag-architect). NOT for LLM cost reduction (use llm-cost-optimizer)."
+description: "在大规模管理生产环境中的提示词时使用：提示词版本管理、对提示词运行 A/B 测试、构建提示词注册表、防止提示词回归，或为生产 AI 功能创建评估流水线。触发词：「manage prompts in production」「prompt versioning」「prompt regression」「prompt A/B test」「prompt registry」「eval pipeline」。不用于编写或改进单个提示词（那使用 senior-prompt-engineer）。不用于 RAG 流水线设计（那使用 rag-architect）。不用于降低 LLM 成本（那使用 llm-cost-optimizer）。 | Use when managing prompts in production at scale: versioning prompts, running A/B tests on prompts, building prompt registries, preventing prompt regressions, or creating eval pipelines for production AI features. Triggers: 'manage prompts in production', 'prompt versioning', 'prompt regression', 'prompt A/B test', 'prompt registry', 'eval pipeline'. NOT for writing or improving individual prompts (use senior-prompt-engineer). NOT for RAG pipeline design (use rag-architect). NOT for LLM cost reduction (use llm-cost-optimizer)."
 ---
 
 # Prompt Governance

@@ -1,6 +1,6 @@
 ---
 name: interview-question-bank
-description: "Build a structured, role-specific interview question bank with what good answers look like. Use when asked to create interview questions, an interview guide, a structured interview kit, or competency-based questions for a role. Produces questions mapped to the competencies that matter — behavioral (STAR), role/technical, and values — each with what a strong vs. weak answer shows and follow-up probes, for fair, consistent interviews."
+description: "构建结构化、针对特定岗位的面试题库，并说明优秀回答的样子。当被要求创建面试题、面试指南、结构化面试工具包，或针对某岗位的胜任力问题时使用。产出与关键胜任力对应的题目——行为类（STAR）、岗位与技术类以及价值观类——每题都注明强回答与弱回答分别体现了什么，并附追问要点，帮助实现公平一致的面试。 | Build a structured, role-specific interview question bank with what good answers look like. Use when asked to create interview questions, an interview guide, a structured interview kit, or competency-based questions for a role. Produces questions mapped to the competencies that matter — behavioral (STAR), role/technical, and values — each with what a strong vs. weak answer shows and follow-up probes, for fair, consistent interviews."
 ---
 
 # Interview Question Bank Skill

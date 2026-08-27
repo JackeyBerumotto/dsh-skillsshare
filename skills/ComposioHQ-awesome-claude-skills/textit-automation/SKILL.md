@@ -1,6 +1,6 @@
 ---
 name: textit-automation
-description: "Automate Textit tasks via Rube MCP (Composio). Always search tools first for current schemas."
+description: "通过 Rube MCP（Composio）自动化 Textit 任务。务必先搜索工具以获取最新 schema。 | Automate Textit tasks via Rube MCP (Composio). Always search tools first for current schemas."
 requires:
   mcp: [rube]
 ---

@@ -1,6 +1,6 @@
 ---
 name: prompt-regression-suite
-description: "Design a regression test suite that catches an LLM feature getting worse when the prompt, model, or context changes. Use when asked to stop prompt changes breaking production, set up golden tests or CI gates for an LLM feature, or test a model/prompt upgrade before shipping it. Produces a golden case set, per-case pass criteria, CI gate thresholds, and a triage protocol for failures. For designing first-time evaluation of a new feature use ai-eval-plan instead."
+description: "设计一个回归测试套件，用于捕获 LLM 功能在提示词、模型或上下文变化时出现的劣化。当被要求阻止提示词变更破坏生产环境、为 LLM 功能建立黄金测试集或 CI 门禁，或在上线前测试模型/提示词升级时使用。产出黄金用例集、逐用例通过标准、CI 门禁阈值以及失败分诊协议。若要为新功能设计首次评估，请改用 ai-eval-plan。 | Design a regression test suite that catches an LLM feature getting worse when the prompt, model, or context changes. Use when asked to stop prompt changes breaking production, set up golden tests or CI gates for an LLM feature, or test a model/prompt upgrade before shipping it. Produces a golden case set, per-case pass criteria, CI gate thresholds, and a triage protocol for failures. For designing first-time evaluation of a new feature use ai-eval-plan instead."
 ---
 
 # Prompt Regression Suite Skill

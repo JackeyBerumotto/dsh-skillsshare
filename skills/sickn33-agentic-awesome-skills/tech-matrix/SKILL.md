@@ -1,6 +1,6 @@
 ---
 name: tech-matrix
-description: Reference document for monopoly tech-matrix.
+description: 垄断技术矩阵的参考文档。 | Reference document for monopoly tech-matrix.
 source: community
 risk: safe
 reports-to: monopoly

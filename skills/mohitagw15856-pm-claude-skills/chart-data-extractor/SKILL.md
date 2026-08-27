@@ -1,6 +1,6 @@
 ---
 name: chart-data-extractor
-description: "Extract pixel-level data from an image of a chart or graph and produce a structured data table. Use when asked to extract data from a chart image, transcribe numbers from a graph, digitise a chart, or turn a screenshot of data into a table. Produces a structured table with extracted values, confidence levels, and a reconstructed chart source. Best used with Claude Opus 4.7 or newer for reliable chart data extraction."
+description: "从图表或曲线图图像提取像素级数据并生成结构化数据表。当被要求从图表图像提取数据、从曲线图转写数值、数字化图表或将数据截图转为表格时使用。产出含提取值、置信度与重建图表源的结构化表格。建议搭配 Claude Opus 4.7 或更新版本使用，以获得可靠的图表数据提取。 | Extract pixel-level data from an image of a chart or graph and produce a structured data table. Use when asked to extract data from a chart image, transcribe numbers from a graph, digitise a chart, or turn a screenshot of data into a table. Produces a structured table with extracted values, confidence levels, and a reconstructed chart source. Best used with Claude Opus 4.7 or newer for reliable chart data extraction."
 ---
 
 # Chart Data Extractor Skill

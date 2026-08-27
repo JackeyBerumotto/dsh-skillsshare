@@ -1,6 +1,6 @@
 ---
 name: accint-commitments
-description: Triage acc's open promises and close them with honest real-world verdicts via acc_act(runtime="outcome").
+description: 通过 acc_act(runtime=「outcome」) 分诊 acc 的未结承诺，并以诚实的真实结果将其关闭。 | Triage acc's open promises and close them with honest real-world verdicts via acc_act(runtime="outcome").
 risk: unknown
 source: https://github.com/maxbaluev/accreted-intelligence/tree/main/plugins/claude/skills/commitments
 source_repo: maxbaluev/accreted-intelligence

@@ -1,11 +1,6 @@
 ---
 name: performing-ssl-stripping-attack
-description: 'Simulates SSL stripping attacks using sslstrip, Bettercap, and mitmproxy
-  in authorized environments to test HSTS enforcement, certificate validation, and
-  HTTPS upgrade mechanisms that protect users from downgrade attacks on encrypted
-  connections.
-
-  '
+description: "在经授权的环境中使用 sslstrip、Bettercap 与 mitmproxy 模拟 SSL 剥离攻击，测试 HSTS 强制执行、证书校验以及保护用户免受加密连接降级攻击的 HTTPS 升级机制。 | Simulates SSL stripping attacks using sslstrip, Bettercap, and mitmproxy in authorized environments to test HSTS enforcement, certificate validation, and HTTPS upgrade mechanisms that protect users from downgrade attacks on encrypted connections."
 domain: cybersecurity
 subdomain: network-security
 tags:

@@ -1,6 +1,6 @@
 ---
 name: news-sentiment-engine
-description: Multi-source RSS news aggregation with Claude-powered sentiment analysis and structured briefing output
+description: 多源 RSS 新闻聚合，配合 Claude 驱动的情感分析和结构化简报输出 | Multi-source RSS news aggregation with Claude-powered sentiment analysis and structured briefing output
 category: research
 risk: critical
 source: community

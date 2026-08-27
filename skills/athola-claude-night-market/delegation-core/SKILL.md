@@ -1,6 +1,6 @@
 ---
 name: delegation-core
-description: Delegates tasks to Gemini or Qwen with quota tracking and error handling. Use when tasks exceed context window or need cheaper processing.
+description: 将任务委派给 Gemini 或 Qwen，具备配额跟踪和错误处理。当任务超出上下文窗口或需要更廉价的处理时使用。 | Delegates tasks to Gemini or Qwen with quota tracking and error handling. Use when tasks exceed context window or need cheaper processing.
 alwaysApply: false
 category: delegation-framework
 tags:

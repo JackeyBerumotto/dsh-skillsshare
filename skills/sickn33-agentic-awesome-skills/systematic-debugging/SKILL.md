@@ -1,6 +1,6 @@
 ---
 name: systematic-debugging
-description: "Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes"
+description: "在遇到任何缺陷、测试失败或意外行为时、提出修复方案之前使用。 | Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes"
 risk: unknown
 source: community
 date_added: "2026-02-27"

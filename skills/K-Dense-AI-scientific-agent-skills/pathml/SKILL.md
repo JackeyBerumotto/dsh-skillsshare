@@ -1,6 +1,6 @@
 ---
 name: pathml
-description: Full-featured computational pathology toolkit. Use for advanced WSI analysis including multiplexed immunofluorescence (CODEX, Vectra), nucleus segmentation, tissue graph construction, and ML model training on pathology data. Supports 160+ slide formats. For simple tile extraction from H&E slides, histolab may be simpler.
+description: 功能齐全的计算病理学工具包。用于高级 WSI 分析，包括多重免疫荧光（CODEX、Vectra）、细胞核分割、组织图构建与病理数据 ML 模型训练。支持 160 余种切片格式。若只需从 H&E 切片做简单瓦片提取，histolab 或许更简单。 | Full-featured computational pathology toolkit. Use for advanced WSI analysis including multiplexed immunofluorescence (CODEX, Vectra), nucleus segmentation, tissue graph construction, and ML model training on pathology data. Supports 160+ slide formats. For simple tile extraction from H&E slides, histolab may be simpler.
 license: GPL-2.0 license
 metadata: {"version": "1.0", "skill-author": "K-Dense Inc."}
 ---

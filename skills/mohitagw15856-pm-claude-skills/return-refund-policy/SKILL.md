@@ -1,6 +1,6 @@
 ---
 name: return-refund-policy
-description: "Write a clear, fair returns, refunds & exchanges policy for an online store. Use when asked to write a return policy, refund/exchange policy, or store returns page. Produces a customer-friendly policy — window, conditions, process, refund method/timing, exceptions, and shipping — in plain language that reduces support tickets and builds trust. Not legal advice."
+description: "为网店撰写清晰、公平的退货、退款与换货政策。在被要求编写退货政策、退款/换货政策或店铺退货页面时使用。产出对客户友好的政策——期限、条件、流程、退款方式/时效、例外和运费——用平实语言减少客服工单并建立信任。不构成法律建议。 | Write a clear, fair returns, refunds & exchanges policy for an online store. Use when asked to write a return policy, refund/exchange policy, or store returns page. Produces a customer-friendly policy — window, conditions, process, refund method/timing, exceptions, and shipping — in plain language that reduces support tickets and builds trust. Not legal advice."
 ---
 
 # Return & Refund Policy Skill

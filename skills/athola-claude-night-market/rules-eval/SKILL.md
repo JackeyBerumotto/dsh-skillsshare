@@ -1,6 +1,6 @@
 ---
 name: rules-eval
-description: 'Evaluate Claude Code rules in .claude/rules/. Use for frontmatter, globs, and quality audits.'
+description: '评估 .claude/rules/ 中的 Claude Code 规则。用于 frontmatter、glob 和质量审计。 | Evaluate Claude Code rules in .claude/rules/. Use for frontmatter, globs, and quality audits.'
 alwaysApply: false
 category: rule-management
 tags:

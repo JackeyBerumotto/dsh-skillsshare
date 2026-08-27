@@ -1,6 +1,6 @@
 ---
 name: planning-and-task-breakdown
-description: Breaks work into ordered tasks. Use when you have a spec or clear requirements and need to break work into implementable tasks. Use when a task feels too large to start, when you need to estimate scope, or when parallel work is possible.
+description: 把工作拆解为有序任务。当你已有规格说明或明确需求，需要把工作拆成可实现的任务时使用。当任务大到无从下手、需要估算范围，或存在并行开展的可能时也可使用。 | Breaks work into ordered tasks. Use when you have a spec or clear requirements and need to break work into implementable tasks. Use when a task feels too large to start, when you need to estimate scope, or when parallel work is possible.
 risk: unknown
 source: https://github.com/addyosmani/agent-skills/tree/main/skills/planning-and-task-breakdown
 source_repo: addyosmani/agent-skills

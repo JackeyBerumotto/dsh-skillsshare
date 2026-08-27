@@ -1,6 +1,6 @@
 ---
 name: cost-booster-edit
-description: Apply a simple code transform via agent-booster's WASM engine — sub-millisecond, deterministic, $0 (no LLM call). Companion to cost-booster-route.
+description: 通过 agent-booster 的 WASM 引擎应用简单的代码变换——亚毫秒级、确定性、零成本（不调用 LLM）。cost-booster-route 的配套技能。 | Apply a simple code transform via agent-booster's WASM engine — sub-millisecond, deterministic, $0 (no LLM call). Companion to cost-booster-route.
 argument-hint: "<intent> <file>"
 allowed-tools: Bash
 ---

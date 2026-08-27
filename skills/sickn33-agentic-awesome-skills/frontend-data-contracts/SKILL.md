@@ -1,6 +1,6 @@
 ---
 name: frontend-data-contracts
-description: A portable, framework-agnostic discipline for type safety at the network edge of any React or React Native app. Establishes one typed API client as the single fetch boundary, a parse-don't-validate rule that turns wire JSON into trusted domain types before it enters the app, a single...
+description: 一套可移植、与框架无关的规范，用于任何 React 或 React Native 应用网络边缘的类型安全。确立唯一的类型化 API 客户端作为单一请求边界、一条先解析而非仅校验的规则（在数据进入应用前把线上 JSON 转为可信领域类型）以及单一…… | A portable, framework-agnostic discipline for type safety at the network edge of any React or React Native app. Establishes one typed API client as the single fetch boundary, a parse-don't-validate rule that turns wire JSON into trusted domain types before it enters the app, a single...
 risk: unknown
 source: https://github.com/stareezy-1/frontend-architecture-skill/tree/main/skills/frontend-data-contracts
 source_repo: stareezy-1/frontend-architecture-skill

@@ -1,6 +1,6 @@
 ---
 name: gaia-debugging
-description: Diagnose why a GAIA question failed — extract trace, classify failure mode, and propose a fix. Use when a GAIA benchmark run reports a failed/incorrect task_id and you need to root-cause it before resubmitting.
+description: 诊断 GAIA 题目失败的原因：提取轨迹、归类失效模式并提出修复方案。当 GAIA 基准测试报告某个失败/错误的 task_id，且需要在重新提交前定位根因时使用。 | Diagnose why a GAIA question failed — extract trace, classify failure mode, and propose a fix. Use when a GAIA benchmark run reports a failed/incorrect task_id and you need to root-cause it before resubmitting.
 argument-hint: "<task_id> [--results=<path>]"
 allowed-tools: Bash Read mcp__claude-flow__memory_search mcp__claude-flow__memory_store mcp__claude-flow__agentdb_pattern_search mcp__claude-flow__agentdb_pattern_store
 ---

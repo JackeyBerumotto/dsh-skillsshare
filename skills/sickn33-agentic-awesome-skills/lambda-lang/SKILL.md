@@ -1,6 +1,6 @@
 ---
 name: lambda-lang
-description: "Native agent-to-agent language for compact multi-agent messaging. A shared tongue agents speak directly, not a translation layer. 340+ atoms across 7 domains; 3x smaller than natural language."
+description: "面向紧凑多智能体消息传递的原生智能体间语言。这是智能体直接共用的语言，而非翻译层。覆盖 7 个领域的 340 多个原子，体积比自然语言小 3 倍。 | Native agent-to-agent language for compact multi-agent messaging. A shared tongue agents speak directly, not a translation layer. 340+ atoms across 7 domains; 3x smaller than natural language."
 category: ai-agents
 risk: safe
 source: community

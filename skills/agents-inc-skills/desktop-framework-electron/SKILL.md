@@ -1,6 +1,6 @@
 ---
 name: desktop-framework-electron
-description: Electron process architecture, IPC patterns, preload security, native APIs, packaging and distribution
+description: Electron 进程架构、IPC 模式、preload 安全、原生 API、打包与分发 | Electron process architecture, IPC patterns, preload security, native APIs, packaging and distribution
 ---
 
 # Electron Desktop Applications

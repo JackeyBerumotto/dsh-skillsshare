@@ -1,6 +1,6 @@
 ---
 name: ai-studio-image
-description: Geracao de imagens humanizadas via Google AI Studio (Gemini). Fotos realistas estilo influencer ou educacional com iluminacao natural e imperfeicoes sutis.
+description: 通过 Google AI Studio（Gemini）生成人性化图像。生成影响者风格或教育风格的真实感照片，带自然光照和细微瑕疵。 | Geracao de imagens humanizadas via Google AI Studio (Gemini). Fotos realistas estilo influencer ou educacional com iluminacao natural e imperfeicoes sutis.
 risk: safe
 source: community
 date_added: '2026-03-06'

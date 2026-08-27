@@ -1,6 +1,6 @@
 ---
 name: api-observability-setup-axiom-pino-sentry
-description: Pino, Axiom, Sentry installation - one-time project setup for logging and error tracking with source maps upload
+description: Pino、Axiom、Sentry 安装——用于日志记录和错误跟踪的一次性项目设置，含 source maps 上传 | Pino, Axiom, Sentry installation - one-time project setup for logging and error tracking with source maps upload
 ---
 
 # Observability Setup (Pino + Axiom + Sentry)

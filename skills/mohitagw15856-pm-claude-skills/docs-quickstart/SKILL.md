@@ -1,6 +1,6 @@
 ---
 name: docs-quickstart
-description: "Write a 'get started in 5 minutes' quickstart for a tool, library, or API. Use when asked to write a quickstart, getting-started guide, or onboarding docs for developers. Produces a copy-paste-friendly quickstart that takes a developer from zero to a first working result fast, with install, a minimal working example, and clear next steps."
+description: "为工具、库或 API 撰写「5 分钟入门」快速上手指南。在被要求编写快速上手指南、入门指南或面向开发者的入职文档时使用。产出可直接复制粘贴的快速上手指南，凭安装步骤、最小可运行示例和清晰的后续步骤，让开发者迅速从零到第一个可用结果。 | Write a 'get started in 5 minutes' quickstart for a tool, library, or API. Use when asked to write a quickstart, getting-started guide, or onboarding docs for developers. Produces a copy-paste-friendly quickstart that takes a developer from zero to a first working result fast, with install, a minimal working example, and clear next steps."
 ---
 
 # Docs Quickstart Skill

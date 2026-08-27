@@ -1,6 +1,6 @@
 ---
 name: brooks-lint
-description: "AI code reviewer grounded in classic software engineering books for catching design smells, coupling issues, and architectural risks."
+description: "以经典软件工程书籍为根基的 AI 代码审查者，用于捕捉设计坏味道、耦合问题和架构风险。 | AI code reviewer grounded in classic software engineering books for catching design smells, coupling issues, and architectural risks."
 category: development
 risk: safe
 source: community

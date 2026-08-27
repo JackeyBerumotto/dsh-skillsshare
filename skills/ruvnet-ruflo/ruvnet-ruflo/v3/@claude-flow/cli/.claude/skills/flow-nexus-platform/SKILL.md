@@ -1,7 +1,7 @@
 ---
 name: flow-nexus-platform
 description: |
-  Comprehensive Flow Nexus platform management - authentication, sandboxes, app deployment, payments, and challenges
+  全面的 Flow Nexus 平台管理——身份验证、沙箱、应用部署、支付和挑战赛。 |
 ---
 
 # Flow Nexus Platform Management

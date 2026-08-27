@@ -1,6 +1,6 @@
 ---
 name: research-prompt
-description: "Turn vague research needs into one precise deep-research prompt with context and output criteria."
+description: "把模糊的研究需求转化为一个精确的深度研究提示词，附带上下文和输出标准。 | Turn vague research needs into one precise deep-research prompt with context and output criteria."
 category: research
 risk: safe
 source: community

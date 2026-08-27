@@ -2,7 +2,7 @@
 name: orchestrating-multi-agent-systems
 version: 1.0.0
 description: |
-  Orchestrate multi-agent systems with handoffs, routing, and workflows across AI providers.
+  编排跨 AI 提供商的多智能体系统，支持交接、路由和工作流。在构建需要智能体协作、任务委派或工作流协同的复杂 AI 系统时使用。触发短语如「create multi-agent system」「orchestrate agents」或「coordinate agent workflows」。 |
   Use when building complex AI systems requiring agent collaboration, task delegation, or workflow coordination.
   Trigger with phrases like "create multi-agent system", "orchestrate agents", or "coordinate agent workflows".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(npm:*, node:*)

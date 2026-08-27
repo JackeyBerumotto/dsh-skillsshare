@@ -1,6 +1,6 @@
 ---
 name: fp-pragmatic
-description: A practical, jargon-free guide to functional programming - the 80/20 approach that gets results without the academic overhead
+description: 一份实用、无术语门槛的函数式编程指南——用二八法则拿到结果而不背学术包袱 | A practical, jargon-free guide to functional programming - the 80/20 approach that gets results without the academic overhead
 risk: unknown
 source: community
 version: 1.0.0

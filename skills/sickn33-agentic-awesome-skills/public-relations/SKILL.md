@@ -1,6 +1,6 @@
 ---
 name: public-relations
-description: When the user wants help with public relations, earned media, press coverage, journalist outreach, or media strategy (not pull requests). Also use when the user mentions 'PR,' 'public relations,' 'press,' 'press release,' 'press coverage,' 'media outreach,' 'pitch a journalist,' 'get...
+description: 当用户需要公共关系、赢得媒体、新闻报道、记者外联或媒体策略（而非 pull request）方面的帮助时使用。当用户提到「PR」「public relations」「press」「press release」「press coverage」「media outreach」「pitch a journalist」「get……」时也应使用。 | When the user wants help with public relations, earned media, press coverage, journalist outreach, or media strategy (not pull requests). Also use when the user mentions 'PR,' 'public relations,' 'press,' 'press release,' 'press coverage,' 'media outreach,' 'pitch a journalist,' 'get...
 risk: unknown
 source: https://github.com/coreyhaines31/marketingskills/tree/main/skills/public-relations
 source_repo: coreyhaines31/marketingskills

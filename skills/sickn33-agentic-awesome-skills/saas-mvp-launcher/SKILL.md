@@ -1,6 +1,6 @@
 ---
 name: saas-mvp-launcher
-description: "Use when planning or building a SaaS MVP from scratch. Provides a structured roadmap covering tech stack, architecture, auth, payments, and launch checklist."
+description: "在从零规划或构建 SaaS MVP 时使用。提供覆盖技术栈、架构、认证、支付和发布检查清单的结构化路线图。 | Use when planning or building a SaaS MVP from scratch. Provides a structured roadmap covering tech stack, architecture, auth, payments, and launch checklist."
 risk: safe
 source: community
 date_added: "2026-03-04"

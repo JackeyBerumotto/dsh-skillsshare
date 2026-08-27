@@ -1,8 +1,6 @@
 ---
 name: performing-osint-with-spiderfoot
-description: Automate OSINT collection using SpiderFoot REST API and CLI for target
-  profiling, module-based reconnaissance, and structured result analysis across 200+
-  data sources
+description: "使用 SpiderFoot REST API 和 CLI 自动化 OSINT 收集，进行目标画像、基于模块的侦察，以及对 200 多个数据源的结构化结果分析 | Automate OSINT collection using SpiderFoot REST API and CLI for target profiling, module-based reconnaissance, and structured result analysis across 200+ data sources"
 domain: cybersecurity
 subdomain: threat-intelligence
 tags:

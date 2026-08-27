@@ -1,6 +1,6 @@
 ---
 name: ai-code-review
-description: "Review AI-authored code for its characteristic failure modes — plausible-but-wrong logic, hallucinated APIs, over-engineering, dead scaffolding, and silent security shortcuts. Use when reviewing an AI-generated or heavily AI-assisted PR, when AI-written code keeps shipping subtle bugs, or when setting review standards for a team using coding agents. Produces a focused review with AI-specific findings, verification steps per risk class, and a team checklist for AI-authored changes. For general PR review use code-review-checklist — this skill covers what that one assumes a human wouldn't do."
+description: "审查 AI 编写代码特有的失败模式——看似合理实则错误的逻辑、幻觉 API、过度工程、无用脚手架以及无声的安全捷径。在审查 AI 生成或深度 AI 辅助的 PR、AI 代码反复带出隐蔽缺陷，或为使用编码智能体的团队制定审查标准时使用。产出聚焦式审查：AI 特有的发现、按风险类别划分的验证步骤，以及面向 AI 代码变更的团队检查清单。一般 PR 审查请用 code-review-checklist——本技能覆盖的是该清单假定人类不会去做的部分。 | Review AI-authored code for its characteristic failure modes — plausible-but-wrong logic, hallucinated APIs, over-engineering, dead scaffolding, and silent security shortcuts. Use when reviewing an AI-generated or heavily AI-assisted PR, when AI-written code keeps shipping subtle bugs, or when setting review standards for a team using coding agents. Produces a focused review with AI-specific findings, verification steps per risk class, and a team checklist for AI-authored changes. For general PR review use code-review-checklist — this skill covers what that one assumes a human wouldn't do."
 ---
 
 # AI Code Review Skill

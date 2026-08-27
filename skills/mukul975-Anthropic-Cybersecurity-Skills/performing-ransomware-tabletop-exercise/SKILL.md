@@ -1,14 +1,6 @@
 ---
 name: performing-ransomware-tabletop-exercise
-description: 'Plans and facilitates tabletop exercises simulating ransomware incidents
-  to test organizational readiness, decision-making, and communication procedures.
-  Designs realistic scenarios based on current ransomware threat actors (LockBit,
-  ALPHV/BlackCat, Cl0p), injects covering double extortion, backup destruction, and
-  regulatory notification requirements. Evaluates participant responses against NIST
-  CSF and CISA guidelines. Activates for requests involving ransomware tabletop, incident
-  response exercise, or ransomware readiness drill.
-
-  '
+description: "规划并主持模拟勒索软件事件的桌面演练，检验组织就绪度、决策与沟通流程。基于当前勒索软件威胁行为者（LockBit、ALPHV/BlackCat、Cl0p）设计真实场景，注入内容涵盖双重勒索、备份破坏与监管通报要求。依据 NIST CSF 与 CISA 指南评估参与者的响应。适用于涉及勒索软件桌面演练、事件响应演习或勒索软件就绪度演练的请求。 | Plans and facilitates tabletop exercises simulating ransomware incidents to test organizational readiness, decision-making, and communication procedures. Designs realistic scenarios based on current ransomware threat actors (LockBit, ALPHV/BlackCat, Cl0p), injects covering double extortion, backup destruction, and regulatory notification requirements. Evaluates participant responses against NIST CSF and CISA guidelines. Activates for requests involving ransomware tabletop, incident response exercise, or ransomware readiness drill."
 domain: cybersecurity
 subdomain: ransomware-defense
 tags:

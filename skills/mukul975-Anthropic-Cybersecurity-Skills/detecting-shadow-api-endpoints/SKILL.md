@@ -1,7 +1,6 @@
 ---
 name: detecting-shadow-api-endpoints
-description: Discover and inventory shadow API endpoints that operate outside documented
-  specifications using traffic analysis, code scanning, and API discovery platforms.
+description: "利用流量分析、代码扫描和 API 发现平台，发现并盘点在已文档化规范之外运行的影子 API 端点。 | Discover and inventory shadow API endpoints that operate outside documented specifications using traffic analysis, code scanning, and API discovery platforms."
 domain: cybersecurity
 subdomain: api-security
 tags:

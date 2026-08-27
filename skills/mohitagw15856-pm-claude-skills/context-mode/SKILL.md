@@ -1,6 +1,6 @@
 ---
 name: context-mode
-description: "Keep Claude Code sessions productive across resets with output filtering, session logging, and auto-resume. Use when starting a long or complex coding session, when previous sessions lost context mid-task, or when you need Claude to resume exactly where it left off after a reset. Produces a session.log at the project root, filtered command output that preserves context, and automatic resume of in-progress tasks after any reset."
+description: "通过输出过滤、会话日志和自动恢复，让 Claude Code 会话在多次重置间保持高效。在开始漫长或复杂的编码会话、此前会话在任务中途丢失上下文，或需要 Claude 在重置后从上次中断处精确恢复时使用。在项目根目录生成 session.log，保留上下文的过滤后命令输出，并在任何重置后自动恢复进行中的任务。 | Keep Claude Code sessions productive across resets with output filtering, session logging, and auto-resume. Use when starting a long or complex coding session, when previous sessions lost context mid-task, or when you need Claude to resume exactly where it left off after a reset. Produces a session.log at the project root, filtered command output that preserves context, and automatic resume of in-progress tasks after any reset."
 ---
 
 # Context Mode Skill

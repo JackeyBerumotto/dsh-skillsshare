@@ -1,13 +1,6 @@
 ---
 name: detecting-stuxnet-style-attacks
-description: 'This skill covers detecting sophisticated cyber-physical attacks that
-  follow the Stuxnet attack pattern of modifying PLC logic while spoofing sensor readings
-  to hide the manipulation from operators. It addresses PLC logic integrity monitoring,
-  physics-based process anomaly detection, engineering workstation compromise indicators,
-  USB-borne attack vectors, and multi-stage attack chain detection spanning IT-to-OT
-  lateral movement through to process manipulation.
-
-  '
+description: "本技能涵盖检测遵循 Stuxnet 攻击模式的复杂网络物理攻击，即在篡改 PLC 逻辑的同时伪造传感器读数以向操作员隐藏操纵。内容涉及 PLC 逻辑完整性监控、基于物理的过程异常检测、工程工作站失陷指标、USB 传播的攻击向量，以及覆盖从 IT 到 OT 横向移动直至过程操纵的多阶段攻击链检测。 | This skill covers detecting sophisticated cyber-physical attacks that follow the Stuxnet attack pattern of modifying PLC logic while spoofing sensor readings to hide the manipulation from operators. It addresses PLC logic integrity monitoring, physics-based process anomaly detection, engineering workstation compromise indicators, USB-borne attack vectors, and multi-stage attack chain detection spanning IT-to-OT lateral movement through to process manipulation."
 domain: cybersecurity
 subdomain: ot-ics-security
 tags:

@@ -1,6 +1,6 @@
 ---
 name: "cto-review"
-description: "/cs:cto-review <plan> — Architecture and scaling interrogation. Tech debt, scaling cliffs, team scaling, build-vs-buy. Use when committing to an architecture, planning for 10x load, or weighing a rebuild against a vendor."
+description: "/cs:cto-review <plan>——架构与扩展性审讯：技术债务、扩展悬崖、团队扩张、自建还是购买。适用于确定架构承诺、为十倍负载做规划，或权衡重写与采购供应商方案时。 | /cs:cto-review <plan> — Architecture and scaling interrogation. Tech debt, scaling cliffs, team scaling, build-vs-buy. Use when committing to an architecture, planning for 10x load, or weighing a rebuild against a vendor."
 ---
 
 # /cs:cto-review — CTO Forcing Questions

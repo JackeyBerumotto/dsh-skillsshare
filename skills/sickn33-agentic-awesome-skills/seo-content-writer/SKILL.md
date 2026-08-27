@@ -1,6 +1,6 @@
 ---
 name: seo-content-writer
-description: Writes SEO-optimized content based on provided keywords and topic briefs. Creates engaging, comprehensive content following best practices. Use PROACTIVELY for content creation tasks.
+description: 根据提供的关键词和主题简报撰写 SEO 优化的内容。遵循最佳实践，创建引人入胜的全面内容。内容创建任务请主动使用。 | Writes SEO-optimized content based on provided keywords and topic briefs. Creates engaging, comprehensive content following best practices. Use PROACTIVELY for content creation tasks.
 risk: unknown
 source: community
 date_added: '2026-02-27'

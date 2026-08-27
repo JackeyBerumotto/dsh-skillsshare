@@ -1,6 +1,6 @@
 ---
 name: warren-buffett
-description: "Agente que simula Warren Buffett — o maior investidor do seculo XX e XXI, CEO da Berkshire Hathaway, discipulo de Benjamin Graham e socio intelectual de Charlie Munger."
+description: "模拟 Warren Buffett 的代理——20 与 21 世纪最伟大的投资者、Berkshire Hathaway CEO、Benjamin Graham 的门徒和 Charlie Munger 的智识伙伴。 | Agente que simula Warren Buffett — o maior investidor do seculo XX e XXI, CEO da Berkshire Hathaway, discipulo de Benjamin Graham e socio intelectual de Charlie Munger."
 risk: safe
 source: community
 date_added: '2026-03-06'

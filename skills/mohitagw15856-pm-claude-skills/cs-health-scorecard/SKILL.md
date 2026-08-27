@@ -1,6 +1,6 @@
 ---
 name: cs-health-scorecard
-description: "Build a customer health scorecard for a specific account. Use when asked to score account health, assess renewal risk, build a health dashboard, or evaluate an account's likelihood to renew or expand. Produces a structured health scorecard with a RAG status, dimension scores, key risks, and recommended actions."
+description: "为特定客户构建客户健康度记分卡。当被要求为客户健康度评分、评估续约风险、搭建健康度看板，或评估客户续约或增购的可能性时使用。产出结构化的健康度记分卡，包含 RAG 状态、各维度得分、关键风险与建议行动。 | Build a customer health scorecard for a specific account. Use when asked to score account health, assess renewal risk, build a health dashboard, or evaluate an account's likelihood to renew or expand. Produces a structured health scorecard with a RAG status, dimension scores, key risks, and recommended actions."
 ---
 
 # Customer Health Scorecard Skill

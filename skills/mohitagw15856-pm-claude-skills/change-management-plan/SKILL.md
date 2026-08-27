@@ -1,6 +1,6 @@
 ---
 name: change-management-plan
-description: "Create a structured change management plan for any organisational change. Use when asked to write a change management plan, manage a change initiative, plan a system rollout, or lead an organisational transformation. Produces a plan covering stakeholder analysis, impact assessment, communication strategy, and resistance management."
+description: "为任意组织变革创建结构化的变更管理计划。当被要求撰写变更管理计划、管理变革举措、规划系统上线或领导组织转型时使用。产出一份计划，涵盖干系人分析、影响评估、沟通策略和阻力管理。 | Create a structured change management plan for any organisational change. Use when asked to write a change management plan, manage a change initiative, plan a system rollout, or lead an organisational transformation. Produces a plan covering stakeholder analysis, impact assessment, communication strategy, and resistance management."
 ---
 
 # Change Management Plan Skill

@@ -1,6 +1,6 @@
 ---
 name: instagram-post-downloader
-description: "Download and save Instagram posts as high-resolution files. Use when asked to download, save, or archive an Instagram post, reel thumbnail, or carousel. Produces saved high-res images in a named folder, with carousel slides stitched into a single PDF; supports batch downloading of multiple URLs at once."
+description: "将 Instagram 帖子下载并保存为高分辨率文件。当被要求下载、保存或归档 Instagram 帖子、reel 缩略图或轮播时使用。产出保存在指定命名文件夹中的高分辨率图片，轮播幻灯片会拼接为单个 PDF；支持一次批量下载多个 URL。 | Download and save Instagram posts as high-resolution files. Use when asked to download, save, or archive an Instagram post, reel thumbnail, or carousel. Produces saved high-res images in a named folder, with carousel slides stitched into a single PDF; supports batch downloading of multiple URLs at once."
 ---
 
 # Instagram Post Downloader Skill

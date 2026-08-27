@@ -1,7 +1,7 @@
 ---
 name: "report"
 description: >-
-  Generate test report. Use when user says "test report", "results summary",
+  生成测试报告。当用户说「test report」、「results summary」、「test status」、「show results」、「test dashboard」或「how did tests go」时使用。 |
   "test status", "show results", "test dashboard", or "how did tests go".
 ---
 

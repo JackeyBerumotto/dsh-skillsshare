@@ -1,8 +1,6 @@
 ---
 name: segment-cdp
-description: Expert patterns for Segment Customer Data Platform including
-  Analytics.js, server-side tracking, tracking plans with Protocols, identity
-  resolution, destinations configuration, and data governance best practices.
+description: "Segment 客户数据平台的专家模式，包括 Analytics.js、服务端跟踪、基于 Protocols 的跟踪计划、身份解析、destinations 配置以及数据治理最佳实践。 | Expert patterns for Segment Customer Data Platform including Analytics.js, server-side tracking, tracking plans with Protocols, identity resolution, destinations configuration, and data governance best practices."
 risk: safe
 source: vibeship-spawner-skills (Apache 2.0)
 date_added: 2026-02-27

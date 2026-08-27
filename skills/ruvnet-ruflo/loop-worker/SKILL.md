@@ -1,6 +1,6 @@
 ---
 name: loop-worker
-description: Run Ruflo background workers using Claude Code native /loop scheduling
+description: 使用 Claude Code 原生 /loop 调度运行 Ruflo 后台工作器。 | Run Ruflo background workers using Claude Code native /loop scheduling
 argument-hint: "<worker-name>"
 allowed-tools: Bash(npx *) mcp__claude-flow__hooks_worker-dispatch mcp__claude-flow__hooks_worker-status ScheduleWakeup
 ---

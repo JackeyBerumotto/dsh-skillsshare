@@ -1,6 +1,6 @@
 ---
 name: analytics
-description: When the user wants to set up, improve, or audit analytics tracking and measurement. Also use when the user mentions "set up tracking," "GA4," "Google Analytics," "conversion tracking," "event tracking," "UTM parameters," "tag manager," "GTM," "analytics implementation," "tracking...
+description: 当用户想要设置、改进或审计分析埋点与度量时使用。当用户提到「set up tracking」「GA4」「Google Analytics」「conversion tracking」「event tracking」「UTM parameters」「tag manager」「GTM」「analytics implementation」「tracking……」时也应使用。 | When the user wants to set up, improve, or audit analytics tracking and measurement. Also use when the user mentions "set up tracking," "GA4," "Google Analytics," "conversion tracking," "event tracking," "UTM parameters," "tag manager," "GTM," "analytics implementation," "tracking...
 risk: unknown
 source: https://github.com/coreyhaines31/marketingskills/tree/main/skills/analytics
 source_repo: coreyhaines31/marketingskills

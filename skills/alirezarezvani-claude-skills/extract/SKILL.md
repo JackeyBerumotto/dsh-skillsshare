@@ -1,6 +1,6 @@
 ---
 name: "extract"
-description: "Turn a proven pattern or debugging solution into a standalone reusable skill with SKILL.md, reference docs, and examples. Use when the user runs /si:extract or asks to package a recurring solution from memory into a skill."
+description: "将经过验证的模式或调试解决方案转换为独立的可复用技能，包含 SKILL.md、参考文档和示例。当用户运行 /si:extract 或要求把记忆中反复出现的解决方案打包成技能时使用。 | Turn a proven pattern or debugging solution into a standalone reusable skill with SKILL.md, reference docs, and examples. Use when the user runs /si:extract or asks to package a recurring solution from memory into a skill."
 ---
 
 # /si:extract — Create Skills from Patterns

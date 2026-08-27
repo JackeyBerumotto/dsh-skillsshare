@@ -1,6 +1,6 @@
 ---
 name: system-design-interview
-description: "Structure a complete system design answer for interview questions or real architecture sessions. Use when asked to design a system, answer a system design interview question, or architect a solution at scale. Produces a structured answer covering requirements, capacity estimates, high-level design, component deep-dives, trade-offs, and follow-up considerations."
+description: "为面试题或真实架构评审构建完整的系统设计答案。当被要求设计系统、回答系统设计面试题或进行大规模方案架构设计时使用。产出结构化答案，涵盖需求、容量估算、高层设计、组件深入分析、权衡取舍以及后续考量。 | Structure a complete system design answer for interview questions or real architecture sessions. Use when asked to design a system, answer a system design interview question, or architect a solution at scale. Produces a structured answer covering requirements, capacity estimates, high-level design, component deep-dives, trade-offs, and follow-up considerations."
 ---
 
 # System Design Interview Skill

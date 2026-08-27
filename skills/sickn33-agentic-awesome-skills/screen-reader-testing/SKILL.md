@@ -1,6 +1,6 @@
 ---
 name: screen-reader-testing
-description: "Practical guide to testing web applications with screen readers for comprehensive accessibility validation."
+description: "使用屏幕阅读器测试 Web 应用的实用指南，实现全面的可访问性验证。 | Practical guide to testing web applications with screen readers for comprehensive accessibility validation."
 risk: safe
 source: community
 date_added: "2026-02-27"

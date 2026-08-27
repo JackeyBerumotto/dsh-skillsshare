@@ -1,6 +1,6 @@
 ---
 name: ab-test-setup
-description: "Structured guide for setting up A/B tests with mandatory gates for hypothesis, metrics, and execution readiness."
+description: "A/B 测试搭建的结构化指南，对假设、指标和执行就绪度设有强制门禁。 | Structured guide for setting up A/B tests with mandatory gates for hypothesis, metrics, and execution readiness."
 risk: unknown
 source: community
 date_added: "2026-02-27"

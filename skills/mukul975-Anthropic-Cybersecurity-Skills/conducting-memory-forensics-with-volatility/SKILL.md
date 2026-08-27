@@ -1,13 +1,6 @@
 ---
 name: conducting-memory-forensics-with-volatility
-description: 'Performs memory forensics analysis using Volatility 3 to extract evidence
-  of malware execution, process injection, network connections, and credential theft
-  from RAM dumps captured during incident response. Covers memory acquisition, process
-  analysis, DLL inspection, and malware detection. Activates for requests involving
-  memory forensics, RAM analysis, Volatility framework, memory dump investigation,
-  volatile evidence analysis, or live memory acquisition.
-
-  '
+description: "使用 Volatility 3 执行内存取证分析，从事件响应期间采集的 RAM 转储中提取恶意软件执行、进程注入、网络连接及凭据窃取的证据。涵盖内存采集、进程分析、DLL 检查与恶意软件检测。适用于涉及内存取证、RAM 分析、Volatility 框架、内存转储调查、易失性证据分析或实时内存采集的请求。 | Performs memory forensics analysis using Volatility 3 to extract evidence of malware execution, process injection, network connections, and credential theft from RAM dumps captured during incident response. Covers memory acquisition, process analysis, DLL inspection, and malware detection. Activates for requests involving memory forensics, RAM analysis, Volatility framework, memory dump investigation, volatile evidence analysis, or live memory acquisition."
 domain: cybersecurity
 subdomain: incident-response
 tags:

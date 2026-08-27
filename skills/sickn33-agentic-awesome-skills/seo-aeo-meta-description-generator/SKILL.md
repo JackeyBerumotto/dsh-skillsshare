@@ -1,6 +1,6 @@
 ---
 name: seo-aeo-meta-description-generator
-description: "Writes 3 title tag variants and 3 meta description variants per page with SERP preview, OG tags, and Twitter Card tags. Activate when the user wants to write meta tags, title tags, or social sharing tags for any page."
+description: "为每个页面撰写 3 个标题标签变体和 3 个 meta 描述变体，附 SERP 预览、OG 标签和 Twitter Card 标签。当用户想为任何页面编写 meta 标签、标题标签或社交分享标签时启用。 | Writes 3 title tag variants and 3 meta description variants per page with SERP preview, OG tags, and Twitter Card tags. Activate when the user wants to write meta tags, title tags, or social sharing tags for any page."
 risk: safe
 source: community
 date_added: "2026-04-01"

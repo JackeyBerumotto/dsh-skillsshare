@@ -1,12 +1,6 @@
 ---
 name: managing-cloud-identity-with-okta
-description: 'This skill covers implementing Okta as a centralized identity provider
-  for cloud environments, configuring SSO integration with AWS, Azure, and GCP, deploying
-  phishing- resistant MFA with Okta FastPass, managing lifecycle automation for user
-  provisioning and deprovisioning, and enforcing adaptive access policies based on
-  device posture and risk signals.
-
-  '
+description: "本技能涵盖实施 Okta 作为云环境的集中身份提供方，配置与 AWS、Azure 与 GCP 的 SSO 集成，部署防钓鱼的 Okta FastPass MFA，管理用户开通与注销的生命周期自动化，并基于设备状态与风险信号执行自适应访问策略。 | This skill covers implementing Okta as a centralized identity provider for cloud environments, configuring SSO integration with AWS, Azure, and GCP, deploying phishing- resistant MFA with Okta FastPass, managing lifecycle automation for user provisioning and deprovisioning, and enforcing adaptive access policies based on device posture and risk signals."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

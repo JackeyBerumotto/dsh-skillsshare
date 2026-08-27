@@ -1,6 +1,6 @@
 ---
 name: api-queue-bullmq
-description: Job queues, background processing, and task scheduling with BullMQ v5
+description: 基于 BullMQ v5 的任务队列、后台处理和任务调度。 | Job queues, background processing, and task scheduling with BullMQ v5
 ---
 
 # BullMQ Patterns

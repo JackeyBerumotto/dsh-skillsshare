@@ -1,14 +1,6 @@
 ---
 name: detecting-attacks-on-scada-systems
-description: 'This skill covers detecting cyber attacks targeting Supervisory Control
-  and Data Acquisition (SCADA) systems including man-in-the-middle attacks on industrial
-  protocols, unauthorized command injection into PLCs, HMI compromise, historian data
-  manipulation, and denial-of-service against control system communications. It leverages
-  OT-specific intrusion detection systems, industrial protocol anomaly detection,
-  and process data analytics to identify attacks that traditional IT security tools
-  miss.
-
-  '
+description: "本技能涵盖检测针对监控与数据采集（SCADA）系统的网络攻击，包括针对工业协议的中间人攻击、向 PLC 注入未授权命令、HMI 失陷、历史数据库数据操纵以及针对控制系统通信的拒绝服务。它利用 OT 专用入侵检测系统、工业协议异常检测与过程数据分析，识别传统 IT 安全工具遗漏的攻击。 | This skill covers detecting cyber attacks targeting Supervisory Control and Data Acquisition (SCADA) systems including man-in-the-middle attacks on industrial protocols, unauthorized command injection into PLCs, HMI compromise, historian data manipulation, and denial-of-service against control system communications. It leverages OT-specific intrusion detection systems, industrial protocol anomaly detection, and process data analytics to identify attacks that traditional IT security tools miss."
 domain: cybersecurity
 subdomain: ot-ics-security
 tags:

@@ -1,6 +1,6 @@
 ---
 name: tdd-workflow
-description: "Test-Driven Development workflow principles. RED-GREEN-REFACTOR cycle."
+description: "测试驱动开发工作流原则：RED-GREEN-REFACTOR 循环。 | Test-Driven Development workflow principles. RED-GREEN-REFACTOR cycle."
 risk: unknown
 source: community
 date_added: "2026-02-27"

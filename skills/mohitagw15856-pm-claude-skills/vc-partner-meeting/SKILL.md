@@ -1,6 +1,6 @@
 ---
 name: vc-partner-meeting
-description: "Simulate the VC partner meeting that discusses your pitch after you leave the room — four partner archetypes debate, then write the internal verdict memo. Use when asked how will VCs discuss my pitch, simulate the partner meeting, stress-test my fundraise, or what happens after the pitch. Produces the meeting transcript, the internal fund/pass/track memo, and a debrief listing which objections are fixable before the real meeting."
+description: "模拟你离开房间后讨论你路演的 VC 合伙人会议——四种合伙人原型展开辩论，然后撰写内部结论备忘录。当被问到投资人会怎么讨论我的路演、模拟合伙人会议、压力测试我的融资，或路演之后会发生什么时使用。产出会议记录、内部投资/放弃/跟踪备忘录，以及一份列明哪些异议可在真正会议前修复的复盘。 | Simulate the VC partner meeting that discusses your pitch after you leave the room — four partner archetypes debate, then write the internal verdict memo. Use when asked how will VCs discuss my pitch, simulate the partner meeting, stress-test my fundraise, or what happens after the pitch. Produces the meeting transcript, the internal fund/pass/track memo, and a debrief listing which objections are fixable before the real meeting."
 ---
 
 # VC Partner Meeting Skill

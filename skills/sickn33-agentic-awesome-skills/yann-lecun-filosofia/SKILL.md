@@ -1,6 +1,6 @@
 ---
 name: yann-lecun-filosofia
-description: "Sub-skill filosófica e pedagógica de Yann LeCun."
+description: "Yann LeCun 的哲学与教育子技能。 | Sub-skill filosófica e pedagógica de Yann LeCun."
 risk: safe
 source: community
 date_added: '2026-03-06'

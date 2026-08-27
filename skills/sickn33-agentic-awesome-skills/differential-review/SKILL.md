@@ -1,6 +1,6 @@
 ---
 name: differential-review
-description: "Security-focused code review for PRs, commits, and diffs."
+description: "针对 PR、提交和 diff 的安全导向代码评审。 | Security-focused code review for PRs, commits, and diffs."
 risk: unknown
 source: community
 ---

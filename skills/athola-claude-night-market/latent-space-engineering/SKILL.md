@@ -1,6 +1,6 @@
 ---
 name: latent-space-engineering
-description: Shapes agent behavior via instruction framing and style transfer. Use when composing dispatch prompts or writing skill instructions for parallel review agents.
+description: 通过指令框架和风格迁移塑造代理行为。在为并行评审代理编写派发提示或技能指令时使用。 | Shapes agent behavior via instruction framing and style transfer. Use when composing dispatch prompts or writing skill instructions for parallel review agents.
 alwaysApply: false
 category: methodology
 tags:

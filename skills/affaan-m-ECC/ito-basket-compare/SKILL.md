@@ -1,6 +1,6 @@
 ---
 name: ito-basket-compare
-description: Compare Itô prediction-market baskets against a user's knowledge base, portfolio notes, financial context, watchlist, or research thesis. Use for read-only basket comparison and gap analysis without investment advice or live trading.
+description: 将 Itô 预测市场篮子与用户的知识库、投资组合笔记、财务背景、自选列表或研究论题进行比较。用于只读的篮子比较和缺口分析，不提供投资建议，也不进行实盘交易。 | Compare Itô prediction-market baskets against a user's knowledge base, portfolio notes, financial context, watchlist, or research thesis. Use for read-only basket comparison and gap analysis without investment advice or live trading.
 metadata:
   origin: ECC
 ---

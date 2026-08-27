@@ -1,7 +1,5 @@
 ---
-description: Automatically handles semantic version updates across plugin.json and
-  marketplace catalog when user mentions version bump, update version, or release.
-  ensures version consistency in claude-code-plugins repository.
+description: "当用户提到 version bump、update version 或 release 时，自动处理 plugin.json 和市场目录中的语义化版本更新，确保 claude-code-plugins 仓库中的版本一致性。 | Automatically handles semantic version updates across plugin.json and marketplace catalog when user mentions version bump, update version, or release. ensures version consistency in claude-code-plugins repository."
 allowed-tools:
 - Read
 - Write

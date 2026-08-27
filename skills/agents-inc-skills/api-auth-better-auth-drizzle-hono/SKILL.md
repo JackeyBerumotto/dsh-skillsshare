@@ -1,6 +1,6 @@
 ---
 name: api-auth-better-auth-drizzle-hono
-description: Better Auth patterns, sessions, OAuth
+description: Better Auth 的模式、会话与 OAuth | Better Auth patterns, sessions, OAuth
 ---
 
 # Authentication with Better Auth

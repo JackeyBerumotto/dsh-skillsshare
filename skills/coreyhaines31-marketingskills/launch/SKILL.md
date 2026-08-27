@@ -1,6 +1,6 @@
 ---
 name: launch
-description: "When the user wants to plan a product launch, feature announcement, or release strategy. Also use when the user mentions 'launch,' 'Product Hunt,' 'feature release,' 'announcement,' 'go-to-market,' 'beta launch,' 'early access,' 'waitlist,' 'product update,' 'how do I launch this,' 'launch checklist,' 'GTM plan,' or 'we're about to ship.' Use this whenever someone is preparing to release something publicly. For ongoing marketing after launch, see marketing-ideas. For the offer being launched (bonuses, guarantees, scarcity, naming), see offers."
+description: "当用户想要规划产品发布、功能公告或上线策略时使用。当用户提到「launch」「Product Hunt」「feature release」「announcement」「go-to-market」「beta launch」「early access」「waitlist」「product update」「how do I launch this」「launch checklist」「GTM plan」或「我们马上要发布了」时也应使用。每当有人准备公开发布产品时使用。发布后的持续营销见 marketing-ideas。被发布的报价本身（赠品、保证、稀缺感、命名）见 offers。 | When the user wants to plan a product launch, feature announcement, or release strategy. Also use when the user mentions 'launch,' 'Product Hunt,' 'feature release,' 'announcement,' 'go-to-market,' 'beta launch,' 'early access,' 'waitlist,' 'product update,' 'how do I launch this,' 'launch checklist,' 'GTM plan,' or 'we're about to ship.' Use this whenever someone is preparing to release something publicly. For ongoing marketing after launch, see marketing-ideas. For the offer being launched (bonuses, guarantees, scarcity, naming), see offers."
 metadata:
   version: 2.0.1
 ---

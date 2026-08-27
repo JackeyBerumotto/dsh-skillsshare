@@ -1,6 +1,6 @@
 ---
 name: quarkus-tdd
-description: Test-driven development for Quarkus 3.x LTS using JUnit 5, Mockito, REST Assured, Camel testing, and JaCoCo. Use when adding features, fixing bugs, or refactoring event-driven services.
+description: 基于 JUnit 5、Mockito、REST Assured、Camel 测试和 JaCoCo 的 Quarkus 3.x LTS 测试驱动开发。在添加功能、修复缺陷或重构事件驱动服务时使用。 | Test-driven development for Quarkus 3.x LTS using JUnit 5, Mockito, REST Assured, Camel testing, and JaCoCo. Use when adding features, fixing bugs, or refactoring event-driven services.
 metadata:
   origin: ECC
 ---

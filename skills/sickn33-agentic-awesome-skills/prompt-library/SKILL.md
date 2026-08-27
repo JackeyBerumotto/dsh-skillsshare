@@ -1,6 +1,6 @@
 ---
 name: prompt-library
-description: "A comprehensive collection of battle-tested prompts inspired by [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) and community best practices."
+description: "受 awesome-chatgpt-prompts（https://github.com/f/awesome-chatgpt-prompts）和社区最佳实践启发的一套全面且经过实战检验的提示词合集。 | A comprehensive collection of battle-tested prompts inspired by [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) and community best practices."
 risk: unknown
 source: community
 date_added: "2026-02-27"

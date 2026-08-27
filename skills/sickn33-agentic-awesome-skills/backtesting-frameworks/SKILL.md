@@ -1,6 +1,6 @@
 ---
 name: backtesting-frameworks
-description: "Build robust, production-grade backtesting systems that avoid common pitfalls and produce reliable strategy performance estimates."
+description: "构建健壮的生产级回测系统，避开常见陷阱并产出可靠的策略表现估计。 | Build robust, production-grade backtesting systems that avoid common pitfalls and produce reliable strategy performance estimates."
 risk: safe
 source: community
 date_added: "2026-02-27"

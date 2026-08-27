@@ -1,6 +1,6 @@
 ---
 name: "runbook-generator"
-description: "Generate operational runbooks from a service name — deployment, incident response, maintenance, and rollback workflows. Templated structure customizable per environment. Use when documenting on-call procedures for a new service, standardizing incident response across teams, or producing runbooks before launching to production."
+description: "根据服务名称生成运维手册——部署、事件响应、维护和回滚工作流。模板化结构，可按环境自定义。在为新服务编写值班流程文档、跨团队标准化事件响应，或在上线生产前制作运维手册时使用。 | Generate operational runbooks from a service name — deployment, incident response, maintenance, and rollback workflows. Templated structure customizable per environment. Use when documenting on-call procedures for a new service, standardizing incident response across teams, or producing runbooks before launching to production."
 ---
 
 # Runbook Generator

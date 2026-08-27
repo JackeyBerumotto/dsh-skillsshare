@@ -1,6 +1,6 @@
 ---
 name: azure-appconfiguration-java
-description: Azure App Configuration SDK for Java. Centralized application configuration management with key-value settings, feature flags, and snapshots.
+description: 适用于 Java 的 Azure App Configuration SDK。集中式应用配置管理，支持键值设置、功能开关和快照。 | Azure App Configuration SDK for Java. Centralized application configuration management with key-value settings, feature flags, and snapshots.
 risk: unknown
 source: community
 date_added: '2026-02-27'

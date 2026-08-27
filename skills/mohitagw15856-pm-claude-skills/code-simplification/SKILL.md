@@ -1,6 +1,6 @@
 ---
 name: code-simplification
-description: "Simplify code that works — remove speculative abstraction, dead flexibility, and needless indirection while keeping behaviour identical and verified. Use after a feature lands ('now simplify it'), when AI-generated code arrives over-engineered, when a file has grown hard to follow, or as the cleanup pass before review. Produces a smaller, flatter version with identical behaviour, plus a ledger of what was removed and why it was safe. For finding bugs use code-review-checklist / ai-code-review — this skill assumes it works and makes it simple."
+description: "简化能正常工作的代码——移除投机性抽象、无用的灵活性和不必要的间接层，同时保持行为不变并加以验证。在功能落地后（「现在简化它」）、AI 生成的代码过度设计、文件变得难以跟上，或作为评审前的清理环节时使用。产出行为完全一致的更小、更扁平版本，并附一份记录移除内容及其安全理由的台账。查找 bug 请使用 code-review-checklist / ai-code-review——本技能假设代码可用并使其简洁。 | Simplify code that works — remove speculative abstraction, dead flexibility, and needless indirection while keeping behaviour identical and verified. Use after a feature lands ('now simplify it'), when AI-generated code arrives over-engineered, when a file has grown hard to follow, or as the cleanup pass before review. Produces a smaller, flatter version with identical behaviour, plus a ledger of what was removed and why it was safe. For finding bugs use code-review-checklist / ai-code-review — this skill assumes it works and makes it simple."
 ---
 
 # Code Simplification Skill

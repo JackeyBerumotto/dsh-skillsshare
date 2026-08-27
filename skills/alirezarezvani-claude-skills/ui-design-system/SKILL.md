@@ -1,6 +1,6 @@
 ---
 name: "ui-design-system"
-description: UI design system toolkit for Senior UI Designer including design token generation, component documentation, responsive design calculations, and developer handoff tools. Use when creating design systems, generating design tokens, maintaining visual consistency, or facilitating design-dev collaboration and developer handoff.
+description: 面向资深 UI 设计师的 UI 设计系统工具包，包含设计令牌生成、组件文档、响应式设计计算和开发者交接工具。用于创建设计系统、生成设计令牌、保持视觉一致性，或促进设计-开发协作与开发者交接。 | UI design system toolkit for Senior UI Designer including design token generation, component documentation, responsive design calculations, and developer handoff tools. Use when creating design systems, generating design tokens, maintaining visual consistency, or facilitating design-dev collaboration and developer handoff.
 ---
 
 # UI Design System

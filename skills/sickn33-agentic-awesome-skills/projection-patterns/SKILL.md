@@ -1,6 +1,6 @@
 ---
 name: projection-patterns
-description: "Build read models and projections from event streams. Use when implementing CQRS read sides, building materialized views, or optimizing query performance in event-sourced systems."
+description: "从事件流构建读模型与投影。当实现 CQRS 读侧、构建物化视图，或在事件溯源系统中优化查询性能时使用。 | Build read models and projections from event streams. Use when implementing CQRS read sides, building materialized views, or optimizing query performance in event-sourced systems."
 risk: safe
 source: community
 date_added: "2026-02-27"

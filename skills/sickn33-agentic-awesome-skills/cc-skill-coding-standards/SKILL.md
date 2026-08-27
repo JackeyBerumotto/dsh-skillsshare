@@ -1,6 +1,6 @@
 ---
 name: cc-skill-coding-standards
-description: "Universal coding standards, best practices, and patterns for TypeScript, JavaScript, React, and Node.js development."
+description: "面向 TypeScript、JavaScript、React 和 Node.js 开发的通用编码规范、最佳实践和模式。 | Universal coding standards, best practices, and patterns for TypeScript, JavaScript, React, and Node.js development."
 risk: unknown
 source: community
 date_added: "2026-02-27"

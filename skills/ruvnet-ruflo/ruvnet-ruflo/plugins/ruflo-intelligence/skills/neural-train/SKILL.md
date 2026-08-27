@@ -1,6 +1,6 @@
 ---
 name: neural-train
-description: Train SONA + MicroLoRA neural patterns from successful task completions; runs the DISTILL + CONSOLIDATE phases of the 4-step pipeline
+description: 从成功的任务完成中训练 SONA 与 MicroLoRA 神经模式；运行四步流水线中的 DISTILL 和 CONSOLIDATE 阶段。 | Train SONA + MicroLoRA neural patterns from successful task completions; runs the DISTILL + CONSOLIDATE phases of the 4-step pipeline
 argument-hint: "[--pattern-type coordination|edit|task] [--epochs N] [--microlora]"
 allowed-tools: mcp__claude-flow__neural_train mcp__claude-flow__neural_status mcp__claude-flow__neural_patterns mcp__claude-flow__neural_predict mcp__claude-flow__neural_optimize mcp__claude-flow__neural_compress mcp__claude-flow__hooks_pretrain mcp__claude-flow__hooks_build-agents mcp__claude-flow__hooks_intelligence_trajectory-start mcp__claude-flow__hooks_intelligence_trajectory-step mcp__claude-flow__hooks_intelligence_trajectory-end mcp__claude-flow__hooks_intelligence_pattern-store mcp__claude-flow__hooks_intelligence_learn mcp__claude-flow__hooks_intelligence-reset mcp__claude-flow__ruvllm_sona_create mcp__claude-flow__ruvllm_sona_adapt mcp__claude-flow__ruvllm_microlora_create mcp__claude-flow__ruvllm_microlora_adapt mcp__claude-flow__agentdb_consolidate Bash
 ---

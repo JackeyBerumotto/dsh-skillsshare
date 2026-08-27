@@ -1,6 +1,6 @@
 ---
 name: github-presence
-description: When the user wants to optimize their GitHub profile, README, or project discoverability. Trigger phrases include "GitHub README," "README optimization," "GitHub profile," "GitHub stars," "GitHub discoverability," "awesome lists," or "GitHub marketing."
+description: 当用户想要优化其 GitHub 个人主页、README 或项目可发现性时使用。触发词包括「GitHub README」「README optimization」「GitHub profile」「GitHub stars」「GitHub discoverability」「awesome lists」或「GitHub marketing」。 | When the user wants to optimize their GitHub profile, README, or project discoverability. Trigger phrases include "GitHub README," "README optimization," "GitHub profile," "GitHub stars," "GitHub discoverability," "awesome lists," or "GitHub marketing."
 risk: unknown
 source: https://github.com/jonathimer/devmarketing-skills/tree/main/skills/github-presence
 source_repo: jonathimer/devmarketing-skills

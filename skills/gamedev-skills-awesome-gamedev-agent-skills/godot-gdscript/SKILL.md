@@ -1,7 +1,7 @@
 ---
 name: godot-gdscript
 description: >
-  Write idiomatic GDScript for Godot 4.x: static typing, the node lifecycle
+  为 Godot 4.x 编写地道的 GDScript：静态类型、节点生命周期（_ready/_process/_physics_process）、@export/@onready/@tool 注解、信号，以及用 await 处理异步流程。在 Godot 项目（project.godot）中编辑 .gd 脚本、编写或调试 GDScript，或将 3.x GDScript 移植到 4.x（函数签名、yield 改为 await、export 改为 @export）时使用。 |
   (_ready/_process/_physics_process), @export/@onready/@tool annotations,
   signals, and await for asynchronous flow. Use when editing .gd scripts in a
   Godot project (project.godot), writing or debugging GDScript, or porting 3.x

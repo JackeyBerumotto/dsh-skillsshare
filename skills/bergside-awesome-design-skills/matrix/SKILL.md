@@ -1,6 +1,6 @@
 ---
 name: "matrix"
-description: "A cyber-slick, dark-only Matrix-inspired interface defined by minimalist fashion, high-tech digital elements"
+description: "一款赛博利落、仅深色的 Matrix 风格界面，以极简时尚和高科技数字元素定义 | A cyber-slick, dark-only Matrix-inspired interface defined by minimalist fashion, high-tech digital elements"
 metadata:
   author: typeui.sh
 ---

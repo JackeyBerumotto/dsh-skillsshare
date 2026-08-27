@@ -1,8 +1,6 @@
 ---
 name: file-uploads
-description: Expert at handling file uploads and cloud storage. Covers S3,
-  Cloudflare R2, presigned URLs, multipart uploads, and image optimization.
-  Knows how to handle large files without blocking.
+description: "精通文件上传和云存储处理。涵盖 S3、Cloudflare R2、预签名 URL、分片上传和图片优化。懂得如何在不阻塞的情况下处理大文件。 | Expert at handling file uploads and cloud storage. Covers S3, Cloudflare R2, presigned URLs, multipart uploads, and image optimization. Knows how to handle large files without blocking."
 risk: none
 source: vibeship-spawner-skills (Apache 2.0)
 date_added: 2026-02-27

@@ -1,6 +1,6 @@
 ---
 name: "post-mortem"
-description: "/cs:post-mortem <decision> — Honest retrospective on an executed decision, scored against original assumptions and dissent. Closes the strategic sprint loop. Use when a decision hits its 90-day review checkpoint or its kill criteria trigger — e.g. scoring last quarter's pricing change against its pre-committed success metrics."
+description: "/cs:post-mortem <decision>——对已执行决策的诚实复盘，对照最初的假设和反对意见评分，闭合战略冲刺循环。适用于决策到达九十天审查检查点或触发终止标准时——例如对照预先承诺的成功指标为上季度定价调整评分。 | /cs:post-mortem <decision> — Honest retrospective on an executed decision, scored against original assumptions and dissent. Closes the strategic sprint loop. Use when a decision hits its 90-day review checkpoint or its kill criteria trigger — e.g. scoring last quarter's pricing change against its pre-committed success metrics."
 ---
 
 # /cs:post-mortem — Honest Retrospective

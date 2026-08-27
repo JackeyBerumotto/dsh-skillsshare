@@ -1,6 +1,6 @@
 ---
 name: frontend-lighthouse
-description: "Add a portable Lighthouse CI gate for production frontend builds with Core Web Vitals budgets, category floors, median runs, and CI artifacts."
+description: "为生产前端构建添加可移植的 Lighthouse CI 闸门，支持 Core Web Vitals 预算、类别下限、中位数运行和 CI 产物。 | Add a portable Lighthouse CI gate for production frontend builds with Core Web Vitals budgets, category floors, median runs, and CI artifacts."
 category: frontend
 risk: safe
 source: community

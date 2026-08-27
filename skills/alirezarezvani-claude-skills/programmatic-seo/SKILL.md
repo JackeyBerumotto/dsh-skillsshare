@@ -1,6 +1,6 @@
 ---
 name: "programmatic-seo"
-description: When the user wants to create SEO-driven pages at scale using templates and data. Also use when the user mentions "programmatic SEO," "template pages," "pages at scale," "directory pages," "location pages," "[keyword] + [city] pages," "comparison pages," "integration pages," or "building many pages for SEO." For auditing existing SEO issues, see seo-audit.
+description: 当用户想要使用模板和数据大规模创建 SEO 驱动的页面时使用。当用户提到「programmatic SEO」「template pages」「pages at scale」「directory pages」「location pages」「[keyword] + [city] pages」「comparison pages」「integration pages」或「building many pages for SEO」时也应使用。审计既有 SEO 问题见 seo-audit。 | When the user wants to create SEO-driven pages at scale using templates and data. Also use when the user mentions "programmatic SEO," "template pages," "pages at scale," "directory pages," "location pages," "[keyword] + [city] pages," "comparison pages," "integration pages," or "building many pages for SEO." For auditing existing SEO issues, see seo-audit.
 license: MIT
 metadata:
   version: 1.0.0

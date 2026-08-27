@@ -1,6 +1,6 @@
 ---
 name: azure-maps-search-dotnet
-description: Azure Maps SDK for .NET. Location-based services including geocoding, routing, rendering, geolocation, and weather. Use for address search, directions, map tiles, IP geolocation, and weather data.
+description: 适用于 .NET 的 Azure Maps SDK。基于位置的服务，包括地理编码、路线规划、地图渲染、地理定位和天气。用于地址搜索、路线指引、地图瓦片、IP 地理定位和天气数据。 | Azure Maps SDK for .NET. Location-based services including geocoding, routing, rendering, geolocation, and weather. Use for address search, directions, map tiles, IP geolocation, and weather data.
 risk: unknown
 source: community
 date_added: '2026-02-27'

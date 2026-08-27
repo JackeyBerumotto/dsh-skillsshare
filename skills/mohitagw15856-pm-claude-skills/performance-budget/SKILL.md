@@ -1,6 +1,6 @@
 ---
 name: performance-budget
-description: "Define and document performance budgets for a web service or application. Use when asked to set performance targets, define SLOs for latency or throughput, establish Core Web Vitals targets, create a performance baseline, or document performance regression policy. Produces a structured performance budget covering key user journeys, Core Web Vitals, backend latency SLOs, measurement tooling, CI enforcement, and breach response process."
+description: "为 Web 服务或应用定义并记录性能预算。当被要求设定性能目标、为延迟或吞吐量定义 SLO、确立 Core Web Vitals 目标、创建性能基线或记录性能回归策略时使用。产出结构化的性能预算，涵盖关键用户旅程、Core Web Vitals、后端延迟 SLO、测量工具、CI 强制执行以及超支响应流程。 | Define and document performance budgets for a web service or application. Use when asked to set performance targets, define SLOs for latency or throughput, establish Core Web Vitals targets, create a performance baseline, or document performance regression policy. Produces a structured performance budget covering key user journeys, Core Web Vitals, backend latency SLOs, measurement tooling, CI enforcement, and breach response process."
 ---
 
 # Performance Budget Skill

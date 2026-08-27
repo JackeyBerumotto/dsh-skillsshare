@@ -1,6 +1,6 @@
 ---
 name: version-updates
-description: Bumps versions, updates changelogs, and coordinates version changes across files for releases. Use when preparing a release or bumping the project version.
+description: 为发布版本升级版本号、更新变更日志，并协调跨文件的版本变更。当准备发布或提升项目版本时使用。 | Bumps versions, updates changelogs, and coordinates version changes across files for releases. Use when preparing a release or bumping the project version.
 alwaysApply: false
 category: artifact-generation
 tags:

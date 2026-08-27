@@ -1,8 +1,6 @@
 ---
 name: trigger-dev
-description: Trigger.dev expert for background jobs, AI workflows, and reliable
-  async execution with excellent developer experience and TypeScript-first
-  design.
+description: "Trigger.dev 专家，专注于后台作业、AI 工作流与可靠的异步执行，兼具出色的开发者体验与 TypeScript 优先的设计。 | Trigger.dev expert for background jobs, AI workflows, and reliable async execution with excellent developer experience and TypeScript-first design."
 risk: unknown
 source: vibeship-spawner-skills (Apache 2.0)
 date_added: 2026-02-27

@@ -2,7 +2,7 @@
 name: processing-api-batches
 version: 1.0.0
 description: |
-  Process bulk API requests efficiently with batching, throttling, and parallel execution.
+  通过批处理、限流和并行执行高效处理批量 API 请求。在需要高效处理批量 API 操作时使用。触发短语如「process bulk requests」「batch API calls」或「handle batch operations」。 |
   Use when processing bulk API operations efficiently.
   Trigger with phrases like "process bulk requests", "batch API calls", or "handle batch operations".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(api:batch-*)

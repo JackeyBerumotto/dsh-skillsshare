@@ -1,7 +1,7 @@
 ---
 name: godot-nodes-scenes
 description: >
-  Structure a Godot 4.x project with the scene tree and node composition: build
+  使用场景树和节点组合来构建 Godot 4.x 项目：构建可复用场景、在运行时实例化 PackedScene、安全地遍历场景树，以及注册 autoload 单例。在设计 .tscn 场景、决定如何拆分节点、用 instantiate() 生成实例、配置 autoload，或修复 Godot 项目中的「node not found」或已释放节点错误时使用。 |
   reusable scenes, instance PackedScenes at runtime, navigate the tree safely,
   and register autoload singletons. Use when designing .tscn scenes, deciding how
   to split nodes, spawning instances with instantiate(), wiring autoloads, or

@@ -1,6 +1,6 @@
 ---
 name: response-compression
-description: Compresses verbose responses by removing filler and framing to save 200-400 tokens. Use when responses feel bloated or context is filling fast.
+description: 通过删除填充词和套话压缩冗长的回复，可节省 200-400 个 token。在回复显得臃肿或上下文快速填满时使用。 | Compresses verbose responses by removing filler and framing to save 200-400 tokens. Use when responses feel bloated or context is filling fast.
 alwaysApply: true
 category: optimization
 tags:

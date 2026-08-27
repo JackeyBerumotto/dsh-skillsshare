@@ -1,6 +1,6 @@
 ---
 name: ai-roi-audit
-description: "Audit whether the organisation's AI spend actually paid — measured against baselines, not vendor math or vibes. Use when a CFO asks what the AI tools returned, when renewing AI contracts, when consolidating overlapping AI subscriptions, or to build the measurement plan before the next spend. Produces an ROI audit with per-tool verdicts (keep/consolidate/cut), the honest-measurement method behind each number, and a baseline plan for whatever can't be scored yet. To forecast ROI before an investment use roi-estimator; this skill measures what already happened."
+description: "审计组织的 AI 投入是否真正有回报——以基线衡量，而非供应商的算法或主观感觉。当 CFO 询问 AI 工具的回报、续签 AI 合同、整合重叠的 AI 订阅，或在下一笔投入前制定度量计划时使用。产出 ROI 审计，包含逐工具结论（保留/合并/砍掉）、每个数字背后的诚实度量方法，以及针对暂无法评分项的基线计划。若要在投资前预测 ROI，请使用 roi-estimator；本 skill 度量的是已发生的事实。 | Audit whether the organisation's AI spend actually paid — measured against baselines, not vendor math or vibes. Use when a CFO asks what the AI tools returned, when renewing AI contracts, when consolidating overlapping AI subscriptions, or to build the measurement plan before the next spend. Produces an ROI audit with per-tool verdicts (keep/consolidate/cut), the honest-measurement method behind each number, and a baseline plan for whatever can't be scored yet. To forecast ROI before an investment use roi-estimator; this skill measures what already happened."
 ---
 
 # AI ROI Audit Skill

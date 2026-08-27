@@ -1,7 +1,7 @@
 ---
 name: permission-manager
 version: 1.0.0
-description: "Manage opencode permissions: review always-allow lists, suggest safe read-only commands, configure permission patterns"
+description: "管理 opencode 权限：审查 always-allow 列表、推荐安全的只读命令、配置权限模式。 | Manage opencode permissions: review always-allow lists, suggest safe read-only commands, configure permission patterns"
 risk: critical
 source: community
 source_type: community

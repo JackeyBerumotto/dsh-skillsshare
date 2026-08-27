@@ -1,6 +1,6 @@
 ---
 name: sexual-health-analyzer
-description: Sexual Health Analyzer
+description: 性健康分析器。 | Sexual Health Analyzer
 risk: unknown
 source: community
 ---

@@ -1,6 +1,6 @@
 ---
 name: red-teaming-llms-with-garak
-description: Run NVIDIA garak probe suites against an LLM endpoint to test for jailbreaks, prompt injection, data leakage, and toxic generation, then interpret the hit-rate report for triage and reporting.
+description: 对 LLM 端点运行 NVIDIA garak 探测套件，测试越狱、提示词注入、数据泄漏和毒性生成，然后解读命中率报告用于分诊和汇报。 | Run NVIDIA garak probe suites against an LLM endpoint to test for jailbreaks, prompt injection, data leakage, and toxic generation, then interpret the hit-rate report for triage and reporting.
 domain: cybersecurity
 subdomain: ai-security
 tags:

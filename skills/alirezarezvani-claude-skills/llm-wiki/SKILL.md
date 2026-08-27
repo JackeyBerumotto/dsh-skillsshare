@@ -1,6 +1,6 @@
 ---
 name: llm-wiki
-description: Use when building or maintaining a persistent personal knowledge base (second brain) in Obsidian where an LLM incrementally ingests sources, updates entity/concept pages, maintains cross-references, and keeps a synthesis current. Triggers include "second brain", "Obsidian wiki", "personal knowledge management", "ingest this paper/article/book", "build a research wiki", "compound knowledge", "Memex", or whenever the user wants knowledge to accumulate across sessions instead of being re-derived by RAG on every query.
+description: 在构建或维护 Obsidian 中持久的个人知识库（第二大脑）时使用，由 LLM 逐步摄取来源、更新实体/概念页面、维护交叉引用并保持综合内容不过时。触发词包括「second brain」「Obsidian wiki」「personal knowledge management」「ingest this paper/article/book」「build a research wiki」「compound knowledge」「Memex」，或用户希望知识跨会话累积而非每次查询都由 RAG 重新推导的任何时候。 | Use when building or maintaining a persistent personal knowledge base (second brain) in Obsidian where an LLM incrementally ingests sources, updates entity/concept pages, maintains cross-references, and keeps a synthesis current. Triggers include "second brain", "Obsidian wiki", "personal knowledge management", "ingest this paper/article/book", "build a research wiki", "compound knowledge", "Memex", or whenever the user wants knowledge to accumulate across sessions instead of being re-derived by RAG on every query.
 context: fork
 version: 2.9.0
 author: claude-code-skills

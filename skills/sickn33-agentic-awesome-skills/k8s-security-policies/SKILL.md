@@ -1,6 +1,6 @@
 ---
 name: k8s-security-policies
-description: "Comprehensive guide for implementing NetworkPolicy, PodSecurityPolicy, RBAC, and Pod Security Standards in Kubernetes."
+description: "在 Kubernetes 中实现 NetworkPolicy、PodSecurityPolicy、RBAC 和 Pod Security Standards 的综合指南。 | Comprehensive guide for implementing NetworkPolicy, PodSecurityPolicy, RBAC, and Pod Security Standards in Kubernetes."
 risk: unknown
 source: community
 date_added: "2026-02-27"

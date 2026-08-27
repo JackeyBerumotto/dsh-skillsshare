@@ -1,8 +1,6 @@
 ---
 name: building-classification-models
-description: Build and evaluate classification models for supervised learning tasks
-  with labeled data. Use when requesting "build a classifier", "create classification
-  model", or "train classifier".
+description: "使用标注数据为监督学习任务构建和评估分类模型。当请求「build a classifier」「create classification model」或「train classifier」时使用。 | Build and evaluate classification models for supervised learning tasks with labeled data. Use when requesting \"build a classifier\", \"create classification model\", or \"train classifier\"."
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash
 license: MIT
 ---

@@ -1,6 +1,6 @@
 ---
 name: pr-crisis-response
-description: "Build a crisis communications plan to respond fast and credibly when something goes wrong. Use when asked to handle a PR crisis, draft a crisis comms plan, respond to a public backlash/scandal/incident, or prepare holding statements. Produces a crisis comms plan — situation assessment, stakeholder map, a message house, channel-by-channel statements, a holding statement, an internal brief, and a follow-up timeline."
+description: "构建危机沟通计划，以便在出问题时快速、可信地应对。当被要求处理公关危机、起草危机沟通计划、回应公众抨击、丑闻或突发事件，或准备口径声明时使用。产出危机沟通计划——态势评估、利益相关者地图、信息屋、分渠道声明、口径声明、内部简报，以及后续跟进时间线。 | Build a crisis communications plan to respond fast and credibly when something goes wrong. Use when asked to handle a PR crisis, draft a crisis comms plan, respond to a public backlash/scandal/incident, or prepare holding statements. Produces a crisis comms plan — situation assessment, stakeholder map, a message house, channel-by-channel statements, a holding statement, an internal brief, and a follow-up timeline."
 ---
 
 # PR Crisis Response Skill

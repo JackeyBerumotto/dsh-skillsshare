@@ -1,6 +1,6 @@
 ---
 name: uv-package-manager
-description: "Comprehensive guide to using uv, an extremely fast Python package installer and resolver written in Rust, for modern Python project management and dependency workflows."
+description: "全面讲解 uv 的使用指南——一个用 Rust 编写的极速 Python 包安装器和解析器——用于现代 Python 项目管理与依赖工作流。 | Comprehensive guide to using uv, an extremely fast Python package installer and resolver written in Rust, for modern Python project management and dependency workflows."
 risk: safe
 source: community
 date_added: "2026-02-27"

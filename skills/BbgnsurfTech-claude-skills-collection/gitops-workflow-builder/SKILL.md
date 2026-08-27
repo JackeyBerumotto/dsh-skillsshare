@@ -1,5 +1,5 @@
 ---
-description: Use when constructing GitOps workflows using ArgoCD or Flux. Trigger with phrases like "create GitOps workflow", "setup ArgoCD", "configure Flux", or "automate Kubernetes deployments". Generates production-ready configurations, implements best practices, and ensures security-first approach for continuous deployment.
+description: 在使用 ArgoCD 或 Flux 构建 GitOps 工作流时使用。触发词如「create GitOps workflow」「setup ArgoCD」「configure Flux」或「automate Kubernetes deployments」。生成生产级配置，实施最佳实践，并确保以安全优先的方式持续部署。 | Use when constructing GitOps workflows using ArgoCD or Flux. Trigger with phrases like "create GitOps workflow", "setup ArgoCD", "configure Flux", or "automate Kubernetes deployments". Generates production-ready configurations, implements best practices, and ensures security-first approach for continuous deployment.
 allowed-tools:
 - Read
 - Write

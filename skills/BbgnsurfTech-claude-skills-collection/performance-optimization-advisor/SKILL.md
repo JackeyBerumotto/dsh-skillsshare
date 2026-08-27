@@ -1,6 +1,6 @@
 ---
 name: providing-performance-optimization-advice
-description: Provide comprehensive prioritized performance optimization recommendations for frontend, backend, and infrastructure. Use when analyzing bottlenecks or seeking improvement strategies. Trigger with phrases like "optimize performance", "improve speed", or "performance recommendations".
+description: 为前端、后端和基础设施提供全面且分优先级的性能优化建议。在分析瓶颈或寻求改进策略时使用。触发短语如「optimize performance」「improve speed」或「performance recommendations」。 | Provide comprehensive prioritized performance optimization recommendations for frontend, backend, and infrastructure. Use when analyzing bottlenecks or seeking improvement strategies. Trigger with phrases like "optimize performance", "improve speed", or "performance recommendations".
 version: 1.0.0
 allowed-tools:
 - Read

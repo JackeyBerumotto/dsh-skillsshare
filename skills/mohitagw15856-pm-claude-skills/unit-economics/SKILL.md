@@ -1,6 +1,6 @@
 ---
 name: unit-economics
-description: "Model the unit economics of a business — CAC, LTV, payback, contribution margin — from real inputs. Use when asked to calculate unit economics, work out LTV:CAC, find the payback period, or check whether a business model is viable per customer. Produces a computed unit-economics summary (LTV, CAC, ratio, payback, contribution margin) with a verdict and the levers that move it most."
+description: "从真实输入出发为业务单位经济建模——CAC、LTV、回本期、边际贡献。当被要求计算单位经济、求 LTV:CAC、找出回本周期，或检验商业模式对单个客户是否可行时使用。产出计算好的单位经济摘要（LTV、CAC、比率、回本期、边际贡献），附结论以及影响最大的杠杆。 | Model the unit economics of a business — CAC, LTV, payback, contribution margin — from real inputs. Use when asked to calculate unit economics, work out LTV:CAC, find the payback period, or check whether a business model is viable per customer. Produces a computed unit-economics summary (LTV, CAC, ratio, payback, contribution margin) with a verdict and the levers that move it most."
 ---
 
 # Unit Economics Skill

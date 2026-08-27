@@ -1,14 +1,6 @@
 ---
 name: managing-intelligence-lifecycle
-description: 'Manages the end-to-end cyber threat intelligence lifecycle from planning
-  and direction through collection, processing, analysis, dissemination, and feedback
-  to ensure intelligence products meet stakeholder requirements and continuously improve.
-  Use when establishing or maturing a CTI program, defining intelligence requirements
-  with business stakeholders, or building feedback loops between intelligence consumers
-  and producers. Activates for requests involving CTI program maturity, intelligence
-  requirements, PIRs, or intelligence lifecycle management.
-
-  '
+description: "管理从规划与方向设定到收集、处理、分析、分发和反馈的端到端网络威胁情报生命周期，确保情报产品满足利益相关者需求并持续改进。适用于建立或成熟化 CTI 计划、与业务利益相关者定义情报需求，或在情报消费者与生产者之间建立反馈闭环时使用。当请求涉及 CTI 计划成熟度、情报需求、PIR 或情报生命周期管理时激活。 | Manages the end-to-end cyber threat intelligence lifecycle from planning and direction through collection, processing, analysis, dissemination, and feedback to ensure intelligence products meet stakeholder requirements and continuously improve. Use when establishing or maturing a CTI program, defining intelligence requirements with business stakeholders, or building feedback loops between intelligence consumers and producers. Activates for requests involving CTI program maturity, intelligence requirements, PIRs, or intelligence lifecycle management."
 domain: cybersecurity
 subdomain: threat-intelligence
 tags:

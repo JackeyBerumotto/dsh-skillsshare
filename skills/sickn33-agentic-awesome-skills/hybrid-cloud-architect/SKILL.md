@@ -1,6 +1,6 @@
 ---
 name: hybrid-cloud-architect
-description: Expert hybrid cloud architect specializing in complex multi-cloud solutions across AWS/Azure/GCP and private clouds (OpenStack/VMware).
+description: 资深混合云架构师，专注横跨 AWS/Azure/GCP 与私有云（OpenStack/VMware）的复杂多云解决方案。 | Expert hybrid cloud architect specializing in complex multi-cloud solutions across AWS/Azure/GCP and private clouds (OpenStack/VMware).
 risk: unknown
 source: community
 date_added: '2026-02-27'

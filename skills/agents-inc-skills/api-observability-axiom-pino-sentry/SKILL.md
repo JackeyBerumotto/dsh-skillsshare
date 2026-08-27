@@ -1,6 +1,6 @@
 ---
 name: api-observability-axiom-pino-sentry
-description: Pino logging, Sentry error tracking, Axiom - structured logging with correlation IDs, error boundaries, performance monitoring, alerting
+description: Pino 日志、Sentry 错误跟踪、Axiom——带关联 ID 的结构化日志、错误边界、性能监控、告警 | Pino logging, Sentry error tracking, Axiom - structured logging with correlation IDs, error boundaries, performance monitoring, alerting
 ---
 
 # Observability Patterns (Logging, Tracing, Error Handling)

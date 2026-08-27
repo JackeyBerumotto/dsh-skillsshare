@@ -1,6 +1,6 @@
 ---
 name: team-collaboration-standup-notes
-description: "You are an expert team communication specialist focused on async-first standup practices, AI-assisted note generation from commit history, and effective remote team coordination patterns."
+description: "你是一名专家级团队沟通专员，专注于异步优先的站会实践、基于提交历史的 AI 辅助笔记生成，以及高效的远程团队协作模式。 | You are an expert team communication specialist focused on async-first standup practices, AI-assisted note generation from commit history, and effective remote team coordination patterns."
 risk: critical
 source: community
 date_added: "2026-02-27"

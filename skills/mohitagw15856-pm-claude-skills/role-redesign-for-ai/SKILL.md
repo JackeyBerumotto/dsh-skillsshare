@@ -1,6 +1,6 @@
 ---
 name: role-redesign-for-ai
-description: "Redesign a job role that AI now does a large part of — deliberately, instead of quietly expecting the same headcount to absorb 140% output. Use when AI has changed what a role spends time on, when writing a revised role charter or job description post-AI, when a team asks 'what is my job now', or when planning capacity after AI adoption. Produces a role redesign: the task inventory before/after, the redefined core of the role, new expectations and metrics, and the growth-path implications. For hiring rubrics use hiring-rubric; for org-wide skills planning use ai-upskilling or career-ladder-map."
+description: "有意地重新设计一个如今大部分工作已由 AI 完成的岗位，而不是默默指望同样的人数消化 140% 的产出。当 AI 改变了岗位的时间分配、在撰写 AI 之后的岗位章程或职位描述、团队问「我现在的工作是什么」，或在 AI 落地后规划人力时使用。产出岗位再设计：前后任务清单、重新定义的岗位核心、新的期望与指标，以及成长路径影响。招聘评分标准请用 hiring-rubric；全组织技能规划请用 ai-upskilling 或 career-ladder-map。 | Redesign a job role that AI now does a large part of — deliberately, instead of quietly expecting the same headcount to absorb 140% output. Use when AI has changed what a role spends time on, when writing a revised role charter or job description post-AI, when a team asks 'what is my job now', or when planning capacity after AI adoption. Produces a role redesign: the task inventory before/after, the redefined core of the role, new expectations and metrics, and the growth-path implications. For hiring rubrics use hiring-rubric; for org-wide skills planning use ai-upskilling or career-ladder-map."
 ---
 
 # Role Redesign For AI Skill

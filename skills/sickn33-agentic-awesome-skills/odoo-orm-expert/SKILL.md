@@ -1,6 +1,6 @@
 ---
 name: odoo-orm-expert
-description: "Master Odoo ORM patterns: search, browse, create, write, domain filters, computed fields, and performance-safe query techniques."
+description: "掌握 Odoo ORM 模式：search、browse、create、write、domain 过滤器、计算字段与性能安全的查询技术。 | Master Odoo ORM patterns: search, browse, create, write, domain filters, computed fields, and performance-safe query techniques."
 risk: safe
 source: "self"
 ---

@@ -1,8 +1,6 @@
 ---
 name: building-attack-pattern-library-from-cti-reports
-description: Extract and catalog attack patterns from cyber threat intelligence reports
-  into a structured STIX-based library mapped to MITRE ATT&CK for detection engineering
-  and threat-informed defense.
+description: "从网络威胁情报报告中提取攻击模式，编目为映射到 MITRE ATT&CK 的结构化 STIX 库，用于检测工程和威胁知情防御。 | Extract and catalog attack patterns from cyber threat intelligence reports into a structured STIX-based library mapped to MITRE ATT&CK for detection engineering and threat-informed defense."
 domain: cybersecurity
 subdomain: threat-intelligence
 tags:

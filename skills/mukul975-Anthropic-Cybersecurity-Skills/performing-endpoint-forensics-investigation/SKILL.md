@@ -1,12 +1,6 @@
 ---
 name: performing-endpoint-forensics-investigation
-description: 'Performs digital forensics investigation on compromised endpoints including
-  memory acquisition, disk imaging, artifact analysis, and timeline reconstruction.
-  Use when investigating security incidents, collecting evidence for legal proceedings,
-  or analyzing endpoint compromise scope. Activates for requests involving endpoint
-  forensics, memory analysis, disk forensics, or incident investigation.
-
-  '
+description: "对被入侵终端执行数字取证调查，包括内存采集、磁盘镜像、痕迹分析与时间线重建。在调查安全事件、为法律程序收集证据或分析终端失陷范围时使用。适用于涉及终端取证、内存分析、磁盘取证或事件调查的请求。 | Performs digital forensics investigation on compromised endpoints including memory acquisition, disk imaging, artifact analysis, and timeline reconstruction. Use when investigating security incidents, collecting evidence for legal proceedings, or analyzing endpoint compromise scope. Activates for requests involving endpoint forensics, memory analysis, disk forensics, or incident investigation."
 domain: cybersecurity
 subdomain: endpoint-security
 tags:

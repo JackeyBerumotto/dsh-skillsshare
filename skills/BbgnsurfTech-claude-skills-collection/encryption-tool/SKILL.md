@@ -1,6 +1,6 @@
 ---
 name: encrypting-and-decrypting-data
-description: Validate encryption implementations and cryptographic practices. Use when reviewing data security measures. Trigger with 'check encryption', 'validate crypto', or 'review security keys'.
+description: 验证加密实现与密码学实践。在审查数据安全措施时使用。可通过「check encryption」「validate crypto」或「review security keys」触发。 | Validate encryption implementations and cryptographic practices. Use when reviewing data security measures. Trigger with 'check encryption', 'validate crypto', or 'review security keys'.
 version: 1.0.0
 allowed-tools:
 - Read

@@ -1,6 +1,6 @@
 ---
 name: programmatic-seo
-description: "Plan a programmatic SEO strategy — generate many ranking pages from a data set and a template. Use when asked about pSEO, scaling content with templates/data, building [X] for [Y] pages, or capturing long-tail search at scale. Produces the head-term + modifier model, the page template and data schema, a quality/thin-content guardrail, and an indexation plan — pages worth ranking, not doorway spam."
+description: "规划程序化 SEO 策略——用数据集加模板批量生成可排名页面。当被问及 pSEO、用模板/数据规模化生产内容、构建「X for Y」型页面，或大规模捕获长尾搜索时使用。产出头部词+修饰词模型、页面模板与数据模式、质量/薄内容护栏，以及索引计划——产出值得排名的页面，而不是 doorway 垃圾页。 | Plan a programmatic SEO strategy — generate many ranking pages from a data set and a template. Use when asked about pSEO, scaling content with templates/data, building [X] for [Y] pages, or capturing long-tail search at scale. Produces the head-term + modifier model, the page template and data schema, a quality/thin-content guardrail, and an indexation plan — pages worth ranking, not doorway spam."
 ---
 
 # Programmatic SEO Skill

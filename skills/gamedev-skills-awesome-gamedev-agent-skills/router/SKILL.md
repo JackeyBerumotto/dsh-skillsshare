@@ -1,7 +1,7 @@
 ---
 name: router
 description: >
-  Routes any game-development request to the right specialized skill(s): it detects the engine
+  将任何游戏开发请求路由到合适的专业技能：它会识别引擎（Godot、Unity、Unreal、Bevy、Phaser、PixiJS、three.js、LÖVE、pygame、Roblox）和任务，然后在行动前阅读所选技能。用于制作游戏或判断哪个技能适用——涵盖玩家、关卡、敌人、着色器、UI/UX、相机、游戏手感、物理、输入、音频、存档、多人、AI、对话、程序化生成或性能；涵盖各种品类（平台跳跃、Roguelike、RPG、FPS、塔防、卡牌、视觉小说、生存建造、解谜）；也涵盖发布（game jam、Steam、itch）。不确定用哪个游戏开发技能时从这里开始。 |
   (Godot, Unity, Unreal, Bevy, Phaser, PixiJS, three.js, LÖVE, pygame, Roblox) and the task, then
   reads the chosen skill before acting. Use to make a game or to decide which skill applies — for
   players, levels, enemies, shaders, UI/UX, cameras, game feel, physics, input, audio, saving,

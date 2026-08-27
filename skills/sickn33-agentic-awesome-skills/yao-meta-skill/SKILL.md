@@ -1,6 +1,6 @@
 ---
 name: yao-meta-skill
-description: Create, refactor, evaluate, and package agent skills from workflows, prompts, transcripts, docs, or notes. Use for skill creation, reusable workflow packaging, skill improvement, evals, and team-ready distribution.
+description: 从工作流、提示词、转录、文档或笔记创建、重构、评估并打包智能体技能。适用于技能创建、可复用工作流打包、技能改进、评估以及面向团队的分发。 | Create, refactor, evaluate, and package agent skills from workflows, prompts, transcripts, docs, or notes. Use for skill creation, reusable workflow packaging, skill improvement, evals, and team-ready distribution.
 metadata:
   author: Yao Team
 category: "skill-authoring"

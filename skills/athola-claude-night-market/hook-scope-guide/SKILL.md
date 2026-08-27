@@ -1,6 +1,6 @@
 ---
 name: hook-scope-guide
-description: 'Select hook scope (plugin, project, global) by audience. Use when authoring a hook.'
+description: '按受众选择钩子作用域（插件、项目、全局）。在编写钩子时使用。 | Select hook scope (plugin, project, global) by audience. Use when authoring a hook.'
 ---
 
 # Hook Scope Decision Guide

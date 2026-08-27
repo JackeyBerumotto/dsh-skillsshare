@@ -1,7 +1,7 @@
 ---
 name: unreal-niagara
 description: >
-  Create and control VFX in Unreal Engine 5 with Niagara: systems and emitters, modules and
+  在 Unreal Engine 5 中使用 Niagara 创建和控制 VFX：系统与发射器、模块及 spawn/update 阶段、暴露的 User 参数，以及从 Blueprints 或 C++ 生成或驱动特效。当构建粒子特效、NS_/NE_ 资产、在运行时生成 Niagara 系统、设置 User 参数，或用户提到 Unreal 中的 Niagara、VFX 或粒子系统时使用。 |
   the spawn/update stages, exposed User parameters, and spawning or driving effects from
   Blueprints or C++. Use when building particle effects, NS_/NE_ assets, spawning a Niagara
   system at runtime, setting User parameters, or when the user mentions Niagara, VFX, or a

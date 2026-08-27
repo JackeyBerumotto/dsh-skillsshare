@@ -1,6 +1,6 @@
 ---
 name: prd-template
-description: "Create a Product Requirements Document following proven PM template structure. Use when asked to write a PRD, product spec, feature specification, or requirements document for a new feature or product. Produces a complete PRD with problem statement, user stories, functional requirements, technical considerations, and success metrics."
+description: "按照经过验证的产品经理模板结构创建产品需求文档。当被要求为新功能或产品撰写 PRD、产品规格说明、功能规格说明或需求文档时使用。产出一篇完整的 PRD，包含问题描述、用户故事、功能需求、技术考量和成功指标。 | Create a Product Requirements Document following proven PM template structure. Use when asked to write a PRD, product spec, feature specification, or requirements document for a new feature or product. Produces a complete PRD with problem statement, user stories, functional requirements, technical considerations, and success metrics."
 ---
 
 # PRD Template Skill

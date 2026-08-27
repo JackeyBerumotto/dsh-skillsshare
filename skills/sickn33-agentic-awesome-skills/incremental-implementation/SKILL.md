@@ -1,6 +1,6 @@
 ---
 name: incremental-implementation
-description: Delivers changes incrementally. Use when implementing any feature or change that touches more than one file. Use when you're about to write a large amount of code at once, or when a task feels too big to land in one step.
+description: 以增量方式交付变更。当实现涉及多个文件的任何功能或变更时使用。当你即将一次编写大量代码，或任务太大难以一步完成时也应使用。 | Delivers changes incrementally. Use when implementing any feature or change that touches more than one file. Use when you're about to write a large amount of code at once, or when a task feels too big to land in one step.
 risk: unknown
 source: https://github.com/addyosmani/agent-skills/tree/main/skills/incremental-implementation
 source_repo: addyosmani/agent-skills

@@ -1,6 +1,6 @@
 ---
 name: llm-council
-description: "Run Fireworks-hosted open-weight model councils that compare responses and synthesize a final answer."
+description: "运行托管在 Fireworks 上的开放权重模型议会，比较各方回答并综合出最终答案。 | Run Fireworks-hosted open-weight model councils that compare responses and synthesize a final answer."
 allowed-tools: Read, Write, Bash, AskUserQuestion
 category: "ai-agents"
 risk: "safe"

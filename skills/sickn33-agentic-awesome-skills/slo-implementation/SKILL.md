@@ -1,6 +1,6 @@
 ---
 name: slo-implementation
-description: "Framework for defining and implementing Service Level Indicators (SLIs), Service Level Objectives (SLOs), and error budgets."
+description: "用于定义并落地服务级别指标（SLI）、服务级别目标（SLO）与错误预算的框架。 | Framework for defining and implementing Service Level Indicators (SLIs), Service Level Objectives (SLOs), and error budgets."
 risk: unknown
 source: community
 date_added: "2026-02-27"

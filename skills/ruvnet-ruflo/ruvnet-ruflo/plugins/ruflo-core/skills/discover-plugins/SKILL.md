@@ -1,6 +1,6 @@
 ---
 name: discover-plugins
-description: Discover and recommend ruflo plugins based on your workflow, installed MCP tools, and current task
+description: 根据你的工作流、已安装的 MCP 工具和当前任务发现并推荐 ruflo 插件。 | Discover and recommend ruflo plugins based on your workflow, installed MCP tools, and current task
 argument-hint: "[search-query]"
 allowed-tools: mcp__claude-flow__transfer_plugin-search mcp__claude-flow__transfer_plugin-info mcp__claude-flow__transfer_plugin-featured mcp__claude-flow__transfer_plugin-official mcp__claude-flow__transfer_store-search mcp__claude-flow__transfer_store-featured mcp__claude-flow__transfer_store-trending mcp__claude-flow__transfer_store-info mcp__claude-flow__guidance_discover mcp__claude-flow__guidance_recommend mcp__claude-flow__guidance_capabilities mcp__claude-flow__mcp_status Bash Read
 ---

@@ -1,6 +1,6 @@
 ---
 name: regulator-eyes
-description: "Read your marketing claims, landing page, or ad copy the way a consumer-protection investigator would (FTC/ASA framing) and draft the inquiry letter they could send. Use when asked to check my marketing claims, read this like a regulator, audit my landing page for claim risk, or is this ad compliant. Produces a claim inventory with substantiation demands, the inquiry letter, and a fix-or-drop debrief per claim."
+description: "以消费者保护调查员的视角（FTC/ASA 框架）审读你的营销声明、落地页或广告文案，并起草他们可能发出的问询函。当被要求检查营销声明、像监管机构一样审读、审计落地页的声明风险，或判断这条广告是否合规时使用。产出一份包含举证要求的声明清单、问询函，以及针对每条声明的修复或删除建议复盘。 | Read your marketing claims, landing page, or ad copy the way a consumer-protection investigator would (FTC/ASA framing) and draft the inquiry letter they could send. Use when asked to check my marketing claims, read this like a regulator, audit my landing page for claim risk, or is this ad compliant. Produces a claim inventory with substantiation demands, the inquiry letter, and a fix-or-drop debrief per claim."
 ---
 
 # Regulator Eyes Skill

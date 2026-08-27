@@ -1,6 +1,6 @@
 ---
 name: Zoho Books Automation
-description: "Automate Zoho Books accounting workflows including invoice creation, bill management, contact lookup, payment tracking, and multi-organization support through natural language commands"
+description: "通过自然语言命令自动化 Zoho Books 会计工作流，包括发票创建、账单管理、联系人查询、付款追踪和多组织支持 | Automate Zoho Books accounting workflows including invoice creation, bill management, contact lookup, payment tracking, and multi-organization support through natural language commands"
 requires:
   mcp:
     - rube

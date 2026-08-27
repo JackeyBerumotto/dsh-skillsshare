@@ -2,7 +2,7 @@
 name: handling-api-errors
 version: 1.0.0
 description: |
-  Implement standardized error handling with proper HTTP status codes and error responses.
+  实现标准化错误处理，采用正确的 HTTP 状态码和错误响应。在实现标准化错误处理时使用。触发短语如「add error handling」、「standardize errors」或「implement error responses」。 |
   Use when implementing standardized error handling.
   Trigger with phrases like "add error handling", "standardize errors", or "implement error responses".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(api:error-*)

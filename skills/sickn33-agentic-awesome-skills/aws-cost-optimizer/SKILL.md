@@ -1,6 +1,6 @@
 ---
 name: aws-cost-optimizer
-description: "Comprehensive AWS cost analysis and optimization recommendations using AWS CLI and Cost Explorer"
+description: "使用 AWS CLI 和 Cost Explorer 进行全面的 AWS 成本分析与优化建议。 | Comprehensive AWS cost analysis and optimization recommendations using AWS CLI and Cost Explorer"
 risk: safe
 source: community
 date_added: "2026-02-27"

@@ -2,7 +2,7 @@
 name: building-automl-pipelines
 version: 1.0.0
 description: |
-  Build automated machine learning pipelines with feature engineering, model selection, and hyperparameter tuning.
+  构建包含特征工程、模型选择和超参数调优的自动化机器学习管道。当需要把从数据准备到模型部署的 ML 工作流自动化时使用。触发短语如「build automl pipeline」「automate ml workflow」或「create automated training pipeline」。 |
   Use when automating ML workflows from data preparation through model deployment.
   Trigger with phrases like "build automl pipeline", "automate ml workflow", or "create automated training pipeline".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(python:*)

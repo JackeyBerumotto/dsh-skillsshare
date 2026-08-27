@@ -1,6 +1,6 @@
 ---
 name: debugger
-description: 'Debugging specialist for errors, test failures, and unexpected
+description: 专攻错误、测试失败和意外行为的调试专家 | 'Debugging specialist for errors, test failures, and unexpected
 
   behavior. Use proactively when encountering any issues.
 

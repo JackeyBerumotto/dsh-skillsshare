@@ -1,6 +1,6 @@
 ---
 name: job-story-mapper
-description: "Write Jobs-to-be-Done (JTBD) job stories and map customer jobs across functional, social, and emotional dimensions. Use when defining user needs, writing job stories, conducting JTBD research, or reframing features around customer outcomes. Produces a job story map with opportunity scoring, pain intensity ratings, and product opportunity analysis."
+description: "撰写 Jobs-to-be-Done（JTBD）工作故事，并从功能、社交和情感维度映射客户任务。在定义用户需求、撰写工作故事、开展 JTBD 研究或围绕客户成果重新组织功能时使用。产出包含机会评分、痛点强度评级和产品机会分析的工作故事地图。 | Write Jobs-to-be-Done (JTBD) job stories and map customer jobs across functional, social, and emotional dimensions. Use when defining user needs, writing job stories, conducting JTBD research, or reframing features around customer outcomes. Produces a job story map with opportunity scoring, pain intensity ratings, and product opportunity analysis."
 ---
 
 # Job Story Mapper Skill

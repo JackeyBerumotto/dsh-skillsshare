@@ -1,6 +1,6 @@
 ---
 name: mobile-security-react-native
-description: Secure storage, certificate pinning, biometric auth, jailbreak detection, code obfuscation, network security, screenshot prevention for React Native
+description: 面向 React Native 的安全存储、证书固定、生物识别认证、越狱检测、代码混淆、网络安全和截屏防护。 | Secure storage, certificate pinning, biometric auth, jailbreak detection, code obfuscation, network security, screenshot prevention for React Native
 ---
 
 # React Native Security Patterns

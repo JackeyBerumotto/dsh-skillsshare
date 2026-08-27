@@ -1,6 +1,6 @@
 ---
 name: tech-radar
-description: "Build a technology radar for an engineering team, categorizing technologies into Adopt/Trial/Assess/Hold quadrants following the ThoughtWorks Tech Radar format. Use when asked to create a tech radar, evaluate the team's technology landscape, categorize tools and frameworks, or establish a technology strategy. Produces a full tech radar with quadrant tables, individual blip rationales, a decision trail, and a maintenance process guide."
+description: "为工程团队构建技术雷达，遵循 ThoughtWorks Tech Radar 格式把技术归入采用（Adopt）、试验（Trial）、评估（Assess）、观望（Hold）四个象限。当被要求创建技术雷达、评估团队技术版图、对工具和框架分类，或制定技术战略时使用。产出完整的技术雷达，包含象限表格、各技术点的入选理由、决策轨迹和维护流程指南。 | Build a technology radar for an engineering team, categorizing technologies into Adopt/Trial/Assess/Hold quadrants following the ThoughtWorks Tech Radar format. Use when asked to create a tech radar, evaluate the team's technology landscape, categorize tools and frameworks, or establish a technology strategy. Produces a full tech radar with quadrant tables, individual blip rationales, a decision trail, and a maintenance process guide."
 ---
 
 # Tech Radar

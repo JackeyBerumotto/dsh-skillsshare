@@ -1,7 +1,7 @@
 ---
 name: planning-disaster-recovery
 description: |
-  Use when you need to work with backup and recovery.
+  当你需要处理备份与恢复时使用。此技能提供备份自动化和灾难恢复及全面的指导和自动化。触发词如「create backups」「automate backups」或「implement disaster recovery」。 |
   This skill provides backup automation and disaster recovery with comprehensive guidance and automation.
   Trigger with phrases like "create backups", "automate backups",
   or "implement disaster recovery".

@@ -1,6 +1,6 @@
 ---
 name: loan-covenant-review
-description: "Run a quarterly loan covenant compliance review: covenant table with required vs actual vs headroom, trend and trajectory-to-breach analysis, waiver and amendment options with pricing implications, early-warning indicators, and a watch-list recommendation. Use when asked to review covenant compliance, check covenant headroom, assess a potential covenant breach, or prepare a quarterly borrower monitoring review. Produces a structured covenant review with headroom table, trajectory analysis, and recommended actions."
+description: "运行季度贷款契约合规审查：契约表（要求值对实际值对余量）、趋势与触约轨迹分析、附带定价影响的豁免与修订选项、预警指标，以及观察名单建议。当被要求审查契约合规性、检查契约余量、评估潜在违约风险，或准备季度借款人监控审查时使用。产出结构化契约审查：余量表、轨迹分析和建议行动。 | Run a quarterly loan covenant compliance review: covenant table with required vs actual vs headroom, trend and trajectory-to-breach analysis, waiver and amendment options with pricing implications, early-warning indicators, and a watch-list recommendation. Use when asked to review covenant compliance, check covenant headroom, assess a potential covenant breach, or prepare a quarterly borrower monitoring review. Produces a structured covenant review with headroom table, trajectory analysis, and recommended actions."
 ---
 
 # Loan Covenant Review Skill

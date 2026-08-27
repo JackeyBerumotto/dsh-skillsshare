@@ -1,6 +1,6 @@
 ---
 name: expo-cicd-workflows
-description: Helps understand and write EAS workflow YAML files for Expo projects. Use this skill when the user asks about CI/CD or workflows in an Expo or EAS context, mentions .eas/workflows/, or wants help with EAS build pipelines or deployment automation.
+description: 帮助理解并编写 Expo 项目的 EAS workflow YAML 文件。当用户在 Expo 或 EAS 语境下询问 CI/CD 或工作流、提到 .eas/workflows/，或需要 EAS 构建流水线或部署自动化方面的帮助时使用此技能。 | Helps understand and write EAS workflow YAML files for Expo projects. Use this skill when the user asks about CI/CD or workflows in an Expo or EAS context, mentions .eas/workflows/, or wants help with EAS build pipelines or deployment automation.
 risk: unknown
 source: https://github.com/expo/skills/tree/main/plugins/expo/skills/expo-cicd-workflows
 source_repo: expo/skills

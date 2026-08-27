@@ -1,6 +1,6 @@
 ---
 name: offensive-jwt
-description: "JWT attack methodology for penetration testers. Covers algorithm confusion (alg:none, RS256→HS256), weak HMAC secret brute force, kid parameter injection (SQLi, path traversal), jku/x5u/jwk header injection, JWKS cache poisoning, JWS/JWE confusion, timing attacks, and mobile JWT storage extraction. Use when testing JWT-based authentication, hunting auth bypass via token manipulation, or evaluating JWT implementation security in web or mobile apps."
+description: "面向渗透测试人员的 JWT 攻击方法论。涵盖算法混淆（alg:none、RS256→HS256）、弱 HMAC 密钥暴力破解、kid 参数注入（SQLi、路径遍历）、jku/x5u/jwk 头注入、JWKS 缓存投毒、JWS/JWE 混淆、时序攻击以及移动端 JWT 存储提取。在测试基于 JWT 的身份验证、通过令牌操作搜寻身份验证绕过，或评估 Web/移动应用中 JWT 实现安全性时使用。 | JWT attack methodology for penetration testers. Covers algorithm confusion (alg:none, RS256→HS256), weak HMAC secret brute force, kid parameter injection (SQLi, path traversal), jku/x5u/jwk header injection, JWKS cache poisoning, JWS/JWE confusion, timing attacks, and mobile JWT storage extraction. Use when testing JWT-based authentication, hunting auth bypass via token manipulation, or evaluating JWT implementation security in web or mobile apps."
 ---
 
 ## Overview

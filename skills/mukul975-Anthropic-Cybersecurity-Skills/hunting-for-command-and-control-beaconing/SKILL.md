@@ -1,8 +1,6 @@
 ---
 name: hunting-for-command-and-control-beaconing
-description: Detect C2 beaconing patterns in network traffic using frequency analysis,
-  jitter detection, and domain reputation to identify compromised endpoints communicating
-  with adversary infrastructure.
+description: "利用频率分析、抖动检测和域名信誉识别网络流量中的 C2 信标模式，找出与攻击者基础设施通信的失陷终端。 | Detect C2 beaconing patterns in network traffic using frequency analysis, jitter detection, and domain reputation to identify compromised endpoints communicating with adversary infrastructure."
 domain: cybersecurity
 subdomain: threat-hunting
 tags:

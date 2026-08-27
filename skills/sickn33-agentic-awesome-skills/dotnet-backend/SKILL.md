@@ -1,6 +1,6 @@
 ---
 name: dotnet-backend
-description: "Build ASP.NET Core 8+ backend services with EF Core, auth, background jobs, and production API patterns."
+description: "使用 EF Core、身份验证、后台作业和生产级 API 模式构建 ASP.NET Core 8 及以上版本的后端服务。 | Build ASP.NET Core 8+ backend services with EF Core, auth, background jobs, and production API patterns."
 risk: safe
 source: self
 date_added: "2026-02-27"

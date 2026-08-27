@@ -1,6 +1,6 @@
 ---
 name: mobile-notifications-push
-description: Push notification patterns - expo-notifications (Expo) and @react-native-firebase/messaging (bare RN), permission handling, token management, foreground/background/tap listeners, local scheduling, Android channels, notification categories and actions, badge management, rich notifications
+description: 推送通知模式——expo-notifications（Expo）和 @react-native-firebase/messaging（原生 RN）、权限处理、令牌管理、前台/后台/点击监听器、本地定时通知、Android 渠道、通知类别与操作、角标管理、富通知 | Push notification patterns - expo-notifications (Expo) and @react-native-firebase/messaging (bare RN), permission handling, token management, foreground/background/tap listeners, local scheduling, Android channels, notification categories and actions, badge management, rich notifications
 ---
 
 # Push Notification Patterns

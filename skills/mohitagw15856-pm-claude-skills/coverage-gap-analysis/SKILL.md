@@ -1,6 +1,6 @@
 ---
 name: coverage-gap-analysis
-description: "Map an organisation's risks against its insurance policy portfolio to find what's uncovered, underinsured, or double-covered. Use when asked to run a coverage gap analysis, review an insurance programme against a risk register, check what risks aren't insured, or audit a policy portfolio. Produces a risk-by-coverage matrix, flagged gaps and overlaps, a deductible stack review, and recommendations ranked by expected-loss severity."
+description: "把组织的风险与其保险产品组合进行映射，找出未覆盖、保障不足或重复覆盖之处。当被要求做覆盖缺口分析、对照风险登记册评审保险方案、检查哪些风险没有投保，或审计保单组合时使用。产出风险×覆盖矩阵、被标记的缺口与重叠、免赔额叠加审查，以及按预期损失严重度排序的建议。 | Map an organisation's risks against its insurance policy portfolio to find what's uncovered, underinsured, or double-covered. Use when asked to run a coverage gap analysis, review an insurance programme against a risk register, check what risks aren't insured, or audit a policy portfolio. Produces a risk-by-coverage matrix, flagged gaps and overlaps, a deductible stack review, and recommendations ranked by expected-loss severity."
 ---
 
 # Coverage Gap Analysis Skill

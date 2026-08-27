@@ -1,6 +1,6 @@
 ---
 name: "jira-expert"
-description: Atlassian Jira expert for creating and managing projects, planning, product discovery, JQL queries, workflows, custom fields, automation, reporting, and all Jira features. Use when setting up or configuring Jira projects, writing JQL and advanced searches, creating dashboards, designing workflows, or performing technical Jira operations.
+description: Atlassian Jira 专家，负责创建和管理项目、规划、产品发现、JQL 查询、工作流、自定义字段、自动化、报告及所有 Jira 功能。在搭建或配置 Jira 项目、编写 JQL 与高级搜索、创建仪表盘、设计工作流或执行 Jira 技术操作时使用。 | Atlassian Jira expert for creating and managing projects, planning, product discovery, JQL queries, workflows, custom fields, automation, reporting, and all Jira features. Use when setting up or configuring Jira projects, writing JQL and advanced searches, creating dashboards, designing workflows, or performing technical Jira operations.
 ---
 
 # Atlassian Jira Expert

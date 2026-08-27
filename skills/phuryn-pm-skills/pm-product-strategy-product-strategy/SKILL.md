@@ -1,6 +1,6 @@
 ---
 name: product-strategy
-description: "Create a comprehensive product strategy using the 9-section Product Strategy Canvas — vision, segments, costs, value propositions, trade-offs, metrics, growth, capabilities, and defensibility. Use when building a product strategy, creating a strategic plan, or defining product direction."
+description: "使用 9 节产品战略画布创建完整的产品战略——涵盖愿景、细分市场、成本、价值主张、取舍、指标、增长、能力和防御性。当构建产品战略、制定战略规划或确定产品方向时使用。 | Create a comprehensive product strategy using the 9-section Product Strategy Canvas — vision, segments, costs, value propositions, trade-offs, metrics, growth, capabilities, and defensibility. Use when building a product strategy, creating a strategic plan, or defining product direction."
 ---
 # Product Strategy Canvas
 

@@ -1,6 +1,6 @@
 ---
 name: "self-eval"
-description: "Honestly evaluate AI work quality using a two-axis scoring system. Use after completing a task, code review, or work session to get an unbiased assessment. Detects score inflation, forces devil's advocate reasoning, and persists scores across sessions."
+description: "使用双轴评分系统诚实评估 AI 工作质量。在完成任务、代码审查或工作会话之后使用，获得无偏评估。检测分数虚高，强制进行魔鬼代言人式推理，并跨会话持久化分数。 | Honestly evaluate AI work quality using a two-axis scoring system. Use after completing a task, code review, or work session to get an unbiased assessment. Detects score inflation, forces devil's advocate reasoning, and persists scores across sessions."
 license: "MIT"
 ---
 

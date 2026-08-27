@@ -1,7 +1,7 @@
 ---
 name: energy-procurement
 description: >
-  Codified expertise for electricity and gas procurement, tariff optimization,
+  面向电力和燃气采购、资费优化、需量电费管理、可再生能源 PPA 评估以及多设施能源成本管理的体系化专业知识。基于大型工商业用户侧拥有 15 年以上经验的能源采购经理整理而成。包含市场结构分析、套期保值策略、负荷画像和可持续发展报告框架。在采购能源、优化资费、管理需量电费、评估 PPA 或制定能源战略时使用。 |
   demand charge management, renewable PPA evaluation, and multi-facility energy
   cost management. Informed by energy procurement managers with 15+ years
   experience at large commercial and industrial consumers. Includes market

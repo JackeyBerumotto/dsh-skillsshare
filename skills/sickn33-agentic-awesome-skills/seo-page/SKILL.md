@@ -1,7 +1,7 @@
 ---
 name: seo-page
 description: >
-  Deep single-page SEO analysis covering on-page elements, content quality,
+  深度的单页 SEO 分析，涵盖页内元素、内容质量、技术性 meta 标签、schema、图片和性能。当用户说「analyze this page」「check page SEO」或提供单个 URL 供审查时使用。 |
   technical meta tags, schema, images, and performance. Use when user says
   "analyze this page", "check page SEO", or provides a single URL for review.
 risk: safe

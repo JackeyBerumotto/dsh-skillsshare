@@ -1,6 +1,6 @@
 ---
 name: browser-harness
-description: "Drive an existing browser through CDP for authenticated, visual, or interactive web automation."
+description: "通过 CDP 驱动现有浏览器，完成需要认证、可视化或交互式的 Web 自动化。 | Drive an existing browser through CDP for authenticated, visual, or interactive web automation."
 category: browser-automation
 risk: critical
 source: community

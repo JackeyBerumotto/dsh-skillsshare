@@ -1,6 +1,6 @@
 ---
 name: brag-doc
-description: "Keep a running brag document of your accomplishments so reviews and promo cases write themselves. Use when asked to start or update a brag doc, log a win, track accomplishments, or prep evidence for a review/promotion. Produces a structured, dated accomplishment log — impact-first entries with metrics, scope, and the evidence link — grouped so it drops straight into a self-review or promo packet."
+description: "持续记录一份成就自夸文档，让绩效评审和晋升材料自动成型。在被要求开始或更新自夸文档、记录一次成果、跟踪成就或为评审/晋升准备证据时使用。产出结构化、带日期的成就日志——以影响力为先、含指标、范围和证据链接的条目——并按可直接放入自评或晋升材料的方式分组。 | Keep a running brag document of your accomplishments so reviews and promo cases write themselves. Use when asked to start or update a brag doc, log a win, track accomplishments, or prep evidence for a review/promotion. Produces a structured, dated accomplishment log — impact-first entries with metrics, scope, and the evidence link — grouped so it drops straight into a self-review or promo packet."
 ---
 
 # Brag Doc Skill

@@ -1,6 +1,6 @@
 ---
 name: federation-audit
-description: Query federation audit logs with compliance filtering
+description: 查询联邦审计日志并按合规条件过滤 | Query federation audit logs with compliance filtering
 allowed-tools: Bash(npx *) mcp__claude-flow__memory_search Read Grep
 argument-hint: "[--compliance hipaa|soc2|gdpr] [--since DATE] [--severity critical|error|warn|info]"
 ---

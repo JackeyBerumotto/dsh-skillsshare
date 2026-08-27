@@ -1,6 +1,6 @@
 ---
 name: senior-qa
-description: Comprehensive QA and testing skill for quality assurance, test automation, and testing strategies for ReactJS, NextJS, NodeJS applications. Includes test suite generation, coverage analysis, E2E testing setup, and quality metrics. Use when designing test strategies, writing test cases, implementing test automation, performing manual testing, or analyzing test coverage.
+description: 面向 ReactJS、NextJS、NodeJS 应用的质量保证、测试自动化和测试策略的综合 QA 与测试技能。包括测试套件生成、覆盖率分析、E2E 测试搭建和质量指标。在设计测试策略、编写测试用例、实施测试自动化、执行手工测试或分析测试覆盖率时使用。 | Comprehensive QA and testing skill for quality assurance, test automation, and testing strategies for ReactJS, NextJS, NodeJS applications. Includes test suite generation, coverage analysis, E2E testing setup, and quality metrics. Use when designing test strategies, writing test cases, implementing test automation, performing manual testing, or analyzing test coverage.
 ---
 
 # Senior Qa

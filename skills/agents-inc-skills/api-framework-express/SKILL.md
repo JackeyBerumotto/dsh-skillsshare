@@ -1,6 +1,6 @@
 ---
 name: api-framework-express
-description: Express.js routes, middleware, error handling, request/response patterns
+description: Express.js 路由、中间件、错误处理与请求/响应模式 | Express.js routes, middleware, error handling, request/response patterns
 ---
 
 # API Development with Express.js

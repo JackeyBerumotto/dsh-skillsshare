@@ -1,6 +1,6 @@
 ---
 name: pm-weekly-review
-description: "Structure a PM's weekly review and planning session. Use when doing a weekly PM review, writing a weekly update, preparing for Monday planning, or reviewing sprint health. Produces a shareable weekly update covering metrics movement, shipping progress, blockers, insights, and next week's top 3 priorities."
+description: "为产品经理的每周复盘与规划会提供结构。在做每周产品经理复盘、撰写周报、准备周一规划或评估 Sprint 健康度时使用。产出可分享的周报，涵盖指标变化、交付进展、阻塞项、洞察以及下周最重要的 3 件事。 | Structure a PM's weekly review and planning session. Use when doing a weekly PM review, writing a weekly update, preparing for Monday planning, or reviewing sprint health. Produces a shareable weekly update covering metrics movement, shipping progress, blockers, insights, and next week's top 3 priorities."
 ---
 
 # PM Weekly Review Skill

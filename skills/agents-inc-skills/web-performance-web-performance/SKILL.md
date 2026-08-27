@@ -1,6 +1,6 @@
 ---
 name: web-performance-web-performance
-description: Bundle optimization, render performance, Core Web Vitals
+description: 包体优化、渲染性能、Core Web Vitals | Bundle optimization, render performance, Core Web Vitals
 ---
 
 # Web Performance Patterns

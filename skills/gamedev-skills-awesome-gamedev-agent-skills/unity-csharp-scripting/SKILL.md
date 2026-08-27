@@ -1,7 +1,7 @@
 ---
 name: unity-csharp-scripting
 description: >
-  Write Unity 6 C# gameplay scripts: the MonoBehaviour lifecycle
+  编写 Unity 6 C# 玩法脚本：MonoBehaviour 生命周期（Awake/OnEnable/Start/Update/FixedUpdate/LateUpdate）、GameObject 与组件访问、协程和 Inspector 序列化。在 Unity 项目中创建或编辑 .cs 脚本时使用，或在用户提到 MonoBehaviour、Start/Update、GetComponent、SerializeField、协程或「Unity 脚本」时使用。 |
   (Awake/OnEnable/Start/Update/FixedUpdate/LateUpdate), GameObject and component
   access, coroutines, and Inspector serialization. Use when creating or editing .cs
   scripts in a Unity project, or when the user mentions MonoBehaviour, Start/Update,

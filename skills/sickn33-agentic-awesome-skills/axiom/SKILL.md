@@ -1,6 +1,6 @@
 ---
 name: axiom
-description: "First-principles assumption auditor. Classifies each hidden assumption (fact / convention / belief / interest-driven), ranks by fragility × impact, and rebuilds conclusions from verified premises. Bilingual: auto-detects Chinese or English."
+description: "第一性原理假设审计器。为每个隐藏假设分类（事实/惯例/信念/利益驱动），按脆弱性×影响排序，并从已验证前提出发重建结论。双语：自动检测中文或英文。 | First-principles assumption auditor. Classifies each hidden assumption (fact / convention / belief / interest-driven), ranks by fragility × impact, and rebuilds conclusions from verified premises. Bilingual: auto-detects Chinese or English."
 risk: safe
 source: community
 date_added: "2026-04-13"

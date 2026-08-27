@@ -1,6 +1,6 @@
 ---
 name: continuous-llm-red-teaming-with-promptfoo
-description: Wire Promptfoo and DeepTeam into CI/CD for automated regression red-teaming of LLM apps against OWASP LLM Top 10 and OWASP Agentic presets, failing the build when jailbreak or injection vulnerabilities regress.
+description: 将 Promptfoo 和 DeepTeam 接入 CI/CD，针对 OWASP LLM Top 10 和 OWASP Agentic 预设对 LLM 应用进行自动化回归红队测试，当越狱或注入漏洞出现回归时使构建失败。 | Wire Promptfoo and DeepTeam into CI/CD for automated regression red-teaming of LLM apps against OWASP LLM Top 10 and OWASP Agentic presets, failing the build when jailbreak or injection vulnerabilities regress.
 domain: cybersecurity
 subdomain: ai-security
 tags:

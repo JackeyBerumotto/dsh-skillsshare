@@ -1,7 +1,6 @@
 ---
 name: conversation-memory
-description: Persistent memory systems for LLM conversations including
-  short-term, long-term, and entity-based memory
+description: "面向 LLM 会话的持久记忆系统，包括短期记忆、长期记忆与基于实体的记忆。 | Persistent memory systems for LLM conversations including short-term, long-term, and entity-based memory"
 risk: unknown
 source: vibeship-spawner-skills (Apache 2.0)
 date_added: 2026-02-27

@@ -1,6 +1,6 @@
 ---
 name: image-generator
-description: Generate and edit images using Gemini's Nano Banana Pro model (gemini-3-pro-image-preview). Use this skill when the user asks you to generate images, create visuals, edit photos, create logos, generate product mockups, or perform any image generation/editing task.
+description: 使用 Gemini 的 Nano Banana Pro 模型（gemini-3-pro-image-preview）生成与编辑图片。当用户要求生成图片、制作视觉素材、修图、设计 logo、生成产品样机，或执行任何图片生成/编辑任务时使用此技能。 | Generate and edit images using Gemini's Nano Banana Pro model (gemini-3-pro-image-preview). Use this skill when the user asks you to generate images, create visuals, edit photos, create logos, generate product mockups, or perform any image generation/editing task.
 allowed-tools: Read, Write, Bash, WebFetch
 category: "media"
 risk: "safe"

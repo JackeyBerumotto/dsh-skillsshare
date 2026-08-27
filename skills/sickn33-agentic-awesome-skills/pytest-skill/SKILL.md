@@ -1,6 +1,6 @@
 ---
 name: pytest-skill
-description: 'Generates production-grade pytest tests in Python with fixtures, parametrize, markers, mocking, and conftest patterns. Use when user mentions "pytest", "conftest", "@pytest.fixture", "@pytest.mark", "Python test". Triggers on: "pytest", "conftest", "Python test", "parametrize", "Python...'
+description: '生成生产级的 Python pytest 测试，涵盖 fixtures、parametrize、markers、mocking 和 conftest 模式。当用户提到「pytest」、「conftest」、「@pytest.fixture」、「@pytest.mark」、「Python test」时使用。触发词：「pytest」、「conftest」、「Python test」、「parametrize」、「Python……」 | Generates production-grade pytest tests in Python with fixtures, parametrize, markers, mocking, and conftest patterns. Use when user mentions "pytest", "conftest", "@pytest.fixture", "@pytest.mark", "Python test". Triggers on: "pytest", "conftest", "Python test", "parametrize", "Python...'
 risk: unknown
 source: https://github.com/LambdaTest/agent-skills/tree/main/pytest-skill
 source_repo: LambdaTest/agent-skills

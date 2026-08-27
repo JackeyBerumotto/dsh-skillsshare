@@ -1,6 +1,6 @@
 ---
 name: hooks-eval
-description: 'Evaluate hook security, performance, and SDK compliance. Use for audits.'
+description: '评估 hook 的安全性、性能和 SDK 合规性。用于审计。 | Evaluate hook security, performance, and SDK compliance. Use for audits.'
 alwaysApply: false
 category: hook-management
 tags:

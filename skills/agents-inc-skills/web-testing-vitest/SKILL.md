@@ -1,6 +1,6 @@
 ---
 name: web-testing-vitest
-description: Vitest test runner - configuration, assertions, mocking (vi.fn, vi.mock, vi.spyOn), fake timers, snapshot testing, coverage, workspace projects
+description: Vitest 测试运行器——配置、断言、模拟（vi.fn、vi.mock、vi.spyOn）、假定时器、快照测试、覆盖率和 workspace 项目。 | Vitest test runner - configuration, assertions, mocking (vi.fn, vi.mock, vi.spyOn), fake timers, snapshot testing, coverage, workspace projects
 ---
 
 # Vitest Test Runner Patterns

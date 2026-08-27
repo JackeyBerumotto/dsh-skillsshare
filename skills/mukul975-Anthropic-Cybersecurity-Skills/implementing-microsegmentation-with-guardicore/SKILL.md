@@ -1,11 +1,6 @@
 ---
 name: implementing-microsegmentation-with-guardicore
-description: 'Implementing microsegmentation using Akamai Guardicore Segmentation
-  to map application dependencies, create granular network policies, visualize east-west
-  traffic flows, and enforce least-privilege communication between workloads across
-  data centers and cloud.
-
-  '
+description: "使用 Akamai Guardicore Segmentation 实现微分段，梳理应用依赖关系、创建细粒度网络策略、可视化东西向流量，并在跨数据中心和云的工作负载之间强制执行最小权限通信。 | Implementing microsegmentation using Akamai Guardicore Segmentation to map application dependencies, create granular network policies, visualize east-west traffic flows, and enforce least-privilege communication between workloads across data centers and cloud."
 domain: cybersecurity
 subdomain: zero-trust-architecture
 tags:

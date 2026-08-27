@@ -1,6 +1,6 @@
 ---
 name: support-macro
-description: "Write reusable support macros / canned responses that sound human, not robotic. Use when asked to write a support macro, a canned response, a saved reply, or a template for a common customer ticket. Produces a macro — an empathetic opener, the clear answer/steps, placeholders for personalisation, and a warm close — plus variants (resolved / need-more-info / escalating), tuned to keep it human."
+description: "撰写听起来像人而非机器的可复用客服宏/快捷回复。在被要求编写客服宏、canned response、保存的回复或常见客户工单模板时使用。产出一个宏——共情的开场、清晰的答案/步骤、个性化占位符和温暖的收尾——以及多个变体（已解决/需补充信息/升级处理），保持人味。 | Write reusable support macros / canned responses that sound human, not robotic. Use when asked to write a support macro, a canned response, a saved reply, or a template for a common customer ticket. Produces a macro — an empathetic opener, the clear answer/steps, placeholders for personalisation, and a warm close — plus variants (resolved / need-more-info / escalating), tuned to keep it human."
 ---
 
 # Support Macro Skill

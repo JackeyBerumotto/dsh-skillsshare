@@ -1,6 +1,6 @@
 ---
 name: api-messaging-webhooks
-description: Webhook patterns — receiving, sending, signature verification, and retry logic
+description: Webhook 模式——接收、发送、签名验证和重试逻辑。 | Webhook patterns — receiving, sending, signature verification, and retry logic
 ---
 
 # Webhook Patterns

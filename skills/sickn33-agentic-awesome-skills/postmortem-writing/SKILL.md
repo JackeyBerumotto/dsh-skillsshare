@@ -1,6 +1,6 @@
 ---
 name: postmortem-writing
-description: "Comprehensive guide to writing effective, blameless postmortems that drive organizational learning and prevent incident recurrence."
+description: "撰写有效、无指责事后复盘以推动组织学习并防止事故再次发生的综合指南。 | Comprehensive guide to writing effective, blameless postmortems that drive organizational learning and prevent incident recurrence."
 risk: unknown
 source: community
 date_added: "2026-02-27"

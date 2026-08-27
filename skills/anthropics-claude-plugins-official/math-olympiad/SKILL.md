@@ -1,16 +1,6 @@
 ---
 name: math-olympiad
-description:
-  "Solve competition math problems (IMO, Putnam, USAMO, AIME) with adversarial
-  verification that catches the errors self-verification misses. Activates when
-  asked to 'solve this IMO problem', 'prove this olympiad inequality', 'verify
-  this competition proof', 'find a counterexample', 'is this proof correct', or
-  for any problem with 'IMO', 'Putnam', 'USAMO', 'olympiad', or 'competition
-  math' in it. Uses pure reasoning (no tools) — then a fresh-context adversarial
-  verifier attacks the proof using specific failure patterns, not generic 'check
-  logic'. Outputs calibrated confidence — will say 'no confident solution'
-  rather than bluff. If LaTeX is available, produces a clean PDF after
-  verification passes."
+description: "以对抗性验证求解竞赛数学问题（IMO、Putnam、USAMO、AIME），发现自我验证会遗漏的错误。当被要求「solve this IMO problem」「prove this olympiad inequality」「verify this competition proof」「find a counterexample」「is this proof correct」，或问题中出现「IMO」「Putnam」「USAMO」「olympiad」「competition math」时激活。先使用纯推理（不借助工具），随后由全新上下文的对抗验证器基于特定失败模式攻击证明，而非泛泛的「check logic」。输出经校准的置信度——宁可回答「no confident solution」也不虚张声势。若 LaTeX 可用，则在验证通过后生成整洁的 PDF。 | Solve competition math problems (IMO, Putnam, USAMO, AIME) with adversarial verification that catches the errors self-verification misses. Activates when asked to 'solve this IMO problem', 'prove this olympiad inequality', 'verify this competition proof', 'find a counterexample', 'is this proof correct', or for any problem with 'IMO', 'Putnam', 'USAMO', 'olympiad', or 'competition math' in it. Uses pure reasoning (no tools) — then a fresh-context adversarial verifier attacks the proof using specific failure patterns, not generic 'check logic'. Outputs calibrated confidence — will say 'no confident solution' rather than bluff. If LaTeX is available, produces a clean PDF after verification passes."
 version: 0.1.0
 ---
 

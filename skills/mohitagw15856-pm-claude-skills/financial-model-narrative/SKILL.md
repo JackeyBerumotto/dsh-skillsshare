@@ -1,6 +1,6 @@
 ---
 name: financial-model-narrative
-description: "Turn financial model outputs into a clear written narrative. Use when asked to write a financial narrative, explain a financial model, summarise a P&L, or translate spreadsheet numbers into a board-ready story. Produces an executive narrative with key insights, drivers, and forward-looking commentary."
+description: "将财务模型输出转化为清晰的书面叙事。当被要求撰写财务叙事、解释财务模型、汇总损益表，或将电子表格中的数字转化为董事会可读的故事时使用。产出一份高管叙事，包含关键洞见、驱动因素和前瞻性评述。 | Turn financial model outputs into a clear written narrative. Use when asked to write a financial narrative, explain a financial model, summarise a P&L, or translate spreadsheet numbers into a board-ready story. Produces an executive narrative with key insights, drivers, and forward-looking commentary."
 ---
 
 # Financial Model Narrative Skill

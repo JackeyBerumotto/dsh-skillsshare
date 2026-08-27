@@ -1,6 +1,6 @@
 ---
 name: offers
-description: When the user wants to design, construct, or improve an offer — the thing they actually sell — including value framing, bonus stacking, guarantee design, scarcity/urgency, naming, and payment structure. Also use when the user mentions 'offer,' 'offer design,' 'build an offer,' 'grand...
+description: 当用户想要设计、构建或改进报价——即真正售卖的东西——包括价值框架、赠品叠加、保证设计、稀缺感/紧迫感、命名和支付结构时使用。当用户提到「offer」「offer design」「build an offer」「grand……」时也应使用。 | When the user wants to design, construct, or improve an offer — the thing they actually sell — including value framing, bonus stacking, guarantee design, scarcity/urgency, naming, and payment structure. Also use when the user mentions 'offer,' 'offer design,' 'build an offer,' 'grand...
 risk: unknown
 source: https://github.com/coreyhaines31/marketingskills/tree/main/skills/offers
 source_repo: coreyhaines31/marketingskills

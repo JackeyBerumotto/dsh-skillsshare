@@ -1,6 +1,6 @@
 ---
 name: one-pager
-description: "Distil anything — a startup, product, project, or idea — into a single persuasive page. Use when asked to make a one-pager, a one-page summary, a leave-behind, a startup/product one-sheet, or a tl;dr brief. Produces a structured single page — headline + tagline, the problem, the solution, why-now/proof, and a clear ask/CTA — designed to be skimmed and remembered, ready to export as a typeset PDF."
+description: "把任何东西——初创公司、产品、项目或创意——提炼成一个有说服力的单页。当被要求制作 one-pager、单页摘要、留档资料、初创公司/产品 one-sheet 或 tl;dr 简报时使用。产出一个结构化的单页——主标题+副标语、问题、解决方案、为什么是现在/证明，以及明确的请求/CTA——便于快速浏览和记忆，可导出为排版好的 PDF。 | Distil anything — a startup, product, project, or idea — into a single persuasive page. Use when asked to make a one-pager, a one-page summary, a leave-behind, a startup/product one-sheet, or a tl;dr brief. Produces a structured single page — headline + tagline, the problem, the solution, why-now/proof, and a clear ask/CTA — designed to be skimmed and remembered, ready to export as a typeset PDF."
 ---
 
 # One-Pager Skill

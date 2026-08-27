@@ -1,6 +1,6 @@
 ---
 name: authentication-patterns
-description: Provides auth patterns for API keys, OAuth, and token management. Use when implementing or reviewing service authentication and credential handling.
+description: 提供 API 密钥、OAuth 和令牌管理的鉴权模式。在实现或评审服务鉴权与凭据处理时使用。 | Provides auth patterns for API keys, OAuth, and token management. Use when implementing or reviewing service authentication and credential handling.
 alwaysApply: false
 category: infrastructure
 tags:

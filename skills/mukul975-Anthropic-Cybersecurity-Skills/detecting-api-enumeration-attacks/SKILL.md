@@ -1,7 +1,6 @@
 ---
 name: detecting-api-enumeration-attacks
-description: Detect and prevent API enumeration attacks including BOLA and IDOR exploitation
-  by monitoring sequential identifier access patterns and authorization failures.
+description: "通过监控顺序标识符访问模式和授权失败情况，检测并防御 API 枚举攻击，包括 BOLA 和 IDOR 漏洞利用。 | Detect and prevent API enumeration attacks including BOLA and IDOR exploitation by monitoring sequential identifier access patterns and authorization failures."
 domain: cybersecurity
 subdomain: api-security
 tags:

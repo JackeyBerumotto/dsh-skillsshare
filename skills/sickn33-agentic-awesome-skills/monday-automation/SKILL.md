@@ -1,6 +1,6 @@
 ---
 name: monday-automation
-description: "Automate Monday.com work management including boards, items, columns, groups, subitems, and updates via Rube MCP (Composio). Always search tools first for current schemas."
+description: "通过 Rube MCP（Composio）自动化 Monday.com 工作管理，包括看板、条目、列、分组、子条目和更新。务必先搜索工具以获取最新 schema。 | Automate Monday.com work management including boards, items, columns, groups, subitems, and updates via Rube MCP (Composio). Always search tools first for current schemas."
 risk: critical
 source: community
 date_added: "2026-02-27"

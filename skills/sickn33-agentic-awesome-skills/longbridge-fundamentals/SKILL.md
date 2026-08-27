@@ -1,6 +1,6 @@
 ---
 name: longbridge-fundamentals
-description: "Financial statements, business segments, dividends, valuation multiples (PE/PB/PS), industry comparison, operating data, corporate actions, company and executive profiles, cross-stock comparison, and valuation ranking via Longbridge. Also: DCF models, value investing screens (low..."
+description: "财务报表、业务分部、股息、估值倍数（PE/PB/PS）、行业对比、经营数据、公司行动、公司与高管画像、跨股票对比，以及通过 Longbridge 的估值排名。另有：DCF 模型、价值投资筛选（低……） | Financial statements, business segments, dividends, valuation multiples (PE/PB/PS), industry comparison, operating data, corporate actions, company and executive profiles, cross-stock comparison, and valuation ranking via Longbridge. Also: DCF models, value investing screens (low..."
 risk: unknown
 source: https://github.com/longbridge/skills/tree/main/skills/longbridge-fundamentals
 source_repo: longbridge/skills

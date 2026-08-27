@@ -1,6 +1,6 @@
 ---
 name: "ciso-advisor"
-description: "Security leadership for growth-stage companies. Risk quantification in dollars, compliance roadmap (SOC 2/ISO 27001/HIPAA/GDPR), security architecture strategy, incident response leadership, and board-level security reporting. Use when building security programs, justifying security budget, selecting compliance frameworks, managing incidents, assessing vendor risk, or when user mentions CISO, security strategy, compliance roadmap, zero trust, or board security reporting."
+description: "面向成长期公司的安全领导力。以美元量化风险、合规路线图（SOC 2/ISO 27001/HIPAA/GDPR）、安全架构战略、事件响应领导和董事会级安全汇报。在构建安全计划、论证安全预算、选择合规框架、管理事件、评估供应商风险时使用，或当用户提到 CISO、安全战略、合规路线图、零信任或董事会安全汇报时使用。 | Security leadership for growth-stage companies. Risk quantification in dollars, compliance roadmap (SOC 2/ISO 27001/HIPAA/GDPR), security architecture strategy, incident response leadership, and board-level security reporting. Use when building security programs, justifying security budget, selecting compliance frameworks, managing incidents, assessing vendor risk, or when user mentions CISO, security strategy, compliance roadmap, zero trust, or board security reporting."
 license: MIT
 metadata:
   version: 1.0.0

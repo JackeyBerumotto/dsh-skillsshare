@@ -1,6 +1,6 @@
 ---
 name: react-modernization
-description: "Master React version upgrades, class to hooks migration, concurrent features adoption, and codemods for automated transformation."
+description: "掌握 React 版本升级、类组件到 hooks 的迁移、并发特性的采用，以及用于自动化转换的 codemod。 | Master React version upgrades, class to hooks migration, concurrent features adoption, and codemods for automated transformation."
 risk: safe
 source: community
 date_added: "2026-02-27"

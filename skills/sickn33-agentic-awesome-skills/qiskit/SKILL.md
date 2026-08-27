@@ -1,6 +1,6 @@
 ---
 name: qiskit
-description: "Qiskit is the world's most popular open-source quantum computing framework with 13M+ downloads. Build quantum circuits, optimize for hardware, execute on simulators or real quantum computers, and analyze results. Supports IBM Quantum (100+ qubit systems), IonQ, Amazon Braket, and other providers."
+description: "Qiskit 是全球最受欢迎的开源量子计算框架，下载量超过 1300 万。构建量子电路、面向硬件优化、在模拟器或真实量子计算机上执行并分析结果。支持 IBM Quantum（100+ 量子比特系统）、IonQ、Amazon Braket 及其他提供商。 | Qiskit is the world's most popular open-source quantum computing framework with 13M+ downloads. Build quantum circuits, optimize for hardware, execute on simulators or real quantum computers, and analyze results. Supports IBM Quantum (100+ qubit systems), IonQ, Amazon Braket, and other providers."
 license: Apache-2.0 license
 metadata:
     skill-author: K-Dense Inc.

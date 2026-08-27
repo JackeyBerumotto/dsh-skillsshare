@@ -1,6 +1,6 @@
 ---
 name: content-creator
-description: "Professional-grade brand voice analysis, SEO optimization, and platform-specific content frameworks."
+description: "专业级品牌语调分析、SEO 优化和面向特定平台的内容框架。 | Professional-grade brand voice analysis, SEO optimization, and platform-specific content frameworks."
 category: marketing
 risk: unknown
 source: community

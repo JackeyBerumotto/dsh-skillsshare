@@ -1,6 +1,6 @@
 ---
 name: dep
-description: "Handles containerization, CI/CD pipelines, and deployment setup."
+description: "处理容器化、CI/CD 流水线和部署设置。 | Handles containerization, CI/CD pipelines, and deployment setup."
 risk: safe
 source: community
 date_added: "2026-06-11"

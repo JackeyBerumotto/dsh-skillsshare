@@ -1,6 +1,6 @@
 ---
 name: vaporwave
-description: Web and App implementation guide for Vaporwave. Trigger when user wants neon colors, retro digital aesthetics, 90s OS elements, and Roman statues.
+description: Vaporwave（蒸汽波）的 Web 与 App 实现指南。当用户需要霓虹色彩、复古数字美学、90 年代 OS 元素和罗马雕像时触发。 | Web and App implementation guide for Vaporwave. Trigger when user wants neon colors, retro digital aesthetics, 90s OS elements, and Roman statues.
 date_added: "2026-06-17"
 risk: safe
 source: self

@@ -1,6 +1,6 @@
 ---
 name: threat-modeling-expert
-description: "Expert in threat modeling methodologies, security architecture review, and risk assessment. Masters STRIDE, PASTA, attack trees, and security requirement extraction. Use PROACTIVELY for security architecture reviews, threat identification, or building secure-by-design systems."
+description: "威胁建模方法论、安全架构审查与风险评估专家。精通 STRIDE、PASTA、攻击树与安全需求提取。在安全架构审查、威胁识别或构建安全设计系统时主动使用。 | Expert in threat modeling methodologies, security architecture review, and risk assessment. Masters STRIDE, PASTA, attack trees, and security requirement extraction. Use PROACTIVELY for security architecture reviews, threat identification, or building secure-by-design systems."
 risk: unknown
 source: community
 date_added: "2026-02-27"

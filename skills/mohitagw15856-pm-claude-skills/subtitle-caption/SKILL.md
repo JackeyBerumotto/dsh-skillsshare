@@ -1,6 +1,6 @@
 ---
 name: subtitle-caption
-description: "Write or translate subtitles/captions that respect reading speed and timing rules. Use when asked to write subtitles, captions, SRT/VTT content, or to translate subtitles for a video. Produces properly-formatted, readable subtitles — line-length and reading-speed compliant, well-segmented, with translation that fits the time available, plus SDH/caption guidance where relevant."
+description: "撰写或翻译符合阅读速度和时间规则的字幕/说明文字。在被要求编写字幕、caption、SRT/VTT 内容，或为视频翻译字幕时使用。产出格式正确、易读的字幕——符合行长和阅读速度要求、断句合理、翻译契合可用时长，并在相关处提供 SDH/说明文字指引。 | Write or translate subtitles/captions that respect reading speed and timing rules. Use when asked to write subtitles, captions, SRT/VTT content, or to translate subtitles for a video. Produces properly-formatted, readable subtitles — line-length and reading-speed compliant, well-segmented, with translation that fits the time available, plus SDH/caption guidance where relevant."
 ---
 
 # Subtitle & Caption Skill

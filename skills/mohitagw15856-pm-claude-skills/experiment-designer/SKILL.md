@@ -1,6 +1,6 @@
 ---
 name: experiment-designer
-description: "Design statistically rigorous A/B tests and interpret experiment results. Use when asked to design an experiment, run an A/B test, calculate sample size, interpret test results, or assess whether an experiment was successful. Produces a complete experiment design with hypothesis, sample size, run time, success criteria, and risk flags — or a results interpretation with ship/iterate/kill recommendation."
+description: "设计统计上严谨的 A/B 测试并解读实验结果。当被要求设计实验、运行 A/B 测试、计算样本量、解读测试结果或评估实验是否成功时使用。产出包含假设、样本量、运行时长、成功标准和风险标记的完整实验设计，或带上线/迭代/终止建议的结果解读。 | Design statistically rigorous A/B tests and interpret experiment results. Use when asked to design an experiment, run an A/B test, calculate sample size, interpret test results, or assess whether an experiment was successful. Produces a complete experiment design with hypothesis, sample size, run time, success criteria, and risk flags — or a results interpretation with ship/iterate/kill recommendation."
 ---
 
 # Experiment Designer Skill

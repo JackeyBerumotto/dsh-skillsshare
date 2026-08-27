@@ -1,6 +1,6 @@
 ---
 name: supabase
-description: "Use when doing ANY task involving Supabase. Triggers: Supabase products (Database, Auth, Edge Functions, Realtime, Storage, Vectors, Cron, Queues); client libraries and SSR integrations (supabase-js, @supabase/ssr) in Next.js, React, SvelteKit, Astro, Remix; auth issues (login, logout,..."
+description: "在执行任何涉及 Supabase 的任务时使用。触发条件：Supabase 产品（Database、Auth、Edge Functions、Realtime、Storage、Vectors、Cron、Queues）；Next.js、React、SvelteKit、Astro、Remix 中的客户端库和 SSR 集成（supabase-js、@supabase/ssr）；认证问题（登录、登出……） | Use when doing ANY task involving Supabase. Triggers: Supabase products (Database, Auth, Edge Functions, Realtime, Storage, Vectors, Cron, Queues); client libraries and SSR integrations (supabase-js, @supabase/ssr) in Next.js, React, SvelteKit, Astro, Remix; auth issues (login, logout,..."
 risk: unknown
 source: https://github.com/supabase/agent-skills/tree/main/skills/supabase
 source_repo: supabase/agent-skills

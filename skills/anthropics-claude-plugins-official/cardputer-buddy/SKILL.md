@@ -1,6 +1,6 @@
 ---
 name: cardputer-buddy
-description: Iterate on the Cardputer-Adv MicroPython app bundle (Claude Buddy, Snake, Hello) after the device is already provisioned via m5-onboard. Use when the user wants to add a new app, push a single changed .py without re-flashing, watch device serial logs, or run a one-shot REPL command. Trigger on "add an app", "push to the cardputer", "tail the device", "run on the device", or follow-up work after /maker-setup.
+description: 在设备已通过 m5-onboard 完成配置后，迭代 Cardputer-Adv MicroPython 应用包（Claude Buddy、Snake、Hello）。当用户想添加新应用、推送单个已修改的 .py 而无需重新刷机、查看设备串口日志或运行一次性 REPL 命令时使用。触发词：「add an app」、「push to the cardputer」、「tail the device」、「run on the device」，或 /maker-setup 之后的后续工作。 | Iterate on the Cardputer-Adv MicroPython app bundle (Claude Buddy, Snake, Hello) after the device is already provisioned via m5-onboard. Use when the user wants to add a new app, push a single changed .py without re-flashing, watch device serial logs, or run a one-shot REPL command. Trigger on "add an app", "push to the cardputer", "tail the device", "run on the device", or follow-up work after /maker-setup.
 ---
 
 # Cardputer Buddy app bundle

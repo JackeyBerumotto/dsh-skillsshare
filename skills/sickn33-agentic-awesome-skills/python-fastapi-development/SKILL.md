@@ -1,6 +1,6 @@
 ---
 name: python-fastapi-development
-description: "Python FastAPI backend development with async patterns, SQLAlchemy, Pydantic, authentication, and production API patterns."
+description: "Python FastAPI 后端开发，涵盖异步模式、SQLAlchemy、Pydantic、鉴权和生产级 API 模式。 | Python FastAPI backend development with async patterns, SQLAlchemy, Pydantic, authentication, and production API patterns."
 category: granular-workflow-bundle
 risk: safe
 source: personal

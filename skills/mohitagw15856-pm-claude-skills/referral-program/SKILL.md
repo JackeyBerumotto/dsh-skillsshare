@@ -1,6 +1,6 @@
 ---
 name: referral-program
-description: "Design a referral program that drives real word-of-mouth growth. Use when asked to build a referral or refer-a-friend program, create an incentive/reward structure, or turn happy users into a growth channel. Produces the incentive design (who gets what, when), the mechanics and trigger moment, fraud guardrails, and the unit-economics check — a program that pays back, not one that just burns budget."
+description: "设计能带来真实口碑增长的推荐计划。当被要求构建推荐或「邀请好友」计划、创建激励/奖励结构，或将满意用户转化为增长渠道时使用。产出激励设计（谁在何时获得什么）、机制与触发时机、欺诈防护以及单位经济学检验，一个能回本的项目，而不是单纯烧预算的项目。 | Design a referral program that drives real word-of-mouth growth. Use when asked to build a referral or refer-a-friend program, create an incentive/reward structure, or turn happy users into a growth channel. Produces the incentive design (who gets what, when), the mechanics and trigger moment, fraud guardrails, and the unit-economics check — a program that pays back, not one that just burns budget."
 ---
 
 # Referral Program Skill

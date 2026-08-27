@@ -1,6 +1,6 @@
 ---
 name: google_classroom-automation
-description: "Automate Google Classroom tasks via Rube MCP (Composio): course management, assignments, student rosters, and announcements. Always search tools first for current schemas."
+description: "通过 Rube MCP（Composio）自动化 Google Classroom 任务：课程管理、作业、学生名册以及公告。务必先搜索工具以获取最新 schema。 | Automate Google Classroom tasks via Rube MCP (Composio): course management, assignments, student rosters, and announcements. Always search tools first for current schemas."
 requires:
   mcp: [rube]
 ---

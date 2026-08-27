@@ -1,6 +1,6 @@
 ---
 name: biopython
-description: Comprehensive molecular biology toolkit. Use for sequence manipulation, file parsing (FASTA/GenBank/PDB), phylogenetics, and programmatic NCBI/PubMed access (Bio.Entrez). Best for batch processing, custom bioinformatics pipelines, BLAST automation. For quick lookups use gget; for multi-service integration use bioservices.
+description: 综合分子生物学工具包。用于序列操作、文件解析（FASTA/GenBank/PDB）、系统发育学以及程序化访问 NCBI/PubMed（Bio.Entrez）。最适合批量处理、自定义生物信息学流程和 BLAST 自动化。快速查询请使用 gget；多服务集成请使用 bioservices。 | Comprehensive molecular biology toolkit. Use for sequence manipulation, file parsing (FASTA/GenBank/PDB), phylogenetics, and programmatic NCBI/PubMed access (Bio.Entrez). Best for batch processing, custom bioinformatics pipelines, BLAST automation. For quick lookups use gget; for multi-service integration use bioservices.
 allowed-tools: Read Write Edit Bash
 compatibility: Requires Python 3.10+, NumPy, and Biopython. Entrez and web BLAST examples require network access; local BLAST/MUSCLE examples require those command-line tools installed separately.
 license: Biopython License Agreement

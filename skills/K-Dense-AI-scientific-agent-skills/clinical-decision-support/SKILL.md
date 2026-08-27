@@ -1,6 +1,6 @@
 ---
 name: clinical-decision-support
-description: Generate professional clinical decision support (CDS) documents for pharmaceutical and clinical research settings, including patient cohort analyses (biomarker-stratified with outcomes) and treatment recommendation reports (evidence-based guidelines with decision algorithms). Supports GRADE evidence grading, statistical analysis (hazard ratios, survival curves, waterfall plots), biomarker integration, and regulatory compliance. Outputs publication-ready LaTeX/PDF format optimized for drug development, clinical research, and evidence synthesis.
+description: 为制药和临床研究场景生成专业的临床决策支持（CDS）文档，包括患者队列分析（按生物标志物分层并带结局数据）和治疗建议报告（循证指南加决策算法）。支持 GRADE 证据分级、统计分析（风险比、生存曲线、瀑布图）、生物标志物整合和监管合规。输出为针对药物研发、临床研究和证据合成优化的、可发表级别的 LaTeX/PDF 格式。 | Generate professional clinical decision support (CDS) documents for pharmaceutical and clinical research settings, including patient cohort analyses (biomarker-stratified with outcomes) and treatment recommendation reports (evidence-based guidelines with decision algorithms). Supports GRADE evidence grading, statistical analysis (hazard ratios, survival curves, waterfall plots), biomarker integration, and regulatory compliance. Outputs publication-ready LaTeX/PDF format optimized for drug development, clinical research, and evidence synthesis.
 allowed-tools: Read Write Edit Bash
 license: MIT License
 required_environment_variables: [{"name": "OPENROUTER_API_KEY", "prompt": "OpenRouter API key for the skill's LLM-powered steps.", "required_for": "optional features"}]

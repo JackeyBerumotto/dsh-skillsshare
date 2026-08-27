@@ -1,6 +1,6 @@
 ---
 name: prototype
-description: Build a throwaway prototype to flesh out a design — a runnable terminal app for state/business-logic questions, or several radically different UI variations toggleable from one route.
+description: 构建一次性原型来充实设计——针对状态或业务逻辑问题提供一个可运行的终端应用，或提供多个截然不同、可从一个路由切换的 UI 变体。 | Build a throwaway prototype to flesh out a design — a runnable terminal app for state/business-logic questions, or several radically different UI variations toggleable from one route.
 disable-model-invocation: true
 category: "development"
 risk: "safe"

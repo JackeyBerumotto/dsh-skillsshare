@@ -1,6 +1,6 @@
 ---
 name: mobile-storage-sqlite-powersync
-description: PowerSync offline-first sync engine on SQLite for React Native - schema definition, watched queries, CRUD operations, backend connectors, sync rules, conflict resolution, attachments
+description: 基于 SQLite 的 PowerSync 离线优先同步引擎（用于 React Native）——模式定义、watch 查询、CRUD 操作、后端连接器、同步规则、冲突解决和附件 | PowerSync offline-first sync engine on SQLite for React Native - schema definition, watched queries, CRUD operations, backend connectors, sync rules, conflict resolution, attachments
 ---
 
 # SQLite + PowerSync Patterns

@@ -1,6 +1,6 @@
 ---
 name: infra-platform-vercel
-description: Vercel deployment platform — project configuration, serverless/edge functions, Routing Middleware, cron jobs, environment variables, monorepo setup
+description: Vercel 部署平台——项目配置、serverless/边缘函数、Routing Middleware、定时任务、环境变量和 monorepo 设置。 | Vercel deployment platform — project configuration, serverless/edge functions, Routing Middleware, cron jobs, environment variables, monorepo setup
 ---
 
 # Vercel Platform Patterns

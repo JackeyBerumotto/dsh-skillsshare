@@ -1,6 +1,6 @@
 ---
 name: polars
-description: High-performance DataFrame library for Python ETL, analytics, and pandas migration. Use for expression-based data manipulation with lazy query optimization, parallel execution, streaming out-of-core processing, Arrow interoperability, and optional GPU execution.
+description: 高性能 DataFrame 库，用于 Python ETL、分析和 pandas 迁移。适用于基于表达式的数据操作，具备惰性查询优化、并行执行、流式核外处理、Arrow 互操作和可选的 GPU 执行。 | High-performance DataFrame library for Python ETL, analytics, and pandas migration. Use for expression-based data manipulation with lazy query optimization, parallel execution, streaming out-of-core processing, Arrow interoperability, and optional GPU execution.
 license: https://github.com/pola-rs/polars/blob/main/LICENSE
 allowed-tools: Read
 compatibility: Requires Python 3.10+ for polars 1.41.x. Install with uv pip install; optional extras enable Excel, database, cloud, pandas/NumPy, and GPU integrations.

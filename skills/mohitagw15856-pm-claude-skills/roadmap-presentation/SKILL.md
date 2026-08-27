@@ -1,6 +1,6 @@
 ---
 name: roadmap-presentation
-description: "Create structured roadmap presentations calibrated to any audience. Use when asked to build a product roadmap, present roadmap to leadership, create a roadmap slide, or communicate quarterly plans to execs, teams, or customers. Produces an audience-calibrated Now/Next/Later roadmap with strategic context, initiative tables, success metrics, and explicit deprioritisation rationale."
+description: "创建面向任意受众校准的结构化路线图演示。当被要求构建产品路线图、向领导层展示路线图、制作路线图幻灯片，或向高管、团队或客户传达季度计划时使用。产出按受众校准的 Now/Next/Later 路线图，包含战略背景、举措表格、成功指标以及明确的降级取舍理由。 | Create structured roadmap presentations calibrated to any audience. Use when asked to build a product roadmap, present roadmap to leadership, create a roadmap slide, or communicate quarterly plans to execs, teams, or customers. Produces an audience-calibrated Now/Next/Later roadmap with strategic context, initiative tables, success metrics, and explicit deprioritisation rationale."
 ---
 
 # Roadmap Presentation Skill

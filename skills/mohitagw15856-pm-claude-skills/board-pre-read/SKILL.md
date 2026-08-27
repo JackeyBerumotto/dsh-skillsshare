@@ -1,6 +1,6 @@
 ---
 name: board-pre-read
-description: "Write a board pre-read that's sent before the meeting so the meeting is about decisions, not status. Use when asked to prepare a board pre-read, a board update/package, or pre-meeting materials for a board. Produces a board pre-read — a TL;DR, the metrics dashboard vs. plan, what's working / what's not, the decisions and asks for the board, and risks — designed to be read in advance."
+description: "撰写会前发出的董事会预读材料，让会议聚焦决策而非进度汇报。在被要求准备董事会预读、董事会更新材料/资料包或董事会会前材料时使用。产出一份董事会预读——TL;DR、对照计划的指标看板、哪些有效/哪些无效、需要董事会决策的事项与请求，以及风险——专为提前阅读设计。 | Write a board pre-read that's sent before the meeting so the meeting is about decisions, not status. Use when asked to prepare a board pre-read, a board update/package, or pre-meeting materials for a board. Produces a board pre-read — a TL;DR, the metrics dashboard vs. plan, what's working / what's not, the decisions and asks for the board, and risks — designed to be read in advance."
 ---
 
 # Board Pre-Read Skill

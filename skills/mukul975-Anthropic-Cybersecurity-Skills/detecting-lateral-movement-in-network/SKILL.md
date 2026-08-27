@@ -1,10 +1,6 @@
 ---
 name: detecting-lateral-movement-in-network
-description: 'Identifies lateral movement techniques in enterprise networks by analyzing
-  authentication logs, network flows, SMB traffic, and RDP sessions using Zeek, Velociraptor,
-  and SIEM correlation rules to detect attackers moving between systems.
-
-  '
+description: "通过使用 Zeek、Velociraptor 和 SIEM 关联规则分析认证日志、网络流、SMB 流量和 RDP 会话，识别企业网络中的横向移动技术，以检测攻击者在系统之间的移动。 | Identifies lateral movement techniques in enterprise networks by analyzing authentication logs, network flows, SMB traffic, and RDP sessions using Zeek, Velociraptor, and SIEM correlation rules to detect attackers moving between systems."
 domain: cybersecurity
 subdomain: network-security
 tags:

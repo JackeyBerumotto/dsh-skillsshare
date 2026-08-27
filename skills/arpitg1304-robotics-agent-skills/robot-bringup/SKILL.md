@@ -1,7 +1,7 @@
 ---
 name: robot-bringup
 description: >
-  Patterns and best practices for bringing up a complete ROS2-based robotics system on a robot's
+  在机器人机载计算机上启动完整 ROS2 机器人系统的模式与最佳实践，包括 systemd 服务、launch 文件组合、有序启动和生产监控。当配置机器人在开机时启动 ROS2 节点、为 ROS2 launch 编写 systemd 单元文件、为完整机器人栈组合分层 launch 文件、设置看门狗监控、配置 udev 规则以实现确定性设备命名，或调试启动时的竞态条件时使用此技能。当用户提到机器人 bringup、机器人启动、systemd for ROS2、ROS2 on boot、launch 文件组合、机器人启动顺序、相机或串口的 udev 规则、机器人系统看门狗、ROS2 节点自动重启、多机 ROS2 网络配置、机器人日志轮转、机器人栈的优雅关闭，或基于 SSH 的机器人远程调试时触发。在 systemd 中的环境设置（source 工作区）、带健康检查的有序启动、确定性设备命名，或任何关于将 ROS2 系统作为长期运行的生产服务的讨论时也应触发。涵盖 Ubuntu 22.04/24.04 上搭配 ROS2 Humble、Iron 和 Jazzy 的 systemd 实践。 |
   onboard computer, including systemd services, launch file composition, ordered startup, and
   production monitoring. Use this skill when configuring a robot to start ROS2 nodes on boot,
   writing systemd unit files for ROS2 launch, composing layered launch files for full robot stacks,

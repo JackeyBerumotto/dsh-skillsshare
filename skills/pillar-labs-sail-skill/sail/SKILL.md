@@ -1,7 +1,7 @@
 ---
 name: sail
 description: >-
-  Apply the SAIL (Secure AI Lifecycle) V2 framework by Pillar Security to secure AI
+  应用 Pillar Security 的 SAIL（Secure AI Lifecycle）V2 框架来保护 AI 应用与代理的安全。当用户询问 AI 或代理安全相关问题时使用——评估 AI 系统或代理架构的风险、制定 AI 安全路线图或成熟度评估、撰写或评审 AI 安全策略、创建合规清单（ISO/IEC 42001、EU AI Act、OWASP LLM/Agentic、DASF、AIUC-1）、排列 AI 安全控制措施的优先级、评估 AI 供应商或工具（RFP、安全问卷）、加固 MCP 服务器、代理身份或 LLM 应用，或询问「SAIL」或「SAIL ID」（例如 SAIL 5.17）的含义。当用户在构建代理型功能并想了解适用哪些安全风险时也应使用——即使他们从未提到「SAIL」。 |
   applications and agents. Use this skill whenever the user asks about AI or agent
   security — assessing an AI system or agent architecture for risks, building an AI
   security roadmap or maturity assessment, writing or reviewing an AI security policy,

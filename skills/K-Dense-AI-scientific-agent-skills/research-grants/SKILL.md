@@ -1,6 +1,6 @@
 ---
 name: research-grants
-description: Write competitive research proposals for NSF, NIH, DOE, DARPA, and Taiwan NSTC. Agency-specific formatting, review criteria, budget preparation, broader impacts, significance statements, innovation narratives, and compliance with submission requirements.
+description: 为 NSF、NIH、DOE、DARPA 和台湾国科会（NSTC）撰写有竞争力的科研提案。涵盖机构特定格式、评审标准、预算编制、更广泛影响、意义陈述、创新叙事和提交合规要求。 | Write competitive research proposals for NSF, NIH, DOE, DARPA, and Taiwan NSTC. Agency-specific formatting, review criteria, budget preparation, broader impacts, significance statements, innovation narratives, and compliance with submission requirements.
 allowed-tools: Read Write Edit Bash
 license: MIT license
 compatibility: Works in Agent Skills-compatible hosts. Grant-writing guidance needs no network; optional figures via the scientific-schematics skill require OPENROUTER_API_KEY and outbound API access.

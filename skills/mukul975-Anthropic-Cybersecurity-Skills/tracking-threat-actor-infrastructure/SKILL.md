@@ -1,8 +1,6 @@
 ---
 name: tracking-threat-actor-infrastructure
-description: Threat actor infrastructure tracking involves monitoring and mapping
-  adversary-controlled assets including command-and-control (C2) servers, phishing
-  domains, exploit kit hosts, bulletproof hosting, a
+description: "威胁行为者基础设施追踪涉及监控并映射对手控制的资产，包括命令控制（C2）服务器、钓鱼域名、漏洞利用工具包宿主与防弹托管（bulletproof hosting）等。 | Threat actor infrastructure tracking involves monitoring and mapping adversary-controlled assets including command-and-control (C2) servers, phishing domains, exploit kit hosts, bulletproof hosting, a"
 domain: cybersecurity
 subdomain: threat-intelligence
 tags:

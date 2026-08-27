@@ -1,6 +1,6 @@
 ---
 name: case-study-writeup
-description: "Write a client case study that sells future work — challenge, approach, results. Use when asked to write a case study, a client success story, a project write-up, or a portfolio case for consulting/agency work. Produces a results-led case study — the client & challenge, your approach, quantified outcomes, a client quote slot, and a takeaway — structured to win the next client. Ready to export as a designed PDF."
+description: "撰写能带来后续业务的客户案例研究——挑战、方法、成果。在被要求编写案例研究、客户成功故事、项目总结，或咨询/代理工作的作品集案例时使用。产出以成果为主导的案例研究——客户与挑战、你的方法、量化的成果、客户引言占位和要点启示——结构设计旨在赢得下一位客户。可导出为设计精美的 PDF。 | Write a client case study that sells future work — challenge, approach, results. Use when asked to write a case study, a client success story, a project write-up, or a portfolio case for consulting/agency work. Produces a results-led case study — the client & challenge, your approach, quantified outcomes, a client quote slot, and a takeaway — structured to win the next client. Ready to export as a designed PDF."
 ---
 
 # Case Study Write-up Skill

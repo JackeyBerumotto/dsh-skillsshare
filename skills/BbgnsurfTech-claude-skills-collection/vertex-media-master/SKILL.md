@@ -1,6 +1,6 @@
 ---
 name: Vertex AI Media Master
-description: Automatic activation for all google vertex ai multimodal operations - Use when appropriate context detected. Trigger with relevant phrases based on skill purpose.
+description: 对所有 google vertex ai 多模态操作自动激活。在检测到合适上下文时使用。可基于技能用途以相关短语触发。 | Automatic activation for all google vertex ai multimodal operations - Use when appropriate context detected. Trigger with relevant phrases based on skill purpose.
 version: 1.0.0
 allowed-tools:
 - Read

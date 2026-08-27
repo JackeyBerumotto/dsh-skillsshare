@@ -1,6 +1,6 @@
 ---
 name: corporate
-description: Professional, brand-aligned design with structured grids, minimalist layouts, and consistent enterprise patterns.
+description: 专业且契合品牌的设计，采用结构化网格、极简版式和一致的企业模式。 | Professional, brand-aligned design with structured grids, minimalist layouts, and consistent enterprise patterns.
 license: MIT
 metadata:
   author: typeui.sh

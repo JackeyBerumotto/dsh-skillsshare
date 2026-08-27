@@ -1,10 +1,6 @@
 ---
 name: hunting-for-defense-evasion-via-timestomping
-description: 'Detect NTFS timestamp manipulation (MITRE T1070.006) by comparing $STANDARD_INFORMATION
-  vs $FILE_NAME timestamps in the MFT. Uses analyzeMFT and Python to identify files
-  with anomalous temporal patterns indicating anti-forensic timestomping activity.
-
-  '
+description: "通过比较 MFT 中 $STANDARD_INFORMATION 与 $FILE_NAME 的时间戳，检测 NTFS 时间戳篡改（MITRE T1070.006）。使用 analyzeMFT 和 Python 识别时间模式异常的文件，揭示反取证的 timestomping 活动。 | Detect NTFS timestamp manipulation (MITRE T1070.006) by comparing $STANDARD_INFORMATION vs $FILE_NAME timestamps in the MFT. Uses analyzeMFT and Python to identify files with anomalous temporal patterns indicating anti-forensic timestomping activity."
 domain: cybersecurity
 subdomain: threat-hunting
 tags:

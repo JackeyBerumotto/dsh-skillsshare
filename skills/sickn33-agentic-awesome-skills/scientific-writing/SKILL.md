@@ -1,6 +1,6 @@
 ---
 name: scientific-writing
-description: "This is the core skill for the deep research and writing tool—combining AI-driven deep research with well-formatted written outputs. Every document produced is backed by comprehensive literature search and verified citations through the research-lookup skill."
+description: "这是深度研究与写作工具的核心技能——将 AI 驱动的深度研究与格式规范的书面输出相结合。产出的每份文档都有全面的文献检索支撑，并通过 research-lookup 技能核实引文。 | This is the core skill for the deep research and writing tool—combining AI-driven deep research with well-formatted written outputs. Every document produced is backed by comprehensive literature search and verified citations through the research-lookup skill."
 license: MIT license
 metadata:
     skill-author: K-Dense Inc.

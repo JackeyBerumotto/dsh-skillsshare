@@ -1,6 +1,6 @@
 ---
 name: saas-metrics
-description: "Compute the core SaaS metrics — MRR/ARR, growth, NRR/GRR, churn, quick ratio, magic number — from your numbers. Use when asked to calculate SaaS metrics, MRR/ARR, net revenue retention, the quick ratio, or to build a SaaS metrics snapshot for a board/investor update. Produces a computed metrics dashboard with each value, its benchmark, and a one-line read on what it means."
+description: "根据你的数据计算核心 SaaS 指标——MRR/ARR、增长率、NRR/GRR、流失率、速动比率、魔法数字。在被要求计算 SaaS 指标、MRR/ARR、净收入留存、速动比率，或为董事会/投资人更新制作 SaaS 指标快照时使用。产出一个计算好的指标仪表盘，包含每个数值、其基准以及一行解读其含义。 | Compute the core SaaS metrics — MRR/ARR, growth, NRR/GRR, churn, quick ratio, magic number — from your numbers. Use when asked to calculate SaaS metrics, MRR/ARR, net revenue retention, the quick ratio, or to build a SaaS metrics snapshot for a board/investor update. Produces a computed metrics dashboard with each value, its benchmark, and a one-line read on what it means."
 ---
 
 # SaaS Metrics Skill

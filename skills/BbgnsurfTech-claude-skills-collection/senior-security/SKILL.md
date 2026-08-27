@@ -1,6 +1,6 @@
 ---
 name: senior-security
-description: Comprehensive security engineering skill for application security, penetration testing, security architecture, and compliance auditing. Includes security assessment tools, threat modeling, crypto implementation, and security automation. Use when designing security architecture, conducting penetration tests, implementing cryptography, or performing security audits.
+description: 面向应用安全、渗透测试、安全架构和合规审计的综合安全工程技能。包括安全评估工具、威胁建模、加密实现和安全自动化。在设计安全架构、开展渗透测试、实现密码学或执行安全审计时使用。 | Comprehensive security engineering skill for application security, penetration testing, security architecture, and compliance auditing. Includes security assessment tools, threat modeling, crypto implementation, and security automation. Use when designing security architecture, conducting penetration tests, implementing cryptography, or performing security audits.
 ---
 
 # Senior Security

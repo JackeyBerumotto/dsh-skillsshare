@@ -1,6 +1,6 @@
 ---
 name: docker_hub-automation
-description: "Automate Docker Hub tasks via Rube MCP (Composio): repositories, images, tags, and container registry management. Always search tools first for current schemas."
+description: "通过 Rube MCP（Composio）自动化 Docker Hub 任务：仓库、镜像、标签以及容器镜像仓库管理。务必先搜索工具以获取最新 schema。 | Automate Docker Hub tasks via Rube MCP (Composio): repositories, images, tags, and container registry management. Always search tools first for current schemas."
 requires:
   mcp: [rube]
 ---

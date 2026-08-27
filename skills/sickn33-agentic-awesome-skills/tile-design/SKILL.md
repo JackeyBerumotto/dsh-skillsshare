@@ -1,6 +1,6 @@
 ---
 name: tile-design
-description: Web and App implementation guide for Tile Design. Trigger when user wants Microsoft Metro style, sharp square information units, and horizontal scrolling grids.
+description: Tile Design（瓦片式设计）的 Web 与 App 实现指南。当用户需要 Microsoft Metro 风格、方正的信息单元和横向滚动网格时触发。 | Web and App implementation guide for Tile Design. Trigger when user wants Microsoft Metro style, sharp square information units, and horizontal scrolling grids.
 date_added: "2026-06-17"
 risk: safe
 source: self

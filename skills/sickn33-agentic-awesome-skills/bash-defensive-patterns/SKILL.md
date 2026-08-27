@@ -1,6 +1,6 @@
 ---
 name: bash-defensive-patterns
-description: "Master defensive Bash programming techniques for production-grade scripts. Use when writing robust shell scripts, CI/CD pipelines, or system utilities requiring fault tolerance and safety."
+description: "掌握防御式 Bash 编程技术，编写生产级脚本。在编写健壮的 shell 脚本、CI/CD 流水线，或需要容错与安全保障的系统工具时使用。 | Master defensive Bash programming techniques for production-grade scripts. Use when writing robust shell scripts, CI/CD pipelines, or system utilities requiring fault tolerance and safety."
 risk: safe
 source: community
 date_added: "2026-02-27"

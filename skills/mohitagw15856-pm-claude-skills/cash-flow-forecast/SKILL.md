@@ -1,6 +1,6 @@
 ---
 name: cash-flow-forecast
-description: "Build a short-term (13-week) cash flow forecast to see if you can cover what's due. Use when asked to build a cash flow forecast, a 13-week cash flow, a cash projection, or to plan around a cash crunch. Produces a week-by-week forecast structure — opening cash, expected inflows, scheduled outflows, net movement, and closing/low-point — with the formulas and a worked example, plus the levers if cash goes tight. Not financial advice."
+description: "构建短期（13 周）现金流预测，看看你能否覆盖到期支出。当被要求做现金流预测、13 周现金流、现金预估，或为现金紧张做打算时使用。产出逐周预测结构——期初现金、预期流入、计划流出、净变动与期末或最低点——附公式和完整示例，以及现金吃紧时可供使用的调节手段。不构成财务建议。 | Build a short-term (13-week) cash flow forecast to see if you can cover what's due. Use when asked to build a cash flow forecast, a 13-week cash flow, a cash projection, or to plan around a cash crunch. Produces a week-by-week forecast structure — opening cash, expected inflows, scheduled outflows, net movement, and closing/low-point — with the formulas and a worked example, plus the levers if cash goes tight. Not financial advice."
 ---
 
 # Cash Flow Forecast Skill

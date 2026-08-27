@@ -1,7 +1,7 @@
 ---
 name: validating-database-integrity
 description: |
-  Use when you need to ensure database integrity through comprehensive data validation.
+  当你需要通过全面的数据验证确保数据库完整性时使用。此技能验证数据类型、范围、格式、引用完整性和业务规则。触发词如「validate database data」「implement data validation rules」「enforce data integrity constraints」或「validate data formats」。 |
   This skill validates data types, ranges, formats, referential integrity, and business rules.
   Trigger with phrases like "validate database data", "implement data validation rules",
   "enforce data integrity constraints", or "validate data formats".

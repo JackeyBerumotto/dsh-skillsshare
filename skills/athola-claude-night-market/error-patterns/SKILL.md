@@ -1,6 +1,6 @@
 ---
 name: error-patterns
-description: Provides error classification, recovery, and graceful-degradation patterns. Use when implementing error handling or debugging resilience failures in any skill.
+description: 提供错误分类、恢复和平滑降级模式。在任何技能中实现错误处理或调试韧性故障时使用。 | Provides error classification, recovery, and graceful-degradation patterns. Use when implementing error handling or debugging resilience failures in any skill.
 alwaysApply: false
 category: infrastructure
 tags:

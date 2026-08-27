@@ -1,6 +1,6 @@
 ---
 name: session-replay
-description: Converts a Claude Code session JSONL file into an animated GIF terminal replay. Use when creating demos or visual evidence from past sessions.
+description: 将 Claude Code 会话的 JSONL 文件转换为动画 GIF 终端回放。在用过往会话制作演示或可视化证据时使用。 | Converts a Claude Code session JSONL file into an animated GIF terminal replay. Use when creating demos or visual evidence from past sessions.
 globs: "**/*.jsonl"
 alwaysApply: false
 category: artifact-generation

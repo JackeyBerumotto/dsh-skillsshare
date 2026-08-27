@@ -1,6 +1,6 @@
 ---
 name: api-baas-firebase
-description: Firebase backend-as-a-service — Firestore, Authentication, Cloud Functions v2, Storage, Hosting, Admin SDK, security rules, emulator suite
+description: Firebase 后端即服务——Firestore、Authentication、Cloud Functions v2、Storage、Hosting、Admin SDK、安全规则、模拟器套件 | Firebase backend-as-a-service — Firestore, Authentication, Cloud Functions v2, Storage, Hosting, Admin SDK, security rules, emulator suite
 ---
 
 # Firebase Patterns

@@ -1,6 +1,6 @@
 ---
 name: data-pipeline-spec
-description: "Design an ETL/ELT data pipeline specification. Use when asked to design a data pipeline, spec an ETL or ELT process, document a data ingestion workflow, or plan a data integration. Produces a complete pipeline spec with sources, transforms, destinations, SLAs, error handling, and data quality rules."
+description: "设计 ETL/ELT 数据流水线规格。当被要求设计数据流水线、编写 ETL 或 ELT 流程规格、记录数据摄取工作流或规划数据集成时使用。产出完整的流水线规格，包含数据源、转换、目标端、SLA、错误处理和数据质量规则。 | Design an ETL/ELT data pipeline specification. Use when asked to design a data pipeline, spec an ETL or ELT process, document a data ingestion workflow, or plan a data integration. Produces a complete pipeline spec with sources, transforms, destinations, SLAs, error handling, and data quality rules."
 ---
 
 # Data Pipeline Spec Skill

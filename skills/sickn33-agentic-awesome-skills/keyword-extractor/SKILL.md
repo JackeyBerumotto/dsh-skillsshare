@@ -1,7 +1,7 @@
 ---
 name: keyword-extractor
 description: >
-  Extracts up to 50 highly relevant SEO keywords from text. Use when user wants to generate or extract keywords for given text.
+  从文本提取多达 50 个高度相关的 SEO 关键词。当用户想为给定文本生成或提取关键词时使用。 |
 risk: safe
 source: original
 date_added: "2026-03-11"

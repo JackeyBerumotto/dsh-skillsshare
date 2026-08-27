@@ -1,6 +1,6 @@
 ---
 name: account-plan
-description: "Build a structured account plan for any key customer or target account. Use when asked to create an account plan, key account strategy, strategic account review, or territory plan. Produces a complete account plan with relationship map, growth opportunities, risks, and 90-day action plan."
+description: "为任何关键客户或目标客户构建结构化的客户计划。当被要求创建客户计划、大客户策略、战略客户回顾或区域规划时使用。产出完整客户计划，包含关系地图、增长机会、风险与 90 天行动计划。 | Build a structured account plan for any key customer or target account. Use when asked to create an account plan, key account strategy, strategic account review, or territory plan. Produces a complete account plan with relationship map, growth opportunities, risks, and 90-day action plan."
 ---
 
 # Account Plan Skill

@@ -1,6 +1,6 @@
 ---
 name: autonomous-loops
-description: "Patterns and architectures for autonomous Claude Code loops — from simple sequential pipelines to RFC-driven multi-agent DAG systems."
+description: "自主 Claude Code 循环的模式与架构——从简单的顺序管道到 RFC 驱动的多智能体 DAG 系统。 | Patterns and architectures for autonomous Claude Code loops — from simple sequential pipelines to RFC-driven multi-agent DAG systems."
 metadata:
   origin: ECC
 ---

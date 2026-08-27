@@ -1,6 +1,6 @@
 ---
 name: paid-acquisition-plan
-description: "Plan a paid acquisition / performance marketing program with unit economics that work. Use when asked to plan paid media, allocate an ad budget across channels, set CAC/LTV targets, or structure a creative-testing program. Produces a paid acquisition plan — economic guardrails (CAC/LTV/payback), channel allocation, account & campaign structure, a creative testing plan, the measurement approach, and scale/kill rules."
+description: "规划单位经济模型可行的付费获客/效果营销项目。当被要求规划付费媒体、跨渠道分配广告预算、设定 CAC/LTV 目标，或搭建创意测试项目时使用。产出一份付费获客计划——经济护栏（CAC/LTV/回收期）、渠道分配、账户与广告系列结构、创意测试计划、衡量方案，以及扩大/终止规则。 | Plan a paid acquisition / performance marketing program with unit economics that work. Use when asked to plan paid media, allocate an ad budget across channels, set CAC/LTV targets, or structure a creative-testing program. Produces a paid acquisition plan — economic guardrails (CAC/LTV/payback), channel allocation, account & campaign structure, a creative testing plan, the measurement approach, and scale/kill rules."
 ---
 
 # Paid Acquisition Plan Skill

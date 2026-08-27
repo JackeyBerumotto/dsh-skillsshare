@@ -1,6 +1,6 @@
 ---
 name: rma-failure-analysis
-description: "Turn field returns into a structured failure-analysis report — RMA triage taxonomy (NTF vs real failures), Pareto by verified failure mode, 8D-style containment→root-cause→corrective-action structure, and cost-of-quality framing. Use when asked to analyse RMA data, investigate field returns, run failure analysis on returned units, write an 8D report, or figure out why return rates are climbing. Produces a failure-analysis report with a triage-clean Pareto, 8D actions, and the cost case for fixing each mode."
+description: "将现场退货转化为结构化的失效分析报告——RMA 分诊分类（NTF 与真实失效）、按验证失效模式排序的帕累托分析、8D 式的遏制→根因→纠正措施结构，以及质量成本框架。当被要求分析 RMA 数据、调查现场退货、对退回产品做失效分析、撰写 8D 报告或查明退货率攀升的原因时使用。产出包含分诊清洗后帕累托、8D 行动和各模式修复成本论证的失效分析报告。 | Turn field returns into a structured failure-analysis report — RMA triage taxonomy (NTF vs real failures), Pareto by verified failure mode, 8D-style containment→root-cause→corrective-action structure, and cost-of-quality framing. Use when asked to analyse RMA data, investigate field returns, run failure analysis on returned units, write an 8D report, or figure out why return rates are climbing. Produces a failure-analysis report with a triage-clean Pareto, 8D actions, and the cost case for fixing each mode."
 ---
 
 # RMA Failure Analysis Skill

@@ -1,7 +1,7 @@
 ---
 source: "https://github.com/huggingface/skills/tree/main/skills/huggingface-jobs"
 name: hugging-face-jobs
-description: Run workloads on Hugging Face Jobs with managed CPUs, GPUs, TPUs, secrets, and Hub persistence.
+description: 在 Hugging Face Jobs 上运行工作负载，提供托管 CPU、GPU、TPU、密钥管理和 Hub 持久化。 | Run workloads on Hugging Face Jobs with managed CPUs, GPUs, TPUs, secrets, and Hub persistence.
 license: Complete terms in LICENSE.txt
 risk: unknown
 ---

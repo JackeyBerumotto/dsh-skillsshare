@@ -1,6 +1,6 @@
 ---
 name: fp-either-ref
-description: Quick reference for Either type. Use when user needs error handling, validation, or operations that can fail with typed errors.
+description: Either 类型快速参考。当用户需要错误处理、校验，或可能以类型化错误失败的操作时使用。 | Quick reference for Either type. Use when user needs error handling, validation, or operations that can fail with typed errors.
 risk: unknown
 source: community
 version: 1.0.0

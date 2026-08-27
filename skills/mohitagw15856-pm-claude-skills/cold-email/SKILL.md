@@ -1,6 +1,6 @@
 ---
 name: cold-email
-description: "Write a cold sales/B2B outreach email that earns a reply. Use when asked to write a cold email, a sales outreach email, a prospecting email, or a cold email sequence to a business prospect. Produces a short, personalised email — subject, a relevant opener, one clear value-led ask, and a low-friction CTA — plus 2 follow-ups, written to be replied to, not deleted."
+description: "撰写能赢得回复的冷销售/B2B 外联邮件。在被要求编写冷邮件、销售外联邮件、拓客邮件，或面向企业潜在客户的冷邮件序列时使用。产出简短、个性化的邮件——主题、相关的开场、一个以价值为核心的明确请求和低摩擦的 CTA——外加 2 封跟进邮件，以被回复而非被删除为目标撰写。 | Write a cold sales/B2B outreach email that earns a reply. Use when asked to write a cold email, a sales outreach email, a prospecting email, or a cold email sequence to a business prospect. Produces a short, personalised email — subject, a relevant opener, one clear value-led ask, and a low-friction CTA — plus 2 follow-ups, written to be replied to, not deleted."
 ---
 
 # Cold Email Skill

@@ -1,6 +1,6 @@
 ---
 name: figma-annotation-guide
-description: "Generate structured developer handoff annotations for a Figma screen or component. Use when asked to write Figma annotations, create dev handoff notes, document a Figma design for developers, or write specs for a screen. Produces a complete annotation set covering interactions, states, spacing, accessibility, and edge cases."
+description: "为 Figma 界面或组件生成结构化的开发者交接标注。当被要求编写 Figma 标注、创建开发交接说明、为开发者记录 Figma 设计，或为界面编写规格时使用。产出一套完整标注，涵盖交互、状态、间距、无障碍和边界情况。 | Generate structured developer handoff annotations for a Figma screen or component. Use when asked to write Figma annotations, create dev handoff notes, document a Figma design for developers, or write specs for a screen. Produces a complete annotation set covering interactions, states, spacing, accessibility, and edge cases."
 ---
 
 # Figma Annotation Guide Skill

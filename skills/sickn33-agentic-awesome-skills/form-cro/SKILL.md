@@ -1,6 +1,6 @@
 ---
 name: form-cro
-description: Optimize any form that is NOT signup or account registration — including lead capture, contact, demo request, application, survey, quote, and checkout forms.
+description: 优化任何不属于注册或账户创建的表单，包括线索捕获、联系、演示申请、申请、问卷、报价和结账表单。 | Optimize any form that is NOT signup or account registration — including lead capture, contact, demo request, application, survey, quote, and checkout forms.
 risk: unknown
 source: community
 date_added: '2026-02-27'

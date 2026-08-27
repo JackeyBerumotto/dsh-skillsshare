@@ -1,6 +1,6 @@
 ---
 name: error-decoder
-description: "Decode an error message or stack trace into a plain-English cause, the exact fix, and how to prevent it. Use when asked to explain an error, debug a stack trace, figure out why code is throwing, or make sense of a cryptic exception. Produces a structured diagnosis: what the error means, the most likely cause, a concrete fix with code, and a prevention tip."
+description: "将错误信息或堆栈跟踪解读为通俗的原因说明、确切的修复方法以及预防措施。当被要求解释错误、调试堆栈跟踪、弄清代码为何抛错或理解晦涩的异常时使用。产出结构化诊断：错误的含义、最可能的原因、带代码的具体修复方案以及一条预防提示。 | Decode an error message or stack trace into a plain-English cause, the exact fix, and how to prevent it. Use when asked to explain an error, debug a stack trace, figure out why code is throwing, or make sense of a cryptic exception. Produces a structured diagnosis: what the error means, the most likely cause, a concrete fix with code, and a prevention tip."
 ---
 
 # Error Decoder Skill

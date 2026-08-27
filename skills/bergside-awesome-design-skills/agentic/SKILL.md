@@ -1,6 +1,6 @@
 ---
 name: agentic
-description: Conversational AI-first interface with minimal controls, clear outcomes, and delegated task flows for agentic workflows.
+description: 对话式 AI 优先界面，控件极简、结果清晰，并为智能体工作流提供委托式任务流。 | Conversational AI-first interface with minimal controls, clear outcomes, and delegated task flows for agentic workflows.
 license: MIT
 metadata:
   author: typeui.sh

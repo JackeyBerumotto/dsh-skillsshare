@@ -2,7 +2,7 @@
 name: tracking-crypto-portfolio
 version: 1.0.0
 description: |
-  Track multi-chain crypto portfolio with real-time valuations and performance metrics.
+  跟踪多链加密货币投资组合，提供实时估值和绩效指标。用于管理多链加密资产时。使用「track my portfolio」「check holdings」「analyze positions」等短语触发。 |
   Use when managing multi-chain crypto holdings.
   Trigger with phrases like "track my portfolio", "check holdings", or "analyze positions".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(crypto:portfolio-*)

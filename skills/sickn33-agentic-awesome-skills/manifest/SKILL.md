@@ -1,6 +1,6 @@
 ---
 name: manifest
-description: "Install and configure the Manifest observability plugin for your agents. Use when setting up telemetry, configuring API keys, or troubleshooting the plugin."
+description: "为你的智能体安装并配置 Manifest 可观测性插件。在设置遥测、配置 API 密钥或排查插件故障时使用。 | Install and configure the Manifest observability plugin for your agents. Use when setting up telemetry, configuring API keys, or troubleshooting the plugin."
 risk: unknown
 source: community
 date_added: "2026-02-27"

@@ -1,6 +1,6 @@
 ---
 name: metric-semantic-layer
-description: "Define a metric in a semantic layer so it means one thing everywhere. Use when asked to define a metric, build a semantic layer / metrics layer entry, stop 'revenue means three things' problems, or write a metric definition for dbt MetricFlow / Cube / LookML. Produces a metric definition — exact formula, the base measure & aggregation, dimensions, filters, grain, edge cases, and a tool-ready spec."
+description: "在语义层中定义指标，使其在所有地方含义一致。当被要求定义指标、构建语义层／指标层条目、解决「营收有三种口径」的问题，或为 dbt MetricFlow／Cube／LookML 编写指标定义时使用。产出一份指标定义——精确公式、基础度量与聚合方式、维度、筛选条件、粒度、边界情况以及可直接用于工具的规格。 | Define a metric in a semantic layer so it means one thing everywhere. Use when asked to define a metric, build a semantic layer / metrics layer entry, stop 'revenue means three things' problems, or write a metric definition for dbt MetricFlow / Cube / LookML. Produces a metric definition — exact formula, the base measure & aggregation, dimensions, filters, grain, edge cases, and a tool-ready spec."
 ---
 
 # Metric Semantic Layer Skill

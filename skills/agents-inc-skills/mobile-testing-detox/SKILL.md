@@ -1,6 +1,6 @@
 ---
 name: mobile-testing-detox
-description: Detox E2E gray-box testing for React Native - matchers, actions, expectations, waitFor, device API, synchronization, mocking, artifacts, CI integration
+description: 面向 React Native 的 Detox E2E 灰盒测试：matchers、actions、expectations、waitFor、device API、同步、mocking、产物和 CI 集成。 | Detox E2E gray-box testing for React Native - matchers, actions, expectations, waitFor, device API, synchronization, mocking, artifacts, CI integration
 ---
 
 # Detox E2E Testing Patterns

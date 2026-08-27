@@ -1,6 +1,6 @@
 ---
 name: gradient
-description: Smooth color transitions and gradient-rich surfaces for modern, playful interfaces with visual depth.
+description: 平滑的色彩过渡和渐变丰富的表面，为现代、活泼的界面营造视觉深度。 | Smooth color transitions and gradient-rich surfaces for modern, playful interfaces with visual depth.
 license: MIT
 metadata:
   author: typeui.sh

@@ -1,6 +1,6 @@
 ---
 name: tooling-risk-assessment
-description: "Assess an injection-mold or production tooling decision before cutting steel — soft vs hard tooling tradeoff, tool life vs forecast, cavitation math, T1 sample timeline, cost of design changes after tooling, and kill criteria. Use when asked whether to kick off tooling, choose soft vs hard tools, size cavities, review a tooling quote, or assess the risk of tooling before the design is frozen. Produces a tooling risk assessment with capacity math, a decision recommendation, and explicit kill criteria."
+description: "在开模之前评估注塑模具或生产工装的决策——软模与硬模的权衡、模具寿命与需求预测的匹配、型腔数计算、T1 样件时间表、开模后设计变更的成本，以及终止标准。当被要求决定是否启动开模、在软模与硬模之间选择、确定型腔数量、审核模具报价，或在设计冻结前评估模具风险时使用。产出模具风险评估，包含产能计算、决策建议和明确的终止标准。 | Assess an injection-mold or production tooling decision before cutting steel — soft vs hard tooling tradeoff, tool life vs forecast, cavitation math, T1 sample timeline, cost of design changes after tooling, and kill criteria. Use when asked whether to kick off tooling, choose soft vs hard tools, size cavities, review a tooling quote, or assess the risk of tooling before the design is frozen. Produces a tooling risk assessment with capacity math, a decision recommendation, and explicit kill criteria."
 ---
 
 # Tooling Risk Assessment Skill

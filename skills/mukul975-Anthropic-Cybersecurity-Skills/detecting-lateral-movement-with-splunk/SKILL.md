@@ -1,7 +1,6 @@
 ---
 name: detecting-lateral-movement-with-splunk
-description: Detect adversary lateral movement across networks using Splunk SPL queries
-  against Windows authentication logs, SMB traffic, and remote service abuse.
+description: "使用 Splunk SPL 查询分析 Windows 身份验证日志、SMB 流量和远程服务滥用，检测攻击者跨网络的横向移动。 | Detect adversary lateral movement across networks using Splunk SPL queries against Windows authentication logs, SMB traffic, and remote service abuse."
 domain: cybersecurity
 subdomain: threat-hunting
 tags:

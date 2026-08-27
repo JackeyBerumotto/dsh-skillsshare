@@ -1,6 +1,6 @@
 ---
 name: competitor-tracking
-description: 'Systematic competitor analysis for developer tools. Track features, pricing, positioning, content strategy, and community sentiment for direct and indirect competitors. Trigger phrases: "competitor analysis", "track competitors", "competitive intelligence", "competitor research", "what...'
+description: '面向开发者工具的系统性竞品分析。追踪直接和间接竞争对手的功能、定价、定位、内容策略和社区舆论。触发短语：「competitor analysis」「track competitors」「competitive intelligence」「competitor research」「what……」 | Systematic competitor analysis for developer tools. Track features, pricing, positioning, content strategy, and community sentiment for direct and indirect competitors. Trigger phrases: "competitor analysis", "track competitors", "competitive intelligence", "competitor research", "what...'
 risk: unknown
 source: https://github.com/jonathimer/devmarketing-skills/tree/main/skills/competitor-tracking
 source_repo: jonathimer/devmarketing-skills

@@ -1,6 +1,6 @@
 ---
 name: go-to-market-planner
-description: "Build a go-to-market plan for any product launch, feature release, or new market entry. Use when planning a product launch, writing a GTM strategy, defining launch tiers, or coordinating cross-functional launch activities. Produces a tiered GTM plan with messaging, cross-functional activity tracker, success metrics, and launch day checklist. For positioning and messaging content itself use go-to-market instead."
+description: "为任何产品发布、功能上线或进入新市场构建 go-to-market 计划。在规划产品发布、撰写 GTM 策略、定义发布层级，或协调跨职能发布活动时使用。产出分层 GTM 计划，包含信息要点、跨职能活动跟踪表、成功指标与发布日检查清单。若要做定位与信息传递内容本身，请改用 go-to-market。 | Build a go-to-market plan for any product launch, feature release, or new market entry. Use when planning a product launch, writing a GTM strategy, defining launch tiers, or coordinating cross-functional launch activities. Produces a tiered GTM plan with messaging, cross-functional activity tracker, success metrics, and launch day checklist. For positioning and messaging content itself use go-to-market instead."
 ---
 
 # Go-to-Market Planner Skill

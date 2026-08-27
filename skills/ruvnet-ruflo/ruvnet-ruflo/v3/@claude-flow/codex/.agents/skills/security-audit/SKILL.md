@@ -1,7 +1,7 @@
 ---
 name: security-audit
 description: >
-  Security scanning and vulnerability detection.
+  安全扫描与漏洞检测。使用场景：身份验证、授权、支付处理、用户数据。跳过场景：只读操作、内部工具。 |
   Use when: authentication, authorization, payment processing, user data.
   Skip when: read-only operations, internal tooling.
 ---

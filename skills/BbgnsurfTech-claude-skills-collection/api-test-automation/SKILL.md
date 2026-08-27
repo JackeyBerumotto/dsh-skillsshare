@@ -2,7 +2,7 @@
 name: automating-api-testing
 version: 1.0.0
 description: |
-  Automate API endpoint testing including request generation, validation, and comprehensive test coverage for REST and GraphQL APIs.
+  自动化 API 端点测试，包括请求生成、校验以及 REST 和 GraphQL API 的全面测试覆盖。在测试 API 契约、校验 OpenAPI 规范或确保端点可靠性时使用。触发短语如「test the API」、「generate API tests」或「validate API contracts」。 |
   Use when testing API contracts, validating OpenAPI specifications, or ensuring endpoint reliability.
   Trigger with phrases like "test the API", "generate API tests", or "validate API contracts".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(test:api-*)

@@ -1,7 +1,7 @@
 ---
 name: automating-database-backups
 description: |
-  Use when you need to automate database backup processes with scheduling and encryption.
+  当你需要通过计划和加密自动化数据库备份流程时使用。此技能为 PostgreSQL、MySQL、MongoDB 和 SQLite 创建带压缩的备份脚本。触发词如「automate database backups」「schedule database dumps」「create backup scripts」或「implement disaster recovery for database」。 |
   This skill creates backup scripts for PostgreSQL, MySQL, MongoDB, and SQLite with compression.
   Trigger with phrases like "automate database backups", "schedule database dumps",
   "create backup scripts", or "implement disaster recovery for database".

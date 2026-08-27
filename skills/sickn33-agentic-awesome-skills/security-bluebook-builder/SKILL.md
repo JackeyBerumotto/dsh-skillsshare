@@ -1,6 +1,6 @@
 ---
 name: security-bluebook-builder
-description: "Build a minimal but real security policy for sensitive apps. The output is a single, coherent Blue Book document using MUST/SHOULD/CAN language, with explicit assumptions, scope, and security gates."
+description: "为敏感应用构建一份精简但真实有效的安全策略。输出是一份单一、连贯的 Blue Book 文档，使用 MUST、SHOULD、CAN 措辞，并包含明确的假设、范围与安全门禁。 | Build a minimal but real security policy for sensitive apps. The output is a single, coherent Blue Book document using MUST/SHOULD/CAN language, with explicit assumptions, scope, and security gates."
 risk: unknown
 source: community
 ---

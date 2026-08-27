@@ -1,6 +1,6 @@
 ---
 name: food-database-query
-description: Food Database Query
+description: 食物数据库查询 | Food Database Query
 risk: unknown
 source: community
 ---

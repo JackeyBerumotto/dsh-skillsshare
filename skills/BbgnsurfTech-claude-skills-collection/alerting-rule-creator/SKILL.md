@@ -1,8 +1,5 @@
 ---
-description: This skill enables claude to create intelligent alerting rules for proactive
-  performance monitoring. it is triggered when the user requests to "create alerts",
-  "define monitoring rules", or "set up alerting". the skill helps define thresholds,
-  rou...
+description: "本技能使 claude 能够创建用于主动性能监控的智能告警规则。当用户请求「create alerts」「define monitoring rules」或「set up alerting」时触发。本技能帮助定义阈值与告警路由等配置。 | This skill enables claude to create intelligent alerting rules for proactive performance monitoring. it is triggered when the user requests to \"create alerts\", \"define monitoring rules\", or \"set up alerting\". the skill helps define thresholds, rou..."
 allowed-tools:
 - Read
 - Write

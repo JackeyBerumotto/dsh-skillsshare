@@ -1,6 +1,6 @@
 ---
 name: odoo-xml-views-builder
-description: "Expert at building Odoo XML views: Form, List, Kanban, Search, Calendar, and Graph. Generates correct XML for Odoo 14-17 with proper visibility syntax."
+description: "精通构建 Odoo XML 视图的专家：Form、List、Kanban、Search、Calendar 和 Graph。为 Odoo 14-17 生成语法正确的可见性设置 XML。 | Expert at building Odoo XML views: Form, List, Kanban, Search, Calendar, and Graph. Generates correct XML for Odoo 14-17 with proper visibility syntax."
 risk: safe
 source: "self"
 ---

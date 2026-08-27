@@ -1,6 +1,6 @@
 ---
 name: minimalist-ui
-description: "Use when creating clean editorial interfaces with warm monochrome palettes, crisp borders, restrained motion, and flat bento layouts."
+description: "在创建简洁的编辑风格界面时使用，特点为温暖的单色调色板、利落的边框、克制的动效和扁平的便当盒布局。 | Use when creating clean editorial interfaces with warm monochrome palettes, crisp borders, restrained motion, and flat bento layouts."
 category: frontend
 risk: safe
 source: community

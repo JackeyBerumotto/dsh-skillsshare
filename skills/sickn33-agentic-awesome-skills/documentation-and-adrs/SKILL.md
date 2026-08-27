@@ -1,6 +1,6 @@
 ---
 name: documentation-and-adrs
-description: Records decisions and documentation. Use when making architectural decisions, changing public APIs, shipping features, or when you need to record context that future engineers and agents will need to understand the codebase.
+description: 记录决策与文档。在做出架构决策、变更公共 API、发布功能，或需要记录未来工程师和智能体理解代码库所需上下文时使用。 | Records decisions and documentation. Use when making architectural decisions, changing public APIs, shipping features, or when you need to record context that future engineers and agents will need to understand the codebase.
 risk: unknown
 source: https://github.com/addyosmani/agent-skills/tree/main/skills/documentation-and-adrs
 source_repo: addyosmani/agent-skills

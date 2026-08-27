@@ -1,6 +1,6 @@
 ---
 name: model-selection-advisor
-description: "Choose the right LLM for a task by trading off quality, cost, latency, and constraints. Use when asked which model to use, whether to upgrade/downgrade a model, how to cut LLM costs without hurting quality, or to justify a model choice. Produces a recommendation with the decision criteria, a per-option comparison, a routing strategy (cheap-by-default, escalate when needed), and how to validate the choice with an eval."
+description: "通过权衡质量、成本、延迟和约束为任务选择合适的 LLM。当被问及用哪个模型、是否升级或降级模型、如何在不损害质量的前提下削减 LLM 成本，或需要论证模型选择时使用。产出一份建议，包含决策标准、逐项对比、路由策略（默认用便宜模型，需要时升级），以及如何用评估验证选择。 | Choose the right LLM for a task by trading off quality, cost, latency, and constraints. Use when asked which model to use, whether to upgrade/downgrade a model, how to cut LLM costs without hurting quality, or to justify a model choice. Produces a recommendation with the decision criteria, a per-option comparison, a routing strategy (cheap-by-default, escalate when needed), and how to validate the choice with an eval."
 ---
 
 # Model Selection Advisor Skill

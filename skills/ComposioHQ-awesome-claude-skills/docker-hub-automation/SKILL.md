@@ -1,6 +1,6 @@
 ---
 name: Docker Hub Automation
-description: "Automate Docker Hub operations -- manage organizations, repositories, teams, members, and webhooks via the Composio MCP integration."
+description: "通过 Composio MCP 集成自动化 Docker Hub 操作：管理组织、仓库、团队、成员以及 Webhook。 | Automate Docker Hub operations -- manage organizations, repositories, teams, members, and webhooks via the Composio MCP integration."
 requires:
   mcp:
     - rube

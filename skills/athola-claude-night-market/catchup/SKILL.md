@@ -1,6 +1,6 @@
 ---
 name: catchup
-description: Summarizes recent git changes for context recovery after session breaks. Use when resuming work after a gap or handing off to another session.
+description: 汇总近期的 git 变更，用于会话中断后的上下文恢复。在中断后恢复工作或向另一个会话交接时使用。 | Summarizes recent git changes for context recovery after session breaks. Use when resuming work after a gap or handing off to another session.
 alwaysApply: false
 category: analysis-methods
 tags:

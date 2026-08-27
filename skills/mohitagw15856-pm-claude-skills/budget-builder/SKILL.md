@@ -1,6 +1,6 @@
 ---
 name: budget-builder
-description: "Build a realistic personal monthly budget from someone's income and expenses. Use when asked to make a budget, plan monthly spending, allocate income, or get finances under control. Produces a categorized budget (a 50/30/20-style allocation tuned to their reality), a surplus/shortfall number, and concrete next moves. Educational, not regulated financial advice."
+description: "根据某人的收入与支出构建切合实际的个人月度预算。当被要求制定预算、规划月度开支、分配收入或理顺财务状况时使用。产出分类预算（按其实际情况调校的 50/30/20 式分配）、盈余或缺口数字，以及具体的下一步行动。仅供教育参考，不构成受监管的财务建议。 | Build a realistic personal monthly budget from someone's income and expenses. Use when asked to make a budget, plan monthly spending, allocate income, or get finances under control. Produces a categorized budget (a 50/30/20-style allocation tuned to their reality), a surplus/shortfall number, and concrete next moves. Educational, not regulated financial advice."
 ---
 
 # Budget Builder Skill

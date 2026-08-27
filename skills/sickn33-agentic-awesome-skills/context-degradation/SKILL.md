@@ -1,6 +1,6 @@
 ---
 name: context-degradation
-description: "Language models exhibit predictable degradation patterns as context length increases. Understanding these patterns is essential for diagnosing failures and designing resilient systems."
+description: "随着上下文长度增加，语言模型会表现出可预测的退化模式。理解这些模式对于诊断故障和设计有韧性的系统至关重要。 | Language models exhibit predictable degradation patterns as context length increases. Understanding these patterns is essential for diagnosing failures and designing resilient systems."
 risk: unknown
 source: community
 ---

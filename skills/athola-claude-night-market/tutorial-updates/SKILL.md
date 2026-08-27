@@ -1,6 +1,6 @@
 ---
 name: tutorial-updates
-description: Generates or updates tutorials from VHS tapes and Playwright specs with dual-tone markdown and GIF recording. Use when tutorial assets need refreshing.
+description: 从 VHS 磁带和 Playwright 规格生成或更新教程，输出双色调 Markdown 和 GIF 录屏。在教程资源需要更新时使用。 | Generates or updates tutorials from VHS tapes and Playwright specs with dual-tone markdown and GIF recording. Use when tutorial assets need refreshing.
 alwaysApply: false
 category: artifact-generation
 tags:

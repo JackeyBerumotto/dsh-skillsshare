@@ -1,6 +1,6 @@
 ---
 name: defi-protocol-templates
-description: "Implement DeFi protocols with production-ready templates for staking, AMMs, governance, and lending systems. Use when building decentralized finance applications or smart contract protocols."
+description: "使用面向质押、AMM、治理和借贷系统的生产级模板实现 DeFi 协议。在构建去中心化金融应用或智能合约协议时使用。 | Implement DeFi protocols with production-ready templates for staking, AMMs, governance, and lending systems. Use when building decentralized finance applications or smart contract protocols."
 risk: unknown
 source: community
 date_added: "2026-02-27"

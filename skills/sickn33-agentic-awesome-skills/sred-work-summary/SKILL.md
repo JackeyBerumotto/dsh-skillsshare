@@ -1,6 +1,6 @@
 ---
 name: sred-work-summary
-description: Go back through the previous year of work and create a Notion doc that groups relevant links into projects that can then be documented as SRED projects.
+description: 回顾过去一年的工作，创建一份 Notion 文档，将相关链接归类为项目，随后可将这些项目记录为 SRED 项目。 | Go back through the previous year of work and create a Notion doc that groups relevant links into projects that can then be documented as SRED projects.
 risk: unknown
 source: community
 ---

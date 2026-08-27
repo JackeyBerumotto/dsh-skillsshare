@@ -1,6 +1,6 @@
 ---
 name: churn-analysis
-description: "Produce a structured churn analysis that separates avoidable from unavoidable churn. Use when investigating why customers are leaving, identifying at-risk segments, calculating net revenue retention, or building a retention intervention plan. Produces a churn report with rate calculations, categorised reasons by avoidability, segment breakdown, timing analysis, early warning signals, and prioritised interventions ranked by estimated impact."
+description: "产出区分可避免与不可避免流失的结构化流失分析。在调查客户为何流失、识别高风险群体、计算净收入留存或制定留存干预计划时使用。产出流失报告，包含流失率计算、按可避免性分类的原因、群体细分、时机分析、预警信号，以及按预估影响力排序的优先干预措施。 | Produce a structured churn analysis that separates avoidable from unavoidable churn. Use when investigating why customers are leaving, identifying at-risk segments, calculating net revenue retention, or building a retention intervention plan. Produces a churn report with rate calculations, categorised reasons by avoidability, segment breakdown, timing analysis, early warning signals, and prioritised interventions ranked by estimated impact."
 ---
 
 # Churn Analysis Skill

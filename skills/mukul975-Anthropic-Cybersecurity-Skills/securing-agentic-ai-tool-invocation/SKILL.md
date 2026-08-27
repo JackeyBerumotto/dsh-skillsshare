@@ -1,6 +1,6 @@
 ---
 name: securing-agentic-ai-tool-invocation
-description: Apply least-privilege tool allowlisting, identity binding, and human-in-the-loop controls for agent tool calls.
+description: 为代理工具调用应用最小权限工具白名单、身份绑定和人在回路控制。 | Apply least-privilege tool allowlisting, identity binding, and human-in-the-loop controls for agent tool calls.
 domain: cybersecurity
 subdomain: ai-security
 tags:

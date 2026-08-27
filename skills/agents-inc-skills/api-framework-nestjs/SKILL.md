@@ -1,6 +1,6 @@
 ---
 name: api-framework-nestjs
-description: NestJS backend framework - modules, controllers, services, DI, guards, pipes, interceptors, exception filters, middleware, DTOs with class-validator
+description: NestJS 后端框架：模块、控制器、服务、依赖注入、守卫、管道、拦截器、异常过滤器、中间件、使用 class-validator 的 DTO | NestJS backend framework - modules, controllers, services, DI, guards, pipes, interceptors, exception filters, middleware, DTOs with class-validator
 ---
 
 # NestJS Patterns

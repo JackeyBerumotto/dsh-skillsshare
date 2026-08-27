@@ -1,6 +1,6 @@
 ---
 name: engineering-hiring-rubric
-description: "Build an engineering hiring rubric and technical interview scorecard for evaluating software engineers at a specific level. Use when asked to create an interview rubric, design a hiring process, build a technical scorecard, or standardize engineer evaluation. Produces a full interview scorecard, behavioral question bank, technical question set with evaluation criteria, system design rubric, and debrief agenda."
+description: "构建工程招聘评估量规和技术面试计分卡，用于评估特定级别的软件工程师。当被要求创建面试量规、设计招聘流程、构建技术计分卡，或标准化工程师评估时使用。产出完整的面试计分卡、行为面试题库、带评估标准的技术题集、系统设计量规以及复盘会议议程。 | Build an engineering hiring rubric and technical interview scorecard for evaluating software engineers at a specific level. Use when asked to create an interview rubric, design a hiring process, build a technical scorecard, or standardize engineer evaluation. Produces a full interview scorecard, behavioral question bank, technical question set with evaluation criteria, system design rubric, and debrief agenda."
 ---
 
 # Engineering Hiring Rubric

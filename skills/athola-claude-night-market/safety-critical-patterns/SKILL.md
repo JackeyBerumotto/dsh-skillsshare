@@ -1,6 +1,6 @@
 ---
 name: safety-critical-patterns
-description: Applies NASA Power of 10 rules for safety-critical verifiable code. Use when auditing financial, medical, or high-reliability system code.
+description: 运用 NASA「10 的力量」规则编写安全攸关、可验证的代码。在审计金融、医疗或高可靠性系统代码时使用。 | Applies NASA Power of 10 rules for safety-critical verifiable code. Use when auditing financial, medical, or high-reliability system code.
 alwaysApply: false
 category: code-quality
 tags:

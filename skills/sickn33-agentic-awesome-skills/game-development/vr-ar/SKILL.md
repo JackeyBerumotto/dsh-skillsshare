@@ -1,6 +1,6 @@
 ---
 name: vr-ar
-description: "VR/AR development principles. Comfort, interaction, performance requirements."
+description: "VR/AR 开发原则。舒适度、交互和性能要求。 | VR/AR development principles. Comfort, interaction, performance requirements."
 risk: unknown
 source: community
 date_added: "2026-02-27"

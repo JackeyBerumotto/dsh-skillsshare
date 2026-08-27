@@ -1,6 +1,6 @@
 ---
 name: paypal-integration
-description: "Master PayPal payment integration including Express Checkout, IPN handling, recurring billing, and refund workflows."
+description: "掌握 PayPal 支付集成，包括 Express Checkout、IPN 处理、周期性计费与退款工作流。 | Master PayPal payment integration including Express Checkout, IPN handling, recurring billing, and refund workflows."
 risk: unknown
 source: community
 date_added: "2026-02-27"

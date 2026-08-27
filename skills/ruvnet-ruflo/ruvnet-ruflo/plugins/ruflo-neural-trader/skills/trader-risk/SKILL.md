@@ -1,6 +1,6 @@
 ---
 name: trader-risk
-description: Assess portfolio risk using npx neural-trader — VaR, CVaR, Sharpe, position sizing, circuit breaker status
+description: 使用 npx neural-trader 评估投资组合风险——VaR、CVaR、夏普比率、仓位管理、熔断状态 | Assess portfolio risk using npx neural-trader — VaR, CVaR, Sharpe, position sizing, circuit breaker status
 allowed-tools: Bash Read mcp__claude-flow__memory_store mcp__claude-flow__memory_search
 argument-hint: "[--symbol TICKER] [--portfolio NAME]"
 ---

@@ -1,6 +1,6 @@
 ---
 name: azure-eventgrid-java
-description: "Build event-driven applications with Azure Event Grid SDK for Java. Use when publishing events, implementing pub/sub patterns, or integrating with Azure services via events."
+description: "使用适用于 Java 的 Azure Event Grid SDK 构建事件驱动应用。当发布事件、实现发布订阅模式，或通过事件集成 Azure 服务时使用。 | Build event-driven applications with Azure Event Grid SDK for Java. Use when publishing events, implementing pub/sub patterns, or integrating with Azure services via events."
 risk: unknown
 source: community
 date_added: "2026-02-27"

@@ -1,6 +1,6 @@
 ---
 name: cyber-y2k
-description: Web and App implementation guide for Cyber Y2K. Trigger when user wants modern Y2K, holographic visuals, and glitch aesthetics.
+description: Cyber Y2K 的 Web 与 App 实现指南。当用户需要现代 Y2K 风格、全息视觉效果和故障艺术美学时触发。 | Web and App implementation guide for Cyber Y2K. Trigger when user wants modern Y2K, holographic visuals, and glitch aesthetics.
 date_added: "2026-06-17"
 risk: safe
 source: self

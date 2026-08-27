@@ -1,6 +1,6 @@
 ---
 name: "cross-eval"
-description: "/cs:cross-eval <memo> — Multi-model consensus on a board memo or strategy brief. Claude + Codex + Gemini cross-review with graceful degradation. Use when a high-stakes memo needs an independent sanity check before the boardroom — e.g. a bet-the-company pivot or fundraise terms."
+description: "/cs:cross-eval <memo>——多模型就董事会备忘录或战略简报达成共识，由 Claude、Codex 与 Gemini 交叉评审并支持优雅降级。适用于高风险备忘录在进入董事会前需要独立健全性检查时——例如押上公司命运的转型或融资条款。 | /cs:cross-eval <memo> — Multi-model consensus on a board memo or strategy brief. Claude + Codex + Gemini cross-review with graceful degradation. Use when a high-stakes memo needs an independent sanity check before the boardroom — e.g. a bet-the-company pivot or fundraise terms."
 ---
 
 # /cs:cross-eval — Multi-Model Consensus

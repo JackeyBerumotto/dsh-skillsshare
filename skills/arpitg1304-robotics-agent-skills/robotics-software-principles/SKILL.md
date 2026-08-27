@@ -1,7 +1,7 @@
 ---
 name: robotics-software-principles
 description: >
-  Foundational software design principles applied specifically to robotics module development.
+  专门应用于机器人模块开发的基础软件设计原则。在设计机器人软件模块、组织代码库、做架构决策、评审机器人代码或构建可复用机器人库时使用此技能。当用户提到面向机器人的 SOLID 原则、模块化机器人软件、机器人整洁架构、机器人中的依赖注入、硬件接口设计、实时设计约束、机器人错误处理策略、配置管理、感知-规划-控制的关注点分离、机器人行为可组合性，或机器人语境下关于软件工匠精神的任何讨论时触发。评审机器人代码、重构机器人软件或设计机器人库 API 时也触发。 |
   Use this skill when designing robot software modules, structuring codebases, making architecture
   decisions, reviewing robotics code, or building reusable robotics libraries. Trigger whenever the
   user mentions SOLID principles for robots, modular robotics software, clean architecture for robots,

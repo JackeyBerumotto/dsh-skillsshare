@@ -1,6 +1,6 @@
 ---
 name: autoresearch
-description: "Autonomous iteration loop: modify, verify, keep/discard against any metric"
+description: "自主迭代循环：按任意指标修改、验证、保留或丢弃 | Autonomous iteration loop: modify, verify, keep/discard against any metric"
 metadata:
   version: "2.2.1"
 ---

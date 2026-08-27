@@ -1,6 +1,6 @@
 ---
 name: memory-systems
-description: "Design short-term, long-term, and graph-based memory architectures. Use when building agents that must persist across sessions, needing to maintain entity consistency across conversations, or implementing reasoning over accumulated knowledge."
+description: "设计短期、长期和基于图谱的记忆架构。当需要构建必须跨会话持久化的 agent、需要在多轮对话间保持实体一致性，或实现对累积知识的推理时使用。 | Design short-term, long-term, and graph-based memory architectures. Use when building agents that must persist across sessions, needing to maintain entity consistency across conversations, or implementing reasoning over accumulated knowledge."
 risk: safe
 source: "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/memory-systems"
 date_added: "2026-02-27"

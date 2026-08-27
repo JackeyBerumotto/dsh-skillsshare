@@ -1,6 +1,6 @@
 ---
 name: wireshark-analysis
-description: "Execute comprehensive network traffic analysis using Wireshark to capture, filter, and examine network packets for security investigations, performance optimization, and troubleshooting."
+description: "使用 Wireshark 执行全面的网络流量分析，捕获、过滤和检查网络数据包，用于安全调查、性能优化和故障排查。 | Execute comprehensive network traffic analysis using Wireshark to capture, filter, and examine network packets for security investigations, performance optimization, and troubleshooting."
 risk: unknown
 source: community
 author: zebbern

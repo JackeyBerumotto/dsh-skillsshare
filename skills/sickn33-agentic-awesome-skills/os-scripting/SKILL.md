@@ -1,6 +1,6 @@
 ---
 name: os-scripting
-description: "Operating system and shell scripting troubleshooting workflow for Linux, macOS, and Windows. Covers bash scripting, system administration, debugging, and automation."
+description: "面向 Linux、macOS 和 Windows 的操作系统与 shell 脚本故障排查工作流。涵盖 bash 脚本编写、系统管理、调试和自动化。 | Operating system and shell scripting troubleshooting workflow for Linux, macOS, and Windows. Covers bash scripting, system administration, debugging, and automation."
 category: workflow-bundle
 risk: safe
 source: personal

@@ -1,6 +1,6 @@
 ---
 name: marketing-campaign
-description: End-to-end marketing campaign planning and execution. Covers audience research, positioning, campaign angle definition, landing page copy, email sequences, social posts, ad copy, short-form video scripts, and content calendars. Use as the orchestration layer for multi-channel product launches.
+description: 营销活动的端到端规划与执行。涵盖受众研究、定位、活动切入角度定义、落地页文案、邮件序列、社交帖子、广告文案、短视频脚本和内容日历。用作多渠道产品发布的编排层。 | End-to-end marketing campaign planning and execution. Covers audience research, positioning, campaign angle definition, landing page copy, email sequences, social posts, ad copy, short-form video scripts, and content calendars. Use as the orchestration layer for multi-channel product launches.
 metadata:
   origin: ECC
 ---

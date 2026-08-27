@@ -2,7 +2,7 @@
 name: humanizer
 version: 2.2.0
 description: |
-  Remove signs of AI-generated writing from text. Use when editing or reviewing
+  去除文本中的 AI 写作痕迹。在编辑或审阅文本以使其更自然、更像人类写作时使用。基于 Wikipedia 全面的「AI 写作迹象」指南。检测并修复以下模式：夸大的象征意义、推销式语言、流于表面的进行时分析、模糊的归因、破折号滥用、三段式排比、AI 高频词汇、否定式平行结构以及过多的连接词短语。 |
   text to make it sound more natural and human-written. Based on Wikipedia's
   comprehensive "Signs of AI writing" guide. Detects and fixes patterns including:
   inflated symbolism, promotional language, superficial -ing analyses, vague

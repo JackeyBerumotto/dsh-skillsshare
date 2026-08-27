@@ -1,13 +1,6 @@
 ---
 name: implementing-web-application-logging-with-modsecurity
-description: 'Configure ModSecurity WAF with OWASP Core Rule Set (CRS) for web application
-  logging, tune rules to reduce false positives, analyze audit logs for attack detection,
-  and implement custom SecRules for application-specific threats. The analyst configures
-  SecRuleEngine, SecAuditEngine, and CRS paranoia levels to balance security coverage
-  with operational stability. Activates for requests involving WAF configuration,
-  ModSecurity rule tuning, web application audit logging, or CRS deployment.
-
-  '
+description: "使用 OWASP 核心规则集（CRS）配置 ModSecurity WAF 进行 Web 应用日志记录，调优规则以减少误报，分析审计日志以检测攻击，并针对应用特定威胁实现自定义 SecRule。分析人员配置 SecRuleEngine、SecAuditEngine 和 CRS 偏执级别，在安全覆盖与运行稳定性之间取得平衡。当请求涉及 WAF 配置、ModSecurity 规则调优、Web 应用审计日志或 CRS 部署时激活。 | Configure ModSecurity WAF with OWASP Core Rule Set (CRS) for web application logging, tune rules to reduce false positives, analyze audit logs for attack detection, and implement custom SecRules for application-specific threats. The analyst configures SecRuleEngine, SecAuditEngine, and CRS paranoia levels to balance security coverage with operational stability. Activates for requests involving WAF configuration, ModSecurity rule tuning, web application audit logging, or CRS deployment."
 domain: cybersecurity
 subdomain: web-application-security
 tags:

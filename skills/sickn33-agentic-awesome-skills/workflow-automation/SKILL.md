@@ -1,9 +1,6 @@
 ---
 name: workflow-automation
-description: Workflow automation is the infrastructure that makes AI agents
-  reliable. Without durable execution, a network hiccup during a 10-step payment
-  flow means lost money and angry customers. With it, workflows resume exactly
-  where they left off.
+description: "工作流自动化是让 AI 智能体可靠运行的基础设施。没有持久化执行，十步支付流程中的一次网络抖动就意味着资金损失与愤怒的客户；有了它，工作流可以从中断处精确恢复。 | Workflow automation is the infrastructure that makes AI agents reliable. Without durable execution, a network hiccup during a 10-step payment flow means lost money and angry customers. With it, workflows resume exactly where they left off."
 risk: critical
 source: vibeship-spawner-skills (Apache 2.0)
 date_added: 2026-02-27

@@ -1,17 +1,6 @@
 ---
 name: implementing-data-loss-prevention-with-microsoft-purview
-description: 'Implements data loss prevention policies using Microsoft Purview to
-  protect sensitive information across Exchange Online, SharePoint, OneDrive, Teams,
-  endpoint devices, and Power BI. The analyst configures sensitivity labels with encryption
-  and content marking, creates DLP policies using built-in and custom sensitive information
-  types with regex patterns, deploys endpoint DLP rules to control file operations
-  on Windows and macOS devices, and monitors policy effectiveness through Activity
-  Explorer and DLP alert management. Uses PowerShell cmdlets and the Microsoft Graph
-  API for programmatic policy management. Activates for requests involving DLP policy
-  creation, sensitivity label configuration, data classification, endpoint data protection,
-  or Microsoft Purview compliance administration.
-
-  '
+description: "使用 Microsoft Purview 实现数据防泄漏策略，保护 Exchange Online、SharePoint、OneDrive、Teams、终端设备和 Power BI 中的敏感信息。分析人员配置带加密和内容标记的敏感度标签，使用内置和自定义敏感信息类型与正则模式创建 DLP 策略，部署终端 DLP 规则以控制 Windows 和 macOS 设备上的文件操作，并通过 Activity Explorer 和 DLP 告警管理监控策略效果。使用 PowerShell cmdlet 和 Microsoft Graph API 进行程序化策略管理。当请求涉及 DLP 策略创建、敏感度标签配置、数据分类、终端数据保护或 Microsoft Purview 合规管理时激活。 | Implements data loss prevention policies using Microsoft Purview to protect sensitive information across Exchange Online, SharePoint, OneDrive, Teams, endpoint devices, and Power BI. The analyst configures sensitivity labels with encryption and content marking, creates DLP policies using built-in and custom sensitive information types with regex patterns, deploys endpoint DLP rules to control file operations on Windows and macOS devices, and monitors policy effectiveness through Activity Explorer and DLP alert management. Uses PowerShell cmdlets and the Microsoft Graph API for programmatic policy management. Activates for requests involving DLP policy creation, sensitivity label configuration, data classification, endpoint data protection, or Microsoft Purview compliance administration."
 domain: cybersecurity
 subdomain: data-protection
 tags:

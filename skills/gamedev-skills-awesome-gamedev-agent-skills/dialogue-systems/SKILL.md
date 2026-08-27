@@ -1,7 +1,7 @@
 ---
 name: dialogue-systems
 description: >
-  Build branching dialogue and narrative — a node/choice graph with conditions,
+  构建分支对话与叙事——一个带条件、变量和本地化钩子的节点或选项图——并在创作工具 Ink 与 Yarn Spinner 或自定义数据驱动运行器之间做出选择。引擎中立。当用户提到对话系统、分支对话、会话树、选项、Ink（.ink）、Yarn Spinner（.yarn）或 NPC 对话时使用。 |
   variables, and localization hooks — and choose between authoring tools Ink and
   Yarn Spinner or a custom data-driven runner. Engine-neutral. Use when the user
   mentions dialogue system, branching dialogue, conversation tree, choices,

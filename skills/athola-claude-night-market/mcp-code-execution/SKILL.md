@@ -1,6 +1,6 @@
 ---
 name: mcp-code-execution
-description: Routes multi-tool workflows through MCP servers for large datasets and pipelines. Use when Bash tool overhead is limiting throughput on data-heavy tasks.
+description: 通过 MCP 服务器路由多工具工作流，以处理大型数据集和管道。当 Bash 工具的开销限制数据密集型任务的吞吐量时使用。 | Routes multi-tool workflows through MCP servers for large datasets and pipelines. Use when Bash tool overhead is limiting throughput on data-heavy tasks.
 alwaysApply: false
 progressive_loading: true
 dependencies:

@@ -1,7 +1,7 @@
 ---
 name: caveman-review
 description: >
-  Ultra-compressed code review comments. Cuts noise from PR feedback while preserving
+  超压缩代码评审意见。在保留可执行信号的同时剔除 PR 反馈中的噪音。每条意见一行：位置、问题、修复方法。当用户说「review this PR」「code review」「review the diff」「/review」或调用 /caveman-review 时使用。评审 pull request 时自动触发。 |
   the actionable signal. Each comment is one line: location, problem, fix. Use when user
   says "review this PR", "code review", "review the diff", "/review", or invokes
   /caveman-review. Auto-triggers when reviewing pull requests.

@@ -1,6 +1,6 @@
 ---
 name: notion-research-documentation
-description: Searches across your Notion workspace, synthesizes findings from multiple pages, and creates comprehensive research documentation saved as new Notion pages. Turns scattered information into structured reports with proper citations and actionable insights.
+description: 在 Notion 工作区中跨页面搜索、综合多个页面的发现，并创建保存为新 Notion 页面的全面研究文档。把零散信息变成带规范引用和可执行洞察的结构化报告。 | Searches across your Notion workspace, synthesizes findings from multiple pages, and creates comprehensive research documentation saved as new Notion pages. Turns scattered information into structured reports with proper citations and actionable insights.
 ---
 
 # Research & Documentation

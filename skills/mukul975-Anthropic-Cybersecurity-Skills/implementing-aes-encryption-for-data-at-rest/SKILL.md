@@ -1,8 +1,6 @@
 ---
 name: implementing-aes-encryption-for-data-at-rest
-description: AES (Advanced Encryption Standard) is a symmetric block cipher standardized
-  by NIST (FIPS 197) used to protect classified and sensitive data. This skill covers
-  implementing AES-256 encryption in GCM m
+description: "AES（高级加密标准）是由 NIST（FIPS 197）标准化的对称分组密码，用于保护机密和敏感数据。本技能涵盖在 GCM 模式下实现 AES-256 加密。 | AES (Advanced Encryption Standard) is a symmetric block cipher standardized by NIST (FIPS 197) used to protect classified and sensitive data. This skill covers implementing AES-256 encryption in GCM m"
 domain: cybersecurity
 subdomain: cryptography
 tags:

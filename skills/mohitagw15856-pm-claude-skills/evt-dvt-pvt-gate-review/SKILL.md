@@ -1,6 +1,6 @@
 ---
 name: evt-dvt-pvt-gate-review
-description: "Run an NPI phase-gate review for EVT, DVT, or PVT — exit criteria per phase, open-issue triage, yield readout, waiver discipline, and a go/no-go call. Use when asked to run a gate review, decide EVT exit or DVT entry, review build results, assess whether to proceed to the next build, or triage open issues before a phase gate. Produces a gate review document with criteria scoring, waiver register, yield analysis, and a defensible go/conditional-go/no-go recommendation."
+description: "为 EVT、DVT 或 PVT 运行 NPI 阶段门评审——各阶段准出标准、未决问题分诊、良率判读、豁免纪律，以及通过/不通过的裁决。当被要求主持门评审、决定 EVT 准出或 DVT 准入、审查构建结果、评估是否进入下一次构建，或在阶段门前分诊未决问题时使用。产出门评审文档：标准评分、豁免登记表、良率分析，以及有据可依的通过/有条件通过/不通过建议。 | Run an NPI phase-gate review for EVT, DVT, or PVT — exit criteria per phase, open-issue triage, yield readout, waiver discipline, and a go/no-go call. Use when asked to run a gate review, decide EVT exit or DVT entry, review build results, assess whether to proceed to the next build, or triage open issues before a phase gate. Produces a gate review document with criteria scoring, waiver register, yield analysis, and a defensible go/conditional-go/no-go recommendation."
 ---
 
 # EVT/DVT/PVT Gate Review Skill

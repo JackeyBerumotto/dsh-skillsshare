@@ -1,7 +1,7 @@
 ---
 name: unreal-enhanced-input
 description: >
-  Set up player input in Unreal Engine 5 with Enhanced Input: Input Actions, Input Mapping
+  在虚幻引擎 5 中使用 Enhanced Input 设置玩家输入：Input Action、Input Mapping Context、修改器和触发器、添加映射上下文，以及按 ETriggerEvent 绑定动作。当接线移动/视角/跳跃输入、创建 IA_/IMC_ 资产、用 C++ 或蓝图绑定，或用户提到 Enhanced Input、Input Mapping Context、Input Action、IA_/IMC_ 或 ETriggerEvent 时使用。 |
   Contexts, modifiers and triggers, adding the mapping context, and binding actions by
   ETriggerEvent. Use when wiring movement/look/jump input, creating IA_/IMC_ assets, binding
   in C++ or Blueprints, or when the user mentions Enhanced Input, Input Mapping Context,

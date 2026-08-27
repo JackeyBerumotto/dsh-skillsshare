@@ -1,6 +1,6 @@
 ---
 name: wcag-audit-patterns
-description: "Comprehensive guide to auditing web content against WCAG 2.2 guidelines with actionable remediation strategies."
+description: "依据 WCAG 2.2 指南审计 Web 内容并给出可执行整改策略的综合指南。 | Comprehensive guide to auditing web content against WCAG 2.2 guidelines with actionable remediation strategies."
 risk: safe
 source: community
 date_added: "2026-02-27"

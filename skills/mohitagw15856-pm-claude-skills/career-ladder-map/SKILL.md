@@ -1,6 +1,6 @@
 ---
 name: career-ladder-map
-description: "Map where you are against the next level and build a concrete plan to close the gap. Use when asked to map a career ladder, find the gap to the next level, build a development/growth plan, or figure out what to work on to get promoted. Produces a level-gap map — current vs. target competencies side by side, the specific gaps, and a prioritised 1–2 quarter plan of evidence-generating projects to close them."
+description: "对照下一职级绘制当前位置，并制定弥合差距的具体计划。当被要求梳理职级阶梯、找出与下一职级的差距、制定发展/成长计划，或弄清要做什么才能晋升时使用。产出职级差距图——当前能力与目标能力并列对照、具体差距，以及一份按优先级排序的 1–2 个季度计划，包含能产生证据以弥补差距的项目。 | Map where you are against the next level and build a concrete plan to close the gap. Use when asked to map a career ladder, find the gap to the next level, build a development/growth plan, or figure out what to work on to get promoted. Produces a level-gap map — current vs. target competencies side by side, the specific gaps, and a prioritised 1–2 quarter plan of evidence-generating projects to close them."
 ---
 
 # Career Ladder Map Skill

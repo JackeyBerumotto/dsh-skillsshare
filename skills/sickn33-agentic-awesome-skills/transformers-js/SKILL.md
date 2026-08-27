@@ -1,6 +1,6 @@
 ---
 name: transformers-js
-description: Use Transformers.js to run state-of-the-art machine learning models directly in JavaScript/TypeScript. Supports NLP (text classification, translation, summarization), computer vision (image classification, object detection), audio (speech recognition, audio classification), and...
+description: 使用 Transformers.js 在 JavaScript/TypeScript 中直接运行最先进的机器学习模型。支持 NLP（文本分类、翻译、摘要）、计算机视觉（图像分类、目标检测）、音频（语音识别、音频分类）以及…… | Use Transformers.js to run state-of-the-art machine learning models directly in JavaScript/TypeScript. Supports NLP (text classification, translation, summarization), computer vision (image classification, object detection), audio (speech recognition, audio classification), and...
 risk: unknown
 source: https://github.com/huggingface/skills/tree/main/skills/transformers-js
 source_repo: huggingface/skills

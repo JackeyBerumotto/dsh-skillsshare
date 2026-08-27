@@ -1,6 +1,6 @@
 ---
 name: clause-explainer
-description: "Explain a contract clause in plain English — what it means, who it favours, the realistic risk, and what to negotiate. Use when asked what a clause means, to decode legal language, explain a term in a contract, or assess whether a provision is standard or aggressive. Produces a plain-language translation, a who-does-this-favour read, a risk rating, and concrete redline suggestions. Not legal advice; confirm with counsel."
+description: "用通俗语言解释合同条款——含义、偏向谁、现实风险以及该谈判什么。当被问及条款含义、解码法律语言、解释合同术语，或评估条款是标准还是激进时使用。产出通俗翻译、偏向性解读、风险评级与具体的红线修改建议。不构成法律建议；请与律师确认。 | Explain a contract clause in plain English — what it means, who it favours, the realistic risk, and what to negotiate. Use when asked what a clause means, to decode legal language, explain a term in a contract, or assess whether a provision is standard or aggressive. Produces a plain-language translation, a who-does-this-favour read, a risk rating, and concrete redline suggestions. Not legal advice; confirm with counsel."
 ---
 
 # Clause Explainer Skill

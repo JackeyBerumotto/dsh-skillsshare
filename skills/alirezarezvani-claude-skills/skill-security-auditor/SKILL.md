@@ -1,7 +1,7 @@
 ---
 name: "skill-security-auditor"
 description: >
-  Security audit and vulnerability scanner for AI agent skills before installation.
+  面向 AI 代理技能的安装前安全审计与漏洞扫描。使用场景：（1）评估来自不可信来源的技能；（2）审计技能目录或 git 仓库 URL 中的恶意代码；（3）作为 Claude Code 插件、OpenClaw 技能或 Codex 技能的安装前安全门禁；（4）扫描 Python 脚本中的危险模式，如 os.system、eval、subprocess、网络外传；（5）检测 SKILL.md 文件中的提示注入；（6）检查依赖供应链风险；（7）验证文件系统访问保持在技能边界之内。触发语句：「audit this skill」「is this skill safe」「scan skill for security」「check skill before install」「skill security check」「skill vulnerability scan」。 |
   Use when: (1) evaluating a skill from an untrusted source, (2) auditing a skill
   directory or git repo URL for malicious code, (3) pre-install security gate for
   Claude Code plugins, OpenClaw skills, or Codex skills, (4) scanning Python scripts

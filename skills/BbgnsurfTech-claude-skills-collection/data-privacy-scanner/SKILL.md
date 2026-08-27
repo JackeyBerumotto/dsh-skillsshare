@@ -1,6 +1,6 @@
 ---
 name: scanning-for-data-privacy-issues
-description: Scan for data privacy issues and sensitive information exposure. Use when reviewing data handling practices. Trigger with 'scan privacy issues', 'check sensitive data', or 'validate data protection'.
+description: 扫描数据隐私问题和敏感信息暴露。在评审数据处理实践时使用。触发语句：「scan privacy issues」「check sensitive data」或「validate data protection」。 | Scan for data privacy issues and sensitive information exposure. Use when reviewing data handling practices. Trigger with 'scan privacy issues', 'check sensitive data', or 'validate data protection'.
 version: 1.0.0
 allowed-tools:
 - Read

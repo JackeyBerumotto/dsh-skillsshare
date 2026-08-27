@@ -1,6 +1,6 @@
 ---
 name: file-organizer
-description: "6. Reduces Clutter: Identifies old files you probably don't need anymore"
+description: "六、减少杂乱：识别你可能不再需要的旧文件 | 6. Reduces Clutter: Identifies old files you probably don't need anymore"
 risk: unknown
 source: community
 date_added: "2026-02-27"

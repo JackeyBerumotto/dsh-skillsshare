@@ -1,6 +1,6 @@
 ---
 name: student-feedback
-description: "Write constructive, specific feedback on student work that motivates and tells the student exactly how to improve. Use when asked to give feedback on a student's work, write grading comments, respond to an essay or assignment, or coach a learner. Produces feedback that names concrete strengths, prioritises the few changes that matter most, and gives an actionable next step — warm in tone, growth-oriented, never just a grade."
+description: "撰写有建设性、具体的学生作业反馈，既激励学生又明确告知如何改进。在被要求点评学生作业、编写评分评语、回应文章或作业，或指导学习者时使用。产出指出具体优点、优先聚焦最重要改动并给出可执行下一步的反馈——语气温暖、以成长为导向，绝不只是一个分数。 | Write constructive, specific feedback on student work that motivates and tells the student exactly how to improve. Use when asked to give feedback on a student's work, write grading comments, respond to an essay or assignment, or coach a learner. Produces feedback that names concrete strengths, prioritises the few changes that matter most, and gives an actionable next step — warm in tone, growth-oriented, never just a grade."
 ---
 
 # Student Feedback Skill

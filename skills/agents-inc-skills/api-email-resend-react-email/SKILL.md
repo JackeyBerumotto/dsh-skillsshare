@@ -1,6 +1,6 @@
 ---
 name: api-email-resend-react-email
-description: Resend + React Email templates
+description: Resend + React Email 模板。 | Resend + React Email templates
 ---
 
 # Email Patterns with Resend and React Email

@@ -1,6 +1,6 @@
 ---
 name: offensive-deauth-disassoc
-description: "Deauthentication and disassociation attacks against 802.11 networks — targeted single-client deauth for handshake capture, broadcast deauth for DoS (with authorization), action-frame attacks bypassing 802.11w (PMF), beacon flooding, mdk4 / aireplay-ng tooling, and rate-limit / PMF-aware operation. Use to coerce client reconnection (handshake capture, evil-twin roaming), as targeted DoS, or to test PMF posture."
+description: "针对 802.11 网络的解除认证与解除关联攻击——用于捕获握手的定向单客户端 deauth、用于 DoS 的广播 deauth（须经授权）、绕过 802.11w（PMF）的行动帧攻击、信标洪泛、mdk4／aireplay-ng 工具，以及限速与 PMF 感知下的操作。可用于迫使客户端重连（握手捕获、evil-twin 漫游）、实施定向 DoS 或测试 PMF 防御姿态。 | Deauthentication and disassociation attacks against 802.11 networks — targeted single-client deauth for handshake capture, broadcast deauth for DoS (with authorization), action-frame attacks bypassing 802.11w (PMF), beacon flooding, mdk4 / aireplay-ng tooling, and rate-limit / PMF-aware operation. Use to coerce client reconnection (handshake capture, evil-twin roaming), as targeted DoS, or to test PMF posture."
 ---
 
 # Deauth / Disassoc Attacks

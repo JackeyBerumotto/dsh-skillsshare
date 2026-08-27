@@ -1,6 +1,6 @@
 ---
 name: ui-skills-root
-description: Use before UI-related work to select the smallest useful UI Skills context through the ui-skills CLI.
+description: 在进行任何 UI 相关工作之前使用，通过 ui-skills CLI 选择最小可用的 UI Skills 上下文。 | Use before UI-related work to select the smallest useful UI Skills context through the ui-skills CLI.
 risk: unknown
 source: https://github.com/ibelick/ui-skills/tree/main/skills/ui-skills-root
 source_repo: ibelick/ui-skills

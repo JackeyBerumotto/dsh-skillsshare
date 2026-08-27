@@ -1,6 +1,6 @@
 ---
 name: postman-newman-automation
-description: Generate Newman CLI commands, configuration files, Jenkins pipeline scripts, and shell automation for running Postman collections in CI/CD or local environments. Use this skill whenever the user wants to run Postman collections from the command line, automate API tests, integrate...
+description: 生成 Newman CLI 命令、配置文件、Jenkins 流水线脚本与 shell 自动化，用于在 CI/CD 或本地环境运行 Postman 集合。当用户想从命令行运行 Postman 集合、自动化 API 测试、集成……时使用此技能。 | Generate Newman CLI commands, configuration files, Jenkins pipeline scripts, and shell automation for running Postman collections in CI/CD or local environments. Use this skill whenever the user wants to run Postman collections from the command line, automate API tests, integrate...
 risk: unknown
 source: https://github.com/LambdaTest/agent-skills/tree/main/api-skill/postman/postman-to-newman
 source_repo: LambdaTest/agent-skills

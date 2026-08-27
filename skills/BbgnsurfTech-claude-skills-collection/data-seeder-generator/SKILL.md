@@ -1,8 +1,5 @@
 ---
-description: This skill enables claude to generate realistic test data and database
-  seed scripts for development and testing environments. it uses faker libraries to
-  create realistic data, maintains relational integrity, and allows configurable data
-  volumes. u...
+description: "本技能使 claude 能够为开发与测试环境生成逼真的测试数据和数据库种子脚本。它使用 faker 库创建逼真数据、维护关系完整性，并支持可配置的数据量。当用户请求生成测试数据或种子脚本时使用本技能。 | This skill enables claude to generate realistic test data and database seed scripts for development and testing environments. it uses faker libraries to create realistic data, maintains relational integrity, and allows configurable data volumes. u..."
 allowed-tools:
 - Read
 - Write

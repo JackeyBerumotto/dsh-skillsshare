@@ -1,7 +1,7 @@
 ---
 name: prototype-fast
 description: >
-  Build a playable prototype in about an hour to answer one question — is it fun? — with
+  用大约一小时构建一个可玩的原型来回答一个问题——好玩吗——采用灰盒图元、严格时限与明确的保留或砍掉标准。在为某个机制做原型、制作垂直切片或 MVP、做灰盒或白模，或权衡丢弃还是保留时使用。 |
   greybox primitives, a hard timebox, and explicit keep/kill criteria. Use when prototyping
   a mechanic, making a vertical slice or MVP, greyboxing/blockout, or judging throwaway vs keep.
 license: Apache-2.0

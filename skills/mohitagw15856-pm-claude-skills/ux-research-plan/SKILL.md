@@ -1,6 +1,6 @@
 ---
 name: ux-research-plan
-description: "Create a structured UX research plan for any product question or feature. Use when asked to write a research plan, design a user study, create a discussion guide, write screener questions, or plan usability testing. Produces a full research plan with objectives, methodology, screener, discussion guide, and synthesis framework."
+description: "为任意产品问题或功能创建结构化的 UX 研究计划。当被要求撰写研究计划、设计用户研究、创建访谈指南、编写筛选问题或规划可用性测试时使用。产出完整的研究计划，包含目标、方法论、筛选问卷、访谈指南和综合分析框架。 | Create a structured UX research plan for any product question or feature. Use when asked to write a research plan, design a user study, create a discussion guide, write screener questions, or plan usability testing. Produces a full research plan with objectives, methodology, screener, discussion guide, and synthesis framework."
 ---
 
 # UX Research Plan Skill

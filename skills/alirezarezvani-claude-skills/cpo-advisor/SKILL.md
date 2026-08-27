@@ -1,6 +1,6 @@
 ---
 name: "cpo-advisor"
-description: "Product leadership for scaling companies. Product vision, portfolio strategy, product-market fit, and product org design. Use when setting product vision, managing a product portfolio, measuring PMF, designing product teams, prioritizing at the portfolio level, reporting to the board on product, or when user mentions CPO, product strategy, product-market fit, product organization, portfolio prioritization, or roadmap strategy."
+description: "面向扩张期公司的产品领导力。产品愿景、产品组合战略、产品市场契合（PMF）和产品组织设计。在设定产品愿景、管理产品组合、衡量 PMF、设计产品团队、在组合层面排定优先级、向董事会汇报产品，或用户提到 CPO、产品战略、产品市场契合、产品组织、组合优先级或路线图战略时使用。 | Product leadership for scaling companies. Product vision, portfolio strategy, product-market fit, and product org design. Use when setting product vision, managing a product portfolio, measuring PMF, designing product teams, prioritizing at the portfolio level, reporting to the board on product, or when user mentions CPO, product strategy, product-market fit, product organization, portfolio prioritization, or roadmap strategy."
 license: MIT
 metadata:
   version: 1.0.0

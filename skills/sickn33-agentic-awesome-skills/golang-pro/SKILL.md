@@ -1,6 +1,6 @@
 ---
 name: golang-pro
-description: Master Go 1.21+ with modern patterns, advanced concurrency, performance optimization, and production-ready microservices.
+description: 掌握 Go 1.21+，运用现代模式、高级并发、性能优化与生产就绪的微服务。 | Master Go 1.21+ with modern patterns, advanced concurrency, performance optimization, and production-ready microservices.
 risk: unknown
 source: community
 date_added: '2026-02-27'

@@ -1,6 +1,6 @@
 ---
 name: api-database-cockroachdb
-description: CockroachDB distributed SQL -- transaction retries, multi-region, online schema changes, follower reads, PostgreSQL compatibility gaps
+description: CockroachDB 分布式 SQL——事务重试、多区域、在线模式变更、追随者读取、PostgreSQL 兼容性差异 | CockroachDB distributed SQL -- transaction retries, multi-region, online schema changes, follower reads, PostgreSQL compatibility gaps
 ---
 
 # CockroachDB Patterns

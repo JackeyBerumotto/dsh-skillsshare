@@ -1,11 +1,6 @@
 ---
 name: securing-aws-iam-permissions
-description: 'This skill guides practitioners through hardening AWS Identity and Access
-  Management configurations to enforce least privilege access across cloud accounts.
-  It covers IAM policy scoping, permission boundaries, Access Analyzer integration,
-  and credential rotation strategies to reduce the blast radius of compromised identities.
-
-  '
+description: "本技能指导从业者加固 AWS Identity and Access Management 配置，以在云账户间强制最小权限访问。涵盖 IAM 策略作用域、权限边界、Access Analyzer 集成与凭据轮换策略，以缩小失陷身份的影响范围。 | This skill guides practitioners through hardening AWS Identity and Access Management configurations to enforce least privilege access across cloud accounts. It covers IAM policy scoping, permission boundaries, Access Analyzer integration, and credential rotation strategies to reduce the blast radius of compromised identities."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

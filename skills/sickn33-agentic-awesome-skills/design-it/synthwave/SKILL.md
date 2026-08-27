@@ -1,6 +1,6 @@
 ---
 name: synthwave
-description: Web and App implementation guide for Synthwave. Trigger when user wants 80s-inspired neon, dark backgrounds, outrun grids, and Miami Vice aesthetics.
+description: Synthwave（合成波）的 Web 与 App 实现指南。当用户需要 80 年代风霓虹、深色背景、公路透视网格和迈阿密风云式美学时触发。 | Web and App implementation guide for Synthwave. Trigger when user wants 80s-inspired neon, dark backgrounds, outrun grids, and Miami Vice aesthetics.
 date_added: "2026-06-17"
 risk: safe
 source: self

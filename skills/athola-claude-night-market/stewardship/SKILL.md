@@ -1,6 +1,6 @@
 ---
 name: stewardship
-description: Applies stewardship virtues (Care, Curiosity, Humility, Diligence) to plugin work. Use when authoring plugins or reviewing code quality.
+description: 将守护者美德（关爱、好奇、谦逊、勤勉）应用于插件工作。在编写插件或评审代码质量时使用。 | Applies stewardship virtues (Care, Curiosity, Humility, Diligence) to plugin work. Use when authoring plugins or reviewing code quality.
 alwaysApply: true
 category: cross-plugin-patterns
 tags:

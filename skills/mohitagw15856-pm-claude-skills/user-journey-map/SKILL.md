@@ -1,6 +1,6 @@
 ---
 name: user-journey-map
-description: "Map a user's journey through a product or experience, phase by phase, with their actions and how they feel. Use when asked to map a user/customer journey, show the experience end-to-end, or find friction and drop-off points. Produces a ready-to-render Mermaid journey diagram (renders live, exportable as PNG/SVG) plus the friction points and opportunities."
+description: "逐阶段绘制用户在产品或体验中的旅程，包含其行为与感受。当被要求绘制用户/客户旅程、端到端展示体验，或寻找摩擦与流失点时使用。产出可直接渲染的 Mermaid 旅程图（可实时渲染、可导出为 PNG/SVG），以及摩擦点与机会点。 | Map a user's journey through a product or experience, phase by phase, with their actions and how they feel. Use when asked to map a user/customer journey, show the experience end-to-end, or find friction and drop-off points. Produces a ready-to-render Mermaid journey diagram (renders live, exportable as PNG/SVG) plus the friction points and opportunities."
 ---
 
 # User Journey Map Skill

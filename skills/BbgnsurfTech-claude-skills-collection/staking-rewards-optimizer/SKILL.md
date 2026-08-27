@@ -2,7 +2,7 @@
 name: optimizing-staking-rewards
 version: 1.0.0
 description: |
-  Compare staking rewards across validators and networks with ROI calculations.
+  结合 ROI 计算比较不同验证者和网络之间的质押收益。在优化权益证明收益时使用。通过「optimize staking」「compare validators」「calculate rewards」等短语触发。 |
   Use when optimizing proof-of-stake rewards.
   Trigger with phrases like "optimize staking", "compare validators", or "calculate rewards".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(crypto:staking-*)

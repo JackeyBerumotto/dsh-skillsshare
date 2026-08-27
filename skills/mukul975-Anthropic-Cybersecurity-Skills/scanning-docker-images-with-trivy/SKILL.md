@@ -1,8 +1,6 @@
 ---
 name: scanning-docker-images-with-trivy
-description: Trivy is a comprehensive open-source vulnerability scanner by Aqua Security
-  that detects vulnerabilities in OS packages, language-specific dependencies, misconfigurations,
-  secrets, and license violati
+description: "Trivy 是 Aqua Security 出品的全面开源漏洞扫描器，可检测操作系统软件包、语言专用依赖中的漏洞、错误配置、秘密与许可证违规。 | Trivy is a comprehensive open-source vulnerability scanner by Aqua Security that detects vulnerabilities in OS packages, language-specific dependencies, misconfigurations, secrets, and license violati"
 domain: cybersecurity
 subdomain: container-security
 tags:

@@ -1,6 +1,6 @@
 ---
 name: crossframe
-description: "Use when the user explicitly invokes CrossFrame or 跨尺度结构诊断 for Chinese-canonical structural diagnosis of complex relationships, organizations, institutions, public disputes, or long-term evolution."
+description: "当用户显式调用 CrossFrame 或跨尺度结构诊断，对复杂关系、组织、机构、公共争议或长期演变进行中文规范的结构化诊断时使用。 | Use when the user explicitly invokes CrossFrame or 跨尺度结构诊断 for Chinese-canonical structural diagnosis of complex relationships, organizations, institutions, public disputes, or long-term evolution."
 category: workflow
 risk: safe
 source: community

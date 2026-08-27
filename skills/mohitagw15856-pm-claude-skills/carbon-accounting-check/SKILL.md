@@ -1,6 +1,6 @@
 ---
 name: carbon-accounting-check
-description: "Sanity-check a greenhouse gas inventory before it goes into a report or gets audited. Use when asked to review a carbon footprint, check a GHG inventory, validate scope 1/2/3 numbers, explain a year-over-year emissions change, or prepare emissions data for assurance. Produces a boundary review, data-quality assessment, emission-factor sensitivity list, YoY bridge, and a fix-before-publishing list."
+description: "在温室气体清单进入报告或接受审计之前对其进行合理性检查。当被要求评审碳足迹、检查温室气体清单、验证范围 1/2/3 数据、解释排放量的同比变化，或为鉴证准备排放数据时使用。产出边界评审、数据质量评估、排放因子敏感性清单、同比差异桥接分析，以及一份发布前修复清单。 | Sanity-check a greenhouse gas inventory before it goes into a report or gets audited. Use when asked to review a carbon footprint, check a GHG inventory, validate scope 1/2/3 numbers, explain a year-over-year emissions change, or prepare emissions data for assurance. Produces a boundary review, data-quality assessment, emission-factor sensitivity list, YoY bridge, and a fix-before-publishing list."
 ---
 
 # Carbon Accounting Check Skill

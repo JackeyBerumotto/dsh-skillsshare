@@ -1,6 +1,6 @@
 ---
 name: nft-standards
-description: "Master ERC-721 and ERC-1155 NFT standards, metadata best practices, and advanced NFT features."
+description: "掌握 ERC-721 与 ERC-1155 NFT 标准、元数据最佳实践与高级 NFT 特性。 | Master ERC-721 and ERC-1155 NFT standards, metadata best practices, and advanced NFT features."
 risk: unknown
 source: community
 date_added: "2026-02-27"

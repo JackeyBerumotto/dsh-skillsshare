@@ -1,7 +1,7 @@
 ---
 name: makepad-layout
 description: |
-  CRITICAL: Use for Makepad layout system. Triggers on:
+  关键：用于 Makepad 布局系统。触发词：makepad layout、makepad width、makepad height、makepad flex、makepad padding、makepad margin、makepad flow、makepad align、Fit、Fill、Size、Walk、「how to center in makepad」、makepad 布局、makepad 宽度、makepad 对齐、makepad 居中 |
   makepad layout, makepad width, makepad height, makepad flex,
   makepad padding, makepad margin, makepad flow, makepad align,
   Fit, Fill, Size, Walk, "how to center in makepad",

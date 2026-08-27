@@ -1,6 +1,6 @@
 ---
 name: geo-fundamentals
-description: "Generative Engine Optimization for AI search engines (ChatGPT, Claude, Perplexity)."
+description: "面向 AI 搜索引擎（ChatGPT、Claude、Perplexity）的生成式引擎优化。 | Generative Engine Optimization for AI search engines (ChatGPT, Claude, Perplexity)."
 risk: unknown
 source: community
 date_added: "2026-02-27"

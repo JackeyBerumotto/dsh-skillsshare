@@ -1,6 +1,6 @@
 ---
 name: postman-openapi-converter
-description: Convert OpenAPI 3.x or Swagger 2.0 specs (YAML or JSON) into complete, import-ready Postman Collection v2.1 JSON files. Use this skill whenever the user provides or references an OpenAPI spec, Swagger file, openapi.yaml, swagger.json, or uses phrases like "convert my OpenAPI spec",...
+description: 将 OpenAPI 3.x 或 Swagger 2.0 规范（YAML 或 JSON）转换为完整、可直接导入的 Postman Collection v2.1 JSON 文件。当用户提供或引用 OpenAPI 规范、Swagger 文件、openapi.yaml、swagger.json，或使用「convert my OpenAPI spec」等短语时使用本技能…… | Convert OpenAPI 3.x or Swagger 2.0 specs (YAML or JSON) into complete, import-ready Postman Collection v2.1 JSON files. Use this skill whenever the user provides or references an OpenAPI spec, Swagger file, openapi.yaml, swagger.json, or uses phrases like "convert my OpenAPI spec",...
 risk: unknown
 source: https://github.com/LambdaTest/agent-skills/tree/main/api-skill/postman/postman-openapi-converter
 source_repo: LambdaTest/agent-skills

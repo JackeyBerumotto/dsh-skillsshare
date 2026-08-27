@@ -1,7 +1,7 @@
 ---
 name: optimizing-cloud-costs
 description: |
-  Use when you need to work with cloud cost optimization.
+  当你需要处理云成本优化时使用。此技能提供成本分析和优化及全面的指导和自动化。触发词如「optimize costs」「analyze spending」或「reduce costs」。 |
   This skill provides cost analysis and optimization with comprehensive guidance and automation.
   Trigger with phrases like "optimize costs", "analyze spending",
   or "reduce costs".

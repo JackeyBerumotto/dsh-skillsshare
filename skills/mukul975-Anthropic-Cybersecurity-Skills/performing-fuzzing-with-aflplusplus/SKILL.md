@@ -1,13 +1,6 @@
 ---
 name: performing-fuzzing-with-aflplusplus
-description: 'Perform coverage-guided fuzzing of compiled binaries using AFL++ (American
-  Fuzzy Lop Plus Plus) to discover memory corruption, crashes, and security vulnerabilities.
-  The tester instruments target binaries with afl-cc/afl-clang-fast, manages input
-  corpora with afl-cmin and afl-tmin, runs parallel fuzzing campaigns with afl-fuzz,
-  and triages crashes using CASR or GDB scripts. Activates for requests involving
-  binary fuzzing, crash discovery, coverage-guided testing, or AFL++ fuzzing campaigns.
-
-  '
+description: "使用 AFL++（American Fuzzy Lop Plus Plus）对编译后的二进制文件执行覆盖引导模糊测试，以发现内存损坏、崩溃和安全漏洞。测试人员使用 afl-cc/afl-clang-fast 对目标二进制文件插桩，使用 afl-cmin 和 afl-tmin 管理输入语料，使用 afl-fuzz 运行并行模糊测试活动，并使用 CASR 或 GDB 脚本对崩溃进行分类。当请求涉及二进制模糊测试、崩溃发现、覆盖引导测试或 AFL++ 模糊测试活动时激活。 | Perform coverage-guided fuzzing of compiled binaries using AFL++ (American Fuzzy Lop Plus Plus) to discover memory corruption, crashes, and security vulnerabilities. The tester instruments target binaries with afl-cc/afl-clang-fast, manages input corpora with afl-cmin and afl-tmin, runs parallel fuzzing campaigns with afl-fuzz, and triages crashes using CASR or GDB scripts. Activates for requests involving binary fuzzing, crash discovery, coverage-guided testing, or AFL++ fuzzing campaigns."
 domain: cybersecurity
 subdomain: application-security
 tags:

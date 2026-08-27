@@ -1,6 +1,6 @@
 ---
 name: performance-optimizer
-description: "Identifies and fixes performance bottlenecks in code, databases, and APIs. Measures before and after to prove improvements."
+description: "识别并修复代码、数据库和 API 中的性能瓶颈。通过前后测量证明改进效果。 | Identifies and fixes performance bottlenecks in code, databases, and APIs. Measures before and after to prove improvements."
 category: development
 risk: safe
 source: community

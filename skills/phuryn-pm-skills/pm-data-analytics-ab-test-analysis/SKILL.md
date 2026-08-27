@@ -1,6 +1,6 @@
 ---
 name: ab-test-analysis
-description: "Analyze A/B test results with statistical significance, sample size validation, confidence intervals, and ship/extend/stop recommendations. Use when evaluating experiment results, checking if a test reached significance, interpreting split test data, or deciding whether to ship a variant."
+description: "分析 A/B 测试结果，包含统计显著性、样本量验证、置信区间以及上线／延长／终止建议。在评估实验结果、检验测试是否达到显著性、解读分流测试数据，或决定是否上线某个变体时使用。 | Analyze A/B test results with statistical significance, sample size validation, confidence intervals, and ship/extend/stop recommendations. Use when evaluating experiment results, checking if a test reached significance, interpreting split test data, or deciding whether to ship a variant."
 ---
 
 ## A/B Test Analysis

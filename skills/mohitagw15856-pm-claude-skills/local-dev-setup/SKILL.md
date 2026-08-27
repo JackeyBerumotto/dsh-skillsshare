@@ -1,6 +1,6 @@
 ---
 name: local-dev-setup
-description: "Write a local development environment setup guide for a service or project — covering prerequisites, repository setup, environment variables, local service dependencies, database seeding, running the service, running tests, common gotchas, IDE recommendations, and first-contribution checklist. Use when asked to write a dev setup guide, create onboarding documentation for engineers, document local environment setup, or write a getting-started guide for a codebase. Produces a complete setup guide that a new engineer can follow from zero to running tests in under 30 minutes, with a troubleshooting section for the most common setup failures."
+description: "为服务或项目编写本地开发环境搭建指南——涵盖前置条件、仓库准备、环境变量、本地服务依赖、数据库种子数据、运行服务、运行测试、常见坑、IDE 建议和首次贡献检查清单。在被要求编写开发环境搭建指南、为工程师创建入职文档、记录本地环境搭建，或为代码库编写入门指南时使用。产出完整搭建指南，新工程师可在 30 分钟内从零跟到跑通测试，并附针对最常见搭建失败的故障排查章节。 | Write a local development environment setup guide for a service or project — covering prerequisites, repository setup, environment variables, local service dependencies, database seeding, running the service, running tests, common gotchas, IDE recommendations, and first-contribution checklist. Use when asked to write a dev setup guide, create onboarding documentation for engineers, document local environment setup, or write a getting-started guide for a codebase. Produces a complete setup guide that a new engineer can follow from zero to running tests in under 30 minutes, with a troubleshooting section for the most common setup failures."
 ---
 
 # Local Dev Setup Skill

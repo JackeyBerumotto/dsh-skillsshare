@@ -1,16 +1,6 @@
 ---
 name: detecting-serverless-function-injection
-description: 'Detects and prevents code injection attacks targeting serverless functions
-  (AWS Lambda, Azure Functions, Google Cloud Functions) through event source poisoning,
-  malicious layer injection, runtime command execution, and IAM privilege escalation
-  via function modification. The analyst combines static analysis of function code,
-  CloudTrail event correlation, runtime behavior monitoring, and IAM policy auditing
-  to identify injection vectors across the expanded serverless attack surface including
-  API Gateway, S3, SQS, DynamoDB Streams, and CloudWatch event triggers. Activates
-  for requests involving Lambda security assessment, serverless injection detection,
-  function event poisoning analysis, or serverless privilege escalation investigation.
-
-  '
+description: "检测并防御针对无服务器函数（AWS Lambda、Azure Functions、Google Cloud Functions）的代码注入攻击，包括事件源投毒、恶意层注入、运行时命令执行以及通过篡改函数实现的 IAM 特权提升。分析人员结合函数代码静态分析、CloudTrail 事件关联、运行时行为监控和 IAM 策略审计，识别扩展无服务器攻击面（包括 API Gateway、S3、SQS、DynamoDB Streams 和 CloudWatch 事件触发器）中的注入向量。当请求涉及 Lambda 安全评估、无服务器注入检测、函数事件投毒分析或无服务器特权提升调查时激活。 | Detects and prevents code injection attacks targeting serverless functions (AWS Lambda, Azure Functions, Google Cloud Functions) through event source poisoning, malicious layer injection, runtime command execution, and IAM privilege escalation via function modification. The analyst combines static analysis of function code, CloudTrail event correlation, runtime behavior monitoring, and IAM policy auditing to identify injection vectors across the expanded serverless attack surface including API Gateway, S3, SQS, DynamoDB Streams, and CloudWatch event triggers. Activates for requests involving Lambda security assessment, serverless injection detection, function event poisoning analysis, or serverless privilege escalation investigation."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

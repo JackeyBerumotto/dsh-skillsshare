@@ -1,6 +1,6 @@
 ---
 name: upgrading-expo
-description: Guidelines for upgrading Expo SDK versions and fixing dependency issues
+description: 升级 Expo SDK 版本和修复依赖问题的指南 | Guidelines for upgrading Expo SDK versions and fixing dependency issues
 risk: unknown
 source: https://github.com/expo/skills/tree/main/plugins/expo/skills/upgrading-expo
 source_repo: expo/skills

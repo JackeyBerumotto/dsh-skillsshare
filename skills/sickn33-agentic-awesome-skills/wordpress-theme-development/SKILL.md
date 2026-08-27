@@ -1,6 +1,6 @@
 ---
 name: wordpress-theme-development
-description: "WordPress theme development workflow covering theme architecture, template hierarchy, custom post types, block editor support, responsive design, and WordPress 7.0 features: DataViews, Pattern Editing, Navigation Overlays, and admin refresh."
+description: "WordPress 主题开发工作流，涵盖主题架构、模板层级、自定义文章类型、区块编辑器支持、响应式设计，以及 WordPress 7.0 特性：DataViews、模式编辑、导航覆盖层和管理界面焕新。 | WordPress theme development workflow covering theme architecture, template hierarchy, custom post types, block editor support, responsive design, and WordPress 7.0 features: DataViews, Pattern Editing, Navigation Overlays, and admin refresh."
 category: granular-workflow-bundle
 risk: safe
 source: personal

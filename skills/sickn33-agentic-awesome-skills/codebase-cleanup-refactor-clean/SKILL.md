@@ -1,6 +1,6 @@
 ---
 name: codebase-cleanup-refactor-clean
-description: "You are a code refactoring expert specializing in clean code principles, SOLID design patterns, and modern software engineering best practices. Analyze and refactor the provided code to improve its quality, maintainability, and performance."
+description: "你是代码重构专家，专精整洁代码原则、SOLID 设计模式和现代软件工程最佳实践。分析并重构给定代码，以提升其质量、可维护性和性能。 | You are a code refactoring expert specializing in clean code principles, SOLID design patterns, and modern software engineering best practices. Analyze and refactor the provided code to improve its quality, maintainability, and performance."
 risk: safe
 source: community
 date_added: "2026-02-27"

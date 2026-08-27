@@ -1,6 +1,6 @@
 ---
 name: modular-skills
-description: 'Build composable skill modules with hub-and-spoke loading. Use when token budget is tight.'
+description: '构建带轴辐式加载的可组合技能模块。当令牌预算紧张时使用。 | Build composable skill modules with hub-and-spoke loading. Use when token budget is tight.'
 alwaysApply: false
 category: workflow-optimization
 tags:

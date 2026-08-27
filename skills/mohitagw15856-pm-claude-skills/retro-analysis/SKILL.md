@@ -1,6 +1,6 @@
 ---
 name: retro-analysis
-description: "Analyses sprint delivery data and produces a structured retrospective brief. Use when asked to run a retrospective, analyse sprint data, prepare a retro brief, or turn sprint metrics into discussion prompts. Produces a data-grounded retrospective brief with completion stats, pattern analysis, Start/Stop/Continue prompts, and one concrete experiment for next sprint."
+description: "分析冲刺交付数据并生成结构化的回顾简报。当被要求组织回顾会、分析冲刺数据、准备回顾简报，或将冲刺指标转化为讨论话题时使用。产出以数据为依据的回顾简报，包含完成情况统计、模式分析、开始／停止／继续讨论项，以及下一个冲刺的一个具体实验。 | Analyses sprint delivery data and produces a structured retrospective brief. Use when asked to run a retrospective, analyse sprint data, prepare a retro brief, or turn sprint metrics into discussion prompts. Produces a data-grounded retrospective brief with completion stats, pattern analysis, Start/Stop/Continue prompts, and one concrete experiment for next sprint."
 ---
 
 # Retrospective Analysis Skill

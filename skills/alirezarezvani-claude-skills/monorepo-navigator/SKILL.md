@@ -1,6 +1,6 @@
 ---
 name: "monorepo-navigator"
-description: "Navigate, manage, and optimize monorepos. Covers Turborepo, Nx, pnpm workspaces, and Lerna. Cross-package impact analysis, selective builds/tests on affected packages, remote caching, dependency graph visualization, and structured multi-repo to monorepo migrations. Use when setting up a new monorepo, optimizing CI for a large workspace, debugging cross-package dependency issues, or planning a multi-repo consolidation."
+description: "浏览、管理和优化 monorepo。涵盖 Turborepo、Nx、pnpm workspaces 和 Lerna：跨包影响分析、仅对受影响包进行选择性构建/测试、远程缓存、依赖图可视化，以及结构化的多仓库到 monorepo 迁移。在搭建新 monorepo、为大型工作区优化 CI、调试跨包依赖问题或规划多仓库整合时使用。 | Navigate, manage, and optimize monorepos. Covers Turborepo, Nx, pnpm workspaces, and Lerna. Cross-package impact analysis, selective builds/tests on affected packages, remote caching, dependency graph visualization, and structured multi-repo to monorepo migrations. Use when setting up a new monorepo, optimizing CI for a large workspace, debugging cross-package dependency issues, or planning a multi-repo consolidation."
 ---
 
 # Monorepo Navigator

@@ -1,6 +1,6 @@
 ---
 name: pydicom
-description: Python library for working with DICOM (Digital Imaging and Communications in Medicine) files. Use this skill when reading, writing, or modifying medical imaging data in DICOM format, extracting pixel data from medical images (CT, MRI, X-ray, ultrasound), anonymizing DICOM files, working with DICOM metadata and tags, converting DICOM images to other formats, handling compressed DICOM data, or processing medical imaging datasets. Applies to tasks involving medical image analysis, PACS systems, radiology workflows, and healthcare imaging applications.
+description: 用于处理 DICOM（医学数字成像和通信）文件的 Python 库。在读取、写入或修改 DICOM 格式的医学影像数据，从医学图像（CT、MRI、X 光、超声）提取像素数据，匿名化 DICOM 文件，处理 DICOM 元数据和标签，将 DICOM 图像转换为其他格式，处理压缩的 DICOM 数据，或处理医学影像数据集时使用此技能。适用于涉及医学图像分析、PACS 系统、放射科流程和医疗影像应用的任务。 | Python library for working with DICOM (Digital Imaging and Communications in Medicine) files. Use this skill when reading, writing, or modifying medical imaging data in DICOM format, extracting pixel data from medical images (CT, MRI, X-ray, ultrasound), anonymizing DICOM files, working with DICOM metadata and tags, converting DICOM images to other formats, handling compressed DICOM data, or processing medical imaging datasets. Applies to tasks involving medical image analysis, PACS systems, radiology workflows, and healthcare imaging applications.
 license: https://github.com/pydicom/pydicom/blob/main/LICENSE
 metadata: {"version": "1.0", "skill-author": "K-Dense Inc."}
 ---

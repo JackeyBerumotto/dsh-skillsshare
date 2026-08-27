@@ -1,6 +1,6 @@
 ---
 name: web-testing-vue-test-utils
-description: Vue Test Utils patterns - mount, shallowMount, wrapper API, trigger, setValue, flushPromises, testing composables, Pinia store mocking
+description: Vue Test Utils 模式——mount、shallowMount、wrapper API、trigger、setValue、flushPromises、组合式函数测试和 Pinia store 模拟。 | Vue Test Utils patterns - mount, shallowMount, wrapper API, trigger, setValue, flushPromises, testing composables, Pinia store mocking
 ---
 
 # Vue Test Utils Patterns

@@ -1,6 +1,6 @@
 ---
 name: security-incident-response
-description: "Run or document a security incident response — contain, eradicate, recover, and learn. Use when responding to a breach/compromise/security incident, writing an IR plan or runbook, or producing a post-incident report. Produces a phase-by-phase response (triage, contain, eradicate, recover, post-incident) with the immediate actions, comms, evidence-handling, and a blameless review. For incidents on systems you own or defend."
+description: "运行或撰写安全事件响应——遏制、根除、恢复和总结学习。当正在应对入侵/失陷/安全事件、撰写 IR 计划或运行手册，或产出事后报告时使用。产出逐阶段响应（分诊、遏制、根除、恢复、事后），包含即时行动、对外沟通、证据处理和无责复盘。适用于你拥有或负责防御的系统上的事件。 | Run or document a security incident response — contain, eradicate, recover, and learn. Use when responding to a breach/compromise/security incident, writing an IR plan or runbook, or producing a post-incident report. Produces a phase-by-phase response (triage, contain, eradicate, recover, post-incident) with the immediate actions, comms, evidence-handling, and a blameless review. For incidents on systems you own or defend."
 ---
 
 # Security Incident Response Skill

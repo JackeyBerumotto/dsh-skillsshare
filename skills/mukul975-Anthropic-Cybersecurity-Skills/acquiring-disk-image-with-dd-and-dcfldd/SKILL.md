@@ -1,7 +1,6 @@
 ---
 name: acquiring-disk-image-with-dd-and-dcfldd
-description: Create forensically sound bit-for-bit disk images using dd and dcfldd
-  while preserving evidence integrity through hash verification.
+description: "使用 dd 和 dcfldd 创建逐位一致的取证磁盘镜像，并通过哈希验证保全证据完整性。 | Create forensically sound bit-for-bit disk images using dd and dcfldd while preserving evidence integrity through hash verification."
 domain: cybersecurity
 subdomain: digital-forensics
 tags:

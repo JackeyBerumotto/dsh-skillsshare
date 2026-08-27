@@ -1,6 +1,6 @@
 ---
 name: telegram
-description: Integracao completa com Telegram Bot API. Setup com BotFather, mensagens, webhooks, inline keyboards, grupos, canais. Boilerplates Node.js e Python.
+description: 与 Telegram Bot API 的完整集成。涵盖 BotFather 设置、消息、webhook、内联键盘、群组和频道。提供 Node.js 与 Python 样板代码。 | Integracao completa com Telegram Bot API. Setup com BotFather, mensagens, webhooks, inline keyboards, grupos, canais. Boilerplates Node.js e Python.
 risk: critical
 source: community
 date_added: '2026-03-06'

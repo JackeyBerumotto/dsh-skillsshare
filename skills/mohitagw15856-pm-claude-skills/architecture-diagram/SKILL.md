@@ -1,6 +1,6 @@
 ---
 name: architecture-diagram
-description: "Diagram a system or technical architecture — services, data stores, and how they connect. Use when asked to draw an architecture, show how components fit together, map a system/data flow, or visualize services and dependencies. Produces a ready-to-render Mermaid diagram with grouped subgraphs (renders live, exportable as PNG/SVG) plus a component legend and notes."
+description: "绘制系统或技术架构图：服务、数据存储及其连接方式。当被要求画架构图、展示组件如何组合、梳理系统/数据流，或将服务与依赖可视化时使用。产出可直接渲染的 Mermaid 图（带分组子图，支持实时渲染并可导出为 PNG/SVG），另附组件图例和说明。 | Diagram a system or technical architecture — services, data stores, and how they connect. Use when asked to draw an architecture, show how components fit together, map a system/data flow, or visualize services and dependencies. Produces a ready-to-render Mermaid diagram with grouped subgraphs (renders live, exportable as PNG/SVG) plus a component legend and notes."
 ---
 
 # Architecture Diagram Skill

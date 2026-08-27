@@ -1,6 +1,6 @@
 ---
 name: "copy-editing"
-description: "When the user wants to edit, review, or improve existing marketing copy. Also use when the user mentions 'edit this copy,' 'review my copy,' 'copy feedback,' 'proofread,' 'polish this,' 'make this better,' or 'copy sweep.' This skill provides a systematic approach to editing marketing copy through multiple focused passes."
+description: "当用户想要编辑、审查或改进现有营销文案时使用。当用户提到「edit this copy」「review my copy」「copy feedback」「proofread」「polish this」「make this better」或「copy sweep」时也应使用。本技能提供通过多轮聚焦审读来系统性编辑营销文案的方法。 | When the user wants to edit, review, or improve existing marketing copy. Also use when the user mentions 'edit this copy,' 'review my copy,' 'copy feedback,' 'proofread,' 'polish this,' 'make this better,' or 'copy sweep.' This skill provides a systematic approach to editing marketing copy through multiple focused passes."
 license: MIT
 metadata:
   version: 1.0.0

@@ -1,6 +1,6 @@
 ---
 name: ui-tokens
-description: View, add, or modify design tokens in the StyleSeed design system
+description: 查看、添加或修改 StyleSeed 设计系统中的设计令牌。 | View, add, or modify design tokens in the StyleSeed design system
 risk: unknown
 source: https://github.com/bitjaru/styleseed/tree/main/engine/.claude/skills/ss-tokens
 source_repo: bitjaru/styleseed

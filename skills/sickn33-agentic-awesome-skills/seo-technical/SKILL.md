@@ -1,6 +1,6 @@
 ---
 name: seo-technical
-description: "Audit technical SEO across crawlability, indexability, security, URLs, mobile, Core Web Vitals, structured data, JavaScript rendering, and related platform signals like robots.txt and AI crawler access."
+description: "审计技术 SEO，涵盖可抓取性、可索引性、安全性、URL、移动端、Core Web Vitals、结构化数据、JavaScript 渲染，以及 robots.txt 和 AI 爬虫访问等相关平台信号。 | Audit technical SEO across crawlability, indexability, security, URLs, mobile, Core Web Vitals, structured data, JavaScript rendering, and related platform signals like robots.txt and AI crawler access."
 risk: unknown
 source: "https://github.com/AgriciDaniel/claude-seo"
 date_added: "2026-03-21"

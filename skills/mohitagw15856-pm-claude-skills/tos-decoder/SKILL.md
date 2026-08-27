@@ -1,6 +1,6 @@
 ---
 name: tos-decoder
-description: "Decode a terms of service or privacy policy into what you're actually agreeing to, ranked by real-world impact. Use when someone asks 'what am I agreeing to', 'decode this privacy policy', 'is this ToS bad', or 'should I click accept'. Produces a ranked findings table with a 'should I care?' verdict per finding, covering data resale, arbitration and class-action waivers, unilateral changes, content licenses, and what deletion really means."
+description: "解读服务条款或隐私政策，弄清你实际同意了什么，并按现实影响排序。当有人问「我同意的是什么」「解读这份隐私政策」「这份 ToS 糟糕吗」或「我该点接受吗」时使用。产出排序的发现表，每项发现附「需要在意吗」的裁定，涵盖数据转售、仲裁与集体诉讼弃权、单方面变更、内容许可以及删除的真实含义。 | Decode a terms of service or privacy policy into what you're actually agreeing to, ranked by real-world impact. Use when someone asks 'what am I agreeing to', 'decode this privacy policy', 'is this ToS bad', or 'should I click accept'. Produces a ranked findings table with a 'should I care?' verdict per finding, covering data resale, arbitration and class-action waivers, unilateral changes, content licenses, and what deletion really means."
 ---
 
 # ToS Decoder Skill

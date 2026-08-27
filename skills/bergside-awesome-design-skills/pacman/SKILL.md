@@ -1,6 +1,6 @@
 ---
 name: pacman
-description: Retro arcade-inspired design with pixel fonts, dotted borders, playful high-contrast colors, and 8-bit game aesthetics.
+description: 复古街机风格设计，采用像素字体、点状边框、活泼的高对比配色和 8 位游戏美学。 | Retro arcade-inspired design with pixel fonts, dotted borders, playful high-contrast colors, and 8-bit game aesthetics.
 license: MIT
 metadata:
   author: typeui.sh

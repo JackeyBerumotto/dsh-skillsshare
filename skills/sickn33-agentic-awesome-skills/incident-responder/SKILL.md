@@ -1,6 +1,6 @@
 ---
 name: incident-responder
-description: Expert SRE incident responder specializing in rapid problem resolution, modern observability, and comprehensive incident management.
+description: 资深 SRE 事件响应专家，专注快速问题解决、现代可观测性和全面的事件管理。 | Expert SRE incident responder specializing in rapid problem resolution, modern observability, and comprehensive incident management.
 risk: unknown
 source: community
 date_added: '2026-02-27'

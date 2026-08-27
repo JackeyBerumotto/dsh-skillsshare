@@ -1,6 +1,6 @@
 ---
 name: trader-backtest
-description: Run a historical backtest using npx neural-trader with Rust/NAPI engine (8-19x faster) and walk-forward validation; Ed25519-sign the result for paper→live tamper evidence (ADR-126 Phase 4)
+description: 使用 npx neural-trader 与 Rust/NAPI 引擎（快 8-19 倍）运行历史回测和走前验证；用 Ed25519 对结果签名，作为模拟盘到实盘的防篡改证据（ADR-126 阶段 4）。 | Run a historical backtest using npx neural-trader with Rust/NAPI engine (8-19x faster) and walk-forward validation; Ed25519-sign the result for paper→live tamper evidence (ADR-126 Phase 4)
 allowed-tools: Bash Read mcp__claude-flow__memory_store mcp__claude-flow__memory_retrieve mcp__claude-flow__memory_search mcp__claude-flow__memory_delete mcp__claude-flow__neural_train mcp__claude-flow__agentdb_pattern-store
 argument-hint: "<strategy-name> --symbol <TICKER> [--period 2020-2024]"
 ---

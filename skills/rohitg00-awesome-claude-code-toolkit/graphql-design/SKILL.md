@@ -1,6 +1,6 @@
 ---
 name: graphql-design
-description: GraphQL schema design, resolver patterns, subscriptions, DataLoader for N+1 prevention, and error handling
+description: GraphQL 架构设计、resolver 模式、订阅、用于防止 N+1 的 DataLoader 以及错误处理 | GraphQL schema design, resolver patterns, subscriptions, DataLoader for N+1 prevention, and error handling
 ---
 
 # GraphQL Design

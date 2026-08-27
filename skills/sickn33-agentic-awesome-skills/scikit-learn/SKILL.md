@@ -1,6 +1,6 @@
 ---
 name: scikit-learn
-description: Machine learning in Python with scikit-learn. Use for classification, regression, clustering, model evaluation, and ML pipelines.
+description: 使用 scikit-learn 进行 Python 机器学习。用于分类、回归、聚类、模型评估与 ML 流水线。 | Machine learning in Python with scikit-learn. Use for classification, regression, clustering, model evaluation, and ML pipelines.
 license: BSD-3-Clause license
 metadata:
     skill-author: K-Dense Inc.

@@ -1,6 +1,6 @@
 ---
 name: flowio
-description: Parse FCS (Flow Cytometry Standard) files v2.0-3.1. Extract events as NumPy arrays, read metadata/channels, convert to CSV/DataFrame, for flow cytometry data preprocessing.
+description: 解析 FCS（流式细胞术标准）文件 v2.0-3.1。将事件提取为 NumPy 数组、读取元数据/通道、转换为 CSV/DataFrame，用于流式细胞术数据预处理。 | Parse FCS (Flow Cytometry Standard) files v2.0-3.1. Extract events as NumPy arrays, read metadata/channels, convert to CSV/DataFrame, for flow cytometry data preprocessing.
 license: BSD-3-Clause license
 metadata: {"version": "1.0", "skill-author": "K-Dense Inc."}
 ---

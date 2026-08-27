@@ -1,6 +1,6 @@
 ---
 name: fleet-hunting-with-velociraptor
-description: Deploy a Velociraptor server and agents and write VQL hunts across a fleet.
+description: 部署 Velociraptor 服务端和代理，并在整个终端集群中编写 VQL 狩猎查询。 | Deploy a Velociraptor server and agents and write VQL hunts across a fleet.
 domain: cybersecurity
 subdomain: threat-hunting
 tags:

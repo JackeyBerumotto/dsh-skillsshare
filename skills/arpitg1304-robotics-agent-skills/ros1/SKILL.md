@@ -1,7 +1,7 @@
 ---
 name: ros1-development
 description: >
-  Best practices, design patterns, and common pitfalls for ROS1 (Robot Operating System 1) development.
+  ROS1（Robot Operating System 1）开发的最佳实践、设计模式与常见陷阱。在构建 ROS1 节点、包、launch 文件或调试 ROS1 系统时使用此技能。当用户提到 ROS1、catkin、rospy、roscpp、roslaunch、roscore、rostopic、tf、actionlib、消息类型、服务或任何 ROS1 时代的机器人中间件时触发。在把 ROS1 代码迁移到 ROS2、维护遗留 ROS1 系统，或构建 ROS1 与 ROS2 之间的桥接时也应触发。涵盖 catkin 工作区、nodelets、dynamic reconfigure、pluginlib 以及完整的 ROS1 生态系统。 |
   Use this skill when building ROS1 nodes, packages, launch files, or debugging ROS1 systems. Trigger
   whenever the user mentions ROS1, catkin, rospy, roscpp, roslaunch, roscore, rostopic, tf, actionlib,
   message types, services, or any ROS1-era robotics middleware. Also trigger for migrating ROS1 code

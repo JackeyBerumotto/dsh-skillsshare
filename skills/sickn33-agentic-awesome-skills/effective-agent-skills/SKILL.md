@@ -1,6 +1,6 @@
 ---
 name: effective-agent-skills
-description: "Author and review high-quality agent skills with triggers, progressive disclosure, and safety notes."
+description: "编写并审查高质量的 agent skill，涵盖触发条件、渐进式披露和安全说明。 | Author and review high-quality agent skills with triggers, progressive disclosure, and safety notes."
 category: development
 risk: safe
 source: community

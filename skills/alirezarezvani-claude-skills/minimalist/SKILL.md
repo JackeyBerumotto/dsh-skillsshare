@@ -1,6 +1,6 @@
 ---
 name: "minimalist"
-description: "Use when the user asks to write code efficiently, avoid over-engineering, reduce dependencies, or prevent unnecessary abstractions. Enforces a strict efficiency ladder: YAGNI, reuse, stdlib, native platform, existing deps — before writing any new code."
+description: "当用户要求高效编写代码、避免过度工程、减少依赖或防止不必要的抽象时使用。强制执行严格的效率阶梯：YAGNI、复用、标准库、原生平台、现有依赖——在编写任何新代码之前。 | Use when the user asks to write code efficiently, avoid over-engineering, reduce dependencies, or prevent unnecessary abstractions. Enforces a strict efficiency ladder: YAGNI, reuse, stdlib, native platform, existing deps — before writing any new code."
 ---
 
 # Minimalist

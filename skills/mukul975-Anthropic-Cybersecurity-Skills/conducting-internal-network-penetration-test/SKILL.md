@@ -1,8 +1,6 @@
 ---
 name: conducting-internal-network-penetration-test
-description: Execute an internal network penetration test simulating an insider threat
-  or post-breach attacker to identify lateral movement paths, privilege escalation
-  vectors, and sensitive data exposure within the corporate network.
+description: "执行内部网络渗透测试，模拟内部威胁或已突破边界的攻击者，识别企业网络内的横向移动路径、特权提升向量和敏感数据暴露。 | Execute an internal network penetration test simulating an insider threat or post-breach attacker to identify lateral movement paths, privilege escalation vectors, and sensitive data exposure within the corporate network."
 domain: cybersecurity
 subdomain: penetration-testing
 tags:

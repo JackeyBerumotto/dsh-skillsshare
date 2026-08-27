@@ -1,7 +1,7 @@
 ---
 name: godot-physics
 description: >
-  Use Godot 4.x physics bodies and detection in 2D and 3D: RigidBody, StaticBody,
+  在 2D 和 3D 中使用 Godot 4.x 的物理体与检测：RigidBody、StaticBody、Area 和 CharacterBody；碰撞层与碰撞遮罩；接触/重叠信号；以及射线检测（RayCast 节点和直接 space-state 查询）。当在 Godot 项目（含物理体的 .tscn）中配置碰撞层/遮罩、用 Area2D/Area3D 检测重叠、对 RigidBody 施加力或投射射线时使用。 |
   Area, and CharacterBody; collision layers vs masks; contact/overlap signals; and
   raycasts (RayCast nodes and direct space-state queries). Use when configuring
   collision layers/masks, detecting overlaps with Area2D/Area3D, applying forces to a

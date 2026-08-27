@@ -1,6 +1,6 @@
 ---
 name: ElevenLabs Automation
-description: "Automate ElevenLabs text-to-speech workflows -- generate speech from text, browse and inspect voices, check subscription limits, list models, stream audio, and retrieve history via the Composio MCP integration."
+description: "通过 Composio MCP 集成自动化 ElevenLabs 文本转语音工作流：从文本生成语音、浏览并查看声音、检查订阅限额、列出模型、流式传输音频以及获取历史记录。 | Automate ElevenLabs text-to-speech workflows -- generate speech from text, browse and inspect voices, check subscription limits, list models, stream audio, and retrieve history via the Composio MCP integration."
 requires:
   mcp:
     - rube

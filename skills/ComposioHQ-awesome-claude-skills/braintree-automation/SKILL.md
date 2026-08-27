@@ -1,6 +1,6 @@
 ---
 name: Braintree Automation
-description: "Braintree Automation: manage payment processing via Stripe-compatible tools for customers, subscriptions, payment methods, and transactions"
+description: "Braintree 自动化：通过兼容 Stripe 的工具管理客户、订阅、支付方式与交易 | Braintree Automation: manage payment processing via Stripe-compatible tools for customers, subscriptions, payment methods, and transactions"
 requires:
   mcp: [rube]
 ---

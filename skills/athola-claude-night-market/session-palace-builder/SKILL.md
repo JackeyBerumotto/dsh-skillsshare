@@ -1,6 +1,6 @@
 ---
 name: session-palace-builder
-description: Builds session-scoped temporary memory palaces for extended conversations. Use when tracking state across interruptions in a multi-step project.
+description: 为长时间对话构建会话级临时记忆宫殿。当需要在多步骤项目中跨中断追踪状态时使用。 | Builds session-scoped temporary memory palaces for extended conversations. Use when tracking state across interruptions in a multi-step project.
 alwaysApply: false
 category: session-management
 tags:

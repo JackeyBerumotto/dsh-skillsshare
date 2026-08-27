@@ -1,6 +1,6 @@
 ---
 name: "cloud-security"
-description: "Use when assessing cloud infrastructure for security misconfigurations, IAM privilege escalation paths, S3 public exposure, open security group rules, or IaC security gaps. Covers AWS, Azure, and GCP posture assessment with MITRE ATT&CK mapping."
+description: "在评估云基础设施的安全错误配置、IAM 特权升级路径、S3 公开暴露、开放的安全组规则或 IaC 安全缺口时使用。涵盖 AWS、Azure 和 GCP 态势评估并映射 MITRE ATT&CK。 | Use when assessing cloud infrastructure for security misconfigurations, IAM privilege escalation paths, S3 public exposure, open security group rules, or IaC security gaps. Covers AWS, Azure, and GCP posture assessment with MITRE ATT&CK mapping."
 ---
 
 # Cloud Security

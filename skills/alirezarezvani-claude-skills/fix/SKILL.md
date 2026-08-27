@@ -1,7 +1,7 @@
 ---
 name: "fix"
 description: >-
-  Fix failing or flaky Playwright tests. Use when user says "fix test",
+  修复失败或不稳定的 Playwright 测试。当用户说「fix test」「flaky test」「test failing」「debug test」「test broken」「test passes sometimes」或「intermittent failure」时使用。 |
   "flaky test", "test failing", "debug test", "test broken", "test passes
   sometimes", or "intermittent failure".
 ---

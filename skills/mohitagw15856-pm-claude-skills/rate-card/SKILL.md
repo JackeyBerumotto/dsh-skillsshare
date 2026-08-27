@@ -1,6 +1,6 @@
 ---
 name: rate-card
-description: "Build a consulting/freelance rate card and pricing structure — and the floor rate to not go broke. Use when asked to set freelance/consulting rates, build a rate card, decide what to charge, package services, or move off hourly billing. Produces a rate card — your minimum viable rate (from real targets), tiered packages, pricing models (hourly/day/project/retainer/value), and how to present and defend it."
+description: "构建咨询或自由职业的费率卡与定价结构——以及让你不至于亏本的保底费率。当被要求设定自由职业或咨询费率、制作费率卡、决定收费标准、打包服务，或摆脱按小时计费时使用。产出一份费率卡——你的最低可行费率（基于真实目标）、分层套餐、定价模式（按小时、按天、按项目、retainer、按价值），以及如何展示和捍卫它。 | Build a consulting/freelance rate card and pricing structure — and the floor rate to not go broke. Use when asked to set freelance/consulting rates, build a rate card, decide what to charge, package services, or move off hourly billing. Produces a rate card — your minimum viable rate (from real targets), tiered packages, pricing models (hourly/day/project/retainer/value), and how to present and defend it."
 ---
 
 # Rate Card Skill

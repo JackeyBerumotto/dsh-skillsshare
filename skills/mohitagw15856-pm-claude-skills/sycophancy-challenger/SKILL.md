@@ -1,6 +1,6 @@
 ---
 name: sycophancy-challenger
-description: "Flip Claude’s default from validation to adversarial critique. Use when you are about to make a high-stakes decision, commit to a plan, or pitch something you have not stress-tested. Produces structured challenges, steelmanned counter-arguments, and the strongest case against your position — a genuine thinking partner, not a mirror."
+description: "把 Claude 的默认姿态从认可翻转为对抗性批判。当你即将做出高风险决定、敲定一个计划，或推销未经压力测试的东西时使用。产出结构化挑战、钢人式反方论证，以及反对你立场的最强理由——是真正的思考伙伴，而不是镜子。 | Flip Claude’s default from validation to adversarial critique. Use when you are about to make a high-stakes decision, commit to a plan, or pitch something you have not stress-tested. Produces structured challenges, steelmanned counter-arguments, and the strongest case against your position — a genuine thinking partner, not a mirror."
 ---
 
 # Sycophancy Challenger

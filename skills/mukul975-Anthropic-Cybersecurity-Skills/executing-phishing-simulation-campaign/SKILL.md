@@ -1,14 +1,6 @@
 ---
 name: executing-phishing-simulation-campaign
-description: 'Executes authorized phishing simulation campaigns to assess an organization''s
-  susceptibility to email-based social engineering attacks. The tester designs realistic
-  phishing scenarios, builds credential harvesting infrastructure, sends targeted
-  phishing emails, and tracks open rates, click-through rates, and credential submission
-  rates to measure human security awareness. Activates for requests involving phishing
-  simulation, social engineering assessment, email security testing, or security awareness
-  measurement.
-
-  '
+description: "执行经授权的钓鱼模拟活动，评估组织对基于邮件的社会工程攻击的易感性。测试人员设计逼真的钓鱼场景、搭建凭据收割基础设施、发送定向钓鱼邮件，并跟踪打开率、点击率和凭据提交率以衡量人员安全意识。当请求涉及钓鱼模拟、社会工程评估、邮件安全测试或安全意识度量时激活。 | Executes authorized phishing simulation campaigns to assess an organization''s susceptibility to email-based social engineering attacks. The tester designs realistic phishing scenarios, builds credential harvesting infrastructure, sends targeted phishing emails, and tracks open rates, click-through rates, and credential submission rates to measure human security awareness. Activates for requests involving phishing simulation, social engineering assessment, email security testing, or security awareness measurement."
 domain: cybersecurity
 subdomain: penetration-testing
 tags:

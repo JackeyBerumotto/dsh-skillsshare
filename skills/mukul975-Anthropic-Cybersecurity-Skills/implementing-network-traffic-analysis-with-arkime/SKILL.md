@@ -1,10 +1,6 @@
 ---
 name: implementing-network-traffic-analysis-with-arkime
-description: Deploy and query Arkime (formerly Moloch) for full packet capture network
-  traffic analysis. Uses the Arkime API v3 to search sessions, download PCAPs, analyze
-  connection patterns, detect beaconing behavior, and identify suspicious network
-  flows. Monitors DNS queries, HTTP traffic, and TLS certificate anomalies across
-  captured traffic.
+description: "部署并查询 Arkime（原 Moloch）进行全包捕获网络流量分析。使用 Arkime API v3 搜索会话、下载 PCAP、分析连接模式、检测心跳行为并识别可疑网络流。在捕获的流量中监控 DNS 查询、HTTP 流量和 TLS 证书异常。 | Deploy and query Arkime (formerly Moloch) for full packet capture network traffic analysis. Uses the Arkime API v3 to search sessions, download PCAPs, analyze connection patterns, detect beaconing behavior, and identify suspicious network flows. Monitors DNS queries, HTTP traffic, and TLS certificate anomalies across captured traffic."
 domain: cybersecurity
 subdomain: network-security
 tags:

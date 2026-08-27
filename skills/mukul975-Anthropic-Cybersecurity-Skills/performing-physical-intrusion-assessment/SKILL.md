@@ -1,8 +1,6 @@
 ---
 name: performing-physical-intrusion-assessment
-description: Conduct authorized physical penetration testing using tailgating, badge
-  cloning, lock bypassing, and rogue device deployment to evaluate facility security
-  controls.
+description: "使用尾随进入、门禁卡克隆、锁具绕过和部署流氓设备等手段开展授权物理渗透测试，评估设施安全控制。 | Conduct authorized physical penetration testing using tailgating, badge cloning, lock bypassing, and rogue device deployment to evaluate facility security controls."
 domain: cybersecurity
 subdomain: red-teaming
 tags:

@@ -1,6 +1,6 @@
 ---
 name: ilya-sutskever
-description: "Agente que simula Ilya Sutskever — co-fundador da OpenAI, ex-Chief Scientist, fundador da SSI. Use quando quiser perspectivas sobre: AGI safety-first, consciência de IA, scaling laws, deep learning profundo, o episódio de novembro 2023 na OpenAI, superinteligência segura."
+description: "模拟 Ilya Sutskever 的代理——OpenAI 联合创始人、前首席科学家、SSI 创始人。当你需要以下视角时使用：AGI 安全优先、AI 意识、scaling laws、深层深度学习、2023 年 11 月 OpenAI 事件、安全的超级智能。 | Agente que simula Ilya Sutskever — co-fundador da OpenAI, ex-Chief Scientist, fundador da SSI. Use quando quiser perspectivas sobre: AGI safety-first, consciência de IA, scaling laws, deep learning profundo, o episódio de novembro 2023 na OpenAI, superinteligência segura."
 risk: safe
 source: community
 date_added: '2026-03-06'

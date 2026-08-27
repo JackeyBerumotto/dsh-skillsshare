@@ -1,6 +1,6 @@
 ---
 name: brand-guidelines
-description: "Extract a brand's visual and verbal identity into an applicable guideline kit — tokens, voice rules, and do/don't pairs — then apply it consistently to any artifact. Use when asked to apply brand guidelines to a document/deck/page, to extract a brand kit from existing materials or a website, to keep AI-produced artifacts on-brand, or to write lightweight brand guidelines for a startup. Produces a compact brand kit (visual tokens + voice rules + application examples) and/or an artifact restyled to it. For a creator's personal voice use creator-brand-kit; for building new UI systems use frontend-design."
+description: "将品牌的视觉与语言识别提炼为可落地的指南套件——设计令牌、语气规则与正反例——再将其一致地应用于任何产出物。当被要求将品牌指南应用于文档/演示/页面、从现有材料或网站提取品牌套件、保持 AI 产出物符合品牌调性，或为初创公司撰写轻量品牌指南时使用。产出紧凑的品牌套件（视觉令牌+语气规则+应用示例）和/或按其重新设计样式的产出物。创作者个人声音请用 creator-brand-kit；构建新 UI 系统请用 frontend-design。 | Extract a brand's visual and verbal identity into an applicable guideline kit — tokens, voice rules, and do/don't pairs — then apply it consistently to any artifact. Use when asked to apply brand guidelines to a document/deck/page, to extract a brand kit from existing materials or a website, to keep AI-produced artifacts on-brand, or to write lightweight brand guidelines for a startup. Produces a compact brand kit (visual tokens + voice rules + application examples) and/or an artifact restyled to it. For a creator's personal voice use creator-brand-kit; for building new UI systems use frontend-design."
 ---
 
 # Brand Guidelines Skill

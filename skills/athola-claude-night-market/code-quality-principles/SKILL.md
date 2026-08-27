@@ -1,6 +1,6 @@
 ---
 name: code-quality-principles
-description: Applies KISS, YAGNI, and SOLID principles for clean code with reduced complexity. Use when refactoring or reviewing code for over-engineering.
+description: 运用 KISS、YAGNI 和 SOLID 原则编写低复杂度的整洁代码。在重构或评审代码中的过度工程时使用。 | Applies KISS, YAGNI, and SOLID principles for clean code with reduced complexity. Use when refactoring or reviewing code for over-engineering.
 alwaysApply: true
 category: development
 tags:

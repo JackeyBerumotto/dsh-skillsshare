@@ -1,6 +1,6 @@
 ---
 name: update-readme
-description: Refreshes README structure favoring concision (an index, not a manual). Use when the README needs a structural update after significant project changes.
+description: 刷新 README 结构，偏向简洁（做成索引而非手册）。当项目发生重大变更后 README 需要结构性更新时使用。 | Refreshes README structure favoring concision (an index, not a manual). Use when the README needs a structural update after significant project changes.
 alwaysApply: false
 category: artifact-generation
 tags:

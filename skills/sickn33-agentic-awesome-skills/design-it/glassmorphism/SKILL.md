@@ -1,6 +1,6 @@
 ---
 name: glassmorphism
-description: Web and App implementation guide for Glassmorphism. Trigger when user wants a frosted glass effect, blurred backgrounds, transparency, or a sleek MacOS-like feel.
+description: Glassmorphism（玻璃拟态）的 Web 与 App 实现指南。当用户需要磨砂玻璃效果、模糊背景、透明感或类 MacOS 的顺滑质感时触发。 | Web and App implementation guide for Glassmorphism. Trigger when user wants a frosted glass effect, blurred backgrounds, transparency, or a sleek MacOS-like feel.
 date_added: "2026-06-17"
 risk: safe
 source: self

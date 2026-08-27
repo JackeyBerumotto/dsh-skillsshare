@@ -1,6 +1,6 @@
 ---
 name: returns-reverse-logistics
-description: Codified expertise for returns authorisation, receipt and inspection, disposition decisions, refund processing, fraud detection, and warranty claims management.
+description: 退货授权、收货与检验、处置决策、退款处理、欺诈检测和保修索赔管理方面的体系化专业知识。 | Codified expertise for returns authorisation, receipt and inspection, disposition decisions, refund processing, fraud detection, and warranty claims management.
 risk: safe
 source: https://github.com/ai-evos/agent-skills
 date_added: '2026-02-27'

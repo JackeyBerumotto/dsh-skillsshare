@@ -1,6 +1,6 @@
 ---
 name: cost-booster-route
-description: Route tasks through hooks_route, partition by Agent Booster availability, and report Tier 1 bypass utilization with $0 cost
+description: 通过 hooks_route 路由任务，按 Agent Booster 可用性分区，并以零成本报告一级旁路利用率。 | Route tasks through hooks_route, partition by Agent Booster availability, and report Tier 1 bypass utilization with $0 cost
 argument-hint: "[--from-recent] | <task-description>"
 allowed-tools: mcp__claude-flow__hooks_route mcp__claude-flow__memory_search mcp__claude-flow__memory_list Bash
 ---

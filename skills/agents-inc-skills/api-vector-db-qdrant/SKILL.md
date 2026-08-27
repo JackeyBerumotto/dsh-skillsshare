@@ -1,6 +1,6 @@
 ---
 name: api-vector-db-qdrant
-description: Qdrant vector database -- collection management, point operations, payload filtering, named vectors, quantization, recommendations, snapshots
+description: Qdrant 向量数据库——集合管理、点操作、payload 过滤、命名向量、量化、推荐和快照 | Qdrant vector database -- collection management, point operations, payload filtering, named vectors, quantization, recommendations, snapshots
 ---
 
 # Qdrant Patterns

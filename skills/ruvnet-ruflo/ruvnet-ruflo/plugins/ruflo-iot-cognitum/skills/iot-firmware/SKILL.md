@@ -1,6 +1,6 @@
 ---
 name: iot-firmware
-description: Orchestrate firmware rollouts with canary deployment and anomaly-gated advancement
+description: 编排固件发布，采用金丝雀部署和异常门控的推进 | Orchestrate firmware rollouts with canary deployment and anomaly-gated advancement
 allowed-tools: Bash(npx *) mcp__claude-flow__memory_store mcp__claude-flow__memory_search Read
 argument-hint: "<deploy|advance|rollback|status|list> [options]"
 ---

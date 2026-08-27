@@ -1,6 +1,6 @@
 ---
 name: premortem-assassin
-description: "Kill the plan on paper before reality does it for money. Use when a plan, launch, migration, or strategy is about to be committed to and nobody has tried hard to murder it yet — the assassin attacks through twelve named failure vectors and writes the post-mortem of the failure that hasn't happened. Produces a premortem: the death narrative, the twelve-vector attack with survival verdicts, the three kill-shots most likely to land, and the cheap tripwires that would give early warning."
+description: "在现实用真金白银杀死计划之前，先在纸面上杀死它。在计划、发布、迁移或战略即将被正式投入且尚无人全力尝试推翻它时使用——刺杀者通过十二条具名的失败向量发起攻击，并撰写那场尚未发生的失败的事后检讨。产出一份事前验尸：死亡叙事、带存活判定的十二向量攻击、最可能命中的三记杀招，以及能提供早期预警的廉价绊线。 | Kill the plan on paper before reality does it for money. Use when a plan, launch, migration, or strategy is about to be committed to and nobody has tried hard to murder it yet — the assassin attacks through twelve named failure vectors and writes the post-mortem of the failure that hasn't happened. Produces a premortem: the death narrative, the twelve-vector attack with survival verdicts, the three kill-shots most likely to land, and the cheap tripwires that would give early warning."
 ---
 
 # Premortem Assassin

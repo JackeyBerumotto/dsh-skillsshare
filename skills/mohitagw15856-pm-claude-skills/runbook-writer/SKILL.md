@@ -1,6 +1,6 @@
 ---
 name: runbook-writer
-description: "Write an operational runbook for a service, incident type, or deployment procedure. Use when asked to write a runbook, create an ops guide, document an operational procedure, or prepare an incident response playbook. Produces a runbook with overview, prerequisites, step-by-step procedures, rollback steps, troubleshooting table, and escalation paths."
+description: "为服务、事故类型或部署程序编写运维手册。在被要求编写 runbook、创建运维指南、记录运维程序或准备事故响应 playbook 时使用。产出包含概览、前置条件、逐步程序、回滚步骤、故障排查表和升级路径的手册。 | Write an operational runbook for a service, incident type, or deployment procedure. Use when asked to write a runbook, create an ops guide, document an operational procedure, or prepare an incident response playbook. Produces a runbook with overview, prerequisites, step-by-step procedures, rollback steps, troubleshooting table, and escalation paths."
 ---
 
 # Runbook Writer Skill

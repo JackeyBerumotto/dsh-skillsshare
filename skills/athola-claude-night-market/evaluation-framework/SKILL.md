@@ -1,6 +1,6 @@
 ---
 name: evaluation-framework
-description: Provides weighted scoring, rubrics, and decision-threshold patterns. Use when designing quality gates, evaluation systems, or decision frameworks.
+description: 提供加权评分、评分量表和决策阈值模式。在设计质量关卡、评估体系或决策框架时使用。 | Provides weighted scoring, rubrics, and decision-threshold patterns. Use when designing quality gates, evaluation systems, or decision frameworks.
 alwaysApply: false
 category: infrastructure
 tags:

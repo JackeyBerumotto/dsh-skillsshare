@@ -1,6 +1,6 @@
 ---
 name: startup-business-analyst-financial-projections
-description: 'Create detailed 3-5 year financial model with revenue, costs, cash
+description: 创建详细的 3-5 年财务模型，涵盖收入、成本、现金流 | 'Create detailed 3-5 year financial model with revenue, costs, cash
 
   flow, and scenarios
 

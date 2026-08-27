@@ -1,6 +1,6 @@
 ---
 name: kb-audit
-description: "Audit a knowledge base / help center for coverage, accuracy, and findability. Use when asked to audit a help center, review KB health, find documentation gaps, reduce ticket volume with better docs, or prioritise what to write/fix. Produces an audit — a health scorecard, content gaps (driven by top ticket drivers), stale/duplicate/low-findability articles, and a prioritised fix-and-create backlog."
+description: "审计知识库/帮助中心的覆盖度、准确性与可查找性。当被要求审计帮助中心、评估知识库健康度、查找文档缺口、通过更好的文档降低工单量或确定写作/修复优先级时使用。产出一份审计结果——健康度记分卡、内容缺口（由主要工单来源驱动）、陈旧/重复/低可查找性的文章，以及按优先级排序的修复与新建任务清单。 | Audit a knowledge base / help center for coverage, accuracy, and findability. Use when asked to audit a help center, review KB health, find documentation gaps, reduce ticket volume with better docs, or prioritise what to write/fix. Produces an audit — a health scorecard, content gaps (driven by top ticket drivers), stale/duplicate/low-findability articles, and a prioritised fix-and-create backlog."
 ---
 
 # Knowledge Base Audit Skill

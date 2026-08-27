@@ -1,6 +1,6 @@
 ---
 name: web-meta-framework-nextjs
-description: Next.js App Router patterns (15-16) - file-based routing, Server/Client Components, streaming, Suspense, metadata API, parallel routes, Server Actions, mutations, revalidation, Cache Components
+description: Next.js App Router 模式（15-16）：基于文件的路由、Server/Client 组件、流式渲染、Suspense、metadata API、并行路由、Server Actions、变更操作、重新验证、Cache Components | Next.js App Router patterns (15-16) - file-based routing, Server/Client Components, streaming, Suspense, metadata API, parallel routes, Server Actions, mutations, revalidation, Cache Components
 ---
 
 # Next.js App Router Patterns

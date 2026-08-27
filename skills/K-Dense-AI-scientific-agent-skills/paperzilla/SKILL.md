@@ -1,6 +1,6 @@
 ---
 name: paperzilla
-description: Chat with your agent about projects, recommendations, and canonical papers in Paperzilla. Use when users ask for recent project recommendations, canonical paper details, markdown-based summaries, recommendation feedback, feed export, or Atom feed URLs.
+description: 与智能体就 Paperzilla 中的项目、推荐和经典论文对话。当用户询问近期项目推荐、经典论文详情、基于 Markdown 的摘要、推荐反馈、订阅源导出或 Atom 订阅地址时使用。 | Chat with your agent about projects, recommendations, and canonical papers in Paperzilla. Use when users ask for recent project recommendations, canonical paper details, markdown-based summaries, recommendation feedback, feed export, or Atom feed URLs.
 license: MIT
 metadata: {"version": "1.0", "skill-author": "Paperzilla Inc"}
 ---

@@ -1,6 +1,6 @@
 ---
 name: tetris
-description: Classic block-game inspired design with playful colors, bold display fonts, and compact, high-energy layouts.
+description: 灵感来自经典方块游戏的设计，配活泼的配色、粗犷的展示字体和紧凑高能的布局。 | Classic block-game inspired design with playful colors, bold display fonts, and compact, high-energy layouts.
 license: MIT
 metadata:
   author: typeui.sh

@@ -1,6 +1,6 @@
 ---
 name: 360-feedback-template
-description: "Design a 360-degree feedback survey or write a structured 360 feedback report. Use when asked to build a 360 feedback process, write 360 feedback for a colleague, design a feedback survey, or produce a feedback report. Produces either a complete survey instrument with rating scales and open-ended questions, or a structured narrative feedback report with themes, strengths, and development areas."
+description: "设计 360 度反馈问卷或撰写结构化的 360 度反馈报告。当被要求建立 360 度反馈流程、为同事撰写 360 度反馈、设计反馈问卷或产出反馈报告时使用。可产出包含评分量表和开放式问题的完整问卷工具，或包含主题、优势与发展领域的结构化叙述式反馈报告。 | Design a 360-degree feedback survey or write a structured 360 feedback report. Use when asked to build a 360 feedback process, write 360 feedback for a colleague, design a feedback survey, or produce a feedback report. Produces either a complete survey instrument with rating scales and open-ended questions, or a structured narrative feedback report with themes, strengths, and development areas."
 ---
 
 # 360-Degree Feedback Template Skill

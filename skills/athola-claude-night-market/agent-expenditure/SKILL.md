@@ -1,7 +1,7 @@
 ---
 name: agent-expenditure
 role: library
-description: Tracks per-agent token usage and flags waste in parallel dispatch. Use when evaluating parallel agent efficiency or after a multi-agent run.
+description: 跟踪每个智能体的令牌用量，并标记并行分发中的浪费。用于评估并行智能体效率或在多智能体运行之后。 | Tracks per-agent token usage and flags waste in parallel dispatch. Use when evaluating parallel agent efficiency or after a multi-agent run.
 alwaysApply: false
 category: resource-optimization
 tags:

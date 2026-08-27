@@ -1,6 +1,6 @@
 ---
 name: editorial-design
-description: Web and App implementation guide for Editorial Design. Trigger when user wants a magazine-inspired layout, large headlines, and elegant typography pairing.
+description: Editorial Design（刊物编辑设计）的 Web 与 App 实现指南。当用户需要杂志风版式、大标题和优雅的字体搭配时触发。 | Web and App implementation guide for Editorial Design. Trigger when user wants a magazine-inspired layout, large headlines, and elegant typography pairing.
 date_added: "2026-06-17"
 risk: safe
 source: self

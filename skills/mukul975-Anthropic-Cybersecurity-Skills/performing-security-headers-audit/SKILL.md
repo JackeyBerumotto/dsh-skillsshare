@@ -1,7 +1,6 @@
 ---
 name: performing-security-headers-audit
-description: Auditing HTTP security headers including CSP, HSTS, X-Frame-Options,
-  and cookie attributes to identify missing or misconfigured browser-level protections.
+description: "审计 HTTP 安全头（包括 CSP、HSTS、X-Frame-Options）和 Cookie 属性，识别缺失或配置错误的浏览器级防护。 | Auditing HTTP security headers including CSP, HSTS, X-Frame-Options, and cookie attributes to identify missing or misconfigured browser-level protections."
 domain: cybersecurity
 subdomain: web-application-security
 tags:

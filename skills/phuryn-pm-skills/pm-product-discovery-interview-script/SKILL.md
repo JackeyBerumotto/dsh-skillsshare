@@ -1,6 +1,6 @@
 ---
 name: interview-script
-description: "Create a structured customer interview script with JTBD probing questions, warm-up, core exploration, and wrap-up sections. Follows The Mom Test principles — no leading questions, no pitching, focus on past behavior. Use when preparing for user interviews, creating interview guides, or planning discovery research."
+description: "创建结构化的客户访谈脚本，包含 JTBD 追问问题、暖场、核心探索和收尾环节。遵循《The Mom Test》原则——不提诱导性问题、不做推销、聚焦过去的行为。当准备用户访谈、创建访谈指南或规划探索性研究时使用。 | Create a structured customer interview script with JTBD probing questions, warm-up, core exploration, and wrap-up sections. Follows The Mom Test principles — no leading questions, no pitching, focus on past behavior. Use when preparing for user interviews, creating interview guides, or planning discovery research."
 ---
 
 ## Customer Interview Script

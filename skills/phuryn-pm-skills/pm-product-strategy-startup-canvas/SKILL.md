@@ -1,6 +1,6 @@
 ---
 name: startup-canvas
-description: "Generate a Startup Canvas combining Product Strategy (9 sections) and Business Model (costs + revenue) for a new product. An alternative to BMC and Lean Canvas that separates strategy from business model. Use when launching a new product or evaluating a startup concept."
+description: "为新产品生成融合产品战略（9 个部分）与商业模式（成本+收入）的 Startup Canvas。是 BMC 与 Lean Canvas 之外另一种把战略与商业模式分开的选项。在发布新产品或评估创业概念时使用。 | Generate a Startup Canvas combining Product Strategy (9 sections) and Business Model (costs + revenue) for a new product. An alternative to BMC and Lean Canvas that separates strategy from business model. Use when launching a new product or evaluating a startup concept."
 ---
 # Startup Canvas
 

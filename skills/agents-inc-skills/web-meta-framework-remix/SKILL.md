@@ -1,6 +1,6 @@
 ---
 name: web-meta-framework-remix
-description: File-based routing, loaders, actions, defer streaming, useFetcher, error boundaries, progressive enhancement
+description: 基于文件的路由、loaders、actions、defer 流式传输、useFetcher、错误边界、渐进增强 | File-based routing, loaders, actions, defer streaming, useFetcher, error boundaries, progressive enhancement
 ---
 
 # Remix / React Router v7 Framework Patterns

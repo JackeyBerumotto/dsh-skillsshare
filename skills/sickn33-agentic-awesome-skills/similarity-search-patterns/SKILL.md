@@ -1,6 +1,6 @@
 ---
 name: similarity-search-patterns
-description: "Implement efficient similarity search with vector databases. Use when building semantic search, implementing nearest neighbor queries, or optimizing retrieval performance."
+description: "使用向量数据库实现高效的相似度搜索。在构建语义搜索、实现最近邻查询或优化检索性能时使用。 | Implement efficient similarity search with vector databases. Use when building semantic search, implementing nearest neighbor queries, or optimizing retrieval performance."
 risk: safe
 source: community
 date_added: "2026-02-27"

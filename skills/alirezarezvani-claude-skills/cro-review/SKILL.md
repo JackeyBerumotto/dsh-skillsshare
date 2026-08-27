@@ -1,6 +1,6 @@
 ---
 name: "cro-review"
-description: "/cs:cro-review <plan> — Pipeline-paranoid interrogation of revenue, win rate, NRR, and ramp time. Use when the forecast misses pipeline coverage, win rates drop, or before scaling the sales team."
+description: "/cs:cro-review <plan>——对销售管道极度敏感的审讯，聚焦营收、赢单率、NRR 和爬坡时间。适用于预测无法满足管道覆盖、赢单率下滑时，或扩大销售团队之前。 | /cs:cro-review <plan> — Pipeline-paranoid interrogation of revenue, win rate, NRR, and ramp time. Use when the forecast misses pipeline coverage, win rates drop, or before scaling the sales team."
 ---
 
 # /cs:cro-review — CRO Forcing Questions

@@ -1,7 +1,7 @@
 ---
 name: quality-nonconformance
 description: >
-  Codified expertise for quality control, non-conformance investigation, root
+  受监管制造企业中质量控制、不合格调查、根因分析、纠正措施和供应商质量管理的体系化专业知识。基于在 FDA、IATF 16949 和 AS9100 环境下拥有 15 年以上经验的质量工程师整理而成。包含 NCR 生命周期管理、CAPA 体系、SPC 解读和审核方法论。在调查不合格项、执行根因分析、管理 CAPA、解读 SPC 数据或处理供应商质量问题时使用。 |
   cause analysis, corrective action, and supplier quality management in
   regulated manufacturing. Informed by quality engineers with 15+ years
   experience across FDA, IATF 16949, and AS9100 environments. Includes NCR

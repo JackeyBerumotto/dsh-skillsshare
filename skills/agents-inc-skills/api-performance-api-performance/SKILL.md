@@ -1,6 +1,6 @@
 ---
 name: api-performance-api-performance
-description: Query optimization, caching, indexing, connection pooling, async patterns
+description: 查询优化、缓存、索引、连接池、异步模式 | Query optimization, caching, indexing, connection pooling, async patterns
 ---
 
 # Backend Performance Optimization

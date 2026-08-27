@@ -1,6 +1,6 @@
 ---
 name: hunting-saas-sso-token-abuse
-description: Detect SSO and OAuth token replay and SaaS lateral movement.
+description: 检测 SSO 与 OAuth 令牌重放以及 SaaS 横向移动。 | Detect SSO and OAuth token replay and SaaS lateral movement.
 domain: cybersecurity
 subdomain: soc-operations
 tags:

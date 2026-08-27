@@ -1,6 +1,6 @@
 ---
 name: change-order-writer
-description: "Draft a defensible construction change order with entitlement basis, scope delta, itemised pricing, and schedule impact. Use when asked to write a change order, price extra work, draft a CO or COR/PCO, respond to a directive for changed work, or paper a field change. Produces a complete change order request with contract-clause entitlement, labour/material/equipment/OH&P breakdown, time impact statement, and reservation of rights."
+description: "起草站得住脚的施工变更单，包含索赔权依据、范围差异、分项报价和进度影响。当被要求撰写变更单、为额外工作定价、起草 CO 或 COR/PCO、回应变更工作指令，或把现场变更记录成文时使用。产出完整的变更单请求，包含合同条款索赔权、人工/材料/设备/管理费及利润分项、时间影响声明和权利保留。 | Draft a defensible construction change order with entitlement basis, scope delta, itemised pricing, and schedule impact. Use when asked to write a change order, price extra work, draft a CO or COR/PCO, respond to a directive for changed work, or paper a field change. Produces a complete change order request with contract-clause entitlement, labour/material/equipment/OH&P breakdown, time impact statement, and reservation of rights."
 ---
 
 # Change Order Writer Skill

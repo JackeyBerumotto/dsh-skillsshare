@@ -1,6 +1,6 @@
 ---
 name: hig-patterns
-description: Apple Human Interface Guidelines interaction and UX patterns.
+description: Apple 人机界面指南之交互与 UX 模式。 | Apple Human Interface Guidelines interaction and UX patterns.
 risk: unknown
 source: community
 date_added: '2026-02-27'

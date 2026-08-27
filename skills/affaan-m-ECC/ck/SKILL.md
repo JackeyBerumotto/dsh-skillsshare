@@ -1,6 +1,6 @@
 ---
 name: ck
-description: Persistent per-project memory for Claude Code. Auto-loads project context on session start, tracks sessions with git activity, and writes to native memory. Commands run deterministic Node.js scripts — behavior is consistent across model versions.
+description: 面向 Claude Code 的按项目持久记忆。会话开始时自动加载项目上下文，结合 git 活动跟踪会话，并写入原生记忆。命令运行确定性的 Node.js 脚本——行为在不同模型版本间保持一致。 | Persistent per-project memory for Claude Code. Auto-loads project context on session start, tracks sessions with git activity, and writes to native memory. Commands run deterministic Node.js scripts — behavior is consistent across model versions.
 metadata:
   origin: community
 version: 2.0.0

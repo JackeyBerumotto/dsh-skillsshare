@@ -1,6 +1,6 @@
 ---
 name: cqrs-implementation
-description: "Implement Command Query Responsibility Segregation for scalable architectures. Use when separating read and write models, optimizing query performance, or building event-sourced systems."
+description: "实现命令查询职责分离以构建可扩展架构。在分离读写模型、优化查询性能或构建事件溯源系统时使用。 | Implement Command Query Responsibility Segregation for scalable architectures. Use when separating read and write models, optimizing query performance, or building event-sourced systems."
 risk: unknown
 source: community
 date_added: "2026-02-27"

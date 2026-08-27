@@ -1,6 +1,6 @@
 ---
 name: "cpo-review"
-description: "/cs:cpo-review <plan> — JTBD-driven interrogation of product roadmap, PMF signal, and portfolio focus. Use when committing a quarter's roadmap, deciding whether to kill a feature, or claiming PMF without a retention curve."
+description: "/cs:cpo-review <plan>——以 JTBD 为驱动的审讯，聚焦产品路线图、PMF 信号和产品组合聚焦。适用于确定季度路线图、决定是否砍掉某个功能，或在没有留存曲线的情况下宣称达成 PMF 时。 | /cs:cpo-review <plan> — JTBD-driven interrogation of product roadmap, PMF signal, and portfolio focus. Use when committing a quarter's roadmap, deciding whether to kill a feature, or claiming PMF without a retention curve."
 ---
 
 # /cs:cpo-review — CPO Forcing Questions

@@ -1,6 +1,6 @@
 ---
 name: ab-testing
-description: When the user wants to plan, design, or implement an A/B test or experiment, or build a growth experimentation program. Also use when the user mentions "A/B test," "split test," "experiment," "test this change," "variant copy," "multivariate test," "hypothesis," "should I test this,"...
+description: 当用户想要规划、设计或实施 A/B 测试或实验，或构建增长实验体系时使用。当用户提到「A/B test」「split test」「experiment」「test this change」「variant copy」「multivariate test」「hypothesis」「should I test this」……时也应使用。 | When the user wants to plan, design, or implement an A/B test or experiment, or build a growth experimentation program. Also use when the user mentions "A/B test," "split test," "experiment," "test this change," "variant copy," "multivariate test," "hypothesis," "should I test this,"...
 risk: unknown
 source: https://github.com/coreyhaines31/marketingskills/tree/main/skills/ab-testing
 source_repo: coreyhaines31/marketingskills

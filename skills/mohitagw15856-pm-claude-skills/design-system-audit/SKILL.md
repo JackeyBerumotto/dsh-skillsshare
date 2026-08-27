@@ -1,6 +1,6 @@
 ---
 name: design-system-audit
-description: "Audit a design system for consistency, coverage, and quality. Use when asked to audit a design system, review a component library, assess design token coverage, or evaluate the health of a shared design system. Produces a structured audit with a health score, component coverage gaps, token inconsistencies, accessibility issues, and a prioritised remediation roadmap."
+description: "审计设计系统的一致性、覆盖度与质量。当被要求审计设计系统、审查组件库、评估 design token 覆盖情况或评价共享设计系统的健康度时使用。产出结构化审计结果，包括健康评分、组件覆盖缺口、token 不一致、可访问性问题以及按优先级排序的整改路线图。 | Audit a design system for consistency, coverage, and quality. Use when asked to audit a design system, review a component library, assess design token coverage, or evaluate the health of a shared design system. Produces a structured audit with a health score, component coverage gaps, token inconsistencies, accessibility issues, and a prioritised remediation roadmap."
 ---
 
 # Design System Audit Skill

@@ -1,6 +1,6 @@
 ---
 name: bash
-description: "Language-specific super-code guidelines for bash."
+description: "面向 bash 的语言级 super-code 指南。 | Language-specific super-code guidelines for bash."
 risk: safe
 source: community
 date_added: "2026-06-16"

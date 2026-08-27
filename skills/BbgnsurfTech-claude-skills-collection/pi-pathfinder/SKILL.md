@@ -1,7 +1,5 @@
 ---
-description: Analyzes existing plugins to extract their capabilities, then adapts
-  and applies those skills to the current task. Acts as a universal skill chameleon
-  that learns from other plugins. Activates when you request "skill adapter" functionality.
+description: "分析现有插件以提取其能力，随后将这些技能改造并应用于当前任务。充当借鉴其他插件的通用技能变色龙。当你请求「skill adapter」功能时激活。 | Analyzes existing plugins to extract their capabilities, then adapts and applies those skills to the current task. Acts as a universal skill chameleon that learns from other plugins. Activates when you request \"skill adapter\" functionality."
 allowed-tools:
 - Read
 - Grep

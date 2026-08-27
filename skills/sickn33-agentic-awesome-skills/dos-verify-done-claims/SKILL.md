@@ -1,6 +1,6 @@
 ---
 name: dos-verify-done-claims
-description: "Before accepting an agent's 'done / shipped / fixed' claim, verify it against ground truth (git ancestry + the commit's own diff) using the DOS kernel's `dos verify` and `dos commit-audit` — never the agent's own narration."
+description: "在接受代理「已完成、已交付、已修复」的声明之前，先使用 DOS 内核的 dos verify 和 dos commit-audit 对照事实（git 祖先关系加提交自身的 diff）进行核验——绝不轻信代理自己的叙述。 | Before accepting an agent's 'done / shipped / fixed' claim, verify it against ground truth (git ancestry + the commit's own diff) using the DOS kernel's `dos verify` and `dos commit-audit` — never the agent's own narration."
 category: quality
 risk: critical
 source: community

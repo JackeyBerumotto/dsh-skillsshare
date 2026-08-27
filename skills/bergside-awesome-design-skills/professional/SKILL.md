@@ -1,6 +1,6 @@
 ---
 name: professional
-description: Polished, business-ready design with modern typography, structured layouts, and a trustworthy visual identity.
+description: 精致且适合商用的设计，采用现代字体、结构化版式和可信赖的视觉识别。 | Polished, business-ready design with modern typography, structured layouts, and a trustworthy visual identity.
 license: MIT
 metadata:
   author: typeui.sh

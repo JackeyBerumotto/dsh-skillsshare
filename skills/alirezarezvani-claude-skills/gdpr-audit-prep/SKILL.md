@@ -1,6 +1,6 @@
 ---
 name: "gdpr-audit-prep"
-description: "/cs:gdpr-audit-prep <scope> — GDPR audit 6-question Article-cited forcing interrogation. Use before annual internal GDPR review, post-breach internal audit, DPA investigation readiness, or acquisition due diligence."
+description: "/cs:gdpr-audit-prep <scope>——GDPR 审计六问强制审讯并附条款引用。适用于年度内部 GDPR 审查、数据泄露后内部审计、DPA 调查准备或收购尽职调查之前。 | /cs:gdpr-audit-prep <scope> — GDPR audit 6-question Article-cited forcing interrogation. Use before annual internal GDPR review, post-breach internal audit, DPA investigation readiness, or acquisition due diligence."
 ---
 
 # /cs:gdpr-audit-prep — GDPR DPO Forcing Questions

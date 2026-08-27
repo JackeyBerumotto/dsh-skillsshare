@@ -1,6 +1,6 @@
 ---
 name: decision-autopsy
-description: "Judge a past decision by its PROCESS, not its outcome — because good decisions lose and bad decisions win, and teams that can't tell the difference learn the wrong lessons. Use when reviewing a big call after the fact (a bet that failed, a pass that haunts, a hire, a pivot) and the room is about to conclude 'it failed so it was wrong.' Produces a process-forensics report: what was knowable then, the quality grade of the decision as-made, the luck accounting, and the ONE process change worth keeping."
+description: "依据过程而非结果评判过去的决策——因为好决策也会输、坏决策也会赢，无法区分这一点的团队会吸取错误的教训。在事后审查重大决策（失败的押注、耿耿于怀的放弃、一次招聘、一次转向）且会场即将得出「失败了所以是错的」的结论时使用。产出一份过程取证报告：当时可知的信息、决策制定时的质量评分、运气账目，以及值得保留的那一项流程改进。 | Judge a past decision by its PROCESS, not its outcome — because good decisions lose and bad decisions win, and teams that can't tell the difference learn the wrong lessons. Use when reviewing a big call after the fact (a bet that failed, a pass that haunts, a hire, a pivot) and the room is about to conclude 'it failed so it was wrong.' Produces a process-forensics report: what was knowable then, the quality grade of the decision as-made, the luck accounting, and the ONE process change worth keeping."
 ---
 
 # Decision Autopsy

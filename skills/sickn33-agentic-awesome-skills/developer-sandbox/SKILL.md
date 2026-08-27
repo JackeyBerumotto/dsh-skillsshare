@@ -1,6 +1,6 @@
 ---
 name: developer-sandbox
-description: 'Design and build interactive playgrounds that let developers experience your product without commitment. This skill covers playground architecture, pre-populated examples, embedding strategies, gating decisions, and converting playground users to signups. Trigger phrases: "developer...'
+description: '设计并构建交互式 playground，让开发者零门槛体验你的产品。本技能涵盖 playground 架构、预填充示例、嵌入策略、访问门槛决策，以及将 playground 用户转化为注册用户。触发短语：「developer...」等。 | Design and build interactive playgrounds that let developers experience your product without commitment. This skill covers playground architecture, pre-populated examples, embedding strategies, gating decisions, and converting playground users to signups. Trigger phrases: "developer...'
 risk: unknown
 source: https://github.com/jonathimer/devmarketing-skills/tree/main/skills/developer-sandbox
 source_repo: jonathimer/devmarketing-skills

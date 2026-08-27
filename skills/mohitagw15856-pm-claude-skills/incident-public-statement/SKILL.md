@@ -1,6 +1,6 @@
 ---
 name: incident-public-statement
-description: "Write a single clear, honest public statement about an incident. Use when asked to draft a public statement, a press statement, or an official response to a security breach, outage, data incident, recall, or public controversy. Produces a ready-to-publish statement — acknowledgement, what happened, impact, what you're doing, what affected people should do, and a commitment to update — plus a short and a long version."
+description: "就事件撰写一份清晰、诚实的公开声明。在被要求起草公开声明、新闻声明，或对安全漏洞、服务中断、数据事件、召回或公共争议的官方回应时使用。产出可发布的声明——承认、发生了什么、影响、正在采取的措施、受影响者应做什么，以及持续更新的承诺——另附短版和长版。 | Write a single clear, honest public statement about an incident. Use when asked to draft a public statement, a press statement, or an official response to a security breach, outage, data incident, recall, or public controversy. Produces a ready-to-publish statement — acknowledgement, what happened, impact, what you're doing, what affected people should do, and a commitment to update — plus a short and a long version."
 ---
 
 # Incident Public Statement Skill

@@ -1,6 +1,6 @@
 ---
 name: spline-3d-integration
-description: "Use when adding interactive 3D scenes from Spline.design to web projects, including React embedding and runtime control API."
+description: "在将 Spline.design 的交互式 3D 场景添加到 Web 项目时使用，包括 React 嵌入和运行时控制 API。 | Use when adding interactive 3D scenes from Spline.design to web projects, including React embedding and runtime control API."
 risk: safe
 source: community
 date_added: "2026-03-07"

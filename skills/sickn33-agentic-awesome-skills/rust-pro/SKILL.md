@@ -1,6 +1,6 @@
 ---
 name: rust-pro
-description: Master Rust 1.75+ with modern async patterns, advanced type system features, and production-ready systems programming.
+description: 掌握 Rust 1.75+，运用现代异步模式、高级类型系统特性与生产就绪的系统编程。 | Master Rust 1.75+ with modern async patterns, advanced type system features, and production-ready systems programming.
 risk: unknown
 source: community
 date_added: '2026-02-27'

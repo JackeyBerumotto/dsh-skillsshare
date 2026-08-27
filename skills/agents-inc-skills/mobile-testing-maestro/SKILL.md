@@ -1,6 +1,6 @@
 ---
 name: mobile-testing-maestro
-description: Maestro mobile E2E testing - YAML flows, selectors, flow control, environment variables, JavaScript expressions, device interactions, Maestro Studio, Maestro Cloud CI, tags, test suites
+description: Maestro 移动端 E2E 测试——YAML 流程、选择器、流程控制、环境变量、JavaScript 表达式、设备交互、Maestro Studio、Maestro Cloud CI、标签与测试套件。 | Maestro mobile E2E testing - YAML flows, selectors, flow control, environment variables, JavaScript expressions, device interactions, Maestro Studio, Maestro Cloud CI, tags, test suites
 ---
 
 # Maestro Mobile UI Testing Patterns

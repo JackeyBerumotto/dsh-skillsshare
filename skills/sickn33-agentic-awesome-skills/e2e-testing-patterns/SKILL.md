@@ -1,6 +1,6 @@
 ---
 name: e2e-testing-patterns
-description: "Build reliable, fast, and maintainable end-to-end test suites that provide confidence to ship code quickly and catch regressions before users do."
+description: "构建可靠、快速且可维护的端到端测试套件，让人有信心快速发布代码，并在用户之前捕获回归。 | Build reliable, fast, and maintainable end-to-end test suites that provide confidence to ship code quickly and catch regressions before users do."
 risk: safe
 source: community
 date_added: "2026-02-27"

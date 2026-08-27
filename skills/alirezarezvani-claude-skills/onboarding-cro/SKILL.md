@@ -1,6 +1,6 @@
 ---
 name: "onboarding-cro"
-description: When the user wants to optimize post-signup onboarding, user activation, first-run experience, or time-to-value. Also use when the user mentions "onboarding flow," "activation rate," "user activation," "first-run experience," "empty states," "onboarding checklist," "aha moment," or "new user experience." For signup/registration optimization, see signup-flow-cro. For ongoing email sequences, see email-sequence.
+description: 当用户想要优化注册后的新手引导、用户激活、首次使用体验或价值实现时间时使用。当用户提到「onboarding flow」「activation rate」「user activation」「first-run experience」「empty states」「onboarding checklist」「aha moment」或「new user experience」时也应使用。注册/登录优化见 signup-flow-cro。持续性邮件序列见 email-sequence。 | When the user wants to optimize post-signup onboarding, user activation, first-run experience, or time-to-value. Also use when the user mentions "onboarding flow," "activation rate," "user activation," "first-run experience," "empty states," "onboarding checklist," "aha moment," or "new user experience." For signup/registration optimization, see signup-flow-cro. For ongoing email sequences, see email-sequence.
 license: MIT
 metadata:
   version: 1.0.0

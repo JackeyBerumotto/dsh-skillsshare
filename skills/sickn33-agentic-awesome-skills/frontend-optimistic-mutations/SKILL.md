@@ -1,6 +1,6 @@
 ---
 name: frontend-optimistic-mutations
-description: A portable, framework-agnostic discipline for the write path of any React or React Native app using a query/cache layer. Codifies the optimistic-update lifecycle (cancel in-flight queries → snapshot every affected cache → patch instantly → roll back verbatim on error → invalidate on...
+description: 一套可移植、与框架无关的写路径规范，适用于任何使用查询或缓存层的 React 或 React Native 应用。将乐观更新生命周期规范化（取消进行中的查询 → 对每个受影响缓存做快照 → 立即打补丁 → 出错时按原样回滚 → 失效处理……） | A portable, framework-agnostic discipline for the write path of any React or React Native app using a query/cache layer. Codifies the optimistic-update lifecycle (cancel in-flight queries → snapshot every affected cache → patch instantly → roll back verbatim on error → invalidate on...
 risk: unknown
 source: https://github.com/stareezy-1/frontend-architecture-skill/tree/main/skills/frontend-optimistic-mutations
 source_repo: stareezy-1/frontend-architecture-skill

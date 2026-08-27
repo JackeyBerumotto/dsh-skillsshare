@@ -1,7 +1,7 @@
 ---
 name: unity-build-pipeline
 description: >
-  Build and ship Unity 6 players: build settings and scenes, player/quality settings, the
+  构建并交付 Unity 6 播放器：构建设置与场景、播放器与画质设置、IL2CPP 与 Mono 脚本后端的选择、托管代码裁剪、脚本化的 BuildPipeline.BuildPlayer，以及 CI 或无头构建。当配置或自动化构建、选择脚本后端、缩减构建体积时，或当用户提到 Unity 构建、播放器设置、IL2CPP、代码裁剪或 Addressables 时使用。 |
   IL2CPP vs Mono scripting backend, managed code stripping, scripted BuildPipeline.BuildPlayer,
   and CI/headless builds. Use when configuring or automating a build, choosing a scripting
   backend, shrinking build size, or when the user mentions Unity build, player settings,

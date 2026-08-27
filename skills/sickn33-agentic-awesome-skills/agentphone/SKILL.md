@@ -1,7 +1,7 @@
 ---
 name: agentphone
 version: 0.3.0
-description: Build AI phone agents with AgentPhone API. Use when the user wants to make phone calls, send/receive SMS, manage phone numbers, create voice agents, set up webhooks, or check usage — anything related to telephony, phone numbers, or voice AI.
+description: 使用 AgentPhone API 构建 AI 电话代理。当用户想拨打电话、收发短信、管理电话号码、创建语音代理、设置 webhook 或查询用量时使用——任何与电话、号码或语音 AI 相关的事情。 | Build AI phone agents with AgentPhone API. Use when the user wants to make phone calls, send/receive SMS, manage phone numbers, create voice agents, set up webhooks, or check usage — anything related to telephony, phone numbers, or voice AI.
 risk: critical
 source: community
 homepage: https://agentphone.to

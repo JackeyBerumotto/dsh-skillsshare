@@ -1,6 +1,6 @@
 ---
 name: floating-ui
-description: Web and App implementation guide for Floating UI. Trigger when user wants detached cards, elevated components, and a light, airy feel.
+description: Floating UI（悬浮 UI）的 Web 与 App 实现指南。当用户需要悬浮卡片、抬升组件以及轻盈通透的感觉时触发。 | Web and App implementation guide for Floating UI. Trigger when user wants detached cards, elevated components, and a light, airy feel.
 date_added: "2026-06-17"
 risk: safe
 source: self

@@ -1,6 +1,6 @@
 ---
 name: risk-register
-description: "Build and maintain a project or product risk register. Use when asked to create a risk register, identify project risks, build a risk matrix, or document risks and mitigations for a programme. Produces a complete risk register with likelihood/impact scoring, RAG status, ownership, and prioritised mitigations."
+description: "构建并维护项目或产品风险登记册。当被要求创建风险登记册、识别项目风险、构建风险矩阵，或为项目群记录风险与缓解措施时使用。产出完整的风险登记册，包含可能性与影响评分、RAG 状态、责任人以及按优先级排序的缓解措施。 | Build and maintain a project or product risk register. Use when asked to create a risk register, identify project risks, build a risk matrix, or document risks and mitigations for a programme. Produces a complete risk register with likelihood/impact scoring, RAG status, ownership, and prioritised mitigations."
 ---
 
 # Risk Register Skill

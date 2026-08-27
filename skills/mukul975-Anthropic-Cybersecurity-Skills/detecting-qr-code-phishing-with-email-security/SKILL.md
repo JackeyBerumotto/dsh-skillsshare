@@ -1,7 +1,6 @@
 ---
 name: detecting-qr-code-phishing-with-email-security
-description: Detect and prevent QR code phishing (quishing) attacks that bypass traditional
-  email security by embedding malicious URLs in QR code images within emails.
+description: "检测并防御二维码钓鱼（quishing）攻击，此类攻击通过在邮件中嵌入含恶意 URL 的二维码图片来绕过传统邮件安全防护。 | Detect and prevent QR code phishing (quishing) attacks that bypass traditional email security by embedding malicious URLs in QR code images within emails."
 domain: cybersecurity
 subdomain: phishing-defense
 tags:

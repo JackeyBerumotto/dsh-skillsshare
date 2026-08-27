@@ -1,6 +1,6 @@
 ---
 name: accessibility-wcag
-description: Web accessibility patterns for WCAG 2.2 compliance including ARIA, keyboard navigation, screen readers, and testing
+description: 面向 WCAG 2.2 合规的 Web 可访问性模式，涵盖 ARIA、键盘导航、屏幕阅读器和测试。 | Web accessibility patterns for WCAG 2.2 compliance including ARIA, keyboard navigation, screen readers, and testing
 ---
 
 # Accessibility & WCAG

@@ -1,6 +1,6 @@
 ---
 name: web-meta-framework-sveltekit
-description: SvelteKit full-stack framework - file-based routing, load functions, form actions, server hooks, SSR/SSG, API routes, streaming, progressive enhancement
+description: SvelteKit 全栈框架：基于文件的路由、load 函数、form actions、服务器钩子、SSR/SSG、API 路由、流式传输、渐进增强 | SvelteKit full-stack framework - file-based routing, load functions, form actions, server hooks, SSR/SSG, API routes, streaming, progressive enhancement
 ---
 
 # SvelteKit Patterns

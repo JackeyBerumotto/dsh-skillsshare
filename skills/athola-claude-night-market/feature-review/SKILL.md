@@ -1,6 +1,6 @@
 ---
 name: feature-review
-description: Scores backlog items with RICE/WSJF/Kano and files GitHub issues for top candidates. Use when triaging a roadmap or prioritizing features for a sprint.
+description: 用 RICE/WSJF/Kano 为 backlog 条目打分，并为最优候选创建 GitHub issue。在梳理路线图或为冲刺确定功能优先级时使用。 | Scores backlog items with RICE/WSJF/Kano and files GitHub issues for top candidates. Use when triaging a roadmap or prioritizing features for a sprint.
 alwaysApply: false
 category: workflow-methodology
 tags:

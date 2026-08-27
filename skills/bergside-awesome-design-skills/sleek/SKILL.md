@@ -1,6 +1,6 @@
 ---
 name: sleek
-description: Modern minimalist aesthetic with clean lines, intentional color palette, subtle interactions, and consistent spacing.
+description: 现代极简美学，具备干净的线条、有意图的配色、细腻的交互与一致的间距。 | Modern minimalist aesthetic with clean lines, intentional color palette, subtle interactions, and consistent spacing.
 license: MIT
 metadata:
   author: typeui.sh

@@ -1,6 +1,6 @@
 ---
 name: api-test-plan
-description: "Plan tests for an API endpoint or service — functional, negative, and contract. Use when asked to test an API, write API test cases, plan REST/GraphQL endpoint testing, or validate an API contract. Produces an API test plan — per-endpoint cases (status codes, schema, auth, validation, errors), boundary/negative cases, contract checks, and non-functional notes — so the API is verified beyond the happy 200."
+description: "为 API 端点或服务规划测试——功能、异常和契约测试。当被要求测试 API、编写 API 测试用例、规划 REST/GraphQL 端点测试，或验证 API 契约时使用。产出一份 API 测试计划——每个端点的用例（状态码、模式、鉴权、校验、错误）、边界/异常用例、契约检查和非功能说明——让 API 得到超出 200 正常路径的验证。 | Plan tests for an API endpoint or service — functional, negative, and contract. Use when asked to test an API, write API test cases, plan REST/GraphQL endpoint testing, or validate an API contract. Produces an API test plan — per-endpoint cases (status codes, schema, auth, validation, errors), boundary/negative cases, contract checks, and non-functional notes — so the API is verified beyond the happy 200."
 ---
 
 # API Test Plan Skill

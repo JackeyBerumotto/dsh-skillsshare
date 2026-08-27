@@ -1,6 +1,6 @@
 ---
 name: job-application
-description: "Tailors a CV and cover letter to a specific job description. Use when asked to write a cover letter, tailor a CV or resume, optimise for ATS, match a job description, or prepare a job application. Produces an ATS-optimised tailored CV summary and a personalised cover letter aligned to the role's requirements."
+description: "针对特定职位描述定制简历和求职信。当被要求撰写求职信、定制简历或履历、针对 ATS 优化、匹配职位描述或准备求职申请时使用。产出经过 ATS 优化的定制简历摘要，以及与岗位要求对齐的个性化求职信。 | Tailors a CV and cover letter to a specific job description. Use when asked to write a cover letter, tailor a CV or resume, optimise for ATS, match a job description, or prepare a job application. Produces an ATS-optimised tailored CV summary and a personalised cover letter aligned to the role's requirements."
 ---
 
 # Job Application Skill

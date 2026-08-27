@@ -1,6 +1,6 @@
 ---
 name: net-worth-statement
-description: "Produce a personal net-worth statement — assets minus liabilities — and a way to track it. Use when asked to calculate net worth, summarize finances, or set up net-worth tracking. Produces a categorized assets/liabilities statement, the net-worth figure, liquidity and debt ratios, and a tracking cadence. Educational, not regulated financial advice."
+description: "产出个人净资产报表——资产减负债——以及追踪方式。当被要求计算净资产、汇总财务状况或建立净资产追踪时使用。产出分类的资产/负债报表、净资产数值、流动性与负债比率，以及追踪节奏。仅供教育参考，不构成受监管的财务建议。 | Produce a personal net-worth statement — assets minus liabilities — and a way to track it. Use when asked to calculate net worth, summarize finances, or set up net-worth tracking. Produces a categorized assets/liabilities statement, the net-worth figure, liquidity and debt ratios, and a tracking cadence. Educational, not regulated financial advice."
 ---
 
 # Net Worth Statement Skill

@@ -1,7 +1,7 @@
 ---
 name: skill-graph-audit
 role: library
-description: 'Audit Skill() refs; detect hubs, isolates, and dangling targets. Use when auditing skills.'
+description: '审计 Skill() 引用；检测枢纽、孤岛与悬空目标。在审计技能时使用。 | Audit Skill() refs; detect hubs, isolates, and dangling targets. Use when auditing skills.'
 alwaysApply: false
 tools: []
 modules:

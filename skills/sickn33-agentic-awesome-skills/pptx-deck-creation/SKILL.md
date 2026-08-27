@@ -1,6 +1,6 @@
 ---
 name: pptx-deck-creation
-description: "Create editable, production-ready PPTX decks with narrative planning, explicit layout specs, asset guidance, and quality checks."
+description: "创建可编辑、生产级的 PPTX 演示文稿，包含叙事规划、明确的布局规格、素材指引和质量检查。 | Create editable, production-ready PPTX decks with narrative planning, explicit layout specs, asset guidance, and quality checks."
 category: office-productivity
 risk: critical
 source: community

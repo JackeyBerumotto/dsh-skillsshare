@@ -1,7 +1,7 @@
 ---
 name: godot-resources
 description: >
-  Design data-driven Godot 4.x games with custom Resource classes: define typed
+  使用自定义 Resource 类设计数据驱动的 Godot 4.x 游戏：用 class_name + @export 定义带类型的数据、保存/加载 .tres/.res 文件、实例化与复制资源，以及用 ResourceLoader 按需加载（含多线程加载）。当需要在 Godot 项目中将物品/属性/配置建模为数据、创建 .tres 资源，或使用自定义 Resource 子类和 ResourceLoader/ResourceSaver 时使用。 |
   data with class_name + @export, save/load .tres/.res files, instance and duplicate
   resources, and load on demand with ResourceLoader (incl. threaded loading). Use
   when modeling items/stats/configs as data in a Godot project, creating .tres

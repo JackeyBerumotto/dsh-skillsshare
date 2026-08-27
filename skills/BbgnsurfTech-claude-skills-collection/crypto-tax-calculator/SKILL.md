@@ -2,7 +2,7 @@
 name: calculating-crypto-taxes
 version: 1.0.0
 description: |
-  Calculate cryptocurrency tax obligations with cost basis tracking and jurisdiction rules.
+  结合成本基础追踪和司法辖区规则计算加密货币纳税义务。当计算加密货币税务时使用。触发短语如「calculate crypto taxes」「compute tax liability」或「generate tax report」。 |
   Use when calculating crypto tax obligations.
   Trigger with phrases like "calculate crypto taxes", "compute tax liability", or "generate tax report".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(crypto:tax-*)

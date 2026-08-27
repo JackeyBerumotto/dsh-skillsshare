@@ -1,6 +1,6 @@
 ---
 name: engagement-retro
-description: "Run a close-out retrospective on a client engagement — capture lessons, results, and the renewal/referral path. Use when asked to wrap up a client project, run an engagement retro, write a project close-out, or plan the follow-on. Produces a close-out — outcomes vs. goals, what worked / what didn't, profitability/scope reality, a reusable lessons log, and the next-engagement or referral ask."
+description: "为客户项目做收尾复盘——沉淀经验教训、成果，以及续约/转介绍路径。当被要求收尾客户项目、做项目复盘、撰写项目结项报告或规划后续工作时使用。产出收尾报告——成果对照目标、哪些有效/哪些无效、盈利性/范围现实、可复用的经验日志，以及下一项目或转介绍请求。 | Run a close-out retrospective on a client engagement — capture lessons, results, and the renewal/referral path. Use when asked to wrap up a client project, run an engagement retro, write a project close-out, or plan the follow-on. Produces a close-out — outcomes vs. goals, what worked / what didn't, profitability/scope reality, a reusable lessons log, and the next-engagement or referral ask."
 ---
 
 # Engagement Retro Skill

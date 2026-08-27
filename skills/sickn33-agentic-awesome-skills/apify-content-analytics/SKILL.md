@@ -1,6 +1,6 @@
 ---
 name: apify-content-analytics
-description: Track engagement metrics, measure campaign ROI, and analyze content performance across Instagram, Facebook, YouTube, and TikTok.
+description: 跟踪互动指标、衡量营销活动 ROI，并分析 Instagram、Facebook、YouTube 和 TikTok 上的内容表现。 | Track engagement metrics, measure campaign ROI, and analyze content performance across Instagram, Facebook, YouTube, and TikTok.
 risk: unknown
 source: community
 ---

@@ -1,6 +1,6 @@
 ---
 name: frontend-slides-frontend-slides
-description: Create stunning, animation-rich HTML presentations from scratch or by converting PowerPoint files. Use when the user wants to build a presentation, convert a PPT/PPTX to web, or create slides for a talk/pitch. Helps non-designers discover their aesthetic through visual exploration...
+description: 从零创建或通过转换 PowerPoint 文件，制作惊艳、富含动画的 HTML 演示文稿。当用户想要制作演示文稿、将 PPT/PPTX 转换为网页，或为演讲／路演制作幻灯片时使用。帮助非设计师通过视觉探索发现自身审美…… | Create stunning, animation-rich HTML presentations from scratch or by converting PowerPoint files. Use when the user wants to build a presentation, convert a PPT/PPTX to web, or create slides for a talk/pitch. Helps non-designers discover their aesthetic through visual exploration...
 risk: unknown
 source: https://github.com/zarazhangrui/frontend-slides/tree/main/plugins/frontend-slides/skills/frontend-slides
 source_repo: zarazhangrui/frontend-slides

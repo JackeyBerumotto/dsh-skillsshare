@@ -1,6 +1,6 @@
 ---
 name: proposal-writer
-description: "Write a structured sales proposal or commercial proposal for any deal. Use when asked to write a proposal, sales proposal, commercial proposal, statement of work, or quote document. Produces a complete proposal with problem statement, solution, investment, and next steps."
+description: "为任何交易撰写结构化的销售提案或商业提案。在被要求编写提案、销售提案、商业提案、工作说明书或报价文档时使用。产出完整提案，包含问题陈述、解决方案、投资和后续步骤。 | Write a structured sales proposal or commercial proposal for any deal. Use when asked to write a proposal, sales proposal, commercial proposal, statement of work, or quote document. Produces a complete proposal with problem statement, solution, investment, and next steps."
 ---
 
 # Proposal Writer Skill

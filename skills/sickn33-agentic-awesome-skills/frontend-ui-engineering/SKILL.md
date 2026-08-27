@@ -1,6 +1,6 @@
 ---
 name: frontend-ui-engineering
-description: Builds production-quality UIs. Use when building or modifying user-facing interfaces. Use when creating components, implementing layouts, managing state, or when the output needs to look and feel production-quality rather than AI-generated.
+description: 构建生产级品质的 UI。当构建或修改面向用户的界面时使用。当创建组件、实现布局、管理状态，或当产出需要有生产级观感而非 AI 生成感时使用。 | Builds production-quality UIs. Use when building or modifying user-facing interfaces. Use when creating components, implementing layouts, managing state, or when the output needs to look and feel production-quality rather than AI-generated.
 risk: unknown
 source: https://github.com/addyosmani/agent-skills/tree/main/skills/frontend-ui-engineering
 source_repo: addyosmani/agent-skills

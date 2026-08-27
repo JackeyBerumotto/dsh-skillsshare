@@ -1,6 +1,6 @@
 ---
 name: scala
-description: "Language-specific super-code guidelines for scala."
+description: "面向 scala 的语言级 super-code 编码准则。 | Language-specific super-code guidelines for scala."
 risk: safe
 source: community
 date_added: "2026-06-16"

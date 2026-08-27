@@ -1,7 +1,6 @@
 ---
 name: moving-laterally-with-netexec
-description: Use NetExec for SMB, WinRM, LDAP, and MSSQL enumeration, password spraying,
-  and execution.
+description: "使用 NetExec 进行 SMB、WinRM、LDAP 与 MSSQL 枚举、密码喷洒与命令执行。 | Use NetExec for SMB, WinRM, LDAP, and MSSQL enumeration, password spraying, and execution."
 domain: cybersecurity
 subdomain: penetration-testing
 tags:

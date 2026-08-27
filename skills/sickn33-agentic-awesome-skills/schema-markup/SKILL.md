@@ -1,6 +1,6 @@
 ---
 name: schema-markup
-description: Design, validate, and optimize schema.org structured data for eligibility, correctness, and measurable SEO impact.
+description: 设计、校验并优化 schema.org 结构化数据，确保资格合规、正确性以及可衡量的 SEO 效果。 | Design, validate, and optimize schema.org structured data for eligibility, correctness, and measurable SEO impact.
 risk: unknown
 source: community
 date_added: '2026-02-27'

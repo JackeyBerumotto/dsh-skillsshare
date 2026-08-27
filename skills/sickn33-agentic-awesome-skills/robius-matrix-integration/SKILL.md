@@ -1,7 +1,7 @@
 ---
 name: robius-matrix-integration
 description: |
-  CRITICAL: Use for Matrix SDK integration with Makepad. Triggers on:
+  关键：用于 Makepad 的 Matrix SDK 集成。触发词：Matrix SDK、sliding sync、MatrixRequest、timeline、matrix-sdk、matrix client、robrix、matrix room、Matrix 集成、聊天客户端 |
   Matrix SDK, sliding sync, MatrixRequest, timeline,
   matrix-sdk, matrix client, robrix, matrix room,
   Matrix 集成, 聊天客户端

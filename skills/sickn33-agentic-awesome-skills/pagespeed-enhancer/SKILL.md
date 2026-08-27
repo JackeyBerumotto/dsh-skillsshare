@@ -1,6 +1,6 @@
 ---
 name: pagespeed-enhancer
-description: "Scan, audit, and fix web performance issues across all four Lighthouse/PageSpeed Insights pillars — Performance, Accessibility, Best Practices, and SEO — in structured batches."
+description: "围绕 Lighthouse/PageSpeed Insights 的四大支柱——性能、可访问性、最佳实践和 SEO——以结构化批次扫描、审计并修复 Web 性能问题。 | Scan, audit, and fix web performance issues across all four Lighthouse/PageSpeed Insights pillars — Performance, Accessibility, Best Practices, and SEO — in structured batches."
 risk: safe
 source: personal
 date_added: "2026-06-14"

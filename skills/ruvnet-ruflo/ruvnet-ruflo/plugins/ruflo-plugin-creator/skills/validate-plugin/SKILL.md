@@ -1,6 +1,6 @@
 ---
 name: validate-plugin
-description: Validate a Claude Code plugin structure, frontmatter, and MCP tool references
+description: 验证 Claude Code 插件的结构、frontmatter 和 MCP 工具引用。 | Validate a Claude Code plugin structure, frontmatter, and MCP tool references
 argument-hint: "[plugin-path]"
 allowed-tools: mcp__claude-flow__transfer_plugin-info Bash Read Glob Grep
 ---

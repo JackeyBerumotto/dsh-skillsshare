@@ -1,6 +1,6 @@
 ---
 name: reference-letter
-description: "Write a credible, specific letter of recommendation or reference. Use when asked to write a reference letter, a letter of recommendation, a character reference, or to recommend someone for a job, school, or tenancy. Produces a structured reference — your relationship, specific evidence of their strengths, a comparative endorsement, and a clear recommendation — tailored to what the reader is deciding."
+description: "撰写可信、具体的推荐信或证明信。在被要求编写推荐信、介绍信、品格证明，或推荐某人求职、入学、租房时使用。产出结构化的推荐——你们的关系、其优势的具体证据、有比较性的背书和明确的推荐结论——贴合阅读者的决策场景定制。 | Write a credible, specific letter of recommendation or reference. Use when asked to write a reference letter, a letter of recommendation, a character reference, or to recommend someone for a job, school, or tenancy. Produces a structured reference — your relationship, specific evidence of their strengths, a comparative endorsement, and a clear recommendation — tailored to what the reader is deciding."
 ---
 
 # Reference Letter Skill

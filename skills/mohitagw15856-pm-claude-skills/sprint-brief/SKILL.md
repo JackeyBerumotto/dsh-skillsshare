@@ -1,6 +1,6 @@
 ---
 name: sprint-brief
-description: "Generate a structured sprint brief from sprint data and goals. Use when asked to write a sprint brief, create a sprint summary, document sprint goals and scope, or produce a team-facing sprint overview. Produces a scannable brief with sprint goal, rationale, grouped work, critical path, risks, and definition of done."
+description: "从冲刺数据与目标生成结构化冲刺简报。当被要求撰写冲刺简报、创建冲刺总结、记录冲刺目标与范围或产出面向团队的冲刺概览时使用。产出可快速浏览的简报，含冲刺目标、依据、分组工作项、关键路径、风险与完成定义。 | Generate a structured sprint brief from sprint data and goals. Use when asked to write a sprint brief, create a sprint summary, document sprint goals and scope, or produce a team-facing sprint overview. Produces a scannable brief with sprint goal, rationale, grouped work, critical path, risks, and definition of done."
 ---
 
 # Sprint Brief Skill

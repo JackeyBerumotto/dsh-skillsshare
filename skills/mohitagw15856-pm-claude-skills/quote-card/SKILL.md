@@ -1,6 +1,6 @@
 ---
 name: quote-card
-description: "Pull the single most shareable quote out of a testimonial, review, interview, or long text and format it as a clean quote card. Use when asked to make a pull-quote, testimonial graphic, or 'quote card' for social/marketing. Produces a tightly-edited quote with attribution and 2-3 alternates, structured to look great exported as a PNG from the playground."
+description: "从客户证言、评论、访谈或长文本中提炼出最具传播力的一句引语，并排版成干净的引言卡片。当被要求为社交媒体/营销制作 pull-quote、证言图或「引言卡片」时使用。产出一条精心剪辑、带署名的引语及 2-3 个备选，结构上适合在 playground 中导出为效果出色的 PNG。 | Pull the single most shareable quote out of a testimonial, review, interview, or long text and format it as a clean quote card. Use when asked to make a pull-quote, testimonial graphic, or 'quote card' for social/marketing. Produces a tightly-edited quote with attribution and 2-3 alternates, structured to look great exported as a PNG from the playground."
 ---
 
 # Quote Card Skill

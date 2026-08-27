@@ -1,6 +1,6 @@
 ---
 name: async-decision-memo
-description: "Run a decision asynchronously — the memo, the silent-read window, the comment protocol, and the deadline that makes it land without a meeting. Use when asked to decide something async, replace a decision meeting with a document, run an Amazon-style written decision process, or when a decision keeps stalling in comment threads. Produces the decision memo plus the process wrapper: reader roles, response windows, comment-resolution rules, and the tie-breaker. For the document structure alone use decision-memo; this skill runs the process around it."
+description: "异步地完成一项决策——备忘录、静默阅读窗口、评论协议，以及让决策无需会议即可落地的截止时间。当被要求异步决策、用文档替代决策会议、运行 Amazon 式书面决策流程，或决策在评论区反复搁置时使用。产出决策备忘录加流程外壳：读者角色、响应窗口、评论解决规则和决胜机制。只需要文档结构请用 decision-memo；本技能运行的是围绕它的流程。 | Run a decision asynchronously — the memo, the silent-read window, the comment protocol, and the deadline that makes it land without a meeting. Use when asked to decide something async, replace a decision meeting with a document, run an Amazon-style written decision process, or when a decision keeps stalling in comment threads. Produces the decision memo plus the process wrapper: reader roles, response windows, comment-resolution rules, and the tie-breaker. For the document structure alone use decision-memo; this skill runs the process around it."
 ---
 
 # Async Decision Memo Skill

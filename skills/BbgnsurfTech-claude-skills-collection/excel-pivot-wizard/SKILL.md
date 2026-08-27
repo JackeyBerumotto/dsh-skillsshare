@@ -1,7 +1,5 @@
 ---
-description: Generate pivot tables and charts from raw data using natural language
-  - analyze sales by region, summarize data by category, and create visualizations
-  effortlessly Activates when you request "excel pivot wizard" functionality.
+description: "用自然语言从原始数据生成数据透视表和图表——按区域分析销售、按类别汇总数据，轻松创建可视化。当您请求「excel pivot wizard」功能时激活。 | Generate pivot tables and charts from raw data using natural language - analyze sales by region, summarize data by category, and create visualizations effortlessly Activates when you request \"excel pivot wizard\" functionality."
 allowed-tools:
 - Read
 - Write

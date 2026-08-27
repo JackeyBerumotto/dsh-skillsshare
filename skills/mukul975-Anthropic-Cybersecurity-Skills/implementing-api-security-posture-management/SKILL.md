@@ -1,7 +1,6 @@
 ---
 name: implementing-api-security-posture-management
-description: Implement API Security Posture Management to continuously discover, classify,
-  and score APIs based on risk while enforcing security policies across the API lifecycle.
+description: "实施 API 安全态势管理，基于风险持续发现、分类和评分 API，并在 API 生命周期内强制执行安全策略。 | Implement API Security Posture Management to continuously discover, classify, and score APIs based on risk while enforcing security policies across the API lifecycle."
 domain: cybersecurity
 subdomain: api-security
 tags:

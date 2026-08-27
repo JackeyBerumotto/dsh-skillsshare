@@ -1,6 +1,6 @@
 ---
 name: ai-native-ui
-description: Web and App implementation guide for AI Native UI. Trigger when user wants conversational interfaces, adaptive layouts, and generative AI aesthetics.
+description: AI Native UI 的 Web 与 App 实现指南。当用户需要对话式界面、自适应布局和生成式 AI 美学时触发。 | Web and App implementation guide for AI Native UI. Trigger when user wants conversational interfaces, adaptive layouts, and generative AI aesthetics.
 date_added: "2026-06-17"
 risk: safe
 source: self

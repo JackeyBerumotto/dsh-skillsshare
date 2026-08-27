@@ -1,7 +1,7 @@
 ---
 name: generating-orm-code
 description: |
-  Use when you need to work with ORM code generation.
+  当你需要进行 ORM 代码生成时使用。此技能提供 ORM 模型和代码生成及全面的指导和自动化。触发词如「generate ORM models」「create entity classes」或「scaffold database models」。 |
   This skill provides ORM model and code generation with comprehensive guidance and automation.
   Trigger with phrases like "generate ORM models", "create entity classes",
   or "scaffold database models".

@@ -1,7 +1,7 @@
 ---
 name: sparc-methodology
 description: >
-  SPARC development workflow (Specification, Pseudocode, Architecture, Refinement, Completion).
+  SPARC 开发工作流（规格、伪代码、架构、精化、完成）。使用场景：新功能、复杂实现、架构变更。跳过场景：简单修复、文档、配置。 |
   Use when: new features, complex implementations, architectural changes.
   Skip when: simple fixes, documentation, configuration.
 ---

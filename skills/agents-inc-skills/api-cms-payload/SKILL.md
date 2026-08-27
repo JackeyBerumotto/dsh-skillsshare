@@ -1,6 +1,6 @@
 ---
 name: api-cms-payload
-description: Payload CMS v3 — TypeScript-native headless CMS with code-first collections, hooks, access control, Local/REST/GraphQL APIs, admin panel, and database adapter pattern
+description: Payload CMS v3——TypeScript 原生的无头 CMS，具备代码优先的集合、钩子、访问控制、Local/REST/GraphQL API、管理面板和数据库适配器模式 | Payload CMS v3 — TypeScript-native headless CMS with code-first collections, hooks, access control, Local/REST/GraphQL APIs, admin panel, and database adapter pattern
 ---
 
 # Payload CMS Patterns

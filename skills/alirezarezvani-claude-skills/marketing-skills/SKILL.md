@@ -1,6 +1,6 @@
 ---
 name: "marketing-skills"
-description: "Directory and router for the marketing skills library. Use when you need to find the right marketing skill for a task, see what marketing capabilities exist, or get oriented in this plugin. 44 specialist skills across 8 pods (content, SEO + AEO, CRO, channels, growth, intelligence, sales enablement, ops), 59 stdlib Python tools. Routes to one skill — it does not execute marketing work itself."
+description: "营销技能库的目录与路由器。当需要为任务找到合适的营销技能、了解现有营销能力，或在本插件中快速上手时使用。包含 8 个分组（内容、SEO + AEO、CRO、渠道、增长、情报、销售赋能、运营）下的 44 个专家技能，以及 59 个标准库 Python 工具。它只负责路由到具体技能，本身不执行营销工作。 | Directory and router for the marketing skills library. Use when you need to find the right marketing skill for a task, see what marketing capabilities exist, or get oriented in this plugin. 44 specialist skills across 8 pods (content, SEO + AEO, CRO, channels, growth, intelligence, sales enablement, ops), 59 stdlib Python tools. Routes to one skill — it does not execute marketing work itself."
 version: 2.10.3
 author: Alireza Rezvani
 license: MIT

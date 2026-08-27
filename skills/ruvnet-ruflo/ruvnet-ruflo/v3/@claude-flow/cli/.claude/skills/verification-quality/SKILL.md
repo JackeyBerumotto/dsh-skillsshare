@@ -1,7 +1,7 @@
 ---
 name: "Verification & Quality Assurance"
 description: |
-  Comprehensive truth scoring, code quality verification, and automatic rollback system with 0.95 accuracy threshold for ensuring high-quality agent outputs and codebase reliability.
+  综合的真值评分、代码质量校验和自动回滚系统，以 0.95 准确率阈值确保高质量的 Agent 产出和代码库可靠性。 |
 ---
 
 # Verification & Quality Assurance Skill

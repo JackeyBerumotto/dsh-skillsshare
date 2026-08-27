@@ -1,6 +1,6 @@
 ---
 name: "security-pen-testing"
-description: "Use when the user asks to perform security audits, penetration testing, vulnerability scanning, OWASP Top 10 checks, or offensive security assessments. Covers static analysis, dependency scanning, secret detection, API security testing, and pen test report generation."
+description: "当用户要求执行安全审计、渗透测试、漏洞扫描、OWASP Top 10 检查或进攻性安全评估时使用。涵盖静态分析、依赖扫描、密钥检测、API 安全测试和渗透测试报告生成。 | Use when the user asks to perform security audits, penetration testing, vulnerability scanning, OWASP Top 10 checks, or offensive security assessments. Covers static analysis, dependency scanning, secret detection, API security testing, and pen test report generation."
 ---
 
 # Security Penetration Testing

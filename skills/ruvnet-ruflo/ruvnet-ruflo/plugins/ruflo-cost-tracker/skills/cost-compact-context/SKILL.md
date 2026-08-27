@@ -1,6 +1,6 @@
 ---
 name: cost-compact-context
-description: Wrap getTokenOptimizer().getCompactContext() to retrieve compacted ReasoningBank context for cost-analysis queries; report bridge-reported tokensSaved
+description: 封装 getTokenOptimizer().getCompactContext() 以获取压缩后的 ReasoningBank 上下文用于成本分析查询；报告桥接层返回的 tokensSaved。 | Wrap getTokenOptimizer().getCompactContext() to retrieve compacted ReasoningBank context for cost-analysis queries; report bridge-reported tokensSaved
 argument-hint: "<query>"
 allowed-tools: Bash
 ---

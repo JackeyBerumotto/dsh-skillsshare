@@ -2,7 +2,7 @@
 name: generating-test-doubles
 version: 1.0.0
 description: |
-  Generate mocks, stubs, spies, and fakes for dependency isolation.
+  生成 mock、stub、spy 和 fake，用于依赖隔离。在创建模拟对象、桩或测试隔离夹具时使用。触发短语如「generate mocks」、「create test doubles」或「setup stubs」。 |
   Use when creating mocks, stubs, or test isolation fixtures.
   Trigger with phrases like "generate mocks", "create test doubles", or "setup stubs".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(test:doubles-*)

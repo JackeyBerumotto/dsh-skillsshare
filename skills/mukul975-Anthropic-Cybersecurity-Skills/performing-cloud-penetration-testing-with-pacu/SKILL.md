@@ -1,11 +1,6 @@
 ---
 name: performing-cloud-penetration-testing-with-pacu
-description: 'Performing authorized AWS penetration testing using Pacu, the open-source
-  AWS exploitation framework, to enumerate IAM configurations, discover privilege
-  escalation paths, test credential harvesting, and validate security controls through
-  systematic attack simulation.
-
-  '
+description: "使用开源 AWS 利用框架 Pacu 执行授权的 AWS 渗透测试，枚举 IAM 配置、发现权限提升路径、测试凭据收集，并通过系统化攻击模拟验证安全控制。 | Performing authorized AWS penetration testing using Pacu, the open-source AWS exploitation framework, to enumerate IAM configurations, discover privilege escalation paths, test credential harvesting, and validate security controls through systematic attack simulation."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

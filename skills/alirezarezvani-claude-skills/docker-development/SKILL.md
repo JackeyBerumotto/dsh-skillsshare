@@ -1,6 +1,6 @@
 ---
 name: "docker-development"
-description: "Docker and container development agent skill and plugin for Dockerfile optimization, docker-compose orchestration, multi-stage builds, and container security hardening. Use when: user wants to optimize a Dockerfile, create or improve docker-compose configurations, implement multi-stage builds, audit container security, reduce image size, or follow container best practices. Covers build performance, layer caching, secret management, and production-ready container patterns."
+description: "Docker 与容器开发的 agent 技能和插件，用于 Dockerfile 优化、docker-compose 编排、多阶段构建和容器安全加固。当用户想要优化 Dockerfile、创建或改进 docker-compose 配置、实现多阶段构建、审计容器安全、缩减镜像体积或遵循容器最佳实践时使用。涵盖构建性能、层缓存、密钥管理以及生产可用的容器模式。 | Docker and container development agent skill and plugin for Dockerfile optimization, docker-compose orchestration, multi-stage builds, and container security hardening. Use when: user wants to optimize a Dockerfile, create or improve docker-compose configurations, implement multi-stage builds, audit container security, reduce image size, or follow container best practices. Covers build performance, layer caching, secret management, and production-ready container patterns."
 license: MIT
 metadata:
   version: 1.0.0

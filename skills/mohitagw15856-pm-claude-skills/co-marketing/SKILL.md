@@ -1,6 +1,6 @@
 ---
 name: co-marketing
-description: "Plan a co-marketing partnership — two brands reaching each other's audiences for mutual gain. Use when asked to plan a partnership, joint campaign, co-branded content/webinar, integration launch, or partner outreach. Produces the partner fit rationale, a fair value exchange, the joint campaign plan, the partner pitch, and how success is split and measured."
+description: "规划联合营销合作伙伴关系——两个品牌互相触达对方受众以实现共赢。当被要求规划合作伙伴关系、联合活动、联合品牌内容/网络研讨会、集成发布或合作方拓展时使用。产出合作伙伴契合度依据、公平的价值交换、联合活动计划、合作方推介方案，以及成功如何分配和衡量。 | Plan a co-marketing partnership — two brands reaching each other's audiences for mutual gain. Use when asked to plan a partnership, joint campaign, co-branded content/webinar, integration launch, or partner outreach. Produces the partner fit rationale, a fair value exchange, the joint campaign plan, the partner pitch, and how success is split and measured."
 ---
 
 # Co-Marketing Skill

@@ -1,6 +1,6 @@
 ---
 name: kg-extract
-description: Extract entities and relations from source files to build a knowledge graph
+description: 从源文件提取实体与关系以构建知识图谱 | Extract entities and relations from source files to build a knowledge graph
 argument-hint: "<path>"
 allowed-tools: Read Glob Grep mcp__claude-flow__agentdb_hierarchical-store mcp__claude-flow__agentdb_causal-edge mcp__claude-flow__agentdb_pattern-store mcp__claude-flow__embeddings_generate Bash
 ---

@@ -1,6 +1,6 @@
 ---
 name: api-graphql-mercurius
-description: GraphQL server for Fastify with Mercurius — loaders, subscriptions, federation, JIT compilation
+description: Fastify 的 GraphQL 服务器（Mercurius）——loader、订阅、federation、JIT 编译 | GraphQL server for Fastify with Mercurius — loaders, subscriptions, federation, JIT compilation
 ---
 
 # GraphQL with Mercurius

@@ -1,6 +1,6 @@
 ---
 name: onesignal_rest_api-automation
-description: "Automate OneSignal tasks via Rube MCP (Composio): push notifications, segments, templates, and messaging. Always search tools first for current schemas."
+description: "通过 Rube MCP（Composio）自动化 OneSignal 任务：推送通知、细分群组、模板和消息发送。务必先搜索工具以获取最新 schema。 | Automate OneSignal tasks via Rube MCP (Composio): push notifications, segments, templates, and messaging. Always search tools first for current schemas."
 requires:
   mcp: [rube]
 ---

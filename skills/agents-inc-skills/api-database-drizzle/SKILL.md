@@ -1,6 +1,6 @@
 ---
 name: api-database-drizzle
-description: Drizzle ORM, queries, migrations
+description: Drizzle ORM、查询、迁移 | Drizzle ORM, queries, migrations
 ---
 
 # Database with Drizzle ORM + Neon

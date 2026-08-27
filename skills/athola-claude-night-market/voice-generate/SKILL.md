@@ -1,6 +1,6 @@
 ---
 name: voice-generate
-description: Generates text in a learned writing voice. Use when drafting content that must match a specific author's style profile extracted by voice-extract.
+description: 以学习到的写作风格生成文本。在起草必须匹配特定作者风格配置的内容时使用，该风格配置由 voice-extract 提取。 | Generates text in a learned writing voice. Use when drafting content that must match a specific author's style profile extracted by voice-extract.
 globs: "**/*.{md,txt}"
 alwaysApply: false
 category: writing-quality

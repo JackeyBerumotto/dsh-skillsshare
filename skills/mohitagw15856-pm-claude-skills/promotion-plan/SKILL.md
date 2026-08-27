@@ -1,6 +1,6 @@
 ---
 name: promotion-plan
-description: "Plan a sale or promotion that drives revenue without wrecking margin. Use when asked to plan a promotion, a discount/sale campaign, a BFCM/holiday promo, or a product launch offer. Produces a promo plan — objective, the offer mechanic, margin math, audience & channels, timing, messaging, and how you'll measure it — so the discount is a strategy, not a reflex."
+description: "规划能带来收入又不损害利润率的促销活动。当被要求规划促销、折扣/特卖活动、BFCM/节日大促或产品发布优惠时使用。产出一份促销计划——目标、优惠机制、利润率计算、受众与渠道、时间安排、文案信息，以及衡量方式——让折扣成为策略而非条件反射。 | Plan a sale or promotion that drives revenue without wrecking margin. Use when asked to plan a promotion, a discount/sale campaign, a BFCM/holiday promo, or a product launch offer. Produces a promo plan — objective, the offer mechanic, margin math, audience & channels, timing, messaging, and how you'll measure it — so the discount is a strategy, not a reflex."
 ---
 
 # Promotion Plan Skill

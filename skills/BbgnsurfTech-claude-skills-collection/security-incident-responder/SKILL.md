@@ -1,7 +1,7 @@
 ---
 name: responding-to-security-incidents
 description: |
-  Guide security incident response, investigation, and remediation processes.
+  指导安全事件响应、调查和补救流程。在需要处理安全事件、对事件分类、制定响应手册、收集取证证据或协调补救工作时使用。触发短语如「security incident response」、「ransomware attack response」、「data breach investigation」、「incident playbook」或「security forensics」。 |
   Use when you need to handle security breaches, classify incidents, develop response playbooks, gather forensic evidence, or coordinate remediation efforts.
   Trigger with phrases like "security incident response", "ransomware attack response", "data breach investigation", "incident playbook", or "security forensics".
 allowed-tools:

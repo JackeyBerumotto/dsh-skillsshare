@@ -2,7 +2,7 @@
 name: analyzing-mempool
 version: 1.0.0
 description: |
-  Monitor blockchain mempools for pending transactions, front-running, and MEV opportunities.
+  监控区块链内存池中的待确认交易、抢跑与 MEV 机会。用于监控区块链待确认交易。触发短语如「check mempool」「scan pending txs」或「find MEV」。 |
   Use when monitoring pending blockchain transactions.
   Trigger with phrases like "check mempool", "scan pending txs", or "find MEV".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(crypto:mempool-*)

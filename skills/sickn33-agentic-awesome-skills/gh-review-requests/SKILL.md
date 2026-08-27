@@ -1,6 +1,6 @@
 ---
 name: gh-review-requests
-description: Fetch unread GitHub notifications for open PRs where review is requested from a specified team or opened by a team member. Use when asked to "find PRs I need to review", "show my review requests", "what needs my review", "fetch GitHub review requests", or "check team review queue".
+description: 获取未读 GitHub 通知中由指定团队请求评审、或由团队成员发起的开放 PR。当被要求「find PRs I need to review」「show my review requests」「what needs my review」「fetch GitHub review requests」或「check team review queue」时使用。 | Fetch unread GitHub notifications for open PRs where review is requested from a specified team or opened by a team member. Use when asked to "find PRs I need to review", "show my review requests", "what needs my review", "fetch GitHub review requests", or "check team review queue".
 allowed-tools: Bash
 risk: safe
 source: community

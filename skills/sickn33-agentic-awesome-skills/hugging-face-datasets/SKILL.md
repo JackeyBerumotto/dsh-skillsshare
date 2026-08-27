@@ -1,6 +1,6 @@
 ---
 name: hugging-face-datasets
-description: Create and manage datasets on Hugging Face Hub. Supports initializing repos, defining configs/system prompts, streaming row updates, and SQL-based dataset querying/transformation. Designed to work alongside HF MCP server for comprehensive dataset workflows.
+description: 在 Hugging Face Hub 上创建和管理数据集。支持初始化仓库、定义配置和系统提示词、流式更新行数据，以及基于 SQL 的数据集查询与转换。设计为与 HF MCP 服务器协同工作，覆盖完整的数据集工作流。 | Create and manage datasets on Hugging Face Hub. Supports initializing repos, defining configs/system prompts, streaming row updates, and SQL-based dataset querying/transformation. Designed to work alongside HF MCP server for comprehensive dataset workflows.
 risk: unknown
 source: community
 ---

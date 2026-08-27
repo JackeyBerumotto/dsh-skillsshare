@@ -1,6 +1,6 @@
 ---
 name: playwright-skill
-description: "IMPORTANT - Path Resolution: This skill can be installed in different locations (plugin system, manual installation, global, or project-specific). Before executing any commands, determine the skill directory based on where you loaded this SKILL.md file, and use that path in all commands below."
+description: "重要提示——路径解析：此技能可能安装在不同的位置（插件系统、手动安装、全局或项目专属）。在执行任何命令之前，请根据你加载此 SKILL.md 文件的位置确定技能目录，并在以下所有命令中使用该路径。 | IMPORTANT - Path Resolution: This skill can be installed in different locations (plugin system, manual installation, global, or project-specific). Before executing any commands, determine the skill directory based on where you loaded this SKILL.md file, and use that path in all commands below."
 risk: unknown
 source: community
 date_added: "2026-02-27"

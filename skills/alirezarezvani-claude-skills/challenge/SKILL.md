@@ -1,6 +1,6 @@
 ---
 name: "challenge"
-description: "Pre-mortem plan analysis. Imagine the plan failed 12 months from now and work backwards to find the weaknesses. Surfaces assumptions, dependencies, and execution risks before committing resources. Use when before significant resource commitment, before presenting to a board or investors, when feedback has been one-sidedly positive, or when there is pressure to move fast and figure it out later."
+description: "事前验尸（pre-mortem）计划分析。设想计划在 12 个月后失败了，然后反向推导找出弱点。在投入资源前暴露假设、依赖和执行风险。在做出重大资源承诺前、向董事会或投资人汇报前、当反馈一直是一片叫好时，或在被催促先干起来再说时使用。 | Pre-mortem plan analysis. Imagine the plan failed 12 months from now and work backwards to find the weaknesses. Surfaces assumptions, dependencies, and execution risks before committing resources. Use when before significant resource commitment, before presenting to a board or investors, when feedback has been one-sidedly positive, or when there is pressure to move fast and figure it out later."
 ---
 
 # /em:challenge — Pre-Mortem Plan Analysis

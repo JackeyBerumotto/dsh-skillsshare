@@ -1,6 +1,6 @@
 ---
 name: parsing-artifacts-with-eric-zimmerman-tools
-description: Parse registry, prefetch, shellbags, and MFT with EZ Tools and Timeline Explorer.
+description: 使用 EZ Tools 和 Timeline Explorer 解析注册表、prefetch、shellbags 和 MFT。 | Parse registry, prefetch, shellbags, and MFT with EZ Tools and Timeline Explorer.
 domain: cybersecurity
 subdomain: digital-forensics
 tags:

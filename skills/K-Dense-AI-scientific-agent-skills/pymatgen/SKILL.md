@@ -1,6 +1,6 @@
 ---
 name: pymatgen
-description: Materials science toolkit. Crystal structures (CIF, POSCAR), phase diagrams, band structure, DOS, Materials Project integration, format conversion, for computational materials science.
+description: 材料科学工具箱。晶体结构（CIF、POSCAR）、相图、能带结构、态密度（DOS）、Materials Project 集成与格式转换，服务于计算材料科学。 | Materials science toolkit. Crystal structures (CIF, POSCAR), phase diagrams, band structure, DOS, Materials Project integration, format conversion, for computational materials science.
 license: MIT license
 required_environment_variables: [{"name": "MP_API_KEY", "prompt": "Materials Project API key (required for MP database queries).", "required_for": "full functionality"}]
 metadata: {"version": "1.1", "skill-author": "K-Dense Inc.", "openclaw": {"primaryEnv": "MP_API_KEY", "envVars": [{"name": "MP_API_KEY", "required": true, "description": "Materials Project API key (required for MP database queries)."}]}}

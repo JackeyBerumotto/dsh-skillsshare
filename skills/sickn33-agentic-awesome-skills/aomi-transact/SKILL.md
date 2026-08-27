@@ -1,6 +1,6 @@
 ---
 name: aomi-transact
-description: "Build natural-language crypto/DeFi agents and EVM MCP plugins (Claude Code, Cursor, Codex, Gemini). Aomi turns prompts into wallet-signed txs on Ethereum, Base, Arbitrum, Optimism, Polygon, Linea — non-custodial, fork-simulated. 40+ apps: Uniswap, Aave, Lido, Morpho, GMX, Hyperliquid, Polymarket."
+description: "构建自然语言加密货币或 DeFi 智能体以及 EVM MCP 插件（Claude Code、Cursor、Codex、Gemini）。Aomi 把提示词转化为钱包签名的交易，运行在 Ethereum、Base、Arbitrum、Optimism、Polygon、Linea 上——非托管、分叉模拟。支持 40 多个应用：Uniswap、Aave、Lido、Morpho、GMX、Hyperliquid、Polymarket。 | Build natural-language crypto/DeFi agents and EVM MCP plugins (Claude Code, Cursor, Codex, Gemini). Aomi turns prompts into wallet-signed txs on Ethereum, Base, Arbitrum, Optimism, Polygon, Linea — non-custodial, fork-simulated. 40+ apps: Uniswap, Aave, Lido, Morpho, GMX, Hyperliquid, Polymarket."
 risk: critical
 source: "aomi-labs/skills (MIT)"
 source_repo: "aomi-labs/skills"

@@ -1,7 +1,7 @@
 ---
 name: analyzing-ios-app-security-with-objection
 description: >-
-  Runtime iOS app security testing with Objection (Frida): inspect keychain and
+  使用 Objection（Frida）进行运行时 iOS 应用安全测试：检查钥匙串和文件系统数据，在运行时探索应用内部结构，并在授权的移动评估中验证或绕过客户端防护。 |
   filesystem data, explore app internals at runtime, and validate/bypass
   client-side protections during authorized mobile assessments.
 domain: cybersecurity

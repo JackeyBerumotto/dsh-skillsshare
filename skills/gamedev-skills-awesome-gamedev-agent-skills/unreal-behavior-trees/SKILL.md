@@ -1,7 +1,7 @@
 ---
 name: unreal-behavior-trees
 description: >
-  Build NPC AI in Unreal Engine 5 with Behavior Trees and Blackboards: composites
+  在虚幻引擎 5 中使用行为树与黑板构建 NPC AI：组合节点（Selector 与 Sequence）、任务、装饰器、服务，以及从 AIController 运行行为树。在创建敌人或 NPC 的 AI、BT_ 或 BB_ 资产、自定义 BTTask 或 BTService 节点时使用，或当用户提到行为树、黑板、AIController、BTTask、装饰器或服务时使用。 |
   (Selector/Sequence), tasks, decorators, services, and running the tree from an AIController.
   Use when creating enemy/NPC AI, BT_/BB_ assets, custom BTTask or BTService nodes, or when
   the user mentions Behavior Tree, Blackboard, AIController, BTTask, decorator, or service.

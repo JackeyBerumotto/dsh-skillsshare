@@ -1,6 +1,6 @@
 ---
 name: launch-readiness
-description: "Assesses pre-launch readiness across every function and produces an explicit Go / Conditional Go / No-Go recommendation. Use when preparing for any product or feature launch, running a pre-launch review, or determining whether a release is safe to ship. Produces a function-by-function readiness status, a ranked blockers list with owners and deadlines, a risk register, and a clearly reasoned launch recommendation."
+description: "评估各职能部门的上线就绪度，并给出明确的上线／有条件上线／不上线建议。在为任何产品或功能上线做准备、进行上线前评审，或判断某次发布是否安全时使用。产出逐职能的就绪状态、按序排列并带负责人和截止日期的阻碍项清单、风险登记表，以及论证清晰的上线建议。 | Assesses pre-launch readiness across every function and produces an explicit Go / Conditional Go / No-Go recommendation. Use when preparing for any product or feature launch, running a pre-launch review, or determining whether a release is safe to ship. Produces a function-by-function readiness status, a ranked blockers list with owners and deadlines, a risk register, and a clearly reasoned launch recommendation."
 ---
 
 # Launch Readiness Skill

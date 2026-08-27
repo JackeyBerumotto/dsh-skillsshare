@@ -1,6 +1,6 @@
 ---
 name: web-framework-svelte
-description: Svelte 5 Runes reactivity - $state, $derived, $effect, $props, $bindable, components, snippets, event handling, context API
+description: Svelte 5 Runes 响应式：$state、$derived、$effect、$props、$bindable、组件、snippets、事件处理、context API | Svelte 5 Runes reactivity - $state, $derived, $effect, $props, $bindable, components, snippets, event handling, context API
 ---
 
 # Svelte 5 Patterns

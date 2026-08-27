@@ -1,6 +1,6 @@
 ---
 name: box-automation
-description: "Automate Box operations including file upload/download, content search, folder management, collaboration, metadata queries, and sign requests through Composio's Box toolkit."
+description: "通过 Composio 的 Box 工具包自动化 Box 操作，包括文件上传/下载、内容搜索、文件夹管理、协作、元数据查询以及签署请求。 | Automate Box operations including file upload/download, content search, folder management, collaboration, metadata queries, and sign requests through Composio's Box toolkit."
 risk: critical
 source: community
 date_added: "2026-02-27"

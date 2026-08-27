@@ -1,7 +1,6 @@
 ---
 name: preprocessing-data-with-automated-pipelines
-description: Automate data cleaning, transformation, and validation for ML tasks.
-  Use when requesting "preprocess data", "clean data", "ETL pipeline", or "data transformation".
+description: "自动化机器学习任务的数据清洗、转换和验证。当请求「preprocess data」「clean data」「ETL pipeline」或「data transformation」时使用。 | Automate data cleaning, transformation, and validation for ML tasks. Use when requesting \"preprocess data\", \"clean data\", \"ETL pipeline\", or \"data transformation\"."
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash
 license: MIT
 ---

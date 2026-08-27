@@ -1,6 +1,6 @@
 ---
 name: "email-template-builder"
-description: "Build complete transactional email systems: React Email templates, provider integration (Resend, Postmark, SendGrid, AWS SES), preview server, i18n support, dark mode, spam optimization, analytics tracking. Use when adding transactional email to a new product, migrating between email providers, refactoring legacy email templates for accessibility, or adding internationalization to existing templates."
+description: "构建完整的事务性邮件系统：React Email 模板、服务商集成（Resend、Postmark、SendGrid、AWS SES）、预览服务器、i18n 支持、深色模式、反垃圾邮件优化和分析追踪。当为新产品添加事务性邮件、在邮件服务商之间迁移、重构遗留邮件模板以提升无障碍性，或为现有模板添加国际化时使用。 | Build complete transactional email systems: React Email templates, provider integration (Resend, Postmark, SendGrid, AWS SES), preview server, i18n support, dark mode, spam optimization, analytics tracking. Use when adding transactional email to a new product, migrating between email providers, refactoring legacy email templates for accessibility, or adding internationalization to existing templates."
 ---
 
 # Email Template Builder

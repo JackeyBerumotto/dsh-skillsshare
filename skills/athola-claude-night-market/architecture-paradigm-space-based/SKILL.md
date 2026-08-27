@@ -1,6 +1,6 @@
 ---
 name: architecture-paradigm-space-based
-description: Applies data-grid architecture for high-traffic stateful workloads. Use when a single database cannot scale and in-memory partitioning is needed.
+description: 应用数据网格架构承载高流量的有状态工作负载。当单一数据库无法扩展且需要内存分区时使用。 | Applies data-grid architecture for high-traffic stateful workloads. Use when a single database cannot scale and in-memory partitioning is needed.
 alwaysApply: false
 category: architectural-pattern
 tags:

@@ -1,6 +1,6 @@
 ---
 name: professional-brain
-description: "Maintain a durable, local markdown memory ('brain') of your product context, decisions, hypotheses, and stakeholders that other skills read from and write back to. Use when asked to set up a brain, ingest notes/artifacts into memory, recall what's known about a topic, log a decision with provenance, or run a weekly brain review. Produces a structured brain/ folder (knowledge, decisions, hypotheses, stakeholders, entities, source) with provenance-tagged facts, plus ingest/recall/record/review operations with approval-gated, append-only write-back."
+description: "维护一个持久化的本地 markdown 记忆库（「大脑」），记录你的产品上下文、决策、假设与利益相关者，供其他技能读取与回写。当被要求建立大脑、把笔记/工件摄入记忆、回顾某主题的已知内容、记录带出处的决策，或运行每周大脑回顾时使用。产出结构化的 brain/ 目录（knowledge、decisions、hypotheses、stakeholders、entities、source），包含带出处标记的事实，并提供具备审批门禁、仅追加式回写的 ingest/recall/record/review 操作。 | Maintain a durable, local markdown memory ('brain') of your product context, decisions, hypotheses, and stakeholders that other skills read from and write back to. Use when asked to set up a brain, ingest notes/artifacts into memory, recall what's known about a topic, log a decision with provenance, or run a weekly brain review. Produces a structured brain/ folder (knowledge, decisions, hypotheses, stakeholders, entities, source) with provenance-tagged facts, plus ingest/recall/record/review operations with approval-gated, append-only write-back."
 ---
 
 # Professional Brain Skill

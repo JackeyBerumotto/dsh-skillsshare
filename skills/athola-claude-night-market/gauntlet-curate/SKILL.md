@@ -1,6 +1,6 @@
 ---
 name: gauntlet-curate
-description: Audits the DSA problem bank for coverage gaps and proposes new YAML entries. Use when refreshing the problem bank during update-plugins runs.
+description: 审计 DSA 题库的覆盖缺口并提出新的 YAML 条目。在运行 update-plugins 期间刷新题库时使用。 | Audits the DSA problem bank for coverage gaps and proposes new YAML entries. Use when refreshing the problem bank during update-plugins runs.
 model_hint: standard
 ---
 

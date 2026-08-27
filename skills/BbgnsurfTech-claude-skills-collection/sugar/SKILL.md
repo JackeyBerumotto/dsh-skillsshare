@@ -1,8 +1,5 @@
 ---
-description: Enables claude to manage sugar's autonomous development workflows. it
-  allows claude to create tasks, view the status of the system, review pending tasks,
-  and start autonomous execution mode. use this skill when the user asks to create
-  a new develo...
+description: "使 claude 能够管理 sugar 的自主开发工作流。它允许 claude 创建任务、查看系统状态、审阅待处理任务并启动自主执行模式。当用户要求创建新的开发任务时使用本技能。 | Enables claude to manage sugar's autonomous development workflows. it allows claude to create tasks, view the status of the system, review pending tasks, and start autonomous execution mode. use this skill when the user asks to create a new develo..."
 allowed-tools:
 - Read
 - Write

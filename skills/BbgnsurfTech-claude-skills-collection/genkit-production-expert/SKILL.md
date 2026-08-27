@@ -1,9 +1,6 @@
 ---
 name: genkit-production-expert
-description: Build production Firebase Genkit applications including RAG systems,
-  multi-step flows, and tool calling for Node.js/Python/Go. Deploy to Firebase Functions
-  or Cloud Run with AI monitoring. Use when asked to "create genkit flow" or "implement
-  RAG".
+description: "构建生产级 Firebase Genkit 应用，包括 RAG 系统、多步骤流程和工具调用，支持 Node.js/Python/Go。部署到 Firebase Functions 或 Cloud Run 并配备 AI 监控。当被要求「create genkit flow」或「implement RAG」时使用。 | Build production Firebase Genkit applications including RAG systems, multi-step flows, and tool calling for Node.js/Python/Go. Deploy to Firebase Functions or Cloud Run with AI monitoring. Use when asked to \"create genkit flow\" or \"implement RAG\"."
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash
 license: MIT
 ---

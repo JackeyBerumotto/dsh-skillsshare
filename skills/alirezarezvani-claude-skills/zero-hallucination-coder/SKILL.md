@@ -1,6 +1,6 @@
 ---
 name: zero-hallucination-coder
-description: "Runs a disciplined Discuss -> Map -> Decompose -> Execute -> Verify loop that grounds code in verified structure — no invented APIs, no assumed imports, no placeholder code — with a lazy-senior-dev YAGNI ladder that deletes unnecessary code before it is written. Use when a coding task is high-stakes, complex, or spans existing code (auth, databases, migrations, multi-file features), or when the user explicitly asks to plan carefully before coding, avoid hallucinated code, or work rigorously. Not for trivial edits, typos, or throwaway one-off scripts — those do not need the full loop."
+description: "运行严谨的 Discuss -> Map -> Decompose -> Execute -> Verify 循环，让代码立足于经过验证的结构——不发明 API、不臆测导入、不写占位代码——并配有一副懒惰资深工程师的 YAGNI 阶梯，在不必要的代码被写出来之前就将其删掉。当编码任务高风险、复杂或涉及既有代码（认证、数据库、迁移、多文件功能），或用户明确要求编码前仔细规划、避免幻觉代码、严谨作业时使用。不适用于琐碎编辑、错别字修改或一次性丢弃脚本——它们不需要完整循环。 | Runs a disciplined Discuss -> Map -> Decompose -> Execute -> Verify loop that grounds code in verified structure — no invented APIs, no assumed imports, no placeholder code — with a lazy-senior-dev YAGNI ladder that deletes unnecessary code before it is written. Use when a coding task is high-stakes, complex, or spans existing code (auth, databases, migrations, multi-file features), or when the user explicitly asks to plan carefully before coding, avoid hallucinated code, or work rigorously. Not for trivial edits, typos, or throwaway one-off scripts — those do not need the full loop."
 ---
 
 # Zero-Hallucination Coder

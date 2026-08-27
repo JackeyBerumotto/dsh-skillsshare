@@ -1,6 +1,6 @@
 ---
 name: security-requirement-extraction
-description: "Derive security requirements from threat models and business context. Use when translating threats into actionable requirements, creating security user stories, or building security test cases."
+description: "从威胁模型和业务上下文推导安全需求。当需要将威胁转化为可执行的需求、创建安全用户故事或构建安全测试用例时使用。 | Derive security requirements from threat models and business context. Use when translating threats into actionable requirements, creating security user stories, or building security test cases."
 risk: safe
 source: community
 date_added: "2026-02-27"

@@ -1,6 +1,6 @@
 ---
 name: extract-design-system
-description: Extract design primitives from a public website and generate starter token files for your project.
+description: 从公开网站提取设计原语，并为你的项目生成起始 token 文件。 | Extract design primitives from a public website and generate starter token files for your project.
 ---
 
 # Extract Design System

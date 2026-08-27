@@ -1,5 +1,5 @@
 ---
-description: Use when generating Kubernetes deployment manifests and services. Trigger with phrases like "create kubernetes deployment", "generate k8s manifest", "deploy app to kubernetes", or "create service and ingress". Produces production-ready YAML with health checks, auto-scaling, resource limits, ingress configuration, and TLS termination.
+description: 在生成 Kubernetes 部署清单和服务时使用。触发词如「create kubernetes deployment」「generate k8s manifest」「deploy app to kubernetes」或「create service and ingress」。产出带健康检查、自动扩缩容、资源限制、ingress 配置和 TLS 终止的生产级 YAML。 | Use when generating Kubernetes deployment manifests and services. Trigger with phrases like "create kubernetes deployment", "generate k8s manifest", "deploy app to kubernetes", or "create service and ingress". Produces production-ready YAML with health checks, auto-scaling, resource limits, ingress configuration, and TLS termination.
 allowed-tools:
 - Read
 - Write

@@ -1,8 +1,6 @@
 ---
 name: testing-for-sensitive-data-exposure
-description: Identifying sensitive data exposure vulnerabilities including API key
-  leakage, PII in responses, insecure storage, and unprotected data transmission during
-  security assessments.
+description: "在安全评估中识别敏感数据暴露漏洞，包括 API 密钥泄露、响应中的 PII、不安全存储以及未受保护的数据传输。 | Identifying sensitive data exposure vulnerabilities including API key leakage, PII in responses, insecure storage, and unprotected data transmission during security assessments."
 domain: cybersecurity
 subdomain: web-application-security
 tags:

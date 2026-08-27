@@ -1,8 +1,6 @@
 ---
 name: building-threat-feed-aggregation-with-misp
-description: Deploy MISP (Malware Information Sharing Platform) to aggregate, correlate,
-  and distribute threat intelligence feeds from multiple sources for centralized IOC
-  management and automated SIEM integration.
+description: "部署 MISP（恶意软件信息共享平台），聚合、关联并分发来自多个来源的威胁情报源，实现集中式 IOC 管理和自动化 SIEM 集成。 | Deploy MISP (Malware Information Sharing Platform) to aggregate, correlate, and distribute threat intelligence feeds from multiple sources for centralized IOC management and automated SIEM integration."
 domain: cybersecurity
 subdomain: threat-intelligence
 tags:

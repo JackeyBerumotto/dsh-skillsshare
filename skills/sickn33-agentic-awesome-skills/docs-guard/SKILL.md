@@ -1,6 +1,6 @@
 ---
 name: "docs-guard"
-description: "Review generated or changed documentation before it ships, including READMEs, API references, docstrings, changelogs, tutorials, and documentation sites."
+description: "在文档发布前审查生成或变更的文档，包括 README、API 参考、docstring、变更日志、教程和文档站点。 | Review generated or changed documentation before it ships, including READMEs, API references, docstrings, changelogs, tutorials, and documentation sites."
 risk: "critical"
 source: "community"
 source_repo: "amElnagdy/guard-skills"

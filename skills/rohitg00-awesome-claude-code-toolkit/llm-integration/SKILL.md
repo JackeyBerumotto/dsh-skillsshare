@@ -1,6 +1,6 @@
 ---
 name: llm-integration
-description: LLM integration patterns including API usage, streaming, function calling, RAG pipelines, and cost optimization
+description: LLM 集成模式，包括 API 使用、流式传输、函数调用、RAG 管道和成本优化。 | LLM integration patterns including API usage, streaming, function calling, RAG pipelines, and cost optimization
 ---
 
 # LLM Integration

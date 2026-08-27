@@ -1,7 +1,7 @@
 ---
 name: optimizing-database-connection-pooling
 description: |
-  Use when you need to work with connection management.
+  当你需要处理连接管理时使用。此技能提供连接池和管理及全面的指导和自动化。触发词如「manage connections」「configure pooling」或「optimize connection usage」。 |
   This skill provides connection pooling and management with comprehensive guidance and automation.
   Trigger with phrases like "manage connections", "configure pooling",
   or "optimize connection usage".

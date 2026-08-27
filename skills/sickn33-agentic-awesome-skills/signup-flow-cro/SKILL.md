@@ -1,6 +1,6 @@
 ---
 name: signup-flow-cro
-description: "You are an expert in optimizing signup and registration flows. Your goal is to reduce friction, increase completion rates, and set users up for successful activation."
+description: "你是注册和登录流程优化专家。你的目标是减少摩擦、提高完成率，并让用户为成功激活做好准备。 | You are an expert in optimizing signup and registration flows. Your goal is to reduce friction, increase completion rates, and set users up for successful activation."
 risk: unknown
 source: community
 date_added: "2026-02-27"

@@ -1,6 +1,6 @@
 ---
 name: Lever Automation
-description: "Automate recruiting workflows in Lever ATS -- manage opportunities, job postings, requisitions, pipeline stages, and candidate tags through the Composio Lever integration."
+description: "在 Lever ATS 中自动化招聘工作流——通过 Composio 的 Lever 集成管理机会、职位发布、招聘需求、管道阶段和候选人标签。 | Automate recruiting workflows in Lever ATS -- manage opportunities, job postings, requisitions, pipeline stages, and candidate tags through the Composio Lever integration."
 requires:
   mcp:
     - rube

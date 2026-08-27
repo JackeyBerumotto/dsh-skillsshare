@@ -1,6 +1,6 @@
 ---
 name: disaster-recovery-plan
-description: "Write a disaster recovery plan for a service or system — covering RPO/RTO targets, failure scenario runbooks, backup and restore procedures, DR testing cadence, and communication templates. Use when asked to write a DR plan, document failover procedures, create recovery runbooks, define RTO/RPO targets, or prepare for a disaster recovery game day. Produces a full DR document with per-scenario recovery runbooks, backup validation procedures, testing schedule, and communication templates."
+description: "为服务或系统编写灾难恢复计划——涵盖 RPO/RTO 目标、故障场景手册、备份与恢复程序、DR 测试节奏和沟通模板。在被要求编写 DR 计划、记录故障切换程序、创建恢复手册、定义 RTO/RPO 目标，或为灾难恢复演练日做准备时使用。产出完整 DR 文档，含按场景的恢复手册、备份验证程序、测试计划和沟通模板。 | Write a disaster recovery plan for a service or system — covering RPO/RTO targets, failure scenario runbooks, backup and restore procedures, DR testing cadence, and communication templates. Use when asked to write a DR plan, document failover procedures, create recovery runbooks, define RTO/RPO targets, or prepare for a disaster recovery game day. Produces a full DR document with per-scenario recovery runbooks, backup validation procedures, testing schedule, and communication templates."
 ---
 
 # Disaster Recovery Plan Skill

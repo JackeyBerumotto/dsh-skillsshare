@@ -1,6 +1,6 @@
 ---
 name: sequence-diagram
-description: "Diagram an interaction as a sequence of messages between participants over time. Use when asked to show an API flow, request/response, auth handshake, integration, or 'what calls what in what order'. Produces a ready-to-render Mermaid sequence diagram (renders live, exportable as PNG/SVG) plus notes on edge cases and failure paths."
+description: "将交互绘制为参与者之间随时间推移的消息序列。当被要求展示 API 流程、请求/响应、认证握手、集成，或「什么按什么顺序调用什么」时使用。产出可直接渲染的 Mermaid 时序图（支持实时渲染并可导出为 PNG/SVG），另附边界情况和失败路径的说明。 | Diagram an interaction as a sequence of messages between participants over time. Use when asked to show an API flow, request/response, auth handshake, integration, or 'what calls what in what order'. Produces a ready-to-render Mermaid sequence diagram (renders live, exportable as PNG/SVG) plus notes on edge cases and failure paths."
 ---
 
 # Sequence Diagram Skill

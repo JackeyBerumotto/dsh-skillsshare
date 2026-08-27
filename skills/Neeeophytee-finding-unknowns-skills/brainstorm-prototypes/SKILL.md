@@ -1,6 +1,6 @@
 ---
 name: brainstorm-prototypes
-description: Generate several genuinely different throwaway variations (designs, approaches, drafts) for the user to react to. Use when the user can only recognize what they want by seeing it — visual design, UX flows, naming, tone — or asks to brainstorm or prototype before building.
+description: 生成若干真正不同的临时变体（设计、方案、草稿）供用户评判取舍。当用户只有看到才能知道自己想要什么——视觉设计、UX 流程、命名、语气——或要求在构建之前先头脑风暴或做原型时使用。 | Generate several genuinely different throwaway variations (designs, approaches, drafts) for the user to react to. Use when the user can only recognize what they want by seeing it — visual design, UX flows, naming, tone — or asks to brainstorm or prototype before building.
 ---
 
 # Brainstorm and prototypes

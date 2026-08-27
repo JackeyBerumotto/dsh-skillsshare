@@ -1,6 +1,6 @@
 ---
 name: Apify Automation
-description: "Automate web scraping and data extraction with Apify -- run Actors, manage datasets, create reusable tasks, and retrieve crawl results through the Composio Apify integration."
+description: "通过 Apify 自动化网页抓取与数据提取——借助 Composio 的 Apify 集成，运行 Actor、管理数据集、创建可复用任务并检索爬取结果。 | Automate web scraping and data extraction with Apify -- run Actors, manage datasets, create reusable tasks, and retrieve crawl results through the Composio Apify integration."
 requires:
   mcp:
     - rube

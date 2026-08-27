@@ -1,6 +1,6 @@
 ---
 name: ecc-tools-cost-audit
-description: Evidence-first ECC Tools burn and billing audit workflow. Use when investigating runaway PR creation, quota bypass, premium-model leakage, duplicate jobs, or GitHub App cost spikes in the ECC Tools repo.
+description: 证据优先的 ECC Tools 消耗与账单审计工作流。当在 ECC Tools 仓库中调查 PR 失控创建、配额绕过、高级模型泄漏、重复作业或 GitHub App 成本激增时使用。 | Evidence-first ECC Tools burn and billing audit workflow. Use when investigating runaway PR creation, quota bypass, premium-model leakage, duplicate jobs, or GitHub App cost spikes in the ECC Tools repo.
 metadata:
   origin: ECC
 ---

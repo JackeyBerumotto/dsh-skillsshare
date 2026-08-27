@@ -1,7 +1,7 @@
 ---
 name: customs-trade-compliance
 description: >
-  Codified expertise for customs documentation, tariff classification, duty
+  面向海关单证、关税归类、税费优化、受限方筛查以及跨多个司法辖区监管合规的体系化专业知识。基于拥有 15 年以上经验的贸易合规专家整理而成。包含 HS 归类逻辑、Incoterms 应用、FTA 利用和处罚减免。在处理清关、关税归类、贸易合规、进出口单证或税费优化时使用。 |
   optimization, restricted party screening, and regulatory compliance across
   multiple jurisdictions. Informed by trade compliance specialists with 15+
   years experience. Includes HS classification logic, Incoterms application,

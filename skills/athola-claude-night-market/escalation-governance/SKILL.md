@@ -1,6 +1,6 @@
 ---
 name: escalation-governance
-description: 'Assess whether to escalate models. Use when evaluating reasoning depth.'
+description: '评估是否升级模型。在评估推理深度时使用。 | Assess whether to escalate models. Use when evaluating reasoning depth.'
 alwaysApply: false
 category: agent-workflow
 tags:

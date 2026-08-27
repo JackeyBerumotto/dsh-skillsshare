@@ -1,6 +1,6 @@
 ---
 name: ffuf-web-fuzzing
-description: Expert guidance for ffuf web fuzzing during penetration testing, including authenticated fuzzing with raw requests, auto-calibration, and result analysis
+description: 渗透测试中使用 ffuf 进行 Web 模糊测试的专家指引，包括用原始请求做认证后模糊测试、自动校准和结果分析 | Expert guidance for ffuf web fuzzing during penetration testing, including authenticated fuzzing with raw requests, auto-calibration, and result analysis
 risk: unknown
 source: community
 ---

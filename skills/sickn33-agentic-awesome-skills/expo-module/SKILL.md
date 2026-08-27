@@ -1,6 +1,6 @@
 ---
 name: expo-module
-description: Guide for creating and writing Expo native modules and views using the Expo Modules API (Swift, Kotlin, TypeScript). Covers module definition DSL, native views, shared objects, config plugins, lifecycle hooks, autolinking, and type system. Use when building or modifying native modules...
+description: 使用 Expo Modules API（Swift、Kotlin、TypeScript）创建和编写 Expo 原生模块与视图的指南。涵盖模块定义 DSL、原生视图、共享对象、配置插件、生命周期钩子、自动链接和类型系统。在构建或修改原生模块……时使用 | Guide for creating and writing Expo native modules and views using the Expo Modules API (Swift, Kotlin, TypeScript). Covers module definition DSL, native views, shared objects, config plugins, lifecycle hooks, autolinking, and type system. Use when building or modifying native modules...
 risk: unknown
 source: https://github.com/expo/skills/tree/main/plugins/expo/skills/expo-module
 source_repo: expo/skills

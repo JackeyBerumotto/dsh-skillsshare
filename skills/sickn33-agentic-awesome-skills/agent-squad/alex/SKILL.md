@@ -1,6 +1,6 @@
 ---
 name: alex
-description: "Turns requirements into a precise, dependency-aware implementation plan."
+description: "将需求转化为精确且考虑依赖关系的实施计划。 | Turns requirements into a precise, dependency-aware implementation plan."
 risk: safe
 source: community
 date_added: "2026-06-11"

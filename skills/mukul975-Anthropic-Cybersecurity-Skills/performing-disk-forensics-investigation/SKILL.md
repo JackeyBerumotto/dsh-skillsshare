@@ -1,13 +1,6 @@
 ---
 name: performing-disk-forensics-investigation
-description: 'Conducts disk forensics investigations using forensic imaging, file
-  system analysis, artifact recovery, and timeline reconstruction to support incident
-  response cases. Utilizes tools such as FTK Imager, Autopsy, and The Sleuth Kit for
-  evidence acquisition, deleted file recovery, and artifact examination. Activates
-  for requests involving disk forensics, hard drive analysis, forensic imaging, file
-  recovery, evidence acquisition, or digital forensic investigation.
-
-  '
+description: "使用取证镜像、文件系统分析、痕迹恢复和时间线重建开展磁盘取证调查，支持事件响应案件。使用 FTK Imager、Autopsy 和 The Sleuth Kit 等工具进行证据获取、已删除文件恢复和痕迹检验。当请求涉及磁盘取证、硬盘分析、取证镜像、文件恢复、证据获取或数字取证调查时激活。 | Conducts disk forensics investigations using forensic imaging, file system analysis, artifact recovery, and timeline reconstruction to support incident response cases. Utilizes tools such as FTK Imager, Autopsy, and The Sleuth Kit for evidence acquisition, deleted file recovery, and artifact examination. Activates for requests involving disk forensics, hard drive analysis, forensic imaging, file recovery, evidence acquisition, or digital forensic investigation."
 domain: cybersecurity
 subdomain: incident-response
 tags:

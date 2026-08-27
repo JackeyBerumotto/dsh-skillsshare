@@ -1,6 +1,6 @@
 ---
 name: customer-journey-map
-description: "Build a customer journey map for a product, service, or experience. Use when asked to map a customer journey, create a user journey, document touchpoints and pain points, or design an experience map. Produces a complete journey map with stages, touchpoints, emotions, pain points, and prioritised opportunities."
+description: "为产品、服务或体验构建客户旅程地图。当被要求绘制客户旅程、创建用户旅程、记录触点与痛点，或设计体验地图时使用。产出完整的旅程地图，包含阶段、触点、情绪、痛点以及按优先级排序的机会。 | Build a customer journey map for a product, service, or experience. Use when asked to map a customer journey, create a user journey, document touchpoints and pain points, or design an experience map. Produces a complete journey map with stages, touchpoints, emotions, pain points, and prioritised opportunities."
 ---
 
 # Customer Journey Map Skill

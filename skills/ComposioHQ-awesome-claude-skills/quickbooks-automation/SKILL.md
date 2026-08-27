@@ -1,6 +1,6 @@
 ---
 name: QuickBooks Automation
-description: "QuickBooks Automation: manage invoices, customers, accounts, and payments in QuickBooks Online for streamlined bookkeeping"
+description: "QuickBooks 自动化：在 QuickBooks Online 中管理发票、客户、账户和付款，实现精简顺畅的记账。 | QuickBooks Automation: manage invoices, customers, accounts, and payments in QuickBooks Online for streamlined bookkeeping"
 requires:
   mcp: [rube]
 ---

@@ -1,6 +1,6 @@
 ---
 name: hugging-face-dataset-viewer
-description: Hugging Face Dataset Viewer
+description: Hugging Face 数据集查看器——通过只读的 Dataset Viewer API 进行数据集探索与数据提取。 | Hugging Face Dataset Viewer
 risk: unknown
 source: https://github.com/huggingface/skills/tree/main/skills/huggingface-datasets
 source_repo: huggingface/skills

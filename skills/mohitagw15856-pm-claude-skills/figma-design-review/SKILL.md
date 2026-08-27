@@ -1,6 +1,6 @@
 ---
 name: figma-design-review
-description: "Runs a structured PM design review against product requirements. Use when asked to review a Figma design, check a design against requirements, or assess whether a design meets the product spec. Produces a requirements coverage check, UX concerns, open questions, and an explicit approval status — approved, approved with conditions, or not approved."
+description: "依据产品需求运行结构化的 PM 设计评审。当被要求评审 Figma 设计、对照需求检查设计，或评估设计是否符合产品规格时使用。产出需求覆盖检查、UX 顾虑、待澄清问题，以及明确的审批状态——通过、有条件通过或不通过。 | Runs a structured PM design review against product requirements. Use when asked to review a Figma design, check a design against requirements, or assess whether a design meets the product spec. Produces a requirements coverage check, UX concerns, open questions, and an explicit approval status — approved, approved with conditions, or not approved."
 ---
 
 # Figma Design Review Skill

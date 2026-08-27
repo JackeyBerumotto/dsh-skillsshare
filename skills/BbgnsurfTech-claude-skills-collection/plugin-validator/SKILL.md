@@ -1,7 +1,5 @@
 ---
-description: Automatically validates claude code plugin structure, schemas, and compliance
-  when user mentions validate plugin, check plugin, or plugin errors. runs comprehensive
-  validation specific to claude-code-plugins repository standards.
+description: "当用户提到 validate plugin、check plugin 或 plugin errors 时，自动验证 claude code 插件的结构、模式和合规性，运行符合 claude-code-plugins 仓库标准的全面验证。 | Automatically validates claude code plugin structure, schemas, and compliance when user mentions validate plugin, check plugin, or plugin errors. runs comprehensive validation specific to claude-code-plugins repository standards."
 allowed-tools:
 - Read
 - Grep

@@ -1,6 +1,6 @@
 ---
 name: azure-ai-document-intelligence-ts
-description: "Extract text, tables, and structured data from documents using prebuilt and custom models."
+description: "使用预构建与自定义模型从文档提取文本、表格与结构化数据。 | Extract text, tables, and structured data from documents using prebuilt and custom models."
 risk: unknown
 source: community
 date_added: "2026-02-27"

@@ -1,6 +1,6 @@
 ---
 name: substack-notes-scraper
-description: "Scrapes a Substack Notes page and exports engagement data to a formatted .xlsx file. Use when asked to download, analyse, or export Substack Notes performance data including likes, comments, and restacks. Produces a formatted spreadsheet with conditional formatting, summary stats, and per-note engagement metrics."
+description: "抓取 Substack Notes 页面并将互动数据导出为格式化的 .xlsx 文件。当被要求下载、分析或导出 Substack Notes 表现数据（包括点赞、评论和转发）时使用。产出带条件格式、汇总统计和逐条笔记互动指标的格式化电子表格。 | Scrapes a Substack Notes page and exports engagement data to a formatted .xlsx file. Use when asked to download, analyse, or export Substack Notes performance data including likes, comments, and restacks. Produces a formatted spreadsheet with conditional formatting, summary stats, and per-note engagement metrics."
 ---
 
 # Substack Notes Scraper

@@ -1,7 +1,6 @@
 ---
 name: securing-helm-chart-deployments
-description: Secure Helm chart deployments by validating chart integrity, scanning
-  templates for misconfigurations, and enforcing security contexts in Kubernetes releases.
+description: "通过验证 chart 完整性、扫描模板中的错误配置以及在 Kubernetes 发布中强制执行安全上下文，保障 Helm chart 部署的安全。 | Secure Helm chart deployments by validating chart integrity, scanning templates for misconfigurations, and enforcing security contexts in Kubernetes releases."
 domain: cybersecurity
 subdomain: container-security
 tags:

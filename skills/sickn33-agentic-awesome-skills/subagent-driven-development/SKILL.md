@@ -1,6 +1,6 @@
 ---
 name: subagent-driven-development
-description: "Use when executing implementation plans with independent tasks in the current session"
+description: "在当前会话中执行包含独立任务的实现计划时使用。 | Use when executing implementation plans with independent tasks in the current session"
 risk: unknown
 source: community
 date_added: "2026-02-27"

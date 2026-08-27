@@ -1,6 +1,6 @@
 ---
 name: uizze-ui-research
-description: "Use when building or reviewing web and iOS product UI and you need real UI references, structured design contracts, or implementation validation through UIZZE MCP."
+description: "在构建或评审 Web 与 iOS 产品 UI 时使用，适用于需要真实 UI 参考、结构化设计契约或通过 UIZZE MCP 进行实现验证的场合。 | Use when building or reviewing web and iOS product UI and you need real UI references, structured design contracts, or implementation validation through UIZZE MCP."
 category: design
 risk: safe
 source: https://github.com/aislon/uizze-mcp/tree/main/skills/uizze-ui-research

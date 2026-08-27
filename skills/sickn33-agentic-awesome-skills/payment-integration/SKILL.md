@@ -1,6 +1,6 @@
 ---
 name: payment-integration
-description: Integrate Stripe, PayPal, and payment processors. Handles checkout flows, subscriptions, webhooks, and PCI compliance. Use PROACTIVELY when implementing payments, billing, or subscription features.
+description: 集成 Stripe、PayPal 等支付处理器。处理结账流程、订阅、webhook 和 PCI 合规。在实现支付、账单或订阅功能时应主动使用。 | Integrate Stripe, PayPal, and payment processors. Handles checkout flows, subscriptions, webhooks, and PCI compliance. Use PROACTIVELY when implementing payments, billing, or subscription features.
 risk: unknown
 source: community
 date_added: '2026-02-27'

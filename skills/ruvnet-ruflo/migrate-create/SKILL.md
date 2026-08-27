@@ -1,6 +1,6 @@
 ---
 name: migrate-create
-description: Create a new sequentially numbered database migration with up/down SQL files
+description: 创建新的按顺序编号的数据库迁移，并附带 up/down SQL 文件 | Create a new sequentially numbered database migration with up/down SQL files
 argument-hint: "<name>"
 allowed-tools: Read Write Glob Bash mcp__claude-flow__memory_store mcp__claude-flow__memory_search mcp__claude-flow__agentdb_pattern-search
 ---

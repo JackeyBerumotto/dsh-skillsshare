@@ -1,6 +1,6 @@
 ---
 name: conference-talk-proposal
-description: "Write a conference talk proposal / CFP submission for a tech or developer conference. Use when asked to submit to a CFP, propose a talk, or write a session abstract. Produces a compelling title, abstract, audience takeaways, an outline, and the speaker pitch — tuned to what selection committees actually look for."
+description: "为技术或开发者大会撰写演讲提案/CFP 投稿。在被要求提交 CFP、提议演讲或撰写 session 摘要时使用。产出有吸引力的标题、摘要、听众收获、大纲和讲者推介——针对评选委员会真正关注的要点调优。 | Write a conference talk proposal / CFP submission for a tech or developer conference. Use when asked to submit to a CFP, propose a talk, or write a session abstract. Produces a compelling title, abstract, audience takeaways, an outline, and the speaker pitch — tuned to what selection committees actually look for."
 ---
 
 # Conference Talk Proposal Skill

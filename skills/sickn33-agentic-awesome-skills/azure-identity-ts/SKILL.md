@@ -1,6 +1,6 @@
 ---
 name: azure-identity-ts
-description: "Authenticate to Azure services with various credential types."
+description: "使用多种凭据类型向 Azure 服务进行身份验证。 | Authenticate to Azure services with various credential types."
 risk: unknown
 source: community
 date_added: "2026-02-27"

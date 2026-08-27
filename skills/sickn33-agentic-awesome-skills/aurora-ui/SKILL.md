@@ -1,6 +1,6 @@
 ---
 name: aurora-ui
-description: Web and App implementation guide for Aurora UI. Trigger when user wants gradient glows, color blobs, and atmospheric lighting effects.
+description: Aurora UI 的 Web 与 App 实现指南。当用户需要渐变光晕、色块光斑和氛围光效时触发。 | Web and App implementation guide for Aurora UI. Trigger when user wants gradient glows, color blobs, and atmospheric lighting effects.
 date_added: "2026-06-17"
 risk: safe
 source: self

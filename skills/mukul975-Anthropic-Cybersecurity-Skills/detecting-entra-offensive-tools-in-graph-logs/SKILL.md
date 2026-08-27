@@ -1,6 +1,6 @@
 ---
 name: detecting-entra-offensive-tools-in-graph-logs
-description: Hunt AADGraphActivityLogs and MicrosoftGraphActivityLogs in Microsoft Sentinel/Log Analytics for fingerprints of offensive Entra ID tools such as ROADtools, AADInternals, and AzureHound.
+description: 在 Microsoft Sentinel/Log Analytics 中猎捕 AADGraphActivityLogs 和 MicrosoftGraphActivityLogs，寻找 ROADtools、AADInternals 和 AzureHound 等攻击性 Entra ID 工具的痕迹。 | Hunt AADGraphActivityLogs and MicrosoftGraphActivityLogs in Microsoft Sentinel/Log Analytics for fingerprints of offensive Entra ID tools such as ROADtools, AADInternals, and AzureHound.
 domain: cybersecurity
 subdomain: soc-operations
 tags:

@@ -1,6 +1,6 @@
 ---
 name: python-performance-optimization
-description: "Profile and optimize Python code using cProfile, memory profilers, and performance best practices. Use when debugging slow Python code, optimizing bottlenecks, or improving application performance."
+description: "使用 cProfile、内存分析器和性能最佳实践对 Python 代码进行性能分析与优化。在调试缓慢的 Python 代码、优化瓶颈或提升应用性能时使用。 | Profile and optimize Python code using cProfile, memory profilers, and performance best practices. Use when debugging slow Python code, optimizing bottlenecks, or improving application performance."
 risk: safe
 source: community
 date_added: "2026-02-27"

@@ -1,7 +1,7 @@
 ---
 name: seo-competitor-pages
 description: >
-  Generate SEO-optimized competitor comparison and alternatives pages. Covers
+  生成 SEO 优化的竞品对比页与替代品页面。涵盖「X vs Y」布局、「alternatives to X」页面、功能矩阵、schema 标记与转化优化。当用户说「comparison page」「vs page」「alternatives page」「competitor comparison」或「X vs Y」时使用。 |
   "X vs Y" layouts, "alternatives to X" pages, feature matrices, schema markup,
   and conversion optimization. Use when user says "comparison page", "vs page",
   "alternatives page", "competitor comparison", or "X vs Y".

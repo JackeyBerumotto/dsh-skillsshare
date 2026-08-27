@@ -1,6 +1,6 @@
 ---
 name: bilig-workpaper
-description: "Use formula-backed WorkPaper JSON and MCP tools for agent spreadsheet tasks without driving Excel or a browser UI."
+description: "使用由公式支撑的 WorkPaper JSON 和 MCP 工具完成智能体的电子表格任务，无需驱动 Excel 或浏览器 UI。 | Use formula-backed WorkPaper JSON and MCP tools for agent spreadsheet tasks without driving Excel or a browser UI."
 risk: critical
 source: community
 date_added: "2026-05-21"

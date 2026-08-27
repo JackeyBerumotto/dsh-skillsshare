@@ -1,6 +1,6 @@
 ---
 name: offer-letter
-description: "Draft a job offer — the written offer letter and a verbal-offer script. Use when asked to write an offer letter, a job offer, an employment offer, or to prepare to extend/verbal an offer to a candidate. Produces a clear, warm offer letter (role, comp, start, key terms, contingencies, acceptance) plus a verbal-offer call script — flagging that employment terms need HR/legal review. Not legal advice."
+description: "起草一份录用通知——书面 offer 信和口头 offer 话术。当被要求撰写 offer 信、录用通知、聘用要约，或准备向候选人发出/口头传达 offer 时使用。产出一封清晰而温暖的 offer 信（职位、薪酬、入职时间、关键条款、附加条件、接受方式）以及口头 offer 通话话术——并提示雇佣条款需经 HR/法律审核。不构成法律建议。 | Draft a job offer — the written offer letter and a verbal-offer script. Use when asked to write an offer letter, a job offer, an employment offer, or to prepare to extend/verbal an offer to a candidate. Produces a clear, warm offer letter (role, comp, start, key terms, contingencies, acceptance) plus a verbal-offer call script — flagging that employment terms need HR/legal review. Not legal advice."
 ---
 
 # Offer Letter Skill

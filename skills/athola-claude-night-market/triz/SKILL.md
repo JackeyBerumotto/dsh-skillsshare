@@ -1,6 +1,6 @@
 ---
 name: triz
-description: Applies TRIZ cross-domain analogical reasoning to find solutions from adjacent fields. Use when stuck on a problem and needing inventive perspectives.
+description: 运用 TRIZ 跨领域类比推理，从相邻领域寻找解决方案。当问题陷入僵局、需要创新视角时使用。 | Applies TRIZ cross-domain analogical reasoning to find solutions from adjacent fields. Use when stuck on a problem and needing inventive perspectives.
 alwaysApply: false
 category: research
 tags:

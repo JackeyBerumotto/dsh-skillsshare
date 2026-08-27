@@ -1,8 +1,6 @@
 ---
 name: implementing-saml-sso-with-okta
-description: Implement SAML 2.0 Single Sign-On (SSO) using Okta as the Identity Provider
-  (IdP). This skill covers end-to-end configuration of SAML authentication flows,
-  attribute mapping, certificate management, a
+description: "使用 Okta 作为身份提供方（IdP）实现 SAML 2.0 单点登录（SSO）。本技能涵盖 SAML 认证流程、属性映射、证书管理等端到端配置。 | Implement SAML 2.0 Single Sign-On (SSO) using Okta as the Identity Provider (IdP). This skill covers end-to-end configuration of SAML authentication flows, attribute mapping, certificate management, a"
 domain: cybersecurity
 subdomain: identity-access-management
 tags:

@@ -1,6 +1,6 @@
 ---
 name: shared-monorepo-nx
-description: Nx monorepo build system — workspace configuration, project graph, task pipelines, caching, generators, plugins, and release management
+description: Nx monorepo 构建系统——工作区配置、项目图、任务管道、缓存、生成器、插件和发布管理 | Nx monorepo build system — workspace configuration, project graph, task pipelines, caching, generators, plugins, and release management
 ---
 
 # Monorepo Orchestration with Nx

@@ -1,6 +1,6 @@
 ---
 name: framework-migration-code-migrate
-description: "You are a code migration expert specializing in transitioning codebases between frameworks, languages, versions, and platforms. Generate comprehensive migration plans, automated migration scripts, and"
+description: "你是代码迁移专家，专精在框架、语言、版本和平台之间迁移代码库。生成全面的迁移计划和自动化迁移脚本。 | You are a code migration expert specializing in transitioning codebases between frameworks, languages, versions, and platforms. Generate comprehensive migration plans, automated migration scripts, and"
 risk: safe
 source: community
 date_added: "2026-02-27"

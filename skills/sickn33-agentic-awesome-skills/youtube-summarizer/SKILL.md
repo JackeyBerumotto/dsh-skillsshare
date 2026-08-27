@@ -1,6 +1,6 @@
 ---
 name: youtube-summarizer
-description: "Extract transcripts from YouTube videos and generate comprehensive, detailed summaries using intelligent analysis frameworks"
+description: "从 YouTube 视频提取转录文本，并运用智能分析框架生成全面细致的摘要 | Extract transcripts from YouTube videos and generate comprehensive, detailed summaries using intelligent analysis frameworks"
 category: content
 risk: safe
 source: community

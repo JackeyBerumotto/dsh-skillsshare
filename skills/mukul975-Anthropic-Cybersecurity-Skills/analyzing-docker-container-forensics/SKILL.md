@@ -1,7 +1,6 @@
 ---
 name: analyzing-docker-container-forensics
-description: Investigate compromised Docker containers by analyzing images, layers,
-  volumes, logs, and runtime artifacts to identify malicious activity and evidence.
+description: "通过分析镜像、层、卷、日志和运行时痕迹调查被入侵的 Docker 容器，识别恶意活动和证据。 | Investigate compromised Docker containers by analyzing images, layers, volumes, logs, and runtime artifacts to identify malicious activity and evidence."
 domain: cybersecurity
 subdomain: digital-forensics
 tags:

@@ -1,13 +1,6 @@
 ---
 name: performing-plc-firmware-security-analysis
-description: 'This skill covers analyzing Programmable Logic Controller (PLC) firmware
-  for security vulnerabilities including hardcoded credentials, insecure update mechanisms,
-  backdoor functions, memory corruption flaws, and undocumented debug interfaces.
-  It addresses firmware extraction from common PLC platforms (Siemens S7, Allen-Bradley,
-  Schneider Modicon), static analysis of firmware images, dynamic analysis in emulated
-  environments, and comparison against known-good baselines to detect tampering.
-
-  '
+description: "本技能涵盖分析可编程逻辑控制器（PLC）固件的安全漏洞，包括硬编码凭据、不安全的更新机制、后门函数、内存损坏缺陷与未公开的调试接口。内容涉及从常见 PLC 平台（Siemens S7、Allen-Bradley、Schneider Modicon）提取固件、固件镜像静态分析、仿真环境中的动态分析，以及与已知良好基线比对以检测篡改。 | This skill covers analyzing Programmable Logic Controller (PLC) firmware for security vulnerabilities including hardcoded credentials, insecure update mechanisms, backdoor functions, memory corruption flaws, and undocumented debug interfaces. It addresses firmware extraction from common PLC platforms (Siemens S7, Allen-Bradley, Schneider Modicon), static analysis of firmware images, dynamic analysis in emulated environments, and comparison against known-good baselines to detect tampering."
 domain: cybersecurity
 subdomain: ot-ics-security
 tags:

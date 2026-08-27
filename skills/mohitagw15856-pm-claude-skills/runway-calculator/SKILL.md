@@ -1,6 +1,6 @@
 ---
 name: runway-calculator
-description: "Calculate cash runway, burn, and the zero-cash date — and whether you're default alive or dead. Use when asked to work out runway, monthly burn, when the money runs out, or how much to raise/cut to reach a target. Produces a computed runway summary (net burn, months of runway, zero-cash date, default alive/dead) plus what it takes to extend it."
+description: "计算现金跑道、消耗率和现金归零日期——以及你是默认存活还是默认死亡。当被要求测算跑道、月度消耗、资金何时耗尽，或需要筹集或削减多少才能达到目标时使用。产出计算好的跑道摘要（净消耗、跑道月数、现金归零日期、默认存活或死亡），以及延长跑道所需的方案。 | Calculate cash runway, burn, and the zero-cash date — and whether you're default alive or dead. Use when asked to work out runway, monthly burn, when the money runs out, or how much to raise/cut to reach a target. Produces a computed runway summary (net burn, months of runway, zero-cash date, default alive/dead) plus what it takes to extend it."
 ---
 
 # Runway Calculator Skill

@@ -1,6 +1,6 @@
 ---
 name: auto-research
-description: Research uncertain questions with an explicit, user-approved web search or ChatGPT consultation, then present options and wait for implementation approval.
+description: 通过明确且经用户批准的网络搜索或 ChatGPT 咨询来研究不确定的问题，然后呈现选项并等待实施批准。 | Research uncertain questions with an explicit, user-approved web search or ChatGPT consultation, then present options and wait for implementation approval.
 category: automation
 risk: critical
 source: self

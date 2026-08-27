@@ -1,6 +1,6 @@
 ---
 name: n8n-mcp-tools-expert
-description: Expert guide for using n8n-mcp MCP tools effectively. Use when searching for nodes, validating configurations, accessing templates, managing workflows, or using any n8n-mcp tool. Provides tool selection guidance, parameter formats, and common patterns.
+description: 高效使用 n8n-mcp MCP 工具的专家指南。在搜索节点、验证配置、访问模板、管理工作流或使用任何 n8n-mcp 工具时使用。提供工具选择指引、参数格式和常见模式。 | Expert guide for using n8n-mcp MCP tools effectively. Use when searching for nodes, validating configurations, accessing templates, managing workflows, or using any n8n-mcp tool. Provides tool selection guidance, parameter formats, and common patterns.
 risk: unknown
 source: community
 ---

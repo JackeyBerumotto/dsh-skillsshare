@@ -1,6 +1,6 @@
 ---
 name: SharePoint Automation
-description: "SharePoint Automation: manage sites, lists, documents, folders, pages, and search content across SharePoint and OneDrive"
+description: "SharePoint 自动化：跨 SharePoint 和 OneDrive 管理站点、列表、文档、文件夹、页面和搜索内容。 | SharePoint Automation: manage sites, lists, documents, folders, pages, and search content across SharePoint and OneDrive"
 requires:
   mcp: [rube]
 ---

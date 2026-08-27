@@ -1,6 +1,6 @@
 ---
 name: azure-identity-dotnet
-description: Azure Identity SDK for .NET. Authentication library for Azure SDK clients using Microsoft Entra ID. Use for DefaultAzureCredential, managed identity, service principals, and developer credentials.
+description: 适用于 .NET 的 Azure Identity SDK。供 Azure SDK 客户端使用 Microsoft Entra ID 的身份验证库。用于 DefaultAzureCredential、托管标识、服务主体和开发者凭据。 | Azure Identity SDK for .NET. Authentication library for Azure SDK clients using Microsoft Entra ID. Use for DefaultAzureCredential, managed identity, service principals, and developer credentials.
 risk: unknown
 source: community
 date_added: '2026-02-27'

@@ -1,14 +1,6 @@
 ---
 name: conducting-api-security-testing
-description: 'Conducts security testing of REST, GraphQL, and gRPC APIs to identify
-  vulnerabilities in authentication, authorization, rate limiting, input validation,
-  and business logic. The tester uses the OWASP API Security Top 10 as the testing
-  framework, combining Burp Suite interception with Postman collections and custom
-  scripts to test endpoint security at every privilege level. Activates for requests
-  involving API security testing, REST API pentest, GraphQL security assessment, or
-  API vulnerability testing.
-
-  '
+description: "对 REST、GraphQL 和 gRPC API 进行安全测试，识别身份验证、授权、速率限制、输入校验和业务逻辑中的漏洞。测试人员以 OWASP API Security Top 10 为测试框架，结合 Burp Suite 拦截、Postman 集合和自定义脚本，在每个权限级别测试端点安全。当请求涉及 API 安全测试、REST API 渗透测试、GraphQL 安全评估或 API 漏洞测试时激活。 | Conducts security testing of REST, GraphQL, and gRPC APIs to identify vulnerabilities in authentication, authorization, rate limiting, input validation, and business logic. The tester uses the OWASP API Security Top 10 as the testing framework, combining Burp Suite interception with Postman collections and custom scripts to test endpoint security at every privilege level. Activates for requests involving API security testing, REST API pentest, GraphQL security assessment, or API vulnerability testing."
 domain: cybersecurity
 subdomain: penetration-testing
 tags:

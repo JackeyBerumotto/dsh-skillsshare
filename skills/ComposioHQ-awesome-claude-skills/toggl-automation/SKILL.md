@@ -1,6 +1,6 @@
 ---
 name: Toggl Automation
-description: "Automate time tracking workflows in Toggl Track -- create time entries, manage projects, clients, tags, and workspaces through natural language commands."
+description: "在 Toggl Track 中自动化时间跟踪工作流——通过自然语言命令创建时间条目，管理项目、客户、标签与工作区。 | Automate time tracking workflows in Toggl Track -- create time entries, manage projects, clients, tags, and workspaces through natural language commands."
 requires:
   mcp:
     - rube

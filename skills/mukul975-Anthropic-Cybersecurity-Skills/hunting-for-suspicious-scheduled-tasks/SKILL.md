@@ -1,8 +1,6 @@
 ---
 name: hunting-for-suspicious-scheduled-tasks
-description: Hunt for adversary persistence and execution via Windows scheduled tasks
-  by analyzing task creation events, suspicious task properties, and unusual execution
-  patterns that indicate T1053.005 abuse.
+description: "通过分析任务创建事件、可疑任务属性以及表明 T1053.005 滥用的异常执行模式，狩猎攻击者通过 Windows 计划任务实现的持久化与执行。 | Hunt for adversary persistence and execution via Windows scheduled tasks by analyzing task creation events, suspicious task properties, and unusual execution patterns that indicate T1053.005 abuse."
 domain: cybersecurity
 subdomain: threat-hunting
 tags:

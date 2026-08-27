@@ -1,6 +1,6 @@
 ---
 name: test-scenarios
-description: "Create comprehensive test scenarios from user stories with test objectives, starting conditions, user roles, step-by-step actions, and expected outcomes. Use when writing QA test cases, creating test plans, defining acceptance tests, or preparing for feature validation."
+description: "从用户故事创建全面的测试场景，包含测试目标、起始条件、用户角色、分步操作和预期结果。当编写 QA 测试用例、创建测试计划、定义验收测试或准备功能验证时使用。 | Create comprehensive test scenarios from user stories with test objectives, starting conditions, user roles, step-by-step actions, and expected outcomes. Use when writing QA test cases, creating test plans, defining acceptance tests, or preparing for feature validation."
 ---
 # Test Scenarios
 

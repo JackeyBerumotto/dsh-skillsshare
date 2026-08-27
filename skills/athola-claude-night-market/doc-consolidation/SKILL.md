@@ -1,6 +1,6 @@
 ---
 name: doc-consolidation
-description: Merges ephemeral report and analysis artifacts into permanent documentation. Use when LLM-generated markdown files have accumulated and need consolidation.
+description: 把临时的报告与分析工件合并为永久文档。当 LLM 生成的 markdown 文件不断累积、需要整合时使用。 | Merges ephemeral report and analysis artifacts into permanent documentation. Use when LLM-generated markdown files have accumulated and need consolidation.
 globs: "**/*.md"
 alwaysApply: false
 category: documentation

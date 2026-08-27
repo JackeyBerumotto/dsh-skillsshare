@@ -1,6 +1,6 @@
 ---
 name: api-baas-neon
-description: Serverless PostgreSQL with branching, autoscaling, and edge-compatible driver
+description: 无服务器 PostgreSQL，支持分支、自动扩缩容和边缘兼容驱动。 | Serverless PostgreSQL with branching, autoscaling, and edge-compatible driver
 ---
 
 # Neon Serverless PostgreSQL Patterns

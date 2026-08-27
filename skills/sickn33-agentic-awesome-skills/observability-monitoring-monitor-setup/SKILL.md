@@ -1,6 +1,6 @@
 ---
 name: observability-monitoring-monitor-setup
-description: "You are a monitoring and observability expert specializing in implementing comprehensive monitoring solutions. Set up metrics collection, distributed tracing, log aggregation, and create insightful da"
+description: "你是监控与可观测性专家，专精实施全面的监控方案。搭建指标采集、分布式追踪和日志聚合，并创建富有洞察力的仪表盘。 | You are a monitoring and observability expert specializing in implementing comprehensive monitoring solutions. Set up metrics collection, distributed tracing, log aggregation, and create insightful da"
 risk: unknown
 source: community
 date_added: "2026-02-27"

@@ -1,7 +1,7 @@
 ---
 name: bevy-ecs
 description: >
-  Structure a Bevy app around its Entity Component System: build the App with
+  围绕 Bevy 的 Entity Component System 构建 Bevy 应用：用插件组装 App、定义 Component/Resource 类型、使用 Query/Res/Commands 编写系统、对系统进行过滤和排序，并利用 Time 资源实现与帧率无关的运动。在用 Rust 构建或调试 Bevy 游戏时使用——当用户提到 Bevy、ECS、App::new、add_systems、Query、Commands、components/systems，或依赖 bevy 的 Cargo.toml 时。 |
   plugins, define Component/Resource types, write systems with Query/Res/Commands,
   filter and order systems, and use the Time resource for frame-rate-independent
   motion. Use when building or debugging a Bevy game in Rust — when the user

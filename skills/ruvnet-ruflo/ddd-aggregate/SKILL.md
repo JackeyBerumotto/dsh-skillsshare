@@ -1,6 +1,6 @@
 ---
 name: ddd-aggregate
-description: Scaffold an aggregate root with entity, value objects, repository interface, domain events, and test stubs. Use when adding a new aggregate to an existing bounded context, modeling a new business concept that owns invariants, or generating the boilerplate for an entity + repo + events triplet.
+description: 脚手架生成聚合根，包含实体、值对象、仓储接口、领域事件和测试桩。当向现有限界上下文添加新聚合、建模拥有不变量的新业务概念，或生成「实体+仓储+事件」三件套样板代码时使用。 | Scaffold an aggregate root with entity, value objects, repository interface, domain events, and test stubs. Use when adding a new aggregate to an existing bounded context, modeling a new business concept that owns invariants, or generating the boilerplate for an entity + repo + events triplet.
 argument-hint: "<context> <aggregate-name>"
 allowed-tools: Bash Read Write Edit Grep Glob mcp__claude-flow__memory_store mcp__claude-flow__memory_search mcp__claude-flow__agentdb_hierarchical-store mcp__claude-flow__hooks_pre-task mcp__claude-flow__hooks_post-task
 ---

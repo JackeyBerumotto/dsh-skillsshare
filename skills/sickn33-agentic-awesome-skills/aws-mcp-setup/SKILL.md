@@ -1,6 +1,6 @@
 ---
 name: aws-mcp-setup
-description: Configure AWS MCP servers for documentation search and API access. Use when setting up AWS MCP, configuring AWS documentation tools, troubleshooting MCP connectivity, or when user mentions aws-mcp, awsdocs, uvx setup, or MCP server configuration. Covers both Full AWS MCP Server (with...
+description: 配置 AWS MCP 服务器以进行文档搜索和 API 访问。在搭建 AWS MCP、配置 AWS 文档工具、排查 MCP 连接问题，或用户提到 aws-mcp、awsdocs、uvx 安装或 MCP 服务器配置时使用。同时覆盖完整版 AWS MCP Server（含……）等内容。 | Configure AWS MCP servers for documentation search and API access. Use when setting up AWS MCP, configuring AWS documentation tools, troubleshooting MCP connectivity, or when user mentions aws-mcp, awsdocs, uvx setup, or MCP server configuration. Covers both Full AWS MCP Server (with...
 risk: unknown
 source: https://github.com/zxkane/aws-skills/tree/main/plugins/aws-common/skills/aws-mcp-setup
 source_repo: zxkane/aws-skills

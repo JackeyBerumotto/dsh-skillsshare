@@ -1,6 +1,6 @@
 ---
 name: social-media-strategy
-description: "Build a social media strategy for a brand, product, or creator. Use when asked to create a social media strategy, define a social content strategy, plan content pillars, set social KPIs, or build a posting framework. Produces a complete strategy with audience definition, platform selection, content pillars, posting cadence, KPIs, and a 4-week starter calendar."
+description: "为品牌、产品或创作者构建社交媒体策略。当被要求创建社交媒体策略、制定社交内容策略、规划内容支柱、设定社交 KPI，或搭建发布框架时使用。产出完整策略，包含受众定义、平台选择、内容支柱、发布节奏、KPI，以及 4 周起步日历。 | Build a social media strategy for a brand, product, or creator. Use when asked to create a social media strategy, define a social content strategy, plan content pillars, set social KPIs, or build a posting framework. Produces a complete strategy with audience definition, platform selection, content pillars, posting cadence, KPIs, and a 4-week starter calendar."
 ---
 
 # Social Media Strategy Skill

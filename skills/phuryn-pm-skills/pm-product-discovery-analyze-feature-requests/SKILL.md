@@ -1,6 +1,6 @@
 ---
 name: analyze-feature-requests
-description: "Analyze and prioritize a list of feature requests by theme, strategic alignment, impact, effort, and risk. Use when reviewing customer feature requests, triaging a backlog, or making prioritization decisions."
+description: "按主题、战略契合度、影响力、工作量和风险对功能请求列表进行分析与排序。在评审客户功能请求、对待办事项分诊，或进行优先级决策时使用。 | Analyze and prioritize a list of feature requests by theme, strategic alignment, impact, effort, and risk. Use when reviewing customer feature requests, triaging a backlog, or making prioritization decisions."
 ---
 
 ## Analyze Feature Requests

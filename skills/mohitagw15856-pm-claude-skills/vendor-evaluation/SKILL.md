@@ -1,6 +1,6 @@
 ---
 name: vendor-evaluation
-description: "Create a structured vendor evaluation framework for any procurement decision. Use when asked to evaluate vendors, compare suppliers, run an RFP scoring process, or assess a software or service provider. Produces a weighted scorecard, evaluation criteria, and recommendation framework."
+description: "为任意采购决策创建结构化的供应商评估框架。当被要求评估供应商、比较供货商、执行 RFP 评分流程，或评估软件或服务提供商时使用。产出加权评分卡、评估标准和推荐框架。 | Create a structured vendor evaluation framework for any procurement decision. Use when asked to evaluate vendors, compare suppliers, run an RFP scoring process, or assess a software or service provider. Produces a weighted scorecard, evaluation criteria, and recommendation framework."
 ---
 
 # Vendor Evaluation Skill

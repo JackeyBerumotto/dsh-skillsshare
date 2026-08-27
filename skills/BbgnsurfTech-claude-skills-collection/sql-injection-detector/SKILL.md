@@ -1,7 +1,7 @@
 ---
 name: detecting-sql-injection-vulnerabilities
 description: |
-  Detect and analyze SQL injection vulnerabilities in application code and database queries.
+  检测并分析应用代码和数据库查询中的 SQL 注入漏洞。当需要扫描代码中的 SQL 注入风险、审查查询构造、校验输入过滤或实现安全查询模式时使用。触发短语如「detect SQL injection」「scan for SQLi vulnerabilities」「review database queries」或「check SQL security」。 |
   Use when you need to scan code for SQL injection risks, review query construction, validate input sanitization, or implement secure query patterns.
   Trigger with phrases like "detect SQL injection", "scan for SQLi vulnerabilities", "review database queries", or "check SQL security".
 allowed-tools:

@@ -1,6 +1,6 @@
 ---
 name: project-execution
-description: Executes implementation plans with progress tracking, checkpoint validation, and quality gates. Use after planning is complete and tasks are ready to implement.
+description: 执行实施计划，附带进度跟踪、检查点验证和质量门禁。在规划完成且任务可以开始实现时使用。 | Executes implementation plans with progress tracking, checkpoint validation, and quality gates. Use after planning is complete and tasks are ready to implement.
 alwaysApply: false
 # Custom metadata (not used by Claude for matching):
 model_preference: claude-sonnet-4-6

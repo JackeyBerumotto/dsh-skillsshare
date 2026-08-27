@@ -1,6 +1,6 @@
 ---
 name: i18n-readiness-review
-description: "Review a product/codebase for internationalization readiness before you localize. Use when asked if a product is ready to localize, to review i18n readiness, find hard-coded strings/locale bugs, or prep for going multilingual. Produces a readiness audit — externalized strings, locale-aware formatting, layout/expansion, encoding/RTL, and a prioritised list of i18n fixes to make before translation starts."
+description: "在本地化之前审查产品/代码库的国际化就绪度。当被问及产品是否可以本地化、要求评估 i18n 就绪度、查找硬编码字符串/区域设置缺陷，或为多语言化做准备时使用。产出就绪度审计——字符串外置、区域感知格式化、布局/文本膨胀、编码/RTL，以及翻译开始前需完成的按优先级排序的 i18n 修复清单。 | Review a product/codebase for internationalization readiness before you localize. Use when asked if a product is ready to localize, to review i18n readiness, find hard-coded strings/locale bugs, or prep for going multilingual. Produces a readiness audit — externalized strings, locale-aware formatting, layout/expansion, encoding/RTL, and a prioritised list of i18n fixes to make before translation starts."
 ---
 
 # i18n Readiness Review Skill

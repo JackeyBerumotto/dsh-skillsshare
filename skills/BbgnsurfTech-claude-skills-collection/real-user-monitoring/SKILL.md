@@ -1,6 +1,6 @@
 ---
 name: implementing-real-user-monitoring
-description: Implement Real User Monitoring (RUM) to capture actual user performance data including Core Web Vitals and page load times. Use when setting up user experience monitoring or tracking custom performance events. Trigger with phrases like "setup RUM", "track Core Web Vitals", or "monitor real user performance".
+description: 实现实用户监控（RUM）以捕获真实用户性能数据，包括 Core Web Vitals 和页面加载时间。在设置用户体验监控或跟踪自定义性能事件时使用。触发短语如「setup RUM」、「track Core Web Vitals」或「monitor real user performance」。 | Implement Real User Monitoring (RUM) to capture actual user performance data including Core Web Vitals and page load times. Use when setting up user experience monitoring or tracking custom performance events. Trigger with phrases like "setup RUM", "track Core Web Vitals", or "monitor real user performance".
 version: 1.0.0
 allowed-tools:
 - Read

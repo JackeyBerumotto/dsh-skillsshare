@@ -1,6 +1,6 @@
 ---
 name: safety-scan
-description: Scan inputs for prompt injection, unsafe content, and adversarial attacks using AIDefence. Use when processing untrusted input (user submissions, API payloads, webhook data, tool outputs) before passing it to a model or executing it.
+description: 使用 AIDefence 扫描输入中的提示注入、不安全内容和对抗攻击。在将不可信输入（用户提交、API 载荷、webhook 数据、工具输出）传递给模型或执行之前进行处理时使用。 | Scan inputs for prompt injection, unsafe content, and adversarial attacks using AIDefence. Use when processing untrusted input (user submissions, API payloads, webhook data, tool outputs) before passing it to a model or executing it.
 argument-hint: "<input-text>"
 allowed-tools: mcp__claude-flow__aidefence_scan mcp__claude-flow__aidefence_analyze mcp__claude-flow__aidefence_is_safe mcp__claude-flow__aidefence_learn mcp__claude-flow__aidefence_stats Bash
 ---

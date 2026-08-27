@@ -1,6 +1,6 @@
 ---
 name: web-realtime-websockets
-description: Native WebSocket API patterns, connection lifecycle, reconnection strategies, heartbeat, message typing, binary data, custom hooks
+description: 原生 WebSocket API 模式、连接生命周期、重连策略、心跳、消息类型定义、二进制数据、自定义 hooks | Native WebSocket API patterns, connection lifecycle, reconnection strategies, heartbeat, message typing, binary data, custom hooks
 ---
 
 # WebSocket Real-Time Communication Patterns
