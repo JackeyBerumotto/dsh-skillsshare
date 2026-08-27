@@ -1,6 +1,6 @@
 ---
 name: database-lookup
-description: Query documented public database APIs with explicit endpoints, filters, pagination, and provenance. Use when a scientific, regulatory, financial, or other database-backed fact must be retrieved reproducibly from a named source rather than inferred from general knowledge.
+description: 查询有明确端点、过滤、分页和来源说明的已文档化公共数据库 API。当需要以可复现的方式从具名来源（而非从通用知识推断）获取科学、监管、金融或其他基于数据库的事实时使用。 | Query documented public database APIs with explicit endpoints, filters, pagination, and provenance. Use when a scientific, regulatory, financial, or other database-backed fact must be retrieved reproducibly from a named source rather than inferred from general knowledge.
 allowed-tools: Read Bash
 license: MIT
 metadata:

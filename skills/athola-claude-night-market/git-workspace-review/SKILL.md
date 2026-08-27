@@ -1,6 +1,6 @@
 ---
 name: git-workspace-review
-description: Verifies workspace state and staged changes as a read-only preflight. Use before commits or PRs to confirm staged set is clean and correct.
+description: 以只读预检方式核查工作区状态和已暂存变更。在提交或提 PR 之前使用，以确认暂存内容干净且正确。 | Verifies workspace state and staged changes as a read-only preflight. Use before commits or PRs to confirm staged set is clean and correct.
 alwaysApply: false
 category: workspace-ops
 tags:

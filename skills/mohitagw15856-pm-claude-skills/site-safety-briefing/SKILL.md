@@ -1,6 +1,6 @@
 ---
 name: site-safety-briefing
-description: "Produce a toolbox talk or pre-task safety briefing from the day's planned construction work. Use when asked to write a toolbox talk, prepare a pre-task plan or JHA/JSA briefing, brief a crew on today's hazards, or plan safety for a specific task like a crane pick, excavation, or hot work. Produces a crew-ready briefing with task-specific hazards, controls ordered by the hierarchy of controls, required permits, and explicit stop-work triggers."
+description: "根据当天计划施工作业产出工具箱会议或任务前安全交底。当被要求撰写工具箱会议、准备任务前计划或 JHA/JSA 交底、向班组讲解当日危险源，或为吊装、开挖、动火等具体任务规划安全时使用。产出可直接向班组交底的内容，包含任务特定危险源、按控制层级排序的管控措施、所需许可和明确的停工触发条件。 | Produce a toolbox talk or pre-task safety briefing from the day's planned construction work. Use when asked to write a toolbox talk, prepare a pre-task plan or JHA/JSA briefing, brief a crew on today's hazards, or plan safety for a specific task like a crane pick, excavation, or hot work. Produces a crew-ready briefing with task-specific hazards, controls ordered by the hierarchy of controls, required permits, and explicit stop-work triggers."
 ---
 
 # Site Safety Briefing Skill

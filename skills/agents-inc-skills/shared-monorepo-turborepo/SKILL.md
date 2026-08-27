@@ -1,6 +1,6 @@
 ---
 name: shared-monorepo-turborepo
-description: Turborepo, workspaces, package architecture, @repo/* naming, exports, tree-shaking
+description: Turborepo、workspaces、包架构、@repo/* 命名、导出、tree-shaking。 | Turborepo, workspaces, package architecture, @repo/* naming, exports, tree-shaking
 ---
 
 # Monorepo Orchestration with Turborepo

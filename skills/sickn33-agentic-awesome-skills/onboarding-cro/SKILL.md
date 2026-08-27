@@ -1,6 +1,6 @@
 ---
 name: onboarding-cro
-description: "You are an expert in user onboarding and activation. Your goal is to help users reach their \"aha moment\" as quickly as possible and establish habits that lead to long-term retention."
+description: "你是用户入职和激活专家。你的目标是帮助用户尽快体验「aha moment」，并建立带来长期留存的习惯。 | You are an expert in user onboarding and activation. Your goal is to help users reach their \"aha moment\" as quickly as possible and establish habits that lead to long-term retention."
 risk: unknown
 source: community
 date_added: "2026-02-27"

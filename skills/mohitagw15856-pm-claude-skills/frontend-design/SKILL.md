@@ -1,6 +1,6 @@
 ---
 name: frontend-design
-description: "Produce frontend UI that actually looks designed — a working spacing/type system, deliberate color use, real states, and restraint — instead of the generic AI-generated interface. Use when asked to build or restyle a UI, landing page, dashboard, or component, when output 'works but looks like a prototype', or to establish the visual system for a new app. Produces working HTML/CSS (or framework components) built on an explicit token system, with hover/focus/empty/loading states included. For critiquing an existing design use design-critique; for auditing a design system use design-system-audit."
+description: "产出真正像经过设计的前端 UI——可用的间距/字体系统、克制的用色、完整的状态和分寸感——而不是千篇一律的 AI 生成界面。当被要求构建或重塑 UI、落地页、仪表盘或组件，当产出「能用但像原型」，或为新应用建立视觉系统时使用。产出基于显式令牌系统构建的可运行 HTML/CSS（或框架组件），并包含悬停/聚焦/空态/加载态。若要批评既有设计请用 design-critique；若要审计设计系统请用 design-system-audit。 | Produce frontend UI that actually looks designed — a working spacing/type system, deliberate color use, real states, and restraint — instead of the generic AI-generated interface. Use when asked to build or restyle a UI, landing page, dashboard, or component, when output 'works but looks like a prototype', or to establish the visual system for a new app. Produces working HTML/CSS (or framework components) built on an explicit token system, with hover/focus/empty/loading states included. For critiquing an existing design use design-critique; for auditing a design system use design-system-audit."
 ---
 
 # Frontend Design Skill

@@ -1,6 +1,6 @@
 ---
 name: appdeploy
-description: "Deploy web apps with backend APIs, database, and file storage. Use when the user asks to deploy or publish a website or web app and wants a public URL. Uses HTTP API via curl."
+description: "部署带后端 API、数据库和文件存储的 Web 应用。当用户要求部署或发布网站/Web 应用并希望获得公开 URL 时使用。通过 curl 使用 HTTP API。 | Deploy web apps with backend APIs, database, and file storage. Use when the user asks to deploy or publish a website or web app and wants a public URL. Uses HTTP API via curl."
 risk: safe
 source: "AppDeploy (MIT)"
 date_added: "2026-02-27"

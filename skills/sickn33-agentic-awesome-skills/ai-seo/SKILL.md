@@ -1,6 +1,6 @@
 ---
 name: ai-seo
-description: "Optimize content for AI search and LLM citations across AI Overviews, ChatGPT, Perplexity, Claude, Gemini, and similar systems. Use when improving AI visibility, answer engine optimization, or citation readiness."
+description: "针对 AI Overviews、ChatGPT、Perplexity、Claude、Gemini 等系统，优化内容的 AI 搜索表现和 LLM 引用。在提升 AI 可见性、进行答案引擎优化或提高引用就绪度时使用。 | Optimize content for AI search and LLM citations across AI Overviews, ChatGPT, Perplexity, Claude, Gemini, and similar systems. Use when improving AI visibility, answer engine optimization, or citation readiness."
 risk: unknown
 source: "https://github.com/coreyhaines31/marketingskills"
 date_added: "2026-03-21"

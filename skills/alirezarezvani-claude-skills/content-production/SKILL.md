@@ -1,6 +1,6 @@
 ---
 name: "content-production"
-description: "Full content production pipeline — takes a topic from blank page to published-ready piece. Use when you need to execute content: write a blog post, article, or guide end-to-end. Triggers: 'write a post about', 'draft an article', 'create content for', 'help me write', 'I need a blog post'. NOT for content strategy or calendar planning (use content-strategy). NOT for repurposing existing content (use content-repurposing). NOT for social captions only."
+description: "完整内容生产流水线——把一个主题从空白页带到可发布成品。在需要落地执行内容时使用：端到端撰写博文、文章或指南。触发词：「write a post about」「draft an article」「create content for」「help me write」「I need a blog post」。不用于内容策略或日历规划（用 content-strategy）。不用于现有内容再利用（用 content-repurposing）。不用于仅写社交文案。 | Full content production pipeline — takes a topic from blank page to published-ready piece. Use when you need to execute content: write a blog post, article, or guide end-to-end. Triggers: 'write a post about', 'draft an article', 'create content for', 'help me write', 'I need a blog post'. NOT for content strategy or calendar planning (use content-strategy). NOT for repurposing existing content (use content-repurposing). NOT for social captions only."
 license: MIT
 metadata:
   version: 1.0.0

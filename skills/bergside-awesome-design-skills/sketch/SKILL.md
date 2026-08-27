@@ -1,6 +1,6 @@
 ---
 name: "sketch"
-description: "A friendly, hand-drawn sketch interface inspired by pencil illustrations on warm cream paper. Soft teal brand accents, hand-written display headings, rounded pill controls."
+description: "受暖奶油色纸张上铅笔插画启发的友好手绘素描风格界面：柔和的鸭绿色品牌点缀、手写体展示标题、圆角胶囊控件。 | A friendly, hand-drawn sketch interface inspired by pencil illustrations on warm cream paper. Soft teal brand accents, hand-written display headings, rounded pill controls."
 metadata:
   author: typeui.sh
 ---

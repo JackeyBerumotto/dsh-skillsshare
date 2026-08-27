@@ -1,7 +1,7 @@
 ---
 name: caveman
 description: >
-  Ultra-compressed communication mode. Cuts output tokens 65% (measured) by speaking like caveman
+  超压缩沟通模式。以穴居人方式说话，在保持完整技术准确性的同时减少 65%（实测）的输出令牌。支持强度等级：lite、full（默认）、ultra、wenyan-lite、wenyan-full、wenyan-ultra。当用户说「caveman mode」「talk like caveman」「use caveman」「less tokens」「be brief」或调用 /caveman 时使用。请求令牌效率时也会自动触发。 |
   while keeping full technical accuracy. Supports intensity levels: lite, full (default), ultra,
   wenyan-lite, wenyan-full, wenyan-ultra.
   Use when user says "caveman mode", "talk like caveman", "use caveman", "less tokens",

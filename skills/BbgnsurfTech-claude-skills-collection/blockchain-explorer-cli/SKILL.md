@@ -2,7 +2,7 @@
 name: exploring-blockchain-data
 version: 1.0.0
 description: |
-  Query and analyze blockchain data including blocks, transactions, and smart contracts.
+  查询并分析区块链数据，包括区块、交易和智能合约。在查询区块链数据和交易时使用。触发短语如「explore blockchain」「query transactions」或「check on-chain data」。 |
   Use when querying blockchain data and transactions.
   Trigger with phrases like "explore blockchain", "query transactions", or "check on-chain data".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(crypto:explorer-*)

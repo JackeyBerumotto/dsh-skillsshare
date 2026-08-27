@@ -1,6 +1,6 @@
 ---
 name: occupational-health-analyzer
-description: 分析职业健康数据、识别工作相关健康风险、评估职业健康状况、提供个性化职业健康建议。支持与睡眠、运动、心理健康等其他健康数据的关联分析。
+description: 分析职业健康数据、识别工作相关健康风险、评估职业健康状况、提供个性化职业健康建议。支持与睡眠、运动、心理健康等其他健康数据的关联分析。 | Analyze occupational health data, identify work-related health risks, assess occupational health status, and provide personalized occupational health recommendations. Supports correlation analysis with other health data such as sleep, exercise, and mental health.
 allowed-tools: Read, Grep, Glob, Write, Edit
 risk: unknown
 source: community

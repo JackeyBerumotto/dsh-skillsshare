@@ -1,6 +1,6 @@
 ---
 name: xss-html-injection
-description: "Execute comprehensive client-side injection vulnerability assessments on web applications to identify XSS and HTML injection flaws, demonstrate exploitation techniques for session hijacking and credential theft, and validate input sanitization and output encoding mechanisms."
+description: "对 Web 应用执行全面的客户端注入漏洞评估，识别 XSS 和 HTML 注入缺陷、演示会话劫持和凭据窃取的利用技术，并验证输入净化与输出编码机制。 | Execute comprehensive client-side injection vulnerability assessments on web applications to identify XSS and HTML injection flaws, demonstrate exploitation techniques for session hijacking and credential theft, and validate input sanitization and output encoding mechanisms."
 risk: offensive
 source: community
 author: zebbern

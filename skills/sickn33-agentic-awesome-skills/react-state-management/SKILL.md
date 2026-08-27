@@ -1,6 +1,6 @@
 ---
 name: react-state-management
-description: "Master modern React state management with Redux Toolkit, Zustand, Jotai, and React Query. Use when setting up global state, managing server state, or choosing between state management solutions."
+description: "掌握现代 React 状态管理，运用 Redux Toolkit、Zustand、Jotai 与 React Query。在设置全局状态、管理服务器状态或在状态管理方案之间做选择时使用。 | Master modern React state management with Redux Toolkit, Zustand, Jotai, and React Query. Use when setting up global state, managing server state, or choosing between state management solutions."
 risk: unknown
 source: community
 date_added: "2026-02-27"

@@ -1,6 +1,6 @@
 ---
 name: hardware-prd
-description: "Write a PRD for a physical hardware product — target cost (BOM and landed), industrial design constraints, regulatory certifications, reliability targets, serviceability, packaging, and forecast assumptions. Use when asked to write a hardware PRD, spec a new device, define requirements for a physical product, or kick off an NPI program. Produces a complete hardware PRD with a cost stack, cert matrix, reliability spec, and EVT/DVT/PVT milestone targets."
+description: "为实体硬件产品撰写 PRD——目标成本（BOM 与到岸成本）、工业设计约束、法规认证、可靠性目标、可维修性、包装和销量预测假设。在被要求编写硬件 PRD、为新设备做规格定义、为实体产品定义需求或启动 NPI 项目时使用。产出包含成本结构、认证矩阵、可靠性规格和 EVT/DVT/PVT 里程碑目标的完整硬件 PRD。 | Write a PRD for a physical hardware product — target cost (BOM and landed), industrial design constraints, regulatory certifications, reliability targets, serviceability, packaging, and forecast assumptions. Use when asked to write a hardware PRD, spec a new device, define requirements for a physical product, or kick off an NPI program. Produces a complete hardware PRD with a cost stack, cert matrix, reliability spec, and EVT/DVT/PVT milestone targets."
 ---
 
 # Hardware PRD Skill

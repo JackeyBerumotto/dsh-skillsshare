@@ -1,6 +1,6 @@
 ---
 name: mobile-animation-gesture-handler
-description: React Native Gesture Handler - gesture types, GestureDetector, gesture composition, state machine, platform-specific gestures, swipeable rows, hover gestures
+description: React Native Gesture Handler：手势类型、GestureDetector、手势组合、状态机、平台专属手势、可滑动行、悬停手势。 | React Native Gesture Handler - gesture types, GestureDetector, gesture composition, state machine, platform-specific gestures, swipeable rows, hover gestures
 ---
 
 # React Native Gesture Handler Patterns

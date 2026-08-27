@@ -1,7 +1,7 @@
 ---
 name: makepad-splash
 description: |
-  CRITICAL: Use for Makepad Splash scripting language. Triggers on:
+  关键：用于 Makepad Splash 脚本语言。触发词：splash language、makepad script、makepad scripting、script!、cx.eval、makepad dynamic、makepad AI、splash 语言、makepad 脚本 |
   splash language, makepad script, makepad scripting, script!, cx.eval,
   makepad dynamic, makepad AI, splash 语言, makepad 脚本
 risk: unknown

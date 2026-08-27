@@ -1,6 +1,6 @@
 ---
 name: shared-patterns
-description: 'Provide reusable patterns for validation, error handling, scaffolding. Use for skill consistency.'
+description: '提供可复用的校验、错误处理和脚手架模式。用于保持技能的一致性。 | Provide reusable patterns for validation, error handling, scaffolding. Use for skill consistency.'
 alwaysApply: false
 category: meta-infrastructure
 tags:

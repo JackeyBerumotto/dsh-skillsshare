@@ -1,6 +1,6 @@
 ---
 name: config-gc
-description: Garbage collection for your Claude Code configuration. Periodically scans ~/.claude (skills, memory, hooks, permissions, MCP servers, caches) for redundant, stale, orphaned, or low-value items, then walks the user through a confirm-each-deletion cleanup. Use when the user says "clean up my config", "config GC", "too many skills", "audit my setup", "my .claude is bloated", or asks for a periodic config review.
+description: Claude Code 配置的垃圾回收。定期扫描 ~/.claude（技能、记忆、hooks、权限、MCP 服务器、缓存）找出冗余、过期、孤立或低价值条目，然后引导用户逐项确认后再清理。当用户说「clean up my config」「config GC」「too many skills」「audit my setup」「my .claude is bloated」，或要求定期配置审查时使用。 | Garbage collection for your Claude Code configuration. Periodically scans ~/.claude (skills, memory, hooks, permissions, MCP servers, caches) for redundant, stale, orphaned, or low-value items, then walks the user through a confirm-each-deletion cleanup. Use when the user says "clean up my config", "config GC", "too many skills", "audit my setup", "my .claude is bloated", or asks for a periodic config review.
 metadata:
   origin: ECC
 ---

@@ -1,6 +1,6 @@
 ---
 name: offensive-wpa-enterprise
-description: "WPA/WPA2/WPA3-Enterprise (802.1X / EAP) attack methodology — EAP method identification (PEAP-MSCHAPv2, EAP-TTLS, EAP-TLS, EAP-GTC, EAP-PWD, EAP-FAST), evil-twin RADIUS attacks with eaphammer for credential capture, MSCHAPv2 challenge-response cracking, EAP-TLS client certificate theft paths (DPAPI, NDES, AD CS auto-enrollment), supplicant validation bypass (missing server cert validation, missing CN pinning, BYOD misconfigurations), and post-capture pivots into AD via cracked domain credentials. Use for corporate Wi-Fi engagements where the network is 802.1X authenticated."
+description: "WPA/WPA2/WPA3-Enterprise（802.1X/EAP）攻击方法论——EAP 方法识别（PEAP-MSCHAPv2、EAP-TTLS、EAP-TLS、EAP-GTC、EAP-PWD、EAP-FAST）、用 eaphammer 搭建邪恶双子 RADIUS 攻击以捕获凭据、MSCHAPv2 挑战-响应破解、EAP-TLS 客户端证书窃取路径（DPAPI、NDES、AD CS 自动注册）、请求方验证绕过（缺少服务器证书验证、缺少 CN 固定、BYOD 配置不当），以及利用破解出的域凭据横向打入 AD 的后续动作。适用于网络采用 802.1X 认证的企业 Wi-Fi 项目。 | WPA/WPA2/WPA3-Enterprise (802.1X / EAP) attack methodology — EAP method identification (PEAP-MSCHAPv2, EAP-TTLS, EAP-TLS, EAP-GTC, EAP-PWD, EAP-FAST), evil-twin RADIUS attacks with eaphammer for credential capture, MSCHAPv2 challenge-response cracking, EAP-TLS client certificate theft paths (DPAPI, NDES, AD CS auto-enrollment), supplicant validation bypass (missing server cert validation, missing CN pinning, BYOD misconfigurations), and post-capture pivots into AD via cracked domain credentials. Use for corporate Wi-Fi engagements where the network is 802.1X authenticated."
 ---
 
 # WPA-Enterprise (802.1X / EAP) Attacks

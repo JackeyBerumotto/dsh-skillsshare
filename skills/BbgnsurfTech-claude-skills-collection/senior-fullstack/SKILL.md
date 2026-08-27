@@ -1,6 +1,6 @@
 ---
 name: senior-fullstack
-description: Comprehensive fullstack development skill for building complete web applications with React, Next.js, Node.js, GraphQL, and PostgreSQL. Includes project scaffolding, code quality analysis, architecture patterns, and complete tech stack guidance. Use when building new projects, analyzing code quality, implementing design patterns, or setting up development workflows.
+description: 使用 React、Next.js、Node.js、GraphQL 和 PostgreSQL 构建完整 Web 应用的综合全栈开发技能。包括项目脚手架、代码质量分析、架构模式和完整技术栈指导。在构建新项目、分析代码质量、实现设计模式或搭建开发工作流时使用。 | Comprehensive fullstack development skill for building complete web applications with React, Next.js, Node.js, GraphQL, and PostgreSQL. Includes project scaffolding, code quality analysis, architecture patterns, and complete tech stack guidance. Use when building new projects, analyzing code quality, implementing design patterns, or setting up development workflows.
 ---
 
 # Senior Fullstack

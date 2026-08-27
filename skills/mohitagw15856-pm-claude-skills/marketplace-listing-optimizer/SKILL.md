@@ -1,6 +1,6 @@
 ---
 name: marketplace-listing-optimizer
-description: "Audit and optimize a marketplace listing (Amazon, Etsy, eBay, Walmart) to rank and convert. Use when asked to optimize an Amazon/Etsy listing, improve marketplace SEO, fix a product listing that isn't selling, or write keyword-rich titles and bullets. Produces a prioritised optimization — title, bullets, backend keywords, A+/description, images plan, and conversion fixes — mapped to how that marketplace ranks and shoppers decide."
+description: "审计并优化电商平台（Amazon、Etsy、eBay、Walmart）的商品 listing，以提升排名和转化。当被要求优化 Amazon/Etsy listing、改进电商平台 SEO、修复滞销的商品 listing 或撰写关键词丰富的标题与卖点时使用。产出按优先级排序的优化方案——标题、卖点、后台关键词、A+/描述、图片规划以及转化修复——并与该平台的排名机制和购物者决策方式相对应。 | Audit and optimize a marketplace listing (Amazon, Etsy, eBay, Walmart) to rank and convert. Use when asked to optimize an Amazon/Etsy listing, improve marketplace SEO, fix a product listing that isn't selling, or write keyword-rich titles and bullets. Produces a prioritised optimization — title, bullets, backend keywords, A+/description, images plan, and conversion fixes — mapped to how that marketplace ranks and shoppers decide."
 ---
 
 # Marketplace Listing Optimizer Skill

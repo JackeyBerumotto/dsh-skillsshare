@@ -1,6 +1,6 @@
 ---
 name: assumption-mapper
-description: "Extract and risk-rate hidden assumptions in a product brief or PRD. Use when asked to review a product brief for assumptions, audit a PRD for risks, find hidden assumptions, validate product plans, or run an assumption analysis. Produces a prioritised assumption map with confidence and impact scores, recommended validation methods, and critical assumption flags."
+description: "提取产品简报或 PRD 中的隐藏假设并评估风险。当被要求审查产品简报中的假设、审计 PRD 风险、寻找隐藏假设、验证产品计划或运行假设分析时使用。产出按优先级排序的假设图谱，含置信度与影响评分、推荐验证方法以及关键假设标记。 | Extract and risk-rate hidden assumptions in a product brief or PRD. Use when asked to review a product brief for assumptions, audit a PRD for risks, find hidden assumptions, validate product plans, or run an assumption analysis. Produces a prioritised assumption map with confidence and impact scores, recommended validation methods, and critical assumption flags."
 ---
 
 # Assumption Mapper Skill

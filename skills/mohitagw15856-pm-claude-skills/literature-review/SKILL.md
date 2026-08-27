@@ -1,6 +1,6 @@
 ---
 name: literature-review
-description: "Structure and write a literature review for any research topic. Use when asked to write a literature review, systematic review summary, narrative review, or research background section. Produces a structured review with thematic organisation, critical analysis, and gap identification."
+description: "为任何研究主题构建并撰写文献综述。当被要求撰写文献综述、系统性综述摘要、叙述性综述或研究背景部分时使用。产出结构化综述，包含主题化组织、批判性分析和研究空白识别。 | Structure and write a literature review for any research topic. Use when asked to write a literature review, systematic review summary, narrative review, or research background section. Produces a structured review with thematic organisation, critical analysis, and gap identification."
 ---
 
 # Literature Review Skill

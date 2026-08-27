@@ -1,6 +1,6 @@
 ---
 name: ai-infrastructure-together-ai
-description: Together AI SDK patterns for TypeScript — client setup, chat completions, streaming, structured output, function calling, embeddings, image generation, fine-tuning, and OpenAI-compatible endpoints
+description: Together AI SDK 的 TypeScript 模式——客户端设置、聊天补全、流式输出、结构化输出、函数调用、嵌入、图像生成、微调以及 OpenAI 兼容端点。 | Together AI SDK patterns for TypeScript — client setup, chat completions, streaming, structured output, function calling, embeddings, image generation, fine-tuning, and OpenAI-compatible endpoints
 ---
 
 # Together AI SDK Patterns

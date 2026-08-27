@@ -1,6 +1,6 @@
 ---
 name: notion-meeting-intelligence
-description: Prepares meeting materials by gathering context from Notion, enriching with Claude research, and creating both an internal pre-read and external agenda saved to Notion. Helps you arrive prepared with comprehensive background and structured meeting docs.
+description: 通过从 Notion 收集背景信息、用 Claude 研究加以补充，并创建保存到 Notion 的内部预读材料和外部议程来准备会议材料。帮助你带着全面的背景和结构化的会议文档有备而来。 | Prepares meeting materials by gathering context from Notion, enriching with Claude research, and creating both an internal pre-read and external agenda saved to Notion. Helps you arrive prepared with comprehensive background and structured meeting docs.
 ---
 
 # Meeting Intelligence

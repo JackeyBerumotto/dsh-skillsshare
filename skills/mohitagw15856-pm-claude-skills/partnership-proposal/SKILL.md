@@ -1,6 +1,6 @@
 ---
 name: partnership-proposal
-description: "Write a B2B partnership proposal or business case. Use when asked to write a partnership proposal, draft a partnership brief, structure a co-marketing proposal, or create a business case for a strategic partnership. Produces a structured proposal with value proposition, partnership model, commercial terms, and mutual commitments."
+description: "撰写 B2B 合作提案或商业论证。在被要求编写合作提案、起草合作简报、构建联合营销提案，或为战略合作伙伴关系撰写商业论证时使用。产出包含价值主张、合作模式、商业条款和双方承诺的结构化提案。 | Write a B2B partnership proposal or business case. Use when asked to write a partnership proposal, draft a partnership brief, structure a co-marketing proposal, or create a business case for a strategic partnership. Produces a structured proposal with value proposition, partnership model, commercial terms, and mutual commitments."
 ---
 
 # Partnership Proposal Skill

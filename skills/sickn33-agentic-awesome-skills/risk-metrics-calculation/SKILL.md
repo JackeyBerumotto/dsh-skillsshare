@@ -1,6 +1,6 @@
 ---
 name: risk-metrics-calculation
-description: "Calculate portfolio risk metrics including VaR, CVaR, Sharpe, Sortino, and drawdown analysis. Use when measuring portfolio risk, implementing risk limits, or building risk monitoring systems."
+description: "计算投资组合风险指标，包括 VaR、CVaR、夏普比率、索提诺比率和回撤分析。当衡量投资组合风险、实施风险限额或构建风险监控系统时使用。 | Calculate portfolio risk metrics including VaR, CVaR, Sharpe, Sortino, and drawdown analysis. Use when measuring portfolio risk, implementing risk limits, or building risk monitoring systems."
 risk: safe
 source: community
 date_added: "2026-02-27"

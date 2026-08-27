@@ -1,6 +1,6 @@
 ---
 name: detecting-model-extraction-attacks
-description: Detect model stealing, model inversion, and membership inference performed through inference-API abuse by monitoring query patterns, applying output perturbation, and red-teaming your own model's extractability.
+description: 检测通过滥用推理 API 实施的模型窃取、模型逆推和成员推断，方法包括监控查询模式、应用输出扰动，以及对自有模型的可提取性进行红队测试。 | Detect model stealing, model inversion, and membership inference performed through inference-API abuse by monitoring query patterns, applying output perturbation, and red-teaming your own model's extractability.
 domain: cybersecurity
 subdomain: ai-security
 tags:

@@ -1,6 +1,6 @@
 ---
 name: workflow-monitor
-description: Detects workflow failures and inefficient patterns then files GitHub issues. Use when a workflow step repeatedly fails or produces inconsistent output.
+description: 检测工作流失败与低效模式并创建 GitHub issue。当某个工作流步骤反复失败或输出不一致时使用。 | Detects workflow failures and inefficient patterns then files GitHub issues. Use when a workflow step repeatedly fails or produces inconsistent output.
 alwaysApply: false
 category: workflow-methodology
 tags:

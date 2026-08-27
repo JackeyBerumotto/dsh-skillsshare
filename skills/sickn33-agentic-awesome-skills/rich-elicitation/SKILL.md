@@ -1,6 +1,6 @@
 ---
 name: rich-elicitation
-description: "Asks clarifying questions in multiple rounds before starting ambiguous tasks. Fires when 2+ task dimensions each have 3+ viable answers."
+description: "在开始含糊不清的任务前进行多轮澄清提问。当 2 个以上任务维度各自存在 3 种以上可行答案时触发。 | Asks clarifying questions in multiple rounds before starting ambiguous tasks. Fires when 2+ task dimensions each have 3+ viable answers."
 category: productivity
 risk: none
 source: self

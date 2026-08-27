@@ -1,6 +1,6 @@
 ---
 name: fine-appeal-letter
-description: "Appeal a parking ticket, penalty charge, or administrative fine with the grounds that actually get appeals granted — not indignation. Use when someone got a ticket/fine/penalty notice and either has a legitimate case or wants an honest read on whether they do. Produces a short formal appeal letter built on recognised grounds (signage, procedure, mitigation, first-offence discretion), the evidence checklist, and a candid win-likelihood note — or the honest advice to just pay it."
+description: "用真正能让申诉获批的理由来申诉停车罚单、罚款或行政罚款——而不是发泄不满。当有人收到罚单／罚款／处罚通知，且确有正当理由，或想诚实评估自己是否有时使用。产出一封基于公认理由（标识问题、程序瑕疵、情节减轻、初犯酌情）的简短正式申诉信、证据清单，以及坦率的胜诉可能性评估——或者诚实地建议直接缴款了事。 | Appeal a parking ticket, penalty charge, or administrative fine with the grounds that actually get appeals granted — not indignation. Use when someone got a ticket/fine/penalty notice and either has a legitimate case or wants an honest read on whether they do. Produces a short formal appeal letter built on recognised grounds (signage, procedure, mitigation, first-offence discretion), the evidence checklist, and a candid win-likelihood note — or the honest advice to just pay it."
 ---
 
 # Fine Appeal Letter

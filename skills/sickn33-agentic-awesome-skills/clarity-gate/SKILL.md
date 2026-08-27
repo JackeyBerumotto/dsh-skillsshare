@@ -5,7 +5,7 @@ risk: unknown
 source: community
 version: 2.1.3
 description: >
-  Pre-ingestion verification for epistemic quality in RAG systems.
+  RAG 系统中针对认知质量的摄取前验证。确保文档在进入知识库前得到适当审查。产出 CGD（清晰度把关文档）并验证 SOT（唯一事实源）文件。 |
   Ensures documents are properly qualified before entering knowledge bases.
   Produces CGD (Clarity-Gated Documents) and validates SOT (Source of Truth) files.
 author: Francesco Marinoni Moretto

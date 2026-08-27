@@ -1,6 +1,6 @@
 ---
 name: monte-carlo-storage-cost-analysis
-description: Analyze a warehouse for stale, unused, or redundant tables via the analyze_storage_costs MCP tool. Classifies waste patterns and table categories, computes safety tiers, and handles category drill-downs and lineage follow-ups.
+description: 通过 analyze_storage_costs MCP 工具分析数据仓库中陈旧、未使用或冗余的表。对浪费模式和表类别进行分类，计算安全等级，并处理类别下钻与血缘追踪。 | Analyze a warehouse for stale, unused, or redundant tables via the analyze_storage_costs MCP tool. Classifies waste patterns and table categories, computes safety tiers, and handles category drill-downs and lineage follow-ups.
 risk: unknown
 source: https://github.com/monte-carlo-data/mc-agent-toolkit/tree/main/skills/storage-cost-analysis
 source_repo: monte-carlo-data/mc-agent-toolkit

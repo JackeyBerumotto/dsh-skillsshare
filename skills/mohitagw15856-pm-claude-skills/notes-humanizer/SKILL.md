@@ -1,6 +1,6 @@
 ---
 name: notes-humanizer
-description: "Strips AI writing patterns from text and rewrites it to sound genuinely human by removing statistical defaults and injecting the specific signals that human writers produce. Use when a draft reads as AI-generated, over-polished, or rhythmically uniform — including blog posts, emails, LinkedIn posts, or any prose that needs to sound like a real person wrote it. Produces a pattern audit, side-by-side comparison, itemised change log, and clean rewritten output ready to paste."
+description: "去除文本中的 AI 写作模式并重写，使其听起来真正像人类：移除统计性默认表达，注入人类作者才会产生的特有信号。当草稿读起来像 AI 生成、过度打磨或节奏单一时使用——包括博客文章、邮件、LinkedIn 帖子，或任何需要听起来像真人撰写的文字。产出模式审计、并排对比、逐项变更记录以及可直接粘贴的干净重写文本。 | Strips AI writing patterns from text and rewrites it to sound genuinely human by removing statistical defaults and injecting the specific signals that human writers produce. Use when a draft reads as AI-generated, over-polished, or rhythmically uniform — including blog posts, emails, LinkedIn posts, or any prose that needs to sound like a real person wrote it. Produces a pattern audit, side-by-side comparison, itemised change log, and clean rewritten output ready to paste."
 ---
 
 # Notes Humanizer

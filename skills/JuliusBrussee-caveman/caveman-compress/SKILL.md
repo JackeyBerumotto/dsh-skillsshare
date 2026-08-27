@@ -1,7 +1,7 @@
 ---
 name: caveman-compress
 description: >
-  Compress natural language memory files (CLAUDE.md, todos, preferences) into caveman format
+  将自然语言记忆文件（CLAUDE.md、待办、偏好）压缩为 caveman 格式以节省输入 token。保留全部技术实质、代码、URL 和结构。压缩版本会覆盖原文件。人类可读的备份保存为 FILE.original.md。触发方式：/caveman-compress FILEPATH 或「compress memory file」。 |
   to save input tokens. Preserves all technical substance, code, URLs, and structure.
   Compressed version overwrites the original file. Human-readable backup saved as FILE.original.md.
   Trigger: /caveman-compress FILEPATH or "compress memory file"

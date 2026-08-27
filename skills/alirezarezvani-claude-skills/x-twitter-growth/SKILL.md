@@ -1,6 +1,6 @@
 ---
 name: "x-twitter-growth"
-description: "X/Twitter growth engine for building audience, crafting viral content, and analyzing engagement. Use when the user wants to grow on X/Twitter, write tweets or threads, analyze their X profile, research competitors on X, plan a posting strategy, or optimize engagement. Complements social-content (generic multi-platform) with X-specific depth: algorithm mechanics, thread engineering, reply strategy, profile optimization, and competitive intelligence via web search."
+description: "X/Twitter 增长引擎，用于积累受众、打造病毒式内容和分析互动。当用户想在 X/Twitter 上增长、撰写推文或推文串、分析自己的 X 主页、研究 X 上的竞争对手、规划发帖策略或优化互动时使用。作为 social-content（通用多平台）的补充，提供 X 特有的深度：算法机制、推文串工程、回复策略、主页优化，以及基于网页搜索的竞争情报。 | X/Twitter growth engine for building audience, crafting viral content, and analyzing engagement. Use when the user wants to grow on X/Twitter, write tweets or threads, analyze their X profile, research competitors on X, plan a posting strategy, or optimize engagement. Complements social-content (generic multi-platform) with X-specific depth: algorithm mechanics, thread engineering, reply strategy, profile optimization, and competitive intelligence via web search."
 license: MIT
 metadata:
   version: 1.0.0

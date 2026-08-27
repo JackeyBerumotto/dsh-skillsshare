@@ -1,6 +1,6 @@
 ---
 name: brainstorming
-description: "Use before creative or constructive work (features, architecture, behavior). Transforms vague ideas into validated designs through disciplined reasoning and collaboration."
+description: "在创造性或建设性工作（功能、架构、行为）之前使用。通过严谨的推理与协作，把模糊的想法转化为经过验证的设计。 | Use before creative or constructive work (features, architecture, behavior). Transforms vague ideas into validated designs through disciplined reasoning and collaboration."
 risk: unknown
 source: community
 date_added: "2026-02-27"

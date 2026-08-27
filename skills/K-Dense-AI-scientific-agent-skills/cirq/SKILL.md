@@ -1,6 +1,6 @@
 ---
 name: cirq
-description: Google quantum computing framework. Use when targeting Google Quantum AI hardware, designing noise-aware circuits, or running quantum characterization experiments. Best for Google hardware, noise modeling, and low-level circuit design. For IBM hardware use qiskit; for quantum ML with autodiff use pennylane; for physics simulations use qutip.
+description: Google 量子计算框架。在面向 Google Quantum AI 硬件、设计噪声感知电路或运行量子表征实验时使用。最适合 Google 硬件、噪声建模和底层电路设计。IBM 硬件请用 qiskit；带自动微分的量子 ML 请用 pennylane；物理模拟请用 qutip。 | Google quantum computing framework. Use when targeting Google Quantum AI hardware, designing noise-aware circuits, or running quantum characterization experiments. Best for Google hardware, noise modeling, and low-level circuit design. For IBM hardware use qiskit; for quantum ML with autodiff use pennylane; for physics simulations use qutip.
 license: Apache-2.0 license
 allowed-tools: Read Write Edit Bash
 metadata: {"version": "1.0", "skill-author": "K-Dense Inc."}

@@ -1,6 +1,6 @@
 ---
 name: competitive-analysis
-description: "Analyze competitors and create competitive landscape documentation with feature matrices, positioning maps, and strategic recommendations. Use when asked to analyze competitors, create competitive analysis, compare features with competitors, build a competitive landscape, track competitive positioning, or prepare sales battlecard inputs. Produces structured competitor profiles, feature comparison matrix, win/loss analysis, and prioritised strategic recommendations. For a one-off teardown of a single rival use competitor-teardown; for a recurring market briefing use competitive-intelligence-monitor."
+description: "分析竞争对手并创建竞争格局文档，包含功能矩阵、定位图和战略建议。当被要求分析竞争对手、制作竞争分析、与对手比较功能、构建竞争格局、跟踪竞争定位，或准备销售作战卡素材时使用。产出结构化的竞争对手画像、功能对比矩阵、赢单／丢单分析和按优先级排序的战略建议。若只需一次性拆解单个对手，请用 competitor-teardown；若需周期性市场简报，请用 competitive-intelligence-monitor。 | Analyze competitors and create competitive landscape documentation with feature matrices, positioning maps, and strategic recommendations. Use when asked to analyze competitors, create competitive analysis, compare features with competitors, build a competitive landscape, track competitive positioning, or prepare sales battlecard inputs. Produces structured competitor profiles, feature comparison matrix, win/loss analysis, and prioritised strategic recommendations. For a one-off teardown of a single rival use competitor-teardown; for a recurring market briefing use competitive-intelligence-monitor."
 ---
 
 # Competitive Analysis Skill

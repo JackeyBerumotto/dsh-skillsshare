@@ -1,8 +1,6 @@
 ---
 name: performing-timeline-reconstruction-with-plaso
-description: Build comprehensive forensic super-timelines using Plaso (log2timeline)
-  to correlate events across file systems, logs, and artifacts into a unified chronological
-  view.
+description: "使用 Plaso（log2timeline）构建全面的取证超级时间线，将文件系统、日志和痕迹中的事件关联为统一的时序视图。 | Build comprehensive forensic super-timelines using Plaso (log2timeline) to correlate events across file systems, logs, and artifacts into a unified chronological view."
 domain: cybersecurity
 subdomain: digital-forensics
 tags:

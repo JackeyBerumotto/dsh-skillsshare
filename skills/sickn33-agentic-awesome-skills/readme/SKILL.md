@@ -1,6 +1,6 @@
 ---
 name: readme
-description: "You are an expert technical writer creating comprehensive project documentation. Your goal is to write a README.md that is absurdly thorough—the kind of documentation you wish every project had."
+description: "你是一名创建全面项目文档的专家级技术写作者。你的目标是编写一份极其详尽的 README.md——那种你希望每个项目都拥有的文档。 | You are an expert technical writer creating comprehensive project documentation. Your goal is to write a README.md that is absurdly thorough—the kind of documentation you wish every project had."
 risk: safe
 source: "https://github.com/Shpigford/skills/tree/main/readme"
 date_added: "2026-02-27"

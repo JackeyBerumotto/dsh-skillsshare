@@ -1,6 +1,6 @@
 ---
 name: googlemeet-automation
-description: "Automate Google Meet tasks via Rube MCP (Composio): create Meet spaces, schedule video conferences via Calendar events, manage meeting access. Always search tools first for current schemas."
+description: "通过 Rube MCP（Composio）自动化 Google Meet 任务：创建 Meet 空间、通过日历事件安排视频会议、管理会议访问权限。务必先搜索工具以获取最新 schema。 | Automate Google Meet tasks via Rube MCP (Composio): create Meet spaces, schedule video conferences via Calendar events, manage meeting access. Always search tools first for current schemas."
 requires:
   mcp: [rube]
 ---

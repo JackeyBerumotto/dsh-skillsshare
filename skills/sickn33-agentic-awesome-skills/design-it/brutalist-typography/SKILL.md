@@ -1,6 +1,6 @@
 ---
 name: brutalist-typography
-description: Web and App implementation guide for Brutalist Typography. Trigger when user wants huge fonts, raw presentation, and aggressive layout decisions.
+description: Brutalist Typography（粗野主义字体排印）的 Web 与 App 实现指南。当用户需要超大字体、原始呈现和激进排版决策时触发。 | Web and App implementation guide for Brutalist Typography. Trigger when user wants huge fonts, raw presentation, and aggressive layout decisions.
 date_added: "2026-06-17"
 risk: safe
 source: self

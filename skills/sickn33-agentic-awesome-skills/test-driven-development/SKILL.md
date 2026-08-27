@@ -1,6 +1,6 @@
 ---
 name: test-driven-development
-description: "Use when implementing any feature or bugfix, before writing implementation code"
+description: "在实现任何功能或修复缺陷时、编写实现代码之前使用。 | Use when implementing any feature or bugfix, before writing implementation code"
 risk: unknown
 source: community
 date_added: "2026-02-27"

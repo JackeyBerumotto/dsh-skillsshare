@@ -1,6 +1,6 @@
 ---
 name: testing-qa
-description: "Comprehensive testing and QA workflow covering unit testing, integration testing, E2E testing, browser automation, and quality assurance."
+description: "全面的测试与 QA 工作流，涵盖单元测试、集成测试、E2E 测试、浏览器自动化和质量保证。 | Comprehensive testing and QA workflow covering unit testing, integration testing, E2E testing, browser automation, and quality assurance."
 category: workflow-bundle
 risk: safe
 source: personal

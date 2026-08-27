@@ -1,6 +1,6 @@
 ---
 name: "agent-workflow-designer"
-description: "Design production-grade multi-agent workflows with clear pattern choice (sequential, parallel, hierarchical), handoff contracts, failure handling, and cost/context controls. Use when architecting a multi-step agent pipeline, choosing between single-agent vs multi-agent approaches, or refactoring an LLM workflow that suffers from context bloat or unreliable handoffs."
+description: "设计生产级多智能体工作流，包含明确的模式选择（串行、并行、分层）、交接契约、失败处理以及成本/上下文控制。当需要构建多步骤 agent 流水线、在单 agent 与多 agent 方案之间取舍，或重构受上下文膨胀或不可靠交接困扰的 LLM 工作流时使用。 | Design production-grade multi-agent workflows with clear pattern choice (sequential, parallel, hierarchical), handoff contracts, failure handling, and cost/context controls. Use when architecting a multi-step agent pipeline, choosing between single-agent vs multi-agent approaches, or refactoring an LLM workflow that suffers from context bloat or unreliable handoffs."
 ---
 
 # Agent Workflow Designer

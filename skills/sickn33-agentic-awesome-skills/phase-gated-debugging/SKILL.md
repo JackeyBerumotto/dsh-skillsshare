@@ -1,6 +1,6 @@
 ---
 name: phase-gated-debugging
-description: "Use when debugging any bug. Enforces a 5-phase protocol where code edits are blocked until root cause is confirmed. Prevents premature fix attempts."
+description: "在调试任何缺陷时使用。强制执行 5 阶段协议，在确认根因之前阻止代码编辑。防止过早尝试修复。 | Use when debugging any bug. Enforces a 5-phase protocol where code edits are blocked until root cause is confirmed. Prevents premature fix attempts."
 risk: safe
 source: community
 date_added: "2026-03-28"

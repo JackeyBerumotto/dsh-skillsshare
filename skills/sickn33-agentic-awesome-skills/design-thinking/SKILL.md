@@ -1,6 +1,6 @@
 ---
 name: design-thinking
-description: Direction and intent for frontend design. Use with design when defining purpose, tone, domain, color world, and review bar; includes cross-domain lens from cinema, architecture, marketing, UX, automotive, industrial design.
+description: 前端设计的方向与意图。在设计阶段用于定义目的、基调、领域、色彩世界和评审标准时与 design 配合使用；包含来自电影、建筑、营销、UX、汽车和工业设计的跨领域视角。 | Direction and intent for frontend design. Use with design when defining purpose, tone, domain, color world, and review bar; includes cross-domain lens from cinema, architecture, marketing, UX, automotive, industrial design.
 risk: unknown
 source: https://github.com/connerkward/ckw-design-skill/tree/main/design-thinking
 source_repo: connerkward/ckw-design-skill

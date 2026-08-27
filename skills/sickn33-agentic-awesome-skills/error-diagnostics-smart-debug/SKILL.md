@@ -1,6 +1,6 @@
 ---
 name: error-diagnostics-smart-debug
-description: "Use when working with error diagnostics smart debug"
+description: "在处理错误诊断（error diagnostics）中的智能调试（smart debug）时使用。 | Use when working with error diagnostics smart debug"
 risk: unknown
 source: community
 date_added: "2026-02-27"

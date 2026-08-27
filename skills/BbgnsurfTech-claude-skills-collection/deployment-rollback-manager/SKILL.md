@@ -1,7 +1,7 @@
 ---
 name: managing-deployment-rollbacks
 description: |
-  Use when you need to work with deployment and CI/CD.
+  当你需要处理部署和 CI/CD 时使用。此技能提供部署自动化和编排及全面的指导和自动化。触发词如「deploy application」「create pipeline」或「automate deployment」。 |
   This skill provides deployment automation and orchestration with comprehensive guidance and automation.
   Trigger with phrases like "deploy application", "create pipeline",
   or "automate deployment".

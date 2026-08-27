@@ -1,13 +1,6 @@
 ---
 name: implementing-security-monitoring-with-datadog
-description: 'Implements security monitoring using Datadog Cloud SIEM, Cloud Security
-  Management (CSM), and Workload Protection to detect threats, enforce compliance,
-  and respond to security events across cloud and hybrid infrastructure. Covers Agent
-  deployment, log source ingestion, detection rule creation, security dashboards,
-  and automated notification workflows. Activates for requests involving Datadog security
-  setup, Cloud SIEM configuration, CSM threat detection, or security monitoring dashboards.
-
-  '
+description: "使用 Datadog Cloud SIEM、Cloud Security Management（CSM）和 Workload Protection 实现安全监控，在云和混合基础设施中检测威胁、强制执行合规并响应安全事件。涵盖 Agent 部署、日志源接入、检测规则创建、安全仪表盘和自动化通知工作流。当请求涉及 Datadog 安全设置、Cloud SIEM 配置、CSM 威胁检测或安全监控仪表盘时激活。 | Implements security monitoring using Datadog Cloud SIEM, Cloud Security Management (CSM), and Workload Protection to detect threats, enforce compliance, and respond to security events across cloud and hybrid infrastructure. Covers Agent deployment, log source ingestion, detection rule creation, security dashboards, and automated notification workflows. Activates for requests involving Datadog security setup, Cloud SIEM configuration, CSM threat detection, or security monitoring dashboards."
 domain: cybersecurity
 subdomain: security-operations
 tags:

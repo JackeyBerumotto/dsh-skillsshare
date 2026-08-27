@@ -1,8 +1,6 @@
 ---
 name: hunting-for-supply-chain-compromise
-description: Hunt for supply chain compromise indicators including trojanized software
-  updates, compromised dependencies, unauthorized code modifications, and tampered
-  build artifacts.
+description: "狩猎供应链入侵指标，包括被植入木马的软件更新、被入侵的依赖项、未授权的代码修改以及被篡改的构建产物。 | Hunt for supply chain compromise indicators including trojanized software updates, compromised dependencies, unauthorized code modifications, and tampered build artifacts."
 domain: cybersecurity
 subdomain: threat-hunting
 tags:

@@ -1,6 +1,6 @@
 ---
 name: "churn-prevention"
-description: "Reduce voluntary and involuntary churn through cancel flow design, save offers, exit surveys, and dunning sequences. Use when designing or optimizing a cancel flow, building save offers, setting up dunning emails, or reducing failed-payment churn. Trigger keywords: cancel flow, churn reduction, save offers, dunning, exit survey, payment recovery, win-back, involuntary churn, failed payments, cancel page. NOT for customer health scoring or expansion revenue — use customer-success-manager for that."
+description: "通过取消流程设计、挽留优惠、退出调研和催付序列减少主动与被动流失。在设计或优化取消流程、构建挽留优惠、配置催付邮件或减少支付失败导致的流失时使用。触发关键词：cancel flow、churn reduction、save offers、dunning、exit survey、payment recovery、win-back、involuntary churn、failed payments、cancel page。不适用于客户健康评分或扩展收入——请改用 customer-success-manager。 | Reduce voluntary and involuntary churn through cancel flow design, save offers, exit surveys, and dunning sequences. Use when designing or optimizing a cancel flow, building save offers, setting up dunning emails, or reducing failed-payment churn. Trigger keywords: cancel flow, churn reduction, save offers, dunning, exit survey, payment recovery, win-back, involuntary churn, failed payments, cancel page. NOT for customer health scoring or expansion revenue — use customer-success-manager for that."
 license: MIT
 metadata:
   version: 1.0.0

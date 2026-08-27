@@ -1,6 +1,6 @@
 ---
 name: brandkit
-description: Premium brand-kit image generation skill for creating high-end brand-guidelines boards, logo systems, identity decks, and visual-world presentations. Trained for minimalist, cinematic, editorial, dark-tech, luxury, cultural, security, gaming, developer-tool, and consumer-app brand systems. Optimized for intentional logo concepting, refined composition, sparse typography, strong symbolic meaning, premium mockups, art-directed imagery, and flexible grid layouts.
+description: 高端品牌套件图像生成技能，用于创建高端品牌规范板、logo 系统、识别手册和视觉世界演示。专为极简、电影感、编辑部、暗黑科技、奢华、文化、安全、游戏、开发者工具和消费应用品牌系统训练。针对有意图的 logo 构思、精炼构图、疏朗排版、强符号寓意、高端样机、艺术指导式图像和灵活网格布局进行了优化。 | Premium brand-kit image generation skill for creating high-end brand-guidelines boards, logo systems, identity decks, and visual-world presentations. Trained for minimalist, cinematic, editorial, dark-tech, luxury, cultural, security, gaming, developer-tool, and consumer-app brand systems. Optimized for intentional logo concepting, refined composition, sparse typography, strong symbolic meaning, premium mockups, art-directed imagery, and flexible grid layouts.
 ---
 
 # BRANDKIT IMAGE GENERATION SKILL

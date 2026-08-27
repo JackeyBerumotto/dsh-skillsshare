@@ -1,6 +1,6 @@
 ---
 name: resume
-description: "Write a sharp, achievement-led resume/CV that passes ATS and earns the interview. Use when asked to write or rewrite a resume or CV, turn experience into a resume, or tailor a resume to a job. Produces a clean, single-column, ATS-friendly resume — summary, experience as quantified accomplishment bullets, skills, and education — ready to export as a designed PDF."
+description: "撰写以成果为主导、能通过 ATS 并赢得面试的简历/CV。在被要求编写或重写简历、把经历转化为简历，或针对职位定制简历时使用。产出干净、单栏、ATS 友好的简历——个人概述、以量化成果要点呈现的经历、技能和教育背景——可导出为设计精美的 PDF。 | Write a sharp, achievement-led resume/CV that passes ATS and earns the interview. Use when asked to write or rewrite a resume or CV, turn experience into a resume, or tailor a resume to a job. Produces a clean, single-column, ATS-friendly resume — summary, experience as quantified accomplishment bullets, skills, and education — ready to export as a designed PDF."
 ---
 
 # Resume Skill

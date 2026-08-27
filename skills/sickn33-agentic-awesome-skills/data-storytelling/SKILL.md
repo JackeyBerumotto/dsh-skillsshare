@@ -1,6 +1,6 @@
 ---
 name: data-storytelling
-description: "Transform raw data into compelling narratives that drive decisions and inspire action."
+description: "将原始数据转化为能驱动决策、激发行动的有说服力的叙事。 | Transform raw data into compelling narratives that drive decisions and inspire action."
 risk: safe
 source: community
 date_added: "2026-02-27"

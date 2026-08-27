@@ -1,7 +1,5 @@
 ---
-description: Automate budget vs actual variance analysis in excel with flagging, commentary,
-  and executive summaries for financial reporting and fp&a teams activates when you
-  request "excel variance analyzer" functionality.
+description: "在 Excel 中自动化预算与实际差异分析，附带标记、评注和高管摘要，服务财务报告和 fp&a 团队。当你请求「excel variance analyzer」功能时激活。 | Automate budget vs actual variance analysis in excel with flagging, commentary, and executive summaries for financial reporting and fp&a teams activates when you request \"excel variance analyzer\" functionality."
 allowed-tools:
 - Read
 - Write

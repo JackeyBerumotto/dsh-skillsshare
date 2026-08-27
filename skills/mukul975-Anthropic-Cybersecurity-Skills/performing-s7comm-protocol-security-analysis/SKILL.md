@@ -1,11 +1,6 @@
 ---
 name: performing-s7comm-protocol-security-analysis
-description: 'Perform security analysis of Siemens S7comm and S7CommPlus protocols
-  used by SIMATIC S7 PLCs to identify vulnerabilities including replay attacks, integrity
-  bypass, unauthorized CPU stop commands, and program download manipulation exploiting
-  weaknesses in S7-300, S7-400, S7-1200, and S7-1500 controllers.
-
-  '
+description: "对 SIMATIC S7 PLC 使用的 Siemens S7comm 和 S7CommPlus 协议执行安全分析，识别漏洞，包括重放攻击、完整性绕过、未授权的 CPU 停止命令，以及利用 S7-300、S7-400、S7-1200 和 S7-1500 控制器弱点的程序下载篡改。 | Perform security analysis of Siemens S7comm and S7CommPlus protocols used by SIMATIC S7 PLCs to identify vulnerabilities including replay attacks, integrity bypass, unauthorized CPU stop commands, and program download manipulation exploiting weaknesses in S7-300, S7-400, S7-1200, and S7-1500 controllers."
 domain: cybersecurity
 subdomain: ot-ics-security
 tags:

@@ -1,6 +1,6 @@
 ---
 name: iso-27001-isms
-description: "Scope an ISO 27001 ISMS and build the Statement of Applicability across Annex A controls. Use when asked to implement ISO 27001, scope an ISMS, build a Statement of Applicability (SoA), or prepare for ISO 27001 certification. Produces an ISMS plan — scope & context, risk-treatment approach, an Annex A control applicability table (the SoA), and a prioritised implementation roadmap."
+description: "界定 ISO 27001 信息安全管理体系（ISMS）范围，并围绕附录 A 控制项编制适用性声明。当被要求实施 ISO 27001、界定 ISMS 范围、编制适用性声明（SoA）或准备 ISO 27001 认证时使用。产出一份 ISMS 计划——范围与背景、风险处理方法、附录 A 控制项适用性表（即 SoA），以及按优先级排序的实施路线图。 | Scope an ISO 27001 ISMS and build the Statement of Applicability across Annex A controls. Use when asked to implement ISO 27001, scope an ISMS, build a Statement of Applicability (SoA), or prepare for ISO 27001 certification. Produces an ISMS plan — scope & context, risk-treatment approach, an Annex A control applicability table (the SoA), and a prioritised implementation roadmap."
 ---
 
 # ISO 27001 ISMS Skill

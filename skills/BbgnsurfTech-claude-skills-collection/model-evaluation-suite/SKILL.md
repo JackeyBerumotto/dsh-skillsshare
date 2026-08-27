@@ -1,8 +1,5 @@
 ---
-description: This skill allows claude to evaluate machine learning models using a
-  comprehensive suite of metrics. it should be used when the user requests model performance
-  analysis, validation, or testing. claude can use this skill to assess model accuracy,
-  p...
+description: "本技能允许 claude 使用一套全面的指标评估机器学习模型。当用户请求模型性能分析、验证或测试时应使用本技能。claude 可借助本技能评估模型准确率、精确率等表现。 | This skill allows claude to evaluate machine learning models using a comprehensive suite of metrics. it should be used when the user requests model performance analysis, validation, or testing. claude can use this skill to assess model accuracy, p..."
 allowed-tools:
 - Read
 - Write

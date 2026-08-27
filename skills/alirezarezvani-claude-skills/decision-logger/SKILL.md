@@ -1,6 +1,6 @@
 ---
 name: "decision-logger"
-description: "Two-layer memory architecture for board meeting decisions. Manages raw transcripts (Layer 1) and approved decisions (Layer 2). Use when logging decisions after a board meeting, reviewing past decisions with /cs:decisions, or checking overdue action items with /cs:review. Invoked automatically by the board-meeting skill after Phase 5 founder approval."
+description: "面向董事会决策的两层记忆架构。管理原始会议记录（第一层）和已批准的决策（第二层）。当需要在董事会会议后记录决策、通过 /cs:decisions 回顾过往决策或通过 /cs:review 检查逾期行动项时使用。由 board-meeting 技能在第 5 阶段创始人批准后自动调用。 | Two-layer memory architecture for board meeting decisions. Manages raw transcripts (Layer 1) and approved decisions (Layer 2). Use when logging decisions after a board meeting, reviewing past decisions with /cs:decisions, or checking overdue action items with /cs:review. Invoked automatically by the board-meeting skill after Phase 5 founder approval."
 license: MIT
 metadata:
   version: 1.0.0

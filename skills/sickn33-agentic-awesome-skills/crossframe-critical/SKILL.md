@@ -1,6 +1,6 @@
 ---
 name: crossframe-critical
-description: "Use only when the user explicitly names crossframe-critical for a Chinese structural critique dossier, article plan, or long-form critical essay."
+description: "仅当用户显式点名 crossframe-critical 来制作中文结构性批评档案、文章规划或长篇评论文章时使用。 | Use only when the user explicitly names crossframe-critical for a Chinese structural critique dossier, article plan, or long-form critical essay."
 category: content
 risk: safe
 source: community

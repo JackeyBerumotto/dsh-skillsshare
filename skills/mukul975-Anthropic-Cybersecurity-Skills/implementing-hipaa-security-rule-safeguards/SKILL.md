@@ -1,7 +1,7 @@
 ---
 name: implementing-hipaa-security-rule-safeguards
 description: >-
-  Implement the HIPAA Security Rule (45 CFR Part 164 Subpart C) to protect electronic
+  实施 HIPAA 安全规则（45 CFR Part 164 Subpart C）以保护电子受保护健康信息（ePHI）：开展必需的风险分析，部署管理、物理和技术保障措施，处理「必需」与「可寻址」实施规范的区分，签署商业伙伴协议（BAA），并建立违规通知应对准备。当组织属于 HIPAA 受覆盖实体或商业伙伴、在保护 ePHI、在准备 OCR 审计或应对违规事件、在执行 HIPAA 安全风险分析、在起草或审查 BAA，或将安全控制映射到 §164.308/310/312/314/316 保障条款时使用。注明 2025 年 NPRM 拟议修订（尚未最终定稿）。关键词：HIPAA、HIPAA Security Rule、ePHI、PHI、45 CFR 164、risk analysis、administrative safeguards、physical safeguards、technical safeguards、addressable、required、Business Associate Agreement、BAA、OCR、breach notification、HITECH、covered entity、business associate。 |
   protected health information (ePHI): conduct the required risk analysis, deploy the
   administrative, physical, and technical safeguards, handle required vs addressable
   implementation specifications, execute Business Associate Agreements, and stand up

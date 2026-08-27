@@ -1,7 +1,6 @@
 ---
 name: investigating-ransomware-attack-artifacts
-description: Identify, collect, and analyze ransomware attack artifacts to determine
-  the variant, initial access vector, encryption scope, and recovery options.
+description: "识别、收集并分析勒索软件攻击痕迹，以确定变种、初始访问向量、加密范围和恢复选项。 | Identify, collect, and analyze ransomware attack artifacts to determine the variant, initial access vector, encryption scope, and recovery options."
 domain: cybersecurity
 subdomain: digital-forensics
 tags:

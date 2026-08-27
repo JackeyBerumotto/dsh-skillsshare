@@ -1,6 +1,6 @@
 ---
 name: handoff
-description: Compact the current conversation into a handoff document for another agent to pick up. References existing artifacts (PRDs, plans, ADRs, issues, commits, diffs) by path or URL instead of duplicating them. Use when user wants to hand off the conversation to a fresh agent or starts a new session that picks up prior work.
+description: 将当前对话压缩为交接文档，供另一个 Agent 接续使用。通过路径或 URL 引用既有产物（PRD、计划、ADR、issue、提交、差异），而不是复制它们。在用户想把对话移交给全新 Agent，或开启接续先前工作的新会话时使用。 | Compact the current conversation into a handoff document for another agent to pick up. References existing artifacts (PRDs, plans, ADRs, issues, commits, diffs) by path or URL instead of duplicating them. Use when user wants to hand off the conversation to a fresh agent or starts a new session that picks up prior work.
 argument-hint: "What will the next session be used for?"
 license: MIT
 metadata:

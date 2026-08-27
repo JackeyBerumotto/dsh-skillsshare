@@ -1,6 +1,6 @@
 ---
 name: aws-compliance-checker
-description: "Automated compliance checking against CIS, PCI-DSS, HIPAA, and SOC 2 benchmarks"
+description: "依据 CIS、PCI-DSS、HIPAA 与 SOC 2 基准进行自动化合规检查 | Automated compliance checking against CIS, PCI-DSS, HIPAA, and SOC 2 benchmarks"
 category: security
 risk: safe
 source: community

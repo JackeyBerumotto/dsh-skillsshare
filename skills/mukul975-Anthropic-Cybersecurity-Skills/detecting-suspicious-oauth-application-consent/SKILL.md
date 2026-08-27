@@ -1,8 +1,6 @@
 ---
 name: detecting-suspicious-oauth-application-consent
-description: Detect risky OAuth application consent grants in Azure AD / Microsoft
-  Entra ID using Microsoft Graph API, audit logs, and permission analysis to identify
-  illicit consent grant attacks.
+description: "利用 Microsoft Graph API、审计日志和权限分析，检测 Azure AD/Microsoft Entra ID 中存在风险的 OAuth 应用授权同意，识别非法授权同意攻击。 | Detect risky OAuth application consent grants in Azure AD / Microsoft Entra ID using Microsoft Graph API, audit logs, and permission analysis to identify illicit consent grant attacks."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

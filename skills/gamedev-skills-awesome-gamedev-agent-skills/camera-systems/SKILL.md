@@ -1,7 +1,7 @@
 ---
 name: camera-systems
 description: >
-  Build game cameras that feel good — 2D follow with a deadzone, look-ahead, smoothing, and
+  构建手感良好的游戏摄像机——带死区、前瞻、平滑和关卡边界钳制的 2D 跟随；带碰撞的 3D 第三人称环绕与第一人称视角；外加多目标取景和震动钩子。引擎中立的技术，可与引擎自带的摄像机节点及 Unity Cinemachine 或 Godot Camera2D、PhantomCamera 等装置配合。当用户提到摄像机跟随、跟随镜头、死区、前瞻、镜头平滑、镜头边界或限制、第三人称镜头、环绕镜头、第一人称视角、Cinemachine 或镜头抖动时使用。 |
   level-bounds clamping; 3D third-person orbit with collision and first-person look; plus
   multi-target framing and a shake hook. Engine-neutral techniques that pair with the engine's
   camera node and rigs like Unity Cinemachine or Godot Camera2D/PhantomCamera. Use when the user

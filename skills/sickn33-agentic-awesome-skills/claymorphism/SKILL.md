@@ -1,6 +1,6 @@
 ---
 name: claymorphism
-description: Web and App implementation guide for Claymorphism. Trigger when user wants soft 3D elements, rounded shapes, and a playful, tactile appearance.
+description: Claymorphism（黏土拟态）的 Web 与 App 实现指南。当用户需要柔和 3D 元素、圆润造型以及俏皮而富有触感的外观时触发。 | Web and App implementation guide for Claymorphism. Trigger when user wants soft 3D elements, rounded shapes, and a playful, tactile appearance.
 date_added: "2026-06-17"
 risk: safe
 source: self

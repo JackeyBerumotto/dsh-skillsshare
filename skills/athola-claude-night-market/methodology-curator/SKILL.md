@@ -1,6 +1,6 @@
 ---
 name: methodology-curator
-description: 'Surface expert frameworks. Use when creating or evaluating skills, hooks, or agents.'
+description: '呈现专家框架。在创建或评估技能、钩子或代理时使用。 | Surface expert frameworks. Use when creating or evaluating skills, hooks, or agents.'
 alwaysApply: false
 category: meta-skills
 tags:

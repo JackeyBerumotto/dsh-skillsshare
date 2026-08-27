@@ -1,6 +1,6 @@
 ---
 name: "loop"
-description: "Start an autonomous experiment loop with user-selected interval (10min, 1h, daily, weekly, monthly). Uses CronCreate for scheduling. Use when the user runs /ar:loop or asks to run an autoresearch experiment continuously on a schedule."
+description: "以用户选择的间隔（10 分钟、1 小时、每天、每周、每月）启动自主实验循环。使用 CronCreate 进行调度。当用户运行 /ar:loop 或要求按计划持续运行 autoresearch 实验时使用。 | Start an autonomous experiment loop with user-selected interval (10min, 1h, daily, weekly, monthly). Uses CronCreate for scheduling. Use when the user runs /ar:loop or asks to run an autoresearch experiment continuously on a schedule."
 command: /ar:loop
 ---
 

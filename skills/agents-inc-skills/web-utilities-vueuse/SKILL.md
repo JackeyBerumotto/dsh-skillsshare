@@ -1,6 +1,6 @@
 ---
 name: web-utilities-vueuse
-description: VueUse composable utility collection for Vue 3 - browser, sensor, network, state, animation, and component utilities
+description: VueUse——Vue 3 的组合式工具函数集，涵盖浏览器、传感器、网络、状态、动画和组件工具。 | VueUse composable utility collection for Vue 3 - browser, sensor, network, state, animation, and component utilities
 ---
 
 # VueUse Composable Patterns

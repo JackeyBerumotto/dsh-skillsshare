@@ -1,6 +1,6 @@
 ---
 name: react-flow-node-ts
-description: "Create React Flow node components following established patterns with proper TypeScript types and store integration."
+description: "按照既有模式创建 React Flow 节点组件，配备正确的 TypeScript 类型和 store 集成。 | Create React Flow node components following established patterns with proper TypeScript types and store integration."
 risk: unknown
 source: community
 date_added: "2026-02-27"

@@ -1,6 +1,6 @@
 ---
 name: monitoring-observability
-description: Monitoring and observability with OpenTelemetry, Prometheus, Grafana dashboards, and structured logging
+description: 基于 OpenTelemetry、Prometheus、Grafana 仪表盘和结构化日志的监控与可观测性 | Monitoring and observability with OpenTelemetry, Prometheus, Grafana dashboards, and structured logging
 ---
 
 # Monitoring & Observability

@@ -1,6 +1,6 @@
 ---
 name: Kommo Automation
-description: "Automate Kommo CRM operations -- manage leads, pipelines, pipeline stages, tasks, and custom fields -- using natural language through the Composio MCP integration."
+description: "通过 Composio MCP 集成，使用自然语言自动化 Kommo CRM 操作：管理潜在客户、销售管线、管线阶段、任务和自定义字段。 | Automate Kommo CRM operations -- manage leads, pipelines, pipeline stages, tasks, and custom fields -- using natural language through the Composio MCP integration."
 category: crm
 requires:
   mcp:

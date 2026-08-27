@@ -1,6 +1,6 @@
 ---
 name: executing-plans
-description: "Execute a written plan with discipline — verify each step before advancing, surface deviations instead of improvising around them, and keep a visible execution log. Use when working through a plan (yours or another agent's), resuming multi-session work, or when execution keeps drifting from what was agreed. Produces completed work plus an execution log showing what matched the plan, what deviated and why, and what the plan got wrong. Pairs with writing-plans."
+description: "有纪律地执行书面计划——每前进一步都先做验证，出现偏差时如实呈现而不是临场变通，并保留可见的执行日志。在推进某个计划（你自己或其他 agent 的）、恢复跨会话工作，或执行总是偏离既定约定时使用。产出完成的工作以及一份执行日志，说明哪些与计划一致、哪些发生偏差及原因、计划本身哪里有误。与 writing-plans 搭配使用。 | Execute a written plan with discipline — verify each step before advancing, surface deviations instead of improvising around them, and keep a visible execution log. Use when working through a plan (yours or another agent's), resuming multi-session work, or when execution keeps drifting from what was agreed. Produces completed work plus an execution log showing what matched the plan, what deviated and why, and what the plan got wrong. Pairs with writing-plans."
 ---
 
 # Executing Plans Skill

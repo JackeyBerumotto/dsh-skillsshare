@@ -1,6 +1,6 @@
 ---
 name: desktop-backend-tauri
-description: Tauri 2.x Rust command patterns, state management, error handling, events, channels, testing
+description: Tauri 2.x Rust 命令模式、状态管理、错误处理、事件、通道、测试 | Tauri 2.x Rust command patterns, state management, error handling, events, channels, testing
 ---
 
 # Tauri Rust Backend Patterns

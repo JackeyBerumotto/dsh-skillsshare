@@ -1,6 +1,6 @@
 ---
 name: web-state-ngrx-signalstore
-description: NgRx SignalStore patterns for Angular state management. Use when managing client state with Angular Signals, composing store features, handling entities, or integrating RxJS effects.
+description: 面向 Angular 状态管理的 NgRx SignalStore 模式。在使用 Angular Signals 管理客户端状态、组合 store 特性、处理实体或集成 RxJS effects 时使用。 | NgRx SignalStore patterns for Angular state management. Use when managing client state with Angular Signals, composing store features, handling entities, or integrating RxJS effects.
 ---
 
 # NgRx SignalStore Patterns

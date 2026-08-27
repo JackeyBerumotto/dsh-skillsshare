@@ -1,6 +1,6 @@
 ---
 name: before-you-build
-description: "Review product risk before coding by checking demand, alternatives, channels, switching costs, and failure signals."
+description: "在编码之前审查产品风险，检查需求、替代方案、渠道、切换成本和失败信号。 | Review product risk before coding by checking demand, alternatives, channels, switching costs, and failure signals."
 category: product
 risk: safe
 source: community

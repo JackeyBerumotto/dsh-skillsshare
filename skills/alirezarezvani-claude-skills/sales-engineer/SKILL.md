@@ -1,6 +1,6 @@
 ---
 name: "sales-engineer"
-description: Analyzes RFP/RFI responses for coverage gaps, builds competitive feature comparison matrices, and plans proof-of-concept (POC) engagements for pre-sales engineering. Use when responding to RFPs, bids, or proposal requests; comparing product features against competitors; planning or scoring a customer POC or sales demo; preparing a technical proposal; or performing win/loss competitor analysis. Handles tasks described as 'RFP response', 'bid response', 'proposal response', 'competitor comparison', 'feature matrix', 'POC planning', 'sales demo prep', or 'pre-sales engineering'.
+description: 分析 RFP／RFI 应答文件的覆盖缺口，构建竞争性功能对比矩阵，并为售前工程规划概念验证（POC）项目。在回应 RFP、投标或提案请求，对比产品与竞争对手功能，规划或评估客户 POC 与销售演示，准备技术方案，或进行赢单／丢单竞争分析时使用。可处理描述为「RFP response」「bid response」「proposal response」「competitor comparison」「feature matrix」「POC planning」「sales demo prep」或「pre-sales engineering」的任务。 | Analyzes RFP/RFI responses for coverage gaps, builds competitive feature comparison matrices, and plans proof-of-concept (POC) engagements for pre-sales engineering. Use when responding to RFPs, bids, or proposal requests; comparing product features against competitors; planning or scoring a customer POC or sales demo; preparing a technical proposal; or performing win/loss competitor analysis. Handles tasks described as 'RFP response', 'bid response', 'proposal response', 'competitor comparison', 'feature matrix', 'POC planning', 'sales demo prep', or 'pre-sales engineering'.
 ---
 
 # Sales Engineer Skill

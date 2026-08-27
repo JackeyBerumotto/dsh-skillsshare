@@ -1,6 +1,6 @@
 ---
 name: progressive-loading
-description: Implements hub-and-spoke lazy loading to minimize token usage in large skills. Use when building multi-module skills that need conditional on-demand loading.
+description: 实现轴辐式懒加载，以最小化大型技能的 token 消耗。在构建需要按条件按需加载的多模块技能时使用。 | Implements hub-and-spoke lazy loading to minimize token usage in large skills. Use when building multi-module skills that need conditional on-demand loading.
 alwaysApply: false
 category: infrastructure
 tags:

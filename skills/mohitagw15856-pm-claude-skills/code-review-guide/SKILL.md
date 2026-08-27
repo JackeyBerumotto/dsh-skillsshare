@@ -1,6 +1,6 @@
 ---
 name: code-review-guide
-description: "Review a pull request or diff like a thoughtful senior engineer — prioritized, kind, and focused on what matters. Use when reviewing code, giving PR feedback, or asked to 'review this change'. Produces a structured review: a correctness/design pass, comments ranked by severity (blocking → nit), what's done well, and a clear approve / request-changes call — feedback that improves the code and the author."
+description: "像一位思虑周全的资深工程师那样审查拉取请求或 diff——分清主次、语气友善、聚焦真正要紧的事。在审查代码、给出 PR 反馈或被要求「review this change」时使用。产出结构化审查：正确性/设计走查、按严重程度排序的评论（阻断性 → 细枝末节）、做得好的地方，以及明确的 approve / request-changes 结论——让代码和作者都受益的反馈。 | Review a pull request or diff like a thoughtful senior engineer — prioritized, kind, and focused on what matters. Use when reviewing code, giving PR feedback, or asked to 'review this change'. Produces a structured review: a correctness/design pass, comments ranked by severity (blocking → nit), what's done well, and a clear approve / request-changes call — feedback that improves the code and the author."
 ---
 
 # Code Review Guide Skill

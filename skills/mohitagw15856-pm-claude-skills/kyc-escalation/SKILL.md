@@ -1,6 +1,6 @@
 ---
 name: kyc-escalation
-description: "Write an internal KYC/AML escalation memo: a factual time-stamped trigger description, customer-profile vs activity mismatch analysis, red-flag taxonomy mapping, outstanding information, and a recommendation with rationale. Use when asked to escalate a KYC alert, document an AML concern, write up unusual-activity findings for compliance review, or prepare an enhanced due diligence referral. Produces a structured internal escalation memo for a compliance team's decision-makers."
+description: "撰写内部 KYC/AML 升级备忘录：基于事实的带时间戳触发描述、客户画像与行为不匹配分析、红旗类型映射、待补信息，以及带理由的建议。在被要求升级 KYC 警报、记录 AML 疑点、为合规审查撰写异常活动发现，或准备强化尽职调查转交时使用。产出供合规团队决策者使用的结构化内部升级备忘录。 | Write an internal KYC/AML escalation memo: a factual time-stamped trigger description, customer-profile vs activity mismatch analysis, red-flag taxonomy mapping, outstanding information, and a recommendation with rationale. Use when asked to escalate a KYC alert, document an AML concern, write up unusual-activity findings for compliance review, or prepare an enhanced due diligence referral. Produces a structured internal escalation memo for a compliance team's decision-makers."
 ---
 
 # KYC Escalation Skill

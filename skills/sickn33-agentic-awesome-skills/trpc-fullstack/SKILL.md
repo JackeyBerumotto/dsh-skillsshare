@@ -1,6 +1,6 @@
 ---
 name: trpc-fullstack
-description: "Build end-to-end type-safe APIs with tRPC — routers, procedures, middleware, subscriptions, and Next.js/React integration patterns."
+description: "使用 tRPC 构建端到端类型安全的 API——涵盖路由器、过程、中间件、订阅，以及 Next.js 与 React 集成模式。 | Build end-to-end type-safe APIs with tRPC — routers, procedures, middleware, subscriptions, and Next.js/React integration patterns."
 category: framework
 risk: none
 source: community

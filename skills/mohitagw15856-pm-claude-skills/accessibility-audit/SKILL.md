@@ -1,6 +1,6 @@
 ---
 name: accessibility-audit
-description: "Generate a WCAG 2.2 accessibility audit checklist and remediation suggestions for any UI or design. Use when asked to audit for accessibility, check WCAG compliance, review a design for a11y issues, or create an accessibility remediation plan. Produces a prioritised checklist with pass/fail assessments and specific fixes."
+description: "为任何 UI 或设计生成 WCAG 2.2 无障碍审计清单与整改建议。当被要求做无障碍审计、检查 WCAG 合规、评审设计的 a11y 问题或制定无障碍整改计划时使用。产出按优先级排序的清单，含通过/未通过判定与具体修复。 | Generate a WCAG 2.2 accessibility audit checklist and remediation suggestions for any UI or design. Use when asked to audit for accessibility, check WCAG compliance, review a design for a11y issues, or create an accessibility remediation plan. Produces a prioritised checklist with pass/fail assessments and specific fixes."
 ---
 
 # Accessibility Audit Skill

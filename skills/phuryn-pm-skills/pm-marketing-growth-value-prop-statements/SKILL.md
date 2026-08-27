@@ -1,6 +1,6 @@
 ---
 name: value-prop-statements
-description: "Generate value proposition statements for marketing, sales, and onboarding from existing value propositions. Use when writing marketing copy, creating sales messaging, or crafting onboarding messages."
+description: "从现有价值主张出发，为营销、销售和入职生成价值主张陈述。在撰写营销文案、创建销售信息或打磨入职消息时使用。 | Generate value proposition statements for marketing, sales, and onboarding from existing value propositions. Use when writing marketing copy, creating sales messaging, or crafting onboarding messages."
 ---
 # Value Proposition Statements
 

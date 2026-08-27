@@ -1,6 +1,6 @@
 ---
 name: generating-compliance-reports
-description: Generate comprehensive compliance reports for security standards. Use when creating compliance documentation. Trigger with 'generate compliance report', 'compliance status', or 'audit compliance'.
+description: 为安全标准生成全面的合规报告。在创建合规文档时使用。触发短语如「generate compliance report」、「compliance status」或「audit compliance」。 | Generate comprehensive compliance reports for security standards. Use when creating compliance documentation. Trigger with 'generate compliance report', 'compliance status', or 'audit compliance'.
 version: 1.0.0
 allowed-tools:
 - Read

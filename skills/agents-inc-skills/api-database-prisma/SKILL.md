@@ -1,6 +1,6 @@
 ---
 name: api-database-prisma
-description: Prisma ORM, type-safe queries, migrations, relations
+description: Prisma ORM、类型安全查询、迁移、关联关系 | Prisma ORM, type-safe queries, migrations, relations
 ---
 
 # Database with Prisma ORM

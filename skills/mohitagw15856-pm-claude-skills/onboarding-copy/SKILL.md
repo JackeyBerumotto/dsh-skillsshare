@@ -1,6 +1,6 @@
 ---
 name: onboarding-copy
-description: "Write in-product onboarding copy that gets users to value fast. Use when asked to write onboarding copy, a welcome flow, product tour/tooltips, setup steps, or activation messaging. Produces the copy for an onboarding flow — welcome, the guided steps/tooltips toward the first win, progress and empty-to-active nudges, and a success moment — focused on the activation outcome, not a feature tour."
+description: "撰写让用户快速获得价值的产品内入职文案。在被要求编写入职文案、欢迎流程、产品导览/提示框、设置步骤或激活消息时使用。产出入职流程文案——欢迎、通往首次成功的引导步骤/提示、进度与从空到活跃的推动，以及成功时刻——聚焦激活结果而非功能巡礼。 | Write in-product onboarding copy that gets users to value fast. Use when asked to write onboarding copy, a welcome flow, product tour/tooltips, setup steps, or activation messaging. Produces the copy for an onboarding flow — welcome, the guided steps/tooltips toward the first win, progress and empty-to-active nudges, and a success moment — focused on the activation outcome, not a feature tour."
 ---
 
 # Onboarding Copy Skill

@@ -1,6 +1,6 @@
 ---
 name: performance-review
-description: Detects time and space complexity hotspots via AST scan. Use when code feels slow, before performance-sensitive merges, or to find O(n²) regressions.
+description: 通过 AST 扫描检测时间和空间复杂度热点。当代码运行缓慢、性能敏感的合并之前，或需要找出 O(n²) 劣化时使用。 | Detects time and space complexity hotspots via AST scan. Use when code feels slow, before performance-sensitive merges, or to find O(n²) regressions.
 alwaysApply: false
 category: code-quality
 tags:

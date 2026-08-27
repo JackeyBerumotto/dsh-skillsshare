@@ -1,6 +1,6 @@
 ---
 name: startup-metrics-framework
-description: "Comprehensive guide to tracking, calculating, and optimizing key performance metrics for different startup business models from seed through Series A."
+description: "跟踪、计算和优化不同初创公司商业模式关键绩效指标的综合指南，覆盖从种子轮到 A 轮。 | Comprehensive guide to tracking, calculating, and optimizing key performance metrics for different startup business models from seed through Series A."
 risk: safe
 source: community
 date_added: '2026-02-27'

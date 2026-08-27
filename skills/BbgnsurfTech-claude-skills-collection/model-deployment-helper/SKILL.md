@@ -1,8 +1,5 @@
 ---
-description: This skill enables claude to deploy machine learning models to production
-  environments. it automates the deployment workflow, implements best practices for
-  serving models, optimizes performance, and handles potential errors. use this skill
-  when th...
+description: "本技能使 claude 能够将机器学习模型部署到生产环境。它自动化部署工作流、实施模型服务的最佳实践、优化性能并处理潜在错误。当用户请求部署机器学习模型时使用本技能。 | This skill enables claude to deploy machine learning models to production environments. it automates the deployment workflow, implements best practices for serving models, optimizes performance, and handles potential errors. use this skill when th..."
 allowed-tools:
 - Read
 - Write

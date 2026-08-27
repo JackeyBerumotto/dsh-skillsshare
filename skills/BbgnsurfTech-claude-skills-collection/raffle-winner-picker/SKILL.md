@@ -1,6 +1,6 @@
 ---
 name: raffle-winner-picker
-description: Picks random winners from lists, spreadsheets, or Google Sheets for giveaways, raffles, and contests. Ensures fair, unbiased selection with transparency.
+description: 从列表、电子表格或 Google Sheets 中为抽奖、摇号和竞赛随机抽取获胜者。以透明的方式确保公平、无偏的选择。 | Picks random winners from lists, spreadsheets, or Google Sheets for giveaways, raffles, and contests. Ensures fair, unbiased selection with transparency.
 ---
 
 # Raffle Winner Picker

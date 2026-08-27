@@ -1,6 +1,6 @@
 ---
 name: friendly
-description: Approachable, intuitive design with rounded elements, ample whitespace, and soft pastel color palettes.
+description: 亲切直观的设计，采用圆角元素、充足留白和柔和的粉彩色调。 | Approachable, intuitive design with rounded elements, ample whitespace, and soft pastel color palettes.
 license: MIT
 metadata:
   author: typeui.sh

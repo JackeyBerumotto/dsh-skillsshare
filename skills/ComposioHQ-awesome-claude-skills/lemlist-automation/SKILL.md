@@ -1,6 +1,6 @@
 ---
 name: Lemlist Automation
-description: "Automate Lemlist multichannel outreach -- manage campaigns, enroll leads, add personalization variables, export campaign data, and handle unsubscribes via the Composio MCP integration."
+description: "通过 Composio MCP 集成自动化 Lemlist 多渠道外联：管理营销活动、录入潜在客户、添加个性化变量、导出活动数据并处理退订。 | Automate Lemlist multichannel outreach -- manage campaigns, enroll leads, add personalization variables, export campaign data, and handle unsubscribes via the Composio MCP integration."
 requires:
   mcp:
     - rube

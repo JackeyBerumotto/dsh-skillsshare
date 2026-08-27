@@ -1,6 +1,6 @@
 ---
 name: aso
-description: "When the user wants to audit or optimize an App Store or Google Play listing. Also use when the user mentions 'ASO audit,' 'app store optimization,' 'optimize my app listing,' 'improve app visibility,' 'app store ranking,' 'audit my listing,' 'why aren't people downloading my app,' 'improve my app conversion,' 'keyword optimization for app,' or 'compare my app to competitors.' Use when the user shares an App Store or Google Play URL and wants to improve it."
+description: "当用户想要审计或优化 App Store 或 Google Play 的应用详情页时使用。当用户提到「ASO audit」「app store optimization」「optimize my app listing」「improve app visibility」「app store ranking」「audit my listing」「为什么没人下载我的应用」「improve my app conversion」「keyword optimization for app」或「compare my app to competitors」时也应使用。当用户分享 App Store 或 Google Play 链接并希望加以改进时使用。 | When the user wants to audit or optimize an App Store or Google Play listing. Also use when the user mentions 'ASO audit,' 'app store optimization,' 'optimize my app listing,' 'improve app visibility,' 'app store ranking,' 'audit my listing,' 'why aren't people downloading my app,' 'improve my app conversion,' 'keyword optimization for app,' or 'compare my app to competitors.' Use when the user shares an App Store or Google Play URL and wants to improve it."
 metadata:
   version: 2.0.0
 ---

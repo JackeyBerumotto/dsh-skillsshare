@@ -1,6 +1,6 @@
 ---
 name: changelog-generator
-description: "Convert a git log, commit list, or release notes into a polished, user-facing changelog. Use when writing release notes, generating a CHANGELOG.md entry, or documenting what changed in a version. Produces a structured changelog section with version header, categorised changes, and migration notes. For an already-curated change list use changelog-writer instead."
+description: "将 git 日志、提交列表或发行说明转换为精美的面向用户的变更日志。在撰写发行说明、生成 CHANGELOG.md 条目或记录某个版本的变更内容时使用。产出包含版本标题、分类变更和迁移说明的结构化变更日志章节。如果已有整理好的变更列表，请改用 changelog-writer。 | Convert a git log, commit list, or release notes into a polished, user-facing changelog. Use when writing release notes, generating a CHANGELOG.md entry, or documenting what changed in a version. Produces a structured changelog section with version header, categorised changes, and migration notes. For an already-curated change list use changelog-writer instead."
 ---
 
 # Changelog Generator Skill

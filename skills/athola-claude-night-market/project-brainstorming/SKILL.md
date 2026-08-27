@@ -1,6 +1,6 @@
 ---
 name: project-brainstorming
-description: Guides project ideation via Socratic questioning to produce a validated brief. Use before specification when requirements are unclear.
+description: 通过苏格拉底式提问引导项目构思，产出经过验证的简报。在需求不明确时、进入规格阶段之前使用。 | Guides project ideation via Socratic questioning to produce a validated brief. Use before specification when requirements are unclear.
 alwaysApply: false
 # Custom metadata (not used by Claude for matching):
 model_preference: claude-sonnet-4-6

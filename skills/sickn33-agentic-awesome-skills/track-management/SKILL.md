@@ -1,6 +1,6 @@
 ---
 name: track-management
-description: Use this skill when creating, managing, or working with Conductor tracks - the logical work units for features, bugs, and refactors. Applies to spec.md, plan.md, and track lifecycle operations.
+description: 在创建、管理或处理 Conductor 轨道时使用此技能——轨道是功能、缺陷和重构的逻辑工作单元。适用于 spec.md、plan.md 及轨道生命周期操作。 | Use this skill when creating, managing, or working with Conductor tracks - the logical work units for features, bugs, and refactors. Applies to spec.md, plan.md, and track lifecycle operations.
 risk: safe
 source: community
 date_added: '2026-02-27'

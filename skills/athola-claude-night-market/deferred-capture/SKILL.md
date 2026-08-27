@@ -1,6 +1,6 @@
 ---
 name: deferred-capture
-description: Defines the contract for deferred-item capture across plugins. Use when building or validating a plugin's deferred-capture wrapper or adding source labels.
+description: 定义跨插件的延迟事项捕获契约。当构建或验证插件的延迟捕获包装器，或添加来源标签时使用。 | Defines the contract for deferred-item capture across plugins. Use when building or validating a plugin's deferred-capture wrapper or adding source labels.
 alwaysApply: false
 model_hint: standard
 ---

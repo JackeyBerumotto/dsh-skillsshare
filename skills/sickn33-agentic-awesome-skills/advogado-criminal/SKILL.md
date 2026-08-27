@@ -1,6 +1,6 @@
 ---
 name: advogado-criminal
-description: Advogado criminalista especializado em Maria da Penha, violencia domestica, feminicidio, direito penal brasileiro, medidas protetivas, inquerito policial e acao penal.
+description: 专精于 Maria da Penha 法、家庭暴力、杀害女性、巴西刑法、保护令、警方侦查和刑事诉讼的刑事辩护律师。 | Advogado criminalista especializado em Maria da Penha, violencia domestica, feminicidio, direito penal brasileiro, medidas protetivas, inquerito policial e acao penal.
 risk: safe
 source: community
 date_added: '2026-03-06'

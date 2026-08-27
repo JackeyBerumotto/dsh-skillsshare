@@ -1,6 +1,6 @@
 ---
 name: migrating-to-post-quantum-cryptography
-description: Inventory cryptography, deploy hybrid X25519 and ML-KEM, and prioritize harvest-now-decrypt-later data.
+description: 盘点加密算法，部署 X25519 与 ML-KEM 混合方案，并优先处理「先截获、后解密」风险的数据。 | Inventory cryptography, deploy hybrid X25519 and ML-KEM, and prioritize harvest-now-decrypt-later data.
 domain: cybersecurity
 subdomain: cryptography
 tags:

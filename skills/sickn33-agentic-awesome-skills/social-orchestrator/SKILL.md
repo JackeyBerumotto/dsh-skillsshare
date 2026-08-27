@@ -1,6 +1,6 @@
 ---
 name: social-orchestrator
-description: "Orquestrador unificado de canais sociais — coordena Instagram, Telegram e WhatsApp em um unico fluxo de trabalho. Publicacao cross-channel, metricas unificadas, reutilizacao de conteudo por formato, agendamento sincronizado e gestao centralizada de campanhas em todos os canais simultaneamente."
+description: "统一的社交渠道编排器——在一个工作流中协调 Instagram、Telegram 和 WhatsApp。支持跨渠道发布、统一指标、按格式复用内容、同步排期，以及在所有渠道上集中管理 campaigns。 | Orquestrador unificado de canais sociais — coordena Instagram, Telegram e WhatsApp em um unico fluxo de trabalho. Publicacao cross-channel, metricas unificadas, reutilizacao de conteudo por formato, agendamento sincronizado e gestao centralizada de campanhas em todos os canais simultaneamente."
 risk: critical
 source: community
 date_added: '2026-03-06'

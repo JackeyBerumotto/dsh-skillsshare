@@ -1,6 +1,6 @@
 ---
 name: continuous-learning-v2
-description: Instinct-based learning system that observes sessions via hooks, creates atomic instincts with confidence scoring, and evolves them into skills/commands/agents. v2.1 adds project-scoped instincts to prevent cross-project contamination.
+description: 基于直觉的学习系统，通过钩子观察会话，创建带置信度评分的原子直觉，并将其演化为技能/命令/智能体。v2.1 新增项目级直觉以防止跨项目污染。 | Instinct-based learning system that observes sessions via hooks, creates atomic instincts with confidence scoring, and evolves them into skills/commands/agents. v2.1 adds project-scoped instincts to prevent cross-project contamination.
 metadata:
   origin: ECC
 version: 2.1.0

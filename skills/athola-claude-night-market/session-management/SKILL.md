@@ -1,6 +1,6 @@
 ---
 name: session-management
-description: Manages Claude Code sessions with naming, checkpointing, and resume strategies. Use when organizing long-running work or resuming across sessions.
+description: 以命名、检查点与恢复策略管理 Claude Code 会话。在组织长期运行的工作或跨会话恢复时使用。 | Manages Claude Code sessions with naming, checkpointing, and resume strategies. Use when organizing long-running work or resuming across sessions.
 alwaysApply: false
 category: workflow
 tags:

@@ -1,6 +1,6 @@
 ---
 name: rice-prioritisation
-description: "Scores and ranks product initiatives using the RICE framework. Use when asked to prioritise features, rank a backlog using RICE, score initiatives for quarterly planning, or apply an objective framework to a list of competing ideas. Produces a ranked RICE table with scores, quick wins and moonshot flags, dependency notes, and a recommended sequencing order."
+description: "使用 RICE 框架为产品举措打分并排序。当被要求排列功能优先级、用 RICE 为 backlog 排序、为季度规划给举措打分，或对一组竞争想法应用客观框架时使用。产出排序后的 RICE 表格，包含得分、速赢与登月标志、依赖说明和建议的实施顺序。 | Scores and ranks product initiatives using the RICE framework. Use when asked to prioritise features, rank a backlog using RICE, score initiatives for quarterly planning, or apply an objective framework to a list of competing ideas. Produces a ranked RICE table with scores, quick wins and moonshot flags, dependency notes, and a recommended sequencing order."
 ---
 
 # RICE Prioritisation Skill

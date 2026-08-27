@@ -1,6 +1,6 @@
 ---
 name: sdk-dx
-description: 'Design SDKs that developers love to use—APIs that feel native, error messages that guide, and experiences that reduce friction. This skill covers creating SDKs that drive adoption through exceptional developer experience rather than aggressive marketing. Trigger phrases: "SDK design",...'
+description: '设计开发者乐于使用的 SDK：感觉原生的 API、有引导性的错误消息，以及减少摩擦的体验。本技能涵盖如何打造通过卓越开发者体验（而非激进营销）来推动采用的 SDK。触发短语：「SDK design」等。 | Design SDKs that developers love to use—APIs that feel native, error messages that guide, and experiences that reduce friction. This skill covers creating SDKs that drive adoption through exceptional developer experience rather than aggressive marketing. Trigger phrases: "SDK design",...'
 risk: unknown
 source: https://github.com/jonathimer/devmarketing-skills/tree/main/skills/sdk-dx
 source_repo: jonathimer/devmarketing-skills

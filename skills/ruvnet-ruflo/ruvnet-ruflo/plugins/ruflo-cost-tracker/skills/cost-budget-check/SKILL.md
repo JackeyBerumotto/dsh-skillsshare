@@ -1,6 +1,6 @@
 ---
 name: cost-budget-check
-description: Read accumulated cost-tracking spend + budget config, compute utilization, emit 50/75/90/100% alert ladder
+description: 读取累计的成本追踪支出与预算配置，计算使用率，并发出 50/75/90/100% 的告警阶梯。 | Read accumulated cost-tracking spend + budget config, compute utilization, emit 50/75/90/100% alert ladder
 argument-hint: "[--period today|week|month|all]"
 allowed-tools: Bash mcp__claude-flow__memory_retrieve mcp__claude-flow__memory_list mcp__claude-flow__memory_store
 ---

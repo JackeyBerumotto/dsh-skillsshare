@@ -1,6 +1,6 @@
 ---
 name: underwriting-narrative
-description: "Write the underwriting file narrative for a risk: the risk story, exposure quantification, loss-history read, mitigating and aggravating factors, terms and subjectivities rationale, appetite fit, and a refer-or-bind recommendation. Use when asked to write up an underwriting file, document why we're writing a risk, prepare a referral to a senior underwriter, or justify terms and exclusions on a submission. Produces a complete underwriting narrative ready for the file or referral."
+description: "为一份风险撰写核保档案叙述：风险故事、敞口量化、损失历史解读、减轻与加重因素、条款及附加条件理由、承保偏好匹配度，以及上报或承保的建议。在被要求撰写核保档案、说明为何承保某风险、准备向资深核保人上报，或论证报价与除外责任时使用。产出可直接归档或上报的完整核保叙述。 | Write the underwriting file narrative for a risk: the risk story, exposure quantification, loss-history read, mitigating and aggravating factors, terms and subjectivities rationale, appetite fit, and a refer-or-bind recommendation. Use when asked to write up an underwriting file, document why we're writing a risk, prepare a referral to a senior underwriter, or justify terms and exclusions on a submission. Produces a complete underwriting narrative ready for the file or referral."
 ---
 
 # Underwriting Narrative Skill

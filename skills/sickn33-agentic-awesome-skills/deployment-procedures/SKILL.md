@@ -1,6 +1,6 @@
 ---
 name: deployment-procedures
-description: "Production deployment principles and decision-making. Safe deployment workflows, rollback strategies, and verification. Teaches thinking, not scripts."
+description: "生产部署原则与决策。安全的部署流程、回滚策略和验证。教的是思维方式，而非脚本。 | Production deployment principles and decision-making. Safe deployment workflows, rollback strategies, and verification. Teaches thinking, not scripts."
 risk: critical
 source: community
 date_added: "2026-02-27"

@@ -2,7 +2,7 @@
 name: running-performance-tests
 version: 1.0.0
 description: |
-  Execute load testing, stress testing, and performance benchmarking.
+  执行负载测试、压力测试和性能基准测试。在进行专项测试时使用。触发短语包括「run load tests」「test performance」或「benchmark the system」。 |
   Use when performing specialized testing.
   Trigger with phrases like "run load tests", "test performance", or "benchmark the system".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(test:perf-*)

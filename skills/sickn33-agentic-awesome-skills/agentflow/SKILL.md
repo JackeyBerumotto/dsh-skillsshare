@@ -1,6 +1,6 @@
 ---
 name: agentflow
-description: "Orchestrate autonomous AI development pipelines through your Kanban board (Asana, GitHub Projects, Linear). Manages multi-worker Claude Code dispatch, deterministic quality gates, adversarial review, per-task cost tracking, and crash-proof pipeline execution."
+description: "通过看板（Asana、GitHub Projects、Linear）编排自主 AI 开发管道。管理多工作者 Claude Code 调度、确定性质量门、对抗性评审、按任务成本跟踪和防崩溃的管道执行。 | Orchestrate autonomous AI development pipelines through your Kanban board (Asana, GitHub Projects, Linear). Manages multi-worker Claude Code dispatch, deterministic quality gates, adversarial review, per-task cost tracking, and crash-proof pipeline execution."
 risk: safe
 source: community
 date_added: "2026-04-02"

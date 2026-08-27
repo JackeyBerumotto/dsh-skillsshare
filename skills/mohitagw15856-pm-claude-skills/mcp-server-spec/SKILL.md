@@ -1,6 +1,6 @@
 ---
 name: mcp-server-spec
-description: "Design an MCP server for a product — the tool surface, auth model, and safety boundaries that make it genuinely usable by AI agents. Use when asked to spec an MCP server, expose a product to agents, design tools for Claude or other MCP clients, or review why an existing MCP server performs badly. Produces a complete server spec: a small task-shaped toolset with agent-tested descriptions, auth and scoping decisions, error design, and an explicit not-exposed list."
+description: "为产品设计 MCP 服务器：工具面、授权模型和安全边界，使其真正可被 AI agent 使用。当被要求编写 MCP 服务器规格、向 agent 开放产品、为 Claude 或其他 MCP 客户端设计工具，或分析现有 MCP 服务器为何表现不佳时使用。产出完整的服务器规格：经 agent 验证过描述的小型面向任务的工具集、授权与作用域决策、错误设计，以及明确的不暴露清单。 | Design an MCP server for a product — the tool surface, auth model, and safety boundaries that make it genuinely usable by AI agents. Use when asked to spec an MCP server, expose a product to agents, design tools for Claude or other MCP clients, or review why an existing MCP server performs badly. Produces a complete server spec: a small task-shaped toolset with agent-tested descriptions, auth and scoping decisions, error design, and an explicit not-exposed list."
 ---
 
 # MCP Server Spec Skill

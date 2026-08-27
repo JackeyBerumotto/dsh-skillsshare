@@ -1,6 +1,6 @@
 ---
 name: skeumorphism
-description: Real-world mimicry with textured surfaces, 3D effects, and familiar physical metaphors for intuitive digital interfaces.
+description: 逼真拟物风格，使用带纹理的表面、3D 效果和熟悉的物理隐喻，打造直观的数字界面。 | Real-world mimicry with textured surfaces, 3D effects, and familiar physical metaphors for intuitive digital interfaces.
 license: MIT
 metadata:
   author: typeui.sh

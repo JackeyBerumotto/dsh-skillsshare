@@ -1,6 +1,6 @@
 ---
 name: support-runbook
-description: "Write a support runbook for handling a recurring issue type consistently. Use when asked to write a support runbook, a troubleshooting playbook for agents, a handling guide for a common issue, or a tier-1 response procedure. Produces a runbook — issue identification, triage/severity, step-by-step diagnosis & resolution, decision tree, when/how to escalate, and the customer-comms templates — so any agent resolves it the same way."
+description: "编写支持手册，用于一致地处理重复出现的问题类型。在被要求编写支持 runbook、面向客服的故障排查 playbook、常见问题处理指南或一线响应流程时使用。产出手册——问题识别、分诊/严重程度、逐步诊断与解决、决策树、何时/如何升级，以及客户沟通模板——让任何客服都以同样方式解决。 | Write a support runbook for handling a recurring issue type consistently. Use when asked to write a support runbook, a troubleshooting playbook for agents, a handling guide for a common issue, or a tier-1 response procedure. Produces a runbook — issue identification, triage/severity, step-by-step diagnosis & resolution, decision tree, when/how to escalate, and the customer-comms templates — so any agent resolves it the same way."
 ---
 
 # Support Runbook Skill

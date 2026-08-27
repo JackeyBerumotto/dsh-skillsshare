@@ -1,13 +1,6 @@
 ---
 name: analyzing-ransomware-payment-wallets
-description: 'Traces ransomware cryptocurrency payment flows using blockchain analysis
-  tools such as Chainalysis Reactor, WalletExplorer, and blockchain.com APIs. Identifies
-  wallet clusters, tracks fund movement through mixers and exchanges, and supports
-  law enforcement attribution. Activates for requests involving ransomware payment
-  tracing, bitcoin wallet analysis, cryptocurrency forensics, or blockchain intelligence
-  gathering.
-
-  '
+description: "使用 Chainalysis Reactor、WalletExplorer 与 blockchain.com API 等区块链分析工具追踪勒索软件加密货币支付流。识别钱包簇、追踪经由混币器与交易所的资金流动，并支持执法归因。适用于涉及勒索软件支付追踪、比特币钱包分析、加密货币取证或区块链情报收集的请求。 | Traces ransomware cryptocurrency payment flows using blockchain analysis tools such as Chainalysis Reactor, WalletExplorer, and blockchain.com APIs. Identifies wallet clusters, tracks fund movement through mixers and exchanges, and supports law enforcement attribution. Activates for requests involving ransomware payment tracing, bitcoin wallet analysis, cryptocurrency forensics, or blockchain intelligence gathering."
 domain: cybersecurity
 subdomain: ransomware-defense
 tags:

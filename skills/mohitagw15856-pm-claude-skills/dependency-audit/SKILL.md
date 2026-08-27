@@ -1,6 +1,6 @@
 ---
 name: dependency-audit
-description: "Audits project dependencies for security vulnerabilities, license compliance issues, outdated packages, and transitive dependency risk. Use when asked to audit dependencies, review package security, check license compliance, assess dependency health, or produce a vulnerability report. Produces a vulnerability findings table, license compliance matrix, update priority matrix, dependency health score, and 30-day remediation plan."
+description: "审计项目依赖的安全漏洞、许可证合规问题、过期包以及传递性依赖风险。当被要求审计依赖、审查包安全性、检查许可证合规性、评估依赖健康度或生成漏洞报告时使用。产出漏洞发现表、许可证合规矩阵、更新优先级矩阵、依赖健康评分以及 30 天整改计划。 | Audits project dependencies for security vulnerabilities, license compliance issues, outdated packages, and transitive dependency risk. Use when asked to audit dependencies, review package security, check license compliance, assess dependency health, or produce a vulnerability report. Produces a vulnerability findings table, license compliance matrix, update priority matrix, dependency health score, and 30-day remediation plan."
 ---
 
 # Dependency Audit Skill

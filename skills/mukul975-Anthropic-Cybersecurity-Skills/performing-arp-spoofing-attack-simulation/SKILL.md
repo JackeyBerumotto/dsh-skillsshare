@@ -1,10 +1,6 @@
 ---
 name: performing-arp-spoofing-attack-simulation
-description: 'Simulates ARP spoofing attacks in authorized lab or pentest environments
-  using arpspoof, Ettercap, and Scapy to demonstrate man-in-the-middle risks, test
-  network detection capabilities, and validate ARP inspection countermeasures.
-
-  '
+description: "在经授权的实验室或渗透测试环境中使用 arpspoof、Ettercap 与 Scapy 模拟 ARP 欺骗攻击，演示中间人风险、测试网络检测能力并验证 ARP 检查防护措施。 | Simulates ARP spoofing attacks in authorized lab or pentest environments using arpspoof, Ettercap, and Scapy to demonstrate man-in-the-middle risks, test network detection capabilities, and validate ARP inspection countermeasures."
 domain: cybersecurity
 subdomain: network-security
 tags:

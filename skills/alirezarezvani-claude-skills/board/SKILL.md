@@ -1,6 +1,6 @@
 ---
 name: "board"
-description: "Read, write, and browse the AgentHub message board for agent coordination. Use when the user runs /hub:board or asks to post, read, or inspect coordination messages between competing AgentHub agents."
+description: "读取、写入并浏览用于智能体协同的 AgentHub 消息板。当用户运行 /hub:board 或要求发布、读取或检查相互竞争的 AgentHub 智能体之间的协同消息时使用。 | Read, write, and browse the AgentHub message board for agent coordination. Use when the user runs /hub:board or asks to post, read, or inspect coordination messages between competing AgentHub agents."
 command: /hub:board
 ---
 

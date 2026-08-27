@@ -1,6 +1,6 @@
 ---
 name: cyber-audit
-description: "Run read-only exposure checks for security advisories and write a structured local audit report."
+description: "运行针对安全通告的只读暴露检查，并撰写结构化的本地审计报告。 | Run read-only exposure checks for security advisories and write a structured local audit report."
 category: security
 risk: safe
 source: community

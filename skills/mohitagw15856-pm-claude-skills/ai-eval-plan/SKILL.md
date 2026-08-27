@@ -1,6 +1,6 @@
 ---
 name: ai-eval-plan
-description: "Design an evaluation plan for an LLM or AI feature before shipping it. Use when asked how to evaluate a prompt/model/agent, set up an eval harness, define quality metrics for an AI feature, or build a regression gate. Produces an eval plan — task definition, datasets, metrics & rubrics, baselines, automated + human evals, a pass bar, and a regression gate."
+description: "在上线前为 LLM 或 AI 功能设计评估计划。当被问到如何评估提示词/模型/agent、搭建评估工具链、为 AI 功能定义质量指标或构建回归门禁时使用。产出评估计划：任务定义、数据集、指标与量规、基线、自动化 + 人工评估、通过标准以及回归门禁。 | Design an evaluation plan for an LLM or AI feature before shipping it. Use when asked how to evaluate a prompt/model/agent, set up an eval harness, define quality metrics for an AI feature, or build a regression gate. Produces an eval plan — task definition, datasets, metrics & rubrics, baselines, automated + human evals, a pass bar, and a regression gate."
 ---
 
 # AI Eval Plan Skill

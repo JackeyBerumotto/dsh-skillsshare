@@ -1,6 +1,6 @@
 ---
 name: chart
-description: "Turn numbers into a chart — bar, line, area, pie, or doughnut. Use when asked to chart or graph data, visualize metrics/trends/breakdowns, or show numbers as a picture instead of a table. Produces a ready-to-render chart spec (renders live in the playground and exports as PNG) plus a one-line read of what the chart shows."
+description: "把数字变成图表——柱状图、折线图、面积图、饼图或环形图。当被要求为数据绘制图表、可视化指标/趋势/分布，或用图形而非表格展示数字时使用。产出可直接渲染的图表规格（可在 playground 中实时渲染并导出为 PNG），并附一句话解读图表所展示的内容。 | Turn numbers into a chart — bar, line, area, pie, or doughnut. Use when asked to chart or graph data, visualize metrics/trends/breakdowns, or show numbers as a picture instead of a table. Produces a ready-to-render chart spec (renders live in the playground and exports as PNG) plus a one-line read of what the chart shows."
 ---
 
 # Chart Skill

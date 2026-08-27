@@ -1,7 +1,7 @@
 ---
 name: godot-animation
 description: >
-  Animate in Godot 4.x three ways: AnimationPlayer for keyframed clips (incl. call
+  在 Godot 4.x 中用三种方式制作动画：AnimationPlayer 用于关键帧剪辑（包括调用轨道和信号轨道），AnimationTree 借助状态机和混合空间用于角色动画，Tween 通过 create_tween() 用于短小的程序化／UI 补间。在 .tscn 中使用 AnimationPlayer／AnimationTree 节点、混合角色状态、制作精灵表动画或编写代码驱动的 Tween 时使用。 |
   and signal tracks), AnimationTree with state machines and blend spaces for
   character animation, and Tween for short procedural/UI tweens via create_tween().
   Use when working with AnimationPlayer/AnimationTree nodes in a .tscn, blending

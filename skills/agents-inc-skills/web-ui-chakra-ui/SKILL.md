@@ -1,6 +1,6 @@
 ---
 name: web-ui-chakra-ui
-description: Accessible React component library with style props and theming
+description: 无障碍的 React 组件库，支持样式属性和主题定制 | Accessible React component library with style props and theming
 ---
 
 # Chakra UI v3 Patterns

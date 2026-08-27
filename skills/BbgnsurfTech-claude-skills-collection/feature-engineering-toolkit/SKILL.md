@@ -1,8 +1,6 @@
 ---
 name: engineering-features-for-machine-learning
-description: Create, select, and transform features to improve machine learning model
-  performance. Handles feature scaling, encoding, and importance analysis. Use when
-  asked to "engineer features" or "select features".
+description: "创建、选择和转换特征以提升机器学习模型性能。处理特征缩放、编码和重要性分析。当被要求「engineer features」或「select features」时使用。 | Create, select, and transform features to improve machine learning model performance. Handles feature scaling, encoding, and importance analysis. Use when asked to \"engineer features\" or \"select features\"."
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash
 license: MIT
 ---

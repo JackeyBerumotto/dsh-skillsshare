@@ -1,6 +1,6 @@
 ---
 name: bash-linux
-description: "Bash/Linux terminal patterns. Critical commands, piping, error handling, scripting. Use when working on macOS or Linux systems."
+description: "Bash 与 Linux 终端模式。关键命令、管道、错误处理与脚本编写。在 macOS 或 Linux 系统上工作时使用。 | Bash/Linux terminal patterns. Critical commands, piping, error handling, scripting. Use when working on macOS or Linux systems."
 risk: unknown
 source: community
 date_added: "2026-02-27"

@@ -1,6 +1,6 @@
 ---
 name: full-output-enforcement
-description: "Use when a task requires exhaustive unabridged output, complete files, or strict prevention of placeholders and skipped code."
+description: "当任务需要完整无删节的输出、完整文件，或严格防止占位符和跳过代码时使用。 | Use when a task requires exhaustive unabridged output, complete files, or strict prevention of placeholders and skipped code."
 category: frontend
 risk: safe
 source: community

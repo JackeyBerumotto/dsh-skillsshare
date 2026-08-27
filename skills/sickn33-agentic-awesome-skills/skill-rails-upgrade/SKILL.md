@@ -1,6 +1,6 @@
 ---
 name: skill-rails-upgrade
-description: "Analyze Rails apps and provide upgrade assessments"
+description: "分析 Rails 应用并提供升级评估 | Analyze Rails apps and provide upgrade assessments"
 risk: safe
 source: "https://github.com/robzolkos/skill-rails-upgrade"
 date_added: "2026-02-27"

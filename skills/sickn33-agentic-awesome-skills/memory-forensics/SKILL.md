@@ -1,6 +1,6 @@
 ---
 name: memory-forensics
-description: "Comprehensive techniques for acquiring, analyzing, and extracting artifacts from memory dumps for incident response and malware analysis."
+description: "用于事件响应和恶意软件分析的内存转储获取、分析与制品提取综合技术。 | Comprehensive techniques for acquiring, analyzing, and extracting artifacts from memory dumps for incident response and malware analysis."
 risk: unknown
 source: community
 date_added: "2026-02-27"

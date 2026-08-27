@@ -1,6 +1,6 @@
 ---
 name: performance-testing-review-multi-agent-review
-description: "Use when working with performance testing review multi agent review"
+description: "在处理性能测试评审（performance testing review）中的多代理评审（multi agent review）时使用。 | Use when working with performance testing review multi agent review"
 risk: unknown
 source: community
 date_added: "2026-02-27"

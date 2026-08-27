@@ -1,6 +1,6 @@
 ---
 name: team-builder
-description: Interactive agent picker for composing and dispatching parallel teams
+description: 用于组建并派遣并行团队的交互式智能体选择器 | Interactive agent picker for composing and dispatching parallel teams
 metadata:
   origin: community
 ---

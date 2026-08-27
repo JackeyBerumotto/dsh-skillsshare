@@ -1,6 +1,6 @@
 ---
 name: deployment-pipeline-design
-description: "Architecture patterns for multi-stage CI/CD pipelines with approval gates and deployment strategies."
+description: "多阶段 CI/CD 流水线的架构模式，包含审批门禁与部署策略。 | Architecture patterns for multi-stage CI/CD pipelines with approval gates and deployment strategies."
 risk: critical
 source: community
 date_added: "2026-02-27"

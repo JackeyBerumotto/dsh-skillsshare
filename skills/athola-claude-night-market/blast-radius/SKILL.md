@@ -1,7 +1,7 @@
 ---
 name: blast-radius
 role: entrypoint
-description: Analyzes code change impact with risk scoring and affected-node mapping. Use before merging to understand what a change touches and what lacks test coverage.
+description: 分析代码变更影响，提供风险评分与受影响节点映射。在合并前使用，以了解变更触及的范围以及缺少测试覆盖的部分。 | Analyzes code change impact with risk scoring and affected-node mapping. Use before merging to understand what a change touches and what lacks test coverage.
 model_hint: standard
 tags:
 - code-review

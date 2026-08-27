@@ -1,6 +1,6 @@
 ---
 name: database-migrations-migration-observability
-description: "Migration monitoring, CDC, and observability infrastructure"
+description: "迁移监控、CDC 与可观测性基础设施。 | Migration monitoring, CDC, and observability infrastructure"
 risk: unknown
 source: community
 tags: "database, cdc, debezium, kafka, prometheus, grafana, monitoring"

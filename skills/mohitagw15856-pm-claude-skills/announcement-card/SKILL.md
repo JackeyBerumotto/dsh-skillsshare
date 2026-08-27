@@ -1,6 +1,6 @@
 ---
 name: announcement-card
-description: "Write a short, punchy announcement designed to be shared as an image or social card. Use when asked to announce a launch, milestone, feature, hire, funding, or win — something to post on LinkedIn/X/Slack. Produces a tight, visually-structured announcement (headline, one-liner, 2-3 proof points, CTA) that looks great exported as a PNG card from the playground."
+description: "撰写适合以图片或社交卡片形式分享的简短有力的公告。在被要求宣布发布、里程碑、新功能、新雇员、融资或胜利——发布到 LinkedIn/X/Slack 的内容时使用。产出紧凑、视觉结构化的公告（标题、一句话说明、2-3 个证明点、CTA），从 playground 导出为 PNG 卡片效果出色。 | Write a short, punchy announcement designed to be shared as an image or social card. Use when asked to announce a launch, milestone, feature, hire, funding, or win — something to post on LinkedIn/X/Slack. Produces a tight, visually-structured announcement (headline, one-liner, 2-3 proof points, CTA) that looks great exported as a PNG card from the playground."
 ---
 
 # Announcement Card Skill

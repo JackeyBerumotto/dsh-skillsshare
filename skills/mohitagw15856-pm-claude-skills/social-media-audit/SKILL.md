@@ -1,6 +1,6 @@
 ---
 name: social-media-audit
-description: "Audit an existing social media presence across all active platforms. Use when asked to review social media performance, analyse a brand's social presence, benchmark against competitors, or identify what's working and what isn't. Produces a scored audit with platform-by-platform analysis, content performance review, competitive benchmarking, and a prioritised action plan."
+description: "审计现有社交媒体在所有活跃平台上的表现。当被要求评估社交媒体表现、分析品牌的社交影响力、与竞争对手对标或找出有效与无效之处时使用。产出带评分的审计结果，包括逐平台分析、内容表现评估、竞争对标以及按优先级排序的行动计划。 | Audit an existing social media presence across all active platforms. Use when asked to review social media performance, analyse a brand's social presence, benchmark against competitors, or identify what's working and what isn't. Produces a scored audit with platform-by-platform analysis, content performance review, competitive benchmarking, and a prioritised action plan."
 ---
 
 # Social Media Audit Skill

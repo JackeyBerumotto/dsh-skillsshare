@@ -1,6 +1,6 @@
 ---
 name: web-error-handling-result-types
-description: TypeScript Result/Either types for type-safe error handling, railway-oriented programming patterns, error as values
+description: TypeScript 的 Result/Either 类型，用于类型安全的错误处理、铁路式编程模式和「错误即值」理念。 | TypeScript Result/Either types for type-safe error handling, railway-oriented programming patterns, error as values
 ---
 
 # TypeScript Result Type Patterns

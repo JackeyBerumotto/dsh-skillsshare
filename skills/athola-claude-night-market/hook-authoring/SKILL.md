@@ -1,6 +1,6 @@
 ---
 name: hook-authoring
-description: 'Guide creating Claude Code hooks with security-first design. Use for validation and enforcement.'
+description: '指导创建安全优先的 Claude Code hook。用于验证与强制执行。 | Guide creating Claude Code hooks with security-first design. Use for validation and enforcement.'
 alwaysApply: false
 category: hook-development
 tags:

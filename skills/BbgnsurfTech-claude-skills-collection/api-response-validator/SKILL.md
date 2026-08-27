@@ -2,7 +2,7 @@
 name: validating-api-responses
 version: 1.0.0
 description: |
-  Validate API responses against schemas to ensure contract compliance and data integrity.
+  根据模式验证 API 响应以确保契约合规和数据完整性。在确保 API 响应正确性时使用。触发词如「validate responses」「check API responses」或「verify response format」。 |
   Use when ensuring API response correctness.
   Trigger with phrases like "validate responses", "check API responses", or "verify response format".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(api:validate-*)

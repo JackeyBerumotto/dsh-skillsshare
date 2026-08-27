@@ -1,6 +1,6 @@
 ---
 name: justify
-description: Audits changes for additive bias and Iron Law compliance. Use when reviewing completed work before merging or after AI-assisted implementation.
+description: 审计变更中的附加偏差与 Iron Law 合规性。在合并前审查已完成的工作或在 AI 辅助实现之后使用。 | Audits changes for additive bias and Iron Law compliance. Use when reviewing completed work before merging or after AI-assisted implementation.
 alwaysApply: false
 category: workflow-methodology
 tags:

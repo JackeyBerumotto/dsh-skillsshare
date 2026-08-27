@@ -1,11 +1,6 @@
 ---
 name: analyzing-tls-certificate-transparency-logs
-description: 'Queries Certificate Transparency logs via crt.sh and pycrtsh to detect
-  phishing domains, unauthorized certificate issuance, and shadow IT. Monitors newly
-  issued certificates for typosquatting and brand impersonation using Levenshtein
-  distance. Use for proactive phishing domain detection and certificate monitoring.
-
-  '
+description: "通过 crt.sh 与 pycrtsh 查询证书透明度日志，检测钓鱼域名、未授权证书签发与影子 IT。使用 Levenshtein 距离监控新签发证书中的误植域名与品牌仿冒。适用于主动钓鱼域名检测与证书监控。 | Queries Certificate Transparency logs via crt.sh and pycrtsh to detect phishing domains, unauthorized certificate issuance, and shadow IT. Monitors newly issued certificates for typosquatting and brand impersonation using Levenshtein distance. Use for proactive phishing domain detection and certificate monitoring."
 domain: cybersecurity
 subdomain: security-operations
 tags:

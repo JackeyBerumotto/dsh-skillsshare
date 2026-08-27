@@ -1,6 +1,6 @@
 ---
 name: executive-summary
-description: "Write an executive summary for any document, report, or proposal. Use when asked to write an executive summary, management summary, briefing paper, or one-pager for senior stakeholders. Produces a structured summary that busy executives can read in under 3 minutes and act on."
+description: "为任何文档、报告或提案撰写执行摘要。在被要求编写执行摘要、管理摘要、简报文件或面向高管干系人的一页纸时使用。产出忙碌高管能在 3 分钟内读完并据此行动的结构化摘要。 | Write an executive summary for any document, report, or proposal. Use when asked to write an executive summary, management summary, briefing paper, or one-pager for senior stakeholders. Produces a structured summary that busy executives can read in under 3 minutes and act on."
 ---
 
 # Executive Summary Skill

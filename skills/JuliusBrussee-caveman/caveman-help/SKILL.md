@@ -1,7 +1,7 @@
 ---
 name: caveman-help
 description: >
-  Quick-reference card for all caveman modes, skills, and commands.
+  所有 caveman 模式、技能和命令的速查卡。一次性展示，不是持久模式。触发：/caveman-help、「caveman help」、「what caveman commands」、「how do I use caveman」。 |
   One-shot display, not a persistent mode. Trigger: /caveman-help,
   "caveman help", "what caveman commands", "how do I use caveman".
 ---

@@ -1,6 +1,6 @@
 ---
 name: react-best-practices
-description: "Comprehensive performance optimization guide for React and Next.js applications, maintained by Vercel. Use when writing new React components or Next.js pages, implementing data fetching (client or server-side), or reviewing code for performance issues."
+description: "由 Vercel 维护的 React 和 Next.js 应用综合性能优化指南。在编写新的 React 组件或 Next.js 页面、实现数据获取（客户端或服务端），或审查代码性能问题时使用。 | Comprehensive performance optimization guide for React and Next.js applications, maintained by Vercel. Use when writing new React components or Next.js pages, implementing data fetching (client or server-side), or reviewing code for performance issues."
 risk: safe
 source: community
 date_added: "2026-02-27"

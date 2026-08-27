@@ -1,6 +1,6 @@
 ---
 name: promotion-packet
-description: "Build a promotion case that proves you're already operating at the next level. Use when asked to write a promo packet/case, prepare for a promotion committee, or make the case for a level-up or title change. Produces a promotion packet — the level-up thesis, evidence mapped to each next-level competency, scope/impact highlights, peer-quote slots, and the gaps to close before submitting."
+description: "构建一份证明你已在下一职级水平上工作的晋升申请。当被要求撰写晋升材料、为晋升委员会做准备，或为升级或头衔变更陈述理由时使用。产出晋升材料——晋升论点、与下一职级各项能力一一对应的证据、影响范围与成果亮点、同事引言占位，以及提交前需要弥补的差距。 | Build a promotion case that proves you're already operating at the next level. Use when asked to write a promo packet/case, prepare for a promotion committee, or make the case for a level-up or title change. Produces a promotion packet — the level-up thesis, evidence mapped to each next-level competency, scope/impact highlights, peer-quote slots, and the gaps to close before submitting."
 ---
 
 # Promotion Packet Skill

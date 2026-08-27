@@ -1,6 +1,6 @@
 ---
 name: agent-design-review
-description: "Review an LLM agent design and find where it will be unreliable, expensive, or unsafe. Use when asked to review an agent architecture, critique a multi-step/tool-using agent, debug an agent that loops or goes off-task, or harden an agent before launch. Produces a structured review — task fit, control flow, tools, memory/context, failure handling, cost, and safety — with prioritised findings and fixes."
+description: "审查 LLM 智能体设计，找出其不可靠、昂贵或不安全之处。当被要求审查智能体架构、点评多步骤/使用工具的智能体、调试陷入循环或偏离任务的智能体，或在上线前加固智能体时使用。产出结构化审查——任务适配度、控制流、工具、记忆/上下文、失败处理、成本和安全——并附按优先级排序的发现与修复。 | Review an LLM agent design and find where it will be unreliable, expensive, or unsafe. Use when asked to review an agent architecture, critique a multi-step/tool-using agent, debug an agent that loops or goes off-task, or harden an agent before launch. Produces a structured review — task fit, control flow, tools, memory/context, failure handling, cost, and safety — with prioritised findings and fixes."
 ---
 
 # Agent Design Review Skill

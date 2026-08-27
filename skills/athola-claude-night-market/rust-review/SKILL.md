@@ -1,6 +1,6 @@
 ---
 name: rust-review
-description: Audits Rust code for unsafe blocks, ownership issues, and Cargo dependency risks. Use when reviewing Rust code or before merging Rust changes.
+description: 审计 Rust 代码中的 unsafe 块、所有权问题和 Cargo 依赖风险。在审查 Rust 代码或合并 Rust 变更前使用。 | Audits Rust code for unsafe blocks, ownership issues, and Cargo dependency risks. Use when reviewing Rust code or before merging Rust changes.
 globs: "**/*.rs"
 alwaysApply: false
 category: code-review

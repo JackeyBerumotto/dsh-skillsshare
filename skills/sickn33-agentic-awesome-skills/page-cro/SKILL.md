@@ -1,6 +1,6 @@
 ---
 name: page-cro
-description: Analyze and optimize individual pages for conversion performance.
+description: 分析并优化单个页面的转化表现。 | Analyze and optimize individual pages for conversion performance.
 risk: unknown
 source: community
 date_added: '2026-02-27'

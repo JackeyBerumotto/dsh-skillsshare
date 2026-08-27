@@ -1,7 +1,7 @@
 ---
 name: audio-design
 description: >
-  Implement game audio practice — bus/mixer architecture and gain in decibels,
+  实践游戏音频——总线/混音器架构与分贝增益、闪避（侧链）、通过分层与重排实现自适应/动态音乐、音效变奏以及节拍同步。与引擎无关。当用户提到音频混音、音频总线、自适应/动态音乐、闪避、音效变奏、音乐分层或将玩法与节拍同步时使用。 |
   ducking (sidechain), adaptive/dynamic music via layering and re-sequencing,
   SFX variation, and beat synchronization. Engine-neutral. Use when the user
   mentions audio mixing, audio buses, adaptive/dynamic music, ducking, SFX

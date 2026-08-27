@@ -1,6 +1,6 @@
 ---
 name: api-framework-elysia
-description: Bun-native HTTP framework — routing, TypeBox validation, Eden Treaty, plugins, lifecycle hooks
+description: Bun 原生 HTTP 框架——路由、TypeBox 校验、Eden Treaty、插件、生命周期钩子 | Bun-native HTTP framework — routing, TypeBox validation, Eden Treaty, plugins, lifecycle hooks
 ---
 
 # API Development with Elysia

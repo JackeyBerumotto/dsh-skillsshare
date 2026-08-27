@@ -1,6 +1,6 @@
 ---
 name: unified-review
-description: Orchestrates multi-domain review (code, arch, tests, security) in a single pass. Use when thorough pre-release review is needed.
+description: 一次通过即完成多领域评审（代码、架构、测试、安全）。在需要发布前的彻底评审时使用。 | Orchestrates multi-domain review (code, arch, tests, security) in a single pass. Use when thorough pre-release review is needed.
 alwaysApply: false
 category: orchestration
 tags:

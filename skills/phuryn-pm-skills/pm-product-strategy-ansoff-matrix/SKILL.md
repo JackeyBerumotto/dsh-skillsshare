@@ -1,6 +1,6 @@
 ---
 name: ansoff-matrix
-description: "Generate an Ansoff Matrix analysis mapping growth strategies across market penetration, market development, product development, and diversification. Use when considering growth options, planning market expansion, or evaluating strategic growth paths."
+description: "生成安索夫矩阵分析，从市场渗透、市场开发、产品开发与多元化四个方向映射增长战略。在权衡增长选项、规划市场扩张或评估战略增长路径时使用。 | Generate an Ansoff Matrix analysis mapping growth strategies across market penetration, market development, product development, and diversification. Use when considering growth options, planning market expansion, or evaluating strategic growth paths."
 ---
 # Ansoff Matrix
 

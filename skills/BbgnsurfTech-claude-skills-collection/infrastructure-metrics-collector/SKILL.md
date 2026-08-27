@@ -1,6 +1,6 @@
 ---
 name: collecting-infrastructure-metrics
-description: Collect comprehensive infrastructure performance metrics across compute, storage, network, containers, load balancers, and databases. Use when monitoring system performance or troubleshooting infrastructure issues. Trigger with phrases like "collect infrastructure metrics", "monitor server performance", or "track system resources".
+description: 采集覆盖计算、存储、网络、容器、负载均衡器和数据库的全面基础设施性能指标。在监控系统性能或排查基础设施问题时使用。通过「collect infrastructure metrics」「monitor server performance」「track system resources」等短语触发。 | Collect comprehensive infrastructure performance metrics across compute, storage, network, containers, load balancers, and databases. Use when monitoring system performance or troubleshooting infrastructure issues. Trigger with phrases like "collect infrastructure metrics", "monitor server performance", or "track system resources".
 version: 1.0.0
 allowed-tools:
 - Read

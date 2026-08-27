@@ -1,6 +1,6 @@
 ---
 name: intelligence-transfer
-description: Publish or fetch learned patterns across projects via IPFS (Pinata) -- the cross-project pattern transfer that hooks_transfer enables
+description: 通过 IPFS（Pinata）跨项目发布或获取已学习的模式——即 hooks_transfer 所支持的跨项目模式迁移 | Publish or fetch learned patterns across projects via IPFS (Pinata) -- the cross-project pattern transfer that hooks_transfer enables
 argument-hint: "<store|load|from-project> [--cid <ipfs-cid>] [--source <project-path>]"
 allowed-tools: mcp__claude-flow__hooks_transfer mcp__claude-flow__hooks_intelligence_pattern-search mcp__claude-flow__hooks_intelligence_pattern-store mcp__claude-flow__neural_patterns mcp__claude-flow__neural_status Bash
 ---

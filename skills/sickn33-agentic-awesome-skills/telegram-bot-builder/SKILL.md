@@ -1,9 +1,6 @@
 ---
 name: telegram-bot-builder
-description: Expert in building Telegram bots that solve real problems - from
-  simple automation to complex AI-powered bots. Covers bot architecture, the
-  Telegram Bot API, user experience, monetization strategies, and scaling bots
-  to thousands of users.
+description: "精通构建解决实际问题的 Telegram 机器人——从简单的自动化到复杂的 AI 驱动机器人。涵盖机器人架构、Telegram Bot API、用户体验、变现策略，以及将机器人扩展到数千用户。 | Expert in building Telegram bots that solve real problems - from simple automation to complex AI-powered bots. Covers bot architecture, the Telegram Bot API, user experience, monetization strategies, and scaling bots to thousands of users."
 risk: unknown
 source: vibeship-spawner-skills (Apache 2.0)
 date_added: 2026-02-27

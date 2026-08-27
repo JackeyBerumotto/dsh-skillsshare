@@ -1,6 +1,6 @@
 ---
 name: accint-frames
-description: Drain acc's deliberation queue — open/waiting brain_frames checkpointed by headless runs — via acc_act(runtime="continue").
+description: 通过 acc_act(runtime=「continue」) 排空 acc 的审议队列——即由无头运行检查点保存的处于 open/waiting 状态的 brain_frames。 | Drain acc's deliberation queue — open/waiting brain_frames checkpointed by headless runs — via acc_act(runtime="continue").
 risk: unknown
 source: https://github.com/maxbaluev/accreted-intelligence/tree/main/plugins/claude/skills/frames
 source_repo: maxbaluev/accreted-intelligence

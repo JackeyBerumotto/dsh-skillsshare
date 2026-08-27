@@ -1,8 +1,5 @@
 ---
-description: This skill configures service meshes like istio and linkerd for microservices.
-  it generates production-ready configurations, implements best practices, and ensures
-  a security-first approach. use this skill when the user asks to "configure service
-  ...
+description: "本技能为微服务配置 istio 与 linkerd 等服务网格。它生成生产级配置、实施最佳实践并确保安全优先的方法。当用户要求「configure service mesh」等配置服务网格的操作时使用本技能。 | This skill configures service meshes like istio and linkerd for microservices. it generates production-ready configurations, implements best practices, and ensures a security-first approach. use this skill when the user asks to \"configure service ..."
 allowed-tools:
 - Read
 - Write

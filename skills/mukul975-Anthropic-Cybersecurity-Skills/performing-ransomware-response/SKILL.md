@@ -1,13 +1,6 @@
 ---
 name: performing-ransomware-response
-description: 'Executes a structured ransomware incident response from initial detection
-  through containment, forensic analysis, decryption assessment, recovery, and post-incident
-  hardening. Addresses ransom negotiation considerations, backup integrity verification,
-  and regulatory notification requirements. Activates for requests involving ransomware
-  response, ransomware recovery, crypto-ransomware, data encryption attack, ransom
-  payment decision, or ransomware containment.
-
-  '
+description: "执行结构化的勒索软件事件响应，涵盖从初始检测到遏制、取证分析、解密评估、恢复以及事后加固的全过程。处理赎金谈判考量、备份完整性验证和监管通报要求。当请求涉及勒索软件响应、勒索软件恢复、加密勒索软件、数据加密攻击、赎金支付决策或勒索软件遏制时激活。 | Executes a structured ransomware incident response from initial detection through containment, forensic analysis, decryption assessment, recovery, and post-incident hardening. Addresses ransom negotiation considerations, backup integrity verification, and regulatory notification requirements. Activates for requests involving ransomware response, ransomware recovery, crypto-ransomware, data encryption attack, ransom payment decision, or ransomware containment."
 domain: cybersecurity
 subdomain: incident-response
 tags:

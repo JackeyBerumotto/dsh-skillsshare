@@ -1,6 +1,6 @@
 ---
 name: agent-eval
-description: Head-to-head comparison of coding agents (Claude Code, Aider, Codex, etc.) on custom tasks with pass rate, cost, time, and consistency metrics
+description: 编码代理（Claude Code、Aider、Codex 等）在自定义任务上的正面交锋对比，指标涵盖通过率、成本、耗时和一致性 | Head-to-head comparison of coding agents (Claude Code, Aider, Codex, etc.) on custom tasks with pass rate, cost, time, and consistency metrics
 license: MIT
 metadata:
   origin: ECC

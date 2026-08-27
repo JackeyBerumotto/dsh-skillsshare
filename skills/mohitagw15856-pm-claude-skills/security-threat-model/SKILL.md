@@ -1,6 +1,6 @@
 ---
 name: security-threat-model
-description: "Write a STRIDE-based threat model for a service or feature. Use when asked to produce a threat model, document security risks, identify attack vectors, assess a service's security posture, or prepare for a security design review. Produces a structured threat model covering assets, trust boundaries, STRIDE threat enumeration per component, risk scores, mitigation controls, and residual risk sign-off."
+description: "为服务或功能编写基于 STRIDE 的威胁模型。在被要求产出威胁模型、记录安全风险、识别攻击向量、评估服务安全态势或为安全设计评审做准备时使用。产出结构化威胁模型，涵盖资产、信任边界、按组件的 STRIDE 威胁枚举、风险评分、缓解控制和残余风险签署。 | Write a STRIDE-based threat model for a service or feature. Use when asked to produce a threat model, document security risks, identify attack vectors, assess a service's security posture, or prepare for a security design review. Produces a structured threat model covering assets, trust boundaries, STRIDE threat enumeration per component, risk scores, mitigation controls, and residual risk sign-off."
 ---
 
 # Security Threat Model Skill

@@ -1,6 +1,6 @@
 ---
 name: utility
-description: Scores agent actions by expected gain, cost, uncertainty, and redundancy. Use when deciding whether to dispatch an agent or invoke a tool.
+description: 按预期收益、成本、不确定性和冗余度为代理动作打分。在决定是否派发代理或调用工具时使用。 | Scores agent actions by expected gain, cost, uncertainty, and redundancy. Use when deciding whether to dispatch an agent or invoke a tool.
 alwaysApply: false
 category: infrastructure
 tags:

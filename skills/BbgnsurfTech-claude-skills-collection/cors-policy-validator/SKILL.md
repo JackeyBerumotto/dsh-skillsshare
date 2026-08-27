@@ -1,6 +1,6 @@
 ---
 name: validating-cors-policies
-description: Validate CORS policies for security issues and misconfigurations. Use when reviewing cross-origin resource sharing. Trigger with 'validate CORS', 'check CORS policy', or 'review cross-origin'.
+description: 验证 CORS 策略的安全问题和错误配置。在评审跨源资源共享时使用。触发词如「validate CORS」「check CORS policy」或「review cross-origin」。 | Validate CORS policies for security issues and misconfigurations. Use when reviewing cross-origin resource sharing. Trigger with 'validate CORS', 'check CORS policy', or 'review cross-origin'.
 version: 1.0.0
 allowed-tools:
 - Read

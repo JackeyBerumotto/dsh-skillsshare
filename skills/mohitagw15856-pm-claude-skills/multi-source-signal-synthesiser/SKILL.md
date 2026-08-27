@@ -1,6 +1,6 @@
 ---
 name: multi-source-signal-synthesiser
-description: "Synthesises user signals from multiple research sources into a unified, weighted insight brief. Use when you have data from interviews, support tickets, NPS verbatims, app reviews, or sales calls and need to reconcile contradictions, surface the underlying need behind requests, or answer 'what are users really telling us'. Produces ranked insights with confidence ratings, source weighting rationale, divergent signal analysis by user segment, and a research gap identification section."
+description: "将来自多个研究来源的用户信号综合为统一且带权重的洞察简报。当你拥有访谈、支持工单、NPS 原话、应用评论或销售电话数据，需要调和矛盾、挖掘请求背后的深层需求，或回答「用户到底在告诉我们什么」时使用。产出带置信度评分的排序洞察、来源权重依据、按用户细分划分的分歧信号分析以及研究空白识别部分。 | Synthesises user signals from multiple research sources into a unified, weighted insight brief. Use when you have data from interviews, support tickets, NPS verbatims, app reviews, or sales calls and need to reconcile contradictions, surface the underlying need behind requests, or answer 'what are users really telling us'. Produces ranked insights with confidence ratings, source weighting rationale, divergent signal analysis by user segment, and a research gap identification section."
 ---
 
 # Multi-Source Signal Synthesiser Skill

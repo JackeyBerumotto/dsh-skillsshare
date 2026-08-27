@@ -1,6 +1,6 @@
 ---
 name: graduated-implementation
-description: Ramps implementation ambition a notch only after the prior increment is understood. Use when building a feature you must understand, not just ship.
+description: 只有在理解了上一个增量之后，才把实现雄心调高一档。当你构建的是必须真正理解、而不只是交付的功能时使用。 | Ramps implementation ambition a notch only after the prior increment is understood. Use when building a feature you must understand, not just ship.
 alwaysApply: false
 category: workflow-methodology
 tags:

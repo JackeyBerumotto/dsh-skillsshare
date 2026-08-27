@@ -1,6 +1,6 @@
 ---
 name: "cs-onboard"
-description: "Founder onboarding interview that captures company context across 7 dimensions. Invoke with /cs:setup for initial interview or /cs:update for quarterly refresh. Generates ~/.claude/company-context.md used by all C-suite advisor skills. Use when setting up the C-suite advisors for the first time, or when company context is missing or more than 90 days old — e.g. after a fundraise or pivot."
+description: "创始人入职访谈，按 7 个维度采集公司背景。用 /cs:setup 发起首次访谈，用 /cs:update 做季度刷新。生成 ~/.claude/company-context.md，供所有 C-suite 顾问技能使用。在首次设置 C-suite 顾问、或公司背景缺失或已超过 90 天时使用——例如融资或转型之后。 | Founder onboarding interview that captures company context across 7 dimensions. Invoke with /cs:setup for initial interview or /cs:update for quarterly refresh. Generates ~/.claude/company-context.md used by all C-suite advisor skills. Use when setting up the C-suite advisors for the first time, or when company context is missing or more than 90 days old — e.g. after a fundraise or pivot."
 license: MIT
 metadata:
   version: 1.0.0

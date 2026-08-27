@@ -1,6 +1,6 @@
 ---
 name: flowchart
-description: "Turn a process, workflow, or decision logic into a clean flowchart. Use when asked to diagram a process, map a workflow, visualize steps/branches, or show 'how this works' as a chart. Produces a ready-to-render Mermaid flowchart (renders live in the playground, exportable as PNG/SVG) plus a short legend and the assumptions made."
+description: "将流程、工作流或决策逻辑转换为清晰的流程图。当被要求绘制流程图、映射工作流、可视化步骤/分支，或以图表形式展示「这是如何运作的」时使用。产出可直接渲染的 Mermaid 流程图（可在 playground 中实时渲染、可导出为 PNG/SVG），附带简短图例和所作的假设。 | Turn a process, workflow, or decision logic into a clean flowchart. Use when asked to diagram a process, map a workflow, visualize steps/branches, or show 'how this works' as a chart. Produces a ready-to-render Mermaid flowchart (renders live in the playground, exportable as PNG/SVG) plus a short legend and the assumptions made."
 ---
 
 # Flowchart Skill

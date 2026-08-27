@@ -1,6 +1,6 @@
 ---
 name: "api-design-reviewer"
-description: "Comprehensive REST API design review with automated linting, breaking-change detection, and design scorecards. Catches inconsistent conventions, missing versioning, and design smells before APIs ship. Use when reviewing a PR that adds or changes API endpoints, auditing an existing API for v2 migration, or establishing API standards for a team."
+description: "全面的 REST API 设计审查，提供自动化 lint、破坏性变更检测和设计评分卡。在 API 上线前捕获不一致的约定、缺失的版本控制以及设计异味。在审查新增或修改 API 端点的 PR、为迁移 v2 审计既有 API，或为团队制定 API 标准时使用。 | Comprehensive REST API design review with automated linting, breaking-change detection, and design scorecards. Catches inconsistent conventions, missing versioning, and design smells before APIs ship. Use when reviewing a PR that adds or changes API endpoints, auditing an existing API for v2 migration, or establishing API standards for a team."
 ---
 
 # API Design Reviewer

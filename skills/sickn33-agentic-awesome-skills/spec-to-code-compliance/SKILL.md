@@ -1,6 +1,6 @@
 ---
 name: spec-to-code-compliance
-description: Verifies code implements exactly what documentation specifies for blockchain audits. Use when comparing code against whitepapers, finding gaps between specs and implementation, or performing compliance checks for protocol implementations.
+description: 为区块链审计验证代码是否与文档规定完全一致。适用于将代码与白皮书对照、查找规范与实现之间的差距，或对协议实现执行合规检查。 | Verifies code implements exactly what documentation specifies for blockchain audits. Use when comparing code against whitepapers, finding gaps between specs and implementation, or performing compliance checks for protocol implementations.
 risk: unknown
 source: community
 ---

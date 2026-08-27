@@ -1,7 +1,7 @@
 ---
 name: agentic-jujutsu
 description: |
-  Quantum-resistant, self-learning version control for AI agents with ReasoningBank intelligence and multi-agent coordination
+  面向 AI 智能体的抗量子、自学习版本控制，具备 ReasoningBank 智能和多智能体协调能力 |
 ---
 
 # Agentic Jujutsu - AI Agent Version Control

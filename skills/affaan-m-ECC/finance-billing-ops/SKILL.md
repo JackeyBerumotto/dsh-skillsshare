@@ -1,6 +1,6 @@
 ---
 name: finance-billing-ops
-description: Evidence-first revenue, pricing, refunds, team-billing, and billing-model truth workflow for ECC. Use when the user wants a sales snapshot, pricing comparison, duplicate-charge diagnosis, or code-backed billing reality instead of generic payments advice.
+description: 面向 ECC 的证据优先的收入、定价、退款、团队计费与计费模型真相工作流。当用户需要销售快照、定价对比、重复扣费诊断，或有代码依据的计费实况而非泛泛的支付建议时使用。 | Evidence-first revenue, pricing, refunds, team-billing, and billing-model truth workflow for ECC. Use when the user wants a sales snapshot, pricing comparison, duplicate-charge diagnosis, or code-backed billing reality instead of generic payments advice.
 metadata:
   origin: ECC
 ---

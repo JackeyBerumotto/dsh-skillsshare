@@ -1,6 +1,6 @@
 ---
 name: performance-review
-description: "Write structured, balanced performance reviews from bullet-point inputs. Use when asked to write a performance review, self-assessment, peer review, 360 feedback, or manager evaluation. Produces a complete, fair, professionally written review covering achievements, areas for growth, and development goals."
+description: "从要点输入撰写结构化、平衡的绩效评估。在被要求编写绩效评估、自评、同事互评、360 反馈或经理评价时使用。产出完整、公正、专业的评估，涵盖成就、待成长领域和发展目标。 | Write structured, balanced performance reviews from bullet-point inputs. Use when asked to write a performance review, self-assessment, peer review, 360 feedback, or manager evaluation. Produces a complete, fair, professionally written review covering achievements, areas for growth, and development goals."
 ---
 
 # Performance Review Skill

@@ -1,6 +1,6 @@
 ---
 name: gdpr-dsgvo-expert
-description: Senior GDPR/DSGVO expert and internal/external auditor for data protection compliance. Provides EU GDPR and German DSGVO expertise, privacy impact assessments, data protection auditing, and compliance verification. Use for GDPR compliance assessments, privacy audits, data protection planning, and regulatory compliance verification.
+description: 资深 GDPR/DSGVO 专家兼数据保护合规的内外部审计师。提供欧盟 GDPR 和德国 DSGVO 专长、隐私影响评估、数据保护审计和合规验证。用于 GDPR 合规评估、隐私审计、数据保护规划和法规合规验证。 | Senior GDPR/DSGVO expert and internal/external auditor for data protection compliance. Provides EU GDPR and German DSGVO expertise, privacy impact assessments, data protection auditing, and compliance verification. Use for GDPR compliance assessments, privacy audits, data protection planning, and regulatory compliance verification.
 ---
 
 # Senior GDPR/DSGVO Expert and Auditor

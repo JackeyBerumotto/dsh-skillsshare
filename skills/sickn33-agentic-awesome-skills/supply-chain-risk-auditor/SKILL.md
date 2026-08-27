@@ -1,6 +1,6 @@
 ---
 name: supply-chain-risk-auditor
-description: "Identifies dependencies at heightened risk of exploitation or takeover. Use when assessing supply chain attack surface, evaluating dependency health, or scoping security engagements."
+description: "识别面临较高被利用或被接管风险的依赖项。在评估供应链攻击面、考察依赖健康状况或界定安全工作范围时使用。 | Identifies dependencies at heightened risk of exploitation or takeover. Use when assessing supply chain attack surface, evaluating dependency health, or scoping security engagements."
 allowed-tools:
   - Read
   - Write

@@ -1,6 +1,6 @@
 ---
 name: levels
-description: Conversion-focused design that removes friction and guides users toward action through clarity, trust, and speed.
+description: 以转化为导向的设计，通过清晰、信任和速度消除摩擦，引导用户采取行动。 | Conversion-focused design that removes friction and guides users toward action through clarity, trust, and speed.
 license: MIT
 metadata:
   author: typeui.sh

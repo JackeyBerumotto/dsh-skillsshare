@@ -1,14 +1,6 @@
 ---
 name: deploying-ransomware-canary-files
-description: 'Deploys and monitors ransomware canary files across critical directories
-  using Python''s watchdog library for real-time filesystem event detection. Places
-  strategically named decoy files that mimic high-value targets (financial records,
-  credentials, database exports) in locations ransomware typically enumerates first.
-  Monitors for any read, modify, rename, or delete operations on canary files and
-  triggers immediate alerts via email, Slack webhook, or syslog when interaction is
-  detected, providing early warning before full encryption begins.
-
-  '
+description: "使用 Python 的 watchdog 库在关键目录中部署并监控勒索软件金丝雀文件，实时检测文件系统事件。在勒索软件通常优先枚举的位置放置策略性命名的诱饵文件，模仿高价值目标（财务记录、凭据、数据库导出）。监控金丝雀文件上的任何读取、修改、重命名或删除操作，一旦检测到交互，立即通过邮件、Slack Webhook 或 syslog 触发告警，在全盘加密开始之前提供早期预警。 | Deploys and monitors ransomware canary files across critical directories using Python''s watchdog library for real-time filesystem event detection. Places strategically named decoy files that mimic high-value targets (financial records, credentials, database exports) in locations ransomware typically enumerates first. Monitors for any read, modify, rename, or delete operations on canary files and triggers immediate alerts via email, Slack webhook, or syslog when interaction is detected, providing early warning before full encryption begins."
 domain: cybersecurity
 subdomain: ransomware-defense
 tags:

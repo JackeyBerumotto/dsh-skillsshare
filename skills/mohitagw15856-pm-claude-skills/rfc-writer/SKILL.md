@@ -1,6 +1,6 @@
 ---
 name: rfc-writer
-description: "Write an engineering RFC (Request for Comments) for a technical decision, architectural change, or significant implementation approach. Use when asked to write an RFC, document a technical proposal, create a design doc, write an architecture decision for review, or produce a technical specification for team feedback. Produces a complete RFC document covering problem statement, motivation, proposed solution, alternatives rejected, implementation plan, migration plan, security and performance implications, observability changes, rollout plan, and open questions."
+description: "为技术决策、架构变更或重要实现方案编写工程 RFC（征求意见稿）。在被要求编写 RFC、记录技术提案、创建设计文档、撰写供评审的架构决策，或产出供团队反馈的技术规格时使用。产出完整 RFC 文档，涵盖问题陈述、动机、建议方案、被否决的备选方案、实施计划、迁移计划、安全与性能影响、可观测性变更、发布计划和开放问题。 | Write an engineering RFC (Request for Comments) for a technical decision, architectural change, or significant implementation approach. Use when asked to write an RFC, document a technical proposal, create a design doc, write an architecture decision for review, or produce a technical specification for team feedback. Produces a complete RFC document covering problem statement, motivation, proposed solution, alternatives rejected, implementation plan, migration plan, security and performance implications, observability changes, rollout plan, and open questions."
 ---
 
 # RFC Writer Skill

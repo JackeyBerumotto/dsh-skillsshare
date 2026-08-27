@@ -1,6 +1,6 @@
 ---
 name: "resume"
-description: "Resume a paused experiment. Checkout the experiment branch, read results history, continue iterating. Use when the user runs /ar:resume or asks to pick up a previously started autoresearch experiment."
+description: "恢复暂停的实验。检出实验分支、读取结果历史、继续迭代。当用户运行 /ar:resume 或要求继续之前启动的 autoresearch 实验时使用。 | Resume a paused experiment. Checkout the experiment branch, read results history, continue iterating. Use when the user runs /ar:resume or asks to pick up a previously started autoresearch experiment."
 command: /ar:resume
 ---
 

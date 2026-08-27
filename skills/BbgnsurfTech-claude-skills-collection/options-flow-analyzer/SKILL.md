@@ -2,7 +2,7 @@
 name: analyzing-options-flow
 version: 1.0.0
 description: |
-  Track crypto options flow to identify institutional positioning and market sentiment.
+  跟踪加密货币期权流向，以识别机构仓位和市场情绪。用于跟踪机构期权流向时。使用「track options flow」「analyze derivatives」「check institutional」等短语触发。 |
   Use when tracking institutional options flow.
   Trigger with phrases like "track options flow", "analyze derivatives", or "check institutional".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(crypto:options-*)

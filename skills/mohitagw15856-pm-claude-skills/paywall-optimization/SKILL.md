@@ -1,6 +1,6 @@
 ---
 name: paywall-optimization
-description: "Design or optimize a paywall / upgrade screen to convert free users to paid without killing trust. Use when asked to improve a paywall, upgrade prompt, or free-to-paid conversion, or to decide what to gate. Produces the gating strategy (what's free vs. paid and why), the paywall placement and moment, the screen's copy and plan layout, and the metrics to watch — conversion that respects the user."
+description: "设计或优化付费墙/升级页面，在不损害信任的前提下将免费用户转化为付费用户。当被要求改进付费墙、升级提示或免费转付费转化，或决定哪些功能需要门控时使用。产出门控策略（哪些免费、哪些付费及原因）、付费墙位置与触发时机、页面文案与套餐布局，以及需关注的指标：一种尊重用户的转化。 | Design or optimize a paywall / upgrade screen to convert free users to paid without killing trust. Use when asked to improve a paywall, upgrade prompt, or free-to-paid conversion, or to decide what to gate. Produces the gating strategy (what's free vs. paid and why), the paywall placement and moment, the screen's copy and plan layout, and the metrics to watch — conversion that respects the user."
 ---
 
 # Paywall Optimization Skill

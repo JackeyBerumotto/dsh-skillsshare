@@ -1,6 +1,6 @@
 ---
 name: offensive-krack-fragattacks
-description: "KRACK (CVE-2017-13077..082) and FragAttacks (CVE-2020-24586..588 + 26139-26147) — key reinstallation, fragmentation, and aggregation attacks against WPA2 supplicants. Covers Vanhoef's test scripts, viability against modern patched stacks (mostly mitigated post-2021), residual unpatched embedded devices and IoT vendors, and the practical limitations of these attacks in modern engagements. Use when assessing legacy supplicants, embedded clients, or vendors with poor patch cadence."
+description: "KRACK（CVE-2017-13077..082）与 FragAttacks（CVE-2020-24586..588 及 26139-26147）——针对 WPA2 supplicant 的密钥重装、分片与聚合攻击。涵盖 Vanhoef 的测试脚本、对现代已修补协议栈的可行性（2021 年后大多已缓解）、仍未修补的存量嵌入式设备与 IoT 厂商，以及这些攻击在现代项目中的实际局限。在评估老旧 supplicant、嵌入式客户端或补丁节奏差的厂商时使用。 | KRACK (CVE-2017-13077..082) and FragAttacks (CVE-2020-24586..588 + 26139-26147) — key reinstallation, fragmentation, and aggregation attacks against WPA2 supplicants. Covers Vanhoef's test scripts, viability against modern patched stacks (mostly mitigated post-2021), residual unpatched embedded devices and IoT vendors, and the practical limitations of these attacks in modern engagements. Use when assessing legacy supplicants, embedded clients, or vendors with poor patch cadence."
 ---
 
 # KRACK & FragAttacks

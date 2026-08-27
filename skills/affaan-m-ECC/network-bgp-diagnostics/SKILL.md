@@ -1,6 +1,6 @@
 ---
 name: network-bgp-diagnostics
-description: Diagnostics-only BGP troubleshooting patterns for neighbor state, route exchange, prefix policy, AS path inspection, and safe evidence collection.
+description: 仅用于诊断的 BGP 排障模式，覆盖邻居状态、路由交换、前缀策略、AS 路径检查和安全取证。 | Diagnostics-only BGP troubleshooting patterns for neighbor state, route exchange, prefix policy, AS path inspection, and safe evidence collection.
 metadata:
   origin: community
 ---

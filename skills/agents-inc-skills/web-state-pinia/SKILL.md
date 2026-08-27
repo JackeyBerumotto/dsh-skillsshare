@@ -1,6 +1,6 @@
 ---
 name: web-state-pinia
-description: Pinia stores, Vue 3 state patterns. Use when managing client state in Vue applications, choosing between Options/Setup stores, composing stores, or implementing persistence.
+description: Pinia store 与 Vue 3 状态模式。在 Vue 应用中管理客户端状态、在 Options/Setup store 之间选择、组合 store 或实现持久化时使用。 | Pinia stores, Vue 3 state patterns. Use when managing client state in Vue applications, choosing between Options/Setup stores, composing stores, or implementing persistence.
 ---
 
 # Pinia State Management Patterns

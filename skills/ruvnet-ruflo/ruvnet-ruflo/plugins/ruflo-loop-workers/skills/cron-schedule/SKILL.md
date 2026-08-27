@@ -1,6 +1,6 @@
 ---
 name: cron-schedule
-description: Schedule persistent background workers via CronCreate
+description: 通过 CronCreate 调度持久后台任务。 | Schedule persistent background workers via CronCreate
 argument-hint: "<worker-name> [--interval CRON]"
 allowed-tools: CronCreate CronList CronDelete mcp__claude-flow__hooks_worker-dispatch
 ---

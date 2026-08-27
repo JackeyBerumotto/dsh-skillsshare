@@ -1,6 +1,6 @@
 ---
 name: meta-reviewing-cli-reviewing
-description: CLI code review patterns. Use when reviewing CLI applications built with Commander.js, @clack/prompts, picocolors. Covers exit codes, signal handling, error messages, user experience, testing adequacy.
+description: CLI 代码评审模式。当评审用 Commander.js、@clack/prompts、picocolors 构建的 CLI 应用时使用。涵盖退出码、信号处理、错误信息、用户体验和测试充分性。 | CLI code review patterns. Use when reviewing CLI applications built with Commander.js, @clack/prompts, picocolors. Covers exit codes, signal handling, error messages, user experience, testing adequacy.
 ---
 
 # CLI Code Review Patterns

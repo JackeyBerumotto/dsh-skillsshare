@@ -1,6 +1,6 @@
 ---
 name: observability-engineer
-description: Build production-ready monitoring, logging, and tracing systems. Implements comprehensive observability strategies, SLI/SLO management, and incident response workflows.
+description: 构建生产就绪的监控、日志和链路追踪系统。实现全面的可观测性策略、SLI 与 SLO 管理以及事件响应工作流。 | Build production-ready monitoring, logging, and tracing systems. Implements comprehensive observability strategies, SLI/SLO management, and incident response workflows.
 risk: unknown
 source: community
 date_added: '2026-02-27'

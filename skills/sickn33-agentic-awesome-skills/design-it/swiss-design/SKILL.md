@@ -1,6 +1,6 @@
 ---
 name: swiss-design
-description: Web and App implementation guide for Swiss Design (International Typographic Style). Trigger when user wants strict grid systems, strong typography, and clean, asymmetrical alignment.
+description: Swiss Design（瑞士设计/国际字体排印风格）的 Web 与 App 实现指南。当用户需要严谨的网格系统、强有力的字体排印和干净的不对称对齐时触发。 | Web and App implementation guide for Swiss Design (International Typographic Style). Trigger when user wants strict grid systems, strong typography, and clean, asymmetrical alignment.
 date_added: "2026-06-17"
 risk: safe
 source: self

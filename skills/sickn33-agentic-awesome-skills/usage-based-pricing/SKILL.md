@@ -1,6 +1,6 @@
 ---
 name: usage-based-pricing
-description: "Design pricing models that developers understand, accept, and can predict. Trigger phrases: usage-based pricing, API pricing, metered billing, developer pricing, pricing page, cost calculator, pay as you go, pricing transparency, competitive pricing, developer billing"
+description: "设计开发者能理解、接受并预测的定价模型。触发短语：usage-based pricing、API pricing、metered billing、developer pricing、pricing page、cost calculator、pay as you go、pricing transparency、competitive pricing、developer billing。 | Design pricing models that developers understand, accept, and can predict. Trigger phrases: usage-based pricing, API pricing, metered billing, developer pricing, pricing page, cost calculator, pay as you go, pricing transparency, competitive pricing, developer billing"
 risk: unknown
 source: https://github.com/jonathimer/devmarketing-skills/tree/main/skills/usage-based-pricing
 source_repo: jonathimer/devmarketing-skills

@@ -1,6 +1,6 @@
 ---
 name: iot-witness-verify
-description: Verify witness chain integrity and detect provenance gaps
+description: 验证见证链完整性并检测溯源缺口。 | Verify witness chain integrity and detect provenance gaps
 allowed-tools: Bash(npx *) mcp__claude-flow__memory_store Read
 argument-hint: "<device-id>"
 ---

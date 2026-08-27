@@ -1,6 +1,6 @@
 ---
 name: cohort-curve-model
-description: "Fit a retention curve to observed cohort data and project LTV — computed, not estimated. Use when someone has real cohort retention numbers (month 0, 1, 2…) and asks what lifetime value, lifetime periods, or long-run retention they imply, or whether retention is flattening or leaking. Produces a fitted power curve (parameters, R², retention floor), a 24-36 period projection, and a real .xlsx with live formulas where editing ARPU recalculates LTV — via the bundled zero-dependency script."
+description: "将留存曲线拟合到观测群组数据并推算 LTV——是算出来的，不是估出来的。当有人拿到真实群组留存数字（第 0、1、2 月……）并询问其隐含的终身价值、生命周期时长或长期留存，或留存正在趋平还是流失时使用。产出拟合的幂律曲线（参数、R²、留存下限）、24-36 期预测，以及带活公式的真实 .xlsx——修改 ARPU 即重算 LTV——由内置零依赖脚本完成。 | Fit a retention curve to observed cohort data and project LTV — computed, not estimated. Use when someone has real cohort retention numbers (month 0, 1, 2…) and asks what lifetime value, lifetime periods, or long-run retention they imply, or whether retention is flattening or leaking. Produces a fitted power curve (parameters, R², retention floor), a 24-36 period projection, and a real .xlsx with live formulas where editing ARPU recalculates LTV — via the bundled zero-dependency script."
 ---
 
 # Cohort Curve Model

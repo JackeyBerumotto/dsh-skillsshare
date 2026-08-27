@@ -1,6 +1,6 @@
 ---
 name: "V3 Swarm Coordination"
-description: "15-agent hierarchical mesh coordination for v3 implementation. Orchestrates parallel execution across security, core, and integration domains following 10 ADRs with 14-week timeline."
+description: "用于 v3 实现的十五代理层级网格协调，遵循十份 ADR，在安全、核心和集成领域编排并行执行，工期十四周。 | 15-agent hierarchical mesh coordination for v3 implementation. Orchestrates parallel execution across security, core, and integration domains following 10 ADRs with 14-week timeline."
 ---
 
 # V3 Swarm Coordination

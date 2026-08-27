@@ -1,9 +1,6 @@
 ---
 name: salesforce-development
-description: Expert patterns for Salesforce platform development including
-  Lightning Web Components (LWC), Apex triggers and classes, REST/Bulk APIs,
-  Connected Apps, and Salesforce DX with scratch orgs and 2nd generation
-  packages (2GP).
+description: "Salesforce 平台开发的专家模式，包括 Lightning Web Components（LWC）、Apex 触发器和类、REST/Bulk API、Connected Apps，以及使用 scratch org 和第二代包（2GP）的 Salesforce DX。 | Expert patterns for Salesforce platform development including Lightning Web Components (LWC), Apex triggers and classes, REST/Bulk APIs, Connected Apps, and Salesforce DX with scratch orgs and 2nd generation packages (2GP)."
 risk: safe
 source: vibeship-spawner-skills (Apache 2.0)
 date_added: 2026-02-27

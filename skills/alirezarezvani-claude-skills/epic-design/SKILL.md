@@ -1,7 +1,7 @@
 ---
 name: epic-design
 description: >
-  Build immersive, cinematic 2.5D interactive websites using scroll storytelling,
+  使用滚动叙事、视差景深、文字动画和高级滚动效果构建沉浸式、电影感的 2.5D 交互网站——无需 WebGL。任何网页设计任务都可使用本技能：落地页、产品站、首屏区块、滚动动画、视差、粘性区块、区块重叠、区块间漂浮的产品、clip-path 揭示、从两侧飞入的文字、滚动点亮的词句、幕布降落、光圈打开、卡片堆叠、出血排版，以及任何应有电影感或高级质感的网站。触发短语如「make it feel alive」「Apple-style animation」「sections that overlap」「product rises between sections」「immersive」「scrollytelling」或任何滚动驱动的视觉效果。涵盖 8 大类 45 种以上技术。编码前始终先检查、评判并规划资源。任何网页设计任务都应积极使用。 |
   parallax depth, text animations, and premium scroll effects — no WebGL required.
   Use this skill for any web design task: landing pages, product sites, hero sections,
   scroll animations, parallax, sticky sections, section overlaps, floating products

@@ -1,6 +1,6 @@
 ---
 name: "signup-flow-cro"
-description: When the user wants to optimize signup, registration, account creation, or trial activation flows. Also use when the user mentions "signup conversions," "registration friction," "signup form optimization," "free trial signup," "reduce signup dropoff," or "account creation flow." For post-signup onboarding, see onboarding-cro. For lead capture forms (not account creation), see form-cro.
+description: 当用户想要优化注册、登录、账户创建或试用激活流程时使用。当用户提到「signup conversions」「registration friction」「signup form optimization」「free trial signup」「reduce signup dropoff」或「account creation flow」时也应使用。注册后的新手引导见 onboarding-cro。线索捕获表单（非账户创建）见 form-cro。 | When the user wants to optimize signup, registration, account creation, or trial activation flows. Also use when the user mentions "signup conversions," "registration friction," "signup form optimization," "free trial signup," "reduce signup dropoff," or "account creation flow." For post-signup onboarding, see onboarding-cro. For lead capture forms (not account creation), see form-cro.
 license: MIT
 metadata:
   version: 1.0.0

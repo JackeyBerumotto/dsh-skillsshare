@@ -1,6 +1,6 @@
 ---
 name: fp-ts-pragmatic
-description: "A practical, jargon-free guide to fp-ts functional programming - the 80/20 approach that gets results without the academic overhead. Use when writing TypeScript with fp-ts library."
+description: "一份实用、无术语门槛的 fp-ts 函数式编程指南——用二八法则拿到结果而不背学术包袱。适用于使用 fp-ts 库编写 TypeScript 时。 | A practical, jargon-free guide to fp-ts functional programming - the 80/20 approach that gets results without the academic overhead. Use when writing TypeScript with fp-ts library."
 risk: safe
 source: "https://github.com/whatiskadudoing/fp-ts-skills"
 date_added: "2026-02-27"

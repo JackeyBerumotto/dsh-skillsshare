@@ -1,6 +1,6 @@
 ---
 name: motion-foundations
-description: Motion tokens, spring presets, performance rules, device adaptation, accessibility enforcement, and SSR safety for React / Next.js using motion/react. Foundation layer — all other motion skills depend on this.
+description: 基于 motion/react 的 React / Next.js 动效令牌、弹簧预设、性能规则、设备适配、无障碍强制要求和 SSR 安全。这是基础层——所有其他动效技能都依赖它。 | Motion tokens, spring presets, performance rules, device adaptation, accessibility enforcement, and SSR safety for React / Next.js using motion/react. Foundation layer — all other motion skills depend on this.
 version: 1.0
 tags: [motion, animation, performance, accessibility]
 category: frontend

@@ -1,15 +1,6 @@
 ---
 name: performing-api-rate-limiting-bypass
-description: 'Tests API rate limiting implementations for bypass vulnerabilities by
-  manipulating request headers, IP addresses, HTTP methods, API versions, and encoding
-  schemes to circumvent request throttling controls. The tester identifies rate limit
-  headers, determines enforcement mechanisms, and attempts bypasses including X-Forwarded-For
-  spoofing, parameter pollution, case variation, and endpoint path manipulation. Maps
-  to OWASP API4:2023 Unrestricted Resource Consumption. Activates for requests involving
-  rate limit bypass, API throttling evasion, brute force protection testing, or API
-  abuse prevention assessment.
-
-  '
+description: "测试 API 限速实现的绕过漏洞，通过操纵请求头、IP 地址、HTTP 方法、API 版本与编码方案规避请求节流控制。测试人员识别限速响应头、确定执行机制，并尝试伪造 X-Forwarded-For、参数污染、大小写变换与端点路径操纵等绕过手段。对应 OWASP API4:2023 Unrestricted Resource Consumption。适用于涉及限速绕过、API 节流规避、暴力破解防护测试或 API 滥用防护评估的请求。 | Tests API rate limiting implementations for bypass vulnerabilities by manipulating request headers, IP addresses, HTTP methods, API versions, and encoding schemes to circumvent request throttling controls. The tester identifies rate limit headers, determines enforcement mechanisms, and attempts bypasses including X-Forwarded-For spoofing, parameter pollution, case variation, and endpoint path manipulation. Maps to OWASP API4:2023 Unrestricted Resource Consumption. Activates for requests involving rate limit bypass, API throttling evasion, brute force protection testing, or API abuse prevention assessment."
 domain: cybersecurity
 subdomain: api-security
 tags:

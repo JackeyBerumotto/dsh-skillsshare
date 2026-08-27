@@ -1,6 +1,6 @@
 ---
 name: web-animation-css-animations
-description: CSS Animation patterns - transitions, keyframes, scroll-driven animations, @property, GPU-accelerated properties, accessibility with prefers-reduced-motion
+description: CSS 动画模式——过渡、关键帧、滚动驱动动画、@property、GPU 加速属性，以及 prefers-reduced-motion 无障碍支持 | CSS Animation patterns - transitions, keyframes, scroll-driven animations, @property, GPU-accelerated properties, accessibility with prefers-reduced-motion
 ---
 
 # CSS Animation Patterns

@@ -1,6 +1,6 @@
 ---
 name: setup
-description: Provisions the oracle ML inference daemon with onnxruntime via uv. Use when setting up local ONNX model inference for skill quality evaluation.
+description: 通过 uv 为 oracle ML 推理守护进程配置 onnxruntime。在为技能质量评估搭建本地 ONNX 模型推理时使用。 | Provisions the oracle ML inference daemon with onnxruntime via uv. Use when setting up local ONNX model inference for skill quality evaluation.
 ---
 
 # Oracle Setup

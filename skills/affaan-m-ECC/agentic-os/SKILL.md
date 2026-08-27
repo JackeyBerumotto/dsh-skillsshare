@@ -1,6 +1,6 @@
 ---
 name: agentic-os
-description: Build persistent multi-agent operating systems on Claude Code. Covers kernel architecture, specialist agents, slash commands, file-based memory, scheduled automation, and state management without external databases.
+description: 在 Claude Code 上构建持久化的多智能体操作系统。涵盖内核架构、专家智能体、斜杠命令、基于文件的记忆、定时自动化，以及无需外部数据库的状态管理。 | Build persistent multi-agent operating systems on Claude Code. Covers kernel architecture, specialist agents, slash commands, file-based memory, scheduled automation, and state management without external databases.
 metadata:
   origin: ECC
 ---

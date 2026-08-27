@@ -1,7 +1,7 @@
 ---
 name: agent-skill-creator
 description: >-
-  Create cross-platform agent skills from workflow descriptions. Activates when
+  根据工作流描述创建跨平台智能体技能。当用户要求创建智能体、自动化重复性工作流、创建自定义技能或需要高级智能体创建能力时激活。触发短语包括：create agent for、automate workflow、create skill for、every day I have to、daily I need to、turn process into agent、need to automate、create a cross-platform skill、validate this skill、export this skill、migrate this skill。支持单一技能、多智能体套件、转录处理、基于模板的创建、交互式配置、跨平台导出以及规范校验。 |
   users ask to create an agent, automate a repetitive workflow, create a custom
   skill, or need advanced agent creation. Triggers on phrases like create agent
   for, automate workflow, create skill for, every day I have to, daily I need to,

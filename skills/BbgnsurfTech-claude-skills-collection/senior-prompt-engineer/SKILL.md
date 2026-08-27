@@ -1,6 +1,6 @@
 ---
 name: senior-prompt-engineer
-description: World-class prompt engineering skill for LLM optimization, prompt patterns, structured outputs, and AI product development. Expertise in Claude, GPT-4, prompt design patterns, few-shot learning, chain-of-thought, and AI evaluation. Includes RAG optimization, agent design, and LLM system architecture. Use when building AI products, optimizing LLM performance, designing agentic systems, or implementing advanced prompting techniques.
+description: 世界级提示工程技能，涵盖 LLM 优化、提示模式、结构化输出和 AI 产品开发。精通 Claude、GPT-4、提示设计模式、少样本学习、思维链和 AI 评估。包含 RAG 优化、智能体设计和 LLM 系统架构。在构建 AI 产品、优化 LLM 性能、设计智能体系统或实现高级提示技术时使用。 | World-class prompt engineering skill for LLM optimization, prompt patterns, structured outputs, and AI product development. Expertise in Claude, GPT-4, prompt design patterns, few-shot learning, chain-of-thought, and AI evaluation. Includes RAG optimization, agent design, and LLM system architecture. Use when building AI products, optimizing LLM performance, designing agentic systems, or implementing advanced prompting techniques.
 ---
 
 # Senior Prompt Engineer

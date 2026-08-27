@@ -2,7 +2,7 @@
 name: analyzing-nft-rarity
 version: 1.0.0
 description: |
-  Calculate NFT rarity scores and floor prices across collections and marketplaces.
+  计算各收藏集与交易市场的 NFT 稀有度得分和地板价。当分析 NFT 收藏集和稀有度时使用。触发短语如「check NFT rarity」「analyze collection」或「calculate floor price」。 |
   Use when analyzing NFT collections and rarity.
   Trigger with phrases like "check NFT rarity", "analyze collection", or "calculate floor price".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(crypto:nft-*)

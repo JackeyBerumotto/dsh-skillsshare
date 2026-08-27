@@ -1,13 +1,6 @@
 ---
 name: implementing-patch-management-for-ot-systems
-description: 'This skill covers implementing a structured patch management program
-  for OT/ICS environments where traditional IT patching approaches can cause process
-  disruption or safety hazards. It addresses vendor compatibility testing, risk-based
-  patch prioritization, staged deployment through test environments, maintenance window
-  coordination, rollback procedures, and compensating controls when patches cannot
-  be applied due to operational constraints or vendor restrictions.
-
-  '
+description: "本技能涵盖为 OT/ICS 环境实施结构化补丁管理程序，传统 IT 打补丁方式在这些环境中可能造成过程中断或安全风险。内容涉及供应商兼容性测试、基于风险的补丁优先级排序、经测试环境的分阶段部署、维护窗口协调、回滚程序，以及在因运营约束或供应商限制而无法打补丁时采用补偿性控制。 | This skill covers implementing a structured patch management program for OT/ICS environments where traditional IT patching approaches can cause process disruption or safety hazards. It addresses vendor compatibility testing, risk-based patch prioritization, staged deployment through test environments, maintenance window coordination, rollback procedures, and compensating controls when patches cannot be applied due to operational constraints or vendor restrictions."
 domain: cybersecurity
 subdomain: ot-ics-security
 tags:

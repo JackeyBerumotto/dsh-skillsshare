@@ -1,6 +1,6 @@
 ---
 name: scanning-iac-and-images-with-trivy
-description: Scan container images, IaC, and SBOMs for vulnerabilities and misconfigurations in CI/CD with Trivy.
+description: 在 CI/CD 中使用 Trivy 扫描容器镜像、IaC 和 SBOM 的漏洞与配置错误。 | Scan container images, IaC, and SBOMs for vulnerabilities and misconfigurations in CI/CD with Trivy.
 domain: cybersecurity
 subdomain: devsecops
 tags:

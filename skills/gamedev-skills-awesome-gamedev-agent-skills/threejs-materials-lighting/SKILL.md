@@ -1,7 +1,7 @@
 ---
 name: threejs-materials-lighting
 description: >
-  Light and shade a three.js scene: choose materials (MeshStandardMaterial PBR vs
+  为 three.js 场景设置光照与明暗：选择材质（MeshStandardMaterial 的 PBR 与无光照的 MeshBasicMaterial）、添加环境光/半球光/平行光/点光源/聚光灯、开启阴影贴图，并使用环境贴图（IBL）获得逼真反射。当 three.js 模型看起来发黑、扁平或不正常时使用——即用户提到 three.js 材质、MeshStandardMaterial、灯光、阴影、envMap 或 PBR 时。渲染器/循环的设置请用 threejs-scene-setup；加载模型请用 threejs-gltf-loading。 |
   unlit MeshBasicMaterial), add ambient/hemisphere/directional/point/spot lights,
   turn on shadow maps, and use an environment map (IBL) for realistic reflections.
   Use when a three.js model looks black, flat, or wrong — when the user mentions

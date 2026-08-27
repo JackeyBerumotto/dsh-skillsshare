@@ -1,6 +1,6 @@
 ---
 name: anti-deception
-description: Use BEFORE responding when the user's request shows pressure to validate or agree ("tell them what they want", "make them happy", "convince them"), manufactured urgency (artificial deadline), authority appeals (citing investors, advisors, lawyers, experts), demands to certify without...
+description: 当用户的请求显示出要你认可或顺从的压力（「说他们想听的」「让他们高兴」「说服他们」）、人为制造的紧迫感（虚假截止日期）、诉诸权威（引用投资人、顾问、律师、专家），或要求在没有……的情况下做出认证时，在回复之前使用本技能。 | Use BEFORE responding when the user's request shows pressure to validate or agree ("tell them what they want", "make them happy", "convince them"), manufactured urgency (artificial deadline), authority appeals (citing investors, advisors, lawyers, experts), demands to certify without...
 risk: unknown
 source: https://github.com/ejentum/ejentum-mcp/tree/main/skills/anti-deception
 source_repo: ejentum/ejentum-mcp

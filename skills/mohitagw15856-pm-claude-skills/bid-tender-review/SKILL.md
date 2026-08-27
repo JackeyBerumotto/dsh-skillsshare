@@ -1,6 +1,6 @@
 ---
 name: bid-tender-review
-description: "Analyse a construction bid or tender package for scope gaps, risk-shifting exclusions, unit-rate red flags, and front-loading in the schedule of values. Use when asked to review a bid, level bids, check a tender for gaps, compare sub quotes, or vet a schedule of values before award. Produces a structured bid review with a gap register, exclusion risk table, pricing red flags, and an award recommendation with pre-award clarifications."
+description: "分析施工投标或招标文件，找出范围缺口、转嫁风险的排除条款、单价红旗以及价值明细表中的前重后轻问题。当被要求评审投标、对多份投标比价、检查招标文件缺口、比较分包报价，或在授标前审核价值明细表时使用。产出结构化的投标评审——缺口登记表、排除条款风险表、定价红旗，以及附授标前澄清事项的授标建议。 | Analyse a construction bid or tender package for scope gaps, risk-shifting exclusions, unit-rate red flags, and front-loading in the schedule of values. Use when asked to review a bid, level bids, check a tender for gaps, compare sub quotes, or vet a schedule of values before award. Produces a structured bid review with a gap register, exclusion risk table, pricing red flags, and an award recommendation with pre-award clarifications."
 ---
 
 # Bid / Tender Review Skill

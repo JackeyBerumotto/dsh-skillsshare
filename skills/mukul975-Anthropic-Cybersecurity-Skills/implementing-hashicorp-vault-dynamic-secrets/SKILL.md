@@ -1,12 +1,6 @@
 ---
 name: implementing-hashicorp-vault-dynamic-secrets
-description: 'Implements HashiCorp Vault dynamic secrets engines for database credentials,
-  AWS IAM keys, and PKI certificates with automatic generation, lease management,
-  and credential rotation to eliminate static secrets in application configurations.
-  Activates for requests involving Vault secrets engine configuration, dynamic database
-  credentials, ephemeral cloud credentials, or automated secret rotation.
-
-  '
+description: "实现 HashiCorp Vault 动态密钥引擎，用于数据库凭据、AWS IAM 密钥和 PKI 证书，具备自动生成、租约管理和凭据轮换功能，以消除应用配置中的静态密钥。当请求涉及 Vault 密钥引擎配置、动态数据库凭据、临时云凭据或自动化密钥轮换时激活。 | Implements HashiCorp Vault dynamic secrets engines for database credentials, AWS IAM keys, and PKI certificates with automatic generation, lease management, and credential rotation to eliminate static secrets in application configurations. Activates for requests involving Vault secrets engine configuration, dynamic database credentials, ephemeral cloud credentials, or automated secret rotation."
 domain: cybersecurity
 subdomain: identity-access-management
 tags:

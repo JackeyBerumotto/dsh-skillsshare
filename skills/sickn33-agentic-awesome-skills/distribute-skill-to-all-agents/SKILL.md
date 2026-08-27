@@ -1,6 +1,6 @@
 ---
 name: distribute-skill-to-all-agents
-description: "Distribute a skill across configured agent skill folders while respecting local symlink layouts."
+description: "将技能分发到已配置的各 agent 技能文件夹，同时尊重本地的符号链接布局。 | Distribute a skill across configured agent skill folders while respecting local symlink layouts."
 category: development
 risk: critical
 source: community

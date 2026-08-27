@@ -1,6 +1,6 @@
 ---
 name: service-mesh-observability
-description: "Complete guide to observability patterns for Istio, Linkerd, and service mesh deployments."
+description: "Istio、Linkerd 及服务网格部署可观测性模式的完整指南。 | Complete guide to observability patterns for Istio, Linkerd, and service mesh deployments."
 risk: critical
 source: community
 date_added: "2026-02-27"

@@ -1,6 +1,6 @@
 ---
 name: diff-analysis
-description: Analyzes changesets with risk scoring, categorization by type and impact, and release note preparation. Use when extracting insights from raw change data.
+description: 分析变更集，进行风险评分、按类型与影响分类，并准备发布说明。在从原始变更数据中提取洞察时使用。 | Analyzes changesets with risk scoring, categorization by type and impact, and release note preparation. Use when extracting insights from raw change data.
 alwaysApply: false
 category: analysis-methods
 tags:

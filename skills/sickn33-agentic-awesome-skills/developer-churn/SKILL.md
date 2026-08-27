@@ -1,6 +1,6 @@
 ---
 name: developer-churn
-description: When the user wants to understand, reduce, or recover from developer churn. Trigger phrases include "why developers leave," "churn rate," "win-back campaign," "at-risk users," "developer retention," "preventing churn," or "competitor switching."
+description: 当用户想要理解、降低开发者流失或从中恢复时使用。触发词包括「why developers leave」「churn rate」「win-back campaign」「at-risk users」「developer retention」「preventing churn」或「competitor switching」。 | When the user wants to understand, reduce, or recover from developer churn. Trigger phrases include "why developers leave," "churn rate," "win-back campaign," "at-risk users," "developer retention," "preventing churn," or "competitor switching."
 risk: unknown
 source: https://github.com/jonathimer/devmarketing-skills/tree/main/skills/developer-churn
 source_repo: jonathimer/devmarketing-skills

@@ -1,6 +1,6 @@
 ---
 name: win-loss-analysis
-description: "Analyze why deals are won and lost and turn it into an action plan. Use when asked to run a win/loss analysis, review closed-won and closed-lost deals, understand why the team is losing to a competitor, or summarize sales feedback into patterns. Produces a structured win/loss report with themes, win/loss rates by segment and competitor, representative quotes, and prioritized actions for product, marketing, and sales."
+description: "分析交易赢单与丢单的原因并转化为行动计划。当被要求做赢单／丢单分析、复盘已赢单和已丢单交易、弄清团队为何输给某竞争对手，或把销售反馈归纳为模式时使用。产出结构化的赢单／丢单报告，包含主题、按细分市场和竞争对手划分的赢单率、代表性引语，以及面向产品、市场和销售的优先行动。 | Analyze why deals are won and lost and turn it into an action plan. Use when asked to run a win/loss analysis, review closed-won and closed-lost deals, understand why the team is losing to a competitor, or summarize sales feedback into patterns. Produces a structured win/loss report with themes, win/loss rates by segment and competitor, representative quotes, and prioritized actions for product, marketing, and sales."
 ---
 
 # Win/Loss Analysis Skill

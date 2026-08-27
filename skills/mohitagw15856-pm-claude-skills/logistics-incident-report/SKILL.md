@@ -1,6 +1,6 @@
 ---
 name: logistics-incident-report
-description: "Write up a supply chain disruption — port delay, carrier failure, customs hold, or in-transit damage — as a decision-ready incident report. Use when asked to document a shipment delay, write up a logistics failure, report a customs hold, quantify a supply disruption, or draft the customer notice for a late delivery. Produces an impact-quantified incident report with containment actions, root cause, prevention items, and a customer-communication draft."
+description: "把供应链中断——港口延误、承运商失败、海关扣留或运输途中货损——写成可直接决策的事故报告。在被要求记录发运延误、撰写物流事故、报告海关扣留、量化供应中断，或为延迟交付起草客户通知时使用。产出量化影响的事故报告，包含遏制措施、根因、预防事项和客户沟通草稿。 | Write up a supply chain disruption — port delay, carrier failure, customs hold, or in-transit damage — as a decision-ready incident report. Use when asked to document a shipment delay, write up a logistics failure, report a customs hold, quantify a supply disruption, or draft the customer notice for a late delivery. Produces an impact-quantified incident report with containment actions, root cause, prevention items, and a customer-communication draft."
 ---
 
 # Logistics Incident Report Skill

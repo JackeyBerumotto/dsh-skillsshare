@@ -1,6 +1,6 @@
 ---
 name: rigorous-reasoning
-description: Applies anti-sycophancy checklist to override agreement bias. Use when analyzing contested claims or avoiding socially convenient but inaccurate conclusions.
+description: 应用反迎合计检查清单来克服附和偏差。在分析有争议的论断或避免出于社交便利但不准确的结论时使用。 | Applies anti-sycophancy checklist to override agreement bias. Use when analyzing contested claims or avoiding socially convenient but inaccurate conclusions.
 alwaysApply: false
 category: workflow-methodology
 tags:

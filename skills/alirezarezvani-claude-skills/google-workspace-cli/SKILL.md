@@ -1,6 +1,6 @@
 ---
 name: "google-workspace-cli"
-description: "Google Workspace administration via the gws CLI (github.com/googleworkspace/cli). Install, authenticate, and automate Gmail, Drive, Sheets, Calendar, Docs, Chat, and Tasks. Run security audits and use local recipe templates and persona bundles. Use for Google Workspace admin, gws CLI setup, Gmail automation, Drive management, or Calendar scheduling."
+description: "通过 gws CLI（github.com/googleworkspace/cli）管理 Google Workspace。安装、认证并自动化 Gmail、Drive、Sheets、Calendar、Docs、Chat 和 Tasks。运行安全审计，使用本地配方模板和角色包。用于 Google Workspace 管理、gws CLI 设置、Gmail 自动化、Drive 管理或日历调度。 | Google Workspace administration via the gws CLI (github.com/googleworkspace/cli). Install, authenticate, and automate Gmail, Drive, Sheets, Calendar, Docs, Chat, and Tasks. Run security audits and use local recipe templates and persona bundles. Use for Google Workspace admin, gws CLI setup, Gmail automation, Drive management, or Calendar scheduling."
 ---
 
 # Google Workspace CLI

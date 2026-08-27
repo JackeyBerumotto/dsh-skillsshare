@@ -1,13 +1,6 @@
 ---
 name: mapping-mitre-attack-techniques
-description: 'Maps observed adversary behaviors, security alerts, and detection rules
-  to MITRE ATT&CK techniques and sub-techniques to quantify detection coverage and
-  guide control prioritization. Use when building an ATT&CK-based coverage heatmap,
-  tagging SIEM alerts with technique IDs, aligning security controls to adversary
-  playbooks, or reporting threat exposure to executives. Activates for requests involving
-  ATT&CK Navigator, Sigma rules, MITRE D3FEND, or coverage gap analysis.
-
-  '
+description: "将观察到的攻击者行为、安全告警和检测规则映射到 MITRE ATT&CK 技术和子技术，以量化检测覆盖并指导控制优先级。适用于构建基于 ATT&CK 的覆盖热图、为 SIEM 告警标记技术 ID、将安全控制与攻击者剧本对齐，或向管理层报告威胁暴露时使用。当请求涉及 ATT&CK Navigator、Sigma 规则、MITRE D3FEND 或覆盖盲区分析时激活。 | Maps observed adversary behaviors, security alerts, and detection rules to MITRE ATT&CK techniques and sub-techniques to quantify detection coverage and guide control prioritization. Use when building an ATT&CK-based coverage heatmap, tagging SIEM alerts with technique IDs, aligning security controls to adversary playbooks, or reporting threat exposure to executives. Activates for requests involving ATT&CK Navigator, Sigma rules, MITRE D3FEND, or coverage gap analysis."
 domain: cybersecurity
 subdomain: threat-intelligence
 tags:

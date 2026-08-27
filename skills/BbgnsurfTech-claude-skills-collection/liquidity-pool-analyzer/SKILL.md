@@ -2,7 +2,7 @@
 name: analyzing-liquidity-pools
 version: 1.0.0
 description: |
-  Analyze liquidity pool metrics including TVL, volume, fees, and impermanent loss.
+  分析流动性池指标，包括 TVL、交易量、手续费和无常损失。在分析 DEX 流动性池时使用。触发短语如「analyze pool」、「check TVL」或「calculate impermanent loss」。 |
   Use when analyzing DEX liquidity pools.
   Trigger with phrases like "analyze pool", "check TVL", or "calculate impermanent loss".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(crypto:liquidity-*)

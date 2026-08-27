@@ -1,6 +1,6 @@
 ---
 name: skill-installer
-description: Instala, valida, registra e verifica novas skills no ecossistema. 10 checks de seguranca, copia, registro no orchestrator e verificacao pos-instalacao.
+description: 在生态系统中安装、验证、登记并检验新技能。包含 10 项安全检查、复制、在 orchestrator 中登记以及安装后验证。 | Instala, valida, registra e verifica novas skills no ecossistema. 10 checks de seguranca, copia, registro no orchestrator e verificacao pos-instalacao.
 risk: safe
 source: community
 date_added: '2026-03-06'

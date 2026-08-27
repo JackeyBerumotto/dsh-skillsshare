@@ -1,6 +1,6 @@
 ---
 name: qbr-deck
-description: "Build a Quarterly Business Review (QBR) deck structure and narrative for a customer account. Use when asked to prepare a QBR, business review meeting, executive review, or quarterly check-in with a customer. Produces a slide-by-slide QBR structure with talking points, metrics review, value narrative, and mutual next steps."
+description: "为某个客户账户构建季度业务回顾（QBR）演示文稿的结构与叙事。当被要求准备 QBR、业务回顾会议、高管评审或与客户的季度沟通时使用。产出逐页的 QBR 结构，包含谈话要点、指标回顾、价值叙事与双方共同的后续步骤。 | Build a Quarterly Business Review (QBR) deck structure and narrative for a customer account. Use when asked to prepare a QBR, business review meeting, executive review, or quarterly check-in with a customer. Produces a slide-by-slide QBR structure with talking points, metrics review, value narrative, and mutual next steps."
 ---
 
 # QBR Deck Skill

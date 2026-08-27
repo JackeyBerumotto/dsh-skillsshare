@@ -1,7 +1,7 @@
 ---
 name: youtube-seo-optimizer
 description: >
-  Generate complete YouTube & podcast SEO packages with live-researched keywords —
+  生成包含实时调研关键词的完整 YouTube 与播客 SEO 方案——标题、描述、标签、话题标签、章节以及审计修复。用于新内容或表现不佳的内容。 |
   titles, descriptions, tags, hashtags, chapters, and audit fixes. Use for new or
   underperforming content.
 risk: safe

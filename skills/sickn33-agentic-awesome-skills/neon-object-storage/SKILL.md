@@ -1,6 +1,6 @@
 ---
 name: neon-object-storage
-description: S3-compatible object storage that branches with your Neon project, so files and the database stay in sync across every branch. Use when a user wants object storage, a bucket, blob/file storage, or somewhere to put uploads, images, documents, avatars, or user-generated files for their...
+description: 与 Neon 项目同步分支的 S3 兼容对象存储，使文件和数据库在每个分支上保持一致。当用户需要对象存储、存储桶、blob/文件存储，或需要一个存放上传文件、图片、文档、头像或用户生成文件的位置时使用…… | S3-compatible object storage that branches with your Neon project, so files and the database stay in sync across every branch. Use when a user wants object storage, a bucket, blob/file storage, or somewhere to put uploads, images, documents, avatars, or user-generated files for their...
 risk: unknown
 source: https://github.com/neondatabase/agent-skills/tree/main/skills/neon-object-storage
 source_repo: neondatabase/agent-skills

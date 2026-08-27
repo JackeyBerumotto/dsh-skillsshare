@@ -1,9 +1,6 @@
 ---
 name: agent-tool-builder
-description: Tools are how AI agents interact with the world. A well-designed
-  tool is the difference between an agent that works and one that hallucinates,
-  fails silently, or costs 10x more tokens than necessary. This skill covers
-  tool design from schema to error handling.
+description: "工具是 AI 智能体与世界交互的方式。设计良好的工具决定了智能体是正常工作，还是产生幻觉、静默失败或多耗费十倍于必要的 token。本技能涵盖从模式定义到错误处理的工具设计。 | Tools are how AI agents interact with the world. A well-designed tool is the difference between an agent that works and one that hallucinates, fails silently, or costs 10x more tokens than necessary. This skill covers tool design from schema to error handling."
 risk: unknown
 source: vibeship-spawner-skills (Apache 2.0)
 date_added: 2026-02-27

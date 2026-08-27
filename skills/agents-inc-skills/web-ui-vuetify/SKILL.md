@@ -1,6 +1,6 @@
 ---
 name: web-ui-vuetify
-description: Material Design component library for Vue 3
+description: 面向 Vue 3 的 Material Design 组件库。 | Material Design component library for Vue 3
 ---
 
 # Vuetify Patterns

@@ -1,6 +1,6 @@
 ---
 name: infinite-gratitude
-description: "Multi-agent research skill for parallel research execution (10 agents, battle-tested with real case studies)."
+description: "用于并行执行研究的多智能体研究技能（10 个智能体，经真实案例实战检验）。 | Multi-agent research skill for parallel research execution (10 agents, battle-tested with real case studies)."
 risk: safe
 source: "https://github.com/sstklen/infinite-gratitude"
 date_added: "2026-02-27"

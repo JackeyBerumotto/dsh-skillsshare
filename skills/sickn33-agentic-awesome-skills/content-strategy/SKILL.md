@@ -1,6 +1,6 @@
 ---
 name: content-strategy
-description: "Plan a content strategy, topic clusters, editorial roadmap, and content mix for traffic, authority, and lead generation. Use when deciding what to publish, what topics to prioritize, or how to structure a content program."
+description: "规划内容策略、主题集群、编辑路线图和内容组合，以提升流量、权威度和线索获取。当需要决定发布什么内容、优先选择哪些主题，或如何搭建内容项目结构时使用。 | Plan a content strategy, topic clusters, editorial roadmap, and content mix for traffic, authority, and lead generation. Use when deciding what to publish, what topics to prioritize, or how to structure a content program."
 risk: unknown
 source: "https://github.com/coreyhaines31/marketingskills"
 date_added: "2026-03-21"

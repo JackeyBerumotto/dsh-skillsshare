@@ -1,6 +1,6 @@
 ---
 name: market-research-reports
-description: Generate comprehensive market research reports (50+ pages) in the style of top consulting firms (McKinsey, BCG, Gartner). Features professional LaTeX formatting, extensive visual generation with scientific-schematics and generate-image, deep integration with research-lookup for data gathering, and multi-framework strategic analysis including Porter Five Forces, PESTLE, SWOT, TAM/SAM/SOM, and BCG Matrix.
+description: 生成全面的市场研究报告（50 页以上），风格仿照顶级咨询公司（McKinsey、BCG、Gartner）。特性包括专业 LaTeX 排版、借助 scientific-schematics 和 generate-image 的大量视觉内容生成、与 research-lookup 的深度集成以收集数据，以及多框架战略分析，包括波特五力、PESTLE、SWOT、TAM/SAM/SOM 和 BCG 矩阵。 | Generate comprehensive market research reports (50+ pages) in the style of top consulting firms (McKinsey, BCG, Gartner). Features professional LaTeX formatting, extensive visual generation with scientific-schematics and generate-image, deep integration with research-lookup for data gathering, and multi-framework strategic analysis including Porter Five Forces, PESTLE, SWOT, TAM/SAM/SOM, and BCG Matrix.
 allowed-tools: Read Write Edit Bash
 license: MIT license
 metadata: {"version": "1.0", "skill-author": "K-Dense Inc."}

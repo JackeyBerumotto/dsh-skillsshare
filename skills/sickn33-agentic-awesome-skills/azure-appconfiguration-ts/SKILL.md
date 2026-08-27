@@ -1,6 +1,6 @@
 ---
 name: azure-appconfiguration-ts
-description: "Centralized configuration management with feature flags and dynamic refresh."
+description: "集中式配置管理，支持功能开关和动态刷新。 | Centralized configuration management with feature flags and dynamic refresh."
 risk: unknown
 source: community
 date_added: "2026-02-27"

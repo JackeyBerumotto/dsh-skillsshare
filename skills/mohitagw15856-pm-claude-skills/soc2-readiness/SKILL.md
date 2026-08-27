@@ -1,6 +1,6 @@
 ---
 name: soc2-readiness
-description: "Assess SOC 2 readiness across the Trust Services Criteria and produce a gap remediation plan. Use when asked to prepare for a SOC 2 audit, run a SOC 2 readiness/gap assessment, scope controls, or get audit-ready. Produces a readiness report — scope & criteria, a control-by-control status, a weighted readiness score, prioritised gaps with owners, and the evidence each control needs."
+description: "依循信任服务准则评估 SOC 2 就绪度并产出差距整改计划。当被要求准备 SOC 2 审计、开展 SOC 2 就绪度／差距评估、界定控制范围或冲刺审计就绪时使用。产出就绪度报告——范围与准则、逐项控制的状态、加权就绪度评分、带负责人的优先差距清单，以及每项控制所需的证据。 | Assess SOC 2 readiness across the Trust Services Criteria and produce a gap remediation plan. Use when asked to prepare for a SOC 2 audit, run a SOC 2 readiness/gap assessment, scope controls, or get audit-ready. Produces a readiness report — scope & criteria, a control-by-control status, a weighted readiness score, prioritised gaps with owners, and the evidence each control needs."
 ---
 
 # SOC 2 Readiness Skill

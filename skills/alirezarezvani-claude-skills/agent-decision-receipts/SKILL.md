@@ -1,6 +1,6 @@
 ---
 name: "agent-decision-receipts"
-description: "Mint a tamper-evident, post-quantum-signed receipt for a consequential agent action (deploy, delete, pay, grant-access, model decision) so it can be verified later from the certificate alone. Use when an autonomous agent takes a side-effecting action that may need to be proven later, or when satisfying EU AI Act Article 12 record-keeping. Three decisions: whether an action needs a receipt, minting it, verifying it. Signing is delegated to the open-source OpenAgentOntology package. Not after-the-fact log analysis; not a hosted notary; not a legal opinion."
+description: "为重大代理动作（部署、删除、支付、授权访问、模型决策）生成一份防篡改、经后量子签名的回执，使日后仅凭证书即可验证。当自主代理执行了日后可能需要证明的副作用动作，或需要满足欧盟《AI 法案》第 12 条的记录留存要求时使用。包含三项决策：某动作是否需要回执、生成回执、验证回执。签名委托给开源的 OpenAgentOntology 包。不做事后日志分析；不是托管公证服务；也不提供法律意见。 | Mint a tamper-evident, post-quantum-signed receipt for a consequential agent action (deploy, delete, pay, grant-access, model decision) so it can be verified later from the certificate alone. Use when an autonomous agent takes a side-effecting action that may need to be proven later, or when satisfying EU AI Act Article 12 record-keeping. Three decisions: whether an action needs a receipt, minting it, verifying it. Signing is delegated to the open-source OpenAgentOntology package. Not after-the-fact log analysis; not a hosted notary; not a legal opinion."
 ---
 
 # Agent Decision Receipts

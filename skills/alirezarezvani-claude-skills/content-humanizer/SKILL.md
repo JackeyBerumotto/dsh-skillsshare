@@ -1,6 +1,6 @@
 ---
 name: "content-humanizer"
-description: "Makes AI-generated content sound genuinely human — not just cleaned up, but alive. Use when content feels robotic, uses too many AI clichés, lacks personality, or reads like it was written by committee. Triggers: 'this sounds like AI', 'make it more human', 'add personality', 'it feels generic', 'sounds robotic', 'fix AI writing', 'inject our voice'. NOT for initial content creation (use content-production). NOT for SEO optimization (use content-production Mode 3)."
+description: "让 AI 生成的内容听起来真正像人写的——不只是清理干净，而是有生气。当内容显得机械、AI 套话过多、缺乏个性，或读起来像委员会集体创作时使用。触发词：「this sounds like AI」「make it more human」「add personality」「it feels generic」「sounds robotic」「fix AI writing」「inject our voice」。不用于初始内容创作（请用 content-production）。不用于 SEO 优化（请用 content-production 的模式 3）。 | Makes AI-generated content sound genuinely human — not just cleaned up, but alive. Use when content feels robotic, uses too many AI clichés, lacks personality, or reads like it was written by committee. Triggers: 'this sounds like AI', 'make it more human', 'add personality', 'it feels generic', 'sounds robotic', 'fix AI writing', 'inject our voice'. NOT for initial content creation (use content-production). NOT for SEO optimization (use content-production Mode 3)."
 license: MIT
 metadata:
   version: 1.0.0

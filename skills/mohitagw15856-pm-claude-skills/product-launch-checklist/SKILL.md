@@ -1,6 +1,6 @@
 ---
 name: product-launch-checklist
-description: "Generate a comprehensive pre-launch, launch day, and post-launch checklist for any product release. Use when preparing for a product launch, feature release, or major update. Produces a role-assigned, tiered checklist covering engineering readiness, marketing and comms, support, and post-launch monitoring."
+description: "为任何产品发布生成覆盖发布前、发布日与发布后的完整清单。在筹备产品发布、功能上线或重大更新时使用。产出按角色分配、分级的清单，覆盖工程就绪、市场与传播、客服支持以及发布后监控。 | Generate a comprehensive pre-launch, launch day, and post-launch checklist for any product release. Use when preparing for a product launch, feature release, or major update. Produces a role-assigned, tiered checklist covering engineering readiness, marketing and comms, support, and post-launch monitoring."
 ---
 
 # Product Launch Checklist Skill

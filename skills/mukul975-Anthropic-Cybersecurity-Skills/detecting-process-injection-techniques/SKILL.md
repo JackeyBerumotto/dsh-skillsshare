@@ -1,12 +1,6 @@
 ---
 name: detecting-process-injection-techniques
-description: 'Detects and analyzes process injection techniques used by malware including
-  classic DLL injection, process hollowing, APC injection, thread hijacking, and reflective
-  loading. Uses memory forensics, API monitoring, and behavioral analysis to identify
-  injection artifacts. Activates for requests involving process injection detection,
-  code injection analysis, hollowed process investigation, or in-memory threat detection.
-
-  '
+description: "检测并分析恶意软件使用的进程注入技术，包括经典 DLL 注入、进程镂空、APC 注入、线程劫持和反射式加载。使用内存取证、API 监控和行为分析识别注入痕迹。当请求涉及进程注入检测、代码注入分析、被镂空进程调查或内存威胁检测时激活。 | Detects and analyzes process injection techniques used by malware including classic DLL injection, process hollowing, APC injection, thread hijacking, and reflective loading. Uses memory forensics, API monitoring, and behavioral analysis to identify injection artifacts. Activates for requests involving process injection detection, code injection analysis, hollowed process investigation, or in-memory threat detection."
 domain: cybersecurity
 subdomain: malware-analysis
 tags:

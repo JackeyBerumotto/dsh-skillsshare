@@ -1,6 +1,6 @@
 ---
 name: what-if-oracle
-description: Run structured What-If scenario analysis with 4–6 branch possibility exploration (best, likely, worst, wild card, contrarian, second-order). Use when the user asks speculative what-if questions about uncertain futures, strategic forks, contingency planning, or stress-testing a decision before committing.
+description: 运行结构化的 What-If 情景分析，探索 4-6 个分支可能性（最佳、大概率、最差、黑马、逆势、二阶效应）。当用户针对不确定的未来提出推测性假设问题、面对战略分叉、做应急预案，或在承诺前对决策做压力测试时使用。 | Run structured What-If scenario analysis with 4–6 branch possibility exploration (best, likely, worst, wild card, contrarian, second-order). Use when the user asks speculative what-if questions about uncertain futures, strategic forks, contingency planning, or stress-testing a decision before committing.
 license: CC BY-NC-SA 4.0
 metadata: {"version": "1.1", "skill-author": "AHK Strategies (ashrafkahoush-ux)", "upstream": "https://github.com/ashrafkahoush-ux/claude-consciousness-skills", "research-doi": "10.5281/zenodo.18736841, 10.5281/zenodo.18807387"}
 ---

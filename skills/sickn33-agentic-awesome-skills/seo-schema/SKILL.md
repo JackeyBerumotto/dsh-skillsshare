@@ -1,7 +1,7 @@
 ---
 name: seo-schema
 description: >
-  Detect, validate, and generate Schema.org structured data. JSON-LD format
+  检测、校验并生成 Schema.org 结构化数据，首选 JSON-LD 格式。当用户提到「schema」「structured data」「rich results」「JSON-LD」或「markup」时使用。 |
   preferred. Use when user says "schema", "structured data", "rich results",
   "JSON-LD", or "markup".
 risk: unknown

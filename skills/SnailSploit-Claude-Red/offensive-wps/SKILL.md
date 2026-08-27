@@ -1,6 +1,6 @@
 ---
 name: offensive-wps
-description: "WPS (Wi-Fi Protected Setup) PIN attack methodology — Pixie Dust offline attack against vulnerable chipsets (Ralink, Realtek, Broadcom, MediaTek), online PIN brute-force with reaver/bully, lockout handling, time-of-day evasion, WPS push-button vulnerability windows, and PIN-to-PSK derivation. Use when a target SOHO router exposes WPS — common on consumer ISP gear, often left enabled by default even when WPS attacks have been known for over a decade."
+description: "WPS（Wi-Fi Protected Setup）PIN 攻击方法论——针对存在漏洞的芯片组（Ralink、Realtek、Broadcom、MediaTek）发起 Pixie Dust 离线攻击、用 reaver/bully 在线暴力破解 PIN、锁定处理、按时段规避、WPS 按键（push-button）漏洞窗口，以及由 PIN 推导 PSK。当目标 SOHO 路由器暴露 WPS 时使用——消费级 ISP 设备上十分常见，即便 WPS 攻击已为人熟知十余年，默认仍常常开启。 | WPS (Wi-Fi Protected Setup) PIN attack methodology — Pixie Dust offline attack against vulnerable chipsets (Ralink, Realtek, Broadcom, MediaTek), online PIN brute-force with reaver/bully, lockout handling, time-of-day evasion, WPS push-button vulnerability windows, and PIN-to-PSK derivation. Use when a target SOHO router exposes WPS — common on consumer ISP gear, often left enabled by default even when WPS attacks have been known for over a decade."
 ---
 
 # WPS PIN Attacks

@@ -1,6 +1,6 @@
 ---
 name: accint-solve
-description: Route a goal through acc's scored-memory loop via acc_act(runtime="solve"); deliberate any returned brain_frame and submit via continue.
+description: 通过 acc_act(runtime=「solve」) 将目标路由至 acc 的评分记忆循环；斟酌返回的 brain_frame 并通过 continue 提交。 | Route a goal through acc's scored-memory loop via acc_act(runtime="solve"); deliberate any returned brain_frame and submit via continue.
 risk: unknown
 source: https://github.com/maxbaluev/accreted-intelligence/tree/main/plugins/claude/skills/solve
 source_repo: maxbaluev/accreted-intelligence

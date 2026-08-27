@@ -1,6 +1,6 @@
 ---
 name: vendor-management
-description: Use when reviewing, scoring, or auditing third-party SaaS / vendor relationships — running a vendor scorecard with industry tuning, tracking SLA compliance with credit-claim flags, classifying third-party risk across 4 risk vectors, preparing a tier-1 vendor review, or auditing the SaaS portfolio. Forks context so large vendor catalogs (50-500 line items) and SLA logs don't pollute the parent thread. Triggers on "vendor SLA", "vendor scorecard", "third-party risk", "TPRM", "vendor review", "supplier performance", "vendor health check", "renewal review".
+description: 在评审、评分或审计第三方 SaaS/供应商关系时使用——运行带行业调优的供应商评分卡、跟踪带赔付申领标记的 SLA 合规、跨 4 个风险向量分类第三方风险、准备一级供应商评审或审计 SaaS 组合。分派上下文以免庞大的供应商目录（50-500 个条目）和 SLA 日志污染父线程。触发词：「vendor SLA」「vendor scorecard」「third-party risk」「TPRM」「vendor review」「supplier performance」「vendor health check」「renewal review」。 | Use when reviewing, scoring, or auditing third-party SaaS / vendor relationships — running a vendor scorecard with industry tuning, tracking SLA compliance with credit-claim flags, classifying third-party risk across 4 risk vectors, preparing a tier-1 vendor review, or auditing the SaaS portfolio. Forks context so large vendor catalogs (50-500 line items) and SLA logs don't pollute the parent thread. Triggers on "vendor SLA", "vendor scorecard", "third-party risk", "TPRM", "vendor review", "supplier performance", "vendor health check", "renewal review".
 context: fork
 version: 2.8.0
 author: claude-code-skills

@@ -1,8 +1,6 @@
 ---
 name: implementing-rsa-key-pair-management
-description: RSA (Rivest-Shamir-Adleman) is the most widely deployed asymmetric cryptographic
-  algorithm, used for digital signatures, key exchange, and encryption. This skill
-  covers generating, storing, rotating,
+description: "RSA（Rivest-Shamir-Adleman）是部署最广泛的非对称密码算法，用于数字签名、密钥交换与加密。本技能涵盖密钥的生成、存储与轮换等内容。 | RSA (Rivest-Shamir-Adleman) is the most widely deployed asymmetric cryptographic algorithm, used for digital signatures, key exchange, and encryption. This skill covers generating, storing, rotating,"
 domain: cybersecurity
 subdomain: cryptography
 tags:

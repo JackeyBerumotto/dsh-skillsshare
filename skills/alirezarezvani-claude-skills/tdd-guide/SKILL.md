@@ -1,6 +1,6 @@
 ---
 name: "tdd-guide"
-description: "Test-driven development skill for writing unit tests, generating test fixtures and mocks, analyzing coverage gaps, and guiding red-green-refactor workflows across Jest, Pytest, JUnit, Vitest, and Mocha. Use when the user asks to write tests, improve test coverage, practice TDD, generate mocks or stubs, or mentions testing frameworks like Jest, pytest, or JUnit."
+description: "测试驱动开发技能：编写单元测试、生成测试夹具和 mock、分析覆盖率缺口，并指导跨 Jest、Pytest、JUnit、Vitest 和 Mocha 的红-绿-重构工作流。当用户要求编写测试、提升测试覆盖率、实践 TDD、生成 mock 或 stub，或提到 Jest、pytest、JUnit 等测试框架时使用。 | Test-driven development skill for writing unit tests, generating test fixtures and mocks, analyzing coverage gaps, and guiding red-green-refactor workflows across Jest, Pytest, JUnit, Vitest, and Mocha. Use when the user asks to write tests, improve test coverage, practice TDD, generate mocks or stubs, or mentions testing frameworks like Jest, pytest, or JUnit."
 ---
 
 # TDD Guide

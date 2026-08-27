@@ -1,6 +1,6 @@
 ---
 name: saying-no
-description: "Decline a request, push back on scope, or protect priorities without burning the relationship. Use when asked how to say no, turn down a request, push back on your boss/stakeholder, decline extra work, or protect the roadmap from a pet feature. Produces a graceful, firm response — the no, the honest why, an alternative or trade-off, and the exact wording, tuned to who's asking."
+description: "在不损害关系的前提下拒绝请求、反驳范围蔓延或守护优先级。当被问到如何说不、回绝请求、顶住上司／干系人的压力、谢绝额外工作，或防止路线图被心头好功能侵占时使用。产出一个得体而坚定的回应——拒绝本身、诚实的理由、替代方案或折中，以及针对不同请求者的具体措辞。 | Decline a request, push back on scope, or protect priorities without burning the relationship. Use when asked how to say no, turn down a request, push back on your boss/stakeholder, decline extra work, or protect the roadmap from a pet feature. Produces a graceful, firm response — the no, the honest why, an alternative or trade-off, and the exact wording, tuned to who's asking."
 ---
 
 # Saying No Skill

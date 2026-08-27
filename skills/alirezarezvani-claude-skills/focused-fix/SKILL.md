@@ -1,6 +1,6 @@
 ---
 name: "focused-fix"
-description: "Use when the user asks to fix, debug, or make a specific feature/module/area work end-to-end. Triggers: 'make X work', 'fix the Y feature', 'the Z module is broken', 'focus on [area]'. Not for quick single-bug fixes — this is for systematic deep-dive repair across all files and dependencies."
+description: "当用户要求修复、调试或让特定功能/模块/区域端到端正常工作时使用。触发词：「make X work」「fix the Y feature」「the Z module is broken」「focus on [area]」。不用于快速的单缺陷修复——这是跨所有文件和依赖的系统性深挖修复。 | Use when the user asks to fix, debug, or make a specific feature/module/area work end-to-end. Triggers: 'make X work', 'fix the Y feature', 'the Z module is broken', 'focus on [area]'. Not for quick single-bug fixes — this is for systematic deep-dive repair across all files and dependencies."
 ---
 
 # Focused Fix — Deep-Dive Feature Repair

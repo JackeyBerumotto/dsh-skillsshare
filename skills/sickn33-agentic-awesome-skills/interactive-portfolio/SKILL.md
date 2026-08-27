@@ -1,9 +1,6 @@
 ---
 name: interactive-portfolio
-description: Expert in building portfolios that actually land jobs and clients -
-  not just showing work, but creating memorable experiences. Covers developer
-  portfolios, designer portfolios, creative portfolios, and portfolios that
-  convert visitors into opportunities.
+description: "精通构建真正能带来工作和客户的作品集——不只是展示作品，而是创造令人难忘的体验。涵盖开发者作品集、设计师作品集、创意作品集，以及能将访客转化为机会的作品集。 | Expert in building portfolios that actually land jobs and clients - not just showing work, but creating memorable experiences. Covers developer portfolios, designer portfolios, creative portfolios, and portfolios that convert visitors into opportunities."
 risk: unknown
 source: vibeship-spawner-skills (Apache 2.0)
 date_added: 2026-02-27

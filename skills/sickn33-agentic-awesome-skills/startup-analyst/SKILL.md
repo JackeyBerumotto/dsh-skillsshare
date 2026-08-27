@@ -1,6 +1,6 @@
 ---
 name: startup-analyst
-description: Expert startup business analyst specializing in market sizing, financial modeling, competitive analysis, and strategic planning for early-stage companies.
+description: 初创公司商业分析专家，专精市场规模测算、财务建模、竞争分析与战略规划。 | Expert startup business analyst specializing in market sizing, financial modeling, competitive analysis, and strategic planning for early-stage companies.
 risk: unknown
 source: community
 date_added: '2026-02-27'

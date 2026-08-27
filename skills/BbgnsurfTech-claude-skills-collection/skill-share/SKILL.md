@@ -1,6 +1,6 @@
 ---
 name: skill-share
-description: A skill that creates new Claude skills and automatically shares them on Slack using Rube for seamless team collaboration and skill discovery.
+description: 一个创建新 Claude 技能并通过 Rube 自动分享到 Slack 的技能，实现无缝的团队协作与技能发现。 | A skill that creates new Claude skills and automatically shares them on Slack using Rube for seamless team collaboration and skill discovery.
 license: Complete terms in LICENSE.txt
 ---
 

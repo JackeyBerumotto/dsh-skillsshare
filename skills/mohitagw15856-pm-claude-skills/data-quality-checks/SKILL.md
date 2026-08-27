@@ -1,6 +1,6 @@
 ---
 name: data-quality-checks
-description: "Design the data quality checks for a table or pipeline across the standard dimensions. Use when asked to add data quality tests, define DQ checks, catch bad data before it hits dashboards, or set up monitoring for a dataset. Produces a checks plan across completeness, validity, uniqueness, freshness, consistency, and accuracy — each with the rule, severity, and where it runs (dbt test / Great Expectations / SQL assertion)."
+description: "跨标准维度为表或流水线设计数据质量检查。当被要求添加数据质量测试、定义 DQ 检查、在坏数据进入仪表盘前拦截，或为数据集建立监控时使用。产出覆盖完整性、有效性、唯一性、新鲜度、一致性和准确性的检查计划，每项包含规则、严重级别和执行位置（dbt test / Great Expectations / SQL 断言）。 | Design the data quality checks for a table or pipeline across the standard dimensions. Use when asked to add data quality tests, define DQ checks, catch bad data before it hits dashboards, or set up monitoring for a dataset. Produces a checks plan across completeness, validity, uniqueness, freshness, consistency, and accuracy — each with the rule, severity, and where it runs (dbt test / Great Expectations / SQL assertion)."
 ---
 
 # Data Quality Checks Skill

@@ -1,6 +1,6 @@
 ---
 name: rag-design-doc
-description: "Design a Retrieval-Augmented Generation system end to end. Use when asked to design a RAG pipeline, a 'chat with your docs' feature, a knowledge assistant, or to debug why a RAG system gives wrong/ungrounded answers. Produces a RAG design doc — ingestion & chunking, embeddings & index, retrieval & reranking, the generation prompt, grounding/citations, evaluation, and failure modes with mitigations."
+description: "端到端设计检索增强生成（RAG）系统。当被要求设计 RAG 流水线、「与文档对话」功能、知识助手，或调试 RAG 系统为何给出错误/无依据的回答时使用。产出一份 RAG 设计文档，内容包括摄取与分块、嵌入与索引、检索与重排、生成提示词、grounding/引用、评估，以及失效模式与缓解措施。 | Design a Retrieval-Augmented Generation system end to end. Use when asked to design a RAG pipeline, a 'chat with your docs' feature, a knowledge assistant, or to debug why a RAG system gives wrong/ungrounded answers. Produces a RAG design doc — ingestion & chunking, embeddings & index, retrieval & reranking, the generation prompt, grounding/citations, evaluation, and failure modes with mitigations."
 ---
 
 # RAG Design Doc Skill

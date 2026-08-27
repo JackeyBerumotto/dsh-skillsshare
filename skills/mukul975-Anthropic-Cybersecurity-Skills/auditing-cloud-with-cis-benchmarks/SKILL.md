@@ -1,12 +1,6 @@
 ---
 name: auditing-cloud-with-cis-benchmarks
-description: 'This skill details how to conduct cloud security audits using Center
-  for Internet Security benchmarks for AWS, Azure, and GCP. It covers interpreting
-  CIS Foundations Benchmark controls, running automated assessments with tools like
-  Prowler and ScoutSuite, remediating failed controls, and maintaining continuous
-  compliance monitoring against CIS v5 for AWS, v4 for Azure, and v4 for GCP.
-
-  '
+description: "本技能详述如何使用互联网安全中心（CIS）针对 AWS、Azure 与 GCP 的基准开展云安全审计。内容涵盖解读 CIS Foundations Benchmark 控制、使用 Prowler 与 ScoutSuite 等工具执行自动化评估、修复未通过的控制，以及对照 CIS v5 for AWS、v4 for Azure 与 v4 for GCP 维持持续合规监控。 | This skill details how to conduct cloud security audits using Center for Internet Security benchmarks for AWS, Azure, and GCP. It covers interpreting CIS Foundations Benchmark controls, running automated assessments with tools like Prowler and ScoutSuite, remediating failed controls, and maintaining continuous compliance monitoring against CIS v5 for AWS, v4 for Azure, and v4 for GCP."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

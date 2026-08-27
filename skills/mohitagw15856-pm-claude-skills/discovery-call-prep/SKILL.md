@@ -1,6 +1,6 @@
 ---
 name: discovery-call-prep
-description: "Prepare a structured discovery call plan for any prospect. Use when asked to prepare for a sales call, discovery call, prospect meeting, or first call with a potential customer. Produces a call brief with research, hypotheses, questions, and success criteria."
+description: "为任何潜在客户准备结构化的探索通话计划。当被要求为销售通话、探索通话、潜在客户会议或与潜在客户的第一次通话做准备时使用。产出一份通话简报，包含调研、假设、问题和成功标准。 | Prepare a structured discovery call plan for any prospect. Use when asked to prepare for a sales call, discovery call, prospect meeting, or first call with a potential customer. Produces a call brief with research, hypotheses, questions, and success criteria."
 ---
 
 # Discovery Call Prep Skill

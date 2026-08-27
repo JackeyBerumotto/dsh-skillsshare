@@ -1,6 +1,6 @@
 ---
 name: ai-usage-policy
-description: "Write an AI usage policy people can actually follow — approved tools, data rules, disclosure duties, and review obligations, in one page instead of legal fog. Use when asked for a company AI policy, acceptable-use rules for ChatGPT/Claude/Copilot at work, guidance on what data may go into AI tools, or to fix a policy nobody reads. Produces a one-page usable policy plus the decision log behind it. Not a substitute for legal advice; pairs with compliance-checklist for regulatory mapping and ai-ethics-review for system-level assessments."
+description: "撰写人们真正能遵守的 AI 使用政策——批准的工具、数据规则、披露义务和审查职责，一页纸而非法律迷雾。在被要求制定公司 AI 政策、ChatGPT/Claude/Copilot 在工作中的可接受使用规则、哪些数据可以进入 AI 工具的指引，或修复没人读的政策时使用。产出一页可用的政策及其背后的决策日志。不能替代法律建议；可配合 compliance-checklist 做法规映射，配合 ai-ethics-review 做系统级评估。 | Write an AI usage policy people can actually follow — approved tools, data rules, disclosure duties, and review obligations, in one page instead of legal fog. Use when asked for a company AI policy, acceptable-use rules for ChatGPT/Claude/Copilot at work, guidance on what data may go into AI tools, or to fix a policy nobody reads. Produces a one-page usable policy plus the decision log behind it. Not a substitute for legal advice; pairs with compliance-checklist for regulatory mapping and ai-ethics-review for system-level assessments."
 ---
 
 # AI Usage Policy Skill

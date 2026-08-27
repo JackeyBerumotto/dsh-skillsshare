@@ -1,6 +1,6 @@
 ---
 name: vercel-react-view-transitions
-description: "Guide React and Next.js view transitions, shared element animations, route transitions, transition types, and reduced-motion-safe UI state animation."
+description: "指导 React 和 Next.js 的视图过渡、共享元素动画、路由过渡、过渡类型，以及对减少动效友好的 UI 状态动画。 | Guide React and Next.js view transitions, shared element animations, route transitions, transition types, and reduced-motion-safe UI state animation."
 risk: safe
 source: "https://github.com/vercel-labs/agent-skills"
 date_added: "2026-06-02"

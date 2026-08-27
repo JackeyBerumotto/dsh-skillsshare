@@ -1,6 +1,6 @@
 ---
 name: optim-agent
-description: "Guide agent-driven parameter optimization for configurable systems with measurable objectives. Use for HPO, inference tuning, simulations, or RL/control experiments."
+description: "指导代理驱动的参数优化，适用于具有可测量目标的可配置系统。用于 HPO、推理调优、仿真或 RL/控制实验。 | Guide agent-driven parameter optimization for configurable systems with measurable objectives. Use for HPO, inference tuning, simulations, or RL/control experiments."
 category: data
 risk: safe
 source: community

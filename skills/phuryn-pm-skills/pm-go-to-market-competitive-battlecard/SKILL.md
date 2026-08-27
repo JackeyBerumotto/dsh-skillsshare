@@ -1,6 +1,6 @@
 ---
 name: competitive-battlecard
-description: "Create sales-ready competitive battlecards comparing your product against a specific competitor — positioning, feature comparison, objection handling, and win/loss patterns. Use when preparing sales teams, creating competitive materials, or responding to 'why not competitor X?'"
+description: "创建可直接用于销售的竞对战卡，将你的产品与特定竞争对手进行对比——涵盖定位、功能对比、异议应对以及赢单／丢单模式。当为销售团队做准备、创建竞争材料或回应「为什么不选竞品 X」时使用。 | Create sales-ready competitive battlecards comparing your product against a specific competitor — positioning, feature comparison, objection handling, and win/loss patterns. Use when preparing sales teams, creating competitive materials, or responding to 'why not competitor X?'"
 ---
 
 ## Competitive Battlecard

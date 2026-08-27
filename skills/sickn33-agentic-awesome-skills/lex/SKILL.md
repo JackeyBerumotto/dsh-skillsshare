@@ -1,6 +1,6 @@
 ---
 name: lex
-description: "Centralized 'Truth Engine' for cross-jurisdictional legal context (US, EU, CA) and contract scaffolding."
+description: "面向跨司法辖区（美国、欧盟、加拿大）法律上下文与合同脚手架的集中式「真理引擎」。 | Centralized 'Truth Engine' for cross-jurisdictional legal context (US, EU, CA) and contract scaffolding."
 category: business
 risk: safe
 source: community

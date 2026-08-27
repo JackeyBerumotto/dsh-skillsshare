@@ -1,6 +1,6 @@
 ---
 name: java-pro
-description: Master Java 21+ with modern features like virtual threads, pattern matching, and Spring Boot 3.x. Expert in the latest Java ecosystem including GraalVM, Project Loom, and cloud-native patterns.
+description: 掌握 Java 21+，运用虚拟线程、模式匹配与 Spring Boot 3.x 等现代特性。精通包含 GraalVM、Project Loom 与云原生模式在内的最新 Java 生态。 | Master Java 21+ with modern features like virtual threads, pattern matching, and Spring Boot 3.x. Expert in the latest Java ecosystem including GraalVM, Project Loom, and cloud-native patterns.
 risk: unknown
 source: community
 date_added: '2026-02-27'

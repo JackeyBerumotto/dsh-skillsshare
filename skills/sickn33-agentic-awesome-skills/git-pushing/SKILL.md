@@ -1,6 +1,6 @@
 ---
 name: git-pushing
-description: "Safely stage, commit, and push intended git changes with conventional commit messages. Use for ordinary non-release pushes when explicitly asked to push, save work remotely, or share a completed change."
+description: "以规范的提交信息安全地暂存、提交并推送预期的 git 变更。用于被明确要求推送、远程保存工作或分享已完成变更时的普通非发布类推送。 | Safely stage, commit, and push intended git changes with conventional commit messages. Use for ordinary non-release pushes when explicitly asked to push, save work remotely, or share a completed change."
 risk: critical
 source: community
 date_added: "2026-02-27"

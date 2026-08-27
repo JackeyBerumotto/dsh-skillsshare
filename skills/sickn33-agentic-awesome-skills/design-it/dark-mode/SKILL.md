@@ -1,6 +1,6 @@
 ---
 name: dark-mode
-description: Web and App implementation guide for Dark Mode Design. Trigger when user wants dark surfaces, reduced eye strain, and premium sleek aesthetics.
+description: Dark Mode Design（深色模式设计）的 Web 与 App 实现指南。当用户需要深色表面、减轻视觉疲劳和高级顺滑的质感时触发。 | Web and App implementation guide for Dark Mode Design. Trigger when user wants dark surfaces, reduced eye strain, and premium sleek aesthetics.
 date_added: "2026-06-17"
 risk: safe
 source: self

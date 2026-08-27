@@ -1,6 +1,6 @@
 ---
 name: retention-analysis
-description: "Structure a retention analysis, churn investigation, or engagement deep-dive for any product team. Use when asked to analyse user retention, investigate churn, measure DAU/MAU, or build a retention improvement plan. Produces a retention snapshot with root cause hypotheses, aha-moment correlation, and prioritised interventions."
+description: "为任何产品团队构建留存分析、流失调查或活跃度深挖。当被要求分析用户留存、调查流失、衡量 DAU/MAU 或制定留存改进计划时使用。产出留存快照，包含根因假设、顿悟时刻相关性分析以及按优先级排序的干预措施。 | Structure a retention analysis, churn investigation, or engagement deep-dive for any product team. Use when asked to analyse user retention, investigate churn, measure DAU/MAU, or build a retention improvement plan. Produces a retention snapshot with root cause hypotheses, aha-moment correlation, and prioritised interventions."
 ---
 
 # Retention Analysis Skill

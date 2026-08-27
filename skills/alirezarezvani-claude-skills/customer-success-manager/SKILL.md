@@ -1,6 +1,6 @@
 ---
 name: "customer-success-manager"
-description: Monitors customer health, predicts churn risk, and identifies expansion opportunities using weighted scoring models for SaaS customer success. Use when analyzing customer accounts, reviewing retention metrics, scoring at-risk customers, or when the user mentions churn, customer health scores, upsell opportunities, expansion revenue, retention analysis, or customer analytics. Runs three Python CLI tools to produce deterministic health scores, churn risk tiers, and prioritized expansion recommendations across Enterprise, Mid-Market, and SMB segments.
+description: 监控客户健康度、预测流失风险，并使用加权评分模型识别扩展机会，服务于 SaaS 客户成功。在分析客户账户、审查留存指标、为高风险客户评分，或用户提到流失、客户健康分、追加销售机会、扩展收入、留存分析或客户分析时使用。运行三个 Python CLI 工具，为企业级、中型市场和 SMB 客户群生成确定性的健康评分、流失风险分层和按优先级排序的扩展建议。 | Monitors customer health, predicts churn risk, and identifies expansion opportunities using weighted scoring models for SaaS customer success. Use when analyzing customer accounts, reviewing retention metrics, scoring at-risk customers, or when the user mentions churn, customer health scores, upsell opportunities, expansion revenue, retention analysis, or customer analytics. Runs three Python CLI tools to produce deterministic health scores, churn risk tiers, and prioritized expansion recommendations across Enterprise, Mid-Market, and SMB segments.
 license: MIT
 metadata:
   version: 1.0.0

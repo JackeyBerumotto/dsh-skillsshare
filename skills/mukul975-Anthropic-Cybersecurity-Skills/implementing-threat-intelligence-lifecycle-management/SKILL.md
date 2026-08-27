@@ -1,8 +1,6 @@
 ---
 name: implementing-threat-intelligence-lifecycle-management
-description: Implement a structured threat intelligence lifecycle encompassing planning,
-  collection, processing, analysis, dissemination, and feedback stages to produce
-  actionable intelligence for organizational decision-making.
+description: "实施结构化的威胁情报生命周期，涵盖规划、收集、处理、分析、分发和反馈阶段，为组织决策提供可操作的情报。 | Implement a structured threat intelligence lifecycle encompassing planning, collection, processing, analysis, dissemination, and feedback stages to produce actionable intelligence for organizational decision-making."
 domain: cybersecurity
 subdomain: threat-intelligence
 tags:

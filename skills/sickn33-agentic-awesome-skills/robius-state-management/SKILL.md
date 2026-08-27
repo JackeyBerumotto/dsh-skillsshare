@@ -1,7 +1,7 @@
 ---
 name: robius-state-management
 description: |
-  CRITICAL: Use for Robius state management patterns. Triggers on:
+  关键：用于 Robius 状态管理模式。触发词：AppState、persistence、theme switch、状态管理、Scope::with_data、save state、load state、serde、状态持久化、主题切换 |
   AppState, persistence, theme switch, 状态管理,
   Scope::with_data, save state, load state, serde,
   状态持久化, 主题切换

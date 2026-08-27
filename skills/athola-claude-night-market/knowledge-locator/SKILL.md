@@ -1,6 +1,6 @@
 ---
 name: knowledge-locator
-description: Searches and navigates stored knowledge in memory palaces. Use when looking for previously stored information or cross-referencing concepts across palaces.
+description: 在记忆宫殿中搜索并导航已存储的知识。在查找先前存储的信息或跨宫殿交叉引用概念时使用。 | Searches and navigates stored knowledge in memory palaces. Use when looking for previously stored information or cross-referencing concepts across palaces.
 alwaysApply: false
 category: navigation
 tags:

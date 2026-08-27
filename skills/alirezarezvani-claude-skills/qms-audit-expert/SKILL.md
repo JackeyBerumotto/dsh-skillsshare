@@ -1,6 +1,6 @@
 ---
 name: "qms-audit-expert"
-description: ISO 13485 internal audit expertise for medical device QMS. Covers audit planning, execution, nonconformity classification, and CAPA verification. Use when planning internal audits, executing audits, classifying findings, preparing for external audits, or managing an audit program.
+description: 面向医疗器械 QMS 的 ISO 13485 内部审核专业知识。涵盖审核计划、执行、不符合项分类和 CAPA 验证。在计划内部审核、执行审核、对发现进行分类、准备外部审核或管理审核项目时使用。 | ISO 13485 internal audit expertise for medical device QMS. Covers audit planning, execution, nonconformity classification, and CAPA verification. Use when planning internal audits, executing audits, classifying findings, preparing for external audits, or managing an audit program.
 triggers:
   - ISO 13485 audit
   - internal audit

@@ -1,6 +1,6 @@
 ---
 name: excel-model
-description: "Build a real, formula-driven Excel (.xlsx) model — not a static table. Use when asked to build an Excel model, a financial model, a budget/forecast spreadsheet, or any .xlsx with live formulas a user can edit. Produces an actual .xlsx file via a generated openpyxl script: an inputs/assumptions sheet, calculation sheets with real cell formulas, and formatting — so changing an input recalculates the model. Requires a code-execution environment (Claude Code, the API code tool, or Claude.ai)."
+description: "构建真实、由公式驱动的 Excel（.xlsx）模型——而不是静态表格。当被要求构建 Excel 模型、财务模型、预算或预测表格，或任何含用户可编辑活公式的 .xlsx 时使用。通过生成的 openpyxl 脚本产出真实的 .xlsx 文件：输入与假设表、带真实单元格公式的计算表以及格式化——修改输入即可重新计算整个模型。需要代码执行环境（Claude Code、API 代码工具或 Claude.ai）。 | Build a real, formula-driven Excel (.xlsx) model — not a static table. Use when asked to build an Excel model, a financial model, a budget/forecast spreadsheet, or any .xlsx with live formulas a user can edit. Produces an actual .xlsx file via a generated openpyxl script: an inputs/assumptions sheet, calculation sheets with real cell formulas, and formatting — so changing an input recalculates the model. Requires a code-execution environment (Claude Code, the API code tool, or Claude.ai)."
 ---
 
 # Excel Model Skill

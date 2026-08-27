@@ -2,7 +2,7 @@
 name: subagent-orchestrator
 risk: safe
 source: community
-description: Coordinate quota-aware parallel subagents for large, multi-file Antigravity tasks.
+description: 为大型多文件的 Antigravity 任务协调具备配额感知的并行子 Agent。 | Coordinate quota-aware parallel subagents for large, multi-file Antigravity tasks.
 version: 1.0.0
 author: community
 tags: [subagents, orchestration, quota, parallel, multi-agent]

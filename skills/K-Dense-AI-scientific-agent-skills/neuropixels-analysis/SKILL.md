@@ -1,6 +1,6 @@
 ---
 name: neuropixels-analysis
-description: Analyze Neuropixels extracellular recordings end-to-end with SpikeInterface. Covers loading SpikeGLX/Open Ephys/NWB data, preprocessing, drift/motion correction, Kilosort4 (and CPU) spike sorting, quality metrics, and unit curation (threshold-based, model-based UnitRefine, and AI-assisted visual review). Use when working with Neuropixels 1.0/2.0 recordings, spike sorting, or extracellular electrophysiology analysis.
+description: 使用 SpikeInterface 端到端分析 Neuropixels 细胞外记录。涵盖加载 SpikeGLX／Open Ephys／NWB 数据、预处理、漂移／运动校正、Kilosort4（及 CPU）锋电位排序、质量指标以及单元筛选（基于阈值、基于模型的 UnitRefine 和 AI 辅助视觉审查）。在处理 Neuropixels 1.0/2.0 记录、锋电位排序或细胞外电生理分析时使用。 | Analyze Neuropixels extracellular recordings end-to-end with SpikeInterface. Covers loading SpikeGLX/Open Ephys/NWB data, preprocessing, drift/motion correction, Kilosort4 (and CPU) spike sorting, quality metrics, and unit curation (threshold-based, model-based UnitRefine, and AI-assisted visual review). Use when working with Neuropixels 1.0/2.0 recordings, spike sorting, or extracellular electrophysiology analysis.
 license: MIT license
 required_environment_variables: [{"name": "ANTHROPIC_API_KEY", "prompt": "For optional Claude API calls.", "required_for": "optional features"}]
 metadata: {"version": "2.1", "skill-author": "K-Dense Inc.", "openclaw": {"primaryEnv": "ANTHROPIC_API_KEY", "envVars": [{"name": "ANTHROPIC_API_KEY", "required": false, "description": "For optional Claude API calls."}]}}

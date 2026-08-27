@@ -1,7 +1,6 @@
 ---
 name: performing-cloud-forensics-investigation
-description: Conduct forensic investigations in cloud environments by collecting and
-  analyzing logs, snapshots, and metadata from AWS, Azure, and GCP services.
+description: "通过收集和分析来自 AWS、Azure 和 GCP 服务的日志、快照和元数据，在云环境中开展取证调查。 | Conduct forensic investigations in cloud environments by collecting and analyzing logs, snapshots, and metadata from AWS, Azure, and GCP services."
 domain: cybersecurity
 subdomain: digital-forensics
 tags:

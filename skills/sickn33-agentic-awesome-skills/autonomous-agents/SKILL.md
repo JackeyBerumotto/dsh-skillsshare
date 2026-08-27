@@ -1,9 +1,6 @@
 ---
 name: autonomous-agents
-description: Autonomous agents are AI systems that can independently decompose
-  goals, plan actions, execute tools, and self-correct without constant human
-  guidance. The challenge isn't making them capable - it's making them reliable.
-  Every extra decision multiplies failure probability.
+description: "自主智能体是能够独立分解目标、规划行动、执行工具并在无需持续人工指导的情况下自我修正的 AI 系统。挑战不在于让它们变得强大，而在于让它们变得可靠。每一个额外的决策都会成倍增加失败概率。 | Autonomous agents are AI systems that can independently decompose goals, plan actions, execute tools, and self-correct without constant human guidance. The challenge isn't making them capable - it's making them reliable. Every extra decision multiplies failure probability."
 risk: unknown
 source: vibeship-spawner-skills (Apache 2.0)
 date_added: 2026-02-27

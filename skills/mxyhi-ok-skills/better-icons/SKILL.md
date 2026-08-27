@@ -1,6 +1,6 @@
 ---
 name: better-icons
-description: 'Use when working with icons in any project. Provides CLI for searching 200+ icon libraries (Iconify) and retrieving SVGs. Commands: `better-icons search <query>` to find icons, `better-icons get <id>` to get SVG. Also available as MCP server for AI agents.'
+description: '在任何项目中处理图标时使用。提供用于搜索 200 多个图标库（Iconify）并获取 SVG 的 CLI。命令：`better-icons search <query>` 查找图标，`better-icons get <id>` 获取 SVG。也可作为 MCP 服务器供 AI 代理使用。 | Use when working with icons in any project. Provides CLI for searching 200+ icon libraries (Iconify) and retrieving SVGs. Commands: `better-icons search <query>` to find icons, `better-icons get <id>` to get SVG. Also available as MCP server for AI agents.'
 ---
 
 # Better Icons

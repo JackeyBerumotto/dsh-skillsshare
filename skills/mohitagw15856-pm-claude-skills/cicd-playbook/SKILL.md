@@ -1,6 +1,6 @@
 ---
 name: cicd-playbook
-description: "Write a CI/CD pipeline playbook for a service or team. Use when asked to document a CI/CD pipeline, write a deployment process, define release gates, document build and test stages, or create a deployment guide. Produces a structured playbook covering pipeline stages, environment definitions, deployment gates, rollback procedures, and on-call responsibilities."
+description: "为服务或团队编写 CI/CD 流水线手册。在被要求记录 CI/CD 流水线、编写部署流程、定义发布门禁、记录构建与测试阶段或创建部署指南时使用。产出的结构化手册涵盖流水线阶段、环境定义、部署门禁、回滚程序和值班职责。 | Write a CI/CD pipeline playbook for a service or team. Use when asked to document a CI/CD pipeline, write a deployment process, define release gates, document build and test stages, or create a deployment guide. Produces a structured playbook covering pipeline stages, environment definitions, deployment gates, rollback procedures, and on-call responsibilities."
 ---
 
 # CI/CD Playbook Skill

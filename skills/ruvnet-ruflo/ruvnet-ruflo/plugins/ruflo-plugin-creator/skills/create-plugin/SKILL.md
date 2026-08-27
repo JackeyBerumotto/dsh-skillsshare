@@ -1,6 +1,6 @@
 ---
 name: create-plugin
-description: Scaffold a new Claude Code plugin with proper directory structure, plugin.json, skills, commands, and agents
+description: 以正确的目录结构、plugin.json、技能、命令和代理脚手架生成新的 Claude Code 插件。 | Scaffold a new Claude Code plugin with proper directory structure, plugin.json, skills, commands, and agents
 argument-hint: "<plugin-name>"
 allowed-tools: mcp__claude-flow__transfer_plugin-info mcp__claude-flow__transfer_plugin-search mcp__claude-flow__transfer_store-search Bash Read Write Edit
 ---

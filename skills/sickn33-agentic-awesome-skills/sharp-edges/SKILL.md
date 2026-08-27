@@ -1,13 +1,13 @@
 ---
 name: sharp-edges
-description: sharp-edges
+description: 识别易出错的 API、危险配置以及容易诱发安全失误的陷阱式设计。在审查 API 设计、配置模式、加密库易用性，或评估代码是否遵循安全默认原则时使用…… | Identifies error-prone APIs, dangerous configurations, and footgun designs that enable security mistakes. Use when reviewing API designs, configuration schemas, cryptographic library ergonomics, or evaluating whether code follows 'secure by...
 risk: unknown
 source: community
 ---
 
 ---
 name: sharp-edges
-description: "Identifies error-prone APIs, dangerous configurations, and footgun designs that enable security mistakes. Use when reviewing API designs, configuration schemas, cryptographic library ergonomics, or evaluating whether code follows 'secure by...
+description: "识别易出错的 API、危险配置以及容易诱发安全失误的陷阱式设计。在审查 API 设计、配置模式、加密库易用性，或评估代码是否遵循安全默认原则时使用…… | Identifies error-prone APIs, dangerous configurations, and footgun designs that enable security mistakes. Use when reviewing API designs, configuration schemas, cryptographic library ergonomics, or evaluating whether code follows 'secure by..."
 ---
 
 # Sharp Edges Analysis

@@ -1,6 +1,6 @@
 ---
 name: code-refactoring-context-restore
-description: "Use when working with code refactoring context restore"
+description: "在处理代码重构（code refactoring）中的上下文恢复（context restore）时使用。 | Use when working with code refactoring context restore"
 risk: unknown
 source: community
 date_added: "2026-02-27"

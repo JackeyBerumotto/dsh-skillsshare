@@ -1,6 +1,6 @@
 ---
 name: sleek-design-mobile-apps
-description: Use when the user wants to design a mobile app or UI screens, when they mention their Sleek (sleek.design) projects, or when implementing Sleek designs in code (HTML, React Native, SwiftUI).
+description: 当用户想要设计移动应用或 UI 界面、提到他们的 Sleek（sleek.design）项目，或在代码中实现 Sleek 设计（HTML、React Native、SwiftUI）时使用。 | Use when the user wants to design a mobile app or UI screens, when they mention their Sleek (sleek.design) projects, or when implementing Sleek designs in code (HTML, React Native, SwiftUI).
 compatibility: Requires SLEEK_API_KEY environment variable. Network access limited to https://sleek.design only.
 metadata:
   requires-env: SLEEK_API_KEY

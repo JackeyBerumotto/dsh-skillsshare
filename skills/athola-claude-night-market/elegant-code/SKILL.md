@@ -1,6 +1,6 @@
 ---
 name: elegant-code
-description: Guide minimal code via a decision ladder with full safety, edge, and negative-case coverage. Use when adding code, choosing a dependency, or auditing a diff.
+description: 通过决策阶梯指导编写最简代码，同时全面覆盖安全、边界和反例场景。在添加代码、选择依赖或审查 diff 时使用。 | Guide minimal code via a decision ladder with full safety, edge, and negative-case coverage. Use when adding code, choosing a dependency, or auditing a diff.
 alwaysApply: false
 category: conservation
 tags:

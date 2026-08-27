@@ -1,6 +1,6 @@
 ---
 name: access
-description: Manage Discord channel access — approve pairings, edit allowlists, set DM/group policy. Use when the user asks to pair, approve someone, check who's allowed, or change policy for the Discord channel.
+description: 管理 Discord 频道访问——批准配对、编辑允许列表、设置私信/群组策略。当用户要求配对、批准某人、查看谁被允许，或更改 Discord 频道策略时使用。 | Manage Discord channel access — approve pairings, edit allowlists, set DM/group policy. Use when the user asks to pair, approve someone, check who's allowed, or change policy for the Discord channel.
 user-invocable: true
 allowed-tools:
   - Read

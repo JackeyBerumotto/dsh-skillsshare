@@ -1,6 +1,6 @@
 ---
 name: project-status-report
-description: "Write a structured project status report for any project. Use when asked to write a project update, status report, RAG report, project dashboard narrative, or weekly project communication. Produces a clear status report with RAG ratings, milestone progress, risks, and decisions needed."
+description: "为任何项目撰写结构化的项目状态报告。在被要求编写项目更新、状态报告、RAG 报告、项目看板叙述或每周项目沟通时使用。产出清晰的状态报告，包含 RAG 评级、里程碑进展、风险和所需决策。 | Write a structured project status report for any project. Use when asked to write a project update, status report, RAG report, project dashboard narrative, or weekly project communication. Produces a clear status report with RAG ratings, milestone progress, risks, and decisions needed."
 ---
 
 # Project Status Report Skill

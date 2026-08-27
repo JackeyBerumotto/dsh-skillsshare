@@ -1,6 +1,6 @@
 ---
 name: redis-patterns
-description: Redis patterns including caching strategies, pub/sub, streams for event processing, Lua scripts, and data structures
+description: Redis 模式，包括缓存策略、发布/订阅、用于事件处理的流、Lua 脚本和数据结构。 | Redis patterns including caching strategies, pub/sub, streams for event processing, Lua scripts, and data structures
 ---
 
 # Redis Patterns

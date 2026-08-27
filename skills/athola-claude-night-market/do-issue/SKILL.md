@@ -1,7 +1,7 @@
 ---
 name: do-issue
 role: entrypoint
-description: Implements GitHub or GitLab issues via parallel subagents with review gates between task batches. Use when resolving multi-step issues end-to-end.
+description: 通过并行子智能体实现 GitHub 或 GitLab issue，并在任务批次之间设置审查关卡。用于端到端解决多步骤 issue。 | Implements GitHub or GitLab issues via parallel subagents with review gates between task batches. Use when resolving multi-step issues end-to-end.
 alwaysApply: false
 category: workflow-automation
 tags:

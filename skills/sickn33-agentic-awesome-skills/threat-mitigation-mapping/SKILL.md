@@ -1,6 +1,6 @@
 ---
 name: threat-mitigation-mapping
-description: "Map identified threats to appropriate security controls and mitigations. Use when prioritizing security investments, creating remediation plans, or validating control effectiveness."
+description: "把已识别的威胁映射到合适的安全控制与缓解措施。在排定安全投入优先级、制定整改计划或验证控制有效性时使用。 | Map identified threats to appropriate security controls and mitigations. Use when prioritizing security investments, creating remediation plans, or validating control effectiveness."
 risk: safe
 source: community
 date_added: "2026-02-27"

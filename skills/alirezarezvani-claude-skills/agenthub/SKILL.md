@@ -1,6 +1,6 @@
 ---
 name: "agenthub"
-description: "Multi-agent collaboration plugin that spawns N parallel subagents competing on the same task via git worktree isolation. Agents work independently, results are evaluated by metric or LLM judge, and the best branch is merged. Use when: user wants multiple approaches tried in parallel — code optimization, content variation, research exploration, or any task that benefits from parallel competition. Requires: a git repo."
+description: "多智能体协作插件，通过 git worktree 隔离生成 N 个并行子智能体在同一任务上竞争。各智能体独立工作，结果由指标或 LLM 裁决评估，最优分支被合并。适用于：用户希望并行尝试多种方案——代码优化、内容变体、研究探索，或任何能从并行竞争中受益的任务。前提：一个 git 仓库。 | Multi-agent collaboration plugin that spawns N parallel subagents competing on the same task via git worktree isolation. Agents work independently, results are evaluated by metric or LLM judge, and the best branch is merged. Use when: user wants multiple approaches tried in parallel — code optimization, content variation, research exploration, or any task that benefits from parallel competition. Requires: a git repo."
 license: MIT
 metadata:
   version: 2.1.2

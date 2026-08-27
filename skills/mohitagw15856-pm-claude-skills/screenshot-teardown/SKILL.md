@@ -1,6 +1,6 @@
 ---
 name: screenshot-teardown
-description: "Tear down a competitor's product from screenshots of its actual UI — onboarding, pricing page, core flows. Use when given screenshots of a rival's app or website and asked what they're doing, how their flow works, or what to learn/steal/avoid. Produces a UX-and-strategy teardown grounded in what is visibly on screen, with an inferences-vs-observations split. Requires image input. For a market-level teardown without screenshots use competitor-teardown."
+description: "基于竞品真实 UI 的截图（新手引导、定价页、核心流程）对其进行拆解分析。当拿到竞争对手应用或网站的截图，被问及他们在做什么、流程如何运作、或有哪些可借鉴/可借用/需避免之处时使用。产出以屏幕可见内容为依据的 UX 与战略拆解，并区分推断与观察。需要图片输入。如需不依赖截图的市场层面拆解，请使用 competitor-teardown。 | Tear down a competitor's product from screenshots of its actual UI — onboarding, pricing page, core flows. Use when given screenshots of a rival's app or website and asked what they're doing, how their flow works, or what to learn/steal/avoid. Produces a UX-and-strategy teardown grounded in what is visibly on screen, with an inferences-vs-observations split. Requires image input. For a market-level teardown without screenshots use competitor-teardown."
 ---
 
 # Screenshot Teardown Skill

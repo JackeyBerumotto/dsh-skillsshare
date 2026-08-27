@@ -1,13 +1,6 @@
 ---
 name: implementing-ebpf-security-monitoring
-description: 'Implements eBPF-based security monitoring using Cilium Tetragon for
-  real-time process execution tracking, network connection observability, file access
-  auditing, and runtime enforcement. Covers TracingPolicy CRD authoring with kprobe/tracepoint
-  hooks, in-kernel filtering via matchArgs/matchBinaries selectors, JSON event export,
-  and integration with SIEM pipelines. Use when building kernel-level runtime security
-  observability for Linux hosts or Kubernetes clusters.
-
-  '
+description: "使用 Cilium Tetragon 实现基于 eBPF 的安全监控，进行实时进程执行跟踪、网络连接可观测、文件访问审计和运行时强制执行。涵盖使用 kprobe/tracepoint 钩子编写 TracingPolicy CRD、通过 matchArgs/matchBinaries 选择器进行内核内过滤、JSON 事件导出以及与 SIEM 管道集成。适用于为 Linux 主机或 Kubernetes 集群构建内核级运行时安全可观测时使用。 | Implements eBPF-based security monitoring using Cilium Tetragon for real-time process execution tracking, network connection observability, file access auditing, and runtime enforcement. Covers TracingPolicy CRD authoring with kprobe/tracepoint hooks, in-kernel filtering via matchArgs/matchBinaries selectors, JSON event export, and integration with SIEM pipelines. Use when building kernel-level runtime security observability for Linux hosts or Kubernetes clusters."
 domain: cybersecurity
 subdomain: security-operations
 tags:

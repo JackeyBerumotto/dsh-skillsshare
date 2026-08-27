@@ -1,6 +1,6 @@
 ---
 name: odoo-sales-crm-expert
-description: "Expert guide for Odoo Sales and CRM: pipeline stages, quotation templates, pricelists, sales teams, lead scoring, and forecasting."
+description: "Odoo 销售与 CRM 专家指南：销售管道阶段、报价单模板、价格表、销售团队、线索评分和预测。 | Expert guide for Odoo Sales and CRM: pipeline stages, quotation templates, pricelists, sales teams, lead scoring, and forecasting."
 risk: safe
 source: "self"
 ---

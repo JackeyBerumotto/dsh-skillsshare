@@ -1,6 +1,6 @@
 ---
 name: gaia-architecture-comparison
-description: Side-by-side comparison of ruflo vs HAL vs other GAIA harnesses — capability gaps, design decisions, and improvement roadmap
+description: ruflo 与 HAL 及其他 GAIA 框架的并排对比——能力差距、设计决策和改进路线图。 | Side-by-side comparison of ruflo vs HAL vs other GAIA harnesses — capability gaps, design decisions, and improvement roadmap
 argument-hint: "[--focus=tools|routing|memory|cost]"
 allowed-tools: Bash Read mcp__claude-flow__memory_search mcp__claude-flow__memory_store
 ---

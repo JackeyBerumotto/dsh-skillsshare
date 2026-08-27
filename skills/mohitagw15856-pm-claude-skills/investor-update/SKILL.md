@@ -1,6 +1,6 @@
 ---
 name: investor-update
-description: "Write a structured monthly or quarterly investor update. Use when asked to write an investor update, investor newsletter, board update, or startup progress report for investors. Produces a clear, credible update with highlights, metrics, challenges, and asks — in the format investors actually want to read."
+description: "撰写结构化的月度或季度投资人更新。在被要求编写投资人更新、投资人 newsletter、董事会更新或面向投资人的创业进展报告时使用。产出清晰可信的更新，包含亮点、指标、挑战和请求——采用投资人真正想读的格式。 | Write a structured monthly or quarterly investor update. Use when asked to write an investor update, investor newsletter, board update, or startup progress report for investors. Produces a clear, credible update with highlights, metrics, challenges, and asks — in the format investors actually want to read."
 ---
 
 # Investor Update Skill

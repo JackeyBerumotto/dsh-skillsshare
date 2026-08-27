@@ -1,8 +1,6 @@
 ---
 name: testing-for-json-web-token-vulnerabilities
-description: Test JWT implementations for critical vulnerabilities including algorithm
-  confusion, none algorithm bypass, kid parameter injection, and weak secret exploitation
-  to achieve authentication bypass and privilege escalation.
+description: "测试 JWT 实现的关键漏洞，包括算法混淆、none 算法绕过、kid 参数注入与弱密钥利用，以实现身份验证绕过与权限提升。 | Test JWT implementations for critical vulnerabilities including algorithm confusion, none algorithm bypass, kid parameter injection, and weak secret exploitation to achieve authentication bypass and privilege escalation."
 domain: cybersecurity
 subdomain: web-application-security
 tags:

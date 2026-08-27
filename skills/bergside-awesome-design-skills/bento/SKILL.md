@@ -1,6 +1,6 @@
 ---
 name: bento
-description: Modular grid layout with card-like blocks, clear hierarchy, soft spacing, and subtle visual contrast for organized, scannable interfaces.
+description: 模块化网格布局，采用卡片式区块、清晰层级、柔和间距与细微的视觉对比，打造有条理、易于扫视的界面。 | Modular grid layout with card-like blocks, clear hierarchy, soft spacing, and subtle visual contrast for organized, scannable interfaces.
 license: MIT
 metadata:
   author: typeui.sh

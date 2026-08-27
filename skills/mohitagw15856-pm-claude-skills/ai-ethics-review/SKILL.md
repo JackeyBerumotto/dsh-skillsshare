@@ -1,6 +1,6 @@
 ---
 name: ai-ethics-review
-description: "Conduct a structured ethical review of an AI or ML feature, model, or product. Use when preparing to deploy an AI system, assessing algorithmic risk, auditing a model for bias, or producing a responsible AI impact assessment. Produces a structured ethics review covering fairness, transparency, privacy, safety, accountability, and societal impact with a risk tier score, pre-deployment checklist, and prioritised mitigations."
+description: "对 AI 或 ML 功能、模型或产品开展结构化伦理审查。在准备部署 AI 系统、评估算法风险、审计模型偏差或撰写负责任 AI 影响评估时使用。产出覆盖公平性、透明度、隐私、安全、问责和社会影响的结构化伦理审查，附带风险等级评分、部署前清单和按优先级排序的缓解措施。 | Conduct a structured ethical review of an AI or ML feature, model, or product. Use when preparing to deploy an AI system, assessing algorithmic risk, auditing a model for bias, or producing a responsible AI impact assessment. Produces a structured ethics review covering fairness, transparency, privacy, safety, accountability, and societal impact with a risk tier score, pre-deployment checklist, and prioritised mitigations."
 ---
 
 # AI Ethics Review Skill

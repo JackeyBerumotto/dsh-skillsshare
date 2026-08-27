@@ -1,6 +1,6 @@
 ---
 name: openapi-spec-generation
-description: "Generate and maintain OpenAPI 3.1 specifications from code, design-first specs, and validation patterns. Use when creating API documentation, generating SDKs, or ensuring API contract compliance."
+description: "从代码、设计优先规范与校验模式生成并维护 OpenAPI 3.1 规范。在创建 API 文档、生成 SDK 或确保 API 契约合规时使用。 | Generate and maintain OpenAPI 3.1 specifications from code, design-first specs, and validation patterns. Use when creating API documentation, generating SDKs, or ensuring API contract compliance."
 risk: safe
 source: community
 date_added: "2026-02-27"

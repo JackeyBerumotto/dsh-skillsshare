@@ -1,7 +1,7 @@
 ---
 name: ponytail-debt
 description: >
-  Harvest every `ponytail:` comment in the codebase into a debt ledger, so the
+  将代码库中每一条「ponytail:」注释收割进一份债务台账，让 ponytail 有意留下的捷径和延后事项得到跟踪，而不是烂成「以后等于永不」。当用户说「ponytail debt」、「/ponytail-debt」、「what did ponytail defer」、「list the shortcuts」、「ponytail ledger」或「what did we mark to do later」时使用。一次性报告，不改动任何内容。 |
   deliberate shortcuts and deferrals ponytail leaves behind get tracked instead
   of rotting into "later means never". Use when the user says "ponytail debt",
   "/ponytail-debt", "what did ponytail defer", "list the shortcuts", "ponytail

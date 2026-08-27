@@ -1,6 +1,6 @@
 ---
 name: "code-reviewer"
-description: Code review automation for TypeScript, JavaScript, Python, Go, Swift, Kotlin, C#, .NET, Java, C, C++, Rust, Ruby, PHP, and Dart/Flutter. Analyzes PRs for complexity and risk, checks code quality for SOLID violations and code smells, generates review reports. Use when reviewing pull requests, analyzing code quality, identifying issues, generating review checklists.
+description: 适用于 TypeScript、JavaScript、Python、Go、Swift、Kotlin、C#、.NET、Java、C、C++、Rust、Ruby、PHP 和 Dart/Flutter 的代码审查自动化。分析 PR 的复杂度与风险，检查代码质量中的 SOLID 违规和代码异味，生成审查报告。在审查拉取请求、分析代码质量、识别问题、生成审查清单时使用。 | Code review automation for TypeScript, JavaScript, Python, Go, Swift, Kotlin, C#, .NET, Java, C, C++, Rust, Ruby, PHP, and Dart/Flutter. Analyzes PRs for complexity and risk, checks code quality for SOLID violations and code smells, generates review reports. Use when reviewing pull requests, analyzing code quality, identifying issues, generating review checklists.
 ---
 
 # Code Reviewer

@@ -1,6 +1,6 @@
 ---
 name: modeling-threats-with-opencti
-description: Model threat actors, intrusion sets, campaigns, and TTPs as a STIX 2.1 knowledge graph in OpenCTI (Filigran) using the pycti Python client, connectors, and import workers for structured cyber threat intelligence.
+description: 使用 pycti Python 客户端、连接器与导入 worker，在 OpenCTI（Filigran）中把威胁行为者、入侵集合、攻击活动与 TTP 建模为 STIX 2.1 知识图谱，用于结构化网络威胁情报。 | Model threat actors, intrusion sets, campaigns, and TTPs as a STIX 2.1 knowledge graph in OpenCTI (Filigran) using the pycti Python client, connectors, and import workers for structured cyber threat intelligence.
 domain: cybersecurity
 subdomain: threat-intelligence
 tags:

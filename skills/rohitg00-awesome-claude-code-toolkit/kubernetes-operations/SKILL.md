@@ -1,6 +1,6 @@
 ---
 name: kubernetes-operations
-description: Kubernetes operations including manifests, Helm charts, operators, troubleshooting, and resource management
+description: Kubernetes 运维，包括清单、Helm chart、operator、故障排除和资源管理 | Kubernetes operations including manifests, Helm charts, operators, troubleshooting, and resource management
 ---
 
 # Kubernetes Operations

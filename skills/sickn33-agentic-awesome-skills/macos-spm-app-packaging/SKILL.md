@@ -1,6 +1,6 @@
 ---
 name: macos-spm-app-packaging
-description: Scaffold, build, sign, and package SwiftPM macOS apps without Xcode projects.
+description: 无需 Xcode 工程即可脚手架生成、构建、签名并打包 SwiftPM macOS 应用。 | Scaffold, build, sign, and package SwiftPM macOS apps without Xcode projects.
 risk: safe
 source: "Dimillian/Skills (MIT)"
 date_added: "2026-03-25"

@@ -1,6 +1,6 @@
 ---
 name: graphql-schema
-description: GraphQL queries, mutations, and code generation patterns. Use when creating GraphQL operations, working with Apollo Client, or generating types.
+description: GraphQL 查询、变更和代码生成模式。在创建 GraphQL 操作、使用 Apollo Client 或生成类型时使用。 | GraphQL queries, mutations, and code generation patterns. Use when creating GraphQL operations, working with Apollo Client, or generating types.
 risk: unknown
 source: https://github.com/ChrisWiles/claude-code-showcase/tree/main/.claude/skills/graphql-schema
 source_repo: ChrisWiles/claude-code-showcase

@@ -1,6 +1,6 @@
 ---
 name: cost-summary
-description: Single-shot programmatic dump of all cost data — total spend, per-tier, top session, budget status, federation aggregate. JSON or markdown.
+description: 一次性程序化导出全部成本数据——总支出、按层级、最大会话、预算状态、联邦汇总。JSON 或 markdown 格式。 | Single-shot programmatic dump of all cost data — total spend, per-tier, top session, budget status, federation aggregate. JSON or markdown.
 argument-hint: "[--format json|markdown]"
 allowed-tools: Bash
 ---

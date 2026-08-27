@@ -1,6 +1,6 @@
 ---
 name: detecting-memory-leaks
-description: Detect potential memory leaks and analyze memory usage patterns in code. Use when troubleshooting performance issues related to memory growth or identifying leak sources. Trigger with phrases like "detect memory leaks", "analyze memory usage", or "find memory issues".
+description: 检测潜在内存泄漏并分析代码中的内存使用模式。当需要排查与内存增长相关的性能问题或定位泄漏来源时使用。触发短语如「detect memory leaks」「analyze memory usage」或「find memory issues」。 | Detect potential memory leaks and analyze memory usage patterns in code. Use when troubleshooting performance issues related to memory growth or identifying leak sources. Trigger with phrases like "detect memory leaks", "analyze memory usage", or "find memory issues".
 version: 1.0.0
 allowed-tools:
 - Read

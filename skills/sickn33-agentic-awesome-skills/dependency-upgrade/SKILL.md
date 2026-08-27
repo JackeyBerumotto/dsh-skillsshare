@@ -1,6 +1,6 @@
 ---
 name: dependency-upgrade
-description: "Master major dependency version upgrades, compatibility analysis, staged upgrade strategies, and comprehensive testing approaches."
+description: "掌握重大依赖版本升级、兼容性分析、分阶段升级策略与全面的测试方法。 | Master major dependency version upgrades, compatibility analysis, staged upgrade strategies, and comprehensive testing approaches."
 risk: critical
 source: community
 date_added: "2026-02-27"

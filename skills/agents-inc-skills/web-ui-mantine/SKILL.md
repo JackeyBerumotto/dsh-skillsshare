@@ -1,6 +1,6 @@
 ---
 name: web-ui-mantine
-description: Mantine v7 component library — theming, styling, hooks, forms, notifications
+description: Mantine v7 组件库——主题、样式、hooks、表单与通知。 | Mantine v7 component library — theming, styling, hooks, forms, notifications
 ---
 
 # Mantine v7 Component Patterns

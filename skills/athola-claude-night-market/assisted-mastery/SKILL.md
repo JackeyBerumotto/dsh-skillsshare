@@ -1,6 +1,6 @@
 ---
 name: assisted-mastery
-description: Makes agent reasoning visible, surfaces tradeoffs, and fades help so humans build judgment. Use when reviewing or learning from agent-written code.
+description: 让代理的推理过程可见、呈现取舍，并逐步淡出帮助，让人类建立自己的判断力。在评审或学习代理编写的代码时使用。 | Makes agent reasoning visible, surfaces tradeoffs, and fades help so humans build judgment. Use when reviewing or learning from agent-written code.
 alwaysApply: false
 category: workflow-methodology
 tags:

@@ -1,6 +1,6 @@
 ---
 name: observe-trace
-description: Trace agent execution by collecting spans and building a trace tree for a task
+description: 通过收集 span 并为任务构建追踪树来追踪智能体的执行过程。 | Trace agent execution by collecting spans and building a trace tree for a task
 argument-hint: "<task-id>"
 allowed-tools: mcp__claude-flow__memory_search mcp__claude-flow__memory_list mcp__claude-flow__agentdb_semantic-route mcp__claude-flow__agentdb_context-synthesize mcp__claude-flow__agentdb_pattern-search Bash
 ---

@@ -1,6 +1,6 @@
 ---
 name: cognitive-pattern
-description: Define and manage cognitive patterns for agent reasoning and decision-making
+description: 定义并管理用于智能体推理与决策的认知模式 | Define and manage cognitive patterns for agent reasoning and decision-making
 argument-hint: "<pattern-name>"
 allowed-tools: mcp__claude-flow__daa_cognitive_pattern mcp__claude-flow__daa_workflow_create mcp__claude-flow__daa_workflow_execute mcp__claude-flow__daa_knowledge_share mcp__claude-flow__daa_learning_status Bash
 ---

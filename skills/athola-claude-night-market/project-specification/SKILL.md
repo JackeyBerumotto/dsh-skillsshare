@@ -1,6 +1,6 @@
 ---
 name: project-specification
-description: Transforms project briefs into testable specifications with user stories and acceptance criteria. Use after brainstorming, before planning.
+description: 将项目简报转化为带用户故事和验收标准的可测试规格。在头脑风暴之后、规划之前使用。 | Transforms project briefs into testable specifications with user stories and acceptance criteria. Use after brainstorming, before planning.
 alwaysApply: false
 # Custom metadata (not used by Claude for matching):
 model_preference: claude-sonnet-4-6

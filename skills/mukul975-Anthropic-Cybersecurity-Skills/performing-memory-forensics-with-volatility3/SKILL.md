@@ -1,7 +1,6 @@
 ---
 name: performing-memory-forensics-with-volatility3
-description: Analyze volatile memory dumps using Volatility 3 to extract running processes,
-  network connections, loaded modules, and evidence of malicious activity.
+description: "使用 Volatility 3 分析易失性内存转储，提取运行中的进程、网络连接、已加载模块以及恶意活动的证据。 | Analyze volatile memory dumps using Volatility 3 to extract running processes, network connections, loaded modules, and evidence of malicious activity."
 domain: cybersecurity
 subdomain: digital-forensics
 tags:

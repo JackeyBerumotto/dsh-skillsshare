@@ -1,6 +1,6 @@
 ---
 name: market-ingest
-description: Ingest and normalize market data into OHLCV vectors with HNSW indexing
+description: 摄取市场数据并归一化为带 HNSW 索引的 OHLCV 向量 | Ingest and normalize market data into OHLCV vectors with HNSW indexing
 argument-hint: "<symbol> [--source api]"
 allowed-tools: Bash mcp__claude-flow__memory_store mcp__claude-flow__memory_search mcp__claude-flow__ruvllm_hnsw_create mcp__claude-flow__ruvllm_hnsw_add mcp__claude-flow__embeddings_generate
 ---

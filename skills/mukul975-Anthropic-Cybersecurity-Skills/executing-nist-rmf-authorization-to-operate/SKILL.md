@@ -1,7 +1,7 @@
 ---
 name: executing-nist-rmf-authorization-to-operate
 description: >-
-  Drive a federal system through the NIST Risk Management Framework (SP 800-37 Rev 2)
+  按 NIST 风险管理框架（SP 800-37 Rev 2）推动联邦系统获得运营授权（ATO）：准备、定级（FIPS 199）、选择控制基线（FIPS 200 / SP 800-53 Rev 5）、实施、评估（SP 800-53A）、授权以及持续监控。当系统需要 ATO 或续期、在处理 FISMA/FedRAMP 授权包、在构建或评审 SSP、SAR 或 POA&M、在把系统定为低/中/高影响等级、在选择或裁剪控制基线，或在授权后建立持续监控（ConMon）时使用。涵盖 ATO、有条件 ATO（cATO）以及评估人员期望的工件。关键词：NIST RMF、800-37、ATO、authorization to operate、FISMA、FedRAMP、SSP、SAR、POA&M、FIPS 199、FIPS 200、800-53、800-53A、控制基线、安全定级、持续监控、授权官、系统边界、持续授权。 |
   to an Authorization to Operate (ATO): Prepare, Categorize (FIPS 199), Select a control
   baseline (FIPS 200 / SP 800-53 Rev 5), Implement, Assess (SP 800-53A), Authorize, and
   Monitor continuously. Use when a system needs an ATO or a renewal, when working a

@@ -1,6 +1,6 @@
 ---
 name: drizzle-migration-conflict
-description: "Diagnose, repair, and prevent Drizzle Kit migration conflicts involving generated SQL, snapshots, journals, merge queues, and team workflows."
+description: "诊断、修复并预防 Drizzle Kit 迁移冲突，涉及生成的 SQL、快照、journal、合并队列和团队协作流程。 | Diagnose, repair, and prevent Drizzle Kit migration conflicts involving generated SQL, snapshots, journals, merge queues, and team workflows."
 category: databases
 risk: critical
 source: community

@@ -1,6 +1,6 @@
 ---
 name: shellcheck-configuration
-description: "Master ShellCheck static analysis configuration and usage for shell script quality. Use when setting up linting infrastructure, fixing code issues, or ensuring script portability."
+description: "掌握 ShellCheck 静态分析的配置与使用，提升 shell 脚本质量。在搭建 lint 基础设施、修复代码问题或确保脚本可移植性时使用。 | Master ShellCheck static analysis configuration and usage for shell script quality. Use when setting up linting infrastructure, fixing code issues, or ensuring script portability."
 risk: unknown
 source: community
 date_added: "2026-02-27"

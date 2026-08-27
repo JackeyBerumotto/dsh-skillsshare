@@ -1,7 +1,6 @@
 ---
 name: testing-api-security-with-owasp-top-10
-description: Systematically assessing REST and GraphQL API endpoints against the OWASP
-  API Security Top 10 risks using automated and manual testing techniques.
+description: "基于 OWASP API Security Top 10 风险，使用自动化与手工测试技术对 REST 与 GraphQL API 端点进行系统性评估。 | Systematically assessing REST and GraphQL API endpoints against the OWASP API Security Top 10 risks using automated and manual testing techniques."
 domain: cybersecurity
 subdomain: web-application-security
 tags:

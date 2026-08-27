@@ -1,6 +1,6 @@
 ---
 name: incremental-implementation
-description: "Build in small, individually-verified increments that each leave the system working — instead of big-bang changes that fail mysteriously at the end. Use when implementing multi-part features, refactoring anything load-bearing, making large mechanical changes, or when past work produced huge diffs that were wrong somewhere unfindable. Produces the same end state as the big bang, reached through verified checkpoints you can stop at, ship from, or roll back to."
+description: "以小的、逐一验证的增量进行构建，且每个增量都让系统保持可用——而不是采用最后莫名其妙失败的大爆炸式变更。当实现多部分组成的功能、重构任何承重结构、进行大规模机械化变更，或过往工作产生了巨大 diff 且错误无从查找时使用。最终状态与大爆炸式变更相同，但通过经过验证的检查点到达，你可以随时停在某一步、从某一步发布或回滚到某一步。 | Build in small, individually-verified increments that each leave the system working — instead of big-bang changes that fail mysteriously at the end. Use when implementing multi-part features, refactoring anything load-bearing, making large mechanical changes, or when past work produced huge diffs that were wrong somewhere unfindable. Produces the same end state as the big bang, reached through verified checkpoints you can stop at, ship from, or roll back to."
 ---
 
 # Incremental Implementation Skill

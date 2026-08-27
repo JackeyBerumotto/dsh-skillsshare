@@ -1,6 +1,6 @@
 ---
 name: "rag-architect"
-description: "Use when the user asks to design a RAG pipeline, choose a chunking strategy or embedding model, pick a vector database, or evaluate retrieval quality (precision@k, recall@k, NDCG). Examples: 'design a RAG system for our docs', 'what chunk size should I use for this corpus', 'evaluate my retriever against ground truth'. NOT for general LLM cost tuning (use llm-cost-optimizer) or agent loops over retrieval (use agenthub)."
+description: "当用户要求设计 RAG 流水线、选择分块策略或嵌入模型、挑选向量数据库或评估检索质量（precision@k、recall@k、NDCG）时使用。示例：「design a RAG system for our docs」「what chunk size should I use for this corpus」「evaluate my retriever against ground truth」。不用于一般性 LLM 成本调优（那使用 llm-cost-optimizer）或基于检索的代理循环（那使用 agenthub）。 | Use when the user asks to design a RAG pipeline, choose a chunking strategy or embedding model, pick a vector database, or evaluate retrieval quality (precision@k, recall@k, NDCG). Examples: 'design a RAG system for our docs', 'what chunk size should I use for this corpus', 'evaluate my retriever against ground truth'. NOT for general LLM cost tuning (use llm-cost-optimizer) or agent loops over retrieval (use agenthub)."
 ---
 
 # RAG Architect

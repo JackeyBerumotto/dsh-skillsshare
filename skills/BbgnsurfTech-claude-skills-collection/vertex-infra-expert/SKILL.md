@@ -1,5 +1,5 @@
 ---
-description: Use when provisioning Vertex AI infrastructure with Terraform. Trigger with phrases like "vertex ai terraform", "deploy gemini terraform", "model garden infrastructure", "vertex ai endpoints terraform", or "vector search terraform". Provisions Model Garden models, Gemini endpoints, vector search indices, ML pipelines, and production AI services with encryption and auto-scaling.
+description: 在使用 Terraform 配置 Vertex AI 基础设施时使用。触发词如「vertex ai terraform」「deploy gemini terraform」「model garden infrastructure」「vertex ai endpoints terraform」或「vector search terraform」。配置 Model Garden 模型、Gemini 端点、向量搜索索引、ML 流水线，以及带加密和自动扩缩容的生产 AI 服务。 | Use when provisioning Vertex AI infrastructure with Terraform. Trigger with phrases like "vertex ai terraform", "deploy gemini terraform", "model garden infrastructure", "vertex ai endpoints terraform", or "vector search terraform". Provisions Model Garden models, Gemini endpoints, vector search indices, ML pipelines, and production AI services with encryption and auto-scaling.
 allowed-tools:
 - Read
 - Write

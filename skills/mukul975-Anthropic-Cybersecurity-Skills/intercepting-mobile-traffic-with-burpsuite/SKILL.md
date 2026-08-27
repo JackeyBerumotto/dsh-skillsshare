@@ -1,13 +1,6 @@
 ---
 name: intercepting-mobile-traffic-with-burpsuite
-description: 'Intercepts and analyzes HTTP/HTTPS traffic from mobile applications
-  using Burp Suite proxy to identify insecure API communications, authentication flaws,
-  data leakage, and server-side vulnerabilities. Use when performing mobile application
-  penetration testing, assessing API security, or evaluating client-server communication
-  patterns. Activates for requests involving mobile traffic interception, Burp Suite
-  mobile proxy, API security testing, or mobile HTTPS analysis.
-
-  '
+description: "使用 Burp Suite 代理拦截并分析移动应用的 HTTP/HTTPS 流量，识别不安全的 API 通信、认证缺陷、数据泄漏和服务器端漏洞。适用于开展移动应用渗透测试、评估 API 安全或评估客户端与服务器通信模式。当请求涉及移动流量拦截、Burp Suite 移动代理、API 安全测试或移动 HTTPS 分析时激活。 | Intercepts and analyzes HTTP/HTTPS traffic from mobile applications using Burp Suite proxy to identify insecure API communications, authentication flaws, data leakage, and server-side vulnerabilities. Use when performing mobile application penetration testing, assessing API security, or evaluating client-server communication patterns. Activates for requests involving mobile traffic interception, Burp Suite mobile proxy, API security testing, or mobile HTTPS analysis."
 domain: cybersecurity
 subdomain: mobile-security
 author: mahipal

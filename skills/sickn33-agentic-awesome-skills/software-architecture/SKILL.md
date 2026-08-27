@@ -1,6 +1,6 @@
 ---
 name: software-architecture
-description: "Guide for quality focused software architecture. This skill should be used when users want to write code, design architecture, analyze code, in any case that relates to software development."
+description: "聚焦质量的软件架构指南。当用户想编写代码、设计架构、分析代码，或进行任何与软件开发相关的工作时，都应使用此技能。 | Guide for quality focused software architecture. This skill should be used when users want to write code, design architecture, analyze code, in any case that relates to software development."
 risk: unknown
 source: community
 date_added: "2026-02-27"

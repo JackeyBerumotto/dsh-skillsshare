@@ -1,6 +1,6 @@
 ---
 name: debt-payoff-plan
-description: "Build a debt-payoff plan across multiple debts using the avalanche or snowball method. Use when asked to pay off debt, tackle credit cards/loans, or choose between avalanche and snowball. Produces an ordered payoff schedule, the total interest and time for each method, and a clear recommendation. Educational, not regulated financial advice."
+description: "使用雪崩法或滚雪球法构建多笔债务的偿还计划。当被要求还清债务、处理信用卡或贷款，或在雪崩法与滚雪球法之间做选择时使用。产出有序的偿还日程、每种方法的总利息与总耗时，以及明确的建议。仅供教育参考，不构成受监管的财务建议。 | Build a debt-payoff plan across multiple debts using the avalanche or snowball method. Use when asked to pay off debt, tackle credit cards/loans, or choose between avalanche and snowball. Produces an ordered payoff schedule, the total interest and time for each method, and a clear recommendation. Educational, not regulated financial advice."
 ---
 
 # Debt Payoff Plan Skill

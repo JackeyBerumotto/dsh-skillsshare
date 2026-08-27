@@ -1,6 +1,6 @@
 ---
 name: ai-provider-cohere-sdk
-description: Official Cohere TypeScript SDK patterns -- CohereClientV2, chat, embeddings, rerank, RAG with citations, tool use, streaming, and model selection
+description: Cohere 官方 TypeScript SDK 模式：CohereClientV2、聊天、嵌入、重排、带引用的 RAG、工具使用、流式传输和模型选择 | Official Cohere TypeScript SDK patterns -- CohereClientV2, chat, embeddings, rerank, RAG with citations, tool use, streaming, and model selection
 ---
 
 # Cohere SDK Patterns

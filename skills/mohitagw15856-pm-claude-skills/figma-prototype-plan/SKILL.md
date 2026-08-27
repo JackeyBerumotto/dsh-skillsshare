@@ -1,6 +1,6 @@
 ---
 name: figma-prototype-plan
-description: "Plan prototype interactions and flows for user testing in Figma. Use when asked to plan a Figma prototype, set up prototype interactions, define what to prototype for a user test, or prepare a Figma prototype for usability testing. Produces a prototype scope, interaction specification, test task scripts, and Figma setup guide."
+description: "在 Figma 中规划用于用户测试的原型交互与流程。当被要求规划 Figma 原型、设置原型交互、确定用户测试要原型的内容，或为可用性测试准备 Figma 原型时使用。产出原型范围、交互规格、测试任务脚本和 Figma 设置指南。 | Plan prototype interactions and flows for user testing in Figma. Use when asked to plan a Figma prototype, set up prototype interactions, define what to prototype for a user test, or prepare a Figma prototype for usability testing. Produces a prototype scope, interaction specification, test task scripts, and Figma setup guide."
 ---
 
 # Figma Prototype Plan Skill

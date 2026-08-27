@@ -1,6 +1,6 @@
 ---
 name: applicationinsights-web-ts
-description: Instrument browser/web apps with the Application Insights JavaScript SDK (@microsoft/applicationinsights-web). Use for Real User Monitoring (RUM) — page views, clicks, AJAX/fetch dependencies, exceptions, custom events, and browser-side GenAI agent traces correlated to backend...
+description: 使用 Application Insights JavaScript SDK（@microsoft/applicationinsights-web）为浏览器/Web 应用埋点。用于实用户监控（RUM）——页面视图、点击、AJAX/fetch 依赖、异常、自定义事件，以及与后端关联的浏览器端 GenAI 智能体追踪…… | Instrument browser/web apps with the Application Insights JavaScript SDK (@microsoft/applicationinsights-web). Use for Real User Monitoring (RUM) — page views, clicks, AJAX/fetch dependencies, exceptions, custom events, and browser-side GenAI agent traces correlated to backend...
 risk: unknown
 source: https://github.com/microsoft/skills/tree/main/.github/plugins/azure-sdk-typescript/skills/applicationinsights-web-ts
 source_repo: microsoft/skills

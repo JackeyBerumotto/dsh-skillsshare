@@ -1,6 +1,6 @@
 ---
 name: monetization
-description: "Estrategia e implementacao de monetizacao para produtos digitais - Stripe, subscriptions, pricing experiments, freemium, upgrade flows, churn prevention, revenue optimization e modelos de negocio SaaS."
+description: "数字产品变现策略与实施——Stripe、订阅、定价实验、免费增值、升级流程、流失预防、收入优化以及 SaaS 商业模式。 | Estrategia e implementacao de monetizacao para produtos digitais - Stripe, subscriptions, pricing experiments, freemium, upgrade flows, churn prevention, revenue optimization e modelos de negocio SaaS."
 risk: none
 source: community
 date_added: '2026-03-06'

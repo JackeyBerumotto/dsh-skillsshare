@@ -1,6 +1,6 @@
 ---
 name: executing-plans
-description: "Use when you have a written implementation plan to execute in a separate session with review checkpoints"
+description: "当你有一份书面实现计划需要在单独会话中执行并带评审检查点时使用。 | Use when you have a written implementation plan to execute in a separate session with review checkpoints"
 risk: unknown
 source: community
 date_added: "2026-02-27"

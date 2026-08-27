@@ -1,6 +1,6 @@
 ---
 name: puzzle-activity-planner
-description: "Plan puzzle-based activities for classrooms, parties, and events with pre-configured generator links"
+description: "为课堂、派对和活动规划基于解谜的活动，并提供预配置的生成器链接 | Plan puzzle-based activities for classrooms, parties, and events with pre-configured generator links"
 category: education
 risk: safe
 source: community

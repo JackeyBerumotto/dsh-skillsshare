@@ -1,6 +1,6 @@
 ---
 name: detecting-secure-boot-bypass
-description: Detect bootkits such as BlackLotus and Bootkitty and Secure Boot bypass via DBX and binary checks.
+description: 通过 DBX 和二进制检查检测 BlackLotus、Bootkitty 等引导套件以及 Secure Boot 绕过。 | Detect bootkits such as BlackLotus and Bootkitty and Secure Boot bypass via DBX and binary checks.
 domain: cybersecurity
 subdomain: hardware-firmware-security
 tags:

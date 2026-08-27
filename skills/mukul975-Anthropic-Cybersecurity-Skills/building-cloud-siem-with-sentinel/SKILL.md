@@ -1,12 +1,6 @@
 ---
 name: building-cloud-siem-with-sentinel
-description: 'This skill covers deploying Microsoft Sentinel as a cloud-native SIEM
-  and SOAR platform for centralized security operations. It details configuring data
-  connectors for multi-cloud log ingestion, writing KQL detection queries, building
-  automated response playbooks with Logic Apps, and leveraging the Sentinel data lake
-  for petabyte-scale threat hunting across AWS, Azure, and GCP security telemetry.
-
-  '
+description: "本技能涵盖部署 Microsoft Sentinel 作为云原生 SIEM 与 SOAR 平台以支撑集中化安全运营。详述配置数据连接器以摄取多云日志、编写 KQL 检测查询、使用 Logic Apps 构建自动响应剧本，以及利用 Sentinel 数据湖对 AWS、Azure 与 GCP 安全遥测进行 PB 级威胁狩猎。 | This skill covers deploying Microsoft Sentinel as a cloud-native SIEM and SOAR platform for centralized security operations. It details configuring data connectors for multi-cloud log ingestion, writing KQL detection queries, building automated response playbooks with Logic Apps, and leveraging the Sentinel data lake for petabyte-scale threat hunting across AWS, Azure, and GCP security telemetry."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

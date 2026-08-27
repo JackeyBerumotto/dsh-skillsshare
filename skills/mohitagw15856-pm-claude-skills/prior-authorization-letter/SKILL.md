@@ -1,6 +1,6 @@
 ---
 name: prior-authorization-letter
-description: "Write a persuasive prior-authorization / medical-necessity letter to an insurer. Use when asked to write a prior authorization letter, a letter of medical necessity, or to appeal a denied treatment/medication/procedure. Produces a structured letter — patient and request, clinical justification tied to guidelines, treatments tried, and the specific approval asked for — ready for clinician review and signature."
+description: "撰写给保险公司的有说服力的预授权/医疗必要性信函。在被要求编写预授权信、医疗必要性信，或对被拒的治疗/药物/操作提出申诉时使用。产出结构化信函——患者与请求、关联指南的临床依据、已尝试的治疗，以及所申请的具体批准——可供临床医生审阅并签署。 | Write a persuasive prior-authorization / medical-necessity letter to an insurer. Use when asked to write a prior authorization letter, a letter of medical necessity, or to appeal a denied treatment/medication/procedure. Produces a structured letter — patient and request, clinical justification tied to guidelines, treatments tried, and the specific approval asked for — ready for clinician review and signature."
 ---
 
 # Prior Authorization Letter Skill

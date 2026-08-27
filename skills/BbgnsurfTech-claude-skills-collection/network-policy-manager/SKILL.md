@@ -1,5 +1,5 @@
 ---
-description: Use when managing Kubernetes network policies and firewall rules. Trigger with phrases like "create network policy", "configure firewall rules", "restrict pod communication", or "setup ingress/egress rules". Generates Kubernetes NetworkPolicy manifests following least privilege and zero-trust principles.
+description: 在管理 Kubernetes 网络策略和防火墙规则时使用。触发词如「create network policy」「configure firewall rules」「restrict pod communication」或「setup ingress/egress rules」。遵循最小权限和零信任原则生成 Kubernetes NetworkPolicy 清单。 | Use when managing Kubernetes network policies and firewall rules. Trigger with phrases like "create network policy", "configure firewall rules", "restrict pod communication", or "setup ingress/egress rules". Generates Kubernetes NetworkPolicy manifests following least privilege and zero-trust principles.
 allowed-tools:
 - Read
 - Write

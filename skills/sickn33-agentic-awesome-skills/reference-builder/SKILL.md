@@ -1,6 +1,6 @@
 ---
 name: reference-builder
-description: Creates exhaustive technical references and API documentation. Generates comprehensive parameter listings, configuration guides, and searchable reference materials.
+description: 创建详尽的技术参考和 API 文档。生成全面的参数列表、配置指南以及可检索的参考资料。 | Creates exhaustive technical references and API documentation. Generates comprehensive parameter listings, configuration guides, and searchable reference materials.
 risk: unknown
 source: community
 date_added: '2026-02-27'

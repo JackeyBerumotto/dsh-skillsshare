@@ -1,6 +1,6 @@
 ---
 name: api-baas-planetscale
-description: Serverless MySQL platform with branching, deploy requests, and edge-compatible driver
+description: 无服务器 MySQL 平台，支持分支、部署请求和边缘兼容驱动。 | Serverless MySQL platform with branching, deploy requests, and edge-compatible driver
 ---
 
 # PlanetScale Serverless MySQL Patterns

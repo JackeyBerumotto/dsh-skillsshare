@@ -1,6 +1,6 @@
 ---
 name: outcome-roadmap
-description: "Transform an output-focused roadmap into an outcome-focused one that communicates strategic intent. Rewrites initiatives as outcome statements reflecting user and business impacts. Use when shifting to outcome roadmaps, making a roadmap more strategic, or rewriting feature lists as outcomes."
+description: "将以产出为重点的路线图转变为传达战略意图的、以成果为重点的路线图。把各项举措改写为反映用户与业务影响的成果陈述。用于转向成果路线图、让路线图更具战略性，或将功能列表改写为成果时。 | Transform an output-focused roadmap into an outcome-focused one that communicates strategic intent. Rewrites initiatives as outcome statements reflecting user and business impacts. Use when shifting to outcome roadmaps, making a roadmap more strategic, or rewriting feature lists as outcomes."
 ---
 
 # Transform Roadmap to Outcome-Focused Format

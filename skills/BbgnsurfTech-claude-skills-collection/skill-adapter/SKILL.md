@@ -1,7 +1,7 @@
 ---
 name: Analyzing Text Sentiment
 description: |
-  This skill enables Claude to analyze the sentiment of text data. It identifies the emotional tone expressed in text, classifying it as positive, negative, or neutral. Use this skill when a user requests sentiment analysis, opinion mining, or emotion detection on any text, such as customer reviews, social media posts, or survey responses. Trigger words include "sentiment analysis", "analyze sentiment", "opinion mining", "emotion detection", and "polarity".
+  此技能让 Claude 能够分析文本数据的情感。它识别文本中表达的情绪基调，将其分类为正面、负面或中性。当用户请求对任何文本（如客户评论、社交媒体帖子或问卷回答）进行情感分析、观点挖掘或情绪检测时使用本技能。触发词包括「sentiment analysis」「analyze sentiment」「opinion mining」「emotion detection」和「polarity」。 |
 ---
 
 ## Overview

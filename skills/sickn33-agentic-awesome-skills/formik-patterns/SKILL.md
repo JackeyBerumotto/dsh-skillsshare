@@ -1,6 +1,6 @@
 ---
 name: formik-patterns
-description: Formik form handling with validation patterns. Use when building forms, implementing validation, or handling form submission.
+description: Formik 表单处理与校验模式。在构建表单、实现校验或处理表单提交时使用。 | Formik form handling with validation patterns. Use when building forms, implementing validation, or handling form submission.
 risk: unknown
 source: https://github.com/ChrisWiles/claude-code-showcase/tree/main/.claude/skills/formik-patterns
 source_repo: ChrisWiles/claude-code-showcase

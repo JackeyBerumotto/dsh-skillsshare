@@ -1,6 +1,6 @@
 ---
 name: "database-schema-designer"
-description: "Use when the user asks to create ERD diagrams, normalize database schemas, design table relationships, or plan schema migrations."
+description: "当用户要求创建 ERD 图、规范化数据库模式、设计表关系或规划模式迁移时使用。 | Use when the user asks to create ERD diagrams, normalize database schemas, design table relationships, or plan schema migrations."
 ---
 
 # Database Schema Designer

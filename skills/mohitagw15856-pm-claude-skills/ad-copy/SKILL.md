@@ -1,6 +1,6 @@
 ---
 name: ad-copy
-description: "Write platform-native paid ad copy with multiple angles to test. Use when asked to write ad copy, Google/Facebook/LinkedIn/Instagram ads, PPC headlines, or paid social creative copy. Produces ready-to-ship variants per platform (headlines, primary text, descriptions, CTAs) across distinct angles, sized to each platform's limits, with a note on what each variant tests."
+description: "撰写平台原生的付费广告文案，提供多个可测试角度。在被要求编写广告文案、Google/Facebook/LinkedIn/Instagram 广告、PPC 标题或付费社交创意文案时使用。按平台产出可直接上线的变体（标题、主文案、描述、CTA），覆盖不同角度、符合各平台字数限制，并注明每个变体测试什么。 | Write platform-native paid ad copy with multiple angles to test. Use when asked to write ad copy, Google/Facebook/LinkedIn/Instagram ads, PPC headlines, or paid social creative copy. Produces ready-to-ship variants per platform (headlines, primary text, descriptions, CTAs) across distinct angles, sized to each platform's limits, with a note on what each variant tests."
 ---
 
 # Ad Copy Skill

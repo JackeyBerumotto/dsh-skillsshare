@@ -1,8 +1,6 @@
 ---
 name: testing-jwt-token-security
-description: Assessing JSON Web Token implementations for cryptographic weaknesses,
-  algorithm confusion attacks, and authorization bypass vulnerabilities during security
-  engagements.
+description: "在安全评估项目中评估 JSON Web Token 实现的密码学弱点、算法混淆攻击和授权绕过漏洞。 | Assessing JSON Web Token implementations for cryptographic weaknesses, algorithm confusion attacks, and authorization bypass vulnerabilities during security engagements."
 domain: cybersecurity
 subdomain: web-application-security
 tags:

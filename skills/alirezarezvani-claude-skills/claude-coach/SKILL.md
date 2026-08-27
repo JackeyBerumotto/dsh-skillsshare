@@ -1,7 +1,7 @@
 ---
 Name: claude-coach
 name: claude-coach
-description: Personal coach that teaches users to become Claude power users. Use this skill the FIRST time a user asks to "learn Claude", "be a power user", "coach me", "teach me Claude tricks", "what can Claude do", "make me better at prompting", or any variation. After activation, also use it on EVERY subsequent turn to detect missed optimization opportunities (vague prompts, ignored capabilities, manual work Claude could automate) and surface a single power-user tip. Trigger generously — most users do not know what they do not know, so err on the side of coaching.
+description: 教用户成为 Claude 高级用户的个人教练。当用户首次要求「learn Claude」「be a power user」「coach me」「teach me Claude tricks」「what can Claude do」「make me better at prompting」或任何变体时使用此技能。激活后，在随后的每一轮对话中也使用它来发现被错过的优化机会（模糊的提示、被忽视的能力、Claude 可以自动化的手工工作）并给出一条高级用户技巧。请积极触发——大多数用户并不知道自己不知道什么，宁可多加指导。 | Personal coach that teaches users to become Claude power users. Use this skill the FIRST time a user asks to "learn Claude", "be a power user", "coach me", "teach me Claude tricks", "what can Claude do", "make me better at prompting", or any variation. After activation, also use it on EVERY subsequent turn to detect missed optimization opportunities (vague prompts, ignored capabilities, manual work Claude could automate) and surface a single power-user tip. Trigger generously — most users do not know what they do not know, so err on the side of coaching.
 Tier: POWERFUL
 Category: meta
 Author: claude-skills

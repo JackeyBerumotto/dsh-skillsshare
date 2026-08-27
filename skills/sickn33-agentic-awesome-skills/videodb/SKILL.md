@@ -1,6 +1,6 @@
 ---
 name: videodb
-description: Video and audio perception, indexing, and editing. Ingest files/URLs/live streams, build visual/spoken indexes, search with timestamps, edit timelines, add overlays/subtitles, generate media, and create real-time alerts.
+description: 视频与音频的感知、索引和编辑。可导入文件/URL/直播流，构建视觉与语音索引，按时间戳搜索，编辑时间线，添加叠加层/字幕，生成媒体内容，并创建实时告警。 | Video and audio perception, indexing, and editing. Ingest files/URLs/live streams, build visual/spoken indexes, search with timestamps, edit timelines, add overlays/subtitles, generate media, and create real-time alerts.
 category: media
 risk: safe
 source: community

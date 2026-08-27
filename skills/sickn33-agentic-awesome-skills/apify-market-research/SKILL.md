@@ -1,6 +1,6 @@
 ---
 name: apify-market-research
-description: Analyze market conditions, geographic opportunities, pricing, consumer behavior, and product validation across Google Maps, Facebook, Instagram, Booking.com, and TripAdvisor.
+description: 分析市场状况、地理机会、定价、消费者行为与产品验证，覆盖 Google Maps、Facebook、Instagram、Booking.com 和 TripAdvisor。 | Analyze market conditions, geographic opportunities, pricing, consumer behavior, and product validation across Google Maps, Facebook, Instagram, Booking.com, and TripAdvisor.
 risk: unknown
 source: community
 ---

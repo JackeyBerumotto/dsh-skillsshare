@@ -1,6 +1,6 @@
 ---
 name: impact-report
-description: "Write a compelling nonprofit impact or annual report that shows donors what their money achieved. Use when asked to write an impact report, an annual report, a grant outcomes report, or to report results to funders/donors. Produces a structured report — mission and year in brief, outcomes with real numbers and a beneficiary story, financials at a glance, and a forward ask — that builds trust and renews giving."
+description: "撰写有说服力的非营利组织影响力报告或年度报告，向捐赠者展示他们的捐款实现了什么。在被要求编写影响力报告、年度报告、资助成果报告，或向资助方/捐赠者汇报结果时使用。产出结构化报告——简要的使命与年度回顾、带真实数字和受益人故事的项目成果、一目了然的财务数据，以及面向未来的募捐请求——建立信任并延续捐赠。 | Write a compelling nonprofit impact or annual report that shows donors what their money achieved. Use when asked to write an impact report, an annual report, a grant outcomes report, or to report results to funders/donors. Produces a structured report — mission and year in brief, outcomes with real numbers and a beneficiary story, financials at a glance, and a forward ask — that builds trust and renews giving."
 ---
 
 # Impact Report Skill

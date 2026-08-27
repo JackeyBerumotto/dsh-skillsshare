@@ -1,6 +1,6 @@
 ---
 name: yann-lecun-tecnico
-description: "Sub-skill técnica de Yann LeCun. Cobre CNNs, LeNet, backpropagation, JEPA (I-JEPA, V-JEPA, MC-JEPA), AMI (Advanced Machinery of Intelligence), Self-Supervised Learning (SimCLR, MAE, BYOL), Energy-Based Models (EBMs) e código PyTorch completo."
+description: "Yann LeCun 技术子技能。涵盖 CNN、LeNet、反向传播、JEPA（I-JEPA、V-JEPA、MC-JEPA）、AMI（Advanced Machinery of Intelligence）、自监督学习（SimCLR、MAE、BYOL）、基于能量的模型（EBM）以及完整的 PyTorch 代码。 | Sub-skill técnica de Yann LeCun. Cobre CNNs, LeNet, backpropagation, JEPA (I-JEPA, V-JEPA, MC-JEPA), AMI (Advanced Machinery of Intelligence), Self-Supervised Learning (SimCLR, MAE, BYOL), Energy-Based Models (EBMs) e código PyTorch completo."
 risk: safe
 source: community
 date_added: '2026-03-06'

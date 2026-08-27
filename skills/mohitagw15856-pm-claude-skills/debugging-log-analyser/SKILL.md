@@ -1,6 +1,6 @@
 ---
 name: debugging-log-analyser
-description: "Parse error logs, stack traces, and crash reports into a structured root cause diagnosis. Use when an application is throwing exceptions, crashing, or producing unexpected errors and you need to understand why and what to fix. Produces a structured diagnosis with error classification, stack trace walkthrough, probable root cause with confidence level, affected code path, a concrete code-level fix suggestion, and ordered next debugging steps."
+description: "将错误日志、堆栈跟踪和崩溃报告解析为结构化的根因诊断。当应用抛出异常、崩溃或产生意外错误而需要理解原因和修复方案时使用。产出结构化诊断，包含错误分类、堆栈跟踪走读、带置信度的可能根因、受影响的代码路径、具体的代码级修复建议，以及按顺序排列的后续调试步骤。 | Parse error logs, stack traces, and crash reports into a structured root cause diagnosis. Use when an application is throwing exceptions, crashing, or producing unexpected errors and you need to understand why and what to fix. Produces a structured diagnosis with error classification, stack trace walkthrough, probable root cause with confidence level, affected code path, a concrete code-level fix suggestion, and ordered next debugging steps."
 ---
 
 # Debugging Log Analyser Skill

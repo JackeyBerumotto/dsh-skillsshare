@@ -1,6 +1,6 @@
 ---
 name: desktop-plugins-tauri
-description: Tauri 2.x official plugin ecosystem, plugin APIs, permissions, and custom plugin development
+description: Tauri 2.x 官方插件生态、插件 API、权限以及自定义插件开发 | Tauri 2.x official plugin ecosystem, plugin APIs, permissions, and custom plugin development
 ---
 
 # Tauri 2.x Plugin Ecosystem

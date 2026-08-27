@@ -1,6 +1,6 @@
 ---
 name: layered-design
-description: Web and App implementation guide for Layered Design. Trigger when user wants multiple depth levels, floating panels, and overlapping content.
+description: Layered Design（分层设计）的 Web 与 App 实现指南。当用户需要多重景深层次、悬浮面板和相互重叠的内容时触发。 | Web and App implementation guide for Layered Design. Trigger when user wants multiple depth levels, floating panels, and overlapping content.
 date_added: "2026-06-17"
 risk: safe
 source: self

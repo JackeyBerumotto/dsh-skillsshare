@@ -1,6 +1,6 @@
 ---
 name: agent-sort
-description: Build an evidence-backed ECC install plan for a specific repo by sorting skills, commands, rules, hooks, and extras into DAILY vs LIBRARY buckets using parallel repo-aware review passes. Use when ECC should be trimmed to what a project actually needs instead of loading the full bundle.
+description: 通过并行的、感知仓库的审查轮次，把技能、命令、规则、钩子和附加内容分拣进 DAILY 与 LIBRARY 两个桶，为特定仓库构建有据可依的 ECC 安装计划。当 ECC 应被裁剪到项目实际所需而不是加载完整捆绑包时使用。 | Build an evidence-backed ECC install plan for a specific repo by sorting skills, commands, rules, hooks, and extras into DAILY vs LIBRARY buckets using parallel repo-aware review passes. Use when ECC should be trimmed to what a project actually needs instead of loading the full bundle.
 metadata:
   origin: ECC
 ---

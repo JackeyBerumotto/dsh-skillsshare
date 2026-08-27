@@ -1,6 +1,6 @@
 ---
 name: data-engineering
-description: Data engineering patterns for ETL pipelines, data warehousing, Apache Spark, and data quality validation
+description: 数据工程模式，涵盖 ETL 管道、数据仓库、Apache Spark 和数据质量校验 | Data engineering patterns for ETL pipelines, data warehousing, Apache Spark, and data quality validation
 ---
 
 # Data Engineering

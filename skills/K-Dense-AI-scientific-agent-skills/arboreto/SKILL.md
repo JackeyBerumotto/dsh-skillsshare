@@ -1,6 +1,6 @@
 ---
 name: arboreto
-description: Infer gene regulatory networks (GRNs) from gene expression data using scalable algorithms (GRNBoost2, GENIE3). Use when analyzing transcriptomics data (bulk RNA-seq, single-cell RNA-seq) to identify transcription factor-target gene relationships and regulatory interactions. Supports distributed computation for large-scale datasets.
+description: 使用可扩展算法（GRNBoost2、GENIE3）从基因表达数据推断基因调控网络（GRN）。在分析转录组数据（bulk RNA-seq、单细胞 RNA-seq）以识别转录因子与靶基因关系及调控相互作用时使用。支持大规模数据集的分布式计算。 | Infer gene regulatory networks (GRNs) from gene expression data using scalable algorithms (GRNBoost2, GENIE3). Use when analyzing transcriptomics data (bulk RNA-seq, single-cell RNA-seq) to identify transcription factor-target gene relationships and regulatory interactions. Supports distributed computation for large-scale datasets.
 license: BSD-3-Clause license
 metadata: {"version": "1.0", "skill-author": "K-Dense Inc."}
 ---

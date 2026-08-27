@@ -2,7 +2,7 @@
 name: running-chaos-tests
 version: 1.0.0
 description: |
-  Execute chaos engineering experiments to test system resilience.
+  执行混沌工程实验以测试系统韧性。在进行专项测试时使用。触发短语包括「run chaos tests」「test resilience」或「inject failures」。 |
   Use when performing specialized testing.
   Trigger with phrases like "run chaos tests", "test resilience", or "inject failures".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(test:chaos-*)

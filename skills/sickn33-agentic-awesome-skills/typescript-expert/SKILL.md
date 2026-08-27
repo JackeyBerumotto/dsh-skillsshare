@@ -1,6 +1,6 @@
 ---
 name: typescript-expert
-description: TypeScript and JavaScript expert with deep knowledge of type-level programming, performance optimization, monorepo management, migration strategies, and modern tooling.
+description: TypeScript 与 JavaScript 专家，深入掌握类型级编程、性能优化、monorepo 管理、迁移策略和现代工具链。 | TypeScript and JavaScript expert with deep knowledge of type-level programming, performance optimization, monorepo management, migration strategies, and modern tooling.
 category: framework
 risk: critical
 source: community

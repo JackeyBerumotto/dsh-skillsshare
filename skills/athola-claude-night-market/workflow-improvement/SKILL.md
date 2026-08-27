@@ -1,6 +1,6 @@
 ---
 name: workflow-improvement
-description: Evaluates and improves skills, agents, commands, and hooks after a workflow slice. Use when execution felt slow, confusing, repetitive, or fragile.
+description: 在一个工作流切片之后评估并改进技能、agent、命令和 hook。当执行过程显得缓慢、混乱、重复或脆弱时使用。 | Evaluates and improves skills, agents, commands, and hooks after a workflow slice. Use when execution felt slow, confusing, repetitive, or fragile.
 alwaysApply: false
 category: workflow-ops
 tags:

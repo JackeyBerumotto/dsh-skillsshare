@@ -1,7 +1,5 @@
 ---
-description: This skill automates the adaptation of pre-trained machine learning models
-  using transfer learning techniques. it is triggered when the user requests assistance
-  with fine-tuning a model, adapting a pre-trained model to a new dataset, or performing...
+description: "本技能使用迁移学习技术自动化预训练机器学习模型的适配。当用户请求协助微调模型、将预训练模型适配到新数据集或执行相关操作时触发。 | This skill automates the adaptation of pre-trained machine learning models using transfer learning techniques. it is triggered when the user requests assistance with fine-tuning a model, adapting a pre-trained model to a new dataset, or performing..."
 allowed-tools:
 - Read
 - Write

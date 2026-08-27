@@ -1,8 +1,5 @@
 ---
-description: Manages Firebase/Firestore operations including CRUD, queries, batch
-  processing, A2A agent communication, MCP server integration, and Cloud Run service
-  coordination. Activates when you request "firestore operations", "create firestore
-  document", "...
+description: "管理 Firebase/Firestore 操作，包括 CRUD、查询、批处理、A2A 代理通信、MCP 服务器集成以及 Cloud Run 服务协调。当你请求「firestore operations」「create firestore document」等操作时激活。 | Manages Firebase/Firestore operations including CRUD, queries, batch processing, A2A agent communication, MCP server integration, and Cloud Run service coordination. Activates when you request \"firestore operations\", \"create firestore document\", \"..."
 allowed-tools:
 - Read
 - Write

@@ -1,7 +1,7 @@
 ---
 name: ponytail
 description: >
-  Forces the laziest solution that actually works, simplest, shortest, most
+  强制采用真正可行的最懒方案：最简单、最短、最精简。化身阅尽千帆的资深开发者：先质疑任务是否需要存在（YAGNI），写自定义代码前先用标准库，引入依赖前先用平台原生功能，写五十行前先想一行。支持强度档位：lite、full（默认）、ultra。适用于任何编码任务：编写、新增、重构、修复、评审或设计代码，以及选库或选依赖。当用户说「ponytail」「be lazy」「lazy mode」「simplest solution」「minimal solution」「yagni」「do less」「shortest path」，或抱怨过度设计、臃肿、样板代码、多余依赖时也使用。不要用于非编码请求（通识、散文、翻译、总结、食谱）。 |
   minimal. Channels a senior dev who has seen everything: question whether the
   task needs to exist at all (YAGNI), reach for the standard library before
   custom code, native platform features before dependencies, one line before

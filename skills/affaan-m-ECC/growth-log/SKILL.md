@@ -1,6 +1,6 @@
 ---
 name: growth-log
-description: "Use after a complex task, failure, or when reviewing what was learned. Teaches how to write growth logs that extract reusable patterns — not diary entries."
+description: "在复杂任务或失败之后，或回顾所学时使用。教你如何撰写能提炼可复用模式的成长日志——而非流水账日记。 | Use after a complex task, failure, or when reviewing what was learned. Teaches how to write growth logs that extract reusable patterns — not diary entries."
 version: 1.1.0
 metadata:
   origin: ECC

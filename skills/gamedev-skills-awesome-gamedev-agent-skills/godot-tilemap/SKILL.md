@@ -1,7 +1,7 @@
 ---
 name: godot-tilemap
 description: >
-  Build and edit tile-based 2D levels in Godot 4.3+ with TileMapLayer and TileSet:
+  在 Godot 4.3+ 中使用 TileMapLayer 和 TileSet 构建并编辑基于瓦片的 2D 关卡：绘制图层、为瓦片设置碰撞、导航和自定义数据、用地形集实现自动瓦片，以及从代码读写单元格（set_cell、get_cell_tile_data、local_to_map）。当处理 TileMapLayer 节点、.tres TileSet、自动瓦片，或将已弃用的 TileMap 节点迁移到 TileMapLayer 时使用。 |
   paint layers, set up collision/navigation/custom-data on tiles, autotile with
   terrain sets, and read/write cells from code (set_cell, get_cell_tile_data,
   local_to_map). Use when working with TileMapLayer nodes, .tres TileSets, autotiling,

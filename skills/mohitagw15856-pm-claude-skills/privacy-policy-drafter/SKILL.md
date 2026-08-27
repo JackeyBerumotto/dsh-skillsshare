@@ -1,6 +1,6 @@
 ---
 name: privacy-policy-drafter
-description: "Draft a clear, plain-language privacy policy tailored to what a product actually collects and does with data. Use when asked to write a privacy policy, draft a data-protection notice, or create a GDPR/CCPA-aware privacy statement. Produces a structured policy covering data collected, purposes, legal bases, sharing, retention, user rights, and contact — written to be readable, not boilerplate. Not legal advice; have counsel review before publishing."
+description: "起草一份清晰、平实的隐私政策，切合产品实际收集的数据及其用途。当被要求撰写隐私政策、起草数据保护通知或创建符合 GDPR/CCPA 的隐私声明时使用。产出结构化的政策，涵盖收集的数据、目的、法律依据、共享、留存、用户权利和联系方式——力求可读而非套话模板。不构成法律建议；发布前请交由法律顾问审核。 | Draft a clear, plain-language privacy policy tailored to what a product actually collects and does with data. Use when asked to write a privacy policy, draft a data-protection notice, or create a GDPR/CCPA-aware privacy statement. Produces a structured policy covering data collected, purposes, legal bases, sharing, retention, user rights, and contact — written to be readable, not boilerplate. Not legal advice; have counsel review before publishing."
 ---
 
 # Privacy Policy Drafter Skill

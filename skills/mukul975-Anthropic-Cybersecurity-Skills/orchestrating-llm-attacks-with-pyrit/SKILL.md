@@ -1,6 +1,6 @@
 ---
 name: orchestrating-llm-attacks-with-pyrit
-description: Build multi-turn, Crescendo, and Tree-of-Attacks-with-Pruning (TAP) automated attack chains against conversational LLM agents using Microsoft PyRIT, with adversarial chat and scorer feedback loops.
+description: 使用 Microsoft PyRIT 构建针对对话式 LLM 智能体的多轮、Crescendo 和剪枝攻击树（TAP）自动化攻击链，配合对抗性聊天与评分器反馈循环。 | Build multi-turn, Crescendo, and Tree-of-Attacks-with-Pruning (TAP) automated attack chains against conversational LLM agents using Microsoft PyRIT, with adversarial chat and scorer feedback loops.
 domain: cybersecurity
 subdomain: ai-security
 tags:

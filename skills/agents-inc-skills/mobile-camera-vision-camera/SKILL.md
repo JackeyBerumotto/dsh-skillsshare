@@ -1,6 +1,6 @@
 ---
 name: mobile-camera-vision-camera
-description: VisionCamera v4+ - photo/video capture, QR/barcode scanning, real-time frame processors, zoom/focus/exposure, HDR, location metadata, format selection
+description: VisionCamera v4 及以上——拍照/录像、二维码/条形码扫描、实时帧处理器、变焦/对焦/曝光、HDR、位置元数据和格式选择。 | VisionCamera v4+ - photo/video capture, QR/barcode scanning, real-time frame processors, zoom/focus/exposure, HDR, location metadata, format selection
 ---
 
 # VisionCamera Patterns

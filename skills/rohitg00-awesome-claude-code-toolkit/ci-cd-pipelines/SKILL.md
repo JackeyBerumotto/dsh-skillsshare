@@ -1,6 +1,6 @@
 ---
 name: ci-cd-pipelines
-description: CI/CD pipeline patterns for GitHub Actions, GitLab CI, testing strategies, and deployment automation
+description: 面向 GitHub Actions 与 GitLab CI 的 CI/CD 流水线模式，以及测试策略和部署自动化 | CI/CD pipeline patterns for GitHub Actions, GitLab CI, testing strategies, and deployment automation
 ---
 
 # CI/CD Pipelines

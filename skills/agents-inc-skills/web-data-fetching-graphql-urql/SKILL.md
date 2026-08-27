@@ -1,6 +1,6 @@
 ---
 name: web-data-fetching-graphql-urql
-description: URQL GraphQL client patterns - useQuery, useMutation, exchange architecture, caching strategies, subscriptions
+description: URQL GraphQL 客户端模式——useQuery、useMutation、exchange 架构、缓存策略、订阅。 | URQL GraphQL client patterns - useQuery, useMutation, exchange architecture, caching strategies, subscriptions
 ---
 
 # URQL GraphQL Client Patterns

@@ -1,6 +1,6 @@
 ---
 name: faf-go
-description: Guided interview to Gold Code (100% AI-Readiness). Use when helping users improve their .faf file through questions. Leverages Claude Code's AskUserQuestion for seamless integration. Just type /faf-go and answer questions till done.
+description: 通往 Gold Code（100% AI 就绪）的引导式访谈。在通过提问帮助用户改进其 .faf 文件时使用。利用 Claude Code 的 AskUserQuestion 实现无缝集成。只需输入 /faf-go 并回答问题直至完成。 | Guided interview to Gold Code (100% AI-Readiness). Use when helping users improve their .faf file through questions. Leverages Claude Code's AskUserQuestion for seamless integration. Just type /faf-go and answer questions till done.
 risk: unknown
 source: https://github.com/Wolfe-Jam/faf-skills/tree/main/skills/faf-go
 source_repo: Wolfe-Jam/faf-skills

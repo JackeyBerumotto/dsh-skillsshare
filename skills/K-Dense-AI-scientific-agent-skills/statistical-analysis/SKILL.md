@@ -1,6 +1,6 @@
 ---
 name: statistical-analysis
-description: Guided statistical analysis for research data - test selection, assumption checking, effect sizes, power analysis, Bayesian alternatives, and APA-formatted reporting. Use whenever a user wants to compare groups, test a hypothesis, analyze experimental or survey data, check statistical assumptions, compute required sample sizes, or write up results - even if they never name a specific test. Covers t-tests, ANOVA, chi-square, correlation, regression, non-parametric and Bayesian methods. For low-level model APIs, see the statsmodels and pymc skills.
+description: 面向研究数据的引导式统计分析——检验选择、假设检查、效应量、功效分析、贝叶斯替代方案和 APA 格式报告。当用户想比较组别、检验假设、分析实验或调查数据、检查统计假设、计算所需样本量或撰写结果时使用——即使他们从未提到具体检验名称。涵盖 t 检验、ANOVA、卡方、相关、回归、非参数和贝叶斯方法。底层模型 API 请参见 statsmodels 和 pymc 技能。 | Guided statistical analysis for research data - test selection, assumption checking, effect sizes, power analysis, Bayesian alternatives, and APA-formatted reporting. Use whenever a user wants to compare groups, test a hypothesis, analyze experimental or survey data, check statistical assumptions, compute required sample sizes, or write up results - even if they never name a specific test. Covers t-tests, ANOVA, chi-square, correlation, regression, non-parametric and Bayesian methods. For low-level model APIs, see the statsmodels and pymc skills.
 license: MIT license
 metadata: {"version": "1.1", "skill-author": "K-Dense Inc."}
 ---

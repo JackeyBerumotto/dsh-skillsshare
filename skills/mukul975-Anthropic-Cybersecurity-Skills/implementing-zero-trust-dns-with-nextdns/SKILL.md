@@ -1,8 +1,6 @@
 ---
 name: implementing-zero-trust-dns-with-nextdns
-description: Implement NextDNS as a zero trust DNS filtering layer with encrypted
-  resolution, threat intelligence blocking, privacy protection, and organizational
-  policy enforcement across all endpoints.
+description: "实施 NextDNS 作为零信任 DNS 过滤层，在所有终端上实现加密解析、威胁情报拦截、隐私保护和组织策略强制执行。 | Implement NextDNS as a zero trust DNS filtering layer with encrypted resolution, threat intelligence blocking, privacy protection, and organizational policy enforcement across all endpoints."
 domain: cybersecurity
 subdomain: zero-trust-architecture
 tags:

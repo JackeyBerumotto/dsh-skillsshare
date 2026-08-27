@@ -1,6 +1,6 @@
 ---
 name: math-review
-description: Verifies math-heavy code for algorithmic correctness and numerical stability. Use when reviewing scientific algorithms, ML models, or numerical code.
+description: 验证数学密集型代码的算法正确性和数值稳定性。在审查科学算法、ML 模型或数值计算代码时使用。 | Verifies math-heavy code for algorithmic correctness and numerical stability. Use when reviewing scientific algorithms, ML models, or numerical code.
 alwaysApply: false
 category: specialized
 tags:

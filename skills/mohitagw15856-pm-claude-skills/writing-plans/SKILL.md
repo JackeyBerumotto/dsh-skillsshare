@@ -1,6 +1,6 @@
 ---
 name: writing-plans
-description: "Write an executable work plan BEFORE starting a complex task — decomposed steps with verification points, risks pre-named, and explicit stop conditions — so execution becomes checking boxes instead of improvising. Use when a task will take many steps, when asked to plan before doing, when previous attempts sprawled or stalled, or before delegating work to subagents. Produces a plan document another agent (or future you) could execute without re-deriving the thinking. Pairs with executing-plans."
+description: "在开始复杂任务之前先编写可执行的工作计划——分解的步骤带验证点、风险预先点名、停止条件明确——让执行变成打勾而非即兴发挥。在任务需要多个步骤、被要求先规划后执行、此前尝试发散或停滞，或在把工作委派给子智能体之前时使用。产出一份其他智能体（或未来的你）无需重新推导思路即可执行的计划文档。与 executing-plans 搭配使用。 | Write an executable work plan BEFORE starting a complex task — decomposed steps with verification points, risks pre-named, and explicit stop conditions — so execution becomes checking boxes instead of improvising. Use when a task will take many steps, when asked to plan before doing, when previous attempts sprawled or stalled, or before delegating work to subagents. Produces a plan document another agent (or future you) could execute without re-deriving the thinking. Pairs with executing-plans."
 ---
 
 # Writing Plans Skill

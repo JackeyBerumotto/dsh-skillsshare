@@ -2,7 +2,7 @@
 name: analyzing-on-chain-data
 version: 1.0.0
 description: |
-  Perform on-chain analysis including whale tracking, token flows, and network activity.
+  执行链上分析，包括巨鲸追踪、代币流向和网络活动。在执行加密货币分析时使用。触发短语如「analyze crypto」「check blockchain」或「monitor market」。 |
   Use when performing crypto analysis.
   Trigger with phrases like "analyze crypto", "check blockchain", or "monitor market".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(crypto:onchain-*)

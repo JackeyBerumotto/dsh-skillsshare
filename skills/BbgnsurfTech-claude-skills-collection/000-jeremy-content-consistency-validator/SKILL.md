@@ -1,6 +1,6 @@
 ---
 name: 000-jeremy-content-consistency-validator
-description: Validate messaging consistency across website, GitHub repos, and local documentation generating read-only discrepancy reports. Use when checking content alignment or finding mixed messaging. Trigger with phrases like "check consistency", "validate documentation", or "audit messaging".
+description: 验证网站、GitHub 仓库和本地文档之间信息的一致性，并生成只读差异报告。适用于检查内容是否对齐或发现信息混杂。可通过「check consistency」「validate documentation」或「audit messaging」等短语触发。 | Validate messaging consistency across website, GitHub repos, and local documentation generating read-only discrepancy reports. Use when checking content alignment or finding mixed messaging. Trigger with phrases like "check consistency", "validate documentation", or "audit messaging".
 version: 1.0.0
 allowed-tools:
 - Read

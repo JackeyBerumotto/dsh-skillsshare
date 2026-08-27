@@ -1,6 +1,6 @@
 ---
 name: web-dnd-dnd-kit
-description: Drag and drop with @dnd-kit - draggable, droppable, sortable, collision detection, sensors, accessibility
+description: 使用 @dnd-kit 实现拖放——draggable、droppable、sortable、碰撞检测、传感器、无障碍 | Drag and drop with @dnd-kit - draggable, droppable, sortable, collision detection, sensors, accessibility
 ---
 
 # @dnd-kit Drag and Drop Patterns

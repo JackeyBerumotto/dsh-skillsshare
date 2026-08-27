@@ -1,6 +1,6 @@
 ---
 name: apify-lead-generation
-description: "Scrape leads from multiple platforms using Apify Actors."
+description: "使用 Apify Actor 从多个平台抓取销售线索。 | Scrape leads from multiple platforms using Apify Actors."
 risk: unknown
 source: community
 ---

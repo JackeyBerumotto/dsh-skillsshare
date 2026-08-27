@@ -1,6 +1,6 @@
 ---
 name: user-interview-synthesis
-description: "Synthesises user interview transcripts into structured research findings. Use when asked to analyse interview notes, synthesise qualitative research, identify themes from interviews, or turn raw interview data into actionable product insights. Produces a themed synthesis with supporting quotes per theme, 'so what' implications, and recommended next steps. For mixed sources beyond interviews (surveys, tickets, feedback) use user-research-synthesis instead."
+description: "将用户访谈记录综合为结构化的研究结论。当被要求分析访谈笔记、综合定性研究、从访谈中提炼主题，或将原始访谈数据转化为可执行的产品洞察时使用。产出按主题划分的综合分析，每个主题附有支撑引语、「那又怎样」层面的启示以及建议的后续步骤。对于访谈之外的混合来源（问卷、工单、反馈），请改用 user-research-synthesis。 | Synthesises user interview transcripts into structured research findings. Use when asked to analyse interview notes, synthesise qualitative research, identify themes from interviews, or turn raw interview data into actionable product insights. Produces a themed synthesis with supporting quotes per theme, 'so what' implications, and recommended next steps. For mixed sources beyond interviews (surveys, tickets, feedback) use user-research-synthesis instead."
 ---
 
 # User Interview Synthesis Skill

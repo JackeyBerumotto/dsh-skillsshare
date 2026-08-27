@@ -1,6 +1,6 @@
 ---
 name: n8n-workflow-patterns
-description: "Proven architectural patterns for building n8n workflows."
+description: "用于构建 n8n 工作流的成熟架构模式。 | Proven architectural patterns for building n8n workflows."
 risk: unknown
 source: community
 ---

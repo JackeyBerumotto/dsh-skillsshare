@@ -1,6 +1,6 @@
 ---
 name: mobile-development
-description: Mobile development patterns for React Native and Flutter including navigation, state management, and responsive design
+description: React Native 与 Flutter 的移动开发模式，包括导航、状态管理与响应式设计。 | Mobile development patterns for React Native and Flutter including navigation, state management, and responsive design
 ---
 
 # Mobile Development

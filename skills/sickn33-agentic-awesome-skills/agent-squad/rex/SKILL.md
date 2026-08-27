@@ -1,6 +1,6 @@
 ---
 name: rex
-description: "Translates user intent into a precise, unambiguous specification and requirements."
+description: "将用户意图转化为精确、无歧义的规格与需求。 | Translates user intent into a precise, unambiguous specification and requirements."
 risk: safe
 source: community
 date_added: "2026-06-11"

@@ -1,6 +1,6 @@
 ---
 name: react-native-patterns
-description: React Native and Expo app patterns — Expo Router navigation, state separation (server/client/route/form), TanStack Query data fetching with Zod, performant lists, NativeWind/StyleSheet styling, native APIs, and secure storage. Use when building or editing React Native / Expo screens, components, navigation, or data layers.
+description: React Native 与 Expo 应用模式：Expo Router 导航、状态分离（服务端/客户端/路由/表单）、配合 Zod 的 TanStack Query 数据获取、高性能列表、NativeWind/StyleSheet 样式、原生 API 以及安全存储。在构建或编辑 React Native / Expo 的页面、组件、导航或数据层时使用。 | React Native and Expo app patterns — Expo Router navigation, state separation (server/client/route/form), TanStack Query data fetching with Zod, performant lists, NativeWind/StyleSheet styling, native APIs, and secure storage. Use when building or editing React Native / Expo screens, components, navigation, or data layers.
 origin: ECC
 ---
 

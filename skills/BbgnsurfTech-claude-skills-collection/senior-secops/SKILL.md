@@ -1,6 +1,6 @@
 ---
 name: senior-secops
-description: Comprehensive SecOps skill for application security, vulnerability management, compliance, and secure development practices. Includes security scanning, vulnerability assessment, compliance checking, and security automation. Use when implementing security controls, conducting security audits, responding to vulnerabilities, or ensuring compliance requirements.
+description: 面向应用安全、漏洞管理、合规和安全开发实践的综合 SecOps 技能。包括安全扫描、漏洞评估、合规检查和安全自动化。在实施安全控制、开展安全审计、响应漏洞或确保满足合规要求时使用。 | Comprehensive SecOps skill for application security, vulnerability management, compliance, and secure development practices. Includes security scanning, vulnerability assessment, compliance checking, and security automation. Use when implementing security controls, conducting security audits, responding to vulnerabilities, or ensuring compliance requirements.
 ---
 
 # Senior Secops

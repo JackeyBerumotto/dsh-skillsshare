@@ -1,6 +1,6 @@
 ---
 name: task-intelligence
-description: "Protocolo de Inteligência Pré-Tarefa — ativa TODOS os agentes relevantes do ecossistema ANTES de executar qualquer tarefa solicitada pelo usuário."
+description: "任务前智能协议——在执行用户请求的任何任务之前，先激活生态系统中所有相关的智能体。 | Protocolo de Inteligência Pré-Tarefa — ativa TODOS os agentes relevantes do ecossistema ANTES de executar qualquer tarefa solicitada pelo usuário."
 risk: none
 source: community
 date_added: '2026-03-06'

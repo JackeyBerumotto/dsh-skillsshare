@@ -1,6 +1,6 @@
 ---
 name: summon
-description: Autonomous orchestrator for manifest work items through the development lifecycle. Use when running egregore to process a backlog automatically.
+description: 在整个开发生命周期中自主编排清单工作项。在运行 egregore 以自动处理待办事项时使用。 | Autonomous orchestrator for manifest work items through the development lifecycle. Use when running egregore to process a backlog automatically.
 alwaysApply: false
 category: orchestration
 tags:

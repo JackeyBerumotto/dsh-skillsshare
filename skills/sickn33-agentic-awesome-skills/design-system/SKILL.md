@@ -1,6 +1,6 @@
 ---
 name: design-system
-description: "Mechanical implementation invariants for frontend design: token architecture, typography hierarchy, loading order, FOUT prevention, chrome stability, motion timing, color semantics. Use with design when building components, pages, or design systems. (Aesthetic direction lives in..."
+description: "前端设计的机械实现不变量：令牌架构、字号层级、加载顺序、FOUT 预防、界面 chrome 稳定性、动效时序、颜色语义。在构建组件、页面或设计系统时与 design 配合使用。（美学方向另见……） | Mechanical implementation invariants for frontend design: token architecture, typography hierarchy, loading order, FOUT prevention, chrome stability, motion timing, color semantics. Use with design when building components, pages, or design systems. (Aesthetic direction lives in..."
 risk: unknown
 source: https://github.com/connerkward/ckw-design-skill/tree/main/design-system
 source_repo: connerkward/ckw-design-skill

@@ -1,6 +1,6 @@
 ---
 name: api-baas-turso
-description: Edge-hosted SQLite database with libSQL driver and embedded replicas
+description: 边缘托管的 SQLite 数据库，配备 libSQL 驱动和嵌入式副本 | Edge-hosted SQLite database with libSQL driver and embedded replicas
 ---
 
 # Turso / libSQL Patterns

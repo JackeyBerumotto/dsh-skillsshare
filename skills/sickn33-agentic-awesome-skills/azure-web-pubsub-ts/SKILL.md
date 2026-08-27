@@ -1,6 +1,6 @@
 ---
 name: azure-web-pubsub-ts
-description: "Real-time messaging with WebSocket connections and pub/sub patterns."
+description: "基于 WebSocket 连接与发布/订阅模式的实时消息传递。 | Real-time messaging with WebSocket connections and pub/sub patterns."
 risk: unknown
 source: community
 date_added: "2026-02-27"

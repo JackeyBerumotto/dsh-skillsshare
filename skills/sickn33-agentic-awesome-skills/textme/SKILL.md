@@ -1,6 +1,6 @@
 ---
 name: textme
-description: "Text Claude from your phone — set up the njerschow/textme daemon so inbound iMessages drive a Claude Code session on your laptop, with voice notes, image input, code execution, and a phone-number whitelist."
+description: "用手机给 Claude 发消息——配置 njerschow/textme 守护进程，让收到的 iMessage 驱动你笔记本电脑上的 Claude Code 会话，支持语音备忘、图片输入、代码执行和手机号码白名单。 | Text Claude from your phone — set up the njerschow/textme daemon so inbound iMessages drive a Claude Code session on your laptop, with voice notes, image input, code execution, and a phone-number whitelist."
 category: automation
 risk: critical
 source: community

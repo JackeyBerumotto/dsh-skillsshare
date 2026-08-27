@@ -1,6 +1,6 @@
 ---
 name: environment-setup-guide
-description: "Guide developers through setting up development environments with proper tools, dependencies, and configurations"
+description: "指导开发者配置开发环境，包括合适的工具、依赖和配置 | Guide developers through setting up development environments with proper tools, dependencies, and configurations"
 risk: unknown
 source: community
 date_added: "2026-02-27"

@@ -1,6 +1,6 @@
 ---
 name: pi-web-search
-description: "Give Pi Agents a safe web-search and fetch workflow using the installed pi-web-access package."
+description: "使用已安装的 pi-web-access 包，为 Pi 代理提供安全的网页搜索与抓取工作流。 | Give Pi Agents a safe web-search and fetch workflow using the installed pi-web-access package."
 category: research
 risk: safe
 source: community

@@ -1,6 +1,6 @@
 ---
 name: gif-generation
-description: Converts webm/mp4 video files to optimized GIFs via ffmpeg with configurable quality settings. Use when post-processing recordings into shareable GIFs.
+description: 通过 ffmpeg 将 webm/mp4 视频文件转换为优化后的 GIF，质量参数可配置。在将录屏后期处理为可分享的 GIF 时使用。 | Converts webm/mp4 video files to optimized GIFs via ffmpeg with configurable quality settings. Use when post-processing recordings into shareable GIFs.
 alwaysApply: false
 category: media-generation
 tags:

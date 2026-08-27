@@ -1,6 +1,6 @@
 ---
 name: apify-ultimate-scraper
-description: "AI-driven data extraction from 55+ Actors across all major platforms. This skill automatically selects the best Actor for your task."
+description: "从覆盖所有主要平台的五十五个以上 Actor 进行 AI 驱动的数据提取，本技能会自动为你的任务选择最合适的 Actor。 | AI-driven data extraction from 55+ Actors across all major platforms. This skill automatically selects the best Actor for your task."
 risk: unknown
 source: community
 ---

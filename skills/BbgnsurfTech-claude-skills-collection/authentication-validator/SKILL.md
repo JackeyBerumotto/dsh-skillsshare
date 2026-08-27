@@ -1,6 +1,6 @@
 ---
 name: validating-authentication-implementations
-description: Validate authentication mechanisms for security weaknesses and compliance. Use when reviewing login systems or auth flows. Trigger with 'validate authentication', 'check auth security', or 'review login'.
+description: 验证认证机制的安全弱点与合规性。在审查登录系统或认证流程时使用。可通过「validate authentication」「check auth security」或「review login」触发。 | Validate authentication mechanisms for security weaknesses and compliance. Use when reviewing login systems or auth flows. Trigger with 'validate authentication', 'check auth security', or 'review login'.
 version: 1.0.0
 allowed-tools:
 - Read

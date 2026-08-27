@@ -1,6 +1,6 @@
 ---
 name: cmux
-description: "Control cmux workspaces, panes, surfaces, and agent sessions safely from macOS terminal workflows."
+description: "在 macOS 终端工作流中安全地控制 cmux 的工作区、窗格、surface 和 Agent 会话。 | Control cmux workspaces, panes, surfaces, and agent sessions safely from macOS terminal workflows."
 category: development
 risk: critical
 source: community

@@ -1,7 +1,7 @@
 ---
 name: container-security-hardening
 description: >
-  Harden Docker/container images and runtime deployments with secure base images,
+  加固 Docker/容器镜像和运行时部署，采用安全基础镜像、非 root 用户、CVE 扫描、SBOM/签名、seccomp/AppArmor 以及 Kubernetes pod 安全控制。用于 Dockerfile 安全审查、容器 CVE、镜像扫描、distroless 镜像或生产环境加固。 |
   non-root users, CVE scanning, SBOM/signing, seccomp/AppArmor, and Kubernetes
   pod security controls. Use for Dockerfile security reviews, container CVEs,
   image scanning, distroless images, or production hardening.

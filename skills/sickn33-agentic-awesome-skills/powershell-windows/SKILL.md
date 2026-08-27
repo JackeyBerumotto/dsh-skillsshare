@@ -1,6 +1,6 @@
 ---
 name: powershell-windows
-description: "PowerShell Windows patterns. Critical pitfalls, operator syntax, error handling."
+description: "PowerShell Windows 模式。关键陷阱、运算符语法、错误处理。 | PowerShell Windows patterns. Critical pitfalls, operator syntax, error handling."
 risk: unknown
 source: community
 date_added: "2026-02-27"

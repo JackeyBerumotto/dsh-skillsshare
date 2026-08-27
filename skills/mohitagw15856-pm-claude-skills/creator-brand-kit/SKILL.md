@@ -1,6 +1,6 @@
 ---
 name: creator-brand-kit
-description: "Define a creator's brand foundation — niche, audience, positioning, content pillars, voice/tone, and bio — so every post is consistent and on-brand. Use when asked to define a creator brand, find a niche, set content pillars, write a voice guide, craft a bio, or build a brand kit for a personal brand or channel. Produces a reusable one-page brand kit that other content skills can read so output sounds like you, every time."
+description: "定义创作者的品牌基础——细分定位、受众、定位、内容支柱、语调和个人简介——让每条帖子都保持一致、贴合品牌。当被要求定义创作者品牌、寻找细分领域、设定内容支柱、撰写语调指南、打磨简介，或为个人品牌／频道构建品牌套件时使用。产出一页可复用的品牌套件，供其他内容技能读取，让输出每次都像你自己。 | Define a creator's brand foundation — niche, audience, positioning, content pillars, voice/tone, and bio — so every post is consistent and on-brand. Use when asked to define a creator brand, find a niche, set content pillars, write a voice guide, craft a bio, or build a brand kit for a personal brand or channel. Produces a reusable one-page brand kit that other content skills can read so output sounds like you, every time."
 ---
 
 # Creator Brand Kit Skill

@@ -1,6 +1,6 @@
 ---
 name: harden
-description: Applies NIST/CWE security hardening to Python and Rust code. Use when auditing code for vulnerabilities or proposing concrete security remediations.
+description: 对 Python 和 Rust 代码应用 NIST／CWE 安全加固。在审计代码漏洞或提出具体安全修复方案时使用。 | Applies NIST/CWE security hardening to Python and Rust code. Use when auditing code for vulnerabilities or proposing concrete security remediations.
 globs: "**/*.{py,rs,toml,yaml,yml,sh}"
 alwaysApply: false
 category: security

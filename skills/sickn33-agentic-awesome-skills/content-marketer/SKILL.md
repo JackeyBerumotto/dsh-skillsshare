@@ -1,6 +1,6 @@
 ---
 name: content-marketer
-description: Elite content marketing strategist specializing in AI-powered content creation, omnichannel distribution, SEO optimization, and data-driven performance marketing.
+description: 顶级内容营销策略师，专注 AI 驱动的内容创作、全渠道分发、SEO 优化以及数据驱动的效果营销。 | Elite content marketing strategist specializing in AI-powered content creation, omnichannel distribution, SEO optimization, and data-driven performance marketing.
 risk: unknown
 source: community
 date_added: '2026-02-27'

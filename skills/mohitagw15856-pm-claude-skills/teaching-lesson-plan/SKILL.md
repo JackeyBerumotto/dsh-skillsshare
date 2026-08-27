@@ -1,6 +1,6 @@
 ---
 name: teaching-lesson-plan
-description: "Design a structured lesson plan for any subject, audience, or format. Use when asked to write a lesson plan, course outline, teaching session, workshop curriculum, or training module. Produces a complete lesson plan with learning objectives, activities, timing, assessment, and differentiation guidance."
+description: "为任意学科、受众或形式设计结构化的课程计划。当被要求编写课程计划、课程大纲、教学环节、工作坊课程或培训模块时使用。产出包含学习目标、活动、时间安排、评估和差异化指导的完整课程计划。 | Design a structured lesson plan for any subject, audience, or format. Use when asked to write a lesson plan, course outline, teaching session, workshop curriculum, or training module. Produces a complete lesson plan with learning objectives, activities, timing, assessment, and differentiation guidance."
 ---
 
 # Teaching Lesson Plan Skill

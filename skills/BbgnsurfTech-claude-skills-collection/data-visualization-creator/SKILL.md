@@ -1,7 +1,6 @@
 ---
 name: creating-data-visualizations
-description: Generate plots, charts, and graphs from data with automatic visualization
-  type selection. Use when requesting "visualization", "plot", "chart", or "graph".
+description: "从数据生成绘图和图表并自动选择可视化类型。当请求「visualization」「plot」「chart」或「graph」时使用。 | Generate plots, charts, and graphs from data with automatic visualization type selection. Use when requesting \"visualization\", \"plot\", \"chart\", or \"graph\"."
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash
 license: MIT
 ---

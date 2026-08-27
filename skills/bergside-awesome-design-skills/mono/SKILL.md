@@ -1,6 +1,6 @@
 ---
 name: mono
-description: Monospace-driven, matrix-inspired design with high-contrast elements, compact density, and a hacker-chic aesthetic.
+description: 以等宽字体为驱动、受黑客帝国启发的设计，具有高对比度元素、紧凑的密度和黑客别致的美学。 | Monospace-driven, matrix-inspired design with high-contrast elements, compact density, and a hacker-chic aesthetic.
 license: MIT
 metadata:
   author: typeui.sh

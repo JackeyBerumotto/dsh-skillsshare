@@ -1,6 +1,6 @@
 ---
 name: azure-identity-py
-description: Azure Identity SDK for Python authentication. Use for DefaultAzureCredential, managed identity, service principals, and token caching.
+description: 用于身份验证的 Python 版 Azure Identity SDK。用于 DefaultAzureCredential、托管标识、服务主体和令牌缓存。 | Azure Identity SDK for Python authentication. Use for DefaultAzureCredential, managed identity, service principals, and token caching.
 risk: unknown
 source: community
 date_added: '2026-02-27'

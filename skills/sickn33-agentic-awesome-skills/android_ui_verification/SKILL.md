@@ -1,6 +1,6 @@
 ---
 name: android_ui_verification
-description: Automated end-to-end UI testing and verification on an Android Emulator using ADB.
+description: 使用 ADB 在 Android 模拟器上进行自动化的端到端 UI 测试与验证。 | Automated end-to-end UI testing and verification on an Android Emulator using ADB.
 risk: safe
 source: community
 date_added: "2026-02-28"

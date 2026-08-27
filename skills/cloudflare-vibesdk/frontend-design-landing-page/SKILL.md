@@ -3,7 +3,7 @@ name: frontend-design-landing-page
 description: >
   Cloudflare VibeSDK 风格的营销转化页设计参考。奶油底色、大留白、
   胶囊 CTA、柔和阴影，打造高转化率的品牌落地页。适用 SaaS、产品
-  展示、活动注册等场景。
+  展示、活动注册等场景。 | Marketing conversion page design reference in the Cloudflare VibeSDK style. Cream background colors, generous white space, pill-shaped CTAs, and soft shadows create high-conversion brand landing pages. Suitable for SaaS, product showcases, event registration, and similar scenarios.
 metadata:
   source: cloudflare/vibesdk
   design_vocabulary: "奶油底色 · 大留白 · 胶囊 CTA · 柔和阴影 · 暖色调"

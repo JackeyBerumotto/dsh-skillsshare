@@ -1,7 +1,7 @@
 ---
 name: seo-hreflang
 description: >
-  Hreflang and international SEO audit, validation, and generation. Detects
+  hreflang 与国际 SEO 的审计、验证和生成。检测常见错误，验证语言/地区代码，并生成正确的 hreflang 实现。当用户说「hreflang」、「i18n SEO」、「international SEO」、「multi-language」、「multi-region」或「language tags」时使用。 |
   common mistakes, validates language/region codes, and generates correct
   hreflang implementations. Use when user says "hreflang", "i18n SEO",
   "international SEO", "multi-language", "multi-region", or "language tags".

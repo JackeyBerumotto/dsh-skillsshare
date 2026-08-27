@@ -1,6 +1,6 @@
 ---
 name: web-3d-react-three-fiber
-description: React Three Fiber (R3F) 3D rendering — Canvas, meshes, materials, lights, cameras, animations, events, physics, post-processing, performance
+description: React Three Fiber（R3F）3D 渲染：Canvas、网格、材质、灯光、相机、动画、事件、物理、后处理、性能。 | React Three Fiber (R3F) 3D rendering — Canvas, meshes, materials, lights, cameras, animations, events, physics, post-processing, performance
 ---
 
 # React Three Fiber Patterns

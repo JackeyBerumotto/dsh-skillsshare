@@ -1,6 +1,6 @@
 ---
 name: crossframe-public
-description: "Use when CrossFrame Suite routes explicit Chinese analysis of public issues, platform governance, policy, institutional responsibility, appeals, or compliance evidence."
+description: "当 CrossFrame Suite 路由到以中文明确分析公共议题、平台治理、政策、机构责任、申诉或合规证据时使用。 | Use when CrossFrame Suite routes explicit Chinese analysis of public issues, platform governance, policy, institutional responsibility, appeals, or compliance evidence."
 category: workflow
 risk: safe
 source: community

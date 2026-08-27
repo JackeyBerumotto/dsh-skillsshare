@@ -1,6 +1,6 @@
 ---
 name: filesystem-context
-description: Use for file-based context management, dynamic context discovery, and reducing context window bloat. Offload context to files for just-in-time loading.
+description: 用于基于文件的上下文管理、动态上下文发现和减少上下文窗口膨胀。将上下文卸载到文件中，实现按需即时加载。 | Use for file-based context management, dynamic context discovery, and reducing context window bloat. Offload context to files for just-in-time loading.
 risk: unknown
 source: community
 ---

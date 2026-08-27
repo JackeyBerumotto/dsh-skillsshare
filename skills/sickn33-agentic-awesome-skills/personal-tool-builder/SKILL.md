@@ -1,8 +1,6 @@
 ---
 name: personal-tool-builder
-description: Expert in building custom tools that solve your own problems first.
-  The best products often start as personal tools - scratch your own itch, build
-  for yourself, then discover others have the same itch.
+description: "精通构建优先解决自身问题的自定义工具。最好的产品往往始于个人工具——从解决自己的痛点出发、先为自己构建，随后发现他人也有同样的需求。 | Expert in building custom tools that solve your own problems first. The best products often start as personal tools - scratch your own itch, build for yourself, then discover others have the same itch."
 risk: critical
 source: vibeship-spawner-skills (Apache 2.0)
 date_added: 2026-02-27

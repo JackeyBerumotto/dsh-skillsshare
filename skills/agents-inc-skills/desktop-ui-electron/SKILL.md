@@ -1,6 +1,6 @@
 ---
 name: desktop-ui-electron
-description: Frameless windows, custom title bars, tray, menus, dock badges, vibrancy, kiosk mode, window state persistence
+description: 无边框窗口、自定义标题栏、托盘、菜单、dock 角标、vibrancy、kiosk 模式、窗口状态持久化 | Frameless windows, custom title bars, tray, menus, dock badges, vibrancy, kiosk mode, window state persistence
 ---
 
 # Electron Desktop UI Patterns

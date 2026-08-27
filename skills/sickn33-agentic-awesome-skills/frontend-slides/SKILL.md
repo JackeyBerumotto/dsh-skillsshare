@@ -1,6 +1,6 @@
 ---
 name: frontend-slides
-description: Create stunning, animation-rich HTML presentations from scratch or by converting PowerPoint files.
+description: 从零创建或通过转换 PowerPoint 文件，制作惊艳、富含动画的 HTML 演示文稿。 | Create stunning, animation-rich HTML presentations from scratch or by converting PowerPoint files.
 risk: safe
 source: https://github.com/zarazhangrui/frontend-slides
 date_added: "2026-03-07"

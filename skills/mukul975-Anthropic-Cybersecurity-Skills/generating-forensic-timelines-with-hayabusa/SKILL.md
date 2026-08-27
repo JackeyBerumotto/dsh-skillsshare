@@ -1,6 +1,6 @@
 ---
 name: generating-forensic-timelines-with-hayabusa
-description: Produce Sigma-based EVTX timelines and summaries with Hayabusa.
+description: 用 Hayabusa 生成基于 Sigma 的 EVTX 时间线和摘要。 | Produce Sigma-based EVTX timelines and summaries with Hayabusa.
 domain: cybersecurity
 subdomain: digital-forensics
 tags:

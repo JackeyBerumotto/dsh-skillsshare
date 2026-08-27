@@ -1,6 +1,6 @@
 ---
 name: caption-animation
-description: 将转录文本或旁白转换为逐词计时的动态字幕，每个词在音节上弹出，当前词高亮，文本紧跟旁白。
+description: 将转录文本或旁白转换为逐词计时的动态字幕，每个词在音节上弹出，当前词高亮，文本紧跟旁白。 | Convert transcribed text or narration into word-by-word timed dynamic captions, where each word pops in on its syllable, the current word is highlighted, and the text follows the narration closely.
 description_zh: 将转录文本或旁白转换为逐词计时的动态字幕，每个词在音节上弹出，当前词高亮，文本紧跟旁白。
 version: 0.1.0
 author: iart.ai

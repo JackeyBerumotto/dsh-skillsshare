@@ -1,6 +1,6 @@
 ---
 name: "coo-advisor"
-description: "Operations leadership for scaling companies. Process design, OKR execution, operational cadence, and scaling playbooks. Use when designing operations, setting up OKRs, building processes, scaling teams, analyzing bottlenecks, planning operational cadence, or when user mentions COO, operations, process improvement, OKRs, scaling, operational efficiency, or execution."
+description: "面向成长期公司的运营领导力：流程设计、OKR 执行、运营节奏和扩张 playbook。在设计运营、搭建 OKR、构建流程、扩张团队、分析瓶颈、规划运营节奏，或用户提到 COO、运营、流程改进、OKR、扩张、运营效率或执行力时使用。 | Operations leadership for scaling companies. Process design, OKR execution, operational cadence, and scaling playbooks. Use when designing operations, setting up OKRs, building processes, scaling teams, analyzing bottlenecks, planning operational cadence, or when user mentions COO, operations, process improvement, OKRs, scaling, operational efficiency, or execution."
 license: MIT
 metadata:
   version: 1.0.0

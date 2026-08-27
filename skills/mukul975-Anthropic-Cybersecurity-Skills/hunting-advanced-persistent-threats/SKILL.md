@@ -1,13 +1,6 @@
 ---
 name: hunting-advanced-persistent-threats
-description: 'Proactively hunts for Advanced Persistent Threat (APT) activity within
-  enterprise environments using hypothesis-driven searches across endpoint telemetry,
-  network logs, and memory artifacts. Use when conducting scheduled threat hunting
-  cycles, investigating anomalous behavior flagged by UEBA, or validating that known
-  APT TTPs are not present in the environment. Activates for requests involving MITRE
-  ATT&CK, Velociraptor, osquery, Zeek, or threat hunting playbooks.
-
-  '
+description: "在企业环境中主动狩猎高级持续性威胁（APT）活动，基于假设驱动的搜索覆盖终端遥测、网络日志与内存痕迹。当执行周期性威胁狩猎循环、调查被 UEBA 标记的异常行为，或验证环境中不存在已知 APT TTP 时使用。适用于涉及 MITRE ATT&CK、Velociraptor、osquery、Zeek 或威胁狩猎剧本的请求。 | Proactively hunts for Advanced Persistent Threat (APT) activity within enterprise environments using hypothesis-driven searches across endpoint telemetry, network logs, and memory artifacts. Use when conducting scheduled threat hunting cycles, investigating anomalous behavior flagged by UEBA, or validating that known APT TTPs are not present in the environment. Activates for requests involving MITRE ATT&CK, Velociraptor, osquery, Zeek, or threat hunting playbooks."
 domain: cybersecurity
 subdomain: threat-intelligence
 tags:

@@ -1,6 +1,6 @@
 ---
 name: fp-pipe-ref
-description: Quick reference for pipe and flow. Use when user needs to chain functions, compose operations, or build data pipelines in fp-ts.
+description: pipe 和 flow 快速参考。当用户需要在 fp-ts 中链式调用函数、组合操作或构建数据管道时使用。 | Quick reference for pipe and flow. Use when user needs to chain functions, compose operations, or build data pipelines in fp-ts.
 risk: unknown
 source: community
 version: 1.0.0

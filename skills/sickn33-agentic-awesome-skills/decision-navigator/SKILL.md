@@ -1,6 +1,6 @@
 ---
 name: decision-navigator
-description: "Guide stuck or overwhelmed users through targeted branching questions until they reach concrete next steps."
+description: "通过有针对性的分支问题，引导陷入困境或不知所措的用户逐步走到具体的下一步行动。 | Guide stuck or overwhelmed users through targeted branching questions until they reach concrete next steps."
 category: planning
 risk: safe
 source: community

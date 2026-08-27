@@ -1,6 +1,6 @@
 ---
 name: "browser-automation"
-description: "Use when the user asks to automate browser tasks, scrape websites, fill forms, capture screenshots, extract structured data from web pages, or build web automation workflows. NOT for testing — use playwright-pro for that."
+description: "当用户要求自动化浏览器任务、抓取网站、填写表单、截取屏幕截图、从网页提取结构化数据或构建 Web 自动化工作流时使用。不用于测试——那请使用 playwright-pro。 | Use when the user asks to automate browser tasks, scrape websites, fill forms, capture screenshots, extract structured data from web pages, or build web automation workflows. NOT for testing — use playwright-pro for that."
 ---
 
 # Browser Automation - POWERFUL

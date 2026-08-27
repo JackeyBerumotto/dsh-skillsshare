@@ -1,6 +1,6 @@
 ---
 name: scope-guard
-description: Scores feature worthiness and enforces branch-size limits against overengineering. Use when evaluating whether a feature belongs in the current scope or branch.
+description: 为功能价值打分，并针对过度工程强制执行分支规模限制。在评估某功能是否属于当前范围或分支时使用。 | Scores feature worthiness and enforces branch-size limits against overengineering. Use when evaluating whether a feature belongs in the current scope or branch.
 alwaysApply: false
 category: workflow-methodology
 tags:

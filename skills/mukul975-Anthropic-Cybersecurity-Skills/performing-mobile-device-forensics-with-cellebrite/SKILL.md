@@ -1,7 +1,6 @@
 ---
 name: performing-mobile-device-forensics-with-cellebrite
-description: Acquire and analyze mobile device data using Cellebrite UFED and open-source
-  tools to extract communications, location data, and application artifacts.
+description: "使用 Cellebrite UFED 和开源工具获取并分析移动设备数据，提取通信记录、位置数据和应用痕迹。 | Acquire and analyze mobile device data using Cellebrite UFED and open-source tools to extract communications, location data, and application artifacts."
 domain: cybersecurity
 subdomain: digital-forensics
 tags:

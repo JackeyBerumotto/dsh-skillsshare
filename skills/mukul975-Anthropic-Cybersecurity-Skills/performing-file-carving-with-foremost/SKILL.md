@@ -1,7 +1,6 @@
 ---
 name: performing-file-carving-with-foremost
-description: Recover files from disk images and unallocated space using Foremost's
-  header-footer signature carving to extract evidence regardless of file system state.
+description: "使用 Foremost 基于文件头尾签名的雕刻技术从磁盘镜像与未分配空间恢复文件，无论文件系统处于何种状态均可提取证据。 | Recover files from disk images and unallocated space using Foremost's header-footer signature carving to extract evidence regardless of file system state."
 domain: cybersecurity
 subdomain: digital-forensics
 tags:

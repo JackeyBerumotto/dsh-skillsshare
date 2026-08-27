@@ -1,6 +1,6 @@
 ---
 name: "merge"
-description: "Merge the winning agent's branch into base, archive losers, and clean up worktrees. Use when the user runs /hub:merge or asks to land the winning AgentHub result and tidy the session."
+description: "把获胜代理的分支合并到基础分支，归档落败者并清理 worktree。当用户运行 /hub:merge，或要求落地获胜的 AgentHub 结果并整理会话时使用。 | Merge the winning agent's branch into base, archive losers, and clean up worktrees. Use when the user runs /hub:merge or asks to land the winning AgentHub result and tidy the session."
 command: /hub:merge
 ---
 

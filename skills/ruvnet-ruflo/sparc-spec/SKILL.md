@@ -1,6 +1,6 @@
 ---
 name: sparc-spec
-description: Run the SPARC Specification phase — gather requirements, define acceptance criteria, identify constraints, and store the spec in memory
+description: 运行 SPARC 的规格阶段——收集需求、定义验收标准、识别约束，并将规格存入记忆。 | Run the SPARC Specification phase — gather requirements, define acceptance criteria, identify constraints, and store the spec in memory
 argument-hint: "<feature-description>"
 allowed-tools: mcp__claude-flow__memory_store mcp__claude-flow__memory_search mcp__claude-flow__memory_retrieve mcp__claude-flow__task_create mcp__claude-flow__task_update mcp__claude-flow__task_complete mcp__claude-flow__hooks_intelligence_trajectory-start mcp__claude-flow__hooks_intelligence_trajectory-step mcp__claude-flow__neural_predict Bash Read Edit
 ---

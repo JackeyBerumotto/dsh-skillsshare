@@ -1,7 +1,6 @@
 ---
 name: hunting-for-dcsync-attacks
-description: Detect DCSync attacks by analyzing Windows Event ID 4662 for unauthorized
-  DS-Replication-Get-Changes requests from non-domain-controller accounts.
+description: "通过分析 Windows 事件 ID 4662，检测来自非域控制器账户的未授权 DS-Replication-Get-Changes 请求，从而发现 DCSync 攻击。 | Detect DCSync attacks by analyzing Windows Event ID 4662 for unauthorized DS-Replication-Get-Changes requests from non-domain-controller accounts."
 domain: cybersecurity
 subdomain: threat-hunting
 tags:

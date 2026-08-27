@@ -1,6 +1,6 @@
 ---
 name: avalonia-layout-zafiro
-description: "Guidelines for modern Avalonia UI layout using Zafiro.Avalonia, emphasizing shared styles, generic components, and avoiding XAML redundancy."
+description: "使用 Zafiro.Avalonia 的现代 Avalonia UI 布局指南，强调共享样式、通用组件和避免 XAML 冗余。 | Guidelines for modern Avalonia UI layout using Zafiro.Avalonia, emphasizing shared styles, generic components, and avoiding XAML redundancy."
 risk: unknown
 source: community
 date_added: "2026-02-27"

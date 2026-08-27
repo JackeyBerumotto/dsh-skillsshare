@@ -1,6 +1,6 @@
 ---
 name: pipecat-friday-agent
-description: "Build a low-latency, Iron Man-inspired tactical voice assistant (F.R.I.D.A.Y.) using Pipecat, Gemini, and OpenAI."
+description: "使用 Pipecat、Gemini 和 OpenAI 构建低延迟、灵感来自钢铁侠的战术语音助手（F.R.I.D.A.Y.）。 | Build a low-latency, Iron Man-inspired tactical voice assistant (F.R.I.D.A.Y.) using Pipecat, Gemini, and OpenAI."
 category: voice-agents
 risk: safe
 source: community

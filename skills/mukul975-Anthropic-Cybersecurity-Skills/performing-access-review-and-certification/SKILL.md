@@ -1,8 +1,6 @@
 ---
 name: performing-access-review-and-certification
-description: Conduct systematic access reviews and certifications to ensure users
-  have appropriate access rights aligned with their roles. This skill covers review
-  campaign design, reviewer selection, risk-based p
+description: "开展系统性的访问审查与认证，确保用户拥有与其角色相符的适当访问权限。本技能涵盖审查活动设计、审查者选择、基于风险的…… | Conduct systematic access reviews and certifications to ensure users have appropriate access rights aligned with their roles. This skill covers review campaign design, reviewer selection, risk-based p"
 domain: cybersecurity
 subdomain: identity-access-management
 tags:

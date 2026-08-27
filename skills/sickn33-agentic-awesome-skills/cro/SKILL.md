@@ -1,6 +1,6 @@
 ---
 name: cro
-description: When the user wants to optimize, improve, or increase conversions on any marketing page or form — including homepage, landing pages, pricing pages, feature pages, lead capture forms, or contact forms. Also use when the user says 'CRO,' 'conversion rate optimization,' 'this page isn't...
+description: 当用户想要优化、改进或提升任何营销页面或表单的转化——包括首页、落地页、定价页、功能页、线索捕获表单或联系表单——时使用。当用户说「CRO」「conversion rate optimization」「这个页面不……」时也应使用。 | When the user wants to optimize, improve, or increase conversions on any marketing page or form — including homepage, landing pages, pricing pages, feature pages, lead capture forms, or contact forms. Also use when the user says 'CRO,' 'conversion rate optimization,' 'this page isn't...
 risk: unknown
 source: https://github.com/coreyhaines31/marketingskills/tree/main/skills/cro
 source_repo: coreyhaines31/marketingskills

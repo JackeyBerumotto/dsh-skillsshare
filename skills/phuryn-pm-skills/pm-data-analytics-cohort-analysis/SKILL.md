@@ -1,6 +1,6 @@
 ---
 name: cohort-analysis
-description: "Perform cohort analysis on user engagement data — retention curves, feature adoption trends, and segment-level insights. Use when analyzing user retention by cohort, studying feature adoption over time, investigating churn patterns, or identifying engagement trends."
+description: "对用户参与数据执行队列分析——留存曲线、功能采用趋势和分层洞察。在按队列分析用户留存、研究功能随时间的采用情况、调查流失模式或识别参与趋势时使用。 | Perform cohort analysis on user engagement data — retention curves, feature adoption trends, and segment-level insights. Use when analyzing user retention by cohort, studying feature adoption over time, investigating churn patterns, or identifying engagement trends."
 ---
 
 # Cohort Analysis & Retention Explorer

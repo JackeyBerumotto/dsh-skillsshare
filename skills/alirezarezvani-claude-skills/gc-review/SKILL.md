@@ -1,6 +1,6 @@
 ---
 name: "gc-review"
-description: "/cs:gc-review <plan> — General Counsel interrogation of contracts, IP, regulatory, term sheets, and employment-law surface. Use when reviewing a term sheet before signing, redlining a customer MSA, or checking IP assignment and regulatory exposure on a new product."
+description: "/cs:gc-review <plan>——General Counsel 对合同、知识产权、监管、条款清单和劳动法层面的审讯。适用于签署前审阅条款清单、修订客户 MSA，或检查新产品的知识产权归属与监管风险敞口时。 | /cs:gc-review <plan> — General Counsel interrogation of contracts, IP, regulatory, term sheets, and employment-law surface. Use when reviewing a term sheet before signing, redlining a customer MSA, or checking IP assignment and regulatory exposure on a new product."
 ---
 
 # /cs:gc-review — General Counsel Forcing Questions

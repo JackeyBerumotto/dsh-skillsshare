@@ -1,6 +1,6 @@
 ---
 name: one-drive-automation
-description: "Automate OneDrive file management, search, uploads, downloads, sharing, permissions, and folder operations via Rube MCP (Composio). Always search tools first for current schemas."
+description: "通过 Rube MCP（Composio）自动化 OneDrive 文件管理、搜索、上传、下载、共享、权限和文件夹操作。务必先搜索工具以获取最新 schema。 | Automate OneDrive file management, search, uploads, downloads, sharing, permissions, and folder operations via Rube MCP (Composio). Always search tools first for current schemas."
 risk: critical
 source: community
 date_added: "2026-02-27"

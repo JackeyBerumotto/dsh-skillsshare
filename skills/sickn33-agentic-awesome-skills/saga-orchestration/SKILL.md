@@ -1,6 +1,6 @@
 ---
 name: saga-orchestration
-description: "Patterns for managing distributed transactions and long-running business processes."
+description: "管理分布式事务和长时间运行业务流程的模式。 | Patterns for managing distributed transactions and long-running business processes."
 risk: unknown
 source: community
 date_added: "2026-02-27"

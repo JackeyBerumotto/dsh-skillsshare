@@ -2,7 +2,7 @@
 name: generating-grpc-services
 version: 1.0.0
 description: |
-  Generate gRPC service definitions, stubs, and implementations from Protocol Buffers.
+  根据 Protocol Buffers 生成 gRPC 服务定义、桩代码和实现。在创建高性能 gRPC 服务时使用。触发短语如「generate gRPC service」、「create gRPC API」或「build gRPC server」。 |
   Use when creating high-performance gRPC services.
   Trigger with phrases like "generate gRPC service", "create gRPC API", or "build gRPC server".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(api:grpc-*)

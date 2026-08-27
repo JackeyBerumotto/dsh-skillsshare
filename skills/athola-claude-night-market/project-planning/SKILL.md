@@ -1,6 +1,6 @@
 ---
 name: project-planning
-description: Converts a specification into a phased, dependency-ordered implementation plan. Use after specification is complete and before execution begins.
+description: 将规格说明转换为分阶段、按依赖排序的实施计划。在规格完成后、开始执行前使用。 | Converts a specification into a phased, dependency-ordered implementation plan. Use after specification is complete and before execution begins.
 alwaysApply: false
 # Custom metadata (not used by Claude for matching):
 model_preference: claude-sonnet-4-6

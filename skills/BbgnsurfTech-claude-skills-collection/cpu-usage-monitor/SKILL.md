@@ -1,8 +1,5 @@
 ---
-description: This skill enables claude to monitor and analyze cpu usage patterns within
-  applications. it helps identify cpu hotspots, analyze algorithmic complexity, and
-  detect blocking operations. use this skill when the user asks to "monitor cpu usage",
-  "opt...
+description: "本技能使 claude 能够监控并分析应用内的 CPU 使用模式。它帮助识别 CPU 热点、分析算法复杂度并检测阻塞操作。当用户要求「monitor cpu usage」或优化 CPU 使用时使用本技能。 | This skill enables claude to monitor and analyze cpu usage patterns within applications. it helps identify cpu hotspots, analyze algorithmic complexity, and detect blocking operations. use this skill when the user asks to \"monitor cpu usage\", \"opt..."
 allowed-tools:
 - Read
 - Write

@@ -1,7 +1,7 @@
 ---
 name: find-docs
 description: >-
-  Retrieves up-to-date documentation, API references, and code examples for any
+  获取任何开发者技术的最新文档、API 参考和代码示例。当用户询问特定的库、框架、SDK、CLI 工具或云服务时使用此技能——即使是 React、Next.js、Prisma、Express、Tailwind、Django 或 Spring Boot 等知名技术。你的训练数据可能未反映近期的 API 变更或版本更新。 |
   developer technology. Use this skill whenever the user asks about a specific
   library, framework, SDK, CLI tool, or cloud service — even for well-known ones
   like React, Next.js, Prisma, Express, Tailwind, Django, or Spring Boot. Your

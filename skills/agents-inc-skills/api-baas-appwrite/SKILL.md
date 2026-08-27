@@ -1,6 +1,6 @@
 ---
 name: api-baas-appwrite
-description: Appwrite backend-as-a-service — Auth, TablesDB, Storage, Functions, Realtime, permissions model, typed client
+description: Appwrite 后端即服务——Auth、TablesDB、Storage、Functions、Realtime、权限模型与类型化客户端 | Appwrite backend-as-a-service — Auth, TablesDB, Storage, Functions, Realtime, permissions model, typed client
 ---
 
 # Appwrite Patterns

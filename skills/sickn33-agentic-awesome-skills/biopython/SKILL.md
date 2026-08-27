@@ -1,6 +1,6 @@
 ---
 name: biopython
-description: "Biopython is a comprehensive set of freely available Python tools for biological computation. It provides functionality for sequence manipulation, file I/O, database access, structural bioinformatics, phylogenetics, and many other bioinformatics tasks."
+description: "Biopython 是一套免费可用的生物计算 Python 工具集。提供序列操作、文件读写、数据库访问、结构生物信息学、系统发生学以及许多其他生物信息学任务所需的功能。 | Biopython is a comprehensive set of freely available Python tools for biological computation. It provides functionality for sequence manipulation, file I/O, database access, structural bioinformatics, phylogenetics, and many other bioinformatics tasks."
 license: Unknown
 metadata:
     skill-author: K-Dense Inc.

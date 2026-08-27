@@ -1,6 +1,6 @@
 ---
 name: brutalism
-description: Web and App implementation guide for Brutalism. Trigger when user wants a raw appearance, intentionally unfinished look, and rejection of standard design conventions.
+description: Brutalism 的 Web 与 App 实现指南。当用户需要粗粝外观、刻意未完成的观感以及对标准设计惯例的反叛时触发。 | Web and App implementation guide for Brutalism. Trigger when user wants a raw appearance, intentionally unfinished look, and rejection of standard design conventions.
 date_added: "2026-06-17"
 risk: safe
 source: self

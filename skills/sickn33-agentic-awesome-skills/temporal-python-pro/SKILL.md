@@ -1,6 +1,6 @@
 ---
 name: temporal-python-pro
-description: Master Temporal workflow orchestration with Python SDK. Implements durable workflows, saga patterns, and distributed transactions. Covers async/await, testing strategies, and production deployment.
+description: 掌握基于 Python SDK 的 Temporal 工作流编排。实现持久化工作流、saga 模式与分布式事务。涵盖 async/await、测试策略与生产部署。 | Master Temporal workflow orchestration with Python SDK. Implements durable workflows, saga patterns, and distributed transactions. Covers async/await, testing strategies, and production deployment.
 risk: unknown
 source: community
 date_added: '2026-02-27'

@@ -1,6 +1,6 @@
 ---
 name: "board-deck-builder"
-description: "Assembles comprehensive board and investor update decks by pulling perspectives from all C-suite roles. Use when preparing board meetings, investor updates, quarterly business reviews, or fundraising narratives. Covers structure, narrative framework, bad news delivery, and common mistakes."
+description: "汇集所有 C-suite 角色的视角，组装完整的董事会与投资人更新演示文稿。在准备董事会会议、投资人更新、季度业务回顾或融资叙事时使用。涵盖结构、叙事框架、坏消息传达和常见错误。 | Assembles comprehensive board and investor update decks by pulling perspectives from all C-suite roles. Use when preparing board meetings, investor updates, quarterly business reviews, or fundraising narratives. Covers structure, narrative framework, bad news delivery, and common mistakes."
 license: MIT
 metadata:
   version: 1.0.0

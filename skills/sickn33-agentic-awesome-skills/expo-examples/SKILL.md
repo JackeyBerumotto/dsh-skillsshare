@@ -1,6 +1,6 @@
 ---
 name: expo-examples
-description: Expo's official example projects — the expo/examples repo of ~70 `with-*` integrations (Stripe, Clerk, Supabase, OpenAI, maps, Reanimated, SQLite, Skia, NativeWind, and more). Use when integrating a third-party library or service into an existing Expo app and you want the canonical,...
+description: Expo 官方示例项目——expo/examples 仓库收录约 70 个 `with-*` 集成示例（Stripe、Clerk、Supabase、OpenAI、地图、Reanimated、SQLite、Skia、NativeWind 等）。在向现有 Expo 应用集成第三方库或服务并想要权威的……时使用。 | Expo's official example projects — the expo/examples repo of ~70 `with-*` integrations (Stripe, Clerk, Supabase, OpenAI, maps, Reanimated, SQLite, Skia, NativeWind, and more). Use when integrating a third-party library or service into an existing Expo app and you want the canonical,...
 risk: unknown
 source: https://github.com/expo/skills/tree/main/plugins/expo/skills/expo-examples
 source_repo: expo/skills

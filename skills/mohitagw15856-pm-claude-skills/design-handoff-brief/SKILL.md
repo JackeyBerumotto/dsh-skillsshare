@@ -1,6 +1,6 @@
 ---
 name: design-handoff-brief
-description: "Transform feature briefs into structured design briefs that give designers the context they need before opening Figma. Use when asked to write a design brief, create a design handoff, brief a designer on a new feature, or translate a PRD into design requirements. Produces a brief with user goal, emotional context, success criteria, constraints, edge cases, and out-of-scope boundaries."
+description: "将功能简报转化为结构化的设计简报，让设计师在打开 Figma 之前获得所需背景。当被要求撰写设计简报、创建设计交接、就新功能向设计师做简报，或将 PRD 转换为设计需求时使用。产出的简报包含用户目标、情感背景、成功标准、约束条件、边界情况以及范围外边界。 | Transform feature briefs into structured design briefs that give designers the context they need before opening Figma. Use when asked to write a design brief, create a design handoff, brief a designer on a new feature, or translate a PRD into design requirements. Produces a brief with user goal, emotional context, success criteria, constraints, edge cases, and out-of-scope boundaries."
 ---
 
 # Design Handoff Brief Skill

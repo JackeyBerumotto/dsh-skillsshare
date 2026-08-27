@@ -1,6 +1,6 @@
 ---
 name: red-team-tactics
-description: "Red team tactics principles based on MITRE ATT&CK. Attack phases, detection evasion, reporting."
+description: "基于 MITRE ATT&CK 的红队战术原则。攻击阶段、检测规避、报告。 | Red team tactics principles based on MITRE ATT&CK. Attack phases, detection evasion, reporting."
 risk: offensive
 source: community
 date_added: "2026-02-27"

@@ -1,6 +1,6 @@
 ---
 name: trello-automation
-description: "Automate Trello boards, cards, and workflows via Rube MCP (Composio). Create cards, manage lists, assign members, and search across boards programmatically."
+description: "通过 Rube MCP（Composio）自动化 Trello 看板、卡片和工作流。以编程方式创建卡片、管理列表、分配成员并跨看板搜索。 | Automate Trello boards, cards, and workflows via Rube MCP (Composio). Create cards, manage lists, assign members, and search across boards programmatically."
 risk: critical
 source: community
 date_added: "2026-02-27"

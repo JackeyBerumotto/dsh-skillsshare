@@ -1,9 +1,6 @@
 ---
 name: langfuse
-description: Expert in Langfuse - the open-source LLM observability platform.
-  Covers tracing, prompt management, evaluation, datasets, and integration with
-  LangChain, LlamaIndex, and OpenAI. Essential for debugging, monitoring, and
-  improving LLM applications in production.
+description: "精通 Langfuse——开源的 LLM 可观测性平台。涵盖链路追踪、提示管理、评估、数据集以及与 LangChain、LlamaIndex 和 OpenAI 的集成。对于在生产环境中调试、监控和改进 LLM 应用至关重要。 | Expert in Langfuse - the open-source LLM observability platform. Covers tracing, prompt management, evaluation, datasets, and integration with LangChain, LlamaIndex, and OpenAI. Essential for debugging, monitoring, and improving LLM applications in production."
 risk: unknown
 source: vibeship-spawner-skills (Apache 2.0)
 date_added: 2026-02-27

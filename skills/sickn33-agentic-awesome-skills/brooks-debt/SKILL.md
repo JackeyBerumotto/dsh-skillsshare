@@ -1,6 +1,6 @@
 ---
 name: brooks-debt
-description: 'Tech debt assessment that identifies, classifies, and prioritizes maintainability problems — helping teams build a refactoring roadmap — drawing on twelve classic engineering books. Triggers when: user asks about tech debt, refactoring priorities, what to clean up first, or asks "why...'
+description: '技术债评估：识别、分类并按优先级排序可维护性问题——帮助团队制定重构路线图——依据来自十二本经典工程著作。触发时机：用户询问技术债、重构优先级、先清理什么，或问「为什么……」时。 | Tech debt assessment that identifies, classifies, and prioritizes maintainability problems — helping teams build a refactoring roadmap — drawing on twelve classic engineering books. Triggers when: user asks about tech debt, refactoring priorities, what to clean up first, or asks "why...'
 risk: unknown
 source: https://github.com/hyhmrright/brooks-lint/tree/main/skills/brooks-debt
 source_repo: hyhmrright/brooks-lint

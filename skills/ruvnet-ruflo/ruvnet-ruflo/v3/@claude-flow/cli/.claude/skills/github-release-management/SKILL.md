@@ -1,7 +1,7 @@
 ---
 name: github-release-management
 description: |
-  Comprehensive GitHub release orchestration with AI swarm coordination for automated versioning, testing, deployment, and rollback management
+  全面的 GitHub 发布编排，借助 AI 集群协作实现自动化版本管理、测试、部署和回滚管理。 |
 ---
 
 # GitHub Release Management Skill

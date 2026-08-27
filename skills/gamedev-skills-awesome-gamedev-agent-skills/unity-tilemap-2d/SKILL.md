@@ -1,7 +1,7 @@
 ---
 name: unity-tilemap-2d
 description: >
-  Build and script 2D tilemaps in Unity 6: the Grid + Tilemap components, the Tile Palette,
+  在 Unity 6 中构建并编写 2D 瓦片地图：Grid 与 Tilemap 组件、Tile Palette、瓦片地图碰撞体、规则瓦片，以及运行时的 SetTile 与 GetTile 绘制。当绘制瓦片关卡、添加 TilemapCollider2D、使用规则瓦片或动画瓦片、从代码生成瓦片地图时，或当用户提到 Unity 瓦片地图、Tile Palette、规则瓦片或 Grid 时使用。 |
   tilemap colliders, rule tiles, and runtime SetTile/GetTile painting. Use when painting tile
   levels, adding a TilemapCollider2D, using rule or animated tiles, generating tilemaps from
   code, or when the user mentions Unity tilemap, tile palette, rule tile, or Grid.

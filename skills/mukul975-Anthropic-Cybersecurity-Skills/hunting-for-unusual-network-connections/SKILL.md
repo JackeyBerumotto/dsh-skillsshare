@@ -1,8 +1,6 @@
 ---
 name: hunting-for-unusual-network-connections
-description: Hunt for unusual network connections by analyzing outbound traffic patterns,
-  rare destinations, non-standard ports, and anomalous connection frequencies from
-  endpoints.
+description: "通过分析出站流量模式、罕见目标、非标准端口以及来自终端的异常连接频率，狩猎异常网络连接。 | Hunt for unusual network connections by analyzing outbound traffic patterns, rare destinations, non-standard ports, and anomalous connection frequencies from endpoints."
 domain: cybersecurity
 subdomain: threat-hunting
 tags:

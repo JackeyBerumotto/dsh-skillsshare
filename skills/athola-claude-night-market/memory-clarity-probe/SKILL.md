@@ -1,7 +1,7 @@
 ---
 name: memory-clarity-probe
 description: >
-  Probe memory/summary clarity via dual anchor questions: task progress,
+  通过双锚点问题探测记忆/摘要的清晰度：任务进展、信息缺口。在交接或压缩前验证会话状态或摘要时使用。 |
   info gaps. Use when verifying session state or summary before handoff
   or compression.
 alwaysApply: false

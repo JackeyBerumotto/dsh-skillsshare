@@ -1,8 +1,6 @@
 ---
 name: implementing-mimecast-targeted-attack-protection
-description: Deploy Mimecast Targeted Threat Protection including URL Protect, Attachment
-  Protect, Impersonation Protect, and Internal Email Protect to defend against advanced
-  phishing and spearphishing attacks.
+description: "部署 Mimecast Targeted Threat Protection，包括 URL Protect、Attachment Protect、Impersonation Protect 和 Internal Email Protect，防御高级钓鱼和鱼叉式钓鱼攻击。 | Deploy Mimecast Targeted Threat Protection including URL Protect, Attachment Protect, Impersonation Protect, and Internal Email Protect to defend against advanced phishing and spearphishing attacks."
 domain: cybersecurity
 subdomain: phishing-defense
 tags:

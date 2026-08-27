@@ -1,6 +1,6 @@
 ---
 name: property-offer-letter
-description: "Write a buyer's offer cover letter to a seller to strengthen a real-estate bid. Use when asked to write a real-estate offer letter, a buyer's 'love letter' to a seller, an offer cover note, or to make a home offer stand out. Produces a warm, genuine letter — who the buyers are, why they love the home, the strength of their offer, and a respectful close — while avoiding fair-housing risk. Not the legal offer/contract; not legal advice."
+description: "撰写给卖家的买方出价附信，增强房产报价竞争力。在被要求撰写房产出价信、买方给卖家的「情书」、出价附言，或想让购房报价脱颖而出时使用。产出一封温暖真诚的信——买家是谁、为何喜欢这栋房子、出价的优势，以及尊重的收尾——同时规避公平住房风险。不构成法律要约/合同，也不构成法律建议。 | Write a buyer's offer cover letter to a seller to strengthen a real-estate bid. Use when asked to write a real-estate offer letter, a buyer's 'love letter' to a seller, an offer cover note, or to make a home offer stand out. Produces a warm, genuine letter — who the buyers are, why they love the home, the strength of their offer, and a respectful close — while avoiding fair-housing risk. Not the legal offer/contract; not legal advice."
 ---
 
 # Property Offer Letter Skill

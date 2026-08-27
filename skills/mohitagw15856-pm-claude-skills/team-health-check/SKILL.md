@@ -1,6 +1,6 @@
 ---
 name: team-health-check
-description: "Runs a structured team health assessment across key dimensions. Use when asked to run a team health check, assess team morale, facilitate a retrospective on ways of working, or evaluate team dynamics. Produces a health assessment with RAG status per dimension, underlying signals, and prioritised improvement actions with named owners."
+description: "跨关键维度运行结构化的团队健康评估。当被要求做团队健康检查、评估团队士气、主持工作方式回顾或评估团队氛围时使用。产出一份健康评估，包含每个维度的 RAG 状态、底层信号，以及带负责人姓名的优先改进行动。 | Runs a structured team health assessment across key dimensions. Use when asked to run a team health check, assess team morale, facilitate a retrospective on ways of working, or evaluate team dynamics. Produces a health assessment with RAG status per dimension, underlying signals, and prioritised improvement actions with named owners."
 ---
 
 # Team Health Check Skill

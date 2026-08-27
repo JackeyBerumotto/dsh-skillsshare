@@ -1,6 +1,6 @@
 ---
 name: dependency-graph
-description: Generates a Mermaid dependency graph showing import relationships between modules. Use when analyzing coupling, finding circular deps, or planning refactors.
+description: 生成展示模块间导入关系的 Mermaid 依赖图。在分析耦合、查找循环依赖或规划重构时使用。 | Generates a Mermaid dependency graph showing import relationships between modules. Use when analyzing coupling, finding circular deps, or planning refactors.
 ---
 
 # Dependency Graph

@@ -1,6 +1,6 @@
 ---
 name: cost-conversation
-description: Per-conversation cost view — list every session in cost-tracking with started-at, message count, top model, and total cost
+description: 按会话的成本视图——列出 cost-tracking 中的每个会话，包含开始时间、消息数、主要模型和总成本 | Per-conversation cost view — list every session in cost-tracking with started-at, message count, top model, and total cost
 argument-hint: ""
 allowed-tools: Bash
 ---

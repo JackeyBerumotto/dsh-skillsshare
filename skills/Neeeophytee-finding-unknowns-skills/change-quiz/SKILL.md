@@ -1,6 +1,6 @@
 ---
 name: change-quiz
-description: After a working session, produce a report on what changed plus a quiz the user must pass before merging. Use when the user asks "what did we actually do," wants to review a large change, or invokes a quiz before merge.
+description: 在一次工作会话结束后，生成一份关于变更内容的报告，外加一份用户在合并前必须通过的测验。当用户问「我们到底做了什么」、想审查大型变更，或在合并前发起测验时使用。 | After a working session, produce a report on what changed plus a quiz the user must pass before merging. Use when the user asks "what did we actually do," wants to review a large change, or invokes a quiz before merge.
 ---
 
 # Change quiz

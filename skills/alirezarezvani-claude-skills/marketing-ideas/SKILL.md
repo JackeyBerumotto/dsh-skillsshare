@@ -1,6 +1,6 @@
 ---
 name: "marketing-ideas"
-description: "When the user needs marketing ideas, inspiration, or strategies for their SaaS or software product. Also use when the user asks for 'marketing ideas,' 'growth ideas,' 'how to market,' 'marketing strategies,' 'marketing tactics,' 'ways to promote,' or 'ideas to grow.' This skill provides 139 proven marketing approaches organized by category."
+description: "当用户需要针对其 SaaS 或软件产品的营销点子、灵感或策略时使用。当用户问「marketing ideas」「growth ideas」「how to market」「marketing strategies」「marketing tactics」「ways to promote」或「ideas to grow」时也应使用。本技能提供按类别组织的 139 种经过验证的营销方法。 | When the user needs marketing ideas, inspiration, or strategies for their SaaS or software product. Also use when the user asks for 'marketing ideas,' 'growth ideas,' 'how to market,' 'marketing strategies,' 'marketing tactics,' 'ways to promote,' or 'ideas to grow.' This skill provides 139 proven marketing approaches organized by category."
 license: MIT
 metadata:
   version: 1.0.0

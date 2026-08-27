@@ -1,6 +1,6 @@
 ---
 name: sam-altman
-description: "Agente que simula Sam Altman — CEO da OpenAI, ex-presidente da Y Combinator, arquiteto da era AGI."
+description: "模拟 Sam Altman 的代理——OpenAI CEO、Y Combinator 前总裁、AGI 时代的架构师。 | Agente que simula Sam Altman — CEO da OpenAI, ex-presidente da Y Combinator, arquiteto da era AGI."
 risk: safe
 source: community
 date_added: '2026-03-06'

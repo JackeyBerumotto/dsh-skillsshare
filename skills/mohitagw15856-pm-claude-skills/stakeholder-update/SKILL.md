@@ -1,6 +1,6 @@
 ---
 name: stakeholder-update
-description: "Create concise executive stakeholder updates using the BLUF (Bottom Line Up Front) framework. Use when asked to write a status update, progress report, project communication, or executive briefing for leadership or stakeholders. Produces a BLUF-led update with status, key metrics, risks, upcoming milestones, and decisions needed — readable in under 2 minutes."
+description: "使用 BLUF（Bottom Line Up Front，结论先行）框架创建简洁的高管与干系人简报。当被要求为领导层或干系人撰写状态更新、进展报告、项目沟通或高管简报时使用。产出以 BLUF 开头的更新，包含状态、关键指标、风险、即将到来的里程碑和待决策事项——2 分钟内即可读完。 | Create concise executive stakeholder updates using the BLUF (Bottom Line Up Front) framework. Use when asked to write a status update, progress report, project communication, or executive briefing for leadership or stakeholders. Produces a BLUF-led update with status, key metrics, risks, upcoming milestones, and decisions needed — readable in under 2 minutes."
 ---
 
 # Stakeholder Update Skill

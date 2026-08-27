@@ -1,6 +1,6 @@
 ---
 name: hiring-rubric
-description: "Generate a structured interview scorecard and interview guide for any role. Use when asked to create a hiring rubric, interview scorecard, structured interview guide, or assessment criteria for a job. Produces a scorecard with competencies, behavioural questions, and scoring guidance."
+description: "为任何岗位生成结构化面试评分表与面试指南。当被要求创建招聘评分标准、面试评分表、结构化面试指南或岗位评估标准时使用。产出含胜任力、行为面试问题与评分指导的评分表。 | Generate a structured interview scorecard and interview guide for any role. Use when asked to create a hiring rubric, interview scorecard, structured interview guide, or assessment criteria for a job. Produces a scorecard with competencies, behavioural questions, and scoring guidance."
 ---
 
 # Hiring Rubric Skill

@@ -1,6 +1,6 @@
 ---
 name: shared-tooling-changesets
-description: Versioning and changelog management with @changesets/cli — adding changesets, version bumping, changelog generation, monorepo publishing, pre-release modes, and CI automation
+description: 使用 @changesets/cli 进行版本与变更日志管理——添加变更集、提升版本号、生成变更日志、monorepo 发布、预发布模式和 CI 自动化。 | Versioning and changelog management with @changesets/cli — adding changesets, version bumping, changelog generation, monorepo publishing, pre-release modes, and CI automation
 ---
 
 # Changesets

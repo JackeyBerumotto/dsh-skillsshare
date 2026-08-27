@@ -1,7 +1,7 @@
 ---
 name: code-formatter
 description: |
-  Automatically formats and validates code files using Prettier and other formatting tools.
+  使用 Prettier 及其他格式化工具自动格式化并校验代码文件。当用户提到「format my code」「fix formatting」「apply code style」「check formatting」「make code consistent」或「clean up code formatting」时使用。支持 JavaScript、TypeScript、JSON、CSS、Markdown 及多种其他文件类型。 |
   Use when users mention "format my code", "fix formatting", "apply code style",
   "check formatting", "make code consistent", or "clean up code formatting".
   Handles JavaScript, TypeScript, JSON, CSS, Markdown, and many other file types.

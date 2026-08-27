@@ -1,7 +1,7 @@
 ---
 name: unreal-cpp-gameplay
 description: >
-  Write Unreal Engine 5 C++ gameplay code: the UCLASS/UPROPERTY/UFUNCTION reflection macros,
+  编写 Unreal Engine 5 C++ 玩法代码：UCLASS/UPROPERTY/UFUNCTION 反射宏、Gameplay Framework（GameMode、Pawn、Character、PlayerController、Actor 组件）以及模块 Build.cs。在编写或调试 UE C++、从 AActor/ACharacter/AGameModeBase 派生、向编辑器或蓝图暴露属性时使用，或在用户提到 Unreal C++、UCLASS、GENERATED_BODY、GameMode、ACharacter 或 .Build.cs 时使用。 |
   the Gameplay Framework (GameMode, Pawn, Character, PlayerController, Actor components), and
   the module Build.cs. Use when writing or debugging UE C++, deriving from AActor/ACharacter/
   AGameModeBase, exposing properties to the editor or Blueprints, or when the user mentions

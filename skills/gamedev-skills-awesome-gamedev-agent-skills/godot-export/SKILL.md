@@ -1,7 +1,7 @@
 ---
 name: godot-export
 description: >
-  Export and build a Godot 4.x project for distribution: install export templates,
+  导出并构建 Godot 4.x 项目以供分发：安装导出模板、定义导出预设（Windows/macOS/Linux/Web/Android）、运行无头命令行导出以接入 CI，并处理 Web（HTML5）的 COOP/COEP 与专用服务器/无头构建。在导出 Godot 游戏、配置 export_presets.cfg、面向 Web/桌面/移动端构建或从命令行自动化构建时使用。 |
   define export presets (Windows/macOS/Linux/Web/Android), run headless command-line
   exports for CI, and handle web (HTML5) COOP/COEP and dedicated-server/headless
   builds. Use when exporting a Godot game, configuring export_presets.cfg, building

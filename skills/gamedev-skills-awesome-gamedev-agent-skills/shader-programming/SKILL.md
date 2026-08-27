@@ -1,7 +1,7 @@
 ---
 name: shader-programming
 description: >
-  Write game shaders from cross-engine fundamentals — the vertex→fragment
+  从跨引擎通用原理编写游戏着色器——vertex→fragment 流水线、坐标空间、UV 数学，以及 GLSL 中的常见 2D/3D 效果（着色、UV 滚动、溶解、描边、菲涅尔边缘光、暗角）并附 HLSL 等价写法。在用户提到着色器、fragment/pixel shader、vertex shader、UV、GLSL、HLSL，或溶解、描边、边缘光等效果时使用。 |
   pipeline, coordinate spaces, UV math, and common 2D/3D effects (tint, UV
   scroll, dissolve, outline, fresnel rim, vignette) in GLSL with HLSL
   equivalents. Use when the user mentions shaders, fragment/pixel shader, vertex

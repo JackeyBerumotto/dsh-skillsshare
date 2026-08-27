@@ -1,6 +1,6 @@
 ---
 name: postgresql-cli
-description: PostgreSQL interactive terminal (psql) reference and usage guide. Use this skill whenever the user mentions psql, PostgreSQL command-line client, backslash commands, meta-commands, \d commands, database inspection, SQL scripting in PostgreSQL, importing/exporting data with psql, \copy,...
+description: PostgreSQL 交互式终端（psql）参考与使用指南。只要用户提到 psql、PostgreSQL 命令行客户端、反斜杠命令、元命令、d 系列命令、数据库检查、PostgreSQL 中的 SQL 脚本编写、用 psql 导入导出数据、copy 元命令等，就使用此技能…… | PostgreSQL interactive terminal (psql) reference and usage guide. Use this skill whenever the user mentions psql, PostgreSQL command-line client, backslash commands, meta-commands, \d commands, database inspection, SQL scripting in PostgreSQL, importing/exporting data with psql, \copy,...
 risk: unknown
 source: https://github.com/chaunsin/agent-skills/tree/master/skills/postgresql-cli
 source_repo: chaunsin/agent-skills

@@ -1,6 +1,6 @@
 ---
 name: neon
-description: Electric neon glow effects with high-contrast color pairings for bold, attention-grabbing interfaces.
+description: 以高对比度配色呈现的电光霓虹发光效果，适用于大胆、抓人眼球的界面。 | Electric neon glow effects with high-contrast color pairings for bold, attention-grabbing interfaces.
 license: MIT
 metadata:
   author: typeui.sh

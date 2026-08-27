@@ -1,6 +1,6 @@
 ---
 name: ai-infrastructure-ollama
-description: Local LLM inference with the Ollama JavaScript client -- chat, streaming, tool calling, vision, embeddings, structured output, model management, and OpenAI-compatible endpoint
+description: 使用 Ollama JavaScript 客户端进行本地 LLM 推理——聊天、流式输出、工具调用、视觉、嵌入、结构化输出、模型管理与 OpenAI 兼容端点。 | Local LLM inference with the Ollama JavaScript client -- chat, streaming, tool calling, vision, embeddings, structured output, model management, and OpenAI-compatible endpoint
 ---
 
 # Ollama Patterns

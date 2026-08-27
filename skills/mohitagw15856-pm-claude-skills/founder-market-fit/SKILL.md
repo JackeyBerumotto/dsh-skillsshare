@@ -1,6 +1,6 @@
 ---
 name: founder-market-fit
-description: "Articulate founder-market fit — the why-you and why-now story investors and accelerators (YC-style) probe hardest. Use when asked to write the founder story, answer 'why are you the right team', draft YC / accelerator application answers, or explain founder-market fit. Produces a sharp narrative connecting the founder's unfair insight and earned secrets to this specific opportunity — concrete, not a humble-brag."
+description: "阐述创始人-市场契合度——投资人和加速器（YC 风格）盘问最狠的「为什么是你」「为什么是现在」的故事。当被要求撰写创始人故事、回答「为什么你们是合适的团队」、起草 YC／加速器申请答案，或解释创始人-市场契合度时使用。产出一条犀利的叙事，把创始人的独特洞察与亲身积累的秘密连接到这个具体机会上——具体扎实，而非以自谦包装的自夸。 | Articulate founder-market fit — the why-you and why-now story investors and accelerators (YC-style) probe hardest. Use when asked to write the founder story, answer 'why are you the right team', draft YC / accelerator application answers, or explain founder-market fit. Produces a sharp narrative connecting the founder's unfair insight and earned secrets to this specific opportunity — concrete, not a humble-brag."
 ---
 
 # Founder-Market Fit Skill

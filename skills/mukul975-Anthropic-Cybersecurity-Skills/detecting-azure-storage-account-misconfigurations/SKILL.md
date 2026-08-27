@@ -1,8 +1,6 @@
 ---
 name: detecting-azure-storage-account-misconfigurations
-description: Audit Azure Blob and ADLS storage accounts for public access exposure,
-  weak or long-lived SAS tokens, missing encryption at rest, disabled HTTPS-only traffic,
-  and outdated TLS versions using the azure-mgmt-storage Python SDK.
+description: "使用 azure-mgmt-storage Python SDK 审计 Azure Blob 和 ADLS 存储账户的公开访问暴露、弱权限或长效 SAS 令牌、缺少静态加密、未启用仅 HTTPS 流量以及过时的 TLS 版本。 | Audit Azure Blob and ADLS storage accounts for public access exposure, weak or long-lived SAS tokens, missing encryption at rest, disabled HTTPS-only traffic, and outdated TLS versions using the azure-mgmt-storage Python SDK."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

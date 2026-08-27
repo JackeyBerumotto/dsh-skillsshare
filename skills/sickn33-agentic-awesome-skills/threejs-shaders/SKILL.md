@@ -1,6 +1,6 @@
 ---
 name: threejs-shaders
-description: Three.js shaders - GLSL, ShaderMaterial, uniforms, custom effects. Use when creating custom visual effects, modifying vertices, writing fragment shaders, or extending built-in materials.
+description: Three.js 着色器——GLSL、ShaderMaterial、uniforms、自定义效果。用于创建自定义视觉效果、修改顶点、编写片元着色器或扩展内置材质。 | Three.js shaders - GLSL, ShaderMaterial, uniforms, custom effects. Use when creating custom visual effects, modifying vertices, writing fragment shaders, or extending built-in materials.
 risk: unknown
 source: community
 ---

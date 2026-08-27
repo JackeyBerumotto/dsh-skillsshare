@@ -1,6 +1,6 @@
 ---
 name: mission-orchestrator
-description: Orchestrates full project lifecycle by auto-detecting state and routing to the correct phase. Use when starting or resuming a project mid-workflow.
+description: 通过自动检测状态并路由到正确的阶段来编排完整的项目生命周期。在启动项目或在流程中途恢复项目时使用。 | Orchestrates full project lifecycle by auto-detecting state and routing to the correct phase. Use when starting or resuming a project mid-workflow.
 alwaysApply: false
 category: workflow-orchestration
 tags:

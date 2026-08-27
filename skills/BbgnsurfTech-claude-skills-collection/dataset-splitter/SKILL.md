@@ -1,7 +1,6 @@
 ---
 name: splitting-datasets
-description: Split datasets into training, validation, and testing sets for ML model
-  development. Use when requesting "split dataset", "train-test split", or "data partitioning".
+description: "将数据集划分为训练集、验证集与测试集，用于机器学习模型开发。当请求「split dataset」「train-test split」或「data partitioning」时使用。 | Split datasets into training, validation, and testing sets for ML model development. Use when requesting \"split dataset\", \"train-test split\", or \"data partitioning\"."
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash
 license: MIT
 ---

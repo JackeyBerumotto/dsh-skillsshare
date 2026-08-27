@@ -1,6 +1,6 @@
 ---
 name: generating-and-analyzing-sboms
-description: Produce and ingest CycloneDX and SPDX SBOMs and correlate them to vulnerability intelligence.
+description: 生成并摄取 CycloneDX 和 SPDX SBOM，并将其与漏洞情报关联。 | Produce and ingest CycloneDX and SPDX SBOMs and correlate them to vulnerability intelligence.
 domain: cybersecurity
 subdomain: supply-chain-security
 tags:

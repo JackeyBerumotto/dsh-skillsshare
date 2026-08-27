@@ -1,7 +1,7 @@
 ---
 name: scanning-database-security
 description: |
-  Use when you need to work with security and compliance.
+  当你需要处理安全与合规时使用。此技能提供安全扫描和漏洞检测及全面的指导和自动化。触发词如「scan for vulnerabilities」「implement security controls」或「audit security」。 |
   This skill provides security scanning and vulnerability detection with comprehensive guidance and automation.
   Trigger with phrases like "scan for vulnerabilities", "implement security controls",
   or "audit security".

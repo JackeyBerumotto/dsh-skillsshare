@@ -1,6 +1,6 @@
 ---
 name: dependency-conflict-resolver
-description: "Resolve a dependency or version conflict (npm, pip, yarn, pnpm, Maven, Go modules) step by step. Use when an install fails with peer-dependency or version-conflict errors, packages won't co-exist, or a lockfile is fighting you. Produces the conflict explained, the resolution options ranked by safety, exact commands, and how to keep it from recurring."
+description: "逐步解决依赖或版本冲突（npm、pip、yarn、pnpm、Maven、Go modules）。当安装因 peer-dependency 或版本冲突报错、多个包无法共存，或锁文件与你作对时使用。产出冲突解释、按安全性排序的解决方案、确切命令，以及防止问题复发的办法。 | Resolve a dependency or version conflict (npm, pip, yarn, pnpm, Maven, Go modules) step by step. Use when an install fails with peer-dependency or version-conflict errors, packages won't co-exist, or a lockfile is fighting you. Produces the conflict explained, the resolution options ranked by safety, exact commands, and how to keep it from recurring."
 ---
 
 # Dependency Conflict Resolver Skill

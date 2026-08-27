@@ -1,6 +1,6 @@
 ---
 name: property-listing
-description: "Write a compelling, accurate real-estate listing description. Use when asked to write a property listing, an MLS/Zillow description, a real-estate listing, or to make a property description more appealing. Produces a listing — a hook headline, a flowing description that sells the lifestyle and key features, a highlights list, and neighbourhood notes — accurate and Fair-Housing-compliant. Not legal advice."
+description: "撰写有吸引力且准确的房产挂牌描述。在被要求编写房产挂牌文案、MLS/Zillow 描述、房产信息，或让房产描述更有吸引力时使用。产出挂牌文案——吸引人的标题、出售生活方式与关键卖点的流畅描述、亮点清单和社区说明——准确并符合公平住房规范。不构成法律建议。 | Write a compelling, accurate real-estate listing description. Use when asked to write a property listing, an MLS/Zillow description, a real-estate listing, or to make a property description more appealing. Produces a listing — a hook headline, a flowing description that sells the lifestyle and key features, a highlights list, and neighbourhood notes — accurate and Fair-Housing-compliant. Not legal advice."
 ---
 
 # Property Listing Skill

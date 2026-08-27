@@ -1,6 +1,6 @@
 ---
 name: product-inventor
-description: "Product Inventor e Design Alchemist de nivel maximo — combina Product Thinking, Design Systems, UI Engineering, Psicologia Cognitiva, Storytelling e execucao impecavel nivel Jobs/Apple."
+description: "最高水准的产品发明家与设计炼金术士——融合产品思维、设计系统、UI 工程、认知心理学、故事叙述，以及 Jobs/Apple 级别的完美执行。 | Product Inventor e Design Alchemist de nivel maximo — combina Product Thinking, Design Systems, UI Engineering, Psicologia Cognitiva, Storytelling e execucao impecavel nivel Jobs/Apple."
 risk: none
 source: community
 date_added: '2026-03-06'

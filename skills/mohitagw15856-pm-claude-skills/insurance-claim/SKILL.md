@@ -1,6 +1,6 @@
 ---
 name: insurance-claim
-description: "Write a clear insurance claim letter or appeal that supports a payout. Use when asked to write an insurance claim, file a claim letter, document a loss for insurance, or appeal a denied claim. Produces a structured claim — policy and incident details, the documented loss, the amount claimed, and the evidence — or an appeal that rebuts the denial reason, ready to submit."
+description: "撰写清晰的保险理赔信或申诉信，支持获得赔付。在被要求撰写保险理赔、提交理赔信、为保险记录损失，或对拒赔提出申诉时使用。产出结构化的理赔——保单与事故详情、有据可查的损失、索赔金额及证据——或一封反驳拒赔理由、可直接提交的申诉信。 | Write a clear insurance claim letter or appeal that supports a payout. Use when asked to write an insurance claim, file a claim letter, document a loss for insurance, or appeal a denied claim. Produces a structured claim — policy and incident details, the documented loss, the amount claimed, and the evidence — or an appeal that rebuts the denial reason, ready to submit."
 ---
 
 # Insurance Claim Skill

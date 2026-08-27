@@ -1,7 +1,7 @@
 ---
 name: bids
 description: >
-  Use this skill when working with Brain Imaging Data Structure (BIDS) datasets:
+  在处理脑成像数据结构（BIDS）数据集时使用此技能：组织神经科学与生物医学数据（MRI、EEG、MEG、iEEG、PET、显微成像、NIRS、动作捕捉、EMG、MR 波谱、行为学数据），查询 BIDS 布局，验证合规性，将 DICOM 转换为 BIDS，编写元数据伴随文件，或创建 BIDS 派生数据集。 |
   organizing neuroscience and biomedical data (MRI, EEG, MEG, iEEG, PET, microscopy,
   NIRS, motion capture, EMG, MR spectroscopy, behavioral), querying BIDS layouts,
   validating compliance, converting DICOM to BIDS, writing metadata sidecars, or

@@ -1,6 +1,6 @@
 ---
 name: desktop-packaging-tauri
-description: Tauri 2.x bundling, code signing, auto-updater, platform installers, CI/CD
+description: Tauri 2.x 打包、代码签名、自动更新器、平台安装包、CI/CD | Tauri 2.x bundling, code signing, auto-updater, platform installers, CI/CD
 ---
 
 # Tauri 2.x Bundling & Distribution

@@ -1,6 +1,6 @@
 ---
 name: "api-test-suite-builder"
-description: "Use when the user asks to generate API tests, create integration test suites, test REST endpoints, or build contract tests."
+description: "当用户要求生成 API 测试、创建集成测试套件、测试 REST 端点或构建契约测试时使用。 | Use when the user asks to generate API tests, create integration test suites, test REST endpoints, or build contract tests."
 ---
 
 # API Test Suite Builder

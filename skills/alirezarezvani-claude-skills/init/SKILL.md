@@ -1,7 +1,7 @@
 ---
 name: "init"
 description: >-
-  Set up Playwright in a project. Use when user says "set up playwright",
+  在项目中搭建 Playwright。当用户说「set up playwright」「add e2e tests」「configure playwright」「testing setup」「init playwright」或「add test infrastructure」时使用。 |
   "add e2e tests", "configure playwright", "testing setup", "init playwright",
   or "add test infrastructure".
 ---

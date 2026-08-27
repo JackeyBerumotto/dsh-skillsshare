@@ -1,6 +1,6 @@
 ---
 name: claude-superpowers
-description: "Activate a 4-stage coding discipline framework that forces Claude to plan before coding, isolate changes on a branch, write tests first, and self-review output twice before presenting it. Use when starting a complex coding task, when past Claude sessions produced broken first drafts, or when you want to prevent rework cycles. Produces a confirmed written plan, isolated feature branch, test-first implementation, and a double-reviewed output with a correctness and code-quality checklist."
+description: "激活一套四阶段编码纪律框架，强制 Claude 先规划再编码、在分支上隔离变更、测试先行，并在展示成果前自我审查两遍。适用于开始复杂编码任务时、以往 Claude 会话产出破损初稿时，或想避免返工循环时。产出一经确认的书面计划、隔离的功能分支、测试先行的实现，以及带正确性与代码质量检查清单的双重审查成果。 | Activate a 4-stage coding discipline framework that forces Claude to plan before coding, isolate changes on a branch, write tests first, and self-review output twice before presenting it. Use when starting a complex coding task, when past Claude sessions produced broken first drafts, or when you want to prevent rework cycles. Produces a confirmed written plan, isolated feature branch, test-first implementation, and a double-reviewed output with a correctness and code-quality checklist."
 ---
 
 # Claude Superpowers Skill

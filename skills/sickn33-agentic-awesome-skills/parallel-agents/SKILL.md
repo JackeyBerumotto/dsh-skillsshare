@@ -1,6 +1,6 @@
 ---
 name: parallel-agents
-description: "Multi-agent orchestration patterns. Use when multiple independent tasks can run with different domain expertise or when comprehensive analysis requires multiple perspectives."
+description: "多智能体编排模式。当多个独立任务可以借助不同领域专长运行，或全面分析需要多重视角时使用。 | Multi-agent orchestration patterns. Use when multiple independent tasks can run with different domain expertise or when comprehensive analysis requires multiple perspectives."
 risk: unknown
 source: community
 date_added: "2026-02-27"

@@ -1,6 +1,6 @@
 ---
 name: war-room
-description: Convenes a multi-LLM expert panel to pressure-test hard-to-reverse decisions. Use when reversibility score is low and adversarial review is warranted.
+description: 召集多 LLM 专家小组，对难以逆转的决策进行压力测试。在可逆性评分较低且有必要进行对抗性审查时使用。 | Convenes a multi-LLM expert panel to pressure-test hard-to-reverse decisions. Use when reversibility score is low and adversarial review is warranted.
 alwaysApply: false
 # Custom metadata (not used by Claude for matching):
 model_preference: claude-opus-4-8

@@ -1,6 +1,6 @@
 ---
 name: service-registry
-description: Registers external services with health checks, central config, and unified execution. Use when integrating multiple external services needing coordination.
+description: 以健康检查、集中配置和统一执行的方式注册外部服务。在集成多个需要协调的外部服务时使用。 | Registers external services with health checks, central config, and unified execution. Use when integrating multiple external services needing coordination.
 alwaysApply: false
 category: infrastructure
 tags:

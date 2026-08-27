@@ -1,6 +1,6 @@
 ---
 name: devils-twin
-description: "The strongest possible case AGAINST what you just wrote — argued to win, not to check a box. Use when a document is about to ship and everyone around it already agrees: the twin writes the opposition's best memo (not a critique of yours), so you meet the real counter-argument before your audience does. Produces the opposing memo, the map of which of your claims it defeats/dents/leaves standing, and the pre-emption paragraph worth adding."
+description: "针对你刚写完内容的最强反驳——以说服取胜为目标，而非走形式。当一份文档即将发布且周围人已一致认同时使用：分身会替对方写出最有力的备忘录（而不是对你的批评），让你先于读者直面真正的反方论点。产出对方备忘录、你的哪些论断被其击败/削弱/仍然站得住的对照图，以及值得加入的先发制人段落。 | The strongest possible case AGAINST what you just wrote — argued to win, not to check a box. Use when a document is about to ship and everyone around it already agrees: the twin writes the opposition's best memo (not a critique of yours), so you meet the real counter-argument before your audience does. Produces the opposing memo, the map of which of your claims it defeats/dents/leaves standing, and the pre-emption paragraph worth adding."
 ---
 
 # Devil's Twin

@@ -1,6 +1,6 @@
 ---
 name: infographics
-description: "Create professional infographics using Nano Banana Pro AI with smart iterative refinement. Uses Gemini 3 Pro for quality review. Integrates research-lookup and web search for accurate data. Supports 10 infographic types, 8 industry styles, and colorblind-safe palettes."
+description: "使用 Nano Banana Pro AI 创建专业信息图，具备智能迭代优化。使用 Gemini 3 Pro 进行质量审查。集成 research-lookup 和网络搜索以确保数据准确。支持 10 种信息图类型、8 种行业风格以及色盲友好的配色方案。 | Create professional infographics using Nano Banana Pro AI with smart iterative refinement. Uses Gemini 3 Pro for quality review. Integrates research-lookup and web search for accurate data. Supports 10 infographic types, 8 industry styles, and colorblind-safe palettes."
 allowed-tools: Read Write Edit Bash
 required_environment_variables: [{"name": "OPENROUTER_API_KEY", "prompt": "OpenRouter API key for the skill's LLM-powered steps.", "required_for": "optional features"}]
 metadata: {"version": "1.1", "openclaw": {"primaryEnv": "OPENROUTER_API_KEY", "envVars": [{"name": "OPENROUTER_API_KEY", "required": false, "description": "OpenRouter API key for the skill's LLM-powered steps."}]}}

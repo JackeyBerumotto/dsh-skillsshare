@@ -1,9 +1,6 @@
 ---
 name: agent-memory-systems
-description: "Memory is the cornerstone of intelligent agents. Without it, every
-  interaction starts from zero. This skill covers the architecture of agent
-  memory: short-term (context window), long-term (vector stores), and the
-  cognitive architectures that organize them."
+description: "记忆是智能代理的基石。没有记忆，每次交互都从零开始。本技能涵盖代理记忆的架构：短期记忆（上下文窗口）、长期记忆（向量存储）以及组织它们的认知架构。 | Memory is the cornerstone of intelligent agents. Without it, every interaction starts from zero. This skill covers the architecture of agent memory: short-term (context window), long-term (vector stores), and the cognitive architectures that organize them."
 risk: safe
 source: vibeship-spawner-skills (Apache 2.0)
 date_added: 2026-02-27

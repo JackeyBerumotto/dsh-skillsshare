@@ -1,6 +1,6 @@
 ---
 name: pacsomatic
-description: Operator toolkit for nf-core/pacsomatic matched tumor-normal workflows from BAM inputs. Use this skill when the user needs to validate run inputs, generate pacsomatic-compliant samplesheets, prepare reproducible Nextflow launch artifacts, run locally or submit to schedulers (LSF/Slurm/PBS/SGE), and triage execution failures. Triggers on requests to run pacsomatic, prepare launch commands/scripts, perform dry-run checks, or troubleshoot pipeline startup and scheduler submission errors.
+description: 面向 nf-core/pacsomatic 配对肿瘤-正常工作流（从 BAM 输入开始）的操作工具集。当用户需要验证运行输入、生成符合 pacsomatic 规范的 samplesheet、准备可复现的 Nextflow 启动产物、本地运行或提交到调度器（LSF/Slurm/PBS/SGE）以及分诊执行失败时使用此技能。在请求运行 pacsomatic、准备启动命令/脚本、执行 dry-run 检查或排查流水线启动与调度器提交错误时触发。 | Operator toolkit for nf-core/pacsomatic matched tumor-normal workflows from BAM inputs. Use this skill when the user needs to validate run inputs, generate pacsomatic-compliant samplesheets, prepare reproducible Nextflow launch artifacts, run locally or submit to schedulers (LSF/Slurm/PBS/SGE), and triage execution failures. Triggers on requests to run pacsomatic, prepare launch commands/scripts, perform dry-run checks, or troubleshoot pipeline startup and scheduler submission errors.
 license: MIT
 metadata: {"version": "1.0", "skill-author": "Beifang Niu", "contributors": "Haidong, Wenchao", "upstream-pipeline": "https://github.com/nf-core/pacsomatic"}
 ---

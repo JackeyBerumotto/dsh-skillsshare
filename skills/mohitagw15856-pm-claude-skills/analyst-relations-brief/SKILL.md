@@ -1,6 +1,6 @@
 ---
 name: analyst-relations-brief
-description: "Prepare for an industry analyst briefing (Gartner, Forrester, IDC and similar). Use when asked to prep an analyst briefing, write an AR briefing document, build talking points for an analyst call, or prepare a Magic Quadrant / Wave submission narrative. Produces a briefing kit — objective, company/product narrative, differentiation, proof points, the demo storyline, anticipated questions, and follow-up commitments."
+description: "准备行业分析师简报（Gartner、Forrester、IDC 等）。当被要求准备分析师简报、撰写 AR 简报文档、为分析师通话准备谈话要点，或准备 Magic Quadrant/Wave 提交叙述时使用。产出一份简报工具包——目标、公司/产品叙事、差异化、证据点、演示故事线、预期问题以及后续承诺。 | Prepare for an industry analyst briefing (Gartner, Forrester, IDC and similar). Use when asked to prep an analyst briefing, write an AR briefing document, build talking points for an analyst call, or prepare a Magic Quadrant / Wave submission narrative. Produces a briefing kit — objective, company/product narrative, differentiation, proof points, the demo storyline, anticipated questions, and follow-up commitments."
 ---
 
 # Analyst Relations Brief Skill

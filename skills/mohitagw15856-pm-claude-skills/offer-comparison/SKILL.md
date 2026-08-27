@@ -1,6 +1,6 @@
 ---
 name: offer-comparison
-description: "Compare two or more job offers as total-comp curves over four years — vesting cliffs, bonuses, 401(k) match, and the crossover year computed, not vibed. Use when asked to compare job offers, which offer pays more over time, model my equity vesting, or is the startup offer actually worth it. Produces a year-by-year and cumulative comp table per offer, the crossover analysis, and negotiation levers ranked by dollar impact."
+description: "将两份或多份工作 offer 按四年总薪酬曲线进行比较——归属悬崖、奖金、401(k) 匹配和交叉年份都经过计算而非凭感觉。在被要求比较工作 offer、判断哪份 offer 长期收入更高、为我的股权归属建模或评估这家初创公司的 offer 到底值不值时使用。产出每份 offer 的逐年及累计薪酬表、交叉分析，以及按金额影响排序的谈判筹码。 | Compare two or more job offers as total-comp curves over four years — vesting cliffs, bonuses, 401(k) match, and the crossover year computed, not vibed. Use when asked to compare job offers, which offer pays more over time, model my equity vesting, or is the startup offer actually worth it. Produces a year-by-year and cumulative comp table per offer, the crossover analysis, and negotiation levers ranked by dollar impact."
 ---
 
 # Offer Comparison Skill

@@ -1,6 +1,6 @@
 ---
 name: mobile-design
-description: "(Mobile-First · Touch-First · Platform-Respectful)"
+description: "（移动优先 · 触控优先 · 尊重平台） | (Mobile-First · Touch-First · Platform-Respectful)"
 risk: unknown
 source: community
 date_added: "2026-02-27"

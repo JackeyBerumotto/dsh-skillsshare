@@ -1,6 +1,6 @@
 ---
 name: web-ui-shadcn-ui
-description: shadcn/ui component library patterns, CLI usage, theming, customization
+description: shadcn/ui 组件库模式、CLI 用法、主题设置与自定义。 | shadcn/ui component library patterns, CLI usage, theming, customization
 ---
 
 # shadcn/ui Component Patterns

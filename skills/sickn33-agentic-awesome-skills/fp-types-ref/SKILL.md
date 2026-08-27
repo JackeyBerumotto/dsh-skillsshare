@@ -1,6 +1,6 @@
 ---
 name: fp-types-ref
-description: Quick reference for fp-ts types. Use when user asks which type to use, needs Option/Either/Task decision help, or wants fp-ts imports.
+description: fp-ts 类型快速参考。当用户询问该用哪个类型、需要 Option/Either/Task 选择帮助，或需要 fp-ts 导入时使用。 | Quick reference for fp-ts types. Use when user asks which type to use, needs Option/Either/Task decision help, or wants fp-ts imports.
 risk: safe
 source: community
 version: 1.0.0

@@ -1,12 +1,6 @@
 ---
 name: securing-remote-access-to-ot-environment
-description: 'This skill covers implementing secure remote access to OT/ICS environments
-  for operators, engineers, and vendors while preventing unauthorized access that
-  could compromise industrial operations. It addresses jump server architecture, multi-factor
-  authentication, session recording, privileged access management, vendor remote access
-  controls, and compliance with IEC 62443 and NERC CIP-005 remote access requirements.
-
-  '
+description: "本技能涵盖为操作员、工程师与供应商实现对 OT/ICS 环境的安全远程访问，同时防止可能危害工业运营的未授权访问。内容涉及跳板服务器架构、多因素身份验证、会话录制、特权访问管理、供应商远程访问控制，以及符合 IEC 62443 与 NERC CIP-005 远程访问要求的合规性。 | This skill covers implementing secure remote access to OT/ICS environments for operators, engineers, and vendors while preventing unauthorized access that could compromise industrial operations. It addresses jump server architecture, multi-factor authentication, session recording, privileged access management, vendor remote access controls, and compliance with IEC 62443 and NERC CIP-005 remote access requirements."
 domain: cybersecurity
 subdomain: ot-ics-security
 tags:

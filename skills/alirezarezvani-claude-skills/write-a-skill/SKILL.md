@@ -1,6 +1,6 @@
 ---
 name: write-a-skill
-description: Create new agent skills with proper structure, progressive disclosure, and bundled resources. Use when user wants to create, write, build, or author a new skill.
+description: 创建新的智能体技能，具备规范的结构、渐进式披露和捆绑资源。当用户想要创建、编写、构建或撰写新技能时使用。 | Create new agent skills with proper structure, progressive disclosure, and bundled resources. Use when user wants to create, write, build, or author a new skill.
 license: MIT
 metadata:
   derived_from: "https://github.com/mattpocock/skills/tree/main/skills/productivity/write-a-skill"

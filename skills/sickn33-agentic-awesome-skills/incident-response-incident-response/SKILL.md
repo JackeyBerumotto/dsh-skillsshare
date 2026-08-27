@@ -1,6 +1,6 @@
 ---
 name: incident-response-incident-response
-description: "Use when working with incident response incident response"
+description: "在处理事件响应（incident response）相关工作时使用。 | Use when working with incident response incident response"
 risk: unknown
 source: community
 date_added: "2026-02-27"

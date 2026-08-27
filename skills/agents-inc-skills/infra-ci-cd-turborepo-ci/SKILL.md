@@ -1,6 +1,6 @@
 ---
 name: infra-ci-cd-turborepo-ci
-description: Turborepo CI pipelines with remote caching and affected detection
+description: 具备远程缓存和受影响检测的 Turborepo CI 流水线。 | Turborepo CI pipelines with remote caching and affected detection
 ---
 
 # Turborepo CI Patterns

@@ -1,6 +1,6 @@
 ---
 name: holographic-ui
-description: Web and App implementation guide for Holographic UI. Trigger when user wants light-based appearance, projected interfaces, and transparent floating elements.
+description: Holographic UI（全息界面）的 Web 与 App 实现指南。当用户需要基于光感的外观、投影式界面和透明悬浮元素时触发。 | Web and App implementation guide for Holographic UI. Trigger when user wants light-based appearance, projected interfaces, and transparent floating elements.
 date_added: "2026-06-17"
 risk: safe
 source: self

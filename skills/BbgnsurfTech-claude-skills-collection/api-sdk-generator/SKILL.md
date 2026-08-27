@@ -2,7 +2,7 @@
 name: generating-api-sdks
 version: 1.0.0
 description: |
-  Generate client SDKs in multiple languages from OpenAPI specifications.
+  根据 OpenAPI 规范生成多种语言的客户端 SDK。在生成用于调用 API 的客户端库时使用。触发短语如「generate SDK」、「create client library」或「build API SDK」。 |
   Use when generating client libraries for API consumption.
   Trigger with phrases like "generate SDK", "create client library", or "build API SDK".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(api:sdk-*)

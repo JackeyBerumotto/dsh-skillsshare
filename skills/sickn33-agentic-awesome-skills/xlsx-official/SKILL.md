@@ -1,6 +1,6 @@
 ---
 name: xlsx-official
-description: "Unless otherwise stated by the user or existing template"
+description: "除非用户或现有模板另有说明。 | Unless otherwise stated by the user or existing template"
 risk: unknown
 source: community
 date_added: "2026-02-27"

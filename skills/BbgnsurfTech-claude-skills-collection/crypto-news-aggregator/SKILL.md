@@ -2,7 +2,7 @@
 name: aggregating-crypto-news
 version: 1.0.0
 description: |
-  Aggregate breaking crypto news, announcements, and market-moving events in real-time.
+  实时聚合加密货币突发新闻、公告和市场波动事件。在需要随时掌握加密货币市场动态时使用。触发短语如「get crypto news」、「check latest announcements」或「scan for updates」。 |
   Use when staying updated on crypto market events.
   Trigger with phrases like "get crypto news", "check latest announcements", or "scan for updates".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(crypto:news-*)

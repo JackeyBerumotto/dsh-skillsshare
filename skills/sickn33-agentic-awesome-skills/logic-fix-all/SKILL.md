@@ -1,6 +1,6 @@
 ---
 name: logic-fix-all
-description: 'Autonomous repository-wide audit-and-fix pipeline: health → review → locate/explain → fix → diff-verify → iterate until clean. Starts with a mandatory consent prompt (token-intensive); after consent runs hands-free. Trigger when the user wants ALL logic issues found and fixed — "fix...'
+description: '自主的全仓库审计与修复流水线：健康检查 → 审查 → 定位与解释 → 修复 → diff 验证 → 迭代直至干净。以一个强制确认提示开始（token 消耗大）；确认后即可无人值守运行。当用户希望找出并修复所有逻辑问题时触发——「fix...」 | Autonomous repository-wide audit-and-fix pipeline: health → review → locate/explain → fix → diff-verify → iterate until clean. Starts with a mandatory consent prompt (token-intensive); after consent runs hands-free. Trigger when the user wants ALL logic issues found and fixed — "fix...'
 risk: unknown
 source: https://github.com/hyhmrright/logic-lens/tree/main/skills/logic-fix-all
 source_repo: hyhmrright/logic-lens

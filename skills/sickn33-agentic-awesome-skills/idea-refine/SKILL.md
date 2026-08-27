@@ -1,6 +1,6 @@
 ---
 name: idea-refine
-description: Refines raw ideas into sharp, actionable concepts through structured divergent and convergent thinking. Use when an idea is still vague, when you need to stress-test assumptions before committing to a plan, or when you want to expand options before converging on one. Triggers on...
+description: 通过结构化的发散与收敛思维，把粗略想法精炼为锋利、可执行的概念。当想法仍模糊、在敲定计划前需要压力测试假设，或想在收敛到单一方案前扩展选项时使用。触发条件…… | Refines raw ideas into sharp, actionable concepts through structured divergent and convergent thinking. Use when an idea is still vague, when you need to stress-test assumptions before committing to a plan, or when you want to expand options before converging on one. Triggers on...
 risk: unknown
 source: https://github.com/addyosmani/agent-skills/tree/main/skills/idea-refine
 source_repo: addyosmani/agent-skills

@@ -1,6 +1,6 @@
 ---
 name: web-state-zustand
-description: Zustand stores, client state patterns. Use when deciding between Zustand vs useState, managing global state, or avoiding Context misuse.
+description: Zustand 状态库与客户端状态模式。在 Zustand 与 useState 之间抉择、管理全局状态或避免误用 Context 时使用。 | Zustand stores, client state patterns. Use when deciding between Zustand vs useState, managing global state, or avoiding Context misuse.
 ---
 
 # Client State Management Patterns

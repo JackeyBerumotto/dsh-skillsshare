@@ -1,7 +1,6 @@
 ---
 name: building-detection-rule-with-splunk-spl
-description: Build effective detection rules using Splunk Search Processing Language
-  (SPL) correlation searches to identify security threats in SOC environments.
+description: "使用 Splunk 搜索处理语言（SPL）关联搜索构建有效的检测规则，在 SOC 环境中识别安全威胁。 | Build effective detection rules using Splunk Search Processing Language (SPL) correlation searches to identify security threats in SOC environments."
 domain: cybersecurity
 subdomain: soc-operations
 tags:

@@ -1,6 +1,6 @@
 ---
 name: monochromatic-ui
-description: Web and App implementation guide for Monochromatic UI. Trigger when user wants a single-color palette, high elegance, and strict color discipline.
+description: Monochromatic UI（单色界面）的 Web 与 App 实现指南。当用户需要单一色板、高度优雅感和严格的用色纪律时触发。 | Web and App implementation guide for Monochromatic UI. Trigger when user wants a single-color palette, high elegance, and strict color discipline.
 date_added: "2026-06-17"
 risk: safe
 source: self

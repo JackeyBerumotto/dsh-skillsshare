@@ -1,6 +1,6 @@
 ---
 name: web-meta-framework-nuxt
-description: Nuxt patterns - file-based routing, data fetching (useFetch/useAsyncData), useState, server routes, middleware, auto-imports, layouts, SEO
+description: Nuxt 模式：基于文件的路由、数据获取（useFetch/useAsyncData）、useState、服务器路由、中间件、自动导入、布局、SEO | Nuxt patterns - file-based routing, data fetching (useFetch/useAsyncData), useState, server routes, middleware, auto-imports, layouts, SEO
 ---
 
 # Nuxt Framework Patterns

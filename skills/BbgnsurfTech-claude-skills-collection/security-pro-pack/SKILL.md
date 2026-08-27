@@ -1,8 +1,5 @@
 ---
-description: This skill allows claude to conduct comprehensive security audits of
-  code, infrastructure, and configurations. it leverages various tools within the
-  security-pro-pack plugin, including vulnerability scanning, compliance checking,
-  cryptography revi...
+description: "本技能允许 claude 对代码、基础设施与配置执行全面安全审计。它利用 security-pro-pack 插件中的多种工具，包括漏洞扫描、合规检查与密码学审查等。 | This skill allows claude to conduct comprehensive security audits of code, infrastructure, and configurations. it leverages various tools within the security-pro-pack plugin, including vulnerability scanning, compliance checking, cryptography revi..."
 allowed-tools:
 - Read
 - Write

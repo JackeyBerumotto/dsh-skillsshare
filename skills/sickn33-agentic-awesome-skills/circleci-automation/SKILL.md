@@ -1,6 +1,6 @@
 ---
 name: circleci-automation
-description: "Automate CircleCI tasks via Rube MCP (Composio): trigger pipelines, monitor workflows/jobs, retrieve artifacts and test metadata. Always search tools first for current schemas."
+description: "通过 Rube MCP（Composio）自动化 CircleCI 任务：触发流水线、监控工作流/任务、获取构建产物和测试元数据。务必先搜索工具以获取最新 schema。 | Automate CircleCI tasks via Rube MCP (Composio): trigger pipelines, monitor workflows/jobs, retrieve artifacts and test metadata. Always search tools first for current schemas."
 risk: critical
 source: community
 date_added: "2026-02-27"

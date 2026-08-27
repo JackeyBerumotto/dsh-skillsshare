@@ -1,8 +1,5 @@
 ---
-description: This skill enables claude to profile application performance, analyzing
-  cpu usage, memory consumption, and execution time. it is triggered when the user
-  requests performance analysis, bottleneck identification, or optimization recommendations.
-  the...
+description: "本技能使 claude 能够剖析应用性能，分析 CPU 使用、内存消耗与执行时间。当用户请求性能分析、瓶颈识别或优化建议时触发。 | This skill enables claude to profile application performance, analyzing cpu usage, memory consumption, and execution time. it is triggered when the user requests performance analysis, bottleneck identification, or optimization recommendations. the..."
 allowed-tools:
 - Read
 - Write

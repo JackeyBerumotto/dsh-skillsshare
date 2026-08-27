@@ -1,6 +1,6 @@
 ---
 name: huashu-design
-description: 花叔Design——用HTML做高保真原型、幻灯片、动画、可视化与专家评审，需求模糊时给设计方向。触发词：做原型、PPT、幻灯片、动画、设计风格、评审、做个HTML页面、UI mockup、导出MP4/GIF、做个好看的。生产级Web App/需后端的系统不适用。
+description: "花叔Design——用HTML做高保真原型、幻灯片、动画、可视化与专家评审，需求模糊时给设计方向。触发词：做原型、PPT、幻灯片、动画、设计风格、评审、做个HTML页面、UI mockup、导出MP4/GIF、做个好看的。生产级Web App/需后端的系统不适用。 | 花叔Design (Uncle Hua Design): build high-fidelity prototypes, slides, animations, visualizations, and expert design reviews in HTML; provides design direction when requirements are vague. Trigger words: 做原型, PPT, 幻灯片, 动画, 设计风格, 评审, 做个HTML页面, UI mockup, 导出MP4/GIF, 做个好看的. Not applicable to production-grade Web Apps or systems that require a backend."
 ---
 
 # 花叔Design · Huashu-Design

@@ -1,6 +1,6 @@
 ---
 name: statement-of-work
-description: "Write a tight Statement of Work (SOW) that prevents scope creep and payment disputes. Use when asked to write a SOW, a scope of work, a project agreement, or to formalise what was agreed after a proposal. Produces an SOW — scope (and explicit exclusions), deliverables with acceptance criteria, timeline & milestones, payment schedule, assumptions, change-control, and terms. The contract layer after the proposal sells."
+description: "撰写严谨的工作说明书（SOW），防止范围蔓延和付款纠纷。在被要求编写 SOW、工作范围说明、项目协议，或在提案后把约定正式化时使用。产出 SOW——范围（及明确排除项）、带验收标准的交付物、时间线与里程碑、付款计划、假设、变更控制和条款。这是提案成交之后的合同层。 | Write a tight Statement of Work (SOW) that prevents scope creep and payment disputes. Use when asked to write a SOW, a scope of work, a project agreement, or to formalise what was agreed after a proposal. Produces an SOW — scope (and explicit exclusions), deliverables with acceptance criteria, timeline & milestones, payment schedule, assumptions, change-control, and terms. The contract layer after the proposal sells."
 ---
 
 # Statement of Work Skill

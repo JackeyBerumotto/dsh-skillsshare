@@ -1,6 +1,6 @@
 ---
 name: engineering-weekly-report
-description: "Write a weekly engineering status report for a team, service, or initiative. Use when asked to write a team update, weekly engineering report, sprint status email, or standing team communication to stakeholders. Produces a concise, scannable weekly report covering shipping progress, metrics, decisions, blockers, and next-week priorities."
+description: "为团队、服务或项目编写每周工程状态报告。在被要求编写团队更新、每周工程报告、sprint 状态邮件，或面向干系人的例行团队沟通时使用。产出简洁、可扫读的周报，涵盖发布进展、指标、决策、阻碍和下周优先事项。 | Write a weekly engineering status report for a team, service, or initiative. Use when asked to write a team update, weekly engineering report, sprint status email, or standing team communication to stakeholders. Produces a concise, scannable weekly report covering shipping progress, metrics, decisions, blockers, and next-week priorities."
 ---
 
 # Engineering Weekly Report

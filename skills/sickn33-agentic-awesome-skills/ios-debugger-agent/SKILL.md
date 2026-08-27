@@ -1,6 +1,6 @@
 ---
 name: ios-debugger-agent
-description: Debug the current iOS project on a booted simulator with XcodeBuildMCP.
+description: 使用 XcodeBuildMCP 在已启动的模拟器上调试当前 iOS 项目。 | Debug the current iOS project on a booted simulator with XcodeBuildMCP.
 risk: safe
 source: "Dimillian/Skills (MIT)"
 date_added: "2026-03-25"

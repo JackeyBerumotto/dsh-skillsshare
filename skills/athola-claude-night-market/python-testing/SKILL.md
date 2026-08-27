@@ -1,6 +1,6 @@
 ---
 name: python-testing
-description: Python testing patterns with pytest, fixtures, TDD, mocking, async and integration tests. Use when writing or auditing a Python test suite.
+description: Python 测试模式，涵盖 pytest、fixture、TDD、mock、异步和集成测试。在编写或审计 Python 测试套件时使用。 | Python testing patterns with pytest, fixtures, TDD, mocking, async and integration tests. Use when writing or auditing a Python test suite.
 globs: "**/*.py"
 alwaysApply: false
 category: testing

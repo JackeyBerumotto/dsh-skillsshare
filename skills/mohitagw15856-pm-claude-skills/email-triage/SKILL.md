@@ -1,6 +1,6 @@
 ---
 name: email-triage
-description: "Triage a Gmail inbox down to only what needs you. Use when asked to triage email, clear an inbox, find what needs a reply, or summarise recent mail. Produces a prioritised list of items needing action — replies, decisions, follow-ups — for a configurable window (default last 8 hours), filtering out receipts, notifications, and newsletters."
+description: "将 Gmail 收件箱分诊到只剩真正需要你处理的内容。当被要求分诊邮件、清理收件箱、找出需要回复的邮件或汇总最近邮件时使用。产出按优先级排序、需要采取行动的事项列表——回复、决策、跟进——针对可配置的时间窗口（默认最近 8 小时），并过滤掉收据、通知和新闻邮件。 | Triage a Gmail inbox down to only what needs you. Use when asked to triage email, clear an inbox, find what needs a reply, or summarise recent mail. Produces a prioritised list of items needing action — replies, decisions, follow-ups — for a configurable window (default last 8 hours), filtering out receipts, notifications, and newsletters."
 ---
 
 # Email Triage

@@ -1,6 +1,6 @@
 ---
 name: Gorgias Automation
-description: "Automate e-commerce customer support workflows in Gorgias -- manage tickets, customers, tags, and teams through natural language commands."
+description: "在 Gorgias 中自动化电商客户支持工作流——通过自然语言命令管理工单、客户、标签和团队。 | Automate e-commerce customer support workflows in Gorgias -- manage tickets, customers, tags, and teams through natural language commands."
 requires:
   mcp:
     - rube

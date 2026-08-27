@@ -1,6 +1,6 @@
 ---
 name: pr-review
-description: Reviews pull requests with scope validation, requirements compliance, and line comments. Use when reviewing GitHub or GitLab PRs.
+description: 通过范围验证、需求符合性检查和行级评论审查拉取请求。在审查 GitHub 或 GitLab 的 PR 时使用。 | Reviews pull requests with scope validation, requirements compliance, and line comments. Use when reviewing GitHub or GitLab PRs.
 alwaysApply: false
 category: review
 tags:

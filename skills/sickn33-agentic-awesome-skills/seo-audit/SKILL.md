@@ -1,6 +1,6 @@
 ---
 name: seo-audit
-description: Diagnose and audit SEO issues affecting crawlability, indexation, rankings, and organic performance.
+description: 诊断并审计影响可抓取性、索引、排名和自然搜索表现的 SEO 问题。 | Diagnose and audit SEO issues affecting crawlability, indexation, rankings, and organic performance.
 risk: safe
 source: community
 date_added: '2026-02-27'

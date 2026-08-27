@@ -1,6 +1,6 @@
 ---
 name: escaping-containers-to-host
-description: Exploit privileged pods, host mounts, runC CVEs, and exposed Docker sockets to break out of a container and reach the underlying host during authorized container-security assessments.
+description: 在授权的容器安全评估中，利用特权 pod、宿主机挂载、runC CVE 与暴露的 Docker socket 逃逸容器并触及底层宿主机。 | Exploit privileged pods, host mounts, runC CVEs, and exposed Docker sockets to break out of a container and reach the underlying host during authorized container-security assessments.
 domain: cybersecurity
 subdomain: container-security
 tags:

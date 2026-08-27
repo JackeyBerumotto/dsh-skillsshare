@@ -1,6 +1,6 @@
 ---
 name: checking-owasp-compliance
-description: Check compliance with OWASP Top 10 security risks and best practices. Use when performing comprehensive security audits. Trigger with 'check OWASP compliance', 'audit web security', or 'validate OWASP'.
+description: 检查与 OWASP Top 10 安全风险及最佳实践的合规性。当执行全面安全审计时使用。触发词：「check OWASP compliance」「audit web security」或「validate OWASP」。 | Check compliance with OWASP Top 10 security risks and best practices. Use when performing comprehensive security audits. Trigger with 'check OWASP compliance', 'audit web security', or 'validate OWASP'.
 version: 1.0.0
 allowed-tools:
 - Read

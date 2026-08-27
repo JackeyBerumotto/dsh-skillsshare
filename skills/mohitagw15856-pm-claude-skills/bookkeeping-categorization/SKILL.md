@@ -1,6 +1,6 @@
 ---
 name: bookkeeping-categorization
-description: "Set up a chart of accounts and rules for categorizing transactions. Use when asked how to categorize expenses/transactions, set up a chart of accounts, organize bookkeeping, or sort bank transactions into the right buckets. Produces a practical chart of accounts for the business, categorization rules with examples and edge cases, and a clean-books routine — so the books are consistent and ready for an accountant. Not tax/accounting advice."
+description: "设定会计科目表和交易分类规则。当被问到如何对支出/交易分类、设置会计科目表、组织记账，或将银行交易归入正确类别时使用。产出适合该业务的实用科目表、带示例和边界情况的分类规则，以及一套保持账目整洁的例程——让账目一致且可供会计师使用。不构成税务/会计建议。 | Set up a chart of accounts and rules for categorizing transactions. Use when asked how to categorize expenses/transactions, set up a chart of accounts, organize bookkeeping, or sort bank transactions into the right buckets. Produces a practical chart of accounts for the business, categorization rules with examples and edge cases, and a clean-books routine — so the books are consistent and ready for an accountant. Not tax/accounting advice."
 ---
 
 # Bookkeeping Categorization Skill

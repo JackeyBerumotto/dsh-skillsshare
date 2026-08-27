@@ -1,6 +1,6 @@
 ---
 name: agent-readiness-audit
-description: "Audit whether AI agents can actually use your product — docs, APIs, onboarding, errors, and discoverability, evaluated from a non-human user's perspective. Use when asked if a product is agent-ready, to audit a site or API for AI usability, to prepare for agentic traffic, or when agents keep failing against your product. Produces a scored readiness report with per-surface findings and a prioritised fix list. For optimising a single article for AI citation use aeo-optimizer; for designing the MCP server itself use mcp-server-spec."
+description: "审计 AI 代理能否真正使用你的产品——从非人类用户的视角评估文档、API、新手引导、错误信息和可发现性。当被问及产品是否已为代理做好准备、要求审计网站或 API 的 AI 可用性、为代理流量做准备，或代理持续在你的产品上失败时使用。产出带评分的就绪度报告，包含逐个暴露面的发现和按优先级排序的修复清单。若要针对 AI 引用优化单篇文章，请使用 aeo-optimizer；若要设计 MCP 服务器本身，请使用 mcp-server-spec。 | Audit whether AI agents can actually use your product — docs, APIs, onboarding, errors, and discoverability, evaluated from a non-human user's perspective. Use when asked if a product is agent-ready, to audit a site or API for AI usability, to prepare for agentic traffic, or when agents keep failing against your product. Produces a scored readiness report with per-surface findings and a prioritised fix list. For optimising a single article for AI citation use aeo-optimizer; for designing the MCP server itself use mcp-server-spec."
 ---
 
 # Agent Readiness Audit Skill

@@ -1,6 +1,6 @@
 ---
 name: orch-change-feature
-description: Orchestrate altering an existing, working feature to new desired behavior — update its tests to the new spec, change the implementation to match, review, and gated commit. Use when behavior is not broken but should be different.
+description: 编排将现有的、正常运行的功能改为新的期望行为——将其测试更新为新规范、修改实现以匹配、评审并进行门控提交。在行为没有损坏但应当有所不同时使用。 | Orchestrate altering an existing, working feature to new desired behavior — update its tests to the new spec, change the implementation to match, review, and gated commit. Use when behavior is not broken but should be different.
 metadata:
   origin: ECC
 ---

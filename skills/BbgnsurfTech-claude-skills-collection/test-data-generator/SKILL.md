@@ -2,7 +2,7 @@
 name: generating-test-data
 version: 1.0.0
 description: |
-  Generate realistic test data including edge cases and boundary conditions.
+  生成逼真的测试数据，包含边界情况和边界条件。在创建逼真夹具或边界情况测试数据时使用。触发短语如「generate test data」、「create fixtures」或「setup test database」。 |
   Use when creating realistic fixtures or edge case test data.
   Trigger with phrases like "generate test data", "create fixtures", or "setup test database".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(test:data-*)

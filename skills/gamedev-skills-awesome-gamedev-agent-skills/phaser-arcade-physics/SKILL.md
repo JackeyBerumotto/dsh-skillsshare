@@ -1,7 +1,7 @@
 ---
 name: phaser-arcade-physics
 description: >
-  Use Phaser 3 Arcade Physics: enable the world, give sprites bodies, set
+  使用 Phaser 3 街机物理：启用物理世界、为精灵赋予刚体、设置速度/加速度/重力，并通过 collider、overlap、分组和世界边界处理碰撞。当 Phaser 游戏需要移动或碰撞时使用——即用户提到街机物理、this.physics、setVelocity、collider、overlap、gravity、onFloor 或平台/俯视控制器时。游戏配置、场景和加载器请使用 phaser-core。 |
   velocity/acceleration/gravity, and resolve collisions with colliders, overlaps,
   groups, and world bounds. Use when a Phaser game needs movement or collisions —
   when the user mentions Arcade Physics, this.physics, setVelocity, collider,

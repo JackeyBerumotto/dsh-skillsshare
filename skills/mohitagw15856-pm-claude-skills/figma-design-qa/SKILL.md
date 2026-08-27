@@ -1,6 +1,6 @@
 ---
 name: figma-design-qa
-description: "Runs a pre-handoff QA checklist on a Figma design before it goes to engineering. Use when asked to QA a Figma design, do a pre-handoff check, or validate a Figma file is ready to build. Produces a structured QA report covering file hygiene, component usage, accessibility, and handoff readiness with explicit pass/fail status per item. Optimised for Opus 4.7 and newer models."
+description: "在 Figma 设计交付给工程团队之前，对其运行交接前 QA 检查清单。当被要求对 Figma 设计做 QA、执行交接前检查，或验证 Figma 文件是否可以进入开发时使用。生成结构化的 QA 报告，覆盖文件规范、组件使用、可访问性和交接就绪度，每项均有明确的通过/失败状态。针对 Opus 4.7 及更新模型优化。 | Runs a pre-handoff QA checklist on a Figma design before it goes to engineering. Use when asked to QA a Figma design, do a pre-handoff check, or validate a Figma file is ready to build. Produces a structured QA report covering file hygiene, component usage, accessibility, and handoff readiness with explicit pass/fail status per item. Optimised for Opus 4.7 and newer models."
 ---
 
 # Figma Design QA Skill

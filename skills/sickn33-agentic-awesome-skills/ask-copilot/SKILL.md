@@ -1,6 +1,6 @@
 ---
 name: ask-copilot
-description: "Use GitHub Copilot CLI in non-interactive mode to ask questions, review code, or generate snippets without manual interaction."
+description: "以非交互模式使用 GitHub Copilot CLI 来提问、评审代码或生成代码片段，无需手动交互。 | Use GitHub Copilot CLI in non-interactive mode to ask questions, review code, or generate snippets without manual interaction."
 category: development
 risk: critical
 source: self

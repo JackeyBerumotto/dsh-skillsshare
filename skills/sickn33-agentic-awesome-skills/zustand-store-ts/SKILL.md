@@ -1,6 +1,6 @@
 ---
 name: zustand-store-ts
-description: "Create Zustand stores following established patterns with proper TypeScript types and middleware."
+description: "按照既有模式创建 Zustand store，配备正确的 TypeScript 类型和中间件。 | Create Zustand stores following established patterns with proper TypeScript types and middleware."
 risk: unknown
 source: community
 date_added: "2026-02-27"

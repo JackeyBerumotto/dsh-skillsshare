@@ -1,7 +1,7 @@
 ---
 name: ponytail-audit
 description: >
-  Whole-repo audit for over-engineering. Like ponytail-review, but scans the
+  全仓库过度工程审计。类似 ponytail-review，但扫描整个代码库而非单个 diff：给出删除、简化或替换为标准库/原生等价物的排序清单。当用户说「audit this codebase」「audit for over-engineering」「what can I delete from this repo」「find bloat」「ponytail-audit」或「/ponytail-audit」时使用。一次性报告，不执行修复。 |
   entire codebase instead of a diff: a ranked list of what to delete, simplify,
   or replace with stdlib/native equivalents. Use when the user says "audit this
   codebase", "audit for over-engineering", "what can I delete from this repo",

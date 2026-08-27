@@ -1,9 +1,6 @@
 ---
 name: notion-template-business
-description: Expert in building and selling Notion templates as a business - not
-  just making templates, but building a sustainable digital product business.
-  Covers template design, pricing, marketplaces, marketing, and scaling to real
-  revenue.
+description: "精通把制作和销售 Notion 模板当作一门生意——不只是做模板，而是构建可持续的数字产品业务。涵盖模板设计、定价、市场平台、营销以及扩展到真实营收。 | Expert in building and selling Notion templates as a business - not just making templates, but building a sustainable digital product business. Covers template design, pricing, marketplaces, marketing, and scaling to real revenue."
 risk: unknown
 source: vibeship-spawner-skills (Apache 2.0)
 date_added: 2026-02-27

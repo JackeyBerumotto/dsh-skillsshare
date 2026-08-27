@@ -1,6 +1,6 @@
 ---
 name: temporal-golang-pro
-description: "Use when building durable distributed systems with Temporal Go SDK. Covers deterministic workflow rules, mTLS worker configs, and advanced patterns."
+description: "在使用 Temporal Go SDK 构建持久分布式系统时使用。涵盖确定性工作流规则、mTLS worker 配置和高级模式。 | Use when building durable distributed systems with Temporal Go SDK. Covers deterministic workflow rules, mTLS worker configs, and advanced patterns."
 risk: safe
 source: self
 date_added: "2026-02-27"

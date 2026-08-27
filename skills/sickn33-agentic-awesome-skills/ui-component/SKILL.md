@@ -1,6 +1,6 @@
 ---
 name: ui-component
-description: Generate a new UI component following the StyleSeed design conventions
+description: 按照 StyleSeed 设计规范生成新的 UI 组件 | Generate a new UI component following the StyleSeed design conventions
 risk: unknown
 source: https://github.com/bitjaru/styleseed/tree/main/engine/.claude/skills/ss-component
 source_repo: bitjaru/styleseed

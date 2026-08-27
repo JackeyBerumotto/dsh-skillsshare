@@ -1,8 +1,5 @@
 ---
-description: This skill enables claude to seamlessly integrate with various secrets
-  managers like hashicorp vault and aws secrets manager. it generates configurations
-  and setup code, ensuring best practices for secure credential management. use this
-  skill when...
+description: "本技能使 claude 能够无缝集成 HashiCorp Vault 与 AWS Secrets Manager 等各类秘密管理器。它生成配置与安装代码，确保凭据安全管理的最佳实践。当用户请求接入秘密管理器时使用本技能。 | This skill enables claude to seamlessly integrate with various secrets managers like hashicorp vault and aws secrets manager. it generates configurations and setup code, ensuring best practices for secure credential management. use this skill when..."
 allowed-tools:
 - Read
 - Write

@@ -1,6 +1,6 @@
 ---
 name: "senior-computer-vision"
-description: Computer vision engineering skill for object detection, image segmentation, and visual AI systems. Covers CNN and Vision Transformer architectures, YOLO/Faster R-CNN/DETR detection, Mask R-CNN/SAM segmentation, and production deployment with ONNX/TensorRT. Includes PyTorch, torchvision, Ultralytics, Detectron2, and MMDetection frameworks. Use when building detection pipelines, training custom models, optimizing inference, or deploying vision systems.
+description: 面向目标检测、图像分割和视觉 AI 系统的计算机视觉工程技能。涵盖 CNN 与 Vision Transformer 架构、YOLO/Faster R-CNN/DETR 检测、Mask R-CNN/SAM 分割，以及基于 ONNX/TensorRT 的生产部署。包括 PyTorch、torchvision、Ultralytics、Detectron2 和 MMDetection 框架。在构建检测流水线、训练自定义模型、优化推理或部署视觉系统时使用。 | Computer vision engineering skill for object detection, image segmentation, and visual AI systems. Covers CNN and Vision Transformer architectures, YOLO/Faster R-CNN/DETR detection, Mask R-CNN/SAM segmentation, and production deployment with ONNX/TensorRT. Includes PyTorch, torchvision, Ultralytics, Detectron2, and MMDetection frameworks. Use when building detection pipelines, training custom models, optimizing inference, or deploying vision systems.
 ---
 
 # Senior Computer Vision Engineer

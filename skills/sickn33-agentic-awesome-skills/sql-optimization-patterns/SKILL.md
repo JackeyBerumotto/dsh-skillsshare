@@ -1,6 +1,6 @@
 ---
 name: sql-optimization-patterns
-description: "Transform slow database queries into lightning-fast operations through systematic optimization, proper indexing, and query plan analysis."
+description: "通过系统化优化、合理索引和查询计划分析，把慢速数据库查询变成闪电般快速的操作。 | Transform slow database queries into lightning-fast operations through systematic optimization, proper indexing, and query plan analysis."
 risk: safe
 source: community
 date_added: "2026-02-27"

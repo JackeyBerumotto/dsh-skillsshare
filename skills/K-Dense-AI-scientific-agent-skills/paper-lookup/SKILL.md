@@ -1,6 +1,6 @@
 ---
 name: paper-lookup
-description: Search 10 academic literature APIs for papers, preprints, citations, and open-access full text, and return results with reproducible provenance. Covers PubMed, PMC (full text), bioRxiv, medRxiv, arXiv, OpenAlex, Crossref, Semantic Scholar, CORE, Unpaywall. Use when searching for papers, citations, DOI/PMID/arXiv lookups, abstracts, full text, open-access PDFs, preprints, citation graphs, author publications, or any scholarly literature query. Triggers on mentions of any supported database or requests like "find papers on X", "look up this DOI", "who cites this paper", or "get me the PDF".
+description: 搜索 10 个学术文献 API 获取论文、预印本、引文和开放获取全文，并返回带可复现溯源的结果。覆盖 PubMed、PMC（全文）、bioRxiv、medRxiv、arXiv、OpenAlex、Crossref、Semantic Scholar、CORE、Unpaywall。在检索论文、引文、DOI/PMID/arXiv 查询、摘要、全文、开放获取 PDF、预印本、引文图、作者发表物或任何学术文献查询时使用。当提及任何受支持的数据库，或出现「查找关于 X 的论文」「查询这个 DOI」「谁引用了这篇论文」「给我 PDF」等请求时触发。 | Search 10 academic literature APIs for papers, preprints, citations, and open-access full text, and return results with reproducible provenance. Covers PubMed, PMC (full text), bioRxiv, medRxiv, arXiv, OpenAlex, Crossref, Semantic Scholar, CORE, Unpaywall. Use when searching for papers, citations, DOI/PMID/arXiv lookups, abstracts, full text, open-access PDFs, preprints, citation graphs, author publications, or any scholarly literature query. Triggers on mentions of any supported database or requests like "find papers on X", "look up this DOI", "who cites this paper", or "get me the PDF".
 allowed-tools: Read Bash
 license: MIT
 metadata:

@@ -1,6 +1,6 @@
 ---
 name: dask
-description: Distributed computing for larger-than-RAM pandas/NumPy workflows. Use when you need to scale existing pandas/NumPy code beyond memory or across clusters. Best for parallel file processing, distributed ML, integration with existing pandas code. For out-of-core analytics on single machine use vaex; for in-memory speed use polars.
+description: 面向超出内存规模的 pandas/NumPy 工作流的分布式计算。当需要把现有 pandas/NumPy 代码扩展到超出单机内存或跨集群运行时使用。最适合并行文件处理、分布式机器学习以及与现有 pandas 代码集成。单机核外分析请用 vaex；追求内存内速度请用 polars。 | Distributed computing for larger-than-RAM pandas/NumPy workflows. Use when you need to scale existing pandas/NumPy code beyond memory or across clusters. Best for parallel file processing, distributed ML, integration with existing pandas code. For out-of-core analytics on single machine use vaex; for in-memory speed use polars.
 allowed-tools: Read Write Edit Bash
 license: BSD-3-Clause license
 compatibility: Requires Python 3.10+ and dask 2025.1+. DataFrame workflows need pandas 2+ and PyArrow 16+. Cloud paths (s3://, gcs://) need s3fs or gcsfs. Cluster deployment uses dask.distributed (included with dask[complete]).

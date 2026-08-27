@@ -1,8 +1,6 @@
 ---
 name: implementing-patch-management-workflow
-description: Patch management is the systematic process of identifying, testing, deploying,
-  and verifying software updates to remediate vulnerabilities across an organization's
-  IT infrastructure. An effective patc
+description: "补丁管理是识别、测试、部署和验证软件更新以整改组织 IT 基础设施漏洞的系统化流程。有效的补丁管理计划对降低风险至关重要。 | Patch management is the systematic process of identifying, testing, deploying, and verifying software updates to remediate vulnerabilities across an organization's IT infrastructure. An effective patc"
 domain: cybersecurity
 subdomain: vulnerability-management
 tags:

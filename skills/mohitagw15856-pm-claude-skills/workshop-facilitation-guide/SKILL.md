@@ -1,6 +1,6 @@
 ---
 name: workshop-facilitation-guide
-description: "Design and facilitate any workshop, working session, or collaborative meeting. Use when asked to plan a workshop, design a facilitated session, run a ideation session, or create a workshop agenda. Produces a complete facilitation guide with session design, activity instructions, timing, and materials."
+description: "设计并引导任意工作坊、共创会或协作会议。当被要求规划工作坊、设计引导式会议、主持头脑风暴会议或创建工作坊议程时使用。产出完整的引导指南，包含会议设计、活动说明、时间安排和材料清单。 | Design and facilitate any workshop, working session, or collaborative meeting. Use when asked to plan a workshop, design a facilitated session, run a ideation session, or create a workshop agenda. Produces a complete facilitation guide with session design, activity instructions, timing, and materials."
 ---
 
 # Workshop Facilitation Guide Skill

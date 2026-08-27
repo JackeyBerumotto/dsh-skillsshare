@@ -1,6 +1,6 @@
 ---
 name: automated-triage
-description: Triage Monte Carlo alerts interactively or build an automated workflow. Fetch, score, and troubleshoot alerts using MCP tools now, or design a reusable workflow that runs on a schedule.
+description: 以交互方式分诊 Monte Carlo 告警，或构建自动化工作流。可立即使用 MCP 工具获取、评分并排查告警，也可以设计按计划运行的可复用工作流。 | Triage Monte Carlo alerts interactively or build an automated workflow. Fetch, score, and troubleshoot alerts using MCP tools now, or design a reusable workflow that runs on a schedule.
 risk: unknown
 source: https://github.com/monte-carlo-data/mc-agent-toolkit/tree/main/skills/automated-triage
 source_repo: monte-carlo-data/mc-agent-toolkit

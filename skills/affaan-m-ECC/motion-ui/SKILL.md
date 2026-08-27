@@ -1,6 +1,6 @@
 ---
 name: motion-ui
-description: "Production-ready UI motion system for React/Next.js. Use when implementing animations, transitions, or motion patterns."
+description: "面向 React/Next.js 的生产级 UI 动效系统。在实现动画、过渡或动效模式时使用。 | Production-ready UI motion system for React/Next.js. Use when implementing animations, transitions, or motion patterns."
 metadata:
   origin: ECC
 ---

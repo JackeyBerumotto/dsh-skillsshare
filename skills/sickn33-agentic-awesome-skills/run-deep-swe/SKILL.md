@@ -1,6 +1,6 @@
 ---
 name: run-deep-swe
-description: "Run reproducible DeepSWE coding-agent benchmark evaluations through OpenRouter and mini-swe-agent."
+description: "通过 OpenRouter 和 mini-swe-agent 运行可复现的 DeepSWE 编码智能体基准评测。 | Run reproducible DeepSWE coding-agent benchmark evaluations through OpenRouter and mini-swe-agent."
 category: agent-evaluation
 risk: critical
 source: community

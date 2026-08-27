@@ -1,6 +1,6 @@
 ---
 name: aggregating-performance-metrics
-description: Aggregate and centralize performance metrics from applications, systems, databases, caches, and services. Use when consolidating monitoring data from multiple sources. Trigger with phrases like "aggregate metrics", "centralize monitoring", or "collect performance data".
+description: 聚合并集中管理来自应用、系统、数据库、缓存和服务的性能指标。在整合多来源监控数据时使用。触发短语如「aggregate metrics」、「centralize monitoring」或「collect performance data」。 | Aggregate and centralize performance metrics from applications, systems, databases, caches, and services. Use when consolidating monitoring data from multiple sources. Trigger with phrases like "aggregate metrics", "centralize monitoring", or "collect performance data".
 version: 1.0.0
 allowed-tools:
 - Read

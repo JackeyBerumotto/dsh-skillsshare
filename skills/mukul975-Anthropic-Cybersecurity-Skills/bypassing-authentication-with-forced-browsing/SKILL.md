@@ -1,8 +1,6 @@
 ---
 name: bypassing-authentication-with-forced-browsing
-description: Discovering and accessing unprotected pages, APIs, and administrative
-  interfaces by enumerating URLs and bypassing authentication controls during authorized
-  security assessments.
+description: "在授权安全评估中，通过枚举 URL 并绕过身份验证控制，发现并访问未受保护的页面、API 和管理接口。 | Discovering and accessing unprotected pages, APIs, and administrative interfaces by enumerating URLs and bypassing authentication controls during authorized security assessments."
 domain: cybersecurity
 subdomain: web-application-security
 tags:

@@ -1,6 +1,6 @@
 ---
 name: analyzing-dependencies
-description: Check dependencies for known security vulnerabilities and outdated versions. Use when auditing third-party libraries. Trigger with 'check dependencies', 'scan for vulnerabilities', or 'audit packages'.
+description: 检查依赖是否存在已知安全漏洞和过时版本。当审计第三方库时使用。触发词：「check dependencies」「scan for vulnerabilities」或「audit packages」。 | Check dependencies for known security vulnerabilities and outdated versions. Use when auditing third-party libraries. Trigger with 'check dependencies', 'scan for vulnerabilities', or 'audit packages'.
 version: 1.0.0
 allowed-tools:
 - Read

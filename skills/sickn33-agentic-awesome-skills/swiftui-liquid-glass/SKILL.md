@@ -1,6 +1,6 @@
 ---
 name: swiftui-liquid-glass
-description: Implement or review SwiftUI Liquid Glass APIs with correct fallbacks and modifier order.
+description: 实现或审查 SwiftUI Liquid Glass API，确保正确的回退和修饰符顺序。 | Implement or review SwiftUI Liquid Glass APIs with correct fallbacks and modifier order.
 risk: safe
 source: "Dimillian/Skills (MIT)"
 date_added: "2026-03-25"

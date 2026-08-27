@@ -1,6 +1,6 @@
 ---
 name: seo-aeo-internal-linking
-description: "Maps internal link opportunities between pages with anchor text, placement instructions, orphan page detection, and cannibalization checks. Activate when the user wants to build an internal linking strategy or find link opportunities."
+description: "梳理页面之间的内链机会，附锚文本、布置说明、孤页检测与关键词自相蚕食检查。当用户想构建内链策略或寻找链接机会时激活。 | Maps internal link opportunities between pages with anchor text, placement instructions, orphan page detection, and cannibalization checks. Activate when the user wants to build an internal linking strategy or find link opportunities."
 risk: safe
 source: community
 date_added: "2026-04-01"

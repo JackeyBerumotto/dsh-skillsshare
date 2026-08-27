@@ -1,6 +1,6 @@
 ---
 name: app-store-optimization
-description: "Complete App Store Optimization (ASO) toolkit for researching, optimizing, and tracking mobile app performance on Apple App Store and Google Play Store"
+description: "完整的应用商店优化（ASO）工具包，用于研究、优化和跟踪移动应用在 Apple App Store 和 Google Play Store 上的表现。 | Complete App Store Optimization (ASO) toolkit for researching, optimizing, and tracking mobile app performance on Apple App Store and Google Play Store"
 risk: unknown
 source: community
 date_added: "2026-02-27"

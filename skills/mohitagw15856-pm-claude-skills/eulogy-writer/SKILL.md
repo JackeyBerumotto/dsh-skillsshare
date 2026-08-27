@@ -1,6 +1,6 @@
 ---
 name: eulogy-writer
-description: "Help someone write a eulogy — the hardest writing most people ever do, at the worst possible time. Use when someone must speak at a funeral or memorial and doesn't know where to start, or has fragments and no shape. Produces a 3-5 minute eulogy built from their memories in their voice, plus a delivery copy formatted for shaking hands — gentle process, no interrogation, nothing invented."
+description: "帮助某人撰写悼词——多数人一生中最难写的文字，却赶在最糟糕的时刻。当某人必须在葬礼或追悼会上发言却不知从何下笔，或只有零散片段而无整体结构时使用。根据本人的记忆以其本人口吻产出 3-5 分钟的悼词，另附为颤抖双手排版好的朗读稿——过程温和，不搞盘问，不编造内容。 | Help someone write a eulogy — the hardest writing most people ever do, at the worst possible time. Use when someone must speak at a funeral or memorial and doesn't know where to start, or has fragments and no shape. Produces a 3-5 minute eulogy built from their memories in their voice, plus a delivery copy formatted for shaking hands — gentle process, no interrogation, nothing invented."
 ---
 
 # Eulogy Writer

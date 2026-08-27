@@ -1,13 +1,6 @@
 ---
 name: implementing-memory-protection-with-dep-aslr
-description: 'Implements memory protection mechanisms including DEP (Data Execution
-  Prevention), ASLR (Address Space Layout Randomization), CFG (Control Flow Guard),
-  and other exploit mitigations to prevent memory corruption attacks. Use when hardening
-  endpoints against buffer overflow exploits, ROP chains, and code injection. Activates
-  for requests involving memory protection, exploit mitigation, DEP, ASLR, or CFG
-  configuration.
-
-  '
+description: "实现内存保护机制，包括 DEP（数据执行保护）、ASLR（地址空间布局随机化）、CFG（控制流保护）以及其他利用缓解措施，以防范内存损坏攻击。适用于加固终端以对抗缓冲区溢出利用、ROP 链和代码注入。当请求涉及内存保护、利用缓解、DEP、ASLR 或 CFG 配置时激活。 | Implements memory protection mechanisms including DEP (Data Execution Prevention), ASLR (Address Space Layout Randomization), CFG (Control Flow Guard), and other exploit mitigations to prevent memory corruption attacks. Use when hardening endpoints against buffer overflow exploits, ROP chains, and code injection. Activates for requests involving memory protection, exploit mitigation, DEP, ASLR, or CFG configuration."
 domain: cybersecurity
 subdomain: endpoint-security
 tags:

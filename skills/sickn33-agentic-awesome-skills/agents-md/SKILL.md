@@ -1,6 +1,6 @@
 ---
 name: agents-md
-description: This skill should be used when the user asks to "create AGENTS.md", "update AGENTS.md", "maintain agent docs", "set up CLAUDE.md", or needs to keep agent instructions concise. Enforces research-backed best practices for minimal, high-signal agent documentation.
+description: 当用户要求「create AGENTS.md」「update AGENTS.md」「maintain agent docs」「set up CLAUDE.md」，或需要保持代理指令简洁时，应使用此技能。对最小化、高信息密度的代理文档强制执行有研究依据的最佳实践。 | This skill should be used when the user asks to "create AGENTS.md", "update AGENTS.md", "maintain agent docs", "set up CLAUDE.md", or needs to keep agent instructions concise. Enforces research-backed best practices for minimal, high-signal agent documentation.
 risk: unknown
 source: community
 ---

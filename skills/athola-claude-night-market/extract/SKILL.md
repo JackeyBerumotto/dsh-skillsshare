@@ -1,6 +1,6 @@
 ---
 name: extract
-description: Builds the gauntlet knowledge base from AST extraction and AI enrichment. Use when initializing or refreshing codebase knowledge for challenges.
+description: 基于 AST 提取和 AI 增强构建 gauntlet 知识库。当为挑战初始化或刷新代码库知识时使用。 | Builds the gauntlet knowledge base from AST extraction and AI enrichment. Use when initializing or refreshing codebase knowledge for challenges.
 model_hint: standard
 ---
 

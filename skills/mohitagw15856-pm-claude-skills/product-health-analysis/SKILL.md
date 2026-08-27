@@ -1,6 +1,6 @@
 ---
 name: product-health-analysis
-description: "Interpret product metrics against goals and surface actionable signals. Use when asked to analyse product health, review key metrics, investigate a performance issue, produce a health report, or assess product-market fit signals. Produces a structured health report with RAG status, trend analysis, root cause hypotheses, and prioritised actions."
+description: "对照目标解读产品指标并提炼可操作的信号。在被要求分析产品健康状况、审查关键指标、调查性能问题、出具健康报告或评估产品市场契合信号时使用。产出包含 RAG 状态、趋势分析、根因假设和按优先级排序行动的结构化健康报告。 | Interpret product metrics against goals and surface actionable signals. Use when asked to analyse product health, review key metrics, investigate a performance issue, produce a health report, or assess product-market fit signals. Produces a structured health report with RAG status, trend analysis, root cause hypotheses, and prioritised actions."
 ---
 
 # Product Health Analysis Skill

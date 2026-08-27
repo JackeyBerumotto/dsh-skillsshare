@@ -1,12 +1,6 @@
 ---
 name: implementing-secret-scanning-with-gitleaks
-description: 'This skill covers implementing Gitleaks for detecting and preventing
-  hardcoded secrets in git repositories. It addresses configuring pre-commit hooks,
-  CI/CD pipeline integration, custom rule authoring for organization-specific secrets,
-  baseline management for existing repositories, and remediation workflows for exposed
-  credentials.
-
-  '
+description: "本技能涵盖实施 Gitleaks 以检测并防止 git 仓库中的硬编码秘密。内容涉及配置 pre-commit 钩子、CI/CD 管线集成、为组织特定秘密编写自定义规则、既有仓库的基线管理，以及暴露凭据的修复工作流。 | This skill covers implementing Gitleaks for detecting and preventing hardcoded secrets in git repositories. It addresses configuring pre-commit hooks, CI/CD pipeline integration, custom rule authoring for organization-specific secrets, baseline management for existing repositories, and remediation workflows for exposed credentials."
 domain: cybersecurity
 subdomain: devsecops
 tags:

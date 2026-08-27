@@ -1,6 +1,6 @@
 ---
 name: user-story-writer
-description: "Write well-structured user stories with acceptance criteria and edge cases. Use when asked to write user stories, create tickets from a feature brief, convert a PRD into stories, or write acceptance criteria. Produces ready-to-estimate stories in the standard format with clear acceptance criteria, edge cases, and definition of done."
+description: "撰写结构良好、包含验收标准和边界情况的用户故事。在被要求编写用户故事、从功能简报创建工单、把 PRD 转化为故事或编写验收标准时使用。产出标准格式、可直接估算的故事，带清晰的验收标准、边界条件和完成定义。 | Write well-structured user stories with acceptance criteria and edge cases. Use when asked to write user stories, create tickets from a feature brief, convert a PRD into stories, or write acceptance criteria. Produces ready-to-estimate stories in the standard format with clear acceptance criteria, edge cases, and definition of done."
 ---
 
 # User Story Writer Skill

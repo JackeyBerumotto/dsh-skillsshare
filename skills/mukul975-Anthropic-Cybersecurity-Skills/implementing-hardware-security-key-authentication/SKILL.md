@@ -1,14 +1,6 @@
 ---
 name: implementing-hardware-security-key-authentication
-description: 'Implements FIDO2/WebAuthn hardware security key authentication including
-  registration ceremonies, authentication flows, YubiKey enrollment, and passkey migration
-  strategies. Builds a complete relying party server using the python-fido2 library
-  that supports cross-platform authenticators, resident key (discoverable credential)
-  workflows, and user verification policies. Activates for requests involving FIDO2
-  implementation, WebAuthn registration, hardware security key enrollment, YubiKey
-  integration, or passkey migration from password-based authentication.
-
-  '
+description: "实现 FIDO2/WebAuthn 硬件安全密钥认证，包括注册仪式、认证流程、YubiKey 登记和通行密钥迁移策略。使用 python-fido2 库构建完整的依赖方服务器，支持跨平台认证器、常驻密钥（可发现凭据）工作流和用户验证策略。当请求涉及 FIDO2 实现、WebAuthn 注册、硬件安全密钥登记、YubiKey 集成或从基于密码的认证迁移到通行密钥时激活。 | Implements FIDO2/WebAuthn hardware security key authentication including registration ceremonies, authentication flows, YubiKey enrollment, and passkey migration strategies. Builds a complete relying party server using the python-fido2 library that supports cross-platform authenticators, resident key (discoverable credential) workflows, and user verification policies. Activates for requests involving FIDO2 implementation, WebAuthn registration, hardware security key enrollment, YubiKey integration, or passkey migration from password-based authentication."
 domain: cybersecurity
 subdomain: identity-and-access-management
 tags:

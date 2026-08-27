@@ -1,6 +1,6 @@
 ---
 name: exa-search
-description: Neural search via Exa MCP for web, code, and company research. Use when the user needs web search, code examples, company intel, people lookup, or AI-powered deep research with Exa's neural search engine.
+description: 通过 Exa MCP 进行神经搜索，用于网络、代码和公司研究。当用户需要网络搜索、代码示例、公司情报、人员查找，或使用 Exa 的神经搜索引擎进行 AI 驱动的深度研究时使用。 | Neural search via Exa MCP for web, code, and company research. Use when the user needs web search, code examples, company intel, people lookup, or AI-powered deep research with Exa's neural search engine.
 metadata:
   origin: ECC
 ---

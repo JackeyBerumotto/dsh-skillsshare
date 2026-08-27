@@ -1,6 +1,6 @@
 ---
 name: monte-carlo-asset-health
-description: Check the health of a data table/asset using Monte Carlo. Activates on "how is table X", "check health of X", "is X healthy", "status of X", "check on X table", or any health/status question about a data asset.
+description: 使用 Monte Carlo 检查数据表或数据资产的健康状况。当出现「how is table X」「check health of X」「is X healthy」「status of X」「check on X table」，或任何关于数据资产健康或状态的问题时激活。 | Check the health of a data table/asset using Monte Carlo. Activates on "how is table X", "check health of X", "is X healthy", "status of X", "check on X table", or any health/status question about a data asset.
 risk: unknown
 source: https://github.com/monte-carlo-data/mc-agent-toolkit/tree/main/skills/asset-health
 source_repo: monte-carlo-data/mc-agent-toolkit

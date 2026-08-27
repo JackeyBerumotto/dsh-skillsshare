@@ -1,6 +1,6 @@
 ---
 name: "ciso-review"
-description: "/cs:ciso-review <plan> — Risk-paranoid interrogation of any plan that touches data, compliance, or production access. Use when launching features that handle customer data, before a SOC 2 / ISO audit, or after any incident or near-miss."
+description: "/cs:ciso-review <plan>——以风险偏执视角审讯任何涉及数据、合规或生产环境访问的计划。适用于发布处理客户数据的功能时、SOC 2 或 ISO 审计之前，或任何事件及未遂事件之后。 | /cs:ciso-review <plan> — Risk-paranoid interrogation of any plan that touches data, compliance, or production access. Use when launching features that handle customer data, before a SOC 2 / ISO audit, or after any incident or near-miss."
 ---
 
 # /cs:ciso-review — CISO Forcing Questions

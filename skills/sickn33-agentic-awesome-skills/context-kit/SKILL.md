@@ -1,6 +1,6 @@
 ---
 name: context-kit
-description: "Evaluate, adapt, and safely install Context Kit personal context artifacts for Claude Code or adjacent agent workflows."
+description: "为 Claude Code 或相邻的 agent 工作流评估、调整并安全安装 Context Kit 个人上下文工件。 | Evaluate, adapt, and safely install Context Kit personal context artifacts for Claude Code or adjacent agent workflows."
 category: productivity
 risk: critical
 source: community

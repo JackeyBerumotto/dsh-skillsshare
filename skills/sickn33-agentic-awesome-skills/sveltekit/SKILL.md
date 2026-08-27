@@ -1,6 +1,6 @@
 ---
 name: sveltekit
-description: "Build full-stack web applications with SvelteKit — file-based routing, SSR, SSG, API routes, and form actions in one framework."
+description: "使用 SvelteKit 构建全栈 Web 应用——在一个框架内获得基于文件的路由、SSR、SSG、API 路由和表单操作。 | Build full-stack web applications with SvelteKit — file-based routing, SSR, SSG, API routes, and form actions in one framework."
 category: frontend
 risk: safe
 source: community

@@ -1,6 +1,6 @@
 ---
 name: "ad-creative"
-description: "When the user needs to generate, iterate, or scale ad creative for paid advertising. Use when they say 'write ad copy,' 'generate headlines,' 'create ad variations,' 'bulk creative,' 'iterate on ads,' 'ad copy validation,' 'RSA headlines,' 'Meta ad copy,' 'LinkedIn ad,' or 'creative testing.' This is pure creative production — distinct from paid-ads (campaign strategy). Use ad-creative when you need the copy, not the campaign plan."
+description: "当用户需要为付费广告生成、迭代或规模化产出广告创意时使用。当用户说「write ad copy」「generate headlines」「create ad variations」「bulk creative」「iterate on ads」「ad copy validation」「RSA headlines」「Meta ad copy」「LinkedIn ad」或「creative testing」时也应使用。这是纯粹的创意生产——与 paid-ads（营销活动策略）不同。需要文案而非活动计划时使用 ad-creative。 | When the user needs to generate, iterate, or scale ad creative for paid advertising. Use when they say 'write ad copy,' 'generate headlines,' 'create ad variations,' 'bulk creative,' 'iterate on ads,' 'ad copy validation,' 'RSA headlines,' 'Meta ad copy,' 'LinkedIn ad,' or 'creative testing.' This is pure creative production — distinct from paid-ads (campaign strategy). Use ad-creative when you need the copy, not the campaign plan."
 license: MIT
 metadata:
   version: 1.0.0

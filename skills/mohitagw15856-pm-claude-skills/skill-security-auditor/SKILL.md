@@ -1,6 +1,6 @@
 ---
 name: skill-security-auditor
-description: "Audit a Claude/Agent SKILL.md (or any AI skill / system prompt) for safety before installing or merging it. Use when asked to review a skill for security, check a prompt for injection, vet a community skill, or assess whether an instruction file is safe to run. Produces a risk-rated report of findings (prompt injection, data exfiltration, code execution, secrets, hidden text) with severity, evidence, and a clear install / don't-install recommendation."
+description: "在安装或合并 Claude／代理的 SKILL.md（或任何 AI 技能／系统提示词）之前审计其安全性。当被要求评审技能的安全性、检查提示词是否含注入、审核社区技能，或评估某个指令文件是否可以安全运行时使用。产出带风险评级的发现报告（提示词注入、数据外泄、代码执行、密钥、隐藏文本），包含严重程度、证据以及明确的安装／不安装建议。 | Audit a Claude/Agent SKILL.md (or any AI skill / system prompt) for safety before installing or merging it. Use when asked to review a skill for security, check a prompt for injection, vet a community skill, or assess whether an instruction file is safe to run. Produces a risk-rated report of findings (prompt injection, data exfiltration, code execution, secrets, hidden text) with severity, evidence, and a clear install / don't-install recommendation."
 ---
 
 # Skill Security Auditor

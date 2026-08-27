@@ -1,6 +1,6 @@
 ---
 name: azure-mgmt-weightsandbiases-dotnet
-description: Azure Weights & Biases SDK for .NET. ML experiment tracking and model management via Azure Marketplace. Use for creating W&B instances, managing SSO, marketplace integration, and ML observability.
+description: 适用于 .NET 的 Azure Weights & Biases SDK。通过 Azure Marketplace 进行 ML 实验追踪与模型管理。用于创建 W&B 实例、管理 SSO、市场集成以及 ML 可观测性。 | Azure Weights & Biases SDK for .NET. ML experiment tracking and model management via Azure Marketplace. Use for creating W&B instances, managing SSO, marketplace integration, and ML observability.
 risk: unknown
 source: community
 date_added: '2026-02-27'

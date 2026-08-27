@@ -1,6 +1,6 @@
 ---
 name: rag-architecture-review
-description: "Review an existing Retrieval-Augmented Generation system and find why it underperforms. Use when asked to review or audit a RAG pipeline, diagnose wrong/ungrounded answers from a 'chat with your docs' feature, or improve an already-built knowledge assistant. Produces a staged review — ingestion, chunking, retrieval, reranking, generation, evaluation — with prioritised findings, root causes, and concrete fixes."
+description: "审查现有的检索增强生成系统，找出其表现不佳的原因。当被要求审查或审计 RAG 管道、诊断「与文档对话」功能给出错误/无据答案的问题，或改进已建成的知识助手时使用。产出分阶段审查——摄取、分块、检索、重排、生成、评估——附按优先级排序的发现、根因和具体修复。 | Review an existing Retrieval-Augmented Generation system and find why it underperforms. Use when asked to review or audit a RAG pipeline, diagnose wrong/ungrounded answers from a 'chat with your docs' feature, or improve an already-built knowledge assistant. Produces a staged review — ingestion, chunking, retrieval, reranking, generation, evaluation — with prioritised findings, root causes, and concrete fixes."
 ---
 
 # RAG Architecture Review Skill

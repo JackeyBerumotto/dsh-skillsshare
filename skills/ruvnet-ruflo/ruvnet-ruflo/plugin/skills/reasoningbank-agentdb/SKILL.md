@@ -1,6 +1,6 @@
 ---
 name: "ReasoningBank with AgentDB"
-description: "Implement ReasoningBank adaptive learning with AgentDB's 150x faster vector database. Includes trajectory tracking, verdict judgment, memory distillation, and pattern recognition. Use when building self-learning agents, optimizing decision-making, or implementing experience replay systems."
+description: "基于 AgentDB 快 150 倍的向量数据库实现 ReasoningBank 自适应学习。包括轨迹跟踪、裁决判断、记忆蒸馏和模式识别。在构建自学习智能体、优化决策或实现经验回放系统时使用。 | Implement ReasoningBank adaptive learning with AgentDB's 150x faster vector database. Includes trajectory tracking, verdict judgment, memory distillation, and pattern recognition. Use when building self-learning agents, optimizing decision-making, or implementing experience replay systems."
 ---
 
 # ReasoningBank with AgentDB

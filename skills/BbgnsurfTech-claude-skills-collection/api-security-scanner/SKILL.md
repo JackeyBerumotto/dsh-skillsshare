@@ -2,7 +2,7 @@
 name: scanning-api-security
 version: 1.0.0
 description: |
-  Scan APIs for security vulnerabilities including injection, broken auth, and data exposure.
+  扫描 API 的安全漏洞，包括注入、失效的身份验证和数据暴露。在扫描 API 安全漏洞时使用。触发语句如「scan API security」「check for vulnerabilities」或「audit API security」。 |
   Use when scanning APIs for security vulnerabilities.
   Trigger with phrases like "scan API security", "check for vulnerabilities", or "audit API security".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(api:security-*)

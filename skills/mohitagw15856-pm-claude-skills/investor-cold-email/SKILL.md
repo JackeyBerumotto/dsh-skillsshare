@@ -1,6 +1,6 @@
 ---
 name: investor-cold-email
-description: "Write a cold or warm-intro email to an investor that actually gets a reply — short, specific, traction-forward, with a clear ask. Use when asked to email an investor, write a fundraising outreach, request a warm intro, or craft a forwardable blurb. Produces a tight cold email, a forwardable intro blurb a mutual contact can paste, and the follow-up — all skimmable on a phone."
+description: "撰写真正能收到回复的给投资人的冷邮件或温介绍邮件——简短、具体、突出进展、请求明确。在被要求给投资人发邮件、撰写融资外联、请求温介绍或打磨可转发的简介时使用。产出精炼的冷邮件、共同联系人可直接粘贴转发的介绍简介，以及跟进邮件——全部适合在手机上快速浏览。 | Write a cold or warm-intro email to an investor that actually gets a reply — short, specific, traction-forward, with a clear ask. Use when asked to email an investor, write a fundraising outreach, request a warm intro, or craft a forwardable blurb. Produces a tight cold email, a forwardable intro blurb a mutual contact can paste, and the follow-up — all skimmable on a phone."
 ---
 
 # Investor Cold Email Skill

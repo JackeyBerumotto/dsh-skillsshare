@@ -1,6 +1,6 @@
 ---
 name: code-explainer
-description: "Explain what a piece of code does in plain English, at the depth the reader needs. Use when asked to explain code, walk through a function, understand an unfamiliar snippet, or onboard to a file. Produces a one-line summary, a step-by-step walkthrough, the non-obvious parts called out, and any bugs or smells spotted along the way."
+description: "用通俗语言解释一段代码做了什么，深度随读者需要而定。当被要求解释代码、走读函数、理解陌生代码片段或上手一个文件时使用。产出一句话摘要、逐步走读、对不显而易见之处的标注，以及过程中发现的 bug 或代码异味。 | Explain what a piece of code does in plain English, at the depth the reader needs. Use when asked to explain code, walk through a function, understand an unfamiliar snippet, or onboard to a file. Produces a one-line summary, a step-by-step walkthrough, the non-obvious parts called out, and any bugs or smells spotted along the way."
 ---
 
 # Code Explainer Skill

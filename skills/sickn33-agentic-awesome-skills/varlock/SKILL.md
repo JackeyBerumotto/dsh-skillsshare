@@ -1,6 +1,6 @@
 ---
 name: varlock
-description: "Secure-by-default environment variable management for Claude Code sessions."
+description: "面向 Claude Code 会话的安全默认环境变量管理。 | Secure-by-default environment variable management for Claude Code sessions."
 risk: critical
 source: "https://github.com/dmno-dev/varlock"
 version: 1.0.0

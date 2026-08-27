@@ -1,6 +1,6 @@
 ---
 name: cold-email
-description: "Write B2B cold emails and follow-up sequences that earn replies. Use when creating outbound prospecting emails, SDR outreach, personalized opening lines, subject lines, CTAs, and multi-touch follow-up sequences."
+description: "撰写能赢得回复的 B2B 冷邮件和跟进序列。在创建外呼拓客邮件、SDR 外联、个性化开场白、主题行、CTA 和多轮次跟进序列时使用。 | Write B2B cold emails and follow-up sequences that earn replies. Use when creating outbound prospecting emails, SDR outreach, personalized opening lines, subject lines, CTAs, and multi-touch follow-up sequences."
 risk: unknown
 source: "https://github.com/coreyhaines31/marketingskills"
 date_added: "2026-03-21"

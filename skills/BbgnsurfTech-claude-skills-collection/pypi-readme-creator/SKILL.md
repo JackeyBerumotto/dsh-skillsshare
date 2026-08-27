@@ -1,6 +1,6 @@
 ---
 name: pypi-readme-creator
-description: When creating a README for a Python package. When preparing a package for PyPI publication. When README renders incorrectly on PyPI. When choosing between README.md and README.rst. When running twine check and seeing rendering errors. When configuring readme field in pyproject.toml.
+description: 适用于：为 Python 软件包创建 README、准备将软件包发布到 PyPI、README 在 PyPI 上渲染异常、在 README.md 与 README.rst 之间做选择、运行 twine check 时看到渲染错误，或在 pyproject.toml 中配置 readme 字段。 | When creating a README for a Python package. When preparing a package for PyPI publication. When README renders incorrectly on PyPI. When choosing between README.md and README.rst. When running twine check and seeing rendering errors. When configuring readme field in pyproject.toml.
 ---
 
 # PyPI README Creator

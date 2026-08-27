@@ -1,14 +1,6 @@
 ---
 name: monitoring-darkweb-sources
-description: 'Monitors dark web forums, marketplaces, paste sites, and ransomware
-  leak sites for mentions of organizational assets, leaked credentials, threatened
-  attacks, and threat actor communications to provide early warning intelligence.
-  Use when establishing dark web monitoring coverage, investigating specific data
-  breach claims, or enriching incident investigations with dark web context. Activates
-  for requests involving dark web OSINT, leak site monitoring, credential exposure,
-  Recorded Future dark web, or Tor hidden service intelligence.
-
-  '
+description: "监控暗网论坛、市场、粘贴站点和勒索软件泄露站点中提及组织资产、泄漏凭据、攻击威胁和威胁行为者通信的内容，提供预警情报。适用于建立暗网监控覆盖、调查特定数据泄露声明，或为事件调查补充暗网背景时使用。当请求涉及暗网 OSINT、泄露站点监控、凭据暴露、Recorded Future 暗网或 Tor 隐藏服务情报时激活。 | Monitors dark web forums, marketplaces, paste sites, and ransomware leak sites for mentions of organizational assets, leaked credentials, threatened attacks, and threat actor communications to provide early warning intelligence. Use when establishing dark web monitoring coverage, investigating specific data breach claims, or enriching incident investigations with dark web context. Activates for requests involving dark web OSINT, leak site monitoring, credential exposure, Recorded Future dark web, or Tor hidden service intelligence."
 domain: cybersecurity
 subdomain: threat-intelligence
 tags:

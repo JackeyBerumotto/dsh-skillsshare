@@ -1,6 +1,6 @@
 ---
 name: product-marketing
-description: When the user wants to create or update their product marketing context document. Also use when the user mentions 'product context,' 'marketing context,' 'set up context,' 'positioning,' 'who is my target audience,' 'describe my product,' 'ICP,' 'ideal customer profile,' or wants to...
+description: 当用户想要创建或更新其产品营销上下文文档时使用。当用户提到「product context」「marketing context」「set up context」「positioning」「who is my target audience」「describe my product」「ICP」「ideal customer profile」或希望……时也应使用。 | When the user wants to create or update their product marketing context document. Also use when the user mentions 'product context,' 'marketing context,' 'set up context,' 'positioning,' 'who is my target audience,' 'describe my product,' 'ICP,' 'ideal customer profile,' or wants to...
 risk: unknown
 source: https://github.com/coreyhaines31/marketingskills/tree/main/skills/product-marketing
 source_repo: coreyhaines31/marketingskills

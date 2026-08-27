@@ -1,6 +1,6 @@
 ---
 name: desktop-storage-electron
-description: Persistent storage, SQLite databases, and credential management in Electron apps
+description: Electron 应用中的持久化存储、SQLite 数据库和凭据管理 | Persistent storage, SQLite databases, and credential management in Electron apps
 ---
 
 # Electron Storage & Credentials

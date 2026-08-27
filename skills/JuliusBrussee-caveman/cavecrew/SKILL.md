@@ -1,7 +1,7 @@
 ---
 name: cavecrew
 description: >
-  Decision guide for delegating to caveman-style subagents. Tells the main
+  关于委派给穴居人风格子智能体的决策指南。告诉主线程何时生成 cavecrew-investigator（定位代码）、cavecrew-builder（1-2 个文件的小修改）或 cavecrew-reviewer（diff 评审），而不是内联完成工作或使用原生的 Explore。子智能体输出经过穴居人式压缩，注回主上下文的工具结果缩小约 60%——长会话中主上下文更耐用。触发词：「delegate to subagent」「use cavecrew」「spawn investigator/builder/reviewer」「save context」「compressed agent output」。 |
   thread WHEN to spawn `cavecrew-investigator` (locate code), `cavecrew-builder`
   (1-2 file edit), or `cavecrew-reviewer` (diff review) instead of doing the
   work inline or using vanilla `Explore`. Subagent output is caveman-compressed

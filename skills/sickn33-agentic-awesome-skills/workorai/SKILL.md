@@ -1,6 +1,6 @@
 ---
 name: workorai
-description: "WorkorAI talent-marketplace skill: candidates search jobs and manage applications; employers run the job lifecycle and get ranked candidate matches with white-box fit explanations."
+description: "WorkorAI 人才市场技能：求职者搜索职位并管理申请；雇主运营职位全生命周期，并获得带白盒匹配度解释的排序候选人推荐。 | WorkorAI talent-marketplace skill: candidates search jobs and manage applications; employers run the job lifecycle and get ranked candidate matches with white-box fit explanations."
 category: productivity
 risk: critical
 source: community

@@ -1,6 +1,6 @@
 ---
 name: model-card
-description: "Document a deployed ML/AI model so others can use it responsibly. Use when asked to write a model card, document a model's intended use and limitations, or prepare an AI model for review/launch. Produces a complete model card — intended use, training data, evaluation metrics across slices, limitations, ethical considerations, and a deployment checklist."
+description: "为已部署的 ML/AI 模型编写文档，让他人能够负责任地使用它。当被要求编写 model card、记录模型的预期用途和限制，或为 AI 模型的评审/上线做准备时使用。产出完整的 model card——预期用途、训练数据、各切片的评估指标、限制、伦理考量以及部署检查清单。 | Document a deployed ML/AI model so others can use it responsibly. Use when asked to write a model card, document a model's intended use and limitations, or prepare an AI model for review/launch. Produces a complete model card — intended use, training data, evaluation metrics across slices, limitations, ethical considerations, and a deployment checklist."
 ---
 
 # Model Card Skill

@@ -1,6 +1,6 @@
 ---
 name: security-checklist
-description: Reference document for monopoly security-checklist.
+description: 垄断安全检查清单的参考文档。 | Reference document for monopoly security-checklist.
 source: community
 risk: safe
 reports-to: monopoly

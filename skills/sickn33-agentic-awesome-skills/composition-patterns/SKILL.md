@@ -1,6 +1,6 @@
 ---
 name: composition-patterns
-description: "Use when working with composition-patterns tasks or workflows"
+description: "在处理组合模式（composition-patterns）相关任务或工作流时使用。 | Use when working with composition-patterns tasks or workflows"
 risk: safe
 source: "https://github.com/vercel-labs/agent-skills"
 date_added: "2026-06-02"

@@ -1,6 +1,6 @@
 ---
 name: usage-based-pricing-model
-description: "Model a usage-based pricing scheme with tiers and guardrails against bill shock Use when a user asks about usage-based pricing model. Produces a structured, professional deliverable."
+description: "为带分层与防账单冲击护栏的用量计费方案建模。当用户询问基于用量的定价模式时使用。产出结构化、专业的交付物。 | Model a usage-based pricing scheme with tiers and guardrails against bill shock Use when a user asks about usage-based pricing model. Produces a structured, professional deliverable."
 ---
 
 # Usage Based Pricing Model Skill

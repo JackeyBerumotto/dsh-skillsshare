@@ -1,7 +1,7 @@
 ---
 name: unity-physics
 description: >
-  Set up 3D physics in Unity 6: Rigidbody movement and forces, colliders, triggers vs
+  在 Unity 6 中搭建 3D 物理：Rigidbody 运动与力、碰撞体、触发与碰撞之别、基于层的碰撞、射线检测和关节。当添加 Rigidbody、处理 OnCollisionEnter/OnTriggerEnter、调整碰撞层、发射射线，或用户提到 Unity 物理、AddForce、isKinematic 或 linearVelocity 时使用。 |
   collisions, layer-based collision, raycasts, and joints. Use when adding a Rigidbody,
   handling OnCollisionEnter/OnTriggerEnter, tuning collision layers, casting rays, or when
   the user mentions Unity physics, AddForce, isKinematic, or linearVelocity.

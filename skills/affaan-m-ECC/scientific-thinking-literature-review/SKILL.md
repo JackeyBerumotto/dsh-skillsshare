@@ -1,6 +1,6 @@
 ---
 name: literature-review
-description: Systematic literature-review workflow for academic, biomedical, technical, and scientific topics, including search planning, source screening, synthesis, citation checks, and evidence logging.
+description: 面向学术、生物医学、技术和科学主题的系统性文献综述工作流，包括检索规划、来源筛选、综合归纳、引文核查和证据记录。 | Systematic literature-review workflow for academic, biomedical, technical, and scientific topics, including search planning, source screening, synthesis, citation checks, and evidence logging.
 metadata:
   origin: community
 ---

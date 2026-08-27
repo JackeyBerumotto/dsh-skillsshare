@@ -1,6 +1,6 @@
 ---
 name: gget
-description: "Fast CLI/Python queries to 20+ bioinformatics databases. Use for quick lookups: gene info, BLAST/BLAT, viral sequence downloads, AlphaFold structures, enrichment analysis, OpenTargets, COSMIC, CELLxGENE, and 8cube mouse specificity/expression data. Best for interactive exploration and simple queries. For batch processing or advanced BLAST use biopython; for multi-database Python workflows use bioservices."
+description: "通过 CLI/Python 快速查询 20 余个生物信息学数据库。用于快速查询：基因信息、BLAST/BLAT、病毒序列下载、AlphaFold 结构、富集分析、OpenTargets、COSMIC、CELLxGENE 以及 8cube 小鼠特异性/表达数据。最适合交互式探索与简单查询。批量处理或高级 BLAST 请用 biopython；多数据库 Python 工作流请用 bioservices。 | Fast CLI/Python queries to 20+ bioinformatics databases. Use for quick lookups: gene info, BLAST/BLAT, viral sequence downloads, AlphaFold structures, enrichment analysis, OpenTargets, COSMIC, CELLxGENE, and 8cube mouse specificity/expression data. Best for interactive exploration and simple queries. For batch processing or advanced BLAST use biopython; for multi-database Python workflows use bioservices."
 license: BSD-2-Clause license
 allowed-tools:
   - Read

@@ -1,7 +1,7 @@
 ---
 name: production-scheduling
 description: >
-  Codified expertise for production scheduling, job sequencing, line balancing,
+  离散与批量制造中生产排程、作业排序、产线平衡、换型优化和瓶颈解决的体系化专业知识。基于拥有 15 年以上经验的生产计划员整理而成。包含 TOC/鼓-缓冲-绳、SMED、OEE 分析、中断响应框架以及 ERP/MES 交互模式。在排产、解决瓶颈、优化换型、响应中断或平衡制造产线时使用。 |
   changeover optimization, and bottleneck resolution in discrete and batch
   manufacturing. Informed by production schedulers with 15+ years experience.
   Includes TOC/drum-buffer-rope, SMED, OEE analysis, disruption response

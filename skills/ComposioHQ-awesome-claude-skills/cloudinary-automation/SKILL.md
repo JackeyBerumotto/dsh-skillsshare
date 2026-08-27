@@ -1,6 +1,6 @@
 ---
 name: Cloudinary Automation
-description: "Automate Cloudinary media management including folder organization, upload presets, asset lookup, transformations, and usage monitoring through natural language commands"
+description: "通过自然语言命令自动化 Cloudinary 媒体管理，包括文件夹整理、上传预设、资源查找、转换以及用量监控 | Automate Cloudinary media management including folder organization, upload presets, asset lookup, transformations, and usage monitoring through natural language commands"
 requires:
   mcp:
     - rube

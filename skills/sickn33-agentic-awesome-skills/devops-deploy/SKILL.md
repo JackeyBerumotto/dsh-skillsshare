@@ -1,6 +1,6 @@
 ---
 name: devops-deploy
-description: "DevOps e deploy de aplicacoes — Docker, CI/CD com GitHub Actions, AWS Lambda, SAM, Terraform, infraestrutura como codigo e monitoramento."
+description: "应用 DevOps 与部署：Docker、GitHub Actions CI/CD、AWS Lambda、SAM、Terraform、基础设施即代码和监控。 | DevOps e deploy de aplicacoes — Docker, CI/CD com GitHub Actions, AWS Lambda, SAM, Terraform, infraestrutura como codigo e monitoramento."
 risk: critical
 source: community
 date_added: '2026-03-06'

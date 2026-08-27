@@ -1,7 +1,7 @@
 ---
 name: sharp-coder
 description: >
-  Two-layer performance skill combining disciplined THINK layer (surgical edits, simplicity) and terse SPEAK layer (caveman compression). Triggers on requests for brevity, token efficiency, or disciplined coding.
+  双层性能技能，结合严谨的 THINK 层（外科手术式编辑、追求简单）和精简的 SPEAK 层（穴居人式压缩）。在请求简洁、令牌效率或严谨编码时触发。 |
 risk: safe
 source: self
 source_type: self

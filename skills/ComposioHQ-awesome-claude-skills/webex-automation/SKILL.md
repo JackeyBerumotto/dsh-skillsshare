@@ -1,6 +1,6 @@
 ---
 name: Webex Automation
-description: "Automate Cisco Webex messaging, rooms, teams, webhooks, and people management through natural language commands"
+description: "通过自然语言命令自动化 Cisco Webex 消息、会议室、团队、Webhook 以及人员管理 | Automate Cisco Webex messaging, rooms, teams, webhooks, and people management through natural language commands"
 requires:
   mcp:
     - rube

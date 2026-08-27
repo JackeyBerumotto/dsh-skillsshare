@@ -1,6 +1,6 @@
 ---
 name: worker-benchmarks
-description: Run comprehensive worker system benchmarks and performance analysis
+description: 运行全面的 worker 系统基准测试与性能分析。 | Run comprehensive worker system benchmarks and performance analysis
 user-invocable: true
 ---
 

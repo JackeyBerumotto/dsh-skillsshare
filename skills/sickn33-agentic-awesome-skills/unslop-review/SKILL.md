@@ -1,6 +1,6 @@
 ---
 name: unslop-review
-description: 'Rewrites code review comments so they read like a human teammate wrote them. Cuts corporate-AI throat-clearing ("I noticed...", "I was wondering if perhaps...", "It might be worth considering..."). Each comment is direct: location, the issue, a concrete fix. Use when user says...'
+description: '改写代码评审评论，使其读起来像人类队友写的。删除企业腔 AI 的开场废话（「I noticed...」「I was wondering if perhaps...」「It might be worth considering...」）。每条评论直截了当：位置、问题、具体修复。当用户说出相应触发语时使用…… | Rewrites code review comments so they read like a human teammate wrote them. Cuts corporate-AI throat-clearing ("I noticed...", "I was wondering if perhaps...", "It might be worth considering..."). Each comment is direct: location, the issue, a concrete fix. Use when user says...'
 risk: unknown
 source: https://github.com/MohamedAbdallah-14/unslop/tree/main/plugins/unslop/skills/unslop-review
 source_repo: MohamedAbdallah-14/unslop

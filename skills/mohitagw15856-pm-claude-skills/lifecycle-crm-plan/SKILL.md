@@ -1,6 +1,6 @@
 ---
 name: lifecycle-crm-plan
-description: "Design lifecycle marketing / CRM journeys across the customer lifecycle. Use when asked to plan onboarding emails, lifecycle/CRM campaigns, drip sequences, re-engagement or winback flows, or a messaging calendar. Produces a lifecycle plan — stage map, the trigger/message/goal for each journey, channel & timing, segmentation, suppression rules, and success metrics."
+description: "设计覆盖客户全生命周期的生命周期营销/CRM 旅程。当被要求规划入驻邮件、生命周期/CRM 活动、滴灌序列、再互动或挽回流失流程，或消息日历时使用。产出生命周期计划：阶段图谱、每个旅程的触发条件/消息/目标、渠道与时机、细分策略、抑制规则以及成功指标。 | Design lifecycle marketing / CRM journeys across the customer lifecycle. Use when asked to plan onboarding emails, lifecycle/CRM campaigns, drip sequences, re-engagement or winback flows, or a messaging calendar. Produces a lifecycle plan — stage map, the trigger/message/goal for each journey, channel & timing, segmentation, suppression rules, and success metrics."
 ---
 
 # Lifecycle / CRM Plan Skill

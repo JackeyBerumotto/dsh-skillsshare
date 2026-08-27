@@ -1,6 +1,6 @@
 ---
 name: agent-observability-spec
-description: "Specify the tracing, metrics, and alerting for an AI agent or LLM feature in production. Use when asked what to log for an LLM app, design agent tracing or spans, define quality and cost monitors, or answer 'how do we know if the agent is misbehaving?'. Produces an observability spec with a trace schema, metric definitions with owners and alert thresholds, sampling and retention policy, and a privacy note for logged content."
+description: "为生产环境中的 AI 代理或 LLM 功能设定追踪、指标和告警。当被问到 LLM 应用该记录什么、设计代理追踪或 span、定义质量和成本监控，或回答「如何知道代理是否行为异常？」时使用。产出可观测性规格，包含追踪 schema、带负责人和告警阈值的指标定义、采样与保留策略，以及针对日志内容的隐私说明。 | Specify the tracing, metrics, and alerting for an AI agent or LLM feature in production. Use when asked what to log for an LLM app, design agent tracing or spans, define quality and cost monitors, or answer 'how do we know if the agent is misbehaving?'. Produces an observability spec with a trace schema, metric definitions with owners and alert thresholds, sampling and retention policy, and a privacy note for logged content."
 ---
 
 # Agent Observability Spec Skill

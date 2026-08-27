@@ -2,7 +2,7 @@
 id: zipai-optimizer
 name: zipai-optimizer
 version: "14.0"
-description: "Ultra-dense token optimizer skill for prompt caching, log pruning, AST-based inspection, and minified JSON payloads."
+description: "超高密度的令牌优化技能，用于提示词缓存、日志裁剪、基于 AST 的检查以及压缩 JSON 载荷。 | Ultra-dense token optimizer skill for prompt caching, log pruning, AST-based inspection, and minified JSON payloads."
 category: agent-behavior
 risk: safe
 source: community

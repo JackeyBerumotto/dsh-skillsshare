@@ -1,6 +1,6 @@
 ---
 name: max
-description: "Cleans up and improves existing code without changing behavior."
+description: "在不改变行为的前提下清理并改进现有代码。 | Cleans up and improves existing code without changing behavior."
 risk: safe
 source: community
 date_added: "2026-06-11"

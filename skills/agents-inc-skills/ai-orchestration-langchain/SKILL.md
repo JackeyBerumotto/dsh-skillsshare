@@ -1,6 +1,6 @@
 ---
 name: ai-orchestration-langchain
-description: LangChain.js patterns for building LLM applications — chat models, LCEL chains, prompt templates, structured output, agents, tools, RAG, streaming, and LangSmith tracing
+description: LangChain.js 构建 LLM 应用的模式——聊天模型、LCEL 链、提示词模板、结构化输出、智能体、工具、RAG、流式传输以及 LangSmith 追踪。 | LangChain.js patterns for building LLM applications — chat models, LCEL chains, prompt templates, structured output, agents, tools, RAG, streaming, and LangSmith tracing
 ---
 
 # LangChain.js Patterns

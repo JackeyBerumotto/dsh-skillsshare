@@ -1,6 +1,6 @@
 ---
 name: web-error-handling-error-boundaries
-description: Error boundary patterns, fallback UI, reset/retry, react-error-boundary library, React 19 createRoot error hooks
+description: 错误边界模式、回退 UI、重置/重试、react-error-boundary 库、React 19 createRoot 错误钩子 | Error boundary patterns, fallback UI, reset/retry, react-error-boundary library, React 19 createRoot error hooks
 ---
 
 # React Error Boundaries

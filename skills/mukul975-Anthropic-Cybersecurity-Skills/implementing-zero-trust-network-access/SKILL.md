@@ -1,11 +1,6 @@
 ---
 name: implementing-zero-trust-network-access
-description: 'Implementing Zero Trust Network Access (ZTNA) in cloud environments
-  by configuring identity-aware proxies, micro-segmentation, continuous verification
-  with conditional access policies, and replacing traditional VPN-based access with
-  BeyondCorp-style architectures across AWS, Azure, and GCP.
-
-  '
+description: "在云环境中实施零信任网络访问（ZTNA），配置身份感知代理、微分段和基于条件访问策略的持续验证，并跨越 AWS、Azure 和 GCP 以 BeyondCorp 风格架构取代传统基于 VPN 的访问。 | Implementing Zero Trust Network Access (ZTNA) in cloud environments by configuring identity-aware proxies, micro-segmentation, continuous verification with conditional access policies, and replacing traditional VPN-based access with BeyondCorp-style architectures across AWS, Azure, and GCP."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

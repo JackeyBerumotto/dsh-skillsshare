@@ -1,7 +1,7 @@
 ---
 name: level-design
 description: >
-  Design and build playable levels — the blockout/whitebox-to-playable workflow,
+  设计并构建可玩的关卡：从 blockout/白盒到可玩版本的工作流、玩家指标与网格布局、节奏与流程（紧张/休息曲线）、门控与关键路径，以及遭遇战设计。属于引擎无关实践。当用户提到关卡设计、blockout/白盒/灰盒、关卡布局、关卡节奏、遭遇战设计或通关关键路径时使用。 |
   player metrics and grid layout, pacing and flow (tension/rest curve), gating
   and the critical path, and encounter design. Engine-neutral practice. Use when
   the user mentions level design, blockout/whitebox/greybox, level layout, level

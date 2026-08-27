@@ -1,6 +1,6 @@
 ---
 name: "campaign-analytics"
-description: Analyzes campaign performance with multi-touch attribution, funnel conversion analysis, and ROI calculation for marketing optimization. Use when analyzing marketing campaigns, ad performance, attribution models, conversion rates, or calculating marketing ROI, ROAS, CPA, and campaign metrics across channels.
+description: 通过多触点归因、漏斗转化分析和 ROI 计算分析营销活动表现以优化营销。在分析营销活动、广告表现、归因模型、转化率，或计算跨渠道营销 ROI、ROAS、CPA 和活动指标时使用。 | Analyzes campaign performance with multi-touch attribution, funnel conversion analysis, and ROI calculation for marketing optimization. Use when analyzing marketing campaigns, ad performance, attribution models, conversion rates, or calculating marketing ROI, ROAS, CPA, and campaign metrics across channels.
 license: MIT
 metadata:
   version: 1.0.0

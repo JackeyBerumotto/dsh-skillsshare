@@ -1,6 +1,6 @@
 ---
 name: metric-gaslighting-detector
-description: "Find out how a dashboard, KPI report, or metrics slide is lying to you — before you repeat its story in a bigger room. Use when numbers feel too tidy, a narrative rests on one chart, or you inherited metrics you didn't define. Produces a deception audit: every metric graded for the eleven classic distortions (denominator games, survivorship, y-axis crimes, cherry-picked windows…), the story the data would tell under honest framing, and the three questions to ask the metric's owner."
+description: "找出仪表盘、KPI 报告或指标幻灯片如何在欺骗你——趁你还没在更大的场合复述它的故事。当数字显得过于齐整、叙事只押在一张图上，或你接手了并非自己定义的指标时使用。产出欺骗审计：每个指标按十一种经典扭曲逐项评分（分母把戏、幸存者偏差、y 轴造假、挑选时间窗……）、诚实框架下数据会讲的故事，以及该向指标负责人提出的三个问题。 | Find out how a dashboard, KPI report, or metrics slide is lying to you — before you repeat its story in a bigger room. Use when numbers feel too tidy, a narrative rests on one chart, or you inherited metrics you didn't define. Produces a deception audit: every metric graded for the eleven classic distortions (denominator games, survivorship, y-axis crimes, cherry-picked windows…), the story the data would tell under honest framing, and the three questions to ask the metric's owner."
 ---
 
 # Metric Gaslighting Detector

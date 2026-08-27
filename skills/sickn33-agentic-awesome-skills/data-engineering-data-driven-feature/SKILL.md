@@ -1,6 +1,6 @@
 ---
 name: data-engineering-data-driven-feature
-description: "Build features guided by data insights, A/B testing, and continuous measurement using specialized agents for analysis, implementation, and experimentation."
+description: "在数据洞察、A/B 测试和持续度量的引导下构建功能，借助分别负责分析、实施和实验的专用智能体。 | Build features guided by data insights, A/B testing, and continuous measurement using specialized agents for analysis, implementation, and experimentation."
 risk: unknown
 source: community
 date_added: "2026-02-27"

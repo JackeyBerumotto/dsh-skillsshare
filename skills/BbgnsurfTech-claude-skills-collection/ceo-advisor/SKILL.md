@@ -1,6 +1,6 @@
 ---
 name: ceo-advisor
-description: Executive leadership guidance for strategic decision-making, organizational development, and stakeholder management. Includes strategy analyzer, financial scenario modeling, board governance frameworks, and investor relations playbooks. Use when planning strategy, preparing board presentations, managing investors, developing organizational culture, making executive decisions, or when user mentions CEO, strategic planning, board meetings, investor updates, organizational leadership, or executive strategy.
+description: 面向战略决策、组织发展和干系人管理的高管领导力指引。包含战略分析器、财务情景建模、董事会治理框架和投资者关系手册。当规划战略、准备董事会演示、管理投资人、建设组织文化、做高管决策，或用户提到 CEO、战略规划、董事会会议、投资人动态、组织领导力或高管战略时使用。 | Executive leadership guidance for strategic decision-making, organizational development, and stakeholder management. Includes strategy analyzer, financial scenario modeling, board governance frameworks, and investor relations playbooks. Use when planning strategy, preparing board presentations, managing investors, developing organizational culture, making executive decisions, or when user mentions CEO, strategic planning, board meetings, investor updates, organizational leadership, or executive strategy.
 license: MIT
 metadata:
   version: 1.0.0

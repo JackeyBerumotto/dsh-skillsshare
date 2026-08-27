@@ -1,15 +1,6 @@
 ---
 name: detecting-command-and-control-over-dns
-description: 'Detects command-and-control (C2) communications tunneled through DNS
-  protocol including DNS tunneling tools (Iodine, dnscat2, dns2tcp, Cobalt Strike
-  DNS beacon), domain generation algorithms (DGA), encoded payload delivery via TXT/CNAME
-  records, and DNS beaconing patterns. Covers Shannon entropy analysis of query subdomains,
-  statistical anomaly detection, ML-based DGA classification, passive DNS correlation,
-  and Zeek/Suricata signature development. Activates for requests involving DNS-based
-  C2 detection, DNS tunnel identification, suspicious DNS traffic investigation, or
-  DGA domain classification.
-
-  '
+description: "检测经由 DNS 协议隧穿的命令与控制（C2）通信，包括 DNS 隧道工具（Iodine、dnscat2、dns2tcp、Cobalt Strike DNS 信标）、域名生成算法（DGA）、通过 TXT/CNAME 记录投递的编码载荷以及 DNS 信标模式。涵盖查询子域名的香农熵分析、统计异常检测、基于机器学习的 DGA 分类、被动 DNS 关联以及 Zeek/Suricata 特征开发。当请求涉及基于 DNS 的 C2 检测、DNS 隧道识别、可疑 DNS 流量调查或 DGA 域名分类时激活。 | Detects command-and-control (C2) communications tunneled through DNS protocol including DNS tunneling tools (Iodine, dnscat2, dns2tcp, Cobalt Strike DNS beacon), domain generation algorithms (DGA), encoded payload delivery via TXT/CNAME records, and DNS beaconing patterns. Covers Shannon entropy analysis of query subdomains, statistical anomaly detection, ML-based DGA classification, passive DNS correlation, and Zeek/Suricata signature development. Activates for requests involving DNS-based C2 detection, DNS tunnel identification, suspicious DNS traffic investigation, or DGA domain classification."
 domain: cybersecurity
 subdomain: network-security
 tags:

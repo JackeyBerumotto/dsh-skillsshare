@@ -1,6 +1,6 @@
 ---
 name: harness-learn
-description: Run a GEPA learning cycle via `metaharness learn` (upstream ADR-235, metaharness@0.3.0) — optimizes a harness genome against a SWE-bench-style slice manifest. $0 dry-run by default; `--run` is the explicit spend opt-in. Requires a metaharness repo checkout (`--repo` or $METAHARNESS_REPO) — without one it reports `checkout-required` with clone instructions. Degrades gracefully when metaharness is absent.
+description: 通过 metaharness learn（上游 ADR-235，metaharness@0.3.0）运行一个 GEPA 学习周期——针对 SWE-bench 风格的切片清单优化 harness 基因组。默认零成本演练；--run 是明确的花费授权。需要 metaharness 仓库检出（--repo 或 $METAHARNESS_REPO）——没有时报告 checkout-required 并附克隆指引。当 metaharness 缺失时优雅降级。 | Run a GEPA learning cycle via `metaharness learn` (upstream ADR-235, metaharness@0.3.0) — optimizes a harness genome against a SWE-bench-style slice manifest. $0 dry-run by default; `--run` is the explicit spend opt-in. Requires a metaharness repo checkout (`--repo` or $METAHARNESS_REPO) — without one it reports `checkout-required` with clone instructions. Degrades gracefully when metaharness is absent.
 argument-hint: "--host <h> --model <m> --slice <manifest> [--repo <checkout>] [--run] [--alert-on-fail]"
 allowed-tools: Bash
 ---

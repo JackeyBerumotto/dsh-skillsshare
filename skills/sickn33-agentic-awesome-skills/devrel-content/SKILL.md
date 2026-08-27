@@ -1,6 +1,6 @@
 ---
 name: devrel-content
-description: When the user wants to create technical content for developers including blog posts, tutorials, and documentation. Trigger phrases include "write a blog post," "technical article," "developer content," "tutorial," "devrel content," "dev blog," "technical writing," or "content for...
+description: 当用户想要为开发者创作技术内容（包括博客文章、教程和文档）时使用。触发词包括「write a blog post」「technical article」「developer content」「tutorial」「devrel content」「dev blog」「technical writing」或「content for……」。 | When the user wants to create technical content for developers including blog posts, tutorials, and documentation. Trigger phrases include "write a blog post," "technical article," "developer content," "tutorial," "devrel content," "dev blog," "technical writing," or "content for...
 risk: unknown
 source: https://github.com/jonathimer/devmarketing-skills/tree/main/skills/devrel-content
 source_repo: jonathimer/devmarketing-skills

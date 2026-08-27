@@ -1,6 +1,6 @@
 ---
 name: category-page-brief
-description: "Plan an e-commerce category / collection page that ranks and merchandises well. Use when asked to design a category page, a PLP (product listing page), a collection page, or to improve category SEO and merchandising. Produces a brief — search intent & keywords, intro copy, merchandising/sort logic, filters & facets, internal links, and SEO/technical notes — so the page converts browsers and earns organic traffic."
+description: "规划既能获得排名又利于商品陈列的电商分类/合集页。当被要求设计分类页、PLP（商品列表页）、合集页，或改进分类 SEO 与商品陈列时使用。产出一份简报——搜索意图与关键词、导语文案、陈列/排序逻辑、筛选器与分面、内链，以及 SEO/技术说明——让页面既能转化浏览者又能赢得自然流量。 | Plan an e-commerce category / collection page that ranks and merchandises well. Use when asked to design a category page, a PLP (product listing page), a collection page, or to improve category SEO and merchandising. Produces a brief — search intent & keywords, intro copy, merchandising/sort logic, filters & facets, internal links, and SEO/technical notes — so the page converts browsers and earns organic traffic."
 ---
 
 # Category Page Brief Skill

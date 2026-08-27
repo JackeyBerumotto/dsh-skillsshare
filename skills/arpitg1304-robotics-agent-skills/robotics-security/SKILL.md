@@ -1,7 +1,7 @@
 ---
 name: robotics-security
 description: >
-  Security hardening and best practices for robotic systems, covering SROS2 DDS security, network
+  面向机器人系统的安全加固与最佳实践，覆盖 SROS2 DDS 安全、网络分段、密钥管理、安全启动，以及物理与网络安全的交叉领域。当需要保护 ROS2 通信、配置 DDS 加密和访问控制、加固机器人机载计算机、管理证书和凭据、为机器人集群设置网络分段，或应对网络漏洞演变为物理安全风险的独特挑战时使用本技能。当用户提到 SROS2、DDS 安全、机器人安全、机器人加固、ROS2 加密、ROS2 访问控制、机器人网络安全、安全机器人部署、机器人证书、密钥库生成、机器人防火墙、急停安全、安全控制器隔离或面向机器人的 IEC 62443 时触发。 |
   segmentation, secrets management, secure boot, and the physical-cyber safety intersection. Use
   this skill when securing ROS2 communications, configuring DDS encryption and access control,
   hardening robot onboard computers, managing certificates and credentials, setting up network

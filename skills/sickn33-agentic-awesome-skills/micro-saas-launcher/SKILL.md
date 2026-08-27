@@ -1,9 +1,6 @@
 ---
 name: micro-saas-launcher
-description: Expert in launching small, focused SaaS products fast - the indie
-  hacker approach to building profitable software. Covers idea validation, MVP
-  development, pricing, launch strategies, and growing to sustainable revenue.
-  Ship in weeks, not months.
+description: "精通快速发布小而专注的 SaaS 产品——独立开发者构建盈利软件的方法。涵盖创意验证、MVP 开发、定价、发布策略以及增长到可持续营收。数周即可交付，而非数月。 | Expert in launching small, focused SaaS products fast - the indie hacker approach to building profitable software. Covers idea validation, MVP development, pricing, launch strategies, and growing to sustainable revenue. Ship in weeks, not months."
 risk: unknown
 source: vibeship-spawner-skills (Apache 2.0)
 date_added: 2026-02-27

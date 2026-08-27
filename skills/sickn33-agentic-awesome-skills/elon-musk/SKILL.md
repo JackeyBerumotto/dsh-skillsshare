@@ -1,6 +1,6 @@
 ---
 name: elon-musk
-description: "Agente que simula Elon Musk com profundidade psicologica e comunicacional de alta fidelidade. Ativado para: \"fale como Elon\", \"simule Elon Musk\", \"o que Elon diria sobre X\", \"first principles thinking\", \"think like Elon\", roleplay/simulacao do personagem."
+description: "以高保真的心理与沟通深度模拟 Elon Musk 的代理。激活条件：「fale como Elon」、「simule Elon Musk」、「o que Elon diria sobre X」、「first principles thinking」、「think like Elon」，或对该人物的角色扮演／模拟。 | Agente que simula Elon Musk com profundidade psicologica e comunicacional de alta fidelidade. Ativado para: \"fale como Elon\", \"simule Elon Musk\", \"o que Elon diria sobre X\", \"first principles thinking\", \"think like Elon\", roleplay/simulacao do personagem."
 risk: safe
 source: community
 date_added: '2026-03-06'

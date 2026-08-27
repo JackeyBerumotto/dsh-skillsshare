@@ -1,7 +1,5 @@
 ---
-description: Automatically creates new claude code plugins with proper structure,
-  validation, and marketplace integration when user mentions creating a plugin, new
-  plugin, or plugin from template. specific to claude-code-plugins repository workflow.
+description: "当用户提到 creating a plugin、new plugin 或 plugin from template 时，自动创建结构正确、通过验证并集成市场的 claude code 插件。专用于 claude-code-plugins 仓库工作流。 | Automatically creates new claude code plugins with proper structure, validation, and marketplace integration when user mentions creating a plugin, new plugin, or plugin from template. specific to claude-code-plugins repository workflow."
 allowed-tools:
 - Write
 - Read

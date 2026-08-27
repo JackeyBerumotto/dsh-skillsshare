@@ -1,6 +1,6 @@
 ---
 name: brandfetch-automation
-description: "Automate Brandfetch tasks via Rube MCP (Composio). Always search tools first for current schemas."
+description: "通过 Rube MCP（Composio）自动化 Brandfetch 任务。务必先搜索工具以获取最新 schema。 | Automate Brandfetch tasks via Rube MCP (Composio). Always search tools first for current schemas."
 requires:
   mcp: [rube]
 ---

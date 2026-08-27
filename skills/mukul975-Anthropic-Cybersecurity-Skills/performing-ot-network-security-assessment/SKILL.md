@@ -1,13 +1,6 @@
 ---
 name: performing-ot-network-security-assessment
-description: 'This skill covers conducting comprehensive security assessments of Operational
-  Technology (OT) networks including SCADA systems, DCS architectures, and industrial
-  control system communication paths. It addresses the Purdue Reference Model layers,
-  identifies IT/OT convergence risks, evaluates firewall rules between zones, and
-  maps industrial protocol traffic (Modbus, DNP3, OPC UA, EtherNet/IP) to detect misconfigurations,
-  unauthorized connections, and attack surfaces in critical infrastructure.
-
-  '
+description: "本技能涵盖对运营技术（OT）网络的全面安全评估，包括 SCADA 系统、DCS 架构与工业控制系统通信路径。内容涉及 Purdue 参考模型层级、识别 IT/OT 融合风险、评估区域间防火墙规则，以及映射工业协议流量（Modbus、DNP3、OPC UA、EtherNet/IP）以检测关键基础设施中的错误配置、未授权连接与攻击面。 | This skill covers conducting comprehensive security assessments of Operational Technology (OT) networks including SCADA systems, DCS architectures, and industrial control system communication paths. It addresses the Purdue Reference Model layers, identifies IT/OT convergence risks, evaluates firewall rules between zones, and maps industrial protocol traffic (Modbus, DNP3, OPC UA, EtherNet/IP) to detect misconfigurations, unauthorized connections, and attack surfaces in critical infrastructure."
 domain: cybersecurity
 subdomain: ot-ics-security
 tags:

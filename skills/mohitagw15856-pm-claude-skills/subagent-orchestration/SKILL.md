@@ -1,6 +1,6 @@
 ---
 name: subagent-orchestration
-description: "Decompose work across parallel subagents properly — task slicing that avoids collisions, briefs that stand alone, and result integration that catches contradictions. Use when work can genuinely parallelise (research fan-outs, multi-file changes, independent analyses), when deciding whether to delegate or do it yourself, or when past multi-agent runs produced conflicts and duplicated effort. Produces an orchestration plan: the parallel/sequential split, per-agent briefs, and the integration protocol."
+description: "正确地在多个并行子智能体间分解工作——避免冲突的任务切分、可独立执行的任务简报，以及能发现矛盾的结果整合。当工作确实可并行化（研究扇出、多文件修改、独立分析）、在决定委派还是自己做时，或过往多智能体运行曾产生冲突和重复劳动时使用。产出一份编排计划：并行／串行划分、每个智能体的简报以及整合协议。 | Decompose work across parallel subagents properly — task slicing that avoids collisions, briefs that stand alone, and result integration that catches contradictions. Use when work can genuinely parallelise (research fan-outs, multi-file changes, independent analyses), when deciding whether to delegate or do it yourself, or when past multi-agent runs produced conflicts and duplicated effort. Produces an orchestration plan: the parallel/sequential split, per-agent briefs, and the integration protocol."
 ---
 
 # Subagent Orchestration Skill

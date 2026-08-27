@@ -1,6 +1,6 @@
 ---
 name: developer-newsletter
-description: When the user wants to create, write, or improve a newsletter for developer audiences. Trigger phrases include "newsletter," "email marketing," "developer email," "weekly digest," "dev newsletter," "email subscribers," "newsletter growth," or "email list."
+description: 当用户想要为开发者受众创建、撰写或改进邮件通讯时使用。触发词包括「newsletter」「email marketing」「developer email」「weekly digest」「dev newsletter」「email subscribers」「newsletter growth」或「email list」。 | When the user wants to create, write, or improve a newsletter for developer audiences. Trigger phrases include "newsletter," "email marketing," "developer email," "weekly digest," "dev newsletter," "email subscribers," "newsletter growth," or "email list."
 risk: unknown
 source: https://github.com/jonathimer/devmarketing-skills/tree/main/skills/developer-newsletter
 source_repo: jonathimer/devmarketing-skills

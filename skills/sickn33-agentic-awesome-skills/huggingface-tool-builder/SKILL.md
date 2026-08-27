@@ -1,6 +1,6 @@
 ---
 name: huggingface-tool-builder
-description: Use this skill when the user wants to build tool/scripts or achieve a task where using data from the Hugging Face API would help. This is especially useful when chaining or combining API calls or the task will be repeated/automated. This Skill creates a reusable script to fetch, enrich...
+description: 当用户想要构建工具/脚本或完成任务，且使用 Hugging Face API 的数据会有帮助时使用此技能。在需要链式或组合调用 API，或任务将被重复/自动化时尤其有用。此技能会创建可复用的脚本来获取、丰富数据…… | Use this skill when the user wants to build tool/scripts or achieve a task where using data from the Hugging Face API would help. This is especially useful when chaining or combining API calls or the task will be repeated/automated. This Skill creates a reusable script to fetch, enrich...
 risk: unknown
 source: https://github.com/huggingface/skills/tree/main/skills/huggingface-tool-builder
 source_repo: huggingface/skills

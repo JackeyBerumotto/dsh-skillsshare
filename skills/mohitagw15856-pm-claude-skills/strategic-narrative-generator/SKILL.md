@@ -1,6 +1,6 @@
 ---
 name: strategic-narrative-generator
-description: "Generate the strategic story connecting a product roadmap to company goals in a form non-technical stakeholders can repeat. Use when asked to explain the roadmap, present strategy to leadership or the board, write the why behind the roadmap, create a narrative for all-hands, or make the roadmap tell a story. Produces a themed narrative with executive summary, progression arc, hard-question preparation, and what's-not-on-the-roadmap section."
+description: "生成将产品路线图与公司目标联系起来的战略故事，让非技术干系人也能复述。当被要求解释路线图、向管理层或董事会汇报战略、撰写路线图背后的缘由、为全员大会创作叙事，或让路线图会讲故事时使用。产出一个带主题的叙事，包含执行摘要、递进弧线、尖锐问题准备以及「不在路线图上」章节。 | Generate the strategic story connecting a product roadmap to company goals in a form non-technical stakeholders can repeat. Use when asked to explain the roadmap, present strategy to leadership or the board, write the why behind the roadmap, create a narrative for all-hands, or make the roadmap tell a story. Produces a themed narrative with executive summary, progression arc, hard-question preparation, and what's-not-on-the-roadmap section."
 ---
 
 # Strategic Narrative Generator Skill

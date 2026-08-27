@@ -1,6 +1,6 @@
 ---
 name: "culture-architect"
-description: "Build, measure, and evolve company culture as operational behavior — not wall posters. Covers mission/vision/values workshops, values-to-behaviors translation, culture code creation, culture health assessment, and cultural rituals by stage. Use when building company values, assessing culture health, designing cultural rituals, creating culture codes, handling culture clashes, or when user mentions culture, values, culture debt, founder culture, or culture code."
+description: "把公司文化当作可操作的行为来构建、衡量和演进——而不是墙上的标语。涵盖使命愿景价值观工作坊、价值观到行为的转译、文化准则制定、文化健康度评估，以及分阶段的文化仪式。当构建公司价值观、评估文化健康度、设计文化仪式、制定文化准则、处理文化冲突时，或当用户提到文化、价值观、文化债、创始人文化或文化准则时使用。 | Build, measure, and evolve company culture as operational behavior — not wall posters. Covers mission/vision/values workshops, values-to-behaviors translation, culture code creation, culture health assessment, and cultural rituals by stage. Use when building company values, assessing culture health, designing cultural rituals, creating culture codes, handling culture clashes, or when user mentions culture, values, culture debt, founder culture, or culture code."
 license: MIT
 metadata:
   version: 1.0.0

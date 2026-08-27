@@ -1,6 +1,6 @@
 ---
 name: short
-description: "Rewrite the previous response more briefly while preserving the substance."
+description: "在保留实质内容的前提下更简洁地重写上一条回复。 | Rewrite the previous response more briefly while preserving the substance."
 category: writing
 risk: safe
 source: community

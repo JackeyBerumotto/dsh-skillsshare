@@ -1,6 +1,6 @@
 ---
 name: sprint-velocity-analysis
-description: "Analyze sprint velocity data and produce an engineering team health report covering delivery trends, capacity utilization, and improvement recommendations. Use when asked to analyze sprint velocity, review team delivery health, identify delivery risks, or produce a retrospective data analysis. Produces a velocity trend analysis, health diagnosis table, top improvement recommendations with implementation steps, and a next-sprint capacity forecast."
+description: "分析冲刺速率数据并生成工程团队健康报告，涵盖交付趋势、产能利用率和改进建议。当被要求分析冲刺速率、评审团队交付健康状况、识别交付风险，或产出回顾性数据分析时使用。产出速率趋势分析、健康诊断表、带实施步骤的首要改进建议，以及下一个冲刺的产能预测。 | Analyze sprint velocity data and produce an engineering team health report covering delivery trends, capacity utilization, and improvement recommendations. Use when asked to analyze sprint velocity, review team delivery health, identify delivery risks, or produce a retrospective data analysis. Produces a velocity trend analysis, health diagnosis table, top improvement recommendations with implementation steps, and a next-sprint capacity forecast."
 ---
 
 # Sprint Velocity Analysis

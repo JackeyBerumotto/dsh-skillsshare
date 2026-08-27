@@ -1,7 +1,7 @@
 ---
 name: analyzing-security-headers
 description: |
-  Analyze HTTP security headers of web domains to identify vulnerabilities and misconfigurations.
+  分析网站域名的 HTTP 安全响应头，识别漏洞与错误配置。在需要审计网站安全响应头、评估响应头合规性，或获取 Web 应用安全建议时使用。触发短语如「analyze security headers」、「check HTTP headers」、「audit website security headers」或「evaluate CSP and HSTS configuration」。 |
   Use when you need to audit website security headers, assess header compliance, or get security recommendations for web applications.
   Trigger with phrases like "analyze security headers", "check HTTP headers", "audit website security headers", or "evaluate CSP and HSTS configuration".
 allowed-tools:

@@ -1,7 +1,6 @@
 ---
 name: enumerating-cloud-with-cloudfox
-description: Map AWS and Azure attack paths and find exploitable misconfigurations with
-  CloudFox.
+description: "使用 CloudFox 绘制 AWS 和 Azure 攻击路径，发现可利用的错误配置。 | Map AWS and Azure attack paths and find exploitable misconfigurations with CloudFox."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

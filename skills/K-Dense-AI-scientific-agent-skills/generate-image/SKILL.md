@@ -1,6 +1,6 @@
 ---
 name: generate-image
-description: Generate or edit images using AI models (FLUX, Nano Banana 2). Use for general-purpose image generation including photos, illustrations, artwork, visual assets, concept art, and any image that is not a technical diagram or schematic. For flowcharts, circuits, pathways, and technical diagrams, use the scientific-schematics skill instead.
+description: 使用 AI 模型（FLUX、Nano Banana 2）生成或编辑图像。用于通用图像生成，包括照片、插画、艺术作品、视觉素材、概念艺术，以及任何不属于技术图表或原理图的图像。对于流程图、电路、通路和技术图表，请改用 scientific-schematics 技能。 | Generate or edit images using AI models (FLUX, Nano Banana 2). Use for general-purpose image generation including photos, illustrations, artwork, visual assets, concept art, and any image that is not a technical diagram or schematic. For flowcharts, circuits, pathways, and technical diagrams, use the scientific-schematics skill instead.
 license: MIT license
 compatibility: Requires an OpenRouter API key
 metadata: {"version": "1.0", "skill-author": "K-Dense Inc."}

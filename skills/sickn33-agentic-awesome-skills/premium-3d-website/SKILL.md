@@ -1,6 +1,6 @@
 ---
 name: premium-3d-website
-description: Guidelines for building premium 3D websites, focusing on custom WebGL shaders, post-processing, physics-based interactions, smooth animations, preloaders, and device optimization.
+description: 构建高端 3D 网站的指南，聚焦自定义 WebGL 着色器、后处理、基于物理的交互、平滑动画、预加载器和设备优化。 | Guidelines for building premium 3D websites, focusing on custom WebGL shaders, post-processing, physics-based interactions, smooth animations, preloaders, and device optimization.
 category: frontend
 risk: safe
 source: self

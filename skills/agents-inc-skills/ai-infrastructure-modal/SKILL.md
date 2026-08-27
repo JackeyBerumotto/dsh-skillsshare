@@ -1,6 +1,6 @@
 ---
 name: ai-infrastructure-modal
-description: Serverless GPU compute platform for AI model deployment — web endpoints, GPU functions, model serving, and TypeScript client patterns
+description: 面向 AI 模型部署的无服务器 GPU 计算平台——Web 端点、GPU 函数、模型服务和 TypeScript 客户端模式。 | Serverless GPU compute platform for AI model deployment — web endpoints, GPU functions, model serving, and TypeScript client patterns
 ---
 
 # Modal Patterns

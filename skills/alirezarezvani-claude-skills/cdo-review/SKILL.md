@@ -1,6 +1,6 @@
 ---
 name: "cdo-review"
-description: "/cs:cdo-review <plan> — Decision-driven Chief Data Officer interrogation of any plan that touches training data, data architecture, data productization, or data team hiring. Use when validating training-data rights before model work, choosing warehouse vs lakehouse vs mesh, or valuing data assets for productization or M&A."
+description: "/cs:cdo-review <plan>——以决策为导向的 Chief Data Officer 对任何涉及训练数据、数据架构、数据产品化或数据团队招聘计划的审讯。适用于在模型工作前验证训练数据权利、在数仓、湖仓与数据网格之间做选择，或为产品化或并购评估数据资产价值时。 | /cs:cdo-review <plan> — Decision-driven Chief Data Officer interrogation of any plan that touches training data, data architecture, data productization, or data team hiring. Use when validating training-data rights before model work, choosing warehouse vs lakehouse vs mesh, or valuing data assets for productization or M&A."
 ---
 
 # /cs:cdo-review — CDO Forcing Questions

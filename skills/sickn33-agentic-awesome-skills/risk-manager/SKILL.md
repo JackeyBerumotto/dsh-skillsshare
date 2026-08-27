@@ -1,6 +1,6 @@
 ---
 name: risk-manager
-description: Monitor portfolio risk, R-multiples, and position limits. Creates hedging strategies, calculates expectancy, and implements stop-losses.
+description: 监控投资组合风险、R 倍数和仓位限制。创建对冲策略，计算期望值，并实施止损。 | Monitor portfolio risk, R-multiples, and position limits. Creates hedging strategies, calculates expectancy, and implements stop-losses.
 risk: safe
 source: community
 date_added: '2026-02-27'

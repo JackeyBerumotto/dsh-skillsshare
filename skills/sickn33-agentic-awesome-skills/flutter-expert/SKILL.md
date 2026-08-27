@@ -1,6 +1,6 @@
 ---
 name: flutter-expert
-description: Master Flutter development with Dart 3, advanced widgets, and multi-platform deployment.
+description: 掌握 Flutter 开发，运用 Dart 3、高级 widget 与多平台部署。 | Master Flutter development with Dart 3, advanced widgets, and multi-platform deployment.
 category: mobile
 risk: safe
 source: community

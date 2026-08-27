@@ -1,12 +1,6 @@
 ---
 name: detecting-anomalous-authentication-patterns
-description: 'Detects anomalous authentication patterns using UEBA analytics, statistical
-  baselines, and machine learning models to identify impossible travel, credential
-  stuffing, brute force, password spraying, and compromised account behaviors across
-  authentication logs. Activates for requests involving authentication anomaly detection,
-  login behavior analysis, UEBA implementation, or suspicious sign-in investigation.
-
-  '
+description: "使用 UEBA 分析、统计基线和机器学习模型检测异常身份验证模式，在身份验证日志中识别不可能旅行、撞库、暴力破解、密码喷射以及失陷账户行为。当请求涉及身份验证异常检测、登录行为分析、UEBA 实施或可疑登录调查时激活。 | Detects anomalous authentication patterns using UEBA analytics, statistical baselines, and machine learning models to identify impossible travel, credential stuffing, brute force, password spraying, and compromised account behaviors across authentication logs. Activates for requests involving authentication anomaly detection, login behavior analysis, UEBA implementation, or suspicious sign-in investigation."
 domain: cybersecurity
 subdomain: identity-access-management
 tags:

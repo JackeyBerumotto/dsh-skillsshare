@@ -1,6 +1,6 @@
 ---
 name: ai-infrastructure-replicate
-description: Replicate SDK patterns for TypeScript/Node.js -- client setup, predictions, streaming, webhooks, file handling, model versioning, deployments, and training
+description: 面向 TypeScript/Node.js 的 Replicate SDK 模式——客户端初始化、预测、流式传输、webhooks、文件处理、模型版本管理、部署和训练。 | Replicate SDK patterns for TypeScript/Node.js -- client setup, predictions, streaming, webhooks, file handling, model versioning, deployments, and training
 ---
 
 # Replicate SDK Patterns

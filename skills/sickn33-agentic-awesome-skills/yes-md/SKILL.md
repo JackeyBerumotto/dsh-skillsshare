@@ -1,6 +1,6 @@
 ---
 name: "yes-md"
-description: "6-layer AI governance: safety gates, evidence-based debugging, anti-slack detection, and machine-enforced hooks. Makes AI safe, thorough, and honest."
+description: "六层 AI 治理：安全闸门、基于证据的调试、防偷懒检测和机器强制钩子，让 AI 安全、彻底且诚实。 | 6-layer AI governance: safety gates, evidence-based debugging, anti-slack detection, and machine-enforced hooks. Makes AI safe, thorough, and honest."
 risk: safe
 source: community
 date_added: "2026-03-11"

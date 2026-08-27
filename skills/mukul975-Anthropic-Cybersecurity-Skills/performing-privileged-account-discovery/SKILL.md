@@ -1,8 +1,6 @@
 ---
 name: performing-privileged-account-discovery
-description: Discover and inventory all privileged accounts across enterprise infrastructure
-  including domain admins, local admins, service accounts, database admins, cloud
-  IAM roles, and application admin account
+description: "发现并盘点企业基础设施中的所有特权账户，包括域管理员、本地管理员、服务账户、数据库管理员、云 IAM 角色和应用管理员账户。 | Discover and inventory all privileged accounts across enterprise infrastructure including domain admins, local admins, service accounts, database admins, cloud IAM roles, and application admin account"
 domain: cybersecurity
 subdomain: identity-access-management
 tags:

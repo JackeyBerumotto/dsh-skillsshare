@@ -1,6 +1,6 @@
 ---
 name: seo-dataforseo
-description: "Use DataForSEO for live SERPs, keyword metrics, backlinks, competitor analysis, on-page checks, and AI visibility data. Trigger when the user needs real SEO data rather than static guidance."
+description: "使用 DataForSEO 获取实时 SERP、关键词指标、反向链接、竞争对手分析、页面检查和 AI 可见性数据。当用户需要真实 SEO 数据而非静态指导时触发。 | Use DataForSEO for live SERPs, keyword metrics, backlinks, competitor analysis, on-page checks, and AI visibility data. Trigger when the user needs real SEO data rather than static guidance."
 risk: unknown
 source: "https://github.com/AgriciDaniel/claude-seo"
 date_added: "2026-03-21"

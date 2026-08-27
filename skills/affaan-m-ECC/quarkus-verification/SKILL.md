@@ -1,6 +1,6 @@
 ---
 name: quarkus-verification
-description: "Verification loop for Quarkus projects: build, static analysis, tests with coverage, security scans, native compilation, and diff review before release or PR."
+description: "Quarkus 项目的验证闭环：构建、静态分析、带覆盖率的测试、安全扫描、原生编译，以及发布或提 PR 前的差异审查。 | Verification loop for Quarkus projects: build, static analysis, tests with coverage, security scans, native compilation, and diff review before release or PR."
 metadata:
   origin: ECC
 ---

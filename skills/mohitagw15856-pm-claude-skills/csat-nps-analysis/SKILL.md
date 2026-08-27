@@ -1,6 +1,6 @@
 ---
 name: csat-nps-analysis
-description: "Analyse CSAT / NPS / CES survey results and turn the score into actions. Use when asked to analyse NPS, CSAT, or CES data, compute an NPS score, interpret survey verbatims, or build a voice-of-customer readout. Produces a readout — the computed score, the trend & benchmark, themed analysis of the comments (what drives promoters vs. detractors), and prioritised actions. Includes a stdlib NPS/CSAT calculator."
+description: "分析 CSAT／NPS／CES 调查结果并把分数转化为行动。当被要求分析 NPS、CSAT 或 CES 数据、计算 NPS 分数、解读调查原始意见，或制作客户之声报告时使用。产出一份报告——计算得出的分数、趋势与基准、按主题归类的评论分析（驱动推荐者与贬损者的因素），以及按优先级排序的行动。内置仅依赖标准库的 NPS／CSAT 计算器。 | Analyse CSAT / NPS / CES survey results and turn the score into actions. Use when asked to analyse NPS, CSAT, or CES data, compute an NPS score, interpret survey verbatims, or build a voice-of-customer readout. Produces a readout — the computed score, the trend & benchmark, themed analysis of the comments (what drives promoters vs. detractors), and prioritised actions. Includes a stdlib NPS/CSAT calculator."
 ---
 
 # CSAT / NPS Analysis Skill

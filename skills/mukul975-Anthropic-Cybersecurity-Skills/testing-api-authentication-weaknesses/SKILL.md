@@ -1,14 +1,6 @@
 ---
 name: testing-api-authentication-weaknesses
-description: 'Tests API authentication mechanisms for weaknesses including broken
-  token validation, missing authentication on endpoints, weak password policies, credential
-  stuffing susceptibility, token leakage in URLs or logs, and session management flaws.
-  The tester evaluates JWT implementation, API key handling, OAuth flows, and session
-  token entropy to identify authentication bypasses. Maps to OWASP API2:2023 Broken
-  Authentication. Activates for requests involving API authentication testing, token
-  validation assessment, credential security testing, or API auth bypass.
-
-  '
+description: "测试 API 身份验证机制的弱点，包括令牌校验失效、端点缺失身份验证、弱密码策略、撞库易感性、URL 或日志中的令牌泄漏以及会话管理缺陷。测试人员评估 JWT 实现、API 密钥处理、OAuth 流程与会话令牌熵，以发现身份验证绕过。对应 OWASP API2:2023 Broken Authentication。适用于涉及 API 身份验证测试、令牌校验评估、凭据安全测试或 API 身份验证绕过的请求。 | Tests API authentication mechanisms for weaknesses including broken token validation, missing authentication on endpoints, weak password policies, credential stuffing susceptibility, token leakage in URLs or logs, and session management flaws. The tester evaluates JWT implementation, API key handling, OAuth flows, and session token entropy to identify authentication bypasses. Maps to OWASP API2:2023 Broken Authentication. Activates for requests involving API authentication testing, token validation assessment, credential security testing, or API auth bypass."
 domain: cybersecurity
 subdomain: api-security
 tags:

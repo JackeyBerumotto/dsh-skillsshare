@@ -1,6 +1,6 @@
 ---
 name: infra-iac-terraform
-description: Infrastructure as Code with HashiCorp Terraform
+description: 使用 HashiCorp Terraform 的基础设施即代码。 | Infrastructure as Code with HashiCorp Terraform
 ---
 
 # Terraform Patterns

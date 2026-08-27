@@ -1,6 +1,6 @@
 ---
 name: runway-planner
-description: "Turn burn and cash into a clear runway picture and a raise decision — months left, default-alive vs default-dead, and what to cut or change. Use when asked to calculate runway, model burn rate, decide when to raise, figure out if the company is default-alive, or plan a scenario with hiring/cuts. Produces the runway math, a default-alive verdict, and dated trigger points for raising or acting. Not financial advice."
+description: "把资金消耗和现金变成清晰的跑道图和融资决策——剩余月数、默认存活还是默认死亡、该削减或改变什么。当被要求计算跑道、建模消耗率、决定何时融资、判断公司是否默认存活，或规划包含招聘/裁员的场景时使用。产出跑道计算、默认存活结论，以及带日期的融资或行动触发点。不构成财务建议。 | Turn burn and cash into a clear runway picture and a raise decision — months left, default-alive vs default-dead, and what to cut or change. Use when asked to calculate runway, model burn rate, decide when to raise, figure out if the company is default-alive, or plan a scenario with hiring/cuts. Produces the runway math, a default-alive verdict, and dated trigger points for raising or acting. Not financial advice."
 ---
 
 # Runway Planner Skill

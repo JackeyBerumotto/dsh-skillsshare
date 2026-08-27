@@ -1,6 +1,6 @@
 ---
 name: mermaid-expert
-description: Create Mermaid diagrams for flowcharts, sequences, ERDs, and architectures. Masters syntax for all diagram types and styling.
+description: 创建用于流程图、时序图、ERD 和架构的 Mermaid 图。精通所有图类型的语法和样式设置。 | Create Mermaid diagrams for flowcharts, sequences, ERDs, and architectures. Masters syntax for all diagram types and styling.
 risk: unknown
 source: community
 date_added: '2026-02-27'

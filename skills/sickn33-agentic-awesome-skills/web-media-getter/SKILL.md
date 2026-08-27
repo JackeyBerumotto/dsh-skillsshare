@@ -1,6 +1,6 @@
 ---
 name: web-media-getter
-description: "One query across free image / video / GIF APIs (stock + historical/archival + GIF engines), returning normalized, license-tagged results with optional top-K download + attribution sidecar. The retrieval peer to local semantic search and generative media."
+description: "一次查询横跨免费的图片/视频/GIF API（素材图库 + 历史/档案 + GIF 引擎），返回规范化、带许可标签的结果，可选 top-K 下载和署名附属文件。它是本地语义搜索与生成式媒体的对等检索组件。 | One query across free image / video / GIF APIs (stock + historical/archival + GIF engines), returning normalized, license-tagged results with optional top-K download + attribution sidecar. The retrieval peer to local semantic search and generative media."
 risk: safe
 source: community
 source_type: community

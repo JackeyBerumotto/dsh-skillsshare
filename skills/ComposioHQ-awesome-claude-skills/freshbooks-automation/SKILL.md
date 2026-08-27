@@ -1,6 +1,6 @@
 ---
 name: FreshBooks Automation
-description: "FreshBooks Automation: manage businesses, projects, time tracking, and billing in FreshBooks cloud accounting"
+description: "FreshBooks 自动化：在 FreshBooks 云会计中管理业务、项目、时间追踪与账单 | FreshBooks Automation: manage businesses, projects, time tracking, and billing in FreshBooks cloud accounting"
 requires:
   mcp: [rube]
 ---

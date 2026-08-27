@@ -1,6 +1,6 @@
 ---
 name: leiloeiro-avaliacao
-description: Avaliacao pericial de imoveis em leilao. Valor de mercado, liquidacao forcada, ABNT NBR 14653, metodos comparativo/renda/custo, CUB e margem de seguranca.
+description: 拍卖房产的司法鉴定评估。涵盖市场价值、强制清算、ABNT NBR 14653、比较法、收益法、成本法、CUB 与安全边际。 | Avaliacao pericial de imoveis em leilao. Valor de mercado, liquidacao forcada, ABNT NBR 14653, metodos comparativo/renda/custo, CUB e margem de seguranca.
 risk: safe
 source: community
 date_added: '2026-03-06'

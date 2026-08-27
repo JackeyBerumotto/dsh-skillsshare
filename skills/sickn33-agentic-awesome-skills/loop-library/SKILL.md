@@ -1,6 +1,6 @@
 ---
 name: loop-library
-description: "Find, compare, adapt, and design bounded AI-agent feedback loops with explicit checks, stop rules, guardrails, and handoffs."
+description: "查找、比较、改编并设计有界的 AI 智能体反馈回路，含显式检查、停止规则、护栏与交接。 | Find, compare, adapt, and design bounded AI-agent feedback loops with explicit checks, stop rules, guardrails, and handoffs."
 category: ai-agents
 risk: safe
 source: official

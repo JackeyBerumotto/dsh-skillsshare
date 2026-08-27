@@ -1,7 +1,7 @@
 ---
 name: godot-signals-groups
 description: >
-  Build event-driven, decoupled Godot 4.x gameplay with signals and node groups:
+  使用信号和节点组在 Godot 4.x 中构建事件驱动、松耦合的游戏玩法：声明并发射自定义信号、用 Callable 连接（含 bind 与 one-shot），以及通过组和 call_group 向多个节点广播。当在 Godot 项目中接线节点通信、用信号替换紧耦合引用、发射或连接事件，或移植 3.x 的 connect（「sig」，self，「method」）写法时使用。 |
   declare and emit custom signals, connect with Callables (incl. bind/one-shot),
   and broadcast to many nodes via groups and call_group. Use when wiring node
   communication in a Godot project, replacing tight references with signals,

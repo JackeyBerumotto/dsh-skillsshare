@@ -1,6 +1,6 @@
 ---
 name: public-comment
-description: "Draft a persuasive public comment on a proposed rule, regulation, or plan. Use when asked to comment on a rulemaking, respond to a consultation, submit feedback on a proposed regulation, or write a comment to an agency. Produces a structured comment: your position, specific evidence-based arguments tied to the proposal's text, suggested edits, and the impact — the kind agencies must consider on the record."
+description: "就拟议规则、法规或计划起草有说服力的公众意见。当被要求就规则制定发表意见、回应咨询、就拟议法规提交反馈，或向机构撰写意见时使用。产出结构化的意见：立场、与提案文本挂钩的具体循证论据、修改建议以及影响——属于机构在正式记录中必须考虑的那类意见。 | Draft a persuasive public comment on a proposed rule, regulation, or plan. Use when asked to comment on a rulemaking, respond to a consultation, submit feedback on a proposed regulation, or write a comment to an agency. Produces a structured comment: your position, specific evidence-based arguments tied to the proposal's text, suggested edits, and the impact — the kind agencies must consider on the record."
 ---
 
 # Public Comment Skill

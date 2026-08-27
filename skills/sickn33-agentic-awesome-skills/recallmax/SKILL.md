@@ -1,6 +1,6 @@
 ---
 name: recallmax
-description: "FREE — God-tier long-context memory for AI agents. Injects 500K-1M clean tokens, auto-summarizes with tone/intent preservation, compresses 14-turn history into 800 tokens."
+description: "免费——面向 AI 智能体的顶级长上下文记忆。注入 50 万至 100 万干净 token，自动摘要并保留语气/意图，把 14 轮历史压缩进 800 token。 | FREE — God-tier long-context memory for AI agents. Injects 500K-1M clean tokens, auto-summarizes with tone/intent preservation, compresses 14-turn history into 800 tokens."
 category: memory
 risk: safe
 source: community

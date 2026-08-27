@@ -1,6 +1,6 @@
 ---
 name: doc-importer
-description: Converts external documents (PDF, DOCX, PPTX, XLSX, HTML) into editable markdown. Use when ingesting external files for rewriting or project integration.
+description: 将外部文档（PDF、DOCX、PPTX、XLSX、HTML）转换为可编辑的 markdown。在摄取外部文件以进行改写或项目集成时使用。 | Converts external documents (PDF, DOCX, PPTX, XLSX, HTML) into editable markdown. Use when ingesting external files for rewriting or project integration.
 alwaysApply: false
 category: artifact-generation
 tags:

@@ -1,7 +1,7 @@
 ---
 name: seo-sitemap
 description: >
-  Analyze existing XML sitemaps or generate new ones with industry templates.
+  分析现有 XML 站点地图，或使用行业模板生成新的站点地图。校验格式、URL 和结构。当用户说「sitemap」、「generate sitemap」、「sitemap issues」或「XML sitemap」时使用。 |
   Validates format, URLs, and structure. Use when user says "sitemap",
   "generate sitemap", "sitemap issues", or "XML sitemap".
 risk: unknown

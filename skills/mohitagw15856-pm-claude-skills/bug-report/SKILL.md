@@ -1,6 +1,6 @@
 ---
 name: bug-report
-description: "Write a clear, reproducible bug report that gets fixed fast. Use when asked to write a bug report, file a defect, report an issue, or turn 'it's broken' into an actionable ticket. Produces a structured report — a precise title, steps to reproduce, expected vs. actual, environment, severity/priority, and evidence — so a developer can reproduce and fix it without a back-and-forth."
+description: "撰写清晰、可复现的 bug 报告，让问题快速修复。在被要求编写 bug 报告、提交缺陷、报告问题，或把「它坏了」变成可执行工单时使用。产出结构化报告——精确的标题、复现步骤、预期与实际对比、环境、严重程度/优先级和证据——让开发者无需来回沟通即可复现并修复。 | Write a clear, reproducible bug report that gets fixed fast. Use when asked to write a bug report, file a defect, report an issue, or turn 'it's broken' into an actionable ticket. Produces a structured report — a precise title, steps to reproduce, expected vs. actual, environment, severity/priority, and evidence — so a developer can reproduce and fix it without a back-and-forth."
 ---
 
 # Bug Report Skill

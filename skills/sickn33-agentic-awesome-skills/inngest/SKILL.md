@@ -1,7 +1,6 @@
 ---
 name: inngest
-description: Inngest expert for serverless-first background jobs, event-driven
-  workflows, and durable execution without managing queues or workers.
+description: "Inngest 专家，用于无服务器优先的后台任务、事件驱动工作流以及无需管理队列或工作进程的持久化执行。 | Inngest expert for serverless-first background jobs, event-driven workflows, and durable execution without managing queues or workers."
 risk: none
 source: vibeship-spawner-skills (Apache 2.0)
 date_added: 2026-02-27

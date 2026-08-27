@@ -1,6 +1,6 @@
 ---
 name: user-stories
-description: "Create user stories following the 3 C's (Card, Conversation, Confirmation) and INVEST criteria with descriptions, design links, and acceptance criteria. Use when writing user stories, breaking down features into backlog items, or defining acceptance criteria."
+description: "按照 3C 原则（Card、Conversation、Confirmation）和 INVEST 标准创建用户故事，包含描述、设计链接和验收标准。当撰写用户故事、将功能拆解为待办条目或定义验收标准时使用。 | Create user stories following the 3 C's (Card, Conversation, Confirmation) and INVEST criteria with descriptions, design links, and acceptance criteria. Use when writing user stories, breaking down features into backlog items, or defining acceptance criteria."
 ---
 # User Stories
 

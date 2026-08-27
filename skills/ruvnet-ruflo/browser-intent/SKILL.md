@@ -1,6 +1,6 @@
 ---
 name: browser-intent
-description: Execute a natural-language browser intent via page-agent (browser_act) when the target is easier to describe than to select — degrades gracefully when page-agent or an OpenAI-compatible LLM provider isn't configured
+description: 当目标更容易用语言描述而不是用选择器定位时，通过 page-agent（browser_act）执行自然语言浏览器意图——在未配置 page-agent 或 OpenAI 兼容 LLM 提供方时会优雅降级 | Execute a natural-language browser intent via page-agent (browser_act) when the target is easier to describe than to select — degrades gracefully when page-agent or an OpenAI-compatible LLM provider isn't configured
 argument-hint: "<task-description> [--url <url>] [--session <id>]"
 allowed-tools: mcp__claude-flow__browser_act mcp__claude-flow__browser_open mcp__claude-flow__browser_snapshot mcp__claude-flow__browser_close mcp__claude-flow__aidefence_has_pii mcp__claude-flow__aidefence_is_safe Bash Read
 ---

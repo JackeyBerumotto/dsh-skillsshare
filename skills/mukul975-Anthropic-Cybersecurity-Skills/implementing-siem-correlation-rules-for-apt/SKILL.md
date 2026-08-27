@@ -1,10 +1,6 @@
 ---
 name: implementing-siem-correlation-rules-for-apt
-description: Write multi-event correlation rules that detect APT lateral movement
-  by chaining Windows authentication events, process execution telemetry, and network
-  connection logs across hosts. Uses Splunk SPL and Sigma rule format to correlate
-  Event IDs 4624, 4648, 4688, and Sysmon Events 1/3 within sliding time windows to
-  surface attack sequences invisible to single-event detections.
+description: "编写多事件关联规则，通过跨主机链接 Windows 身份验证事件、进程执行遥测与网络连接日志来检测 APT 横向移动。使用 Splunk SPL 与 Sigma 规则格式，在滑动时间窗内关联事件 ID 4624、4648、4688 与 Sysmon 事件 1/3，揭示单一事件检测无法发现的攻击序列。 | Write multi-event correlation rules that detect APT lateral movement by chaining Windows authentication events, process execution telemetry, and network connection logs across hosts. Uses Splunk SPL and Sigma rule format to correlate Event IDs 4624, 4648, 4688, and Sysmon Events 1/3 within sliding time windows to surface attack sequences invisible to single-event detections."
 domain: cybersecurity
 subdomain: security-operations
 tags:

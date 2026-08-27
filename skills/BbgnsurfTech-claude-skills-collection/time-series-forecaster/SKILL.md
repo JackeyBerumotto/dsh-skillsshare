@@ -1,8 +1,5 @@
 ---
-description: This skill enables claude to forecast future values based on historical
-  time series data. it analyzes time-dependent data to identify trends, seasonality,
-  and other patterns. use this skill when the user asks to predict future values of
-  a time ser...
+description: "本技能使 claude 能够基于历史时间序列数据预测未来数值。它分析时间相关数据以识别趋势、季节性与其他模式。当用户要求预测时间序列的未来取值时使用本技能。 | This skill enables claude to forecast future values based on historical time series data. it analyzes time-dependent data to identify trends, seasonality, and other patterns. use this skill when the user asks to predict future values of a time ser..."
 allowed-tools:
 - Read
 - Write

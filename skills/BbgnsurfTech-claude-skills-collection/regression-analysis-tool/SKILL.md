@@ -1,8 +1,5 @@
 ---
-description: This skill empowers claude to perform regression analysis and modeling
-  using the regression-analysis-tool plugin. it analyzes datasets, generates appropriate
-  regression models (linear, polynomial, etc.), validates the models, and provides
-  performa...
+description: "本技能使 claude 能够使用 regression-analysis-tool 插件执行回归分析与建模。它分析数据集、生成合适的回归模型（线性、多项式等）、验证模型并给出性能评估结果。 | This skill empowers claude to perform regression analysis and modeling using the regression-analysis-tool plugin. it analyzes datasets, generates appropriate regression models (linear, polynomial, etc.), validates the models, and provides performa..."
 allowed-tools:
 - Read
 - Write

@@ -1,6 +1,6 @@
 ---
 name: context-management-context-restore
-description: "Use when working with context management context restore"
+description: "在处理上下文管理（context management）中的上下文恢复（context restore）时使用。 | Use when working with context management context restore"
 risk: unknown
 source: community
 date_added: "2026-02-27"

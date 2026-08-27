@@ -1,7 +1,7 @@
 ---
 name: explain-like-socrates
 description: >
-  Explains concepts using Socratic-style dialogue. Use when the user asks to explain, teach or help understand a concept like socrates.
+  以苏格拉底式对话解释概念。当用户要求解释、讲授或帮助理解某个概念（如 socrates）时使用。 |
 risk: safe
 source: original
 date_added: "2026-03-11"

@@ -1,6 +1,6 @@
 ---
 name: monorepo-management
-description: "Build efficient, scalable monorepos that enable code sharing, consistent tooling, and atomic changes across multiple packages and applications."
+description: "构建高效、可扩展的单体仓库，实现跨多个包和应用的代码共享、工具链一致和原子化变更。 | Build efficient, scalable monorepos that enable code sharing, consistent tooling, and atomic changes across multiple packages and applications."
 risk: safe
 source: community
 date_added: "2026-02-27"

@@ -1,6 +1,6 @@
 ---
 name: abusing-dpapi-for-credential-access
-description: Extract DPAPI-protected secrets such as credentials and browser data offline and online.
+description: 离线与在线提取受 DPAPI 保护的机密，如凭据与浏览器数据。 | Extract DPAPI-protected secrets such as credentials and browser data offline and online.
 domain: cybersecurity
 subdomain: red-teaming
 tags:

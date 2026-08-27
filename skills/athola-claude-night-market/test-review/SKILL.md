@@ -1,6 +1,6 @@
 ---
 name: test-review
-description: Evaluates test suites for coverage gaps, TDD/BDD compliance, and anti-patterns. Use when auditing test quality or before a major release.
+description: 评估测试套件的覆盖缺口、TDD/BDD 合规性和反模式。在审计测试质量或重大版本发布前使用。 | Evaluates test suites for coverage gaps, TDD/BDD compliance, and anti-patterns. Use when auditing test quality or before a major release.
 alwaysApply: false
 category: testing
 tags:

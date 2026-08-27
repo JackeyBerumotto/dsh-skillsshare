@@ -1,6 +1,6 @@
 ---
 name: git-platform
-description: Detects git forge (GitHub/GitLab/Bitbucket) and maps CLI commands cross-platform. Use when writing skills that must run on any git hosting provider.
+description: 检测 git 托管平台（GitHub/GitLab/Bitbucket）并跨平台映射 CLI 命令。当编写必须在任意 git 托管平台上运行的技能时使用。 | Detects git forge (GitHub/GitLab/Bitbucket) and maps CLI commands cross-platform. Use when writing skills that must run on any git hosting provider.
 alwaysApply: false
 category: infrastructure
 tags:

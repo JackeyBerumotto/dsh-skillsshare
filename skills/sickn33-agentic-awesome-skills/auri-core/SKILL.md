@@ -1,6 +1,6 @@
 ---
 name: auri-core
-description: "Auri: assistente de voz inteligente (Alexa + Claude claude-opus-4-20250805). Visao do produto, persona Vitoria Neural, stack AWS, modelo Free/Pro/Business/Enterprise, roadmap 4 fases, GTM, north star WAC e analise competitiva."
+description: "Auri：智能语音助手（Alexa + Claude claude-opus-4-20250805）。涵盖产品愿景、Vitoria Neural 人设、AWS 技术栈、Free/Pro/Business/Enterprise 分级模式、四阶段路线图、GTM、北极星指标 WAC 以及竞争分析。 | Auri: assistente de voz inteligente (Alexa + Claude claude-opus-4-20250805). Visao do produto, persona Vitoria Neural, stack AWS, modelo Free/Pro/Business/Enterprise, roadmap 4 fases, GTM, north star WAC e analise competitiva."
 risk: none
 source: community
 date_added: '2026-03-06'

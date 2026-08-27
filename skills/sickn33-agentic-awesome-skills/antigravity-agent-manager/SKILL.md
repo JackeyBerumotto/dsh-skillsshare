@@ -1,6 +1,6 @@
 ---
 name: antigravity-agent-manager
-description: "Configure and orchestrate parallel agents using the standalone Antigravity 2.0 Agent Manager and Antigravity IDE."
+description: "使用独立的 Antigravity 2.0 Agent Manager 和 Antigravity IDE 配置并编排并行 Agent。 | Configure and orchestrate parallel agents using the standalone Antigravity 2.0 Agent Manager and Antigravity IDE."
 category: general
 risk: critical
 source: self

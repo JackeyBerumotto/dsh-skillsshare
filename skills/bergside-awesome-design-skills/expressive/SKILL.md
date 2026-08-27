@@ -1,6 +1,6 @@
 ---
 name: expressive
-description: Vibrant, personality-driven design with bold colors, playful graphics, and dynamic layouts that balance creativity with structure.
+description: 鲜活而富有个性的设计，以大胆的色彩、俏皮的图形和动态版式在创意与结构之间取得平衡。 | Vibrant, personality-driven design with bold colors, playful graphics, and dynamic layouts that balance creativity with structure.
 license: MIT
 metadata:
   author: typeui.sh

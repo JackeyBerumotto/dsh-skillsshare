@@ -1,14 +1,6 @@
 ---
 name: analyzing-sbom-for-supply-chain-vulnerabilities
-description: 'Parses Software Bill of Materials (SBOM) in CycloneDX and SPDX JSON
-  formats to identify supply chain vulnerabilities by correlating components against
-  the NVD CVE database via the NVD 2.0 API. Builds dependency graphs, calculates risk
-  scores, identifies transitive vulnerability paths, and generates compliance reports.
-  Activates for requests involving SBOM analysis, software composition analysis, supply
-  chain security assessment, dependency vulnerability scanning, CycloneDX/SPDX parsing,
-  or CVE correlation.
-
-  '
+description: "解析 CycloneDX 和 SPDX JSON 格式的软件物料清单（SBOM），通过 NVD 2.0 API 将组件与 NVD CVE 数据库关联，识别供应链漏洞。构建依赖图、计算风险评分、识别传递性漏洞路径并生成合规报告。当请求涉及 SBOM 分析、软件组成分析、供应链安全评估、依赖漏洞扫描、CycloneDX/SPDX 解析或 CVE 关联时激活。 | Parses Software Bill of Materials (SBOM) in CycloneDX and SPDX JSON formats to identify supply chain vulnerabilities by correlating components against the NVD CVE database via the NVD 2.0 API. Builds dependency graphs, calculates risk scores, identifies transitive vulnerability paths, and generates compliance reports. Activates for requests involving SBOM analysis, software composition analysis, supply chain security assessment, dependency vulnerability scanning, CycloneDX/SPDX parsing, or CVE correlation."
 domain: cybersecurity
 subdomain: supply-chain-security
 tags:

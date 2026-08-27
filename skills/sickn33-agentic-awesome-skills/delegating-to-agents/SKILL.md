@@ -1,6 +1,6 @@
 ---
 name: delegating-to-agents
-description: "Delegate bounded work to other AI agents while preserving context, ownership, and progress checks."
+description: "将有边界的工作委派给其他 AI 智能体，同时保留上下文、权属和进度检查。 | Delegate bounded work to other AI agents while preserving context, ownership, and progress checks."
 category: agent-orchestration
 risk: critical
 source: community

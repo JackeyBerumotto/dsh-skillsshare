@@ -1,8 +1,6 @@
 ---
 name: conducting-post-incident-lessons-learned
-description: Facilitate structured post-incident reviews to identify root causes,
-  document what worked and failed, and produce actionable recommendations to improve
-  future incident response.
+description: "组织开展结构化的事后复盘，识别根本原因、记录哪些做法有效、哪些失败，并产出可操作的建议以改进未来的事件响应。 | Facilitate structured post-incident reviews to identify root causes, document what worked and failed, and produce actionable recommendations to improve future incident response."
 domain: cybersecurity
 subdomain: incident-response
 tags:

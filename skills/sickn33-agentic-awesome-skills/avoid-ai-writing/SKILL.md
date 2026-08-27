@@ -1,6 +1,6 @@
 ---
 name: avoid-ai-writing
-description: "Audit and rewrite content to remove 21 categories of AI writing patterns with a 43-entry replacement table"
+description: "审计并改写内容，借助包含 43 个条目的替换表消除 21 类 AI 写作痕迹。 | Audit and rewrite content to remove 21 categories of AI writing patterns with a 43-entry replacement table"
 risk: none
 source: https://github.com/conorbronsdon/avoid-ai-writing
 date_added: "2026-03-06"

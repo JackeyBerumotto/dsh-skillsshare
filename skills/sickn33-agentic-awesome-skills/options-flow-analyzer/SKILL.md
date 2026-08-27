@@ -1,6 +1,6 @@
 ---
 name: options-flow-analyzer
-description: Real vs lottery call separation for options P/C ratio analysis — prevents signal inversion from deep OTM noise
+description: 期权 P/C 比率分析中真实成交与彩票式合约的分离——防止深度价外噪音造成信号反转。 | Real vs lottery call separation for options P/C ratio analysis — prevents signal inversion from deep OTM noise
 category: finance
 risk: safe
 source: community

@@ -1,6 +1,6 @@
 ---
 name: vow-enforcement
-description: Classifies and enforces constraints via soft vows, hard vows, and Nen Court layers. Use when designing or auditing enforcement mechanisms for project rules.
+description: 通过软誓约、硬誓约和念能力法庭（Nen Court）分层对约束进行分类和强制执行。当设计或审计项目规则的执行机制时使用。 | Classifies and enforces constraints via soft vows, hard vows, and Nen Court layers. Use when designing or auditing enforcement mechanisms for project rules.
 alwaysApply: false
 category: workflow-methodology
 tags:

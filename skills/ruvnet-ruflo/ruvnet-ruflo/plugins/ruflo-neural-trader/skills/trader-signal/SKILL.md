@@ -1,6 +1,6 @@
 ---
 name: trader-signal
-description: Generate trading signals using npx neural-trader anomaly detection engine with Z-score scoring and neural prediction
+description: 使用 npx neural-trader 异常检测引擎生成交易信号，采用 Z-score 评分和神经预测 | Generate trading signals using npx neural-trader anomaly detection engine with Z-score scoring and neural prediction
 allowed-tools: Bash Read mcp__claude-flow__memory_store mcp__claude-flow__memory_retrieve mcp__claude-flow__memory_search mcp__claude-flow__memory_delete mcp__claude-flow__neural_predict mcp__claude-flow__agentdb_pattern-search
 argument-hint: "[--strategy NAME] [--symbols AAPL,MSFT]"
 ---

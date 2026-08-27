@@ -1,6 +1,6 @@
 ---
 name: api-database-mongodb
-description: MongoDB with Mongoose ODM - schemas, models, queries, aggregation, indexes, TypeScript typing, connection management
+description: 使用 Mongoose ODM 的 MongoDB——schema、模型、查询、聚合、索引、TypeScript 类型与连接管理。 | MongoDB with Mongoose ODM - schemas, models, queries, aggregation, indexes, TypeScript typing, connection management
 ---
 
 # MongoDB / Mongoose Patterns

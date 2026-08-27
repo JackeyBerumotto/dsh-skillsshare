@@ -1,6 +1,6 @@
 ---
 name: senior-ml-engineer
-description: World-class ML engineering skill for productionizing ML models, MLOps, and building scalable ML systems. Expertise in PyTorch, TensorFlow, model deployment, feature stores, model monitoring, and ML infrastructure. Includes LLM integration, fine-tuning, RAG systems, and agentic AI. Use when deploying ML models, building ML platforms, implementing MLOps, or integrating LLMs into production systems.
+description: 世界级 ML 工程技能，用于 ML 模型生产化、MLOps 和构建可扩展的 ML 系统。精通 PyTorch、TensorFlow、模型部署、特征存储、模型监控和 ML 基础设施。涵盖 LLM 集成、微调、RAG 系统和智能体 AI。在部署 ML 模型、构建 ML 平台、实施 MLOps 或将 LLM 集成到生产系统时使用。 | World-class ML engineering skill for productionizing ML models, MLOps, and building scalable ML systems. Expertise in PyTorch, TensorFlow, model deployment, feature stores, model monitoring, and ML infrastructure. Includes LLM integration, fine-tuning, RAG systems, and agentic AI. Use when deploying ML models, building ML platforms, implementing MLOps, or integrating LLMs into production systems.
 ---
 
 # Senior ML/AI Engineer

@@ -1,6 +1,6 @@
 ---
 name: web-security-testing
-description: "Web application security testing workflow for OWASP Top 10 vulnerabilities including injection, XSS, authentication flaws, and access control issues."
+description: "针对 OWASP Top 10 漏洞的 Web 应用安全测试工作流，涵盖注入、XSS、认证缺陷和访问控制问题。 | Web application security testing workflow for OWASP Top 10 vulnerabilities including injection, XSS, authentication flaws, and access control issues."
 category: granular-workflow-bundle
 risk: safe
 source: personal

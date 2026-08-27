@@ -1,6 +1,6 @@
 ---
 name: "marketing-ops"
-description: "Central router for the marketing skill ecosystem. Use when unsure which marketing skill to use, when orchestrating a multi-skill campaign, or when coordinating across content, SEO, CRO, channels, and analytics. Also use when the user mentions 'marketing help,' 'campaign plan,' 'what should I do next,' 'marketing priorities,' or 'coordinate marketing.'"
+description: "营销技能生态的中央路由器。当不确定用哪个营销技能、编排多技能营销活动，或在内容、SEO、CRO、渠道和分析之间协调时使用。当用户提到「marketing help」「campaign plan」「what should I do next」「marketing priorities」或「coordinate marketing」时也应使用。 | Central router for the marketing skill ecosystem. Use when unsure which marketing skill to use, when orchestrating a multi-skill campaign, or when coordinating across content, SEO, CRO, channels, and analytics. Also use when the user mentions 'marketing help,' 'campaign plan,' 'what should I do next,' 'marketing priorities,' or 'coordinate marketing.'"
 license: MIT
 metadata:
   version: 1.0.0

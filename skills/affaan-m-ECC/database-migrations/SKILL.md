@@ -1,6 +1,6 @@
 ---
 name: database-migrations
-description: Database migration best practices for schema changes, data migrations, rollbacks, and zero-downtime deployments across PostgreSQL, MySQL, and common ORMs (Prisma, Drizzle, Kysely, Django, TypeORM, golang-migrate).
+description: 数据库迁移最佳实践，涵盖 schema 变更、数据迁移、回滚以及零停机部署，适用于 PostgreSQL、MySQL 和常用 ORM（Prisma、Drizzle、Kysely、Django、TypeORM、golang-migrate）。 | Database migration best practices for schema changes, data migrations, rollbacks, and zero-downtime deployments across PostgreSQL, MySQL, and common ORMs (Prisma, Drizzle, Kysely, Django, TypeORM, golang-migrate).
 metadata:
   origin: ECC
 ---

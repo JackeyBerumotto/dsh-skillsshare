@@ -1,6 +1,6 @@
 ---
 name: commit
-description: ALWAYS use this skill when committing code changes — never commit directly without it. Creates commits following Sentry conventions with proper conventional commit format and issue references. Trigger on any commit, git commit, save changes, or commit message task.
+description: 提交代码变更时始终使用本技能——绝不绕过它直接提交。按照 Sentry 规范创建提交，采用规范的约定式提交格式并关联 issue。任何提交、git commit、保存变更或提交信息任务都会触发。 | ALWAYS use this skill when committing code changes — never commit directly without it. Creates commits following Sentry conventions with proper conventional commit format and issue references. Trigger on any commit, git commit, save changes, or commit message task.
 risk: critical
 source: community
 ---

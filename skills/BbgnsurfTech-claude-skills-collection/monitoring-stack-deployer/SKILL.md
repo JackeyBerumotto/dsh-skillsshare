@@ -1,5 +1,5 @@
 ---
-description: Use when deploying monitoring stacks including Prometheus, Grafana, and Datadog. Trigger with phrases like "deploy monitoring stack", "setup prometheus", "configure grafana", or "install datadog agent". Generates production-ready configurations with metric collection, visualization dashboards, and alerting rules.
+description: 在部署监控栈（包括 Prometheus、Grafana 和 Datadog）时使用。触发词如「deploy monitoring stack」「setup prometheus」「configure grafana」或「install datadog agent」。生成带指标采集、可视化看板和告警规则的生产级配置。 | Use when deploying monitoring stacks including Prometheus, Grafana, and Datadog. Trigger with phrases like "deploy monitoring stack", "setup prometheus", "configure grafana", or "install datadog agent". Generates production-ready configurations with metric collection, visualization dashboards, and alerting rules.
 allowed-tools:
 - Read
 - Write

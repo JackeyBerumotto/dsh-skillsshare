@@ -1,6 +1,6 @@
 ---
 name: fixing-motion-performance
-description: Audit and fix animation performance issues including layout thrashing, compositor properties, scroll-linked motion, and blur effects. Use when animations stutter, transitions jank, or reviewing CSS/JS animation performance.
+description: 审计并修复动画性能问题，包括布局抖动、合成器属性、滚动联动动画以及模糊效果。在动画卡顿、过渡掉帧或审查 CSS/JS 动画性能时使用。 | Audit and fix animation performance issues including layout thrashing, compositor properties, scroll-linked motion, and blur effects. Use when animations stutter, transitions jank, or reviewing CSS/JS animation performance.
 risk: unknown
 source: https://github.com/ibelick/ui-skills/tree/main/skills/fixing-motion-performance
 source_repo: ibelick/ui-skills

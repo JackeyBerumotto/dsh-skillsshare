@@ -1,6 +1,6 @@
 ---
 name: app-builder
-description: "Main application building orchestrator. Creates full-stack applications from natural language requests. Determines project type, selects tech stack, coordinates agents."
+description: "主应用构建编排器。根据自然语言需求创建全栈应用。确定项目类型、选择技术栈、协调各代理。 | Main application building orchestrator. Creates full-stack applications from natural language requests. Determines project type, selects tech stack, coordinates agents."
 risk: unknown
 source: community
 date_added: "2026-02-27"

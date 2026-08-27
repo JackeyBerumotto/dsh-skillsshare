@@ -1,6 +1,6 @@
 ---
 name: giving-feedback
-description: "Turn a vague concern into specific, kind, actionable feedback. Use when asked to give feedback, write a feedback note, prepare to tell someone something hard about their work, or coach a report/peer. Produces ready-to-deliver feedback structured on situation–behaviour–impact, separating observation from judgement, with the change requested and an opening line — calibrated to praise or constructive."
+description: "把模糊的不满转化为具体、友善、可执行的反馈。当被要求给予反馈、撰写反馈便签、准备告诉他人其工作中存在的难题，或辅导下属/同事时使用。产出可直接交付的反馈，按情境—行为—影响结构组织，将观察与评判分开，包含期望的改变和开场白——可按表扬或建设性目的进行校准。 | Turn a vague concern into specific, kind, actionable feedback. Use when asked to give feedback, write a feedback note, prepare to tell someone something hard about their work, or coach a report/peer. Produces ready-to-deliver feedback structured on situation–behaviour–impact, separating observation from judgement, with the change requested and an opening line — calibrated to praise or constructive."
 ---
 
 # Giving Feedback Skill

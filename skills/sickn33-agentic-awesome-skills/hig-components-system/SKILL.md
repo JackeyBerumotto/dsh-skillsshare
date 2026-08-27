@@ -1,6 +1,6 @@
 ---
 name: hig-components-system
-description: 'Apple HIG guidance for system experience components: widgets, live activities, notifications, complications, home screen quick actions, top shelf, watch faces, app clips, and app shortcuts.'
+description: 'Apple HIG 中系统体验组件的指南：小组件、实时活动、通知、复杂功能、主屏幕快速操作、顶部栏、表盘、App Clip 和应用快捷方式。 | Apple HIG guidance for system experience components: widgets, live activities, notifications, complications, home screen quick actions, top shelf, watch faces, app clips, and app shortcuts.'
 risk: unknown
 source: community
 date_added: '2026-02-27'

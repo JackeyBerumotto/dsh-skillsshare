@@ -1,6 +1,6 @@
 ---
 name: agent-self-evaluation
-description: Use after completing any non-trivial task. The agent self-rates its output on 5 axes — accuracy, completeness, clarity, actionability, conciseness — with concrete evidence per criterion. Produces a structured 1-5 scorecard with specific improvement suggestions.
+description: 在完成任何非平凡任务后使用。智能体在 5 个维度上自评其产出——准确性、完整性、清晰度、可执行性、简洁性——每个标准附带具体证据。产出结构化的 1-5 记分卡和具体的改进建议。 | Use after completing any non-trivial task. The agent self-rates its output on 5 axes — accuracy, completeness, clarity, actionability, conciseness — with concrete evidence per criterion. Produces a structured 1-5 scorecard with specific improvement suggestions.
 origin: ECC
 ---
 

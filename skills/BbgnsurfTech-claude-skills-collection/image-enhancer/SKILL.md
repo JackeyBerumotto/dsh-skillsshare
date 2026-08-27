@@ -1,6 +1,6 @@
 ---
 name: image-enhancer
-description: Improves the quality of images, especially screenshots, by enhancing resolution, sharpness, and clarity. Perfect for preparing images for presentations, documentation, or social media posts.
+description: 提升图像（尤其是截图）的质量，增强分辨率、锐度和清晰度。非常适合为演示文稿、文档或社交媒体帖子准备图像。 | Improves the quality of images, especially screenshots, by enhancing resolution, sharpness, and clarity. Perfect for preparing images for presentations, documentation, or social media posts.
 ---
 
 # Image Enhancer

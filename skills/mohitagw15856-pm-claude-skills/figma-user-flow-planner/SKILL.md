@@ -1,6 +1,6 @@
 ---
 name: figma-user-flow-planner
-description: "Plan user flows and screen states for a Figma design before any designing starts. Use when asked to plan a user flow, map out screens for a feature, define screen states, plan a Figma file structure, or work out what needs to be designed before opening Figma. Produces a complete flow map with all screens, states, entry/exit points, and a suggested Figma page structure."
+description: "在开始任何设计之前，为 Figma 设计规划用户流程和界面状态。当被要求规划用户流程、为某个功能梳理界面、定义界面状态、规划 Figma 文件结构，或在打开 Figma 前弄清需要设计什么时使用。产出包含所有界面、状态、进入/退出点的完整流程图，以及建议的 Figma 页面结构。 | Plan user flows and screen states for a Figma design before any designing starts. Use when asked to plan a user flow, map out screens for a feature, define screen states, plan a Figma file structure, or work out what needs to be designed before opening Figma. Produces a complete flow map with all screens, states, entry/exit points, and a suggested Figma page structure."
 ---
 
 # Figma User Flow Planner Skill

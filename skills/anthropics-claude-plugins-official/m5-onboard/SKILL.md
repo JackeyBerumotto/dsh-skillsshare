@@ -1,6 +1,6 @@
 ---
 name: m5-onboard
-description: End-to-end onboarding for a freshly-plugged-in M5Stack ESP32 device (Cardputer, Cardputer-Adv, Core, CoreS3, Stick) — detect on USB, flash UIFlow 2.0 firmware, and install the Claude Buddy MicroPython app bundle. Use whenever the user plugs in or wants to flash/provision/reset an M5Stack or ESP32 board, or says "m5-onboard go".
+description: 为新插入的 M5Stack ESP32 设备（Cardputer、Cardputer-Adv、Core、CoreS3、Stick）提供端到端开箱配置——USB 检测、刷入 UIFlow 2.0 固件并安装 Claude Buddy MicroPython 应用包。当用户插入或想要刷机/初始化/重置 M5Stack 或 ESP32 开发板，或说出「m5-onboard go」时使用。 | End-to-end onboarding for a freshly-plugged-in M5Stack ESP32 device (Cardputer, Cardputer-Adv, Core, CoreS3, Stick) — detect on USB, flash UIFlow 2.0 firmware, and install the Claude Buddy MicroPython app bundle. Use whenever the user plugs in or wants to flash/provision/reset an M5Stack or ESP32 board, or says "m5-onboard go".
 ---
 
 # M5Stack Onboarding

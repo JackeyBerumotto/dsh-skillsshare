@@ -1,6 +1,6 @@
 ---
 name: seo-structure-architect
-description: Analyzes and optimizes content structure including header hierarchy, suggests schema markup, and internal linking opportunities. Creates search-friendly content organization.
+description: 分析并优化内容结构（包括标题层级），建议 schema 标记与内部链接机会，创建对搜索引擎友好的内容组织。 | Analyzes and optimizes content structure including header hierarchy, suggests schema markup, and internal linking opportunities. Creates search-friendly content organization.
 risk: unknown
 source: community
 date_added: '2026-02-27'

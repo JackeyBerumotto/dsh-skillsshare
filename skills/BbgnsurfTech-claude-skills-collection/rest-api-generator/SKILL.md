@@ -2,7 +2,7 @@
 name: generating-rest-apis
 version: 1.0.0
 description: |
-  Generate complete REST API implementations from OpenAPI specifications or database schemas.
+  根据 OpenAPI 规范或数据库架构生成完整的 REST API 实现。在生成 RESTful API 实现时使用。触发短语如「generate REST API」、「create RESTful API」或「build REST endpoints」。 |
   Use when generating RESTful API implementations.
   Trigger with phrases like "generate REST API", "create RESTful API", or "build REST endpoints".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(api:rest-*)

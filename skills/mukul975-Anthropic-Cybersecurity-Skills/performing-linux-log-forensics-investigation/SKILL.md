@@ -1,8 +1,6 @@
 ---
 name: performing-linux-log-forensics-investigation
-description: Perform forensic investigation of Linux system logs including syslog,
-  auth.log, systemd journal, kern.log, and application logs to reconstruct user activity,
-  detect unauthorized access, and establish event timelines on compromised Linux systems.
+description: "对 Linux 系统日志执行取证调查，包括 syslog、auth.log、systemd journal、kern.log 和应用日志，重建用户活动、检测未授权访问，并在失陷的 Linux 系统上建立事件时间线。 | Perform forensic investigation of Linux system logs including syslog, auth.log, systemd journal, kern.log, and application logs to reconstruct user activity, detect unauthorized access, and establish event timelines on compromised Linux systems."
 domain: cybersecurity
 subdomain: digital-forensics
 tags:

@@ -1,7 +1,7 @@
 ---
 name: "generate"
 description: >-
-  Generate Playwright tests. Use when user says "write tests", "generate tests",
+  生成 Playwright 测试。当用户说「write tests」「generate tests」「add tests for」「test this component」「e2e test」「create test for」「test this page」或「test this feature」时使用。 |
   "add tests for", "test this component", "e2e test", "create test for",
   "test this page", or "test this feature".
 ---

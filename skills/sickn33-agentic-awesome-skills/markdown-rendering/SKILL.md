@@ -1,6 +1,6 @@
 ---
 name: markdown-rendering
-description: "Open Markdown reliably in cmux panes and recover from blank rendered surfaces."
+description: "在 cmux 窗格中可靠地打开 Markdown，并从空白的渲染界面中恢复。 | Open Markdown reliably in cmux panes and recover from blank rendered surfaces."
 category: productivity
 risk: safe
 source: community

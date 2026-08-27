@@ -1,6 +1,6 @@
 ---
 name: tracking-application-response-times
-description: Track and optimize application response times across API endpoints, database queries, and service calls. Use when monitoring performance or identifying bottlenecks. Trigger with phrases like "track response times", "monitor API performance", or "analyze latency".
+description: 跟踪并优化 API 端点、数据库查询和服务调用的应用响应时间。用于监控性能或识别瓶颈时。使用「track response times」「monitor API performance」「analyze latency」等短语触发。 | Track and optimize application response times across API endpoints, database queries, and service calls. Use when monitoring performance or identifying bottlenecks. Trigger with phrases like "track response times", "monitor API performance", or "analyze latency".
 version: 1.0.0
 allowed-tools:
 - Read

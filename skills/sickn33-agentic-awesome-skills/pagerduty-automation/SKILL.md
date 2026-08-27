@@ -1,6 +1,6 @@
 ---
 name: pagerduty-automation
-description: "Automate PagerDuty tasks via Rube MCP (Composio): manage incidents, services, schedules, escalation policies, and on-call rotations. Always search tools first for current schemas."
+description: "通过 Rube MCP（Composio）自动化 PagerDuty 任务：管理事件、服务、排班、升级策略和值班轮换。务必先搜索工具以获取最新 schema。 | Automate PagerDuty tasks via Rube MCP (Composio): manage incidents, services, schedules, escalation policies, and on-call rotations. Always search tools first for current schemas."
 risk: critical
 source: community
 date_added: "2026-02-27"

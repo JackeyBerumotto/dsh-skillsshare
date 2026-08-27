@@ -1,6 +1,6 @@
 ---
 name: web-meta-framework-vitepress
-description: VitePress 1.x — Vue-powered static site generator for documentation sites, built on Vite
+description: VitePress 1.x——基于 Vite 构建、由 Vue 驱动，面向文档站点的静态网站生成器。 | VitePress 1.x — Vue-powered static site generator for documentation sites, built on Vite
 ---
 
 # VitePress

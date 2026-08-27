@@ -1,6 +1,6 @@
 ---
 name: vibrant
-description: Lively, colorful design with bold playful typography, warm accents, and dynamic visual energy.
+description: 活泼多彩的设计，配以大胆而有趣的排版、暖色点缀与充满动感的视觉活力。 | Lively, colorful design with bold playful typography, warm accents, and dynamic visual energy.
 license: MIT
 metadata:
   author: typeui.sh

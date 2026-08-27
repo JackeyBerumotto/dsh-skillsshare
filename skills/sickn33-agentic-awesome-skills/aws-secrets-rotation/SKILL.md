@@ -1,6 +1,6 @@
 ---
 name: aws-secrets-rotation
-description: "Automate AWS secrets rotation for RDS, API keys, and credentials"
+description: "自动化轮换 AWS 密钥，涵盖 RDS、API key 和凭据。 | Automate AWS secrets rotation for RDS, API keys, and credentials"
 category: security
 risk: safe
 source: community

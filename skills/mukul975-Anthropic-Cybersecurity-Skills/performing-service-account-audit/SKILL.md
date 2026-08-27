@@ -1,8 +1,6 @@
 ---
 name: performing-service-account-audit
-description: Audit service accounts across enterprise infrastructure to identify orphaned,
-  over-privileged, and non-compliant accounts. This skill covers discovery of service
-  accounts in Active Directory, cloud pl
+description: "对企业基础设施中的服务账户进行审计，识别孤儿账户、过度授权账户和不合规账户。本技能涵盖在 Active Directory、云平台等环境中发现服务账户…… | Audit service accounts across enterprise infrastructure to identify orphaned, over-privileged, and non-compliant accounts. This skill covers discovery of service accounts in Active Directory, cloud pl"
 domain: cybersecurity
 subdomain: identity-access-management
 tags:

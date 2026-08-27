@@ -1,6 +1,6 @@
 ---
 name: product-positioning-doc
-description: "Write a product positioning document and messaging framework. Use when asked to define product positioning, write a positioning statement, build a messaging framework, or create a messaging hierarchy. Produces a complete positioning doc with category definition, target customer, differentiation, proof points, messaging pillars, and persona-specific messaging."
+description: "撰写产品定位文档和信息框架。在被要求定义产品定位、编写定位声明、构建信息框架或创建信息层级时使用。产出完整定位文档，包含品类定义、目标客户、差异化、证明点、信息支柱和分画像信息。 | Write a product positioning document and messaging framework. Use when asked to define product positioning, write a positioning statement, build a messaging framework, or create a messaging hierarchy. Produces a complete positioning doc with category definition, target customer, differentiation, proof points, messaging pillars, and persona-specific messaging."
 ---
 
 # Product Positioning Doc Skill

@@ -1,6 +1,6 @@
 ---
 name: google-workspace-ops
-description: Operate across Google Drive, Docs, Sheets, and Slides as one workflow surface for plans, trackers, decks, and shared documents. Use when the user needs to find, summarize, edit, migrate, or clean up Google Workspace assets without dropping to raw tool calls.
+description: 将 Google Drive、Docs、Sheets 和 Slides 作为一个统一的工作流界面来操作，用于方案、跟踪表、演示文稿和共享文档。当用户需要查找、总结、编辑、迁移或清理 Google Workspace 资产而无需退回到原始工具调用时使用。 | Operate across Google Drive, Docs, Sheets, and Slides as one workflow surface for plans, trackers, decks, and shared documents. Use when the user needs to find, summarize, edit, migrate, or clean up Google Workspace assets without dropping to raw tool calls.
 metadata:
   origin: ECC
 ---

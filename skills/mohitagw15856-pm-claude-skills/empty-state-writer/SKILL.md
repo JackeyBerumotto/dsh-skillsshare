@@ -1,6 +1,6 @@
 ---
 name: empty-state-writer
-description: "Write empty-state content that turns a blank screen into a next step. Use when asked to write an empty state, a zero-data / first-run state, a no-results state, or onboarding placeholder content. Produces empty-state copy — a clear headline, a helpful line, and a primary action — for each type (first-use, user-cleared, no-results, error/permission), so a blank screen guides instead of confuses."
+description: "撰写把空白屏幕变成下一步引导的空状态内容。在被要求编写空状态、零数据/首次使用状态、无结果状态或入职占位内容时使用。产出每种类型（首次使用、用户清空、无结果、错误/权限）的空状态文案——清晰的标题、有用的一行说明和主行动按钮——让空白屏幕起到引导而非困惑的作用。 | Write empty-state content that turns a blank screen into a next step. Use when asked to write an empty state, a zero-data / first-run state, a no-results state, or onboarding placeholder content. Produces empty-state copy — a clear headline, a helpful line, and a primary action — for each type (first-use, user-cleared, no-results, error/permission), so a blank screen guides instead of confuses."
 ---
 
 # Empty State Writer Skill

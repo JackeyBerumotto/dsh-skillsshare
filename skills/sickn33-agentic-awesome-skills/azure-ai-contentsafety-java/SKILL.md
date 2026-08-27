@@ -1,6 +1,6 @@
 ---
 name: azure-ai-contentsafety-java
-description: "Build content moderation applications using the Azure AI Content Safety SDK for Java."
+description: "使用适用于 Java 的 Azure AI Content Safety SDK 构建内容审核应用。 | Build content moderation applications using the Azure AI Content Safety SDK for Java."
 risk: unknown
 source: community
 date_added: "2026-02-27"

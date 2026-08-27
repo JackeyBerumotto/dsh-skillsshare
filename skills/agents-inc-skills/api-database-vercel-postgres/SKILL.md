@@ -1,6 +1,6 @@
 ---
 name: api-database-vercel-postgres
-description: Serverless PostgreSQL on Vercel with edge-compatible SDK
+description: Vercel 上的无服务器 PostgreSQL，带边缘兼容 SDK。 | Serverless PostgreSQL on Vercel with edge-compatible SDK
 ---
 
 # Vercel Postgres Patterns

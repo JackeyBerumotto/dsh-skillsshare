@@ -1,6 +1,6 @@
 ---
 name: async-python-patterns
-description: "Comprehensive guidance for implementing asynchronous Python applications using asyncio, concurrent programming patterns, and async/await for building high-performance, non-blocking systems."
+description: "关于使用 asyncio、并发编程模式和 async/await 实现异步 Python 应用的综合指南，用于构建高性能非阻塞系统。 | Comprehensive guidance for implementing asynchronous Python applications using asyncio, concurrent programming patterns, and async/await for building high-performance, non-blocking systems."
 risk: safe
 source: community
 date_added: "2026-02-27"

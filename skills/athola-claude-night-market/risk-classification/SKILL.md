@@ -1,6 +1,6 @@
 ---
 name: risk-classification
-description: Classifies agent tasks into 4 risk tiers (GREEN/YELLOW/RED/CRITICAL). Use when assessing action reversibility before committing to an approach.
+description: 把智能体任务划分为 4 个风险等级（绿、黄、红、危急）。当在敲定方案之前评估操作可逆性时使用。 | Classifies agent tasks into 4 risk tiers (GREEN/YELLOW/RED/CRITICAL). Use when assessing action reversibility before committing to an approach.
 alwaysApply: false
 category: infrastructure
 tags:

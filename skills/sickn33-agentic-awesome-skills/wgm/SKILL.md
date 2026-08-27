@@ -1,6 +1,6 @@
 ---
 name: wgm
-description: "Turns a rough request into working software via a governed build loop: align first, plan, then iterate one task at a time with deterministic backpressure and holdout-scenario judging."
+description: "通过受治理的构建循环把粗糙的需求变成可运行的软件：先对齐、再规划，然后每次迭代一个任务，配合确定性背压和保留场景评审。 | Turns a rough request into working software via a governed build loop: align first, plan, then iterate one task at a time with deterministic backpressure and holdout-scenario judging."
 category: meta
 risk: safe
 source: community

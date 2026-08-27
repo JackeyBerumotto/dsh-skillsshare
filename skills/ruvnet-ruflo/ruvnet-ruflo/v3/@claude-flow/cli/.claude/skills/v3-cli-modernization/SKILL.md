@@ -1,6 +1,6 @@
 ---
 name: "V3 CLI Modernization"
-description: "CLI modernization and hooks system enhancement for claude-flow v3. Implements interactive prompts, command decomposition, enhanced hooks integration, and intelligent workflow automation."
+description: "claude-flow v3 的 CLI 现代化与钩子系统增强。实现交互式提示、命令分解、增强的钩子集成和智能工作流自动化。 | CLI modernization and hooks system enhancement for claude-flow v3. Implements interactive prompts, command decomposition, enhanced hooks integration, and intelligent workflow automation."
 ---
 
 # V3 CLI Modernization

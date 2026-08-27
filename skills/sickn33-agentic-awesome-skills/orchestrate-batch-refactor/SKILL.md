@@ -1,6 +1,6 @@
 ---
 name: "orchestrate-batch-refactor"
-description: "Plan and execute large refactors with dependency-aware work packets and parallel analysis."
+description: "规划并执行大型重构，使用依赖感知的工作包和并行分析。 | Plan and execute large refactors with dependency-aware work packets and parallel analysis."
 risk: safe
 source: "Dimillian/Skills (MIT)"
 date_added: "2026-03-25"

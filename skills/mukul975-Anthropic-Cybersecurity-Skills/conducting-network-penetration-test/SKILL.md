@@ -1,14 +1,6 @@
 ---
 name: conducting-network-penetration-test
-description: 'Conducts comprehensive network penetration tests against authorized
-  target environments by performing host discovery, port scanning, service enumeration,
-  vulnerability identification, and controlled exploitation to assess the security
-  posture of network infrastructure. The tester follows PTES methodology from reconnaissance
-  through post-exploitation and reporting. Activates for requests involving network
-  pentest, infrastructure security assessment, internal network testing, or external
-  perimeter testing.
-
-  '
+description: "对授权目标环境开展全面网络渗透测试，执行主机发现、端口扫描、服务枚举、漏洞识别和受控漏洞利用，以评估网络基础设施的安全态势。测试人员遵循 PTES 方法论，覆盖从侦察到后漏洞利用和报告的全过程。当请求涉及网络渗透测试、基础设施安全评估、内网测试或外部边界测试时激活。 | Conducts comprehensive network penetration tests against authorized target environments by performing host discovery, port scanning, service enumeration, vulnerability identification, and controlled exploitation to assess the security posture of network infrastructure. The tester follows PTES methodology from reconnaissance through post-exploitation and reporting. Activates for requests involving network pentest, infrastructure security assessment, internal network testing, or external perimeter testing."
 domain: cybersecurity
 subdomain: penetration-testing
 tags:

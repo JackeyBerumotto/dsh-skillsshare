@@ -1,6 +1,6 @@
 ---
 name: meta-design-expressive-typescript
-description: Readable functional patterns — orchestrators, pure functions, named abstractions
+description: 可读的函数式模式：编排器、纯函数、具名抽象。 | Readable functional patterns — orchestrators, pure functions, named abstractions
 ---
 
 # Expressive TypeScript

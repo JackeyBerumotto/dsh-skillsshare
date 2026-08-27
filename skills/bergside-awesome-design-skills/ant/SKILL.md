@@ -1,6 +1,6 @@
 ---
 name: ant
-description: Structured, enterprise-focused design system emphasizing clarity, consistency, and efficiency for data-dense web applications.
+description: 结构化、面向企业的设计系统，为数据密集型 Web 应用强调清晰性、一致性和效率。 | Structured, enterprise-focused design system emphasizing clarity, consistency, and efficiency for data-dense web applications.
 license: MIT
 metadata:
   author: typeui.sh

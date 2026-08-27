@@ -1,6 +1,6 @@
 ---
 name: "terraform-patterns"
-description: "Terraform infrastructure-as-code agent skill and plugin for Claude Code, Codex, Gemini CLI, Cursor, OpenClaw. Covers module design patterns, state management strategies, provider configuration, security hardening, policy-as-code with Sentinel/OPA, and CI/CD plan/apply workflows. Use when: user wants to design Terraform modules, manage state backends, review Terraform security, implement multi-region deployments, or follow IaC best practices."
+description: "适用于 Claude Code、Codex、Gemini CLI、Cursor、OpenClaw 的 Terraform 基础设施即代码代理技能与插件。涵盖模块设计模式、状态管理策略、provider 配置、安全加固、基于 Sentinel/OPA 的策略即代码，以及 CI/CD 的 plan/apply 工作流。当用户想设计 Terraform 模块、管理 state 后端、审查 Terraform 安全、实施多区域部署或遵循 IaC 最佳实践时使用。 | Terraform infrastructure-as-code agent skill and plugin for Claude Code, Codex, Gemini CLI, Cursor, OpenClaw. Covers module design patterns, state management strategies, provider configuration, security hardening, policy-as-code with Sentinel/OPA, and CI/CD plan/apply workflows. Use when: user wants to design Terraform modules, manage state backends, review Terraform security, implement multi-region deployments, or follow IaC best practices."
 license: MIT
 metadata:
   version: 1.0.0

@@ -1,6 +1,6 @@
 ---
 name: marketing-demand-acquisition
-description: Multi-channel demand generation, paid media optimization, SEO strategy, and partnership programs for Series A+ startups. Includes CAC calculator, channel playbooks, HubSpot integration, and international expansion tactics. Use when planning demand generation campaigns, optimizing paid media, building SEO strategies, establishing partnerships, or when user mentions demand gen, paid ads, LinkedIn ads, Google ads, CAC, acquisition, lead generation, or pipeline generation.
+description: 面向 A 轮及以后初创公司的多渠道需求生成、付费媒体优化、SEO 策略和合作伙伴计划。包含 CAC 计算器、渠道 playbook、HubSpot 集成和国际扩张战术。在规划需求生成活动、优化付费媒体、制定 SEO 策略、建立合作伙伴关系，或用户提到需求生成、付费广告、LinkedIn 广告、Google 广告、CAC、获客、线索生成或管道生成时使用。 | Multi-channel demand generation, paid media optimization, SEO strategy, and partnership programs for Series A+ startups. Includes CAC calculator, channel playbooks, HubSpot integration, and international expansion tactics. Use when planning demand generation campaigns, optimizing paid media, building SEO strategies, establishing partnerships, or when user mentions demand gen, paid ads, LinkedIn ads, Google ads, CAC, acquisition, lead generation, or pipeline generation.
 license: MIT
 metadata:
   version: 1.0.0

@@ -1,6 +1,6 @@
 ---
 name: ci-cd-and-automation
-description: Automates CI/CD pipeline setup. Use when setting up or modifying build and deployment pipelines. Use when you need to automate quality gates, configure test runners in CI, or establish deployment strategies.
+description: 自动化 CI/CD 流水线配置。在搭建或修改构建与部署流水线时使用。当你需要自动化质量门禁、在 CI 中配置测试运行器，或制定部署策略时也可使用。 | Automates CI/CD pipeline setup. Use when setting up or modifying build and deployment pipelines. Use when you need to automate quality gates, configure test runners in CI, or establish deployment strategies.
 risk: unknown
 source: https://github.com/addyosmani/agent-skills/tree/main/skills/ci-cd-and-automation
 source_repo: addyosmani/agent-skills

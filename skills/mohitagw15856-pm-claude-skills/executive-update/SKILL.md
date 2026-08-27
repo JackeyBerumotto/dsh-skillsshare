@@ -1,6 +1,6 @@
 ---
 name: executive-update
-description: "Transform detailed product updates into concise executive briefings. Use when asked to write an executive update, leadership update, product update for the exec team, or a C-suite product briefing. Produces a structured 250-word briefing with headline, key metrics, progress, risks, decisions needed, and next steps."
+description: "将详细的产品动态转化为简明的高管简报。当被要求撰写执行更新、领导层更新、面向高管团队的产品更新或面向 C 层的产品简报时使用。产出一份 250 词的结构化简报，包含标题、关键指标、进展、风险、所需决策和后续步骤。 | Transform detailed product updates into concise executive briefings. Use when asked to write an executive update, leadership update, product update for the exec team, or a C-suite product briefing. Produces a structured 250-word briefing with headline, key metrics, progress, risks, decisions needed, and next steps."
 ---
 
 # Executive Update Skill

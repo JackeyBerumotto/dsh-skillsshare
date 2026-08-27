@@ -1,6 +1,6 @@
 ---
 name: moatmri
-description: Analyze AI disruption pressure across a business, map competitive exposure, and produce a 90-day defensive action plan.
+description: 分析企业各业务面临的 AI 颠覆压力，绘制竞争暴露地图，并制定 90 天防御行动计划。 | Analyze AI disruption pressure across a business, map competitive exposure, and produce a 90-day defensive action plan.
 risk: safe
 source: community
 date_added: "2026-05-31"

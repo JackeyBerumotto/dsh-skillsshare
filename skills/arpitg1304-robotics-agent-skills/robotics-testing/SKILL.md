@@ -1,7 +1,7 @@
 ---
 name: robotics-testing
 description: >
-  Testing strategies, patterns, and tools for robotics software. Use this skill when writing unit tests,
+  面向机器人软件的测试策略、模式与工具。在为机器人系统编写单元测试、集成测试、仿真测试或硬件在环测试时使用本技能。当用户提到测试 ROS 节点、配合 ROS 使用 pytest、launch_testing、仿真测试、机器人 CI/CD、传感器测试夹具、模拟硬件、确定性回放、机器人行为回归测试，或验证感知/规划/控制流水线时触发。还涵盖运动学的基于属性的测试、消息处理器的模糊测试以及轨迹的黄金文件测试。 |
   integration tests, simulation tests, or hardware-in-the-loop tests for robot systems. Trigger whenever
   the user mentions testing ROS nodes, pytest with ROS, launch_testing, simulation testing, CI/CD for
   robotics, test fixtures for sensors, mock hardware, deterministic replay, regression testing for robot

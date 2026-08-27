@@ -1,7 +1,6 @@
 ---
 name: performing-jwt-none-algorithm-attack
-description: Execute and test the JWT none algorithm attack to bypass signature verification
-  by manipulating the alg header field in JSON Web Tokens.
+description: "执行并测试 JWT none 算法攻击，通过篡改 JSON Web Token 中的 alg 头字段绕过签名验证。 | Execute and test the JWT none algorithm attack to bypass signature verification by manipulating the alg header field in JSON Web Tokens."
 domain: cybersecurity
 subdomain: api-security
 tags:

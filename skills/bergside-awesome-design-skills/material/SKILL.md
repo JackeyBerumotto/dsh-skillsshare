@@ -1,6 +1,6 @@
 ---
 name: material
-description: Google's Material Design with layered surfaces, dynamic theming, built-in motion, and responsive cross-platform patterns.
+description: Google 的 Material Design，具备分层表面、动态主题、内置动效和响应式跨平台模式。 | Google's Material Design with layered surfaces, dynamic theming, built-in motion, and responsive cross-platform patterns.
 license: MIT
 metadata:
   author: typeui.sh

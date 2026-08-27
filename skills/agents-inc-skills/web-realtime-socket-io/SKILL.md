@@ -1,6 +1,6 @@
 ---
 name: web-realtime-socket-io
-description: Socket.IO v4.x client patterns, connection lifecycle, reconnection, authentication, rooms, namespaces, acknowledgments, binary data, TypeScript integration
+description: Socket.IO v4.x 客户端模式、连接生命周期、重连、身份验证、房间、命名空间、确认回执、二进制数据、TypeScript 集成。 | Socket.IO v4.x client patterns, connection lifecycle, reconnection, authentication, rooms, namespaces, acknowledgments, binary data, TypeScript integration
 ---
 
 # Socket.IO Real-Time Communication Patterns

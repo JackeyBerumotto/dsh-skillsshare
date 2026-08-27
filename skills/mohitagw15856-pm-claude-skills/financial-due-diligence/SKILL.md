@@ -1,6 +1,6 @@
 ---
 name: financial-due-diligence
-description: "Generate a financial due diligence checklist and analysis framework for any investment, acquisition, or partnership. Use when asked for a due diligence checklist, M&A financial review, investment analysis framework, or vendor financial assessment. Produces a document request list, key analytical questions, red flags checklist, and a summarised financial health assessment."
+description: "为任何投资、收购或合作生成财务尽调清单与分析框架。当被要求提供尽调清单、并购财务审查、投资分析框架或供应商财务评估时使用。产出资料索取清单、关键分析问题、红旗清单与财务健康度小结评估。 | Generate a financial due diligence checklist and analysis framework for any investment, acquisition, or partnership. Use when asked for a due diligence checklist, M&A financial review, investment analysis framework, or vendor financial assessment. Produces a document request list, key analytical questions, red flags checklist, and a summarised financial health assessment."
 ---
 
 # Financial Due Diligence Skill

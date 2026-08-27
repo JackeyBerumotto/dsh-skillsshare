@@ -1,6 +1,6 @@
 ---
 name: diagnose-android-overheating
-description: "Use when diagnosing Android overheating, idle heat, thermal throttling, charging or radio heat, or abnormal battery drain with read-only ADB evidence and approval gates."
+description: "在诊断 Android 发热、待机发热、热节流、充电或射频发热，或异常耗电时使用，依托只读 ADB 证据和审批门禁。 | Use when diagnosing Android overheating, idle heat, thermal throttling, charging or radio heat, or abnormal battery drain with read-only ADB evidence and approval gates."
 category: debugging
 risk: critical
 source: self

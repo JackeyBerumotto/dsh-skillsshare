@@ -1,6 +1,6 @@
 ---
 name: tdd-workflows-tdd-red
-description: "Generate failing tests for the TDD red phase to define expected behavior and edge cases."
+description: "为 TDD 红阶段生成失败测试，以定义预期行为和边界情况。 | Generate failing tests for the TDD red phase to define expected behavior and edge cases."
 risk: unknown
 source: community
 date_added: "2026-02-27"

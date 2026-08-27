@@ -1,6 +1,6 @@
 ---
 name: visual-emotion-engineer
-description: "One sentence - what this skill does and when to invoke it"
+description: "一句话说明该技能做什么以及何时调用 | One sentence - what this skill does and when to invoke it"
 risk: safe
 source: community
 date_added: "2026-04-04"

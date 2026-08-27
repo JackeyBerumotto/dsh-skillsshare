@@ -1,7 +1,7 @@
 ---
 name: ros2-web-integration
 description: >
-  Patterns and best practices for integrating ROS2 systems with web technologies including REST APIs,
+  将 ROS2 系统与 Web 技术（包括 REST API、WebSocket 桥接和基于浏览器的机器人界面）集成的模式与最佳实践。当为机器人构建 Web 仪表盘、向浏览器推流摄像头画面、将 ROS2 服务暴露为 REST 端点，或在 Web UI 与 ROS2 节点之间实现双向 WebSocket 通信时使用此技能。当用户提到 rosbridge、rosbridge_suite、roslibjs、FastAPI with ROS2、Flask with rclpy、用于机器人遥测的 WebSocket、MJPEG 流式传输、WebRTC for robots、REST API 封装 ROS2 服务、基于 Web 的机器人控制、浏览器机器人界面、机器人仪表盘、机器人 CORS 配置，或任何 Web 到 ROS2 的桥接模式时触发。在机器人 Web 界面的身份验证、传感器流限速、从机器人摄像头向浏览器推送视频流，或在 ROS2 执行器旁运行异步 Web 框架时也应触发。涵盖 rosbridge_suite、FastAPI、Flask、WebSocket 和 WebRTC 方案。 |
   WebSocket bridges, and browser-based robot interfaces. Use this skill when building web dashboards
   for robots, streaming camera feeds to browsers, exposing ROS2 services as REST endpoints, or
   implementing bidirectional WebSocket communication between web UIs and ROS2 nodes. Trigger whenever

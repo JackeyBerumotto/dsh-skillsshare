@@ -1,6 +1,6 @@
 ---
 name: jd-decoder
-description: "Decode a job description to find what they actually want beneath the buzzwords. Use when asked to analyse a job description, decode a JD, assess fit for a role, or figure out what a posting really means before applying. Produces a decode — the real must-haves vs. nice-to-haves, hidden priorities & culture signals, red flags, an honest fit assessment, and the exact phrases to mirror in your application."
+description: "解读职位描述，找出流行词背后对方真正想要的东西。当被要求分析职位描述、解读 JD、评估与某个岗位的匹配度，或在投递前弄清招聘启事的真实含义时使用。产出一份解读——真正的必备项与加分项对比、隐藏的优先级与文化信号、危险信号、坦诚的匹配度评估，以及申请材料中应呼应的确切表述。 | Decode a job description to find what they actually want beneath the buzzwords. Use when asked to analyse a job description, decode a JD, assess fit for a role, or figure out what a posting really means before applying. Produces a decode — the real must-haves vs. nice-to-haves, hidden priorities & culture signals, red flags, an honest fit assessment, and the exact phrases to mirror in your application."
 ---
 
 # JD Decoder Skill

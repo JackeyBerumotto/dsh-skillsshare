@@ -1,6 +1,6 @@
 ---
 name: codex-profiles
-description: "Use codex-profiles to run Codex CLI or Codex Desktop with isolated CODEX_HOME profiles for separate accounts, projects, and local state."
+description: "使用 codex-profiles 以隔离的 CODEX_HOME 配置文件运行 Codex CLI 或 Codex Desktop，实现账户、项目和本地状态的分离。 | Use codex-profiles to run Codex CLI or Codex Desktop with isolated CODEX_HOME profiles for separate accounts, projects, and local state."
 category: productivity
 risk: critical
 source: community

@@ -1,6 +1,6 @@
 ---
 name: employee-engagement-survey
-description: "Design an employee engagement survey and analyse results. Use when asked to create an employee survey, engagement questionnaire, pulse survey, or eNPS survey. Also use when asked to analyse survey results. Produces a complete survey with questions, rating scales, and an analysis framework."
+description: "设计员工敬业度调研并分析结果。当被要求创建员工调研、敬业度问卷、脉搏调研或 eNPS 调研时使用；当被要求分析调研结果时也应使用。产出包含问题、评分量表和分析框架的完整调研。 | Design an employee engagement survey and analyse results. Use when asked to create an employee survey, engagement questionnaire, pulse survey, or eNPS survey. Also use when asked to analyse survey results. Produces a complete survey with questions, rating scales, and an analysis framework."
 ---
 
 # Employee Engagement Survey Skill

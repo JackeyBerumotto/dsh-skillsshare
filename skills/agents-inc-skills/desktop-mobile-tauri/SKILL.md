@@ -1,6 +1,6 @@
 ---
 name: desktop-mobile-tauri
-description: Tauri 2.x mobile development - iOS via WKWebView, Android via Android WebView, mobile plugins, Swift/Kotlin native code, permissions, debugging
+description: Tauri 2.x 移动开发：iOS 通过 WKWebView、Android 通过 Android WebView，涵盖移动插件、Swift/Kotlin 原生代码、权限、调试 | Tauri 2.x mobile development - iOS via WKWebView, Android via Android WebView, mobile plugins, Swift/Kotlin native code, permissions, debugging
 ---
 
 # Tauri 2.x Mobile Development

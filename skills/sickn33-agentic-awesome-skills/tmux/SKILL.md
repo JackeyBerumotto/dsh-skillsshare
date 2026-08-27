@@ -1,6 +1,6 @@
 ---
 name: tmux
-description: "Expert tmux session, window, and pane management for terminal multiplexing, persistent remote workflows, and shell scripting automation."
+description: "tmux 会话、窗口与面板管理专家，用于终端复用、持久远程工作流与 shell 脚本自动化。 | Expert tmux session, window, and pane management for terminal multiplexing, persistent remote workflows, and shell scripting automation."
 category: development
 risk: safe
 source: community

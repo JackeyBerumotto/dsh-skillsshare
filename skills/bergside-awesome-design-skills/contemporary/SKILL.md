@@ -1,6 +1,6 @@
 ---
 name: contemporary
-description: Current-era minimalist design with bento grids, dark mode support, and high-performance accessible layouts.
+description: 当代极简主义设计，采用 bento 网格、支持深色模式的高性能无障碍布局。 | Current-era minimalist design with bento grids, dark mode support, and high-performance accessible layouts.
 license: MIT
 metadata:
   author: typeui.sh

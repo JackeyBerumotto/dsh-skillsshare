@@ -1,6 +1,6 @@
 ---
 name: ddd-validate
-description: Validate domain boundaries -- detect cross-context import violations and aggregate invariant issues. Use when auditing a DDD codebase for leaks between bounded contexts, before merging cross-cutting changes, or as a CI gate to catch boundary erosion early.
+description: 验证领域边界——检测跨上下文导入违规和聚合不变量问题。适用于审计 DDD 代码库中限界上下文之间的泄漏、在合并横切变更之前使用，或作为 CI 门禁及早发现边界侵蚀。 | Validate domain boundaries -- detect cross-context import violations and aggregate invariant issues. Use when auditing a DDD codebase for leaks between bounded contexts, before merging cross-cutting changes, or as a CI gate to catch boundary erosion early.
 argument-hint: ""
 allowed-tools: Bash Read Grep Glob mcp__claude-flow__memory_store mcp__claude-flow__memory_search mcp__claude-flow__hooks_pre-task mcp__claude-flow__hooks_post-task
 ---

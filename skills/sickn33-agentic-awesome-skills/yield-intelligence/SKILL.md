@@ -1,6 +1,6 @@
 ---
 name: yield-intelligence
-description: Passive income portfolio analysis — activate when user asks about dividend yields, Treasury rates, REIT income, monthly passive income goals, or portfolio yield optimization. Scans 4 asset classes, ranks by risk-adjusted return, and builds allocations targeting a specific monthly income.
+description: 被动收入投资组合分析——当用户询问股息率、国债收益率、REIT 收入、月度被动收入目标或投资组合收益优化时激活。扫描 4 类资产，按风险调整后收益排序，并构建面向特定月度收入目标的配置方案。 | Passive income portfolio analysis — activate when user asks about dividend yields, Treasury rates, REIT income, monthly passive income goals, or portfolio yield optimization. Scans 4 asset classes, ranks by risk-adjusted return, and builds allocations targeting a specific monthly income.
 risk: safe
 source: community
 date_added: "2026-05-31"

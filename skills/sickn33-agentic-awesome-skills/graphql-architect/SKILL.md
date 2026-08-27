@@ -1,6 +1,6 @@
 ---
 name: graphql-architect
-description: Master modern GraphQL with federation, performance optimization, and enterprise security. Build scalable schemas, implement advanced caching, and design real-time systems.
+description: 掌握现代 GraphQL，运用联邦、性能优化与企业级安全。构建可扩展的 schema、实现高级缓存并设计实时系统。 | Master modern GraphQL with federation, performance optimization, and enterprise security. Build scalable schemas, implement advanced caching, and design real-time systems.
 risk: unknown
 source: community
 date_added: '2026-02-27'

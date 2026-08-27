@@ -1,6 +1,6 @@
 ---
 name: search-specialist
-description: "Expert web researcher using advanced search techniques and"
+description: "网络研究专家，运用高级搜索技巧…… | Expert web researcher using advanced search techniques and"
 risk: unknown
 source: community
 date_added: "2026-02-27"

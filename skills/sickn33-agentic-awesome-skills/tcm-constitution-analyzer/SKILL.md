@@ -1,6 +1,6 @@
 ---
 name: tcm-constitution-analyzer
-description: 分析中医体质数据、识别体质类型、评估体质特征,并提供个性化养生建议。支持与营养、运动、睡眠等健康数据的关联分析。
+description: 分析中医体质数据、识别体质类型、评估体质特征,并提供个性化养生建议。支持与营养、运动、睡眠等健康数据的关联分析。 | Analyze Traditional Chinese Medicine constitution data, identify constitution types, assess constitution characteristics, and provide personalized wellness recommendations. Supports correlation analysis with health data such as nutrition, exercise, and sleep.
 allowed-tools: Read, Grep, Glob, Write
 risk: unknown
 source: community

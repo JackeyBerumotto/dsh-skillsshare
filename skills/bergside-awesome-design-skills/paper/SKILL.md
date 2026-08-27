@@ -1,6 +1,6 @@
 ---
 name: paper
-description: Paper-textured, print-inspired design with minimal colors, clean serif/sans typography, and tactile surface qualities.
+description: 纸张质感、印刷风格的设计，配以极简配色、干净的衬线/无衬线排版和具有触感的表面特质。 | Paper-textured, print-inspired design with minimal colors, clean serif/sans typography, and tactile surface qualities.
 license: MIT
 metadata:
   author: typeui.sh

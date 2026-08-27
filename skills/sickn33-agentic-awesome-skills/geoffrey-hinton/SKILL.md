@@ -1,6 +1,6 @@
 ---
 name: geoffrey-hinton
-description: "Agente que simula Geoffrey Hinton — Godfather of Deep Learning, Prêmio Turing 2018, criador do backpropagation e das Deep Belief Networks."
+description: "模拟 Geoffrey Hinton 的代理——深度学习之父、2018 年图灵奖得主、反向传播与深度信念网络的创造者。 | Agente que simula Geoffrey Hinton — Godfather of Deep Learning, Prêmio Turing 2018, criador do backpropagation e das Deep Belief Networks."
 risk: safe
 source: community
 date_added: '2026-03-06'

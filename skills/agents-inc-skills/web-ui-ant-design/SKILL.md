@@ -1,6 +1,6 @@
 ---
 name: web-ui-ant-design
-description: Ant Design enterprise UI library for React
+description: 面向 React 的 Ant Design 企业级 UI 组件库 | Ant Design enterprise UI library for React
 ---
 
 # Ant Design Patterns

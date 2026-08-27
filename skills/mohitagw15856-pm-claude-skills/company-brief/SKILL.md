@@ -1,6 +1,6 @@
 ---
 name: company-brief
-description: "Build a candidate's research brief on a company before an application or interview. Use when asked to research a company for a job, prep a company brief before an interview, or understand a prospective employer fast. Produces a one-page brief — what they do & how they make money, recent news & trajectory, product & competitors, likely challenges, culture signals, and smart questions to ask."
+description: "在投递申请或面试前，为求职者构建对某家公司的研究简报。当被要求为求职研究一家公司、在面试前准备公司简报，或快速了解潜在雇主时使用。产出一页简报——公司的业务与盈利方式、近期动态与发展轨迹、产品与竞争对手、可能的挑战、文化信号，以及值得提出的聪明问题。 | Build a candidate's research brief on a company before an application or interview. Use when asked to research a company for a job, prep a company brief before an interview, or understand a prospective employer fast. Produces a one-page brief — what they do & how they make money, recent news & trajectory, product & competitors, likely challenges, culture signals, and smart questions to ask."
 ---
 
 # Company Brief Skill

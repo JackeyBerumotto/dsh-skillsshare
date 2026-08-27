@@ -1,6 +1,6 @@
 ---
 name: setting-up-synthetic-monitoring
-description: Setup synthetic monitoring for proactive performance tracking including uptime checks, transaction monitoring, and API health. Use when implementing availability monitoring or tracking critical user journeys. Trigger with phrases like "setup synthetic monitoring", "monitor uptime", or "configure health checks".
+description: 设置用于主动性能跟踪的合成监控，包括可用性检查、事务监控和 API 健康状况。在实施可用性监控或跟踪关键用户旅程时使用。触发语句如「setup synthetic monitoring」「monitor uptime」或「configure health checks」。 | Setup synthetic monitoring for proactive performance tracking including uptime checks, transaction monitoring, and API health. Use when implementing availability monitoring or tracking critical user journeys. Trigger with phrases like "setup synthetic monitoring", "monitor uptime", or "configure health checks".
 version: 1.0.0
 allowed-tools:
 - Read

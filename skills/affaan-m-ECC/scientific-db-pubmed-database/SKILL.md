@@ -1,6 +1,6 @@
 ---
 name: pubmed-database
-description: Direct PubMed and NCBI E-utilities search workflows for biomedical literature, MeSH queries, PMID lookup, citation retrieval, and API-backed literature monitoring.
+description: 直接使用 PubMed 和 NCBI E-utilities 的检索工作流，用于生物医学文献、MeSH 查询、PMID 查找、引文检索以及基于 API 的文献监测。 | Direct PubMed and NCBI E-utilities search workflows for biomedical literature, MeSH queries, PMID lookup, citation retrieval, and API-backed literature monitoring.
 metadata:
   origin: community
 ---

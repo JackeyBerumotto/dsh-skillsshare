@@ -1,6 +1,6 @@
 ---
 name: design-system
-description: Use this skill to generate or audit design systems, check visual consistency, and review PRs that touch styling.
+description: 使用本技能生成或审计设计系统、检查视觉一致性，并评审涉及样式改动的 PR。 | Use this skill to generate or audit design systems, check visual consistency, and review PRs that touch styling.
 metadata:
   origin: ECC
 ---

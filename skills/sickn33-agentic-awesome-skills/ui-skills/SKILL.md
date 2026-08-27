@@ -1,6 +1,6 @@
 ---
 name: ui-skills
-description: "Opinionated, evolving constraints to guide agents when building interfaces"
+description: "一组有主见且持续演进的约束，用于指导智能体构建界面 | Opinionated, evolving constraints to guide agents when building interfaces"
 risk: safe
 source: "https://github.com/ibelick/ui-skills"
 date_added: "2026-02-27"

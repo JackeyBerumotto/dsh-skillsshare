@@ -1,6 +1,6 @@
 ---
 name: clean
-description: Simplicity-focused design with ample whitespace, legible typography, and a limited color palette to reduce visual clutter.
+description: 以简洁为取向的设计，留白充裕、排版易读、色板有限，以减少视觉杂乱。 | Simplicity-focused design with ample whitespace, legible typography, and a limited color palette to reduce visual clutter.
 license: MIT
 metadata:
   author: typeui.sh

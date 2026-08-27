@@ -1,6 +1,6 @@
 ---
 name: skills-eval
-description: 'Evaluate Claude skill quality through auditing. Use when reviewing or auditing skills.'
+description: '通过审计评估 Claude 技能质量。在评审或审计技能时使用。 | Evaluate Claude skill quality through auditing. Use when reviewing or auditing skills.'
 alwaysApply: false
 category: skill-management
 tags:

@@ -1,6 +1,6 @@
 ---
 name: api-docs
-description: Generate API documentation from source code with JSDoc and OpenAPI support
+description: 从源代码生成 API 文档，支持 JSDoc 与 OpenAPI | Generate API documentation from source code with JSDoc and OpenAPI support
 argument-hint: "<source-path>"
 allowed-tools: Bash(npx *) mcp__claude-flow__hooks_worker-dispatch Read Write Grep
 ---

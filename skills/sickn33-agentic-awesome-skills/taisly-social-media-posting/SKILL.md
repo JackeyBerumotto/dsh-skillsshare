@@ -1,6 +1,6 @@
 ---
 name: taisly-social-media-posting
-description: "Use Taisly Agent Kit to prepare and publish approved short-form video posts across TikTok, Instagram Reels, YouTube Shorts, X, and Facebook."
+description: "使用 Taisly Agent Kit 准备并在获批后跨 TikTok、Instagram Reels、YouTube Shorts、X 和 Facebook 发布短视频帖子。 | Use Taisly Agent Kit to prepare and publish approved short-form video posts across TikTok, Instagram Reels, YouTube Shorts, X, and Facebook."
 category: marketing
 risk: critical
 source: community

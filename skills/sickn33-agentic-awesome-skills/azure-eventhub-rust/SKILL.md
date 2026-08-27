@@ -1,6 +1,6 @@
 ---
 name: azure-eventhub-rust
-description: Azure Event Hubs SDK for Rust. Use for sending and receiving events, streaming data ingestion.
+description: 适用于 Rust 的 Azure Event Hubs SDK。用于发送和接收事件以及流式数据摄取。 | Azure Event Hubs SDK for Rust. Use for sending and receiving events, streaming data ingestion.
 risk: unknown
 source: community
 date_added: '2026-02-27'

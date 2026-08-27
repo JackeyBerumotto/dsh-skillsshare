@@ -1,6 +1,6 @@
 ---
 name: web-pwa-offline-first
-description: Local-first architecture with sync queues
+description: 带同步队列的本地优先架构。 | Local-first architecture with sync queues
 ---
 
 # Offline-First Application Patterns

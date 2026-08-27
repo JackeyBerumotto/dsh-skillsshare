@@ -1,8 +1,5 @@
 ---
-description: This skill enhances claude's ability to conduct web research and translate
-  findings into actionable github issues. it automates the process of extracting key
-  information from web search results and formatting it into a well-structured issue,
-  ready...
+description: "本技能增强 claude 开展网络研究并将成果转化为可执行 GitHub issue 的能力。它自动化从网络搜索结果中提取关键信息并格式化为结构完整、可直接使用的 issue。 | This skill enhances claude's ability to conduct web research and translate findings into actionable github issues. it automates the process of extracting key information from web search results and formatting it into a well-structured issue, ready..."
 allowed-tools:
 - Read
 - WebFetch

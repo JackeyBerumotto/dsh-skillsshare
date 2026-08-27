@@ -1,8 +1,6 @@
 ---
 name: rag-engineer
-description: Expert in building Retrieval-Augmented Generation systems. Masters
-  embedding models, vector databases, chunking strategies, and retrieval
-  optimization for LLM applications.
+description: "精通构建检索增强生成（RAG）系统。熟练掌握嵌入模型、向量数据库、分块策略以及面向 LLM 应用的检索优化。 | Expert in building Retrieval-Augmented Generation systems. Masters embedding models, vector databases, chunking strategies, and retrieval optimization for LLM applications."
 risk: unknown
 source: vibeship-spawner-skills (Apache 2.0)
 date_added: 2026-02-27

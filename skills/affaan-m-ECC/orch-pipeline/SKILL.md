@@ -1,6 +1,6 @@
 ---
 name: orch-pipeline
-description: Shared orchestration engine for the orch-* skill family. Defines the gated Research-Plan-TDD-Review-Commit pipeline, the size classifier, the agent map, and the two human gates that the orch-* operation skills delegate to. Not usually invoked directly.
+description: orch-* 技能家族的共享编排引擎。定义带门禁的「研究-计划-TDD-评审-提交」流水线、规模分类器、代理映射，以及 orch-* 操作技能所委托的两道人工门禁。通常不直接调用。 | Shared orchestration engine for the orch-* skill family. Defines the gated Research-Plan-TDD-Review-Commit pipeline, the size classifier, the agent map, and the two human gates that the orch-* operation skills delegate to. Not usually invoked directly.
 metadata:
   origin: ECC
 ---

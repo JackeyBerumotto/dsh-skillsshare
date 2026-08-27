@@ -1,6 +1,6 @@
 ---
 name: evidence-lock
-description: "Write or rewrite a document in evidence-locked mode: no unsourced sentences — every substantive claim carries a footnote citing the exact passage in the user's provided sources, and anything unsupportable is explicitly marked. Use when asked to make a document fully sourced, add citations from my docs, ground a draft in the attached material, or produce something for audiences that will check (legal, board, regulators, enterprise buyers). Produces the document with numbered citations, a source map quoting each cited passage, and an unsupported-claims register."
+description: "以证据锁定模式撰写或重写文档：不允许无出处的句子——每个实质性论断都带脚注，引用用户所提供材料中的确切段落，无法佐证的内容会被明确标记。在被要求让文档完全有据可查、从我的文档添加引用、让草稿立足于附件材料，或为会核查内容的受众（法务、董事会、监管机构、企业买家）产出文档时使用。产出带编号引用的文档、逐段引用原文的出处映射，以及无支撑论断清单。 | Write or rewrite a document in evidence-locked mode: no unsourced sentences — every substantive claim carries a footnote citing the exact passage in the user's provided sources, and anything unsupportable is explicitly marked. Use when asked to make a document fully sourced, add citations from my docs, ground a draft in the attached material, or produce something for audiences that will check (legal, board, regulators, enterprise buyers). Produces the document with numbered citations, a source map quoting each cited passage, and an unsupported-claims register."
 ---
 
 # Evidence Lock Skill

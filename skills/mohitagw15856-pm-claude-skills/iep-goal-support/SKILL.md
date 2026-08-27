@@ -1,6 +1,6 @@
 ---
 name: iep-goal-support
-description: "Draft SMART IEP goals, accommodations, and present-levels statements that are measurable and compliant in spirit. Use when asked to write an IEP goal, draft special-education goals, list accommodations, or write a present-levels (PLAAFP) statement. Produces measurable annual goals with baselines, criteria, and measurement methods, plus matched accommodations. A drafting aid for educators — not legal advice; the IEP team and local requirements govern."
+description: "起草可衡量且在精神上合规的 SMART IEP 目标、便利措施和现状水平陈述。当被要求撰写 IEP 目标、起草特殊教育目标、列出便利措施或撰写现状水平（PLAAFP）陈述时使用。产出带基线、标准和测量方法的可衡量年度目标，以及相匹配的便利措施。这是面向教育工作者的起草辅助工具——不构成法律建议；以 IEP 团队和当地要求为准。 | Draft SMART IEP goals, accommodations, and present-levels statements that are measurable and compliant in spirit. Use when asked to write an IEP goal, draft special-education goals, list accommodations, or write a present-levels (PLAAFP) statement. Produces measurable annual goals with baselines, criteria, and measurement methods, plus matched accommodations. A drafting aid for educators — not legal advice; the IEP team and local requirements govern."
 ---
 
 # IEP Goal Support Skill

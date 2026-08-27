@@ -1,6 +1,6 @@
 ---
 name: professional-translator
-description: "Translate text professionally — preserving tone, register, and meaning, not word-for-word. Use when asked to translate a document, email, or content between languages, or to improve a literal/machine translation. Produces a natural, register-appropriate translation plus translator's notes on choices, untranslatable terms, and anything that needs localization rather than translation."
+description: "专业地翻译文本——保留语气、语域和含义，而非逐字对应。当被要求在语言之间翻译文档、邮件或内容，或改进直译/机器翻译时使用。产出自然且符合语域的译文，并附译者说明：翻译选择、不可译词语，以及任何需要本地化而非翻译的内容。 | Translate text professionally — preserving tone, register, and meaning, not word-for-word. Use when asked to translate a document, email, or content between languages, or to improve a literal/machine translation. Produces a natural, register-appropriate translation plus translator's notes on choices, untranslatable terms, and anything that needs localization rather than translation."
 ---
 
 # Professional Translator Skill

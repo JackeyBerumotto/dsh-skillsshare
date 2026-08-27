@@ -1,6 +1,6 @@
 ---
 name: "woo-guard"
-description: "Review generated or changed WooCommerce extensions, payment and shipping integrations, checkout customizations, and order or product logic."
+description: "审查生成或变更的 WooCommerce 扩展、支付与物流集成、结账定制以及订单或商品逻辑。 | Review generated or changed WooCommerce extensions, payment and shipping integrations, checkout customizations, and order or product logic."
 risk: "critical"
 source: "community"
 source_repo: "amElnagdy/guard-skills"

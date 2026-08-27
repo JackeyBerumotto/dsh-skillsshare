@@ -1,7 +1,6 @@
 ---
 name: building-threat-hunt-hypothesis-framework
-description: Build a systematic threat hunt hypothesis framework that transforms threat
-  intelligence, attack patterns, and environmental data into testable hunting hypotheses.
+description: "构建系统化的威胁狩猎假设框架，将威胁情报、攻击模式和环境数据转化为可检验的狩猎假设。 | Build a systematic threat hunt hypothesis framework that transforms threat intelligence, attack patterns, and environmental data into testable hunting hypotheses."
 domain: cybersecurity
 subdomain: threat-hunting
 tags:

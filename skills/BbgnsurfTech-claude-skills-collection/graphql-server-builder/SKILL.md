@@ -2,7 +2,7 @@
 name: building-graphql-server
 version: 1.0.0
 description: |
-  Build production-ready GraphQL servers with schema design, resolvers, and subscriptions.
+  构建生产就绪的 GraphQL 服务器，涵盖模式设计、解析器和订阅。当构建带模式与解析器的 GraphQL API 时使用。触发短语如「build GraphQL API」「create GraphQL server」或「setup GraphQL」。 |
   Use when building GraphQL APIs with schemas and resolvers.
   Trigger with phrases like "build GraphQL API", "create GraphQL server", or "setup GraphQL".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(api:graphql-*)

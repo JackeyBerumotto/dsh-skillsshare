@@ -1,8 +1,5 @@
 ---
-description: This skill enables claude to analyze capacity requirements and plan for
-  future growth. it uses the capacity-planning-analyzer plugin to assess current utilization,
-  forecast growth trends, and recommend scaling strategies. use this skill when the
-  u...
+description: "本技能使 claude 能够分析容量需求并规划未来增长。它使用 capacity-planning-analyzer 插件评估当前利用率、预测增长趋势并推荐扩缩容策略。当用户提出容量规划相关请求时使用本技能。 | This skill enables claude to analyze capacity requirements and plan for future growth. it uses the capacity-planning-analyzer plugin to assess current utilization, forecast growth trends, and recommend scaling strategies. use this skill when the u..."
 allowed-tools:
 - Read
 - Write

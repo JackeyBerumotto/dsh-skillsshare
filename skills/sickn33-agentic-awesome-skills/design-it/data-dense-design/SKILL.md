@@ -1,6 +1,6 @@
 ---
 name: data-dense-design
-description: Web and App implementation guide for Data-Dense Design. Trigger when user wants professional tools, maximum information density, and expert interfaces (like Bloomberg terminals or IDEs).
+description: Data-Dense Design（数据密集设计）的 Web 与 App 实现指南。当用户需要专业工具、极致信息密度和专家级界面（如 Bloomberg 终端或 IDE）时触发。 | Web and App implementation guide for Data-Dense Design. Trigger when user wants professional tools, maximum information density, and expert interfaces (like Bloomberg terminals or IDEs).
 date_added: "2026-06-17"
 risk: safe
 source: self

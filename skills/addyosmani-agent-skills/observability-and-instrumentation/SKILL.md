@@ -1,6 +1,6 @@
 ---
 name: observability-and-instrumentation
-description: Instruments code so production behavior is visible and diagnosable. Use when adding logging, metrics, tracing, or alerting. Use when shipping any feature that runs in production and you need evidence it works. Use when production issues are reported but you can't tell what happened from the available data.
+description: 为代码埋点，使生产行为可见且可诊断。在添加日志、指标、追踪或告警时使用。在交付任何要在生产环境运行的功能且需要证据证明其有效时使用。在生产问题已上报但现有数据无法说明发生了什么时使用。 | Instruments code so production behavior is visible and diagnosable. Use when adding logging, metrics, tracing, or alerting. Use when shipping any feature that runs in production and you need evidence it works. Use when production issues are reported but you can't tell what happened from the available data.
 ---
 
 # Observability and Instrumentation

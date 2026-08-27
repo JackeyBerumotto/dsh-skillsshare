@@ -1,6 +1,6 @@
 ---
 name: cs-escalation-brief
-description: "Write a structured escalation brief for an at-risk customer account. Use when an account has escalated, when a customer is threatening churn, when a P1 customer issue needs executive attention, or when preparing an internal save play. Produces a crisp escalation brief with account context, timeline, root cause, business impact, and a clear resolution plan."
+description: "为处于风险的客户账户撰写结构化升级简报。在账户已被升级处理、客户威胁流失、P1 客户问题需要高管关注，或准备内部挽留行动时使用。产出简洁的升级简报，包含账户背景、时间线、根因、业务影响和明确的解决计划。 | Write a structured escalation brief for an at-risk customer account. Use when an account has escalated, when a customer is threatening churn, when a P1 customer issue needs executive attention, or when preparing an internal save play. Produces a crisp escalation brief with account context, timeline, root cause, business impact, and a clear resolution plan."
 ---
 
 # Customer Escalation Brief Skill

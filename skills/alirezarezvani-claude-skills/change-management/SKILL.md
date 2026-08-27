@@ -1,6 +1,6 @@
 ---
 name: "change-management"
-description: "Framework for rolling out organizational changes without chaos. Covers the ADKAR model adapted for startups, communication templates, resistance patterns, and change fatigue management. Handles process changes, org restructures, strategy pivots, and culture changes. Use when announcing a reorg, switching tools, pivoting strategy, killing a product, changing leadership, or when user mentions change management, change rollout, managing resistance, org change, reorg, or pivot communication."
+description: "让组织变革不失控地落地的框架。涵盖为初创公司适配的 ADKAR 模型、沟通模板、阻力模式与变革疲劳管理。处理流程变更、组织重组、战略转型与文化变化。在宣布重组、切换工具、战略转型、砍产品、换领导层，或用户提到变革管理、变革推行、阻力管理、组织变革、重组或转型沟通时使用。 | Framework for rolling out organizational changes without chaos. Covers the ADKAR model adapted for startups, communication templates, resistance patterns, and change fatigue management. Handles process changes, org restructures, strategy pivots, and culture changes. Use when announcing a reorg, switching tools, pivoting strategy, killing a product, changing leadership, or when user mentions change management, change rollout, managing resistance, org change, reorg, or pivot communication."
 license: MIT
 metadata:
   version: 1.0.0

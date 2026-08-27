@@ -1,6 +1,6 @@
 ---
 name: huggingface-best
-description: 'Use when the user asks about finding the best, top, or recommended model for a task, wants to know what AI model to use, or wants to compare models by benchmark scores. Triggers on: "best model for X", "what model should I use for", "top models for [task]", "which model runs on my...'
+description: '当用户询问为任务寻找最佳、顶级或推荐的模型、想知道该用什么 AI 模型，或想按基准分数比较模型时使用。触发词：「best model for X」「what model should I use for」「top models for [task]」「which model runs on my...」。 | Use when the user asks about finding the best, top, or recommended model for a task, wants to know what AI model to use, or wants to compare models by benchmark scores. Triggers on: "best model for X", "what model should I use for", "top models for [task]", "which model runs on my...'
 risk: unknown
 source: https://github.com/huggingface/skills/tree/main/skills/huggingface-best
 source_repo: huggingface/skills

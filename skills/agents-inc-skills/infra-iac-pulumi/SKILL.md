@@ -1,6 +1,6 @@
 ---
 name: infra-iac-pulumi
-description: TypeScript-native Infrastructure as Code with Pulumi
+description: 使用 Pulumi 的 TypeScript 原生基础设施即代码。 | TypeScript-native Infrastructure as Code with Pulumi
 ---
 
 # Pulumi Infrastructure as Code

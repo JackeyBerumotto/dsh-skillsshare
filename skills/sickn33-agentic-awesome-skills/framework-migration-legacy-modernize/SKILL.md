@@ -1,6 +1,6 @@
 ---
 name: framework-migration-legacy-modernize
-description: "Orchestrate a comprehensive legacy system modernization using the strangler fig pattern, enabling gradual replacement of outdated components while maintaining continuous business operations through ex"
+description: "使用绞杀者模式编排全面的遗留系统现代化改造，在保持业务持续运行的同时逐步替换过时组件…… | Orchestrate a comprehensive legacy system modernization using the strangler fig pattern, enabling gradual replacement of outdated components while maintaining continuous business operations through ex"
 risk: unknown
 source: community
 date_added: "2026-02-27"

@@ -1,6 +1,6 @@
 ---
 name: youtube-script-writer
-description: "Write engaging, high-retention YouTube video scripts with visual and audio cues. Use when asked to write a YouTube script, design a video outline, draft a video hook, or structure a video narrative. Produces a polished script with multiple hook options, step-by-step video body, and clear visual/audio directions."
+description: "撰写带有视觉和音频提示、高留存的 YouTube 视频脚本。在被要求编写 YouTube 脚本、设计视频大纲、起草视频钩子或搭建视频叙事时使用。产出精修脚本，包含多个钩子选项、逐步展开的视频主体和清晰的视觉/音频指示。 | Write engaging, high-retention YouTube video scripts with visual and audio cues. Use when asked to write a YouTube script, design a video outline, draft a video hook, or structure a video narrative. Produces a polished script with multiple hook options, step-by-step video body, and clear visual/audio directions."
 ---
 
 # YouTube Script Writer Skill

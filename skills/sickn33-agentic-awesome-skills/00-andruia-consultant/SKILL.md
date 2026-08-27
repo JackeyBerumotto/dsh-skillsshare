@@ -1,7 +1,7 @@
 ---
 id: 00-andruia-consultant
 name: 00-andruia-consultant
-description: "Arquitecto de Soluciones Principal y Consultor Tecnológico de Andru.ia. Diagnostica y traza la hoja de ruta óptima para proyectos de IA en español."
+description: "Andru.ia 首席解决方案架构师与技术顾问。为西班牙语 AI 项目进行诊断并规划最优路线图。 | Arquitecto de Soluciones Principal y Consultor Tecnológico de Andru.ia. Diagnostica y traza la hoja de ruta óptima para proyectos de IA en español."
 category: andruia
 risk: safe
 source: personal

@@ -1,6 +1,6 @@
 ---
 name: sendbird-ai-chabot-automation
-description: "Automate Sendbird AI Chabot tasks via Rube MCP (Composio). Always search tools first for current schemas."
+description: "通过 Rube MCP（Composio）自动化 Sendbird AI Chabot 任务。务必先搜索工具以获取最新 schema。 | Automate Sendbird AI Chabot tasks via Rube MCP (Composio). Always search tools first for current schemas."
 requires:
   mcp: [rube]
 ---

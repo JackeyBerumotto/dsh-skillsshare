@@ -1,6 +1,6 @@
 ---
 name: unslop-file
-description: "Humanize natural-language memory files (CLAUDE.md, todos, preferences, docs) by removing AI-isms and adding burstiness while preserving every code block, URL, path, command, and heading exactly. Two modes: --deterministic (fast, regex-based, no API) and LLM (default, calls Claude for..."
+description: "人性化自然语言记忆文件（CLAUDE.md、待办、偏好、文档），去除 AI 腔调并增加句式起伏，同时逐字保留每个代码块、URL、路径、命令和标题。两种模式：--deterministic（快速、基于正则、无需 API）和 LLM（默认，调用 Claude……） | Humanize natural-language memory files (CLAUDE.md, todos, preferences, docs) by removing AI-isms and adding burstiness while preserving every code block, URL, path, command, and heading exactly. Two modes: --deterministic (fast, regex-based, no API) and LLM (default, calls Claude for..."
 risk: unknown
 source: https://github.com/MohamedAbdallah-14/unslop/tree/main/plugins/unslop/skills/unslop-file
 source_repo: MohamedAbdallah-14/unslop

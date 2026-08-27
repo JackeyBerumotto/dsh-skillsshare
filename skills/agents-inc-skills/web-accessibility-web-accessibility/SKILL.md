@@ -1,6 +1,6 @@
 ---
 name: web-accessibility-web-accessibility
-description: WCAG, ARIA, keyboard navigation
+description: WCAG、ARIA 和键盘导航。 | WCAG, ARIA, keyboard navigation
 ---
 
 # Accessibility

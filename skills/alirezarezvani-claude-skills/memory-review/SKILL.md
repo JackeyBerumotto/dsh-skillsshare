@@ -1,6 +1,6 @@
 ---
 name: "memory-review"
-description: "Analyze auto-memory for promotion candidates, stale entries, consolidation opportunities, and health metrics. Use when the user runs /si:memory-review or asks what has been learned and what should be promoted or pruned."
+description: "分析自动记忆中的可晋升条目、陈旧条目、合并机会和健康指标。当用户运行 /si:memory-review，或询问学到了什么、哪些应晋升或清理时使用。 | Analyze auto-memory for promotion candidates, stale entries, consolidation opportunities, and health metrics. Use when the user runs /si:memory-review or asks what has been learned and what should be promoted or pruned."
 ---
 
 # /si:memory-review — Analyze Auto-Memory

@@ -1,6 +1,6 @@
 ---
 name: docx-tracked-changes
-description: "Produce properly-formatted tracked changes for a Word document. Use when asked to redline a document, suggest edits to a contract or document, create tracked changes for review, or mark up a document with proposed revisions. Produces a complete redline with insertions, deletions, and margin comments that can be applied to the source document. Best used with Claude Opus 4.7 or newer for reliable tracked changes handling."
+description: "为 Word 文档生成格式正确的修订痕迹。当被要求对文档做红线标注、对合同或文档提出修改建议、为评审创建修订痕迹，或在文档中标出拟议修改时使用。产出包含插入、删除和页边批注的完整红线稿，可应用于源文档。建议搭配 Claude Opus 4.7 或更新版本以可靠处理修订痕迹。 | Produce properly-formatted tracked changes for a Word document. Use when asked to redline a document, suggest edits to a contract or document, create tracked changes for review, or mark up a document with proposed revisions. Produces a complete redline with insertions, deletions, and margin comments that can be applied to the source document. Best used with Claude Opus 4.7 or newer for reliable tracked changes handling."
 ---
 
 # Word Doc Tracked Changes Skill

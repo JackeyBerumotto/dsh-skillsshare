@@ -1,7 +1,7 @@
 ---
 name: ponytail-review
 description: >
-  Code review focused exclusively on over-engineering. Finds what to delete:
+  专注过度设计的代码审查。找出可删除的内容：重复造轮子的标准库、不必要的依赖、投机性抽象、无用的灵活性。每个发现一行：位置、要删什么、用什么替代。当用户说「review for over-engineering」「what can we delete」「is this over-engineered」「simplify review」或调用 /ponytail-review 时使用。作为专注正确性的审查的补充，本技能只追查复杂度。 |
   reinvented standard library, unneeded dependencies, speculative abstractions,
   dead flexibility. One line per finding: location, what to cut, what replaces
   it. Use when the user says "review for over-engineering", "what can we

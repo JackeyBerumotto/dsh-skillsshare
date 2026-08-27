@@ -1,6 +1,6 @@
 ---
 name: candidate-scorecard
-description: "Turn interview notes into a structured candidate scorecard and hire recommendation. Use when asked to write an interview scorecard, a candidate evaluation, an interview debrief, or to summarize feedback into a hire/no-hire call. Produces a per-competency assessment with evidence and ratings, an overall recommendation with confidence, and the open questions for the next round — evidence-based, bias-aware, and decision-ready."
+description: "将面试笔记转化为结构化的候选人记分卡和录用建议。当被要求撰写面试记分卡、候选人评估、面试复盘，或将反馈汇总为录用/不录用结论时使用。产出按胜任力划分的评估，附带证据和评分、带置信度的总体建议，以及下一轮的待解问题——基于证据、注意偏差、可直接用于决策。 | Turn interview notes into a structured candidate scorecard and hire recommendation. Use when asked to write an interview scorecard, a candidate evaluation, an interview debrief, or to summarize feedback into a hire/no-hire call. Produces a per-competency assessment with evidence and ratings, an overall recommendation with confidence, and the open questions for the next round — evidence-based, bias-aware, and decision-ready."
 ---
 
 # Candidate Scorecard Skill

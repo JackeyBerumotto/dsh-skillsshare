@@ -1,6 +1,6 @@
 ---
 name: mdpr-skill
-description: "Review MDPR Markdown presentation workflows with semantic hints, visual checks, and deterministic renderer boundaries."
+description: "审查 MDPR Markdown 演示工作流，涵盖语义提示、视觉检查和确定性渲染器边界。 | Review MDPR Markdown presentation workflows with semantic hints, visual checks, and deterministic renderer boundaries."
 category: productivity
 risk: safe
 source: community

@@ -1,6 +1,6 @@
 ---
 name: go-to-market
-description: "Create go-to-market assets for any product or feature. Use when asked for a GTM plan, positioning statement, product launch plan, messaging pillars, use cases, or feature/benefit list. Produces a full GTM pack: positioning statement, messaging pillars, feature-to-benefit mapping, and role-specific use cases. For a tiered launch plan with cross-functional coordination use go-to-market-planner instead."
+description: "为任意产品或功能创建上市物料。当被要求提供 GTM 计划、定位陈述、产品发布计划、信息支柱、用例或功能／利益清单时使用。产出完整 GTM 套件：定位陈述、信息支柱、功能到利益的映射以及按角色划分的用例。如需带跨职能协作的分层发布计划，请改用 go-to-market-planner。 | Create go-to-market assets for any product or feature. Use when asked for a GTM plan, positioning statement, product launch plan, messaging pillars, use cases, or feature/benefit list. Produces a full GTM pack: positioning statement, messaging pillars, feature-to-benefit mapping, and role-specific use cases. For a tiered launch plan with cross-functional coordination use go-to-market-planner instead."
 ---
 
 # Go-To-Market Skill

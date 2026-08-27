@@ -1,8 +1,6 @@
 ---
 name: analyzing-cobalt-strike-beacon-configuration
-description: Extract and analyze Cobalt Strike beacon configuration from PE files
-  and memory dumps to identify C2 infrastructure, malleable profiles, and operator
-  tradecraft.
+description: "从 PE 文件和内存转储中提取并分析 Cobalt Strike 信标配置，识别 C2 基础设施、Malleable 配置文件和操作者的技战术手法。 | Extract and analyze Cobalt Strike beacon configuration from PE files and memory dumps to identify C2 infrastructure, malleable profiles, and operator tradecraft."
 domain: cybersecurity
 subdomain: malware-analysis
 tags:

@@ -1,6 +1,6 @@
 ---
 name: github-actions-debugger
-description: "Specialized skill for diagnosing, analyzing, and fixing failing GitHub Actions workflows by parsing run logs and pipeline definitions."
+description: "通过解析运行日志和流水线定义，诊断、分析并修复失败的 GitHub Actions 工作流的专项技能。 | Specialized skill for diagnosing, analyzing, and fixing failing GitHub Actions workflows by parsing run logs and pipeline definitions."
 category: devops
 risk: safe
 source: community

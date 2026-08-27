@@ -1,6 +1,6 @@
 ---
 name: beachhead-segment
-description: "Identify the first beachhead market segment for a product launch. Evaluates segments against burning pain, willingness to pay, winnable market share, and referral potential. Use when choosing a first market, targeting an initial customer segment, or planning market entry strategy."
+description: "为产品发布识别首个滩头市场细分。从强烈痛点、付费意愿、可赢得的市场份额和推荐潜力等维度评估各细分市场。在选择首个市场、瞄准初始客户细分或规划市场进入策略时使用。 | Identify the first beachhead market segment for a product launch. Evaluates segments against burning pain, willingness to pay, winnable market share, and referral potential. Use when choosing a first market, targeting an initial customer segment, or planning market entry strategy."
 ---
 # Beachhead Segment
 

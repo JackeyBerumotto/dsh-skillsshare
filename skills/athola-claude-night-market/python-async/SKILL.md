@@ -1,6 +1,6 @@
 ---
 name: python-async
-description: Async Python patterns via asyncio and aiohttp for I/O-bound concurrency. Use when adding async APIs, handling concurrent I/O, or debugging async code.
+description: 基于 asyncio 与 aiohttp 的异步 Python 模式，处理 I/O 密集型并发。在添加异步 API、处理并发 I/O 或调试异步代码时使用。 | Async Python patterns via asyncio and aiohttp for I/O-bound concurrency. Use when adding async APIs, handling concurrent I/O, or debugging async code.
 globs: "**/*.py"
 alwaysApply: false
 category: async

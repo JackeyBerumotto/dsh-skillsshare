@@ -1,6 +1,6 @@
 ---
 name: migrate-validate
-description: Validate pending migrations for foreign key consistency, rollback safety, and best practices
+description: 验证待执行迁移的外键一致性、回滚安全性和最佳实践。 | Validate pending migrations for foreign key consistency, rollback safety, and best practices
 argument-hint: ""
 allowed-tools: Read Glob Grep Bash mcp__claude-flow__memory_search mcp__claude-flow__memory_list mcp__claude-flow__memory_store mcp__claude-flow__agentdb_pattern-store mcp__claude-flow__agentdb_semantic-route
 ---

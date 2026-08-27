@@ -1,6 +1,6 @@
 ---
 name: case-for-support
-description: "Write a fundraising case for support that makes donors want to give. Use when asked to write a case for support, a fundraising case statement, a major-gift or campaign case, or the core argument for a donation appeal. Produces a persuasive case — the need, your solution and why you, the impact a gift makes, specific funding opportunities with amounts, and a clear ask — donor-centred, not org-centred."
+description: "撰写让捐赠者愿意解囊的筹款支持理由书。在被要求编写支持理由书、筹款理由声明、大额捐赠或活动理由书，或募捐呼吁的核心论证时使用。产出有说服力的理由书——需求、你的解决方案及为何是你、捐赠带来的影响、带金额的具体资助机会，以及明确的请求——以捐赠者而非组织为中心。 | Write a fundraising case for support that makes donors want to give. Use when asked to write a case for support, a fundraising case statement, a major-gift or campaign case, or the core argument for a donation appeal. Produces a persuasive case — the need, your solution and why you, the impact a gift makes, specific funding opportunities with amounts, and a clear ask — donor-centred, not org-centred."
 ---
 
 # Case for Support Skill

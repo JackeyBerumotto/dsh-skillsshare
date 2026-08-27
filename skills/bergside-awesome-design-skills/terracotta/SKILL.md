@@ -1,6 +1,6 @@
 ---
 name: "terracotta"
-description: "A sun-baked, clay-toned editorial interface built on warm cream surfaces, ink-brown headlines set in a display serif, and a single terracotta accent."
+description: "建立在暖奶油色表面之上的烈日陶土色调编辑界面，墨棕色标题采用展示衬线字体，辅以单一的陶瓦色点缀。 | A sun-baked, clay-toned editorial interface built on warm cream surfaces, ink-brown headlines set in a display serif, and a single terracotta accent."
 metadata:
   author: typeui.sh
 ---

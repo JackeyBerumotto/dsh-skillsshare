@@ -1,8 +1,6 @@
 ---
 name: discord-bot-architect
-description: Specialized skill for building production-ready Discord bots.
-  Covers Discord.js (JavaScript) and Pycord (Python), gateway intents, slash
-  commands, interactive components, rate limiting, and sharding.
+description: "用于构建生产级 Discord 机器人的专项技能。涵盖 Discord.js（JavaScript）与 Pycord（Python）、网关 intents、斜杠命令、交互组件、限速与分片。 | Specialized skill for building production-ready Discord bots. Covers Discord.js (JavaScript) and Pycord (Python), gateway intents, slash commands, interactive components, rate limiting, and sharding."
 risk: unknown
 source: vibeship-spawner-skills (Apache 2.0)
 date_added: 2026-02-27

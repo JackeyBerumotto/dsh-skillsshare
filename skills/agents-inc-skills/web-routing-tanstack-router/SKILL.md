@@ -1,6 +1,6 @@
 ---
 name: web-routing-tanstack-router
-description: Type-safe client-side routing for React with file-based routes, search params validation, loaders, and code splitting
+description: 为 React 提供类型安全的客户端路由，包含基于文件的路由、搜索参数校验、loader 和代码分割。 | Type-safe client-side routing for React with file-based routes, search params validation, loaders, and code splitting
 ---
 
 # TanStack Router Patterns

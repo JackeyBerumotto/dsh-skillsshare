@@ -1,7 +1,7 @@
 ---
 name: swarm-orchestration
 description: >
-  Multi-agent swarm coordination for complex tasks.
+  面向复杂任务的多智能体集群协调。使用场景：需要修改 3 个以上文件、新功能、重构。跳过场景：单文件编辑、简单修复、文档。 |
   Use when: 3+ files need changes, new features, refactoring.
   Skip when: single file edits, simple fixes, documentation.
 ---

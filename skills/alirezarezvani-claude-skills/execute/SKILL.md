@@ -1,6 +1,6 @@
 ---
 name: "execute"
-description: "/cs:execute <decision> — Generate a 90-day execution plan with weekly milestones, DRIs, and check-in cadence from an approved decision. Use when a logged decision needs to become an operating plan — e.g. turning an approved market-entry call into weekly milestones with DRIs."
+description: "/cs:execute <decision>——从已批准的决策生成九十天执行计划，包含每周里程碑、DRI 和例会节奏。适用于已记录的决策需要转化为运营计划时——例如把已批准的市场进入决策转化为带 DRI 的每周里程碑。 | /cs:execute <decision> — Generate a 90-day execution plan with weekly milestones, DRIs, and check-in cadence from an approved decision. Use when a logged decision needs to become an operating plan — e.g. turning an approved market-entry call into weekly milestones with DRIs."
 ---
 
 # /cs:execute — 90-Day Execution Plan

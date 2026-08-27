@@ -1,7 +1,6 @@
 ---
 name: voice-agents
-description: Voice agents represent the frontier of AI interaction - humans
-  speaking naturally with AI systems.
+description: "语音智能体代表着 AI 交互的前沿——人类以自然语言与 AI 系统对话。 | Voice agents represent the frontier of AI interaction - humans speaking naturally with AI systems."
 risk: safe
 source: vibeship-spawner-skills (Apache 2.0)
 date_added: 2026-02-27

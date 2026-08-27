@@ -1,6 +1,6 @@
 ---
 name: swiftui-view-refactor
-description: Refactor SwiftUI views into smaller components with stable, explicit data flow.
+description: 将 SwiftUI 视图重构为更小的组件，并具备稳定、显式的数据流。 | Refactor SwiftUI views into smaller components with stable, explicit data flow.
 risk: safe
 source: "Dimillian/Skills (MIT)"
 date_added: "2026-03-25"

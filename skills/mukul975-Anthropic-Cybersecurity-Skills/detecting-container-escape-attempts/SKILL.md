@@ -1,8 +1,6 @@
 ---
 name: detecting-container-escape-attempts
-description: Container escape is a critical attack technique where an adversary breaks
-  out of container isolation to access the host system or other containers. Detection
-  involves monitoring for escape indicators
+description: "容器逃逸是一种关键攻击技术，攻击者突破容器隔离以访问主机系统或其他容器。检测涉及监控逃逸指标…… | Container escape is a critical attack technique where an adversary breaks out of container isolation to access the host system or other containers. Detection involves monitoring for escape indicators"
 domain: cybersecurity
 subdomain: container-security
 tags:

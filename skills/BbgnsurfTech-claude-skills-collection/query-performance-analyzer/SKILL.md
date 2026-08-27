@@ -1,7 +1,7 @@
 ---
 name: analyzing-query-performance
 description: |
-  Use when you need to work with query optimization.
+  当你需要处理查询优化时使用。此技能提供查询性能分析及全面的指导和自动化。触发词如「optimize queries」「analyze performance」或「improve query speed」。 |
   This skill provides query performance analysis with comprehensive guidance and automation.
   Trigger with phrases like "optimize queries", "analyze performance",
   or "improve query speed".

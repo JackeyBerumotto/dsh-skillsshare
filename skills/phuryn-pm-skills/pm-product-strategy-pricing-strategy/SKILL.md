@@ -1,6 +1,6 @@
 ---
 name: pricing-strategy
-description: "Analyze and design pricing strategies including pricing models, competitive pricing analysis, willingness-to-pay estimation, and price elasticity. Use when setting prices, evaluating pricing models, preparing for a pricing change, or comparing freemium vs paid approaches."
+description: "分析并设计定价策略，包括定价模型、竞争定价分析、支付意愿估算和价格弹性。在定价、评估定价模型、筹备调价，或比较免费增值与付费模式时使用。 | Analyze and design pricing strategies including pricing models, competitive pricing analysis, willingness-to-pay estimation, and price elasticity. Use when setting prices, evaluating pricing models, preparing for a pricing change, or comparing freemium vs paid approaches."
 ---
 
 ## Pricing Strategy

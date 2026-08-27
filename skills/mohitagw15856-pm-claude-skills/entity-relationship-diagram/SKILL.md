@@ -1,6 +1,6 @@
 ---
 name: entity-relationship-diagram
-description: "Turn a data model into an entity-relationship (ER) diagram. Use when asked to design a schema, model data, show how tables/entities relate, or diagram a database. Produces a ready-to-render Mermaid ER diagram (renders live, exportable as PNG/SVG) plus key attributes, cardinality, and design notes."
+description: "将数据模型转换为实体关系（ER）图。当被要求设计 schema、建模数据、展示表/实体之间的关系或绘制数据库图时使用。产出可直接渲染的 Mermaid ER 图（可实时渲染、可导出为 PNG/SVG），附带关键属性、基数和设计说明。 | Turn a data model into an entity-relationship (ER) diagram. Use when asked to design a schema, model data, show how tables/entities relate, or diagram a database. Produces a ready-to-render Mermaid ER diagram (renders live, exportable as PNG/SVG) plus key attributes, cardinality, and design notes."
 ---
 
 # Entity-Relationship Diagram Skill

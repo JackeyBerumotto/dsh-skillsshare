@@ -1,6 +1,6 @@
 ---
 name: data-retention-policy
-description: "Build a data retention and deletion schedule grounded in legal basis. Use when asked to create a data retention policy, set retention periods, plan data deletion/minimisation, or answer 'how long can we keep this data?'. Produces a retention schedule — data categories with their retention period, legal/business basis, deletion trigger and method, plus flags for data kept with no basis or no defined period."
+description: "构建以法律依据为基础的数据留存与删除时间表。当被要求创建数据留存政策、设定留存期限、规划数据删除或最小化，或回答「这类数据我们能保留多久」时使用。产出留存时间表——各类数据的留存期限、法律或业务依据、删除触发条件与方法，并对无依据留存或未定义期限的数据加以标记。 | Build a data retention and deletion schedule grounded in legal basis. Use when asked to create a data retention policy, set retention periods, plan data deletion/minimisation, or answer 'how long can we keep this data?'. Produces a retention schedule — data categories with their retention period, legal/business basis, deletion trigger and method, plus flags for data kept with no basis or no defined period."
 ---
 
 # Data Retention Policy Skill

@@ -1,6 +1,6 @@
 ---
 name: "ux-researcher-designer"
-description: UX research and design toolkit for Senior UX Designer/Researcher including data-driven persona generation, journey mapping, usability testing frameworks, and research synthesis. Use when conducting user research, creating personas, mapping user journeys, planning usability tests, or validating designs.
+description: 面向资深 UX 设计师/研究员的 UX 研究与设计工具包，包含数据驱动的用户画像生成、旅程映射、可用性测试框架和研究综合。用于开展用户研究、创建画像、映射用户旅程、规划可用性测试或验证设计。 | UX research and design toolkit for Senior UX Designer/Researcher including data-driven persona generation, journey mapping, usability testing frameworks, and research synthesis. Use when conducting user research, creating personas, mapping user journeys, planning usability tests, or validating designs.
 ---
 
 # UX Researcher & Designer

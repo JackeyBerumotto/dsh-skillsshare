@@ -1,6 +1,6 @@
 ---
 name: fixing-metadata
-description: Audit and fix HTML metadata including page titles, meta descriptions, canonical URLs, Open Graph tags, Twitter cards, favicons, JSON-LD structured data, and robots directives. Use when adding SEO metadata, fixing social share previews, reviewing Open Graph tags, setting up canonical...
+description: 审计并修复 HTML 元数据，包括页面标题、meta 描述、canonical URL、Open Graph 标签、Twitter 卡片、favicon、JSON-LD 结构化数据以及 robots 指令。在添加 SEO 元数据、修复社交分享预览、审查 Open Graph 标签、设置 canonical 等操作时使用。 | Audit and fix HTML metadata including page titles, meta descriptions, canonical URLs, Open Graph tags, Twitter cards, favicons, JSON-LD structured data, and robots directives. Use when adding SEO metadata, fixing social share previews, reviewing Open Graph tags, setting up canonical...
 risk: unknown
 source: https://github.com/ibelick/ui-skills/tree/main/skills/fixing-metadata
 source_repo: ibelick/ui-skills

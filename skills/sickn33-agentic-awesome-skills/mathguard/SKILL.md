@@ -1,6 +1,6 @@
 ---
 name: mathguard
-description: "Math-heavy escalation for n >= 10^6 — Bloom, HyperLogLog, Count-Min, MinHash/LSH, FFT, JL projection, sweep line. Use when classical O(n log n) is the floor and approximate or math wins."
+description: "面向 n >= 10^6 的重数学升级路径——Bloom、HyperLogLog、Count-Min、MinHash/LSH、FFT、JL 投影、扫描线。当经典 O（n log n）已是下界，而近似或数学方法能带来优势时使用。 | Math-heavy escalation for n >= 10^6 — Bloom, HyperLogLog, Count-Min, MinHash/LSH, FFT, JL projection, sweep line. Use when classical O(n log n) is the floor and approximate or math wins."
 risk: safe
 source: community
 source_repo: morsechimwai/lemmaly

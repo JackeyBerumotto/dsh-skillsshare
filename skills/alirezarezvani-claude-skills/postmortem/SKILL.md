@@ -1,6 +1,6 @@
 ---
 name: "postmortem"
-description: "/em:postmortem — Honest analysis of what went wrong. Use after a failed launch, missed quarter, or bad hire to run a blameless 5-Whys retrospective with a change register — e.g. dissecting why the Q3 release slipped six weeks."
+description: "/em:postmortem——对问题所在的诚实分析。适用于失败的发布、未达标的季度或错误招聘之后，用变更登记表做无指责的五问复盘——例如剖析 Q3 发布为何推迟六周。 | /em:postmortem — Honest analysis of what went wrong. Use after a failed launch, missed quarter, or bad hire to run a blameless 5-Whys retrospective with a change register — e.g. dissecting why the Q3 release slipped six weeks."
 ---
 
 # /em:postmortem — Honest Analysis of What Went Wrong

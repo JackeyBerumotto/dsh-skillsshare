@@ -1,6 +1,6 @@
 ---
 name: monitoring-error-rates
-description: Monitor and analyze application error rates to improve reliability. Use when tracking errors in applications including HTTP errors, exceptions, and database issues. Trigger with phrases like "monitor error rates", "track application errors", or "analyze error patterns".
+description: 监控并分析应用错误率以提升可靠性。在跟踪应用中的错误（包括 HTTP 错误、异常与数据库问题）时使用。触发短语如「monitor error rates」「track application errors」或「analyze error patterns」。 | Monitor and analyze application error rates to improve reliability. Use when tracking errors in applications including HTTP errors, exceptions, and database issues. Trigger with phrases like "monitor error rates", "track application errors", or "analyze error patterns".
 version: 1.0.0
 allowed-tools:
 - Read

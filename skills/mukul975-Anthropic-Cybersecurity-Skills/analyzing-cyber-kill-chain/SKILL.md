@@ -1,14 +1,6 @@
 ---
 name: analyzing-cyber-kill-chain
-description: 'Analyzes intrusion activity against the Lockheed Martin Cyber Kill Chain
-  framework to identify which phases an adversary has completed, where defenses succeeded
-  or failed, and what controls would have interrupted the attack at earlier phases.
-  Use when conducting post-incident analysis, building prevention-focused security
-  controls, or mapping detection gaps to kill chain phases. Activates for requests
-  involving kill chain analysis, intrusion kill chain, attack phase mapping, or Lockheed
-  Martin kill chain framework.
-
-  '
+description: "依据 Lockheed Martin 网络杀伤链框架分析入侵活动，识别攻击者已完成哪些阶段、防御在何处成功或失败，以及哪些控制措施本可在更早阶段阻断攻击。当开展事后分析、构建以预防为重点的安全控制，或将检测差距映射到杀伤链阶段时使用。当请求涉及杀伤链分析、入侵杀伤链、攻击阶段映射或 Lockheed Martin 杀伤链框架时激活。 | Analyzes intrusion activity against the Lockheed Martin Cyber Kill Chain framework to identify which phases an adversary has completed, where defenses succeeded or failed, and what controls would have interrupted the attack at earlier phases. Use when conducting post-incident analysis, building prevention-focused security controls, or mapping detection gaps to kill chain phases. Activates for requests involving kill chain analysis, intrusion kill chain, attack phase mapping, or Lockheed Martin kill chain framework."
 domain: cybersecurity
 subdomain: threat-intelligence
 tags:

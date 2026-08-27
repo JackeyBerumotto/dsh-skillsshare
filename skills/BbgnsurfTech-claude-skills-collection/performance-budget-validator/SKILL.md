@@ -1,6 +1,6 @@
 ---
 name: validating-performance-budgets
-description: Validate application performance against defined budgets to identify regressions early. Use when checking page load times, bundle sizes, or API response times against thresholds. Trigger with phrases like "validate performance budget", "check performance metrics", or "detect performance regression".
+description: 根据既定预算验证应用性能以尽早发现回归。在对照阈值检查页面加载时间、包大小或 API 响应时间时使用。触发词如「validate performance budget」「check performance metrics」或「detect performance regression」。 | Validate application performance against defined budgets to identify regressions early. Use when checking page load times, bundle sizes, or API response times against thresholds. Trigger with phrases like "validate performance budget", "check performance metrics", or "detect performance regression".
 version: 1.0.0
 allowed-tools:
 - Read

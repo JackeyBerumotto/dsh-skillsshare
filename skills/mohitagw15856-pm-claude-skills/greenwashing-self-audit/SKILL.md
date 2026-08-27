@@ -1,6 +1,6 @@
 ---
 name: greenwashing-self-audit
-description: "Audit your own marketing and report claims for greenwashing risk before a regulator, journalist, or competitor does. Use when asked to review sustainability claims, check marketing copy for greenwash, audit environmental claims on a website or report, or pressure-test green messaging. Produces a claim inventory with substantiation status per claim, vague-term and omission flags, and a fix-or-drop recommendation for every claim."
+description: "在监管机构、记者或竞争对手之前，审计你自己的营销和报告宣传中的漂绿风险。当被要求审查可持续性宣传、检查营销文案是否存在漂绿、审计网站或报告中的环保声明或压力测试绿色传播时使用。产出宣传清单，包含每条声明的证据状态、模糊用语与遗漏标记，以及对每条声明的修复或删除建议。 | Audit your own marketing and report claims for greenwashing risk before a regulator, journalist, or competitor does. Use when asked to review sustainability claims, check marketing copy for greenwash, audit environmental claims on a website or report, or pressure-test green messaging. Produces a claim inventory with substantiation status per claim, vague-term and omission flags, and a fix-or-drop recommendation for every claim."
 ---
 
 # Greenwashing Self-Audit Skill

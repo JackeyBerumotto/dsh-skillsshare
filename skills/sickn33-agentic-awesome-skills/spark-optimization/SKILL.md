@@ -1,6 +1,6 @@
 ---
 name: spark-optimization
-description: "Optimize Apache Spark jobs with partitioning, caching, shuffle optimization, and memory tuning. Use when improving Spark performance, debugging slow jobs, or scaling data processing pipelines."
+description: "通过分区、缓存、shuffle 优化和内存调优来优化 Apache Spark 作业。在提升 Spark 性能、调试慢作业或扩展数据处理管道时使用。 | Optimize Apache Spark jobs with partitioning, caching, shuffle optimization, and memory tuning. Use when improving Spark performance, debugging slow jobs, or scaling data processing pipelines."
 risk: unknown
 source: community
 date_added: "2026-02-27"

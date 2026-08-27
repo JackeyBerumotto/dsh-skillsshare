@@ -1,6 +1,6 @@
 ---
 name: web-data-fetching-trpc
-description: tRPC type-safe API patterns, procedures, middleware, React Query integration
+description: tRPC 类型安全 API 模式、procedures、中间件与 React Query 集成。 | tRPC type-safe API patterns, procedures, middleware, React Query integration
 ---
 
 # tRPC Type-Safe API Patterns

@@ -1,7 +1,6 @@
 ---
 name: implementing-soar-playbook-with-palo-alto-xsoar
-description: Implement automated incident response playbooks in Cortex XSOAR to orchestrate
-  security workflows across SOC tools and reduce manual response time.
+description: "在 Cortex XSOAR 中实现自动化事件响应剧本，编排跨 SOC 工具的安全工作流，缩短人工响应时间。 | Implement automated incident response playbooks in Cortex XSOAR to orchestrate security workflows across SOC tools and reduce manual response time."
 domain: cybersecurity
 subdomain: soc-operations
 tags:

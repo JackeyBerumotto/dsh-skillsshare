@@ -1,7 +1,7 @@
 ---
 name: managing-third-party-vendor-risk
 description: >-
-  Build and run a third-party / vendor risk management (TPRM) program aligned to NIST
+  构建并运行与 NIST SP 800-161 C-SCRM 和 NIST CSF 2.0 GV.SC 对齐的第三方或供应商风险管理（TPRM）计划：按风险对供应商进行清点与分级、发送合适的尽职调查问卷（SIG、CAIQ）、审查证据（SOC 2、ISO 27001、渗透测试报告）、在合同中写入安全与审计权条款、持续监控供应商、管理第 N 方与分包商风险，以及安全下线供应商。当组织需要在入职前评估新供应商、搭建或完善供应商风险计划、对供应商组合分级、审查 SOC 2 或 CAIQ、把安全要求写进合同或 DPA、供应商遭遇泄露，或管理供应链与软件供应链风险时使用。关键词：第三方风险、供应商风险管理、TPRM、供应链风险、C-SCRM、NIST 800-161、供应商分级、SIG 问卷、CAIQ、SOC 2、ISO 27001、审计权、持续监控、安全评级、第四方风险、第 N 方、供应商下线、尽职调查。 |
   SP 800-161 C-SCRM and NIST CSF 2.0 GV.SC: inventory and tier vendors by risk, send the
   right due-diligence questionnaire (SIG, CAIQ), review evidence (SOC 2, ISO 27001,
   pen-test reports), set contractual security and right-to-audit clauses, monitor vendors

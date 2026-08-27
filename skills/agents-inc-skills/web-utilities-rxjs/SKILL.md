@@ -1,6 +1,6 @@
 ---
 name: web-utilities-rxjs
-description: Reactive programming with RxJS - Observables, operators, Subjects, error handling, and memory leak prevention
+description: 基于 RxJS 的响应式编程：Observables、操作符、Subjects、错误处理与内存泄漏预防。 | Reactive programming with RxJS - Observables, operators, Subjects, error handling, and memory leak prevention
 ---
 
 # RxJS Reactive Programming Patterns

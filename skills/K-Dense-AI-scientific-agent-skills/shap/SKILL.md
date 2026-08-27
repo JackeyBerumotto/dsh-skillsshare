@@ -1,6 +1,6 @@
 ---
 name: shap
-description: Model interpretability and explainability using SHAP (SHapley Additive exPlanations). Use this skill when explaining machine learning model predictions, computing feature importance, generating SHAP plots (waterfall, beeswarm, bar, scatter, force, heatmap), debugging models, analyzing model bias or fairness, comparing models, or implementing explainable AI. Works with tree-based models (XGBoost, LightGBM, Random Forest), deep learning (TensorFlow, PyTorch), linear models, and any black-box model.
+description: 使用 SHAP（SHapley Additive exPlanations）进行模型可解释性与可说明性分析。在解释机器学习模型预测、计算特征重要性、生成 SHAP 图（瀑布图、蜂群图、柱状图、散点图、力导图、热力图）、调试模型、分析模型偏见或公平性、比较模型或实现可解释 AI 时使用此技能。兼容树模型（XGBoost、LightGBM、随机森林）、深度学习（TensorFlow、PyTorch）、线性模型及任何黑盒模型。 | Model interpretability and explainability using SHAP (SHapley Additive exPlanations). Use this skill when explaining machine learning model predictions, computing feature importance, generating SHAP plots (waterfall, beeswarm, bar, scatter, force, heatmap), debugging models, analyzing model bias or fairness, comparing models, or implementing explainable AI. Works with tree-based models (XGBoost, LightGBM, Random Forest), deep learning (TensorFlow, PyTorch), linear models, and any black-box model.
 license: MIT license
 metadata: {"version": "1.0", "skill-author": "K-Dense Inc."}
 ---

@@ -1,6 +1,6 @@
 ---
 name: community-management-playbook
-description: "Build a community management playbook for a brand's social media channels. Use when asked to create guidelines for managing comments, DMs, and community interactions, define a moderation policy, or build response frameworks for social media community managers. Produces a complete playbook with response templates, escalation paths, moderation rules, and tone guidelines."
+description: "为品牌的社交媒体渠道构建社区管理手册。当被要求创建评论、私信与社区互动的管理准则、制定审核政策，或为社交媒体社区经理构建响应框架时使用。产出完整手册，包含回复模板、升级路径、审核规则与语气指南。 | Build a community management playbook for a brand's social media channels. Use when asked to create guidelines for managing comments, DMs, and community interactions, define a moderation policy, or build response frameworks for social media community managers. Produces a complete playbook with response templates, escalation paths, moderation rules, and tone guidelines."
 ---
 
 # Community Management Playbook Skill

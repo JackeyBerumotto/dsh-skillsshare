@@ -1,6 +1,6 @@
 ---
 name: salary-negotiation
-description: "Plan a compensation negotiation grounded in numbers and leverage, not nerves. Use when asked to negotiate salary, evaluate or counter a job offer, prepare for a comp conversation, or compare offers. Produces a negotiation plan — total-comp comparison across offers, your target/walk-away and BATNA, the value-based justification, the counter scripts, and what to negotiate beyond base."
+description: "基于数字和筹码而非紧张情绪来规划薪酬谈判。当被要求谈判薪资、评估或还价工作邀请、准备薪酬谈话或比较多个 offer 时使用。产出一份谈判计划：跨 offer 的总薪酬对比、你的目标价/底线和 BATNA、基于价值的论证、还价话术，以及基本工资之外可以谈判的事项。 | Plan a compensation negotiation grounded in numbers and leverage, not nerves. Use when asked to negotiate salary, evaluate or counter a job offer, prepare for a comp conversation, or compare offers. Produces a negotiation plan — total-comp comparison across offers, your target/walk-away and BATNA, the value-based justification, the counter scripts, and what to negotiate beyond base."
 ---
 
 # Salary Negotiation Skill

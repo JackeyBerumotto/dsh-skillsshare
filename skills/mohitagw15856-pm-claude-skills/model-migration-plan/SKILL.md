@@ -1,6 +1,6 @@
 ---
 name: model-migration-plan
-description: "Plan the migration of an LLM feature from one model to another without breaking production. Use when a model is being deprecated, a newer model looks better or cheaper, or when asked how to upgrade models safely, run shadow traffic, or set rollback criteria for a model change. Produces a phased migration plan with eval gates, shadow/canary stages, prompt-adaptation notes, and rollback triggers. For choosing which model in the first place use model-selection-advisor."
+description: "规划 LLM 功能从一个模型到另一个模型的迁移且不破坏生产环境。当模型将被弃用、新模型看起来更好或更便宜，或被问及如何安全升级模型、运行影子流量、设定模型变更的回滚标准时使用。产出分阶段迁移计划，包含评估门槛、影子/金丝雀阶段、提示词适配说明和回滚触发条件。若要在一开始就选择模型，请使用 model-selection-advisor。 | Plan the migration of an LLM feature from one model to another without breaking production. Use when a model is being deprecated, a newer model looks better or cheaper, or when asked how to upgrade models safely, run shadow traffic, or set rollback criteria for a model change. Produces a phased migration plan with eval gates, shadow/canary stages, prompt-adaptation notes, and rollback triggers. For choosing which model in the first place use model-selection-advisor."
 ---
 
 # Model Migration Plan Skill

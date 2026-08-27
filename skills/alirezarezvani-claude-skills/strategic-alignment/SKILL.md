@@ -1,6 +1,6 @@
 ---
 name: "strategic-alignment"
-description: "Cascades strategy from boardroom to individual contributor. Detects and fixes misalignment between company goals and team execution. Covers strategy articulation, cascade mapping, orphan goal detection, silo identification, communication gap analysis, and realignment protocols. Use when teams are pulling in different directions, OKRs don't connect, departments optimize locally at company expense, or when user mentions alignment, strategy cascade, silo, conflicting OKRs, or strategy communication."
+description: "把战略从董事会级联到个人贡献者。检测并修复公司目标与团队执行之间的错位。涵盖战略表述、级联映射、孤儿目标检测、孤岛识别、沟通缺口分析和重新对齐流程。当团队各奔一方、OKR 无法衔接、部门以公司利益为代价做局部优化时，或当用户提到对齐、战略级联、孤岛、OKR 冲突或战略沟通时使用。 | Cascades strategy from boardroom to individual contributor. Detects and fixes misalignment between company goals and team execution. Covers strategy articulation, cascade mapping, orphan goal detection, silo identification, communication gap analysis, and realignment protocols. Use when teams are pulling in different directions, OKRs don't connect, departments optimize locally at company expense, or when user mentions alignment, strategy cascade, silo, conflicting OKRs, or strategy communication."
 license: MIT
 metadata:
   version: 1.0.0

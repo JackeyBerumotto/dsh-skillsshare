@@ -1,6 +1,6 @@
 ---
 name: team-agent-orchestration
-description: "Run team-based orchestration for agent squads using work items, ownership, agent Kanban, merge gates, and control pane handoffs."
+description: "为智能体小队运行基于团队的编排，使用工作项、所有权、智能体看板、合并门禁和控制面板交接。 | Run team-based orchestration for agent squads using work items, ownership, agent Kanban, merge gates, and control pane handoffs."
 metadata:
   origin: ECC
 ---

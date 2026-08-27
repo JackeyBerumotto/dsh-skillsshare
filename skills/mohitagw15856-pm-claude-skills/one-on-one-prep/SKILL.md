@@ -1,6 +1,6 @@
 ---
 name: one-on-one-prep
-description: "Prepare for a 1:1 so it drives outcomes instead of becoming a status update. Use when asked to prep for a one-on-one, build a 1:1 agenda, prepare to talk to your manager (or a report), or raise something hard in a 1:1. Produces a focused 1:1 agenda — your top topics with the outcome you want for each, the asks, updates kept brief, and growth/feedback threads, tuned to direction (with your manager vs. with a report)."
+description: "为 1:1 做准备，让它驱动结果而不是变成状态汇报。当被要求准备一对一沟通、制定 1:1 议程、准备与上级（或下属）谈话，或在 1:1 中提出棘手话题时使用。产出一份聚焦的 1:1 议程——你最重要的议题及各自期望的结果、请求事项、简明扼要的进展更新，以及成长/反馈话题，并按方向（与上级还是与下属）调整。 | Prepare for a 1:1 so it drives outcomes instead of becoming a status update. Use when asked to prep for a one-on-one, build a 1:1 agenda, prepare to talk to your manager (or a report), or raise something hard in a 1:1. Produces a focused 1:1 agenda — your top topics with the outcome you want for each, the asks, updates kept brief, and growth/feedback threads, tuned to direction (with your manager vs. with a report)."
 ---
 
 # One-on-One Prep Skill

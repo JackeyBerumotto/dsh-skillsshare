@@ -1,6 +1,6 @@
 ---
 name: metrics-framework
-description: "Build a metrics framework for any product, team, or business. Use when asked for a metrics tree, KPI framework, North Star metric, AARRR funnel, HEART framework, or OKR metrics. Produces a structured metrics hierarchy from North Star down to leading indicators, with measurement guidance."
+description: "为任何产品、团队或业务构建指标框架。当被要求做指标树、KPI 框架、北极星指标、AARRR 漏斗、HEART 框架或 OKR 指标时使用。产出结构化的指标层级，从北极星指标一直到先行指标，并附测量指引。 | Build a metrics framework for any product, team, or business. Use when asked for a metrics tree, KPI framework, North Star metric, AARRR funnel, HEART framework, or OKR metrics. Produces a structured metrics hierarchy from North Star down to leading indicators, with measurement guidance."
 ---
 
 # Metrics Framework Skill

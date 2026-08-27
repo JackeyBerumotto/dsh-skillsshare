@@ -1,6 +1,6 @@
 ---
 name: blindspot-pass
-description: Surface the user's unknown unknowns before work starts. Use when the user is entering an unfamiliar codebase area, an unfamiliar domain (design, video, infra), or explicitly asks for a "blindspot pass" or to find their "unknown unknowns."
+description: 在工作开始前揭示用户的未知盲区。当用户进入不熟悉的代码库区域、不熟悉的领域（设计、视频、基础设施），或明确要求进行「盲区排查」或找出自己的「未知的未知」时使用。 | Surface the user's unknown unknowns before work starts. Use when the user is entering an unfamiliar codebase area, an unfamiliar domain (design, video, infra), or explicitly asks for a "blindspot pass" or to find their "unknown unknowns."
 ---
 
 # Blindspot pass

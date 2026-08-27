@@ -1,8 +1,6 @@
 ---
 name: hunting-for-dns-tunneling-with-zeek
-description: Detect DNS tunneling and data exfiltration by analyzing Zeek dns.log
-  for high-entropy subdomain queries, excessive query volume, long query lengths,
-  and unusual DNS record types indicating covert channel communication.
+description: "通过分析 Zeek dns.log 中的高熵子域名查询、过量查询、超长查询以及指示隐蔽信道通信的异常 DNS 记录类型，检测 DNS 隧道和数据外泄。 | Detect DNS tunneling and data exfiltration by analyzing Zeek dns.log for high-entropy subdomain queries, excessive query volume, long query lengths, and unusual DNS record types indicating covert channel communication."
 domain: cybersecurity
 subdomain: threat-hunting
 tags:

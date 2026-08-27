@@ -1,6 +1,6 @@
 ---
 name: "financial-analyst"
-description: Performs financial ratio analysis, DCF valuation, budget variance analysis, and rolling forecast construction for strategic decision-making. Use when analyzing financial statements, building valuation models, assessing budget variances, or constructing financial projections and forecasts. Also applicable when users mention financial modeling, cash flow analysis, company valuation, financial projections, or spreadsheet analysis.
+description: 执行财务比率分析、DCF 估值、预算差异分析和滚动预测构建，服务战略决策。在分析财务报表、构建估值模型、评估预算差异或编制财务预测时使用。也适用于用户提到财务建模、现金流分析、公司估值、财务预测或电子表格分析的场景。 | Performs financial ratio analysis, DCF valuation, budget variance analysis, and rolling forecast construction for strategic decision-making. Use when analyzing financial statements, building valuation models, assessing budget variances, or constructing financial projections and forecasts. Also applicable when users mention financial modeling, cash flow analysis, company valuation, financial projections, or spreadsheet analysis.
 ---
 
 # Financial Analyst Skill

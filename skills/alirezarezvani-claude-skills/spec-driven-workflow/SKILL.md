@@ -1,6 +1,6 @@
 ---
 name: "spec-driven-workflow"
-description: "Use when the user asks to write specs before code, define acceptance criteria, plan features before implementation, generate tests from specifications, or follow spec-first development practices."
+description: "当用户要求先写规格再写代码、定义验收标准、在实现之前规划功能、从规格生成测试或遵循规格优先的开发实践时使用。 | Use when the user asks to write specs before code, define acceptance criteria, plan features before implementation, generate tests from specifications, or follow spec-first development practices."
 ---
 
 # Spec-Driven Workflow — POWERFUL

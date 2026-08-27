@@ -1,6 +1,6 @@
 ---
 name: pr-description
-description: "Write a clear pull-request description that gets reviewed fast and merged with confidence. Use when opening a PR, summarizing a change for review, or asked to write a PR/merge-request description. Produces a structured PR: what changed and why, how it was tested, risk and rollout, and a focused reviewer guide — so the reviewer understands intent before reading a single diff line."
+description: "撰写清晰的 PR 描述，让评审更快、合并更有把握。在创建 PR、为评审总结变更，或被要求编写 PR/合并请求描述时使用。产出结构化的 PR：改了什么以及为什么、如何测试、风险与发布方案，以及聚焦的评审者指南——让评审者在读第一行 diff 之前就理解意图。 | Write a clear pull-request description that gets reviewed fast and merged with confidence. Use when opening a PR, summarizing a change for review, or asked to write a PR/merge-request description. Produces a structured PR: what changed and why, how it was tested, risk and rollout, and a focused reviewer guide — so the reviewer understands intent before reading a single diff line."
 ---
 
 # PR Description Skill

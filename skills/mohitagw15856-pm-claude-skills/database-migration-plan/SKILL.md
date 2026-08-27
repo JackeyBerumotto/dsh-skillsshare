@@ -1,6 +1,6 @@
 ---
 name: database-migration-plan
-description: "Write a safe, zero-downtime database migration plan for a schema change. Use when asked to plan a database migration, design a zero-downtime schema change, document an expand/contract migration, produce a rollback procedure for a database change, or coordinate a database schema update with a deployment. Produces a structured migration plan covering migration objectives, backward compatibility analysis, expand/contract phase breakdown, exact SQL, rollback steps per phase, data validation queries, and a deployment runbook."
+description: "为 schema 变更撰写安全的零停机数据库迁移计划。在被要求规划数据库迁移、设计零停机 schema 变更、记录扩展/收缩（expand/contract）迁移、为数据库变更制定回滚程序，或将数据库 schema 更新与部署协同安排时使用。产出结构化迁移计划，涵盖迁移目标、向后兼容性分析、扩展/收缩阶段拆解、精确 SQL、各阶段回滚步骤、数据验证查询和部署手册。 | Write a safe, zero-downtime database migration plan for a schema change. Use when asked to plan a database migration, design a zero-downtime schema change, document an expand/contract migration, produce a rollback procedure for a database change, or coordinate a database schema update with a deployment. Produces a structured migration plan covering migration objectives, backward compatibility analysis, expand/contract phase breakdown, exact SQL, rollback steps per phase, data validation queries, and a deployment runbook."
 ---
 
 # Database Migration Plan Skill

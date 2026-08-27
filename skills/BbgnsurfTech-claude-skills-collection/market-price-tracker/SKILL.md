@@ -2,7 +2,7 @@
 name: tracking-crypto-prices
 version: 1.0.0
 description: |
-  Track real-time cryptocurrency prices across exchanges with historical data and alerts.
+  跟踪各交易所的实时加密货币价格，附带历史数据和告警。用于监控实时加密货币价格时。使用「check price」「track prices」「get price alert」等短语触发。 |
   Use when monitoring real-time cryptocurrency prices.
   Trigger with phrases like "check price", "track prices", or "get price alert".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(crypto:price-*)

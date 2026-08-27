@@ -1,6 +1,6 @@
 ---
 name: marketing-funnel-plan
-description: "Plan a full-funnel marketing strategy from awareness to retention. Use when asked to build a marketing funnel, map the customer journey to tactics, plan demand generation, or diagnose where a funnel leaks. Produces a funnel plan — stage definitions, the metric and conversion target per stage, channels & tactics, the biggest leak, and a 90-day focus."
+description: "规划从认知到留存的全程漏斗营销策略。当被要求构建营销漏斗、将客户旅程映射到具体战术、规划需求生成，或诊断漏斗泄漏点时使用。产出一份漏斗计划——阶段定义、各阶段的指标与转化目标、渠道与战术、最大泄漏点，以及 90 天重点。 | Plan a full-funnel marketing strategy from awareness to retention. Use when asked to build a marketing funnel, map the customer journey to tactics, plan demand generation, or diagnose where a funnel leaks. Produces a funnel plan — stage definitions, the metric and conversion target per stage, channels & tactics, the biggest leak, and a 90-day focus."
 ---
 
 # Marketing Funnel Plan Skill

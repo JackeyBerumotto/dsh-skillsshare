@@ -1,6 +1,6 @@
 ---
 name: code-refinement
-description: Improves code quality across duplication, efficiency, and architectural fit. Use when code passes tests but quality is poor or before a major release.
+description: 在重复、效率和架构契合度等方面提升代码质量。在代码通过测试但质量不佳，或重大发布之前使用。 | Improves code quality across duplication, efficiency, and architectural fit. Use when code passes tests but quality is poor or before a major release.
 alwaysApply: false
 category: code-quality
 tags:

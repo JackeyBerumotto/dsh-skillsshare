@@ -1,6 +1,6 @@
 ---
 name: esm
-description: Use when working directly with the `esm` Python SDK, ESM3 or ESMC model IDs, Forge/Biohub inference clients, or ESMFold2 folding workflows.
+description: 在直接使用 `esm` Python SDK、ESM3 或 ESMC 模型 ID、Forge/Biohub 推理客户端或 ESMFold2 折叠工作流时使用。 | Use when working directly with the `esm` Python SDK, ESM3 or ESMC model IDs, Forge/Biohub inference clients, or ESMFold2 folding workflows.
 license: MIT license
 metadata: {"version": "1.1", "skill-author": "K-Dense Inc."}
 ---

@@ -1,6 +1,6 @@
 ---
 name: global-chat-agent-discovery
-description: "Discover and search 18K+ MCP servers and AI agents across 6+ registries using Global Chat's cross-protocol directory and MCP server."
+description: "使用 Global Chat 的跨协议目录和 MCP 服务器，在 6 个以上注册表中发现并检索超过 1.8 万个 MCP 服务器和 AI agent。 | Discover and search 18K+ MCP servers and AI agents across 6+ registries using Global Chat's cross-protocol directory and MCP server."
 category: development
 risk: safe
 source: community

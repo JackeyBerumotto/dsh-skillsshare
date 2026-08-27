@@ -1,6 +1,6 @@
 ---
 name: "contract-and-proposal-writer"
-description: "Generate professional, jurisdiction-aware business documents: freelance contracts, project proposals, SOWs, NDAs, and MSAs. Structured Markdown output with docx conversion instructions. Covers US (Delaware), EU (GDPR), UK, and DACH (German law) jurisdictions. Not a substitute for legal counsel — use as strong starting points. Use when drafting a freelance contract, preparing a client proposal, writing an SOW for a new engagement, or producing an NDA before sharing sensitive material."
+description: "生成专业的、感知司法辖区的商业文档：自由职业合同、项目提案、SOW、NDA 和 MSA。输出结构化 Markdown 并附 docx 转换说明。覆盖美国（特拉华州）、欧盟（GDPR）、英国和 DACH（德国法）辖区。不能替代法律顾问——用作有力的起点。在起草自由职业合同、准备客户提案、为新项目编写 SOW，或在分享敏感材料前出具 NDA 时使用。 | Generate professional, jurisdiction-aware business documents: freelance contracts, project proposals, SOWs, NDAs, and MSAs. Structured Markdown output with docx conversion instructions. Covers US (Delaware), EU (GDPR), UK, and DACH (German law) jurisdictions. Not a substitute for legal counsel — use as strong starting points. Use when drafting a freelance contract, preparing a client proposal, writing an SOW for a new engagement, or producing an NDA before sharing sensitive material."
 ---
 
 # Contract & Proposal Writer

@@ -1,6 +1,6 @@
 ---
 name: trading-ledger
-description: "A trading journal that captures the decision, not just the fill: thesis, plan, and emotion at the moment of entry, written to the user's own Notion database; reviews grade decisions, not P&L."
+description: "一本记录决策而非只记录成交的交易日志：入场时的论点、计划和情绪，写入用户自己的 Notion 数据库；复盘评判的是决策质量而非盈亏。 | A trading journal that captures the decision, not just the fill: thesis, plan, and emotion at the moment of entry, written to the user's own Notion database; reviews grade decisions, not P&L."
 category: productivity
 risk: critical
 source: community

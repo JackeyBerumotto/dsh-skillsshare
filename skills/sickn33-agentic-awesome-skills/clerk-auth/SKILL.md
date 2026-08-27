@@ -1,7 +1,6 @@
 ---
 name: clerk-auth
-description: Expert patterns for Clerk auth implementation, middleware,
-  organizations, webhooks, and user sync
+description: "Clerk 身份验证实现、中间件、组织、webhook 和用户同步的专家模式。 | Expert patterns for Clerk auth implementation, middleware, organizations, webhooks, and user sync"
 risk: safe
 source: vibeship-spawner-skills (Apache 2.0)
 date_added: 2026-02-27

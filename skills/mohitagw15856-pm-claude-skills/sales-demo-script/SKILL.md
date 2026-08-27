@@ -1,6 +1,6 @@
 ---
 name: sales-demo-script
-description: "Write a product demo script that tells a value story instead of a feature tour. Use when asked to write a sales demo script, structure a product demo, plan demo talk track and flow, or turn a feature list into a compelling demo. Produces a demo script — the setup and discovery hooks, a scene-by-scene flow tied to buyer pain, talk track, 'aha' moments, transitions, and a close with next steps."
+description: "撰写讲价值故事而非功能巡礼的产品演示脚本。在被要求编写销售演示脚本、设计产品演示、规划演示讲线与流程，或将功能列表变成有说服力的演示时使用。产出演示脚本——开场与需求挖掘钩子、逐场景贴合买家痛点的流程、讲词、「aha」时刻、转场，以及带后续步骤的收尾。 | Write a product demo script that tells a value story instead of a feature tour. Use when asked to write a sales demo script, structure a product demo, plan demo talk track and flow, or turn a feature list into a compelling demo. Produces a demo script — the setup and discovery hooks, a scene-by-scene flow tied to buyer pain, talk track, 'aha' moments, transitions, and a close with next steps."
 ---
 
 # Sales Demo Script Skill

@@ -1,6 +1,6 @@
 ---
 name: technical-change-tracker
-description: "Track code changes with structured JSON records, state machine enforcement, and AI session handoff for bot continuity"
+description: "使用结构化 JSON 记录、状态机强制校验和 AI 会话交接来跟踪代码变更，保障机器人工作的连续性。 | Track code changes with structured JSON records, state machine enforcement, and AI session handoff for bot continuity"
 category: development
 risk: safe
 source: community

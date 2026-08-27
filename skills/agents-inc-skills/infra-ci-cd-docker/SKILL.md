@@ -1,6 +1,6 @@
 ---
 name: infra-ci-cd-docker
-description: Docker containerization patterns for Node.js/TypeScript development and production
+description: 面向 Node.js/TypeScript 开发与生产的 Docker 容器化模式 | Docker containerization patterns for Node.js/TypeScript development and production
 ---
 
 # Docker Containerization Patterns

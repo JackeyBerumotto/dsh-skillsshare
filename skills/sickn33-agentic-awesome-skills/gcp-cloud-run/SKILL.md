@@ -1,9 +1,6 @@
 ---
 name: gcp-cloud-run
-description: Specialized skill for building production-ready serverless
-  applications on GCP. Covers Cloud Run services (containerized), Cloud Run
-  Functions (event-driven), cold start optimization, and event-driven
-  architecture with Pub/Sub.
+description: "用于在 GCP 上构建生产级无服务器应用的专项技能。涵盖 Cloud Run 服务（容器化）、Cloud Run Functions（事件驱动）、冷启动优化，以及基于 Pub/Sub 的事件驱动架构。 | Specialized skill for building production-ready serverless applications on GCP. Covers Cloud Run services (containerized), Cloud Run Functions (event-driven), cold start optimization, and event-driven architecture with Pub/Sub."
 risk: unknown
 source: vibeship-spawner-skills (Apache 2.0)
 date_added: 2026-02-27

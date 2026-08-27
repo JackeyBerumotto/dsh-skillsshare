@@ -1,7 +1,7 @@
 ---
 name: managing-database-sharding
 description: |
-  Use when you need to work with database sharding.
+  当你需要处理数据库分片时使用。此技能提供水平分片策略及全面的指导和自动化。触发词如「implement sharding」「shard database」或「distribute data」。 |
   This skill provides horizontal sharding strategies with comprehensive guidance and automation.
   Trigger with phrases like "implement sharding", "shard database",
   or "distribute data".

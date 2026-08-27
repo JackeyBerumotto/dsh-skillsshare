@@ -1,6 +1,6 @@
 ---
 name: wellally-tech
-description: "Integrate multiple digital health data sources, connect to [WellAlly.tech](https://www.wellally.tech/) knowledge base, providing data import and knowledge reference for personal health management systems."
+description: "集成多个数字健康数据源，连接 [WellAlly.tech](https://www.wellally.tech/) 知识库，为个人健康管理系统提供数据导入和知识参考。 | Integrate multiple digital health data sources, connect to [WellAlly.tech](https://www.wellally.tech/) knowledge base, providing data import and knowledge reference for personal health management systems."
 risk: unknown
 source: community
 ---

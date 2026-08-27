@@ -1,6 +1,6 @@
 ---
 name: cli-framework-cli-commander
-description: Node.js CLI development with Commander.js and @clack/prompts - command structure, interactive prompts, wizard state machines, config hierarchies, exit codes, cancellation handling
+description: 使用 Commander.js 和 @clack/prompts 进行 Node.js CLI 开发：命令结构、交互式提示、向导状态机、配置层级、退出码、取消处理 | Node.js CLI development with Commander.js and @clack/prompts - command structure, interactive prompts, wizard state machines, config hierarchies, exit codes, cancellation handling
 ---
 
 # CLI Application Development with Commander.js

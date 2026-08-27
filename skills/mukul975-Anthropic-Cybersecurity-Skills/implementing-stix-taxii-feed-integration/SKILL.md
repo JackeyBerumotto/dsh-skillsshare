@@ -1,8 +1,6 @@
 ---
 name: implementing-stix-taxii-feed-integration
-description: STIX (Structured Threat Information eXpression) and TAXII (Trusted Automated
-  eXchange of Intelligence Information) are OASIS open standards for representing
-  and transporting cyber threat intelligence.
+description: "STIX（Structured Threat Information eXpression）与 TAXII（Trusted Automated eXchange of Intelligence Information）是用于表示与传输网络威胁情报的 OASIS 开放标准。 | STIX (Structured Threat Information eXpression) and TAXII (Trusted Automated eXchange of Intelligence Information) are OASIS open standards for representing and transporting cyber threat intelligence."
 domain: cybersecurity
 subdomain: threat-intelligence
 tags:

@@ -1,6 +1,6 @@
 ---
 name: knowledge-intake
-description: Processes external resources into stored knowledge with quality scoring and routing. Use when ingesting articles, papers, or docs into a memory palace.
+description: 将外部资源加工为带质量评分和分发的存储知识。在把文章、论文或文档摄取进记忆宫殿时使用。 | Processes external resources into stored knowledge with quality scoring and routing. Use when ingesting articles, papers, or docs into a memory palace.
 alwaysApply: false
 category: governance
 tags:

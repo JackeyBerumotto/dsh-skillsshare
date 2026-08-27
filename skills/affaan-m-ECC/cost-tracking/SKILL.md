@@ -1,6 +1,6 @@
 ---
 name: cost-tracking
-description: Track and report Claude Code token usage, spending, and budgets from the local ECC cost-tracker metrics log. Use when the user asks about costs, spending, usage, tokens, budgets, or cost breakdowns by model, session, or date.
+description: 从本地 ECC 成本跟踪器的指标日志中跟踪并报告 Claude Code 的令牌用量、支出和预算。当用户询问成本、支出、用量、令牌、预算，或按模型、会话、日期划分的成本明细时使用。 | Track and report Claude Code token usage, spending, and budgets from the local ECC cost-tracker metrics log. Use when the user asks about costs, spending, usage, tokens, budgets, or cost breakdowns by model, session, or date.
 metadata:
   origin: community
 ---

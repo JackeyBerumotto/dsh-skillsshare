@@ -1,6 +1,6 @@
 ---
 name: interview-me
-description: Interview the user one question at a time to resolve remaining ambiguity before implementation. Use when planning or brainstorming is done but unknowns remain, or when the user asks to be interviewed about a task or spec.
+description: 在实现之前，以一次一个问题的方式访谈用户，解决剩余的歧义。在规划或头脑风暴已完成但仍有未知项，或用户要求就某项任务或规格接受访谈时使用。 | Interview the user one question at a time to resolve remaining ambiguity before implementation. Use when planning or brainstorming is done but unknowns remain, or when the user asks to be interviewed about a task or spec.
 ---
 
 # Interview me

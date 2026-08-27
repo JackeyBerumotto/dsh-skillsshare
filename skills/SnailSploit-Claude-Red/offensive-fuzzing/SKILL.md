@@ -1,6 +1,6 @@
 ---
 name: offensive-fuzzing
-description: "Practical offensive fuzzing methodology covering target identification, fuzzer selection (AFL++, libFuzzer, Honggfuzz, Boofuzz, syzkaller), harness writing, corpus curation, mutation strategies, coverage measurement, and crash triage. Use when setting up or running fuzz campaigns against any target: file parsers, network protocols, kernel drivers, EDR engines, embedded firmware, or language runtimes."
+description: "实战向攻击性模糊测试方法论，涵盖目标识别、模糊测试器选择（AFL++、libFuzzer、Honggfuzz、Boofuzz、syzkaller）、harness 编写、语料治理、变异策略、覆盖率测量和崩溃分诊。在对任何目标设置或运行模糊测试战役时使用：文件解析器、网络协议、内核驱动、EDR 引擎、嵌入式固件或语言运行时。 | Practical offensive fuzzing methodology covering target identification, fuzzer selection (AFL++, libFuzzer, Honggfuzz, Boofuzz, syzkaller), harness writing, corpus curation, mutation strategies, coverage measurement, and crash triage. Use when setting up or running fuzz campaigns against any target: file parsers, network protocols, kernel drivers, EDR engines, embedded firmware, or language runtimes."
 ---
 
 # Offensive Fuzzing

@@ -1,6 +1,6 @@
 ---
 name: test-updates
-description: Updates, generates, and validates tests using git-workspace context and TDD/BDD methodology. Use when code changes require new or updated test coverage.
+description: 使用 git-workspace 上下文和 TDD/BDD 方法论更新、生成和验证测试。当代码变更需要新增或更新测试覆盖时使用。 | Updates, generates, and validates tests using git-workspace context and TDD/BDD methodology. Use when code changes require new or updated test coverage.
 alwaysApply: false
 category: testing-automation
 tags:

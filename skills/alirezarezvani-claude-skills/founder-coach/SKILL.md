@@ -1,6 +1,6 @@
 ---
 name: "founder-coach"
-description: "Personal leadership development for founders and first-time CEOs. Covers founder archetype identification, delegation frameworks, energy management, CEO calendar audits, leadership style evolution, blind spot identification, imposter syndrome, founder mental health, and succession planning. Use when a founder feels like the bottleneck, struggles to delegate, is burning out, transitioning from IC to executive, managing a board, or when user mentions founder mode, CEO growth, leadership development, delegation, burnout, or imposter syndrome."
+description: "面向创始人和首次担任 CEO 者的个人领导力发展。涵盖创始人原型识别、委派框架、精力管理、CEO 日程审计、领导风格演进、盲点识别、冒名顶替综合征、创始人心理健康和继任规划。当创始人感觉自己成了瓶颈、难以委派、濒临倦怠、正从 IC 转型为高管、管理董事会，或用户提到创始人模式、CEO 成长、领导力发展、委派、倦怠或冒名顶替综合征时使用。 | Personal leadership development for founders and first-time CEOs. Covers founder archetype identification, delegation frameworks, energy management, CEO calendar audits, leadership style evolution, blind spot identification, imposter syndrome, founder mental health, and succession planning. Use when a founder feels like the bottleneck, struggles to delegate, is burning out, transitioning from IC to executive, managing a board, or when user mentions founder mode, CEO growth, leadership development, delegation, burnout, or imposter syndrome."
 license: MIT
 metadata:
   version: 1.0.0

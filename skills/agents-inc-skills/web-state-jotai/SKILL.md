@@ -1,6 +1,6 @@
 ---
 name: web-state-jotai
-description: Atomic state management with auto-dependency tracking
+description: 具备自动依赖追踪的原子化状态管理 | Atomic state management with auto-dependency tracking
 ---
 
 # Jotai Atomic State Management

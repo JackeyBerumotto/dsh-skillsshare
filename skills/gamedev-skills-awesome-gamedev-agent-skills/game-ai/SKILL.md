@@ -1,7 +1,7 @@
 ---
 name: game-ai
 description: >
-  Design NPC and enemy decision-making with finite state machines, behavior
+  使用有限状态机、行为树、转向行为和 A* 寻路设计 NPC 与敌人决策，这些引擎无关的算法可与检测到的引擎的导航 API 配合使用。当需要构建敌人 AI、FSM 或行为树、转向/集群行为或寻路时使用，或当用户提到状态机、行为树、黑板、A*、navmesh、seek 或巡逻/追击时使用。 |
   trees, steering behaviors, and A* pathfinding — engine-neutral algorithms
   that pair with the detected engine's navigation API. Use when building enemy
   AI, an FSM or behavior tree, steering/flocking, or pathfinding, or when the

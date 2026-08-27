@@ -1,6 +1,6 @@
 ---
 name: mailtrap-setting-up-sending-domain
-description: Add or verify a Mailtrap sending domain, troubleshoot DNS propagation, publish SPF/DKIM/DMARC records, and complete compliance.
+description: 添加或验证 Mailtrap 发信域名、排查 DNS 传播问题、发布 SPF/DKIM/DMARC 记录并完成合规流程。 | Add or verify a Mailtrap sending domain, troubleshoot DNS propagation, publish SPF/DKIM/DMARC records, and complete compliance.
 risk: critical
 source: community
 date_added: "2026-06-19"

@@ -1,6 +1,6 @@
 ---
 name: eval-rubric-designer
-description: "Design a scoring rubric and LLM-as-judge prompt to evaluate the quality of an AI feature's output. Use when asked to create an eval rubric, define quality dimensions, build an LLM judge, or decide how to measure whether AI output is good. Produces a rubric with weighted dimensions and concrete 1–5 anchors, a ready-to-run judge prompt, a labelling guide, and notes on judge reliability."
+description: "设计评分量规和 LLM 即裁判提示词，用于评估 AI 功能输出的质量。当被要求创建评估量规、定义质量维度、构建 LLM 裁判，或决定如何衡量 AI 输出好坏时使用。产出带加权维度和具体 1–5 分锚点的量规、可直接运行的裁判提示词、标注指南，以及关于裁判可靠性的说明。 | Design a scoring rubric and LLM-as-judge prompt to evaluate the quality of an AI feature's output. Use when asked to create an eval rubric, define quality dimensions, build an LLM judge, or decide how to measure whether AI output is good. Produces a rubric with weighted dimensions and concrete 1–5 anchors, a ready-to-run judge prompt, a labelling guide, and notes on judge reliability."
 ---
 
 # Eval Rubric Designer Skill

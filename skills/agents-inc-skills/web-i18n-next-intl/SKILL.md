@@ -1,6 +1,6 @@
 ---
 name: web-i18n-next-intl
-description: Type-safe i18n for Next.js App Router
+description: Next.js App Router 的类型安全 i18n。 | Type-safe i18n for Next.js App Router
 ---
 
 # next-intl Internationalization Patterns

@@ -1,6 +1,6 @@
 ---
 name: "secrets-vault-manager"
-description: "Use when the user asks to set up secret management infrastructure, integrate HashiCorp Vault, configure cloud secret stores (AWS Secrets Manager, Azure Key Vault, GCP Secret Manager), implement secret rotation, or audit secret access patterns."
+description: "当用户要求搭建密钥管理基础设施、集成 HashiCorp Vault、配置云密钥存储（AWS Secrets Manager、Azure Key Vault、GCP Secret Manager）、实现密钥轮换或审计密钥访问模式时使用。 | Use when the user asks to set up secret management infrastructure, integrate HashiCorp Vault, configure cloud secret stores (AWS Secrets Manager, Azure Key Vault, GCP Secret Manager), implement secret rotation, or audit secret access patterns."
 ---
 
 # Secrets Vault Manager

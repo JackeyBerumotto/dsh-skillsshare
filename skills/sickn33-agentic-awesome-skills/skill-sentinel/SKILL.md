@@ -1,6 +1,6 @@
 ---
 name: skill-sentinel
-description: Auditoria e evolucao do ecossistema de skills. Qualidade de codigo, seguranca, custos, gaps, duplicacoes, dependencias e relatorios de saude.
+description: 审计并演进 skill 生态系统。涵盖代码质量、安全性、成本、缺口、重复、依赖关系以及健康度报告。 | Auditoria e evolucao do ecossistema de skills. Qualidade de codigo, seguranca, custos, gaps, duplicacoes, dependencias e relatorios de saude.
 risk: safe
 source: community
 date_added: '2026-03-06'

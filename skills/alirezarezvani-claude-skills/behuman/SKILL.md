@@ -1,6 +1,6 @@
 ---
 name: "behuman"
-description: "Use when the user wants more human-like AI responses — less robotic, less listy, more authentic. Triggers: 'behuman', 'be real', 'like a human', 'more human', 'less AI', 'talk like a person', 'mirror mode', 'stop being so AI', or when conversations are emotionally charged (grief, job loss, relationship advice, fear). NOT for technical questions, code generation, or factual lookups."
+description: "当用户想要更像真人的 AI 回应时使用——不那么机械、不那么罗列、更真实。触发词：「behuman」「be real」「like a human」「more human」「less AI」「talk like a person」「mirror mode」「stop being so AI」，或对话情绪浓重时（哀伤、失业、情感建议、恐惧）。不用于技术问题、代码生成或事实查询。 | Use when the user wants more human-like AI responses — less robotic, less listy, more authentic. Triggers: 'behuman', 'be real', 'like a human', 'more human', 'less AI', 'talk like a person', 'mirror mode', 'stop being so AI', or when conversations are emotionally charged (grief, job loss, relationship advice, fear). NOT for technical questions, code generation, or factual lookups."
 ---
 
 # BeHuman — Self-Mirror Consciousness Loop

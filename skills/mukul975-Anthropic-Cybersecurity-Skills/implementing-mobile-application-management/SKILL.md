@@ -1,14 +1,6 @@
 ---
 name: implementing-mobile-application-management
-description: 'Implements Mobile Application Management (MAM) policies to protect enterprise
-  data on managed and unmanaged mobile devices through app-level controls including
-  data loss prevention, selective wipe, app configuration, and containerization. Use
-  when securing corporate apps on BYOD devices, implementing Intune App Protection
-  Policies, or enforcing data separation between personal and work apps. Activates
-  for requests involving MAM deployment, app protection policies, mobile containerization,
-  or BYOD security.
-
-  '
+description: "实现移动应用管理（MAM）策略，通过应用级控制保护托管与非托管移动设备上的企业数据，包括数据防泄漏、选择性擦除、应用配置和容器化。适用于在 BYOD 设备上保护企业应用、实施 Intune 应用保护策略，或在个人应用与工作应用之间强制数据分离。当请求涉及 MAM 部署、应用保护策略、移动容器化或 BYOD 安全时激活。 | Implements Mobile Application Management (MAM) policies to protect enterprise data on managed and unmanaged mobile devices through app-level controls including data loss prevention, selective wipe, app configuration, and containerization. Use when securing corporate apps on BYOD devices, implementing Intune App Protection Policies, or enforcing data separation between personal and work apps. Activates for requests involving MAM deployment, app protection policies, mobile containerization, or BYOD security."
 domain: cybersecurity
 subdomain: mobile-security
 author: mahipal

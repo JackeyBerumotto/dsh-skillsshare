@@ -1,6 +1,6 @@
 ---
 name: desktop-security-electron
-description: Electron fuses, ASAR integrity, sandbox hardening, CSP, permission handling, navigation restrictions
+description: Electron fuses、ASAR 完整性、沙箱加固、CSP、权限处理、导航限制 | Electron fuses, ASAR integrity, sandbox hardening, CSP, permission handling, navigation restrictions
 ---
 
 # Electron Security & Fuses

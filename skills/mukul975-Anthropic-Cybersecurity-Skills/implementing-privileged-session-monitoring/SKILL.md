@@ -1,14 +1,6 @@
 ---
 name: implementing-privileged-session-monitoring
-description: 'Implements privileged session monitoring and recording using Privileged
-  Access Management (PAM) solutions, focusing on CyberArk Privileged Session Manager
-  (PSM) and open-source alternatives. Covers session recording configuration, keystroke
-  logging, real-time monitoring, risk-based session analysis, and compliance audit
-  trail generation. Activates for requests involving privileged session recording,
-  PAM session monitoring, CyberArk PSM configuration, administrator activity monitoring,
-  or compliance session auditing.
-
-  '
+description: "使用特权访问管理（PAM）解决方案实现特权会话监控和录制，聚焦 CyberArk Privileged Session Manager（PSM）及开源替代方案。涵盖会话录制配置、按键日志、实时监控、基于风险的会话分析以及合规审计轨迹生成。当请求涉及特权会话录制、PAM 会话监控、CyberArk PSM 配置、管理员活动监控或合规会话审计时激活。 | Implements privileged session monitoring and recording using Privileged Access Management (PAM) solutions, focusing on CyberArk Privileged Session Manager (PSM) and open-source alternatives. Covers session recording configuration, keystroke logging, real-time monitoring, risk-based session analysis, and compliance audit trail generation. Activates for requests involving privileged session recording, PAM session monitoring, CyberArk PSM configuration, administrator activity monitoring, or compliance session auditing."
 domain: cybersecurity
 subdomain: identity-access-management
 tags:

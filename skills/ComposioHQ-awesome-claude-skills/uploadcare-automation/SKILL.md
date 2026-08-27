@@ -1,6 +1,6 @@
 ---
 name: Uploadcare Automation
-description: "Automate Uploadcare file management including listing, storing, inspecting, downloading, and organizing file groups through natural language commands"
+description: "通过自然语言命令自动化 Uploadcare 文件管理，包括文件列表、存储、检查、下载和文件分组整理 | Automate Uploadcare file management including listing, storing, inspecting, downloading, and organizing file groups through natural language commands"
 requires:
   mcp:
     - rube

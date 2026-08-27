@@ -1,7 +1,7 @@
 ---
 name: roblox-datastores
 description: >
-  Persist player data in Roblox with DataStoreService: GetDataStore, GetAsync/
+  在 Roblox 中使用 DataStoreService 持久化玩家数据：GetDataStore、以 pcall 包装的 GetAsync/SetAsync/UpdateAsync/IncrementAsync、加入时加载和离开时保存外加 BindToClose、重试，以及 OrderedDataStore 排行榜。在 Roblox 体验中保存或加载持久化数据时使用——当用户提到 DataStore、DataStoreService、GetAsync、SetAsync、UpdateAsync、保存玩家数据或排行榜时。一般性 Luau 脚本编写请使用 roblox-luau。 |
   SetAsync/UpdateAsync/IncrementAsync wrapped in pcall, load-on-join and
   save-on-leave plus BindToClose, retries, and OrderedDataStore leaderboards. Use
   when saving or loading persistent data in a Roblox experience — when the user

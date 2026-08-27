@@ -1,7 +1,7 @@
 ---
 name: docker-ros2-development
 description: >
-  Best practices for Docker-based ROS2 development including multi-stage Dockerfiles, docker-compose
+  基于 Docker 的 ROS2 开发最佳实践，包括多阶段 Dockerfile、面向多容器机器人系统的 docker-compose、跨容器的 DDS 发现、感知任务的 GPU 直通，以及开发与部署容器的区分模式。在容器化 ROS2 工作区、为机器人软件栈搭建 docker-compose、调试容器间 DDS 通信、为 GPU 负载配置 NVIDIA Container Toolkit、为 rviz2 和 GUI 工具转发 X11 或 Wayland，或管理摄像头与串口设备的 USB 直通时使用此技能。当用户提到 Docker 配合 ROS2、面向机器人的 docker-compose、colcon 工作区的 Dockerfile、DDS 的容器网络、感知用的 GPU 容器、ROS2 的 devcontainer、ROS2 的多阶段构建，或在容器中部署 ROS2 时触发。对于基于 Docker 的 ROS2 CI/CD 构建、容器中的 CycloneDDS 或 FastDDS 配置、Docker 中的共享内存，或 rviz2 的 X11 转发，也应触发。覆盖 Ubuntu 22.04 与 24.04 基础镜像上的 Humble、Iron、Jazzy 和 Rolling 发行版。 |
   for multi-container robotic systems, DDS discovery across containers, GPU passthrough for perception,
   and dev-vs-deploy container patterns. Use this skill when containerizing ROS2 workspaces, setting up
   docker-compose for robot software stacks, debugging DDS communication between containers, configuring

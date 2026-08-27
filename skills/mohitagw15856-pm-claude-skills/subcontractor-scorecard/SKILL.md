@@ -1,6 +1,6 @@
 ---
 name: subcontractor-scorecard
-description: "Score a subcontractor's performance across schedule reliability, quality, safety, paperwork, and change-order behaviour with weighted anchors. Use when asked to evaluate a sub, build a subcontractor scorecard, decide whether to rebid or rehire a trade, review sub performance for prequalification, or justify removing a sub from the bid list. Produces a weighted scorecard with per-dimension anchored ratings, evidence notes, and an award/retention recommendation."
+description: "用加权锚点评估分包商在进度可靠性、质量、安全、文档和变更单行为方面的表现。当被要求评估分包商、制作分包商记分卡、决定是否重新招标或续用某工种、为资格预审评审分包表现，或论证将某分包商移出招标名单时使用。产出带各维度锚定评分的加权记分卡、证据备注，以及授予/留用建议。 | Score a subcontractor's performance across schedule reliability, quality, safety, paperwork, and change-order behaviour with weighted anchors. Use when asked to evaluate a sub, build a subcontractor scorecard, decide whether to rebid or rehire a trade, review sub performance for prequalification, or justify removing a sub from the bid list. Produces a weighted scorecard with per-dimension anchored ratings, evidence notes, and an award/retention recommendation."
 ---
 
 # Subcontractor Scorecard Skill

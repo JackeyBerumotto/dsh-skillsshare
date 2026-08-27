@@ -1,6 +1,6 @@
 ---
 name: harness-genome
-description: 7-section repo readiness report from `metaharness genome <path>`. Returns repo_type / agent_topology / risk_score / mcp_surface / test_confidence / publish_readiness. Pure-read; degrades gracefully (ADR-150).
+description: 由 `metaharness genome <path>` 生成的七节仓库就绪度报告。返回 repo_type、agent_topology、risk_score、mcp_surface、test_confidence、publish_readiness。纯读取；优雅降级（ADR-150）。 | 7-section repo readiness report from `metaharness genome <path>`. Returns repo_type / agent_topology / risk_score / mcp_surface / test_confidence / publish_readiness. Pure-read; degrades gracefully (ADR-150).
 argument-hint: "[--path .] [--alert-on-risk-above 0.5] [--format table|json]"
 allowed-tools: Bash
 ---

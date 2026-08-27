@@ -1,6 +1,6 @@
 ---
 name: scale-benchmarks
-description: Reference document for monopoly scale-benchmarks.
+description: 垄断规模基准的参考文档。 | Reference document for monopoly scale-benchmarks.
 source: community
 risk: safe
 reports-to: monopoly

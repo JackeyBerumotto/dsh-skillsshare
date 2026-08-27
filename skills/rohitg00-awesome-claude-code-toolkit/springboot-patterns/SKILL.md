@@ -1,6 +1,6 @@
 ---
 name: springboot-patterns
-description: Spring Boot patterns including JPA repositories, REST controllers, layered services, and configuration
+description: Spring Boot 模式，涵盖 JPA 仓储、REST 控制器、分层服务和配置。 | Spring Boot patterns including JPA repositories, REST controllers, layered services, and configuration
 ---
 
 # Spring Boot Patterns

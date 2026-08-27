@@ -1,6 +1,6 @@
 ---
 name: autopilot-charter
-description: "Decide which of your recurring rituals to put on autopilot — and which to keep manual. Use when asked what to automate, how to set up recurring AI runs, which reports or briefings could run on a schedule, or to design an automation charter for a team. Produces a ritual inventory with automate/assist/keep-manual calls, guardrails per ritual, and a rollout order."
+description: "决定哪些例行事务交给自动化、哪些保留手动。当被问到该自动化什么、如何设置周期性 AI 运行、哪些报告或简报可以按计划执行，或为团队设计自动化章程时使用。产出一份例行事务清单，包含自动化／辅助／保持手动的判定、每项事务的护栏以及推行顺序。 | Decide which of your recurring rituals to put on autopilot — and which to keep manual. Use when asked what to automate, how to set up recurring AI runs, which reports or briefings could run on a schedule, or to design an automation charter for a team. Produces a ritual inventory with automate/assist/keep-manual calls, guardrails per ritual, and a rollout order."
 ---
 
 # Autopilot Charter Skill

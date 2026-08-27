@@ -1,6 +1,6 @@
 ---
 name: design-system
-description: Token architecture, component specifications, and slide generation. Three-layer tokens (primitive→semantic→component), CSS variables, spacing/typography scales, component specs, strategic slide creation. Use for design tokens, systematic design, brand-compliant presentations.
+description: 令牌架构、组件规范与幻灯片生成。三层令牌（基础→语义→组件）、CSS 变量、间距/排版比例、组件规范、战略性幻灯片创建。用于设计令牌、体系化设计以及符合品牌规范的演示文稿。 | Token architecture, component specifications, and slide generation. Three-layer tokens (primitive→semantic→component), CSS variables, spacing/typography scales, component specs, strategic slide creation. Use for design tokens, systematic design, brand-compliant presentations.
 argument-hint: "[component or token]"
 license: MIT
 metadata:

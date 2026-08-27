@@ -1,6 +1,6 @@
 ---
 name: odoo-qweb-templates
-description: "Expert in Odoo QWeb templating for PDF reports, email templates, and website pages. Covers t-if, t-foreach, t-field, and report actions."
+description: "Odoo QWeb 模板专家，服务于 PDF 报告、邮件模板与网站页面。涵盖 t-if、t-foreach、t-field 以及报告动作。 | Expert in Odoo QWeb templating for PDF reports, email templates, and website pages. Covers t-if, t-foreach, t-field, and report actions."
 risk: safe
 source: "self"
 ---

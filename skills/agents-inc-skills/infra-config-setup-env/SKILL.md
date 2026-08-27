@@ -1,6 +1,6 @@
 ---
 name: infra-config-setup-env
-description: Environment configuration, Zod validation
+description: 环境配置、Zod 校验 | Environment configuration, Zod validation
 ---
 
 # Environment Management

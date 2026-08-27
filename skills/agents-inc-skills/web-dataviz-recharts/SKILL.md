@@ -1,6 +1,6 @@
 ---
 name: web-dataviz-recharts
-description: Recharts composable chart components - LineChart, BarChart, AreaChart, PieChart, ComposedChart, responsive sizing, custom tooltips, animations
+description: Recharts 可组合图表组件：LineChart、BarChart、AreaChart、PieChart、ComposedChart、响应式尺寸、自定义 tooltip、动画。 | Recharts composable chart components - LineChart, BarChart, AreaChart, PieChart, ComposedChart, responsive sizing, custom tooltips, animations
 ---
 
 # Recharts Patterns

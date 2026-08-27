@@ -1,6 +1,6 @@
 ---
 name: product-manager-toolkit
-description: "Essential tools and frameworks for modern product management, from discovery to delivery."
+description: "现代产品管理从发现到交付的必备工具与框架。 | Essential tools and frameworks for modern product management, from discovery to delivery."
 risk: unknown
 source: community
 date_added: "2026-02-27"

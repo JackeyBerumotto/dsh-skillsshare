@@ -1,6 +1,6 @@
 ---
 name: stack-push
-description: Pushes all branches in a stack and opens or updates one dependent PR per slice. Use after stack-create to publish the stack or after adding commits to a slice.
+description: 推送堆栈中的所有分支，并为每个切片打开或更新一个相互依赖的 PR。在 stack-create 之后发布堆栈，或在向某个切片添加提交之后使用。 | Pushes all branches in a stack and opens or updates one dependent PR per slice. Use after stack-create to publish the stack or after adding commits to a slice.
 alwaysApply: false
 category: workflow-automation
 tags:

@@ -1,6 +1,6 @@
 ---
 name: sankhya-dashboard-html-jsp-custom-best-pratices
-description: "This skill should be used when the user asks for patterns, best practices, creation, or fixing of Sankhya dashboards using HTML, JSP, Java, and SQL."
+description: "当用户要求使用 HTML、JSP、Java 和 SQL 进行 Sankhya 仪表盘的模式参考、最佳实践、创建或修复时，应使用此技能。 | This skill should be used when the user asks for patterns, best practices, creation, or fixing of Sankhya dashboards using HTML, JSP, Java, and SQL."
 category: code
 risk: safe
 source: community

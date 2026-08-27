@@ -1,6 +1,6 @@
 ---
 name: search-first
-description: Research-before-coding workflow. Search for existing tools, libraries, and patterns before writing custom code. Invokes the researcher agent.
+description: 先研究后编码的工作流。在编写自定义代码之前搜索现有的工具、库和模式。调用 researcher 智能体。 | Research-before-coding workflow. Search for existing tools, libraries, and patterns before writing custom code. Invokes the researcher agent.
 metadata:
   origin: ECC
 ---

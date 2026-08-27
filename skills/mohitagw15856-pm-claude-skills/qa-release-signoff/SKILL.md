@@ -1,6 +1,6 @@
 ---
 name: qa-release-signoff
-description: "Produce a QA release sign-off / go-no-go readiness report. Use when asked for a release sign-off, a go/no-go QA report, release readiness, or a test summary before shipping. Produces a sign-off — what was tested and the results, open defects by severity, coverage and residual risk, the go/no-go recommendation with conditions, and a rollback note — so the release decision is evidence-based, not a vibe."
+description: "产出 QA 发布签署/上线与否（go-no-go）准备度报告。当被要求做发布签署、go/no-go QA 报告、发布准备度评估，或上线前的测试总结时使用。产出一份签署意见——测试内容及结果、按严重程度划分的未解决缺陷、覆盖与剩余风险、附带条件的 go/no-go 建议，以及回滚说明——让发布决策基于证据而非感觉。 | Produce a QA release sign-off / go-no-go readiness report. Use when asked for a release sign-off, a go/no-go QA report, release readiness, or a test summary before shipping. Produces a sign-off — what was tested and the results, open defects by severity, coverage and residual risk, the go/no-go recommendation with conditions, and a rollback note — so the release decision is evidence-based, not a vibe."
 ---
 
 # QA Release Sign-off Skill

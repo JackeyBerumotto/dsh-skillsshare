@@ -1,6 +1,6 @@
 ---
 name: brainstorm-okrs
-description: "Brainstorm team-level OKRs aligned with company objectives — qualitative objectives with measurable key results. Use when setting quarterly OKRs, aligning team goals with company strategy, drafting objectives, or learning how to write effective OKRs."
+description: "头脑风暴与公司目标对齐的团队级 OKR——定性的目标配合可量化的关键结果。在制定季度 OKR、把团队目标与公司战略对齐、起草目标，或学习如何写出有效的 OKR 时使用。 | Brainstorm team-level OKRs aligned with company objectives — qualitative objectives with measurable key results. Use when setting quarterly OKRs, aligning team goals with company strategy, drafting objectives, or learning how to write effective OKRs."
 ---
 
 # Brainstorm Team OKRs

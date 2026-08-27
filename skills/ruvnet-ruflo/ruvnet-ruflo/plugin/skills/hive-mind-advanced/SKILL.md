@@ -1,7 +1,7 @@
 ---
 name: hive-mind-advanced
 description: |
-  Advanced Hive Mind collective intelligence system for queen-led multi-agent coordination with consensus mechanisms and persistent memory
+  高级 Hive Mind 集体智能系统，提供女王节点主导的多代理协调，内置共识机制与持久记忆 |
 ---
 
 # Hive Mind Advanced Skill

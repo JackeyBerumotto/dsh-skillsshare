@@ -1,6 +1,6 @@
 ---
 name: benchmarking-kubernetes-with-kube-bench
-description: Run CIS Kubernetes Benchmark checks and remediate findings with kube-bench.
+description: 使用 kube-bench 运行 CIS Kubernetes 基准检查并修复发现的问题。 | Run CIS Kubernetes Benchmark checks and remediate findings with kube-bench.
 domain: cybersecurity
 subdomain: container-security
 tags:

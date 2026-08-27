@@ -1,8 +1,6 @@
 ---
 name: performing-web-application-scanning-with-nikto
-description: Nikto is an open-source web server and web application scanner that tests
-  against over 7,000 potentially dangerous files/programs, checks for outdated versions
-  of over 1,250 servers, and identifies ve
+description: "Nikto 是一款开源 Web 服务器和 Web 应用扫描器，可对超过 7000 个潜在危险文件/程序进行测试，检查超过 1250 种服务器的过时版本，并识别版本相关问题。 | Nikto is an open-source web server and web application scanner that tests against over 7,000 potentially dangerous files/programs, checks for outdated versions of over 1,250 servers, and identifies ve"
 domain: cybersecurity
 subdomain: vulnerability-management
 tags:

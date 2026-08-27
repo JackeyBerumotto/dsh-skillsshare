@@ -1,6 +1,6 @@
 ---
 name: autopilot-predict
-description: Use learned patterns and current state to predict the optimal next action
+description: 利用已学习的模式和当前状态预测最优的下一步操作。 | Use learned patterns and current state to predict the optimal next action
 argument-hint: ""
 allowed-tools: mcp__claude-flow__autopilot_predict mcp__claude-flow__autopilot_progress mcp__claude-flow__autopilot_learn mcp__claude-flow__autopilot_history
 ---

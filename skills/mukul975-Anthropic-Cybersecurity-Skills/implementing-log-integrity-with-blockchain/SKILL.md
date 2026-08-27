@@ -1,10 +1,6 @@
 ---
 name: implementing-log-integrity-with-blockchain
-description: Build an append-only log integrity chain using SHA-256 hash chaining
-  for tamper detection. Each log entry is hashed with the previous entry's hash to
-  create a blockchain-like structure where modifying any entry invalidates all subsequent
-  hashes. Implements log ingestion, chain verification, tamper detection with pinpoint
-  identification, and periodic checkpoint anchoring to external timestamping services.
+description: "使用 SHA-256 哈希链构建仅追加的日志完整性链以检测篡改。每条日志条目都与前一条条目的哈希一起计算哈希，形成类似区块链的结构，修改任何条目都会使后续所有哈希失效。实现日志接入、链验证、可精确定位的篡改检测，以及定期向外部时间戳服务锚定检查点。 | Build an append-only log integrity chain using SHA-256 hash chaining for tamper detection. Each log entry is hashed with the previous entry's hash to create a blockchain-like structure where modifying any entry invalidates all subsequent hashes. Implements log ingestion, chain verification, tamper detection with pinpoint identification, and periodic checkpoint anchoring to external timestamping services."
 domain: cybersecurity
 subdomain: security-operations
 tags:

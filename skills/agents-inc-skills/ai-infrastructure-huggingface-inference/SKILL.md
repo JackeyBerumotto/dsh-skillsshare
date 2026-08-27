@@ -1,6 +1,6 @@
 ---
 name: ai-infrastructure-huggingface-inference
-description: Hugging Face Inference SDK patterns for TypeScript/Node.js — InferenceClient setup, chat completion, text generation, streaming, embeddings, image generation, audio transcription, translation, summarization, and Inference Endpoints
+description: Hugging Face Inference SDK 的 TypeScript/Node.js 模式——InferenceClient 设置、聊天补全、文本生成、流式传输、嵌入、图像生成、音频转写、翻译、摘要以及 Inference Endpoints | Hugging Face Inference SDK patterns for TypeScript/Node.js — InferenceClient setup, chat completion, text generation, streaming, embeddings, image generation, audio transcription, translation, summarization, and Inference Endpoints
 ---
 
 # Hugging Face Inference Patterns

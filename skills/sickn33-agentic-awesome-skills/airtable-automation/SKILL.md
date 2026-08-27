@@ -1,6 +1,6 @@
 ---
 name: airtable-automation
-description: "Automate Airtable tasks via Rube MCP (Composio): records, bases, tables, fields, views. Always search tools first for current schemas."
+description: "通过 Rube MCP（Composio）自动化 Airtable 任务：记录、base、表格、字段、视图。务必先搜索工具以获取最新 schema。 | Automate Airtable tasks via Rube MCP (Composio): records, bases, tables, fields, views. Always search tools first for current schemas."
 risk: critical
 source: community
 date_added: "2026-02-27"

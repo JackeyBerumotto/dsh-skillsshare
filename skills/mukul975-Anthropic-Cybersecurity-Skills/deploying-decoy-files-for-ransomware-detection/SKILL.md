@@ -1,13 +1,6 @@
 ---
 name: deploying-decoy-files-for-ransomware-detection
-description: 'Deploys canary files (honeytokens) across file systems to detect ransomware
-  encryption activity in real time. Uses strategically placed decoy documents monitored
-  via file integrity monitoring or OS-level watchdogs to trigger alerts when ransomware
-  modifies or encrypts them. Activates for requests involving ransomware canary deployment,
-  honeyfile setup, deception-based ransomware detection, or file integrity monitoring
-  for encryption.
-
-  '
+description: "在文件系统中部署金丝雀文件（蜜标）以实时检测勒索软件加密活动。利用在关键位置放置的诱饵文档，并通过文件完整性监控或操作系统级看门狗进行监视，一旦勒索软件修改或加密这些文件即触发告警。当请求涉及勒索软件金丝雀部署、蜜文件设置、基于欺骗的勒索软件检测或针对加密的文件完整性监控时激活。 | Deploys canary files (honeytokens) across file systems to detect ransomware encryption activity in real time. Uses strategically placed decoy documents monitored via file integrity monitoring or OS-level watchdogs to trigger alerts when ransomware modifies or encrypts them. Activates for requests involving ransomware canary deployment, honeyfile setup, deception-based ransomware detection, or file integrity monitoring for encryption."
 domain: cybersecurity
 subdomain: ransomware-defense
 tags:

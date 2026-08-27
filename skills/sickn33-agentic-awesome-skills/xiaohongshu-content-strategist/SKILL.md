@@ -1,6 +1,6 @@
 ---
 name: xiaohongshu-content-strategist
-description: "Create viral Xiaohongshu (小红书) content with platform-native strategy, save-rate optimization, trending formats, and search SEO for China's #1 lifestyle platform."
+description: "为中国排名第一的生活方式平台创建爆款小红书内容，涵盖平台原生策略、收藏率优化、热门格式和搜索 SEO。 | Create viral Xiaohongshu (小红书) content with platform-native strategy, save-rate optimization, trending formats, and search SEO for China's #1 lifestyle platform."
 category: marketing
 risk: safe
 source: community

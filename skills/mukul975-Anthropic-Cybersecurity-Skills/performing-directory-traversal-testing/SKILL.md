@@ -1,7 +1,6 @@
 ---
 name: performing-directory-traversal-testing
-description: Testing web applications for path traversal vulnerabilities that allow
-  reading or writing arbitrary files on the server by manipulating file path parameters.
+description: "测试 Web 应用的路径遍历漏洞，此类漏洞允许通过操纵文件路径参数读取或写入服务器上的任意文件。 | Testing web applications for path traversal vulnerabilities that allow reading or writing arbitrary files on the server by manipulating file path parameters."
 domain: cybersecurity
 subdomain: web-application-security
 tags:

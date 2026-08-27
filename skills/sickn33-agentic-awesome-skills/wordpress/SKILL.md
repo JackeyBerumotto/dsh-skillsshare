@@ -1,6 +1,6 @@
 ---
 name: wordpress
-description: "Complete WordPress development workflow covering theme development, plugin creation, WooCommerce integration, performance optimization, and security hardening. Includes WordPress 7.0 features: Real-Time Collaboration, AI Connectors, Abilities API, DataViews, and PHP-only blocks."
+description: "完整的 WordPress 开发工作流，涵盖主题开发、插件创建、WooCommerce 集成、性能优化和安全加固。包含 WordPress 7.0 特性：Real-Time Collaboration、AI Connectors、Abilities API、DataViews 和纯 PHP 区块。 | Complete WordPress development workflow covering theme development, plugin creation, WooCommerce integration, performance optimization, and security hardening. Includes WordPress 7.0 features: Real-Time Collaboration, AI Connectors, Abilities API, DataViews, and PHP-only blocks."
 category: workflow-bundle
 risk: safe
 source: personal

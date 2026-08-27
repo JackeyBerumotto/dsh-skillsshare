@@ -1,6 +1,6 @@
 ---
 name: media-composition
-description: Combines GIFs and videos into composite tutorials with vertical or grid layouts via ffmpeg. Use when assembling multi-part media into a single output.
+description: 通过 ffmpeg 将 GIF 和视频合成为纵向或网格布局的组合教程。在将多段媒体组装为单个输出时使用。 | Combines GIFs and videos into composite tutorials with vertical or grid layouts via ffmpeg. Use when assembling multi-part media into a single output.
 alwaysApply: false
 category: media-generation
 tags:

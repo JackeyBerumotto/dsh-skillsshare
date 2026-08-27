@@ -1,6 +1,6 @@
 ---
 name: desktop-testing-electron
-description: E2E testing with Playwright, main process unit testing, IPC testing, dialog/menu mocking, CI headless setup
+description: 使用 Playwright 的 E2E 测试、主进程单元测试、IPC 测试、对话框/菜单模拟以及 CI 无头环境配置 | E2E testing with Playwright, main process unit testing, IPC testing, dialog/menu mocking, CI headless setup
 ---
 
 # Electron Testing Patterns

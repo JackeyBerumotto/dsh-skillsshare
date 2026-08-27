@@ -1,6 +1,6 @@
 ---
 name: orch-add-feature
-description: Orchestrate building a brand-new feature end to end — research, plan, TDD implementation, review, and gated commit — by delegating each phase to the matching ECC agent. Use when adding a capability that does not exist yet.
+description: 通过将每个阶段委派给对应的 ECC 智能体，端到端编排全新功能的构建——研究、规划、TDD 实现、评审和门控提交。在添加尚不存在的能力时使用。 | Orchestrate building a brand-new feature end to end — research, plan, TDD implementation, review, and gated commit — by delegating each phase to the matching ECC agent. Use when adding a capability that does not exist yet.
 metadata:
   origin: ECC
 ---

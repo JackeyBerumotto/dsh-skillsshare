@@ -1,6 +1,6 @@
 ---
 name: blueprint
-description: "Turn a one-line objective into a step-by-step construction plan any coding agent can execute cold. Each step has a self-contained context brief — a fresh agent in a new session can pick up any step without reading prior steps."
+description: "把一行目标变成任何编码智能体都能冷启动执行的分步施工计划。每一步都带有自包含的上下文简报——新会话中的全新智能体无需阅读前序步骤即可接手任意一步。 | Turn a one-line objective into a step-by-step construction plan any coding agent can execute cold. Each step has a self-contained context brief — a fresh agent in a new session can pick up any step without reading prior steps."
 category: planning
 risk: safe
 source: community

@@ -1,6 +1,6 @@
 ---
 name: subagent-testing
-description: 'Test skills via TDD in fresh subagents. Use when validating behavior or preventing bias.'
+description: '在全新子代理中通过 TDD 测试技能。在验证行为或防止偏差时使用。 | Test skills via TDD in fresh subagents. Use when validating behavior or preventing bias.'
 alwaysApply: false
 category: testing
 tags:

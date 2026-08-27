@@ -1,8 +1,6 @@
 ---
 name: detecting-container-drift-at-runtime
-description: Detect unauthorized modifications to running containers by monitoring
-  for binary execution drift, file system changes, and configuration deviations from
-  the original container image.
+description: "通过监控二进制执行漂移、文件系统变更以及与原始容器镜像的配置偏差，检测对运行中容器的未授权修改。 | Detect unauthorized modifications to running containers by monitoring for binary execution drift, file system changes, and configuration deviations from the original container image."
 domain: cybersecurity
 subdomain: container-security
 tags:

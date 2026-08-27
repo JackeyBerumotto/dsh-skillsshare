@@ -1,6 +1,6 @@
 ---
 name: api-database-surrealdb
-description: SurrealDB multi-model database - SurrealQL queries, record links, graph relations, live queries, schema definitions, authentication, TypeScript SDK
+description: SurrealDB 多模型数据库：SurrealQL 查询、记录链接、图关系、实时查询、schema 定义、身份验证、TypeScript SDK | SurrealDB multi-model database - SurrealQL queries, record links, graph relations, live queries, schema definitions, authentication, TypeScript SDK
 ---
 
 # SurrealDB Patterns

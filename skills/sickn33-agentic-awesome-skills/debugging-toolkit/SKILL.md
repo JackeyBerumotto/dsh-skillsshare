@@ -1,6 +1,6 @@
 ---
 name: debugging-toolkit
-description: "Use when working with debugging toolkit smart debug (Alias for debugging-toolkit-smart-debug)"
+description: "在处理调试工具箱（debugging toolkit）中的智能调试（smart debug，debugging-toolkit-smart-debug 的别名）时使用。 | Use when working with debugging toolkit smart debug (Alias for debugging-toolkit-smart-debug)"
 risk: unknown
 source: "alias"
 date_added: "2026-06-02"

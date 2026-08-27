@@ -1,6 +1,6 @@
 ---
 name: dashboard-design
-description: Web and App implementation guide for Dashboard Design. Trigger when user wants analytics-focused layouts, data visualization, and modular overview screens.
+description: Dashboard Design（仪表盘设计）的 Web 与 App 实现指南。当用户需要以分析为中心的布局、数据可视化和模块化总览界面时触发。 | Web and App implementation guide for Dashboard Design. Trigger when user wants analytics-focused layouts, data visualization, and modular overview screens.
 date_added: "2026-06-17"
 risk: safe
 source: self

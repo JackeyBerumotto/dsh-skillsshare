@@ -1,6 +1,6 @@
 ---
 name: decision-memo
-description: "Write a crisp decision memo that drives a clear decision, not a discussion. Use when asked to write a decision memo, a recommendation memo, a one/six-pager for a decision, or to get leadership to decide something. Produces a decision memo — the decision & recommendation up front, the context, options with trade-offs, what you'd need to believe, risks, and the explicit ask with a deadline."
+description: "撰写简明扼要的决策备忘录，推动明确决策而非讨论。在被要求编写决策备忘录、建议备忘录、决策用的一页/六页纸，或推动管理层拍板时使用。产出决策备忘录——决策与建议前置、背景、带权衡的选项、需要相信的前提、风险，以及带截止日期的明确请求。 | Write a crisp decision memo that drives a clear decision, not a discussion. Use when asked to write a decision memo, a recommendation memo, a one/six-pager for a decision, or to get leadership to decide something. Produces a decision memo — the decision & recommendation up front, the context, options with trade-offs, what you'd need to believe, risks, and the explicit ask with a deadline."
 ---
 
 # Decision Memo Skill

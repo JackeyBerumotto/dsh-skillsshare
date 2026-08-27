@@ -1,6 +1,6 @@
 ---
 name: logic-lens
-description: "AI-powered Claude Code skill that performs deep code review using formal logic and reasoning frameworks to detect bugs, anti-patterns, and security risks beyond what linters catch."
+description: "AI 驱动的 Claude Code 技能，使用形式逻辑与推理框架进行深度代码审查，检测 linter 无法发现的缺陷、反模式和安全风险。 | AI-powered Claude Code skill that performs deep code review using formal logic and reasoning frameworks to detect bugs, anti-patterns, and security risks beyond what linters catch."
 category: development
 risk: safe
 source: community

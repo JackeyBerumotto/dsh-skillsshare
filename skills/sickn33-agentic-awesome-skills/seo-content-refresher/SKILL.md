@@ -1,6 +1,6 @@
 ---
 name: seo-content-refresher
-description: Identifies outdated elements in provided content and suggests updates to maintain freshness. Finds statistics, dates, and examples that need updating. Use PROACTIVELY for older content.
+description: 识别所提供内容中过时的元素，并建议更新以保持新鲜度。查找需要更新的统计数据、日期和示例。对较旧的内容应主动使用。 | Identifies outdated elements in provided content and suggests updates to maintain freshness. Finds statistics, dates, and examples that need updating. Use PROACTIVELY for older content.
 risk: unknown
 source: community
 date_added: '2026-02-27'

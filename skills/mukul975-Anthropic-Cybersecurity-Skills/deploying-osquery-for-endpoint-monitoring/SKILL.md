@@ -1,13 +1,6 @@
 ---
 name: deploying-osquery-for-endpoint-monitoring
-description: 'Deploys and configures osquery for real-time endpoint monitoring using
-  SQL-based queries to inspect running processes, open ports, installed software,
-  and system configuration. Use when building visibility into endpoint state, threat
-  hunting across fleet, or implementing compliance monitoring. Activates for requests
-  involving osquery deployment, endpoint visibility, fleet management, or SQL-based
-  endpoint querying.
-
-  '
+description: "部署并配置 osquery 进行实时终端监控，使用基于 SQL 的查询检查运行中的进程、开放端口、已安装软件和系统配置。当需要构建终端状态可见性、在整个终端群中进行威胁狩猎或实施合规监控时使用。当请求涉及 osquery 部署、终端可见性、终端群管理或基于 SQL 的终端查询时激活。 | Deploys and configures osquery for real-time endpoint monitoring using SQL-based queries to inspect running processes, open ports, installed software, and system configuration. Use when building visibility into endpoint state, threat hunting across fleet, or implementing compliance monitoring. Activates for requests involving osquery deployment, endpoint visibility, fleet management, or SQL-based endpoint querying."
 domain: cybersecurity
 subdomain: endpoint-security
 tags:

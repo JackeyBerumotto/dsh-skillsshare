@@ -1,6 +1,6 @@
 ---
 name: demand-letter
-description: "Draft a firm, professional demand letter that states the facts, the legal/contractual basis, the specific demand, and a deadline. Use when asked to write a demand letter, send a formal demand for payment, draft a cease-and-desist, or formally request resolution before legal action. Produces a structured, factual letter with a clear ask and consequences — assertive but not threatening or defamatory. Not legal advice; have counsel review before sending."
+description: "起草一封坚定而专业的催告函，陈述事实、法律/合同依据、具体要求和期限。当被要求撰写催告函、发出正式付款催告、起草停止侵权函，或在采取法律行动前正式请求解决时使用。产出一封结构化、基于事实的信函，包含明确的要求和后果——立场坚定但不带威胁或诽谤。不构成法律建议；发送前请交由法律顾问审核。 | Draft a firm, professional demand letter that states the facts, the legal/contractual basis, the specific demand, and a deadline. Use when asked to write a demand letter, send a formal demand for payment, draft a cease-and-desist, or formally request resolution before legal action. Produces a structured, factual letter with a clear ask and consequences — assertive but not threatening or defamatory. Not legal advice; have counsel review before sending."
 ---
 
 # Demand Letter Skill

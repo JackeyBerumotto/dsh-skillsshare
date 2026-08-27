@@ -1,6 +1,6 @@
 ---
 name: interview-prep
-description: "Prepare for a specific interview at a specific company, not just 'an interview'. Use when asked to prep for an interview, prepare answers for a role, practice for a specific company's interview, or get ready for a behavioural/case/PM round. Produces a tailored prep pack — likely questions for this role & round, STAR-structured answers from your background, your stories mapped to their competencies, questions to ask, and the gaps to shore up."
+description: "为特定公司的特定面试做准备，而不只是「一场面试」。当被要求准备面试、为某个岗位准备回答、针对特定公司的面试演练，或备战行为面/案例面/产品经理轮次时使用。产出一份量身定制的准备包——该岗位与轮次的可能问题、基于你背景的 STAR 结构回答、你的故事与其胜任力的映射、要问的问题，以及需要补强的短板。 | Prepare for a specific interview at a specific company, not just 'an interview'. Use when asked to prep for an interview, prepare answers for a role, practice for a specific company's interview, or get ready for a behavioural/case/PM round. Produces a tailored prep pack — likely questions for this role & round, STAR-structured answers from your background, your stories mapped to their competencies, questions to ask, and the gaps to shore up."
 ---
 
 # Interview Prep Skill

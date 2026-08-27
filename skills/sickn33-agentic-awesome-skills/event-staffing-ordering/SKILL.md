@@ -1,6 +1,6 @@
 ---
 name: event-staffing-ordering
-description: Order W-2 compliant temporary event staff for conventions, trade shows, festivals, concerts, sporting events, and brand activations across 300+ US and Canadian markets via TempGuru. Covers city coverage, role pricing, availability, state compliance lookups via MCP, and request submission.
+description: 通过 TempGuru 在美国和加拿大 300 多个市场为大会、展会、节庆、演唱会、体育赛事和品牌活动订购符合 W-2 要求的临时活动人员。涵盖城市覆盖情况、岗位定价、可用性、通过 MCP 查询各州合规要求以及提交请求。 | Order W-2 compliant temporary event staff for conventions, trade shows, festivals, concerts, sporting events, and brand activations across 300+ US and Canadian markets via TempGuru. Covers city coverage, role pricing, availability, state compliance lookups via MCP, and request submission.
 risk: safe
 source: community
 date_added: "2026-06-05"

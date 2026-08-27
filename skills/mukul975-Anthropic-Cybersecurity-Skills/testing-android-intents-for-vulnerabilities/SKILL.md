@@ -1,13 +1,6 @@
 ---
 name: testing-android-intents-for-vulnerabilities
-description: 'Tests Android inter-process communication (IPC) through intents for
-  vulnerabilities including intent injection, unauthorized component access, broadcast
-  sniffing, pending intent hijacking, and content provider data leakage. Use when
-  assessing Android app attack surface through exported components, testing intent-based
-  data flows, or evaluating IPC security. Activates for requests involving Android
-  intent security, IPC testing, exported component analysis, or Drozer assessment.
-
-  '
+description: "通过 intent 测试 Android 进程间通信（IPC）的漏洞，包括 intent 注入、未授权组件访问、广播嗅探、pending intent 劫持与内容提供器数据泄漏。当通过导出组件评估 Android 应用攻击面、测试基于 intent 的数据流或评估 IPC 安全时使用。适用于涉及 Android intent 安全、IPC 测试、导出组件分析或 Drozer 评估的请求。 | Tests Android inter-process communication (IPC) through intents for vulnerabilities including intent injection, unauthorized component access, broadcast sniffing, pending intent hijacking, and content provider data leakage. Use when assessing Android app attack surface through exported components, testing intent-based data flows, or evaluating IPC security. Activates for requests involving Android intent security, IPC testing, exported component analysis, or Drozer assessment."
 domain: cybersecurity
 subdomain: mobile-security
 author: mahipal

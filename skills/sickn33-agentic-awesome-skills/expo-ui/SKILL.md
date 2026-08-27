@@ -1,6 +1,6 @@
 ---
 name: expo-ui
-description: "Build native UI with the @expo/ui package: real SwiftUI on iOS and Jetpack Compose on Android rendered from React in an Expo or React Native app. Covers universal cross-platform components (Host, Column, Row, Button, Text, List, and more imported from @expo/ui), drop-in replacements..."
+description: "使用 @expo/ui 包构建原生 UI：在 Expo 或 React Native 应用中从 React 渲染出 iOS 上真正的 SwiftUI 与 Android 上的 Jetpack Compose。涵盖通用跨平台组件（从 @expo/ui 导入的 Host、Column、Row、Button、Text、List 等）、直接替换组件…… | Build native UI with the @expo/ui package: real SwiftUI on iOS and Jetpack Compose on Android rendered from React in an Expo or React Native app. Covers universal cross-platform components (Host, Column, Row, Button, Text, List, and more imported from @expo/ui), drop-in replacements..."
 risk: unknown
 source: https://github.com/expo/skills/tree/main/plugins/expo/skills/expo-ui
 source_repo: expo/skills

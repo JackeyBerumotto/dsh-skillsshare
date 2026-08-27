@@ -1,6 +1,6 @@
 ---
 name: chat-widget
-description: Build a real-time support chat system with a floating widget for users and an admin dashboard for support staff. Use when the user wants live chat, customer support chat, real-time messaging, or in-app support.
+description: 构建实时客服聊天系统，包含面向用户的悬浮挂件与面向客服人员的管理后台。当用户想要在线聊天、客服聊天、实时消息或应用内支持时使用。 | Build a real-time support chat system with a floating widget for users and an admin dashboard for support staff. Use when the user wants live chat, customer support chat, real-time messaging, or in-app support.
 risk: unknown
 source: community
 ---

@@ -1,6 +1,6 @@
 ---
 name: human-in-the-loop-design
-description: "Design the human approval surface for an agent system — which actions gate, how approvals batch without becoming rubber stamps, and what the audit trail must hold. Use when asked to add human oversight to an agent, design approval workflows for AI actions, decide what an agent may do autonomously, or fix approval fatigue in an existing loop. Produces an action-tier policy, approval UX spec, escalation rules, and audit-trail requirements. For specifying the whole agent use agent-spec; for the per-skill execution gates see the Execution-block pattern in SKILLSPEC §5."
+description: "为 agent 系统设计人工审批面：哪些动作需要门控、审批如何批量处理而不流于形式，以及审计轨迹必须记录什么。当被要求为 agent 增加人工监督、为 AI 动作设计审批工作流、决定 agent 可以自主执行的范围，或解决现有流程中的审批疲劳时使用。产出动作分级策略、审批 UX 规格、升级规则和审计轨迹要求。若要为整个 agent 编写规格请使用 agent-spec；各技能的执行门控请参阅 SKILLSPEC 第 5 节的 Execution-block 模式。 | Design the human approval surface for an agent system — which actions gate, how approvals batch without becoming rubber stamps, and what the audit trail must hold. Use when asked to add human oversight to an agent, design approval workflows for AI actions, decide what an agent may do autonomously, or fix approval fatigue in an existing loop. Produces an action-tier policy, approval UX spec, escalation rules, and audit-trail requirements. For specifying the whole agent use agent-spec; for the per-skill execution gates see the Execution-block pattern in SKILLSPEC §5."
 ---
 
 # Human-in-the-Loop Design Skill

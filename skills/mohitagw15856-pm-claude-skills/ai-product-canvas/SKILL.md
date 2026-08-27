@@ -1,6 +1,6 @@
 ---
 name: ai-product-canvas
-description: "Structure AI and ML product decisions with the rigour of any product decision. Use when building AI-powered features, evaluating LLM integrations, designing AI products, or assessing AI readiness. Produces a complete AI product canvas covering problem definition, model approach, data requirements, evaluation framework, UX design, responsible AI checklist, and launch monitoring plan."
+description: "以与任何产品决策同等的严谨度来构建 AI 与 ML 产品决策。在构建 AI 驱动的功能、评估 LLM 集成、设计 AI 产品或评估 AI 就绪度时使用。产出完整的 AI 产品画布，涵盖问题定义、模型方案、数据需求、评估框架、UX 设计、负责任 AI 检查清单和上线监控计划。 | Structure AI and ML product decisions with the rigour of any product decision. Use when building AI-powered features, evaluating LLM integrations, designing AI products, or assessing AI readiness. Produces a complete AI product canvas covering problem definition, model approach, data requirements, evaluation framework, UX design, responsible AI checklist, and launch monitoring plan."
 ---
 
 # AI Product Canvas Skill

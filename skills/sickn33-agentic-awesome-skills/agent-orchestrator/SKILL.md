@@ -1,6 +1,6 @@
 ---
 name: agent-orchestrator
-description: Meta-skill que orquestra todos os agentes do ecossistema. Scan automatico de skills, match por capacidades, coordenacao de workflows multi-skill e registry management.
+description: 编排生态系统中所有代理的元技能。自动扫描技能、按能力匹配、协调多技能工作流并进行注册表管理。 | Meta-skill que orquestra todos os agentes do ecossistema. Scan automatico de skills, match por capacidades, coordenacao de workflows multi-skill e registry management.
 risk: safe
 source: community
 date_added: '2026-03-06'

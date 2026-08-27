@@ -1,7 +1,7 @@
 ---
 name: generating-stored-procedures
 description: |
-  Use when you need to work with stored procedure generation.
+  当你需要处理存储过程生成时使用。此技能提供存储过程代码生成及全面的指导和自动化。触发词如「generate stored procedures」「create database functions」或「write SQL procedures」。 |
   This skill provides stored procedure code generation with comprehensive guidance and automation.
   Trigger with phrases like "generate stored procedures", "create database functions",
   or "write SQL procedures".

@@ -1,6 +1,6 @@
 ---
 name: turborepo-caching
-description: "Configure Turborepo for efficient monorepo builds with local and remote caching. Use when setting up Turborepo, optimizing build pipelines, or implementing distributed caching."
+description: "配置 Turborepo 以实现高效的 monorepo 构建，支持本地和远程缓存。在搭建 Turborepo、优化构建流水线或实现分布式缓存时使用。 | Configure Turborepo for efficient monorepo builds with local and remote caching. Use when setting up Turborepo, optimizing build pipelines, or implementing distributed caching."
 risk: critical
 source: community
 date_added: "2026-02-27"

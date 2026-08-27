@@ -1,6 +1,6 @@
 ---
 name: bgpt-paper-search
-description: Search scientific papers and retrieve structured experimental data extracted from full-text studies via the BGPT MCP server. Returns 25+ fields per paper including methods, results, sample sizes, quality scores, and conclusions. Use for literature reviews, evidence synthesis, and finding experimental details not available in abstracts alone.
+description: 通过 BGPT MCP 服务器搜索科学论文，并检索从全文研究中提取的结构化实验数据。每篇论文返回 25+ 个字段，包括方法、结果、样本量、质量评分和结论。用于文献综述、证据综合，以及查找仅凭摘要无法获得的实验细节。 | Search scientific papers and retrieve structured experimental data extracted from full-text studies via the BGPT MCP server. Returns 25+ fields per paper including methods, results, sample sizes, quality scores, and conclusions. Use for literature reviews, evidence synthesis, and finding experimental details not available in abstracts alone.
 license: MIT
 compatibility: Requires the BGPT MCP server configured in the agent host (npx mcp-remote or npx bgpt-mcp), internet access to bgpt.pro, and an optional BGPT API key for paid usage.
 metadata: {"version": "1.1", "skill-author": "BGPT", "website": "https://bgpt.pro/mcp", "github": "https://github.com/connerlambden/bgpt-mcp"}

@@ -1,6 +1,6 @@
 ---
 name: computer-control
-description: Automates desktop GUI workflows via computer use API with screenshot capture. Use when scripting GUI interactions or recording browser sessions for tutorials.
+description: 通过 computer use API 结合屏幕截图来自动化桌面 GUI 工作流。在编写 GUI 交互脚本或为教程录制浏览器会话时使用。 | Automates desktop GUI workflows via computer use API with screenshot capture. Use when scripting GUI interactions or recording browser sessions for tutorials.
 alwaysApply: false
 model_hint: standard
 ---

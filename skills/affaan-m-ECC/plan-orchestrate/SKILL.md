@@ -1,6 +1,6 @@
 ---
 name: plan-orchestrate
-description: Read a plan document, decompose it into steps, design a per-step agent chain from the ECC catalogue, and emit ready-to-paste /orchestrate custom prompts. Generative only — never invokes /orchestrate itself. Use when the user has a multi-step plan and wants to drive it through orchestrate without composing chains by hand.
+description: 读取计划文档，将其分解为步骤，从 ECC 目录中为每一步设计智能体链，并生成可直接粘贴的 /orchestrate 自定义提示词。仅做生成——绝不自行调用 /orchestrate。当用户有分步计划并希望通过 orchestrate 驱动、而无需手动编排链条时使用。 | Read a plan document, decompose it into steps, design a per-step agent chain from the ECC catalogue, and emit ready-to-paste /orchestrate custom prompts. Generative only — never invokes /orchestrate itself. Use when the user has a multi-step plan and wants to drive it through orchestrate without composing chains by hand.
 metadata:
   origin: ECC
 ---

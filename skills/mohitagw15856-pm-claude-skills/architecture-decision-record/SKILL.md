@@ -1,6 +1,6 @@
 ---
 name: architecture-decision-record
-description: "Create an Architecture Decision Record (ADR) for any technical decision. Use when asked to document a technical decision, write an ADR, record an architecture choice, or capture why a technology or approach was selected. Produces a structured ADR with context, decision, consequences, and tradeoffs."
+description: "为任意技术决策创建架构决策记录（ADR）。当被要求记录技术决策、撰写 ADR、记录架构选择，或说明为何选用某项技术或方案时使用。产出结构化的 ADR，包含背景、决策、后果和取舍。 | Create an Architecture Decision Record (ADR) for any technical decision. Use when asked to document a technical decision, write an ADR, record an architecture choice, or capture why a technology or approach was selected. Produces a structured ADR with context, decision, consequences, and tradeoffs."
 ---
 
 # Architecture Decision Record (ADR) Skill

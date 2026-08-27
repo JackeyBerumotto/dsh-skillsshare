@@ -1,6 +1,6 @@
 ---
 name: ai-provider-google-gemini-sdk
-description: Official TypeScript SDK for Google Gemini — client setup, text generation, multimodal input, function calling, structured output, streaming, embeddings, context caching, and chat sessions
+description: Google Gemini 官方 TypeScript SDK：客户端设置、文本生成、多模态输入、函数调用、结构化输出、流式传输、嵌入、上下文缓存和聊天会话 | Official TypeScript SDK for Google Gemini — client setup, text generation, multimodal input, function calling, structured output, streaming, embeddings, context caching, and chat sessions
 ---
 
 # Google Gemini SDK Patterns

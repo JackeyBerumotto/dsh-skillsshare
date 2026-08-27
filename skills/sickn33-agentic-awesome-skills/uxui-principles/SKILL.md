@@ -1,6 +1,6 @@
 ---
 name: uxui-principles
-description: "Evaluate interfaces against 168 research-backed UX/UI principles, detect antipatterns, and inject UX context into AI coding sessions."
+description: "依据 168 条有研究支撑的 UX/UI 原则评估界面，检测反模式，并向 AI 编码会话注入 UX 上下文。 | Evaluate interfaces against 168 research-backed UX/UI principles, detect antipatterns, and inject UX context into AI coding sessions."
 category: design
 risk: safe
 source: community

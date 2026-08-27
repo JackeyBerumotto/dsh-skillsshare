@@ -1,6 +1,6 @@
 ---
 name: apple-container
-description: "Build, run, and manage OCI/Linux containers as lightweight per-container VMs on Apple-silicon macOS using Apple's open-source container CLI, no Docker daemon required."
+description: "在 Apple 芯片 macOS 上使用 Apple 开源的 container CLI 构建、运行和管理 OCI 与 Linux 容器——每个容器如同轻量级虚拟机，无需 Docker 守护进程。 | Build, run, and manage OCI/Linux containers as lightweight per-container VMs on Apple-silicon macOS using Apple's open-source container CLI, no Docker daemon required."
 category: devops
 risk: critical
 source: https://github.com/sanjay3290/ai-skills/tree/main/skills/apple-container

@@ -1,6 +1,6 @@
 ---
 name: architecture-paradigm-event-driven
-description: Applies event-driven async messaging to decouple producers and consumers. Use when designing real-time or multi-subscriber systems needing loose coupling.
+description: 应用事件驱动的异步消息传递来解耦生产者与消费者。在设计需要松耦合的实时或多订阅者系统时使用。 | Applies event-driven async messaging to decouple producers and consumers. Use when designing real-time or multi-subscriber systems needing loose coupling.
 alwaysApply: false
 category: architectural-pattern
 tags:

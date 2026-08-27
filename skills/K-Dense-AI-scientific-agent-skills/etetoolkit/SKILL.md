@@ -1,6 +1,6 @@
 ---
 name: etetoolkit
-description: Phylogenetic tree toolkit (ETE). Tree manipulation (Newick/NHX), evolutionary event detection, orthology/paralogy, NCBI taxonomy, visualization (PDF/SVG), for phylogenomics.
+description: 系统发育树工具集（ETE）：树操作（Newick/NHX）、演化事件检测、直系/旁系同源、NCBI 分类学、可视化（PDF/SVG），用于系统发育基因组学。 | Phylogenetic tree toolkit (ETE). Tree manipulation (Newick/NHX), evolutionary event detection, orthology/paralogy, NCBI taxonomy, visualization (PDF/SVG), for phylogenomics.
 license: GPL-3.0 license
 metadata: {"version": "1.0", "skill-author": "K-Dense Inc."}
 ---

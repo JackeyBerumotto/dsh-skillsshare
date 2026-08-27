@@ -1,6 +1,6 @@
 ---
 name: card-based-design
-description: Web and App implementation guide for Card-Based Design. Trigger when user wants information cards, Pinterest-style layouts, and bite-sized content containers.
+description: Card-Based Design（卡片式设计）的 Web 与 App 实现指南。当用户需要信息卡片、Pinterest 式布局和小块内容容器时触发。 | Web and App implementation guide for Card-Based Design. Trigger when user wants information cards, Pinterest-style layouts, and bite-sized content containers.
 date_added: "2026-06-17"
 risk: safe
 source: self

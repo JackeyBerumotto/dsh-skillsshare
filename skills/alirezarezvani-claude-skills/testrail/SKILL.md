@@ -1,7 +1,7 @@
 ---
 name: "testrail"
 description: >-
-  Sync tests with TestRail. Use when user mentions "testrail", "test management",
+  将测试与 TestRail 同步。当用户提到「testrail」「test management」「test cases」「test run」「sync test cases」「push results to testrail」或「import from testrail」时使用。 |
   "test cases", "test run", "sync test cases", "push results to testrail",
   or "import from testrail".
 ---

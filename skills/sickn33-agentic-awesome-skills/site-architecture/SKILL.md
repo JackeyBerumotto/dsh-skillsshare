@@ -1,6 +1,6 @@
 ---
 name: site-architecture
-description: "Plan or restructure website hierarchy, navigation, URL patterns, breadcrumbs, and internal linking. Use when mapping pages, sections, and site structure, but not for XML sitemap auditing or schema markup."
+description: "规划或重构网站层级、导航、URL 模式、面包屑和内链。在映射页面、板块和站点结构时使用，但不适用于 XML 站点地图审计或结构化数据标记。 | Plan or restructure website hierarchy, navigation, URL patterns, breadcrumbs, and internal linking. Use when mapping pages, sections, and site structure, but not for XML sitemap auditing or schema markup."
 risk: unknown
 source: "https://github.com/coreyhaines31/marketingskills"
 date_added: "2026-03-21"

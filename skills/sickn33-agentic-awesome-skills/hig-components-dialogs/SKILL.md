@@ -1,6 +1,6 @@
 ---
 name: hig-components-dialogs
-description: Apple HIG guidance for presentation components including alerts, action sheets, popovers, sheets, and digit entry views.
+description: Apple HIG 中展示类组件的指南，包括警告框、操作表、弹出层、浮层表单和数字输入视图。 | Apple HIG guidance for presentation components including alerts, action sheets, popovers, sheets, and digit entry views.
 risk: unknown
 source: community
 date_added: '2026-02-27'

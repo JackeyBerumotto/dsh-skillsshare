@@ -1,6 +1,6 @@
 ---
 name: redesign-existing-projects
-description: "Use when upgrading existing websites or apps by auditing generic UI patterns and applying premium design fixes without rewrites."
+description: "在升级现有网站或应用时使用，通过审计通用的 UI 模式并应用高端设计修复而无需重写。 | Use when upgrading existing websites or apps by auditing generic UI patterns and applying premium design fixes without rewrites."
 category: frontend
 risk: safe
 source: community

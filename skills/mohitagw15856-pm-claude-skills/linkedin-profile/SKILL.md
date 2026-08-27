@@ -1,6 +1,6 @@
 ---
 name: linkedin-profile
-description: "Optimise a LinkedIn profile to be found and to convert. Use when asked to write or improve a LinkedIn headline, About section, or profile, or to make a profile recruiter-friendly. Produces an optimised headline, a first-person About section with a hook and keywords, achievement-led experience bullets, and a skills/keyword list tuned for LinkedIn search."
+description: "优化 LinkedIn 个人资料，使其既能被找到又能促成转化。当被要求撰写或改进 LinkedIn 标题、About 部分、个人资料，或让资料对招聘者更友好时使用。产出优化后的标题、带钩子和关键词的第一人称 About 部分、以成果为导向的经历要点，以及针对 LinkedIn 搜索调优的技能/关键词列表。 | Optimise a LinkedIn profile to be found and to convert. Use when asked to write or improve a LinkedIn headline, About section, or profile, or to make a profile recruiter-friendly. Produces an optimised headline, a first-person About section with a hook and keywords, achievement-led experience bullets, and a skills/keyword list tuned for LinkedIn search."
 ---
 
 # LinkedIn Profile Skill

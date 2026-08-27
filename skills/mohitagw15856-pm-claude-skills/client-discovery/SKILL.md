@@ -1,6 +1,6 @@
 ---
 name: client-discovery
-description: "Run a consulting client discovery session — uncover the real problem, scope, and decision process. Use when asked to prepare for a client discovery call, qualify a consulting lead, scope an engagement, or run a kickoff. Produces a discovery plan — the questions that surface the real problem (not the stated one), budget/authority/timeline qualifiers, success criteria, red flags, and a follow-up that leads to a proposal."
+description: "主持一场咨询客户发现会议——挖掘真实问题、范围和决策流程。当被要求准备客户发现通话、评估咨询线索、界定项目范围或主持启动会时使用。产出发现计划——能挖出真实问题（而非表面问题）的提问、预算/决策权/时间线资格条件、成功标准、危险信号，以及通向提案的后续动作。 | Run a consulting client discovery session — uncover the real problem, scope, and decision process. Use when asked to prepare for a client discovery call, qualify a consulting lead, scope an engagement, or run a kickoff. Produces a discovery plan — the questions that surface the real problem (not the stated one), budget/authority/timeline qualifiers, success criteria, red flags, and a follow-up that leads to a proposal."
 ---
 
 # Client Discovery Skill

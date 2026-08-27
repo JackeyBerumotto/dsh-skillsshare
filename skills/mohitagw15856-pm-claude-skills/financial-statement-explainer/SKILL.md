@@ -1,6 +1,6 @@
 ---
 name: financial-statement-explainer
-description: "Explain a financial statement (P&L, balance sheet, or cash flow) in plain English. Use when asked to explain a P&L / income statement, a balance sheet, a cash flow statement, or to make financials understandable to a non-finance reader. Produces a plain-language walkthrough — what each section means, the line items that matter, the key ratios, and the story the numbers tell — so a non-accountant can read and act on it. Not financial advice."
+description: "用通俗语言解释财务报表（损益表、资产负债表或现金流量表）。当被要求解释损益表、资产负债表、现金流量表，或让非财务读者看懂财务数据时使用。产出通俗解读——每个部分的含义、关键科目、核心比率以及数字讲述的故事——让非会计人员也能读懂并行动。不构成财务建议。 | Explain a financial statement (P&L, balance sheet, or cash flow) in plain English. Use when asked to explain a P&L / income statement, a balance sheet, a cash flow statement, or to make financials understandable to a non-finance reader. Produces a plain-language walkthrough — what each section means, the line items that matter, the key ratios, and the story the numbers tell — so a non-accountant can read and act on it. Not financial advice."
 ---
 
 # Financial Statement Explainer Skill

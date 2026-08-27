@@ -1,6 +1,6 @@
 ---
 name: "observability-designer"
-description: "Design production-ready observability strategies combining metrics, logs, and traces. Includes SLI/SLO design, golden-signals monitoring, alert optimization. Use when adding observability to a new service, refactoring alerting that is too noisy, or designing an SLO program before scaling production load."
+description: "设计生产可用的可观测性策略，融合指标、日志和追踪。包括 SLI/SLO 设计、黄金信号监控和告警优化。当需要为新服务添加可观测性、重构过于嘈杂的告警，或在扩大生产负载前设计 SLO 体系时使用。 | Design production-ready observability strategies combining metrics, logs, and traces. Includes SLI/SLO design, golden-signals monitoring, alert optimization. Use when adding observability to a new service, refactoring alerting that is too noisy, or designing an SLO program before scaling production load."
 ---
 
 # Observability Designer (POWERFUL)

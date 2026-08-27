@@ -1,6 +1,6 @@
 ---
 name: reddit-automation
-description: "Automate Reddit tasks via Rube MCP (Composio): search subreddits, create posts, manage comments, and browse top content. Always search tools first for current schemas."
+description: "通过 Rube MCP（Composio）自动化 Reddit 任务：搜索 subreddit、创建帖子、管理评论并浏览热门内容。务必先搜索工具以获取最新 schema。 | Automate Reddit tasks via Rube MCP (Composio): search subreddits, create posts, manage comments, and browse top content. Always search tools first for current schemas."
 risk: critical
 source: community
 date_added: "2026-02-27"

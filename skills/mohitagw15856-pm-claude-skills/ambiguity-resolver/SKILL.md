@@ -1,6 +1,6 @@
 ---
 name: ambiguity-resolver
-description: "Structure vague opportunities and unclear briefs into actionable one-page problem statements. Use when asked to clarify a vague brief, frame an undefined problem, make sense of an unclear opportunity, or when the user says 'we need to figure out what to do about X' or 'I've been asked to look into Y'. Produces a structured problem brief with reframed questions, scoped boundaries, and a minimum viable research plan."
+description: "将模糊的机会和不清晰的简报整理成可执行的一页纸问题陈述。当被要求澄清模糊简报、界定未明确的问题、理清不清的机会，或当用户说「我们需要弄清楚该怎么处理 X」或「我被安排去研究 Y」时使用。产出结构化问题简报，包含重新框定的问题、界定清晰的范围边界以及最小可行研究计划。 | Structure vague opportunities and unclear briefs into actionable one-page problem statements. Use when asked to clarify a vague brief, frame an undefined problem, make sense of an unclear opportunity, or when the user says 'we need to figure out what to do about X' or 'I've been asked to look into Y'. Produces a structured problem brief with reframed questions, scoped boundaries, and a minimum viable research plan."
 ---
 
 # Ambiguity Resolver Skill

@@ -1,7 +1,7 @@
 ---
 name: ros2-development
 description: >
-  Comprehensive best practices, design patterns, and common pitfalls for ROS2 (Robot Operating System 2)
+  ROS2（Robot Operating System 2）开发的综合最佳实践、设计模式和常见坑。在构建 ROS2 节点、包、launch 文件、组件或调试 ROS2 系统时使用本技能。当用户提到 ROS2、colcon、rclpy、rclcpp、DDS、QoS、生命周期节点、受管节点、ROS2 launch、ROS2 参数、ROS2 action、nav2、MoveIt2、micro-ROS 或任何 ROS2 时代的机器人中间件时触发。在 ROS2 工作区搭建、DDS 调优、进程内通信、ROS2 安全或生产环境部署 ROS2 时也触发。在 colcon 构建问题、ament_cmake、ament_python、面向 ROS2 的 CMakeLists.txt、package.xml 依赖、rosdep、工作区覆盖、自定义消息生成或 ROS2 构建故障排查时也触发。涵盖 Humble、Iron、Jazzy 和 Rolling 发行版。 |
   development. Use this skill when building ROS2 nodes, packages, launch files, components, or debugging
   ROS2 systems. Trigger whenever the user mentions ROS2, colcon, rclpy, rclcpp, DDS, QoS, lifecycle nodes,
   managed nodes, ROS2 launch, ROS2 parameters, ROS2 actions, nav2, MoveIt2, micro-ROS, or any ROS2-era

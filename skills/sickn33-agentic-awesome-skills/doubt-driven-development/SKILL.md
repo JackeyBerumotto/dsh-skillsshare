@@ -1,6 +1,6 @@
 ---
 name: doubt-driven-development
-description: Subjects every non-trivial decision to a fresh-context adversarial review before it stands. Use when correctness matters more than speed, when working in unfamiliar code, when stakes are high (production, security-sensitive logic, irreversible operations), or any time a confident...
+description: 在每个重要决策成立之前，先将其置于全新上下文的对抗性评审。当正确性比速度更重要、在不熟悉的代码中工作、风险很高（生产环境、安全敏感逻辑、不可逆操作），或任何时候自信的…… | Subjects every non-trivial decision to a fresh-context adversarial review before it stands. Use when correctness matters more than speed, when working in unfamiliar code, when stakes are high (production, security-sensitive logic, irreversible operations), or any time a confident...
 risk: unknown
 source: https://github.com/addyosmani/agent-skills/tree/main/skills/doubt-driven-development
 source_repo: addyosmani/agent-skills

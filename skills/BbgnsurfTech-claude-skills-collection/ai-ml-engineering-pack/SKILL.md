@@ -1,8 +1,5 @@
 ---
-description: This skill optimizes prompts for large language models (llms) to reduce
-  token usage, lower costs, and improve performance. it analyzes the prompt, identifies
-  areas for simplification and redundancy removal, and rewrites the prompt to be more
-  conci...
+description: "本技能优化面向大语言模型（LLM）的提示词，以减少 token 用量、降低成本并提升性能。它分析提示词、找出可简化与去除冗余之处，并重写为更简洁的版本。 | This skill optimizes prompts for large language models (llms) to reduce token usage, lower costs, and improve performance. it analyzes the prompt, identifies areas for simplification and redundancy removal, and rewrites the prompt to be more conci..."
 allowed-tools:
 - Read
 - Write

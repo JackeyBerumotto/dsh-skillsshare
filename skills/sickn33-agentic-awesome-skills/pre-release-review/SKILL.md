@@ -1,6 +1,6 @@
 ---
 name: pre-release-review
-description: "Run a read-only pre-release review for deploy readiness, migrations, config, secrets, rollout order, rollback risk, and launch blockers."
+description: "运行只读的发布前审查，覆盖部署就绪度、迁移、配置、密钥、发布顺序、回滚风险和上线阻碍项。 | Run a read-only pre-release review for deploy readiness, migrations, config, secrets, rollout order, rollback risk, and launch blockers."
 category: operations
 risk: safe
 source: community

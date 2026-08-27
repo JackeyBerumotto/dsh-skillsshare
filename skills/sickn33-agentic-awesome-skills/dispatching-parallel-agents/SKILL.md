@@ -1,6 +1,6 @@
 ---
 name: dispatching-parallel-agents
-description: "Use when facing 2+ independent tasks that can be worked on without shared state or sequential dependencies"
+description: "当面对 2 个以上可独立处理、无共享状态或顺序依赖的任务时使用。 | Use when facing 2+ independent tasks that can be worked on without shared state or sequential dependencies"
 risk: unknown
 source: community
 date_added: "2026-02-27"

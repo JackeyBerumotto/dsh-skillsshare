@@ -1,6 +1,6 @@
 ---
 name: api-framework-fastify
-description: Fastify routes, JSON Schema validation, plugin system, TypeScript type providers
+description: Fastify 路由、JSON Schema 校验、插件系统与 TypeScript 类型提供器 | Fastify routes, JSON Schema validation, plugin system, TypeScript type providers
 ---
 
 # API Development with Fastify

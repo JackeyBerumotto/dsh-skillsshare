@@ -1,6 +1,6 @@
 ---
 name: "cmo-advisor"
-description: "Marketing leadership for scaling companies. Brand positioning, growth model design, marketing budget allocation, and marketing org design. Use when designing brand strategy, selecting growth models (PLG vs sales-led vs community-led), allocating marketing budgets, building marketing teams, or when user mentions CMO, brand strategy, growth model, CAC, LTV, channel mix, or marketing ROI."
+description: "面向成长期公司的营销领导力：品牌定位、增长模型设计、营销预算分配与营销组织设计。在制定品牌战略、选择增长模型（PLG、销售驱动还是社区驱动）、分配营销预算、搭建营销团队，或用户提到 CMO、品牌战略、增长模型、CAC、LTV、渠道组合或营销 ROI 时使用。 | Marketing leadership for scaling companies. Brand positioning, growth model design, marketing budget allocation, and marketing org design. Use when designing brand strategy, selecting growth models (PLG vs sales-led vs community-led), allocating marketing budgets, building marketing teams, or when user mentions CMO, brand strategy, growth model, CAC, LTV, channel mix, or marketing ROI."
 license: MIT
 metadata:
   version: 1.0.0

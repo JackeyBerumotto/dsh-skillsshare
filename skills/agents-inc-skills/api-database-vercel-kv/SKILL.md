@@ -1,6 +1,6 @@
 ---
 name: api-database-vercel-kv
-description: Serverless Redis-compatible key-value store via Upstash REST API -- edge-compatible, automatic JSON serialization, TTL-based caching
+description: 通过 Upstash REST API 使用的无服务器且兼容 Redis 的键值存储——边缘兼容、自动 JSON 序列化、基于 TTL 的缓存。 | Serverless Redis-compatible key-value store via Upstash REST API -- edge-compatible, automatic JSON serialization, TTL-based caching
 ---
 
 # Vercel KV / Upstash Redis Patterns

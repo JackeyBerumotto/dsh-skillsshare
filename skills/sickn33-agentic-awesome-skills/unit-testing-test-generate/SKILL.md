@@ -1,6 +1,6 @@
 ---
 name: unit-testing-test-generate
-description: "Generate comprehensive, maintainable unit tests across languages with strong coverage and edge case focus."
+description: "跨语言生成全面、可维护的单元测试，注重高覆盖率和边界情况。 | Generate comprehensive, maintainable unit tests across languages with strong coverage and edge case focus."
 risk: unknown
 source: community
 date_added: "2026-02-27"

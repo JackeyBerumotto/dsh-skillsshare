@@ -1,6 +1,6 @@
 ---
 name: django-celery
-description: Django + Celery async task patterns — configuration, task design, beat scheduling, retries, canvas workflows, monitoring, and testing. Use when adding background jobs, scheduled tasks, or async processing to a Django app.
+description: Django + Celery 异步任务模式——配置、任务设计、beat 调度、重试、canvas 工作流、监控与测试。当向 Django 应用添加后台作业、定时任务或异步处理时使用。 | Django + Celery async task patterns — configuration, task design, beat scheduling, retries, canvas workflows, monitoring, and testing. Use when adding background jobs, scheduled tasks, or async processing to a Django app.
 metadata:
   origin: ECC
 ---

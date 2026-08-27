@@ -2,7 +2,7 @@
 name: emitting-api-events
 version: 1.0.0
 description: |
-  Build event-driven APIs with webhooks, Server-Sent Events, and real-time notifications.
+  构建带 Webhook、服务器发送事件和实时通知的事件驱动 API。当构建事件驱动 API 架构时使用。触发短语如「add webhooks」「implement events」或「create event-driven API」。 |
   Use when building event-driven API architectures.
   Trigger with phrases like "add webhooks", "implement events", or "create event-driven API".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(api:events-*)

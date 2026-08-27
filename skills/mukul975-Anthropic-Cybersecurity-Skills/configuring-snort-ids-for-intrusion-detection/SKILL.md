@@ -1,10 +1,6 @@
 ---
 name: configuring-snort-ids-for-intrusion-detection
-description: 'Installs, configures, and tunes Snort 3 intrusion detection system to
-  monitor network traffic for malicious activity using custom and community rulesets,
-  preprocessors, and alert output plugins on authorized network segments.
-
-  '
+description: "安装、配置并调优 Snort 3 入侵检测系统，在授权网段上使用自定义和社区规则集、预处理器以及告警输出插件监控网络流量中的恶意活动。 | Installs, configures, and tunes Snort 3 intrusion detection system to monitor network traffic for malicious activity using custom and community rulesets, preprocessors, and alert output plugins on authorized network segments."
 domain: cybersecurity
 subdomain: network-security
 tags:

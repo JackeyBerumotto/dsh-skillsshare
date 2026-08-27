@@ -1,6 +1,6 @@
 ---
 name: pricing-strategy
-description: "Design pricing, packaging, and monetization strategies based on value, customer willingness to pay, and growth objectives."
+description: "基于价值、客户支付意愿和增长目标，设计定价、打包和变现策略。 | Design pricing, packaging, and monetization strategies based on value, customer willingness to pay, and growth objectives."
 risk: unknown
 source: community
 date_added: "2026-02-27"

@@ -1,6 +1,6 @@
 ---
 name: pr-prep
-description: Prepares pull requests by running quality gates, drafting descriptions, and validating tests. Use when completing a feature and ready for review.
+description: 通过运行质量关卡、起草描述和验证测试来准备拉取请求。在完成功能并准备接受评审时使用。 | Prepares pull requests by running quality gates, drafting descriptions, and validating tests. Use when completing a feature and ready for review.
 alwaysApply: false
 category: artifact-generation
 tags:

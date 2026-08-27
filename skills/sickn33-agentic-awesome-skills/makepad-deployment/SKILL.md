@@ -1,7 +1,7 @@
 ---
 name: makepad-deployment
 description: |
-  CRITICAL: Use for Makepad packaging and deployment. Triggers on:
+  关键：用于 Makepad 打包与部署。触发词：deploy、package、APK、IPA、打包、部署、cargo-packager、cargo-makepad、WASM、Android、iOS、distribution、installer、.deb、.dmg、.nsis、GitHub Actions、CI、action、marketplace |
   deploy, package, APK, IPA, 打包, 部署,
   cargo-packager, cargo-makepad, WASM, Android, iOS,
   distribution, installer, .deb, .dmg, .nsis,

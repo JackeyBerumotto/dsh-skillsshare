@@ -1,6 +1,6 @@
 ---
 name: task-planning
-description: Generates phased, dependency-ordered implementation tasks from specifications. Use after spec is complete and before starting implementation.
+description: 根据规格生成按依赖排序的分阶段实施任务。在规格完成之后、开始实施之前使用。 | Generates phased, dependency-ordered implementation tasks from specifications. Use after spec is complete and before starting implementation.
 alwaysApply: false
 category: planning
 tags:

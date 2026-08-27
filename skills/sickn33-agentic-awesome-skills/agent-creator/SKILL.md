@@ -1,6 +1,6 @@
 ---
 name: agent-creator
-description: "Create custom AI subagents with proper plugin structure, persona generation, and companion routing skills."
+description: "创建自定义 AI 子智能体，具备规范的插件结构、人设生成和配套路由技能。 | Create custom AI subagents with proper plugin structure, persona generation, and companion routing skills."
 risk: critical
 source: community
 date_added: "2026-06-20"

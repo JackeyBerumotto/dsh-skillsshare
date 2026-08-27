@@ -1,6 +1,6 @@
 ---
 name: detecting-data-and-model-poisoning
-description: Identify poisoned training data and backdoored models across the ML pipeline.
+description: 在机器学习流水线中识别被投毒的训练数据和带后门的模型。 | Identify poisoned training data and backdoored models across the ML pipeline.
 domain: cybersecurity
 subdomain: ai-security
 tags:

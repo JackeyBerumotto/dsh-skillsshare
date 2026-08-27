@@ -1,8 +1,6 @@
 ---
 name: scanning-kubernetes-manifests-with-kubesec
-description: Perform security risk analysis on Kubernetes resource manifests using
-  Kubesec to identify misconfigurations, privilege escalation risks, and deviations
-  from security best practices.
+description: "使用 Kubesec 对 Kubernetes 资源清单执行安全风险分析，识别错误配置、权限提升风险以及偏离安全最佳实践之处。 | Perform security risk analysis on Kubernetes resource manifests using Kubesec to identify misconfigurations, privilege escalation risks, and deviations from security best practices."
 domain: cybersecurity
 subdomain: container-security
 tags:

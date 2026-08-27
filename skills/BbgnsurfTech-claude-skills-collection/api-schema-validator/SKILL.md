@@ -2,7 +2,7 @@
 name: validating-api-schemas
 version: 1.0.0
 description: |
-  Validate API schemas against OpenAPI, JSON Schema, and GraphQL specifications.
+  根据 OpenAPI、JSON Schema 和 GraphQL 规范验证 API 模式。在验证 API 模式和契约时使用。触发词如「validate API schema」「check OpenAPI spec」或「verify schema」。 |
   Use when validating API schemas and contracts.
   Trigger with phrases like "validate API schema", "check OpenAPI spec", or "verify schema".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(api:schema-*)

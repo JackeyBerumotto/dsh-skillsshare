@@ -1,6 +1,6 @@
 ---
 name: windows-desktop-e2e
-description: E2E testing for Windows native desktop apps (WPF, WinForms, Win32/MFC, Qt) using pywinauto and Windows UI Automation.
+description: 使用 pywinauto 和 Windows UI Automation 对 Windows 原生桌面应用（WPF、WinForms、Win32/MFC、Qt）进行 E2E 测试。 | E2E testing for Windows native desktop apps (WPF, WinForms, Win32/MFC, Qt) using pywinauto and Windows UI Automation.
 metadata:
   origin: ECC
 ---

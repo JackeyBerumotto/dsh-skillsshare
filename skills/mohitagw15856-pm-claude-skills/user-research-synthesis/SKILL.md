@@ -1,6 +1,6 @@
 ---
 name: user-research-synthesis
-description: "Analyze and synthesize user research findings into structured, actionable insights. Use when given user research data, interview transcripts, survey results, or user feedback that needs to be analyzed and summarised. Produces a themed synthesis with prevalence data, supporting quotes, pain points analysis, feature request prioritisation, and recommended next steps. For interview transcripts specifically use user-interview-synthesis instead."
+description: "将用户研究发现分析与综合为结构化、可执行的洞察。在拿到需要分析和归纳的用户研究数据、访谈记录、调查结果或用户反馈时使用。产出按主题的综合分析，包含出现频次数据、支撑性引语、痛点分析、功能请求优先级排序和建议的后续步骤。若处理的是访谈记录，请改用 user-interview-synthesis。 | Analyze and synthesize user research findings into structured, actionable insights. Use when given user research data, interview transcripts, survey results, or user feedback that needs to be analyzed and summarised. Produces a themed synthesis with prevalence data, supporting quotes, pain points analysis, feature request prioritisation, and recommended next steps. For interview transcripts specifically use user-interview-synthesis instead."
 ---
 
 # User Research Synthesis Skill

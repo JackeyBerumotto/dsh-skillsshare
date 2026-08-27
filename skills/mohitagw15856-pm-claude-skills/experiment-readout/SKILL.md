@@ -1,6 +1,6 @@
 ---
 name: experiment-readout
-description: "Analyse a finished A/B test and write an honest results readout with real statistics. Use when asked to read out an A/B test, analyse experiment results, check if a result is statistically significant, or decide ship/no-ship from test data. Produces a readout — the computed lift, p-value & confidence interval, a significance verdict, guardrail check, and a clear ship / no-ship / iterate recommendation. Includes a stdlib significance calculator."
+description: "分析已完成的 A/B 测试，撰写基于真实统计的诚实结果报告。当被要求解读 A/B 测试、分析实验结果、检验结果是否具有统计显著性，或依据测试数据决定是否上线时使用。产出一份报告——计算得出的提升幅度、p 值与置信区间、显著性判定、护栏指标检查，以及明确的上线／不上线／继续迭代建议。内置仅依赖标准库的显著性计算器。 | Analyse a finished A/B test and write an honest results readout with real statistics. Use when asked to read out an A/B test, analyse experiment results, check if a result is statistically significant, or decide ship/no-ship from test data. Produces a readout — the computed lift, p-value & confidence interval, a significance verdict, guardrail check, and a clear ship / no-ship / iterate recommendation. Includes a stdlib significance calculator."
 ---
 
 # Experiment Readout Skill

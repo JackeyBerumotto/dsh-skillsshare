@@ -1,6 +1,6 @@
 ---
 name: slop-detector
-description: Detects AI-generated writing patterns in prose. Use when reviewing docs for slop, vague language, or identity leaks before publishing.
+description: 检测散文中的 AI 生成写作模式。在发布前审查文档中的低质内容、含糊表述或身份泄露时使用。 | Detects AI-generated writing patterns in prose. Use when reviewing docs for slop, vague language, or identity leaks before publishing.
 globs: "**/*.md"
 alwaysApply: false
 category: writing-quality

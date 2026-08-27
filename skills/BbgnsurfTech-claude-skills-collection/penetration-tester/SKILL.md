@@ -1,6 +1,6 @@
 ---
 name: performing-penetration-testing
-description: Perform security penetration testing to identify vulnerabilities. Use when conducting security assessments. Trigger with 'run pentest', 'security testing', or 'find vulnerabilities'.
+description: 执行安全渗透测试以识别漏洞。在进行安全评估时使用。触发词：「run pentest」「security testing」或「find vulnerabilities」。 | Perform security penetration testing to identify vulnerabilities. Use when conducting security assessments. Trigger with 'run pentest', 'security testing', or 'find vulnerabilities'.
 version: 1.0.0
 allowed-tools:
 - Read

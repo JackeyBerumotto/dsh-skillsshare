@@ -1,6 +1,6 @@
 ---
 name: codex-subagent
-description: "Launch Codex CLI as an isolated subagent for bounded coding, review, or verification tasks."
+description: "将 Codex CLI 作为隔离的子代理启动，用于有边界的编码、审查或验证任务。 | Launch Codex CLI as an isolated subagent for bounded coding, review, or verification tasks."
 category: agent-orchestration
 risk: critical
 source: community

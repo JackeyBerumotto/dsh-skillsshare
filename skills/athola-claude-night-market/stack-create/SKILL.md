@@ -1,6 +1,6 @@
 ---
 name: stack-create
-description: Initializes a stacked branch set from an ordered plan, one branch per slice with parent-child links. Use when a plan has 2+ sequentially dependent changes.
+description: 根据有序计划初始化一组堆叠分支，每个切片一个分支并带有父子链接。在计划包含 2 个以上顺序依赖的变更时使用。 | Initializes a stacked branch set from an ordered plan, one branch per slice with parent-child links. Use when a plan has 2+ sequentially dependent changes.
 alwaysApply: false
 category: workflow-automation
 tags:

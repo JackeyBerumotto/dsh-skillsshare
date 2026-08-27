@@ -1,6 +1,6 @@
 ---
 name: performance-optimization
-description: Optimizes application performance. Use when performance requirements exist, when you suspect performance regressions, or when Core Web Vitals or load times need improvement. Use when profiling reveals bottlenecks that need fixing.
+description: 优化应用性能。在存在性能要求、怀疑性能回退、需要改进 Core Web Vitals 或加载时间时使用。当性能分析揭示需要修复的瓶颈时也会用到。 | Optimizes application performance. Use when performance requirements exist, when you suspect performance regressions, or when Core Web Vitals or load times need improvement. Use when profiling reveals bottlenecks that need fixing.
 risk: unknown
 source: https://github.com/addyosmani/agent-skills/tree/main/skills/performance-optimization
 source_repo: addyosmani/agent-skills

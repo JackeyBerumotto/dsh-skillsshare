@@ -1,6 +1,6 @@
 ---
 name: web-testing-playwright-e2e
-description: Playwright E2E testing patterns - test structure, Page Object Model, locator strategies, assertions, network mocking, visual regression, parallel execution, fixtures, and configuration
+description: Playwright E2E 测试模式——测试结构、Page Object Model、定位器策略、断言、网络 mock、视觉回归、并行执行、fixture 和配置 | Playwright E2E testing patterns - test structure, Page Object Model, locator strategies, assertions, network mocking, visual regression, parallel execution, fixtures, and configuration
 ---
 
 # Playwright E2E Testing Patterns

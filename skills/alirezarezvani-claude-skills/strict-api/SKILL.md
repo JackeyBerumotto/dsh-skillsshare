@@ -1,6 +1,6 @@
 ---
 name: "strict-api"
-description: "Use when the user says 'no hallucinations', 'verify APIs', 'reality check', or 'don't invent functions'. Prevents the agent from calling methods, imports, or variables that do not provably exist in the user's installed version."
+description: "当用户说「不要幻觉」（no hallucinations）、「验证 API」（verify APIs）、「现实核查」（reality check）或「不要编造函数」时使用。防止代理调用在用户已安装版本中无法证明存在的方法、导入或变量。 | Use when the user says 'no hallucinations', 'verify APIs', 'reality check', or 'don't invent functions'. Prevents the agent from calling methods, imports, or variables that do not provably exist in the user's installed version."
 ---
 
 # Strict API Verification

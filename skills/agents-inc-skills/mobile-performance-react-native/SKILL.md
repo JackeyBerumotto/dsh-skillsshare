@@ -1,6 +1,6 @@
 ---
 name: mobile-performance-react-native
-description: React Native performance profiling, optimization, and monitoring - JS/UI thread analysis, re-render prevention, list optimization, image performance, bundle size, startup time, memory leaks, React Compiler, New Architecture benefits
+description: React Native 性能分析、优化与监控：JS/UI 线程分析、防止重复渲染、列表优化、图片性能、包体积、启动时间、内存泄漏、React Compiler、新架构收益。 | React Native performance profiling, optimization, and monitoring - JS/UI thread analysis, re-render prevention, list optimization, image performance, bundle size, startup time, memory leaks, React Compiler, New Architecture benefits
 ---
 
 # React Native Performance Patterns

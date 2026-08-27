@@ -1,6 +1,6 @@
 ---
 name: frontend-architecture
-description: A portable, framework-agnostic architecture style for any React or React Native frontend. Organizes apps into feature modules with page/screen directories, a strict server-state vs UI-state split, barrel-only cross-module imports, co-located styles, and clear component-promotion rules....
+description: 一套可移植、与框架无关的架构风格，适用于任何 React 或 React Native 前端。将应用组织为带页面或屏幕目录的功能模块，严格区分服务端状态与 UI 状态，跨模块仅通过 barrel 文件导入，样式就近放置，并配以清晰的组件晋升规则…… | A portable, framework-agnostic architecture style for any React or React Native frontend. Organizes apps into feature modules with page/screen directories, a strict server-state vs UI-state split, barrel-only cross-module imports, co-located styles, and clear component-promotion rules....
 risk: unknown
 source: https://github.com/stareezy-1/frontend-architecture-skill/tree/main/skills/frontend-architecture
 source_repo: stareezy-1/frontend-architecture-skill

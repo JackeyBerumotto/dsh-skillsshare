@@ -1,7 +1,7 @@
 ---
 name: inventory-demand-planning
 description: >
-  Codified expertise for demand forecasting, safety stock optimization,
+  面向多门店零售商的需求预测、安全库存优化、补货计划和促销提升估计的体系化专业知识。基于管理过数百个 SKU、拥有 15 年以上经验的需求计划人员整理而成。包含预测方法选择、ABC/XYZ 分析、季节性转换管理和供应商谈判框架。在预测需求、设定安全库存、规划补货、管理促销或优化库存水平时使用。 |
   replenishment planning, and promotional lift estimation at multi-location
   retailers. Informed by demand planners with 15+ years experience managing
   hundreds of SKUs. Includes forecasting method selection, ABC/XYZ analysis,

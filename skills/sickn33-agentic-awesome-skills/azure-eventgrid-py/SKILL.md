@@ -1,6 +1,6 @@
 ---
 name: azure-eventgrid-py
-description: Azure Event Grid SDK for Python. Use for publishing events, handling CloudEvents, and event-driven architectures.
+description: 适用于 Python 的 Azure Event Grid SDK。用于发布事件、处理 CloudEvents 以及构建事件驱动架构。 | Azure Event Grid SDK for Python. Use for publishing events, handling CloudEvents, and event-driven architectures.
 risk: unknown
 source: community
 date_added: '2026-02-27'

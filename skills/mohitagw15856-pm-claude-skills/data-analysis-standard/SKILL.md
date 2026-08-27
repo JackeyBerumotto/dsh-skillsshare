@@ -1,6 +1,6 @@
 ---
 name: data-analysis-standard
-description: "Structure a product data analysis, metric deep-dive, funnel analysis, or cohort study. Use when asked to analyse product metrics, investigate a drop in conversion, explain a data change to stakeholders, or find the root cause of a metric movement. Produces a structured analysis with question, root cause, confidence level, and recommended action."
+description: "构建产品数据分析、指标深挖、漏斗分析或队列研究。当被要求分析产品指标、调查转化率下滑、向利益相关者解释数据变化，或找出指标波动的根因时使用。产出结构化分析，包含问题、根因、置信度和建议行动。 | Structure a product data analysis, metric deep-dive, funnel analysis, or cohort study. Use when asked to analyse product metrics, investigate a drop in conversion, explain a data change to stakeholders, or find the root cause of a metric movement. Produces a structured analysis with question, root cause, confidence level, and recommended action."
 ---
 
 # Data Analysis Standard Skill

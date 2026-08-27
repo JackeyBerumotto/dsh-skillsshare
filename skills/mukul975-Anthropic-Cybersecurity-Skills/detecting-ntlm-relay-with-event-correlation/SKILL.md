@@ -1,11 +1,6 @@
 ---
 name: detecting-ntlm-relay-with-event-correlation
-description: 'Detect NTLM relay attacks through Windows Security Event correlation
-  by analyzing Event 4624 LogonType 3 for IP-to-hostname mismatches, identifying Responder/LLMNR
-  poisoning artifacts, auditing SMB and LDAP signing enforcement across the domain,
-  and detecting NTLM downgrade attacks from NTLMv2 to NTLMv1 using event log analysis.
-
-  '
+description: "通过 Windows 安全事件关联检测 NTLM 中继攻击：分析事件 4624 登录类型 3 以发现 IP 与主机名不匹配，识别 Responder/LLMNR 投毒痕迹，审计全域 SMB 和 LDAP 签名强制执行情况，并利用事件日志分析检测从 NTLMv2 到 NTLMv1 的 NTLM 降级攻击。 | Detect NTLM relay attacks through Windows Security Event correlation by analyzing Event 4624 LogonType 3 for IP-to-hostname mismatches, identifying Responder/LLMNR poisoning artifacts, auditing SMB and LDAP signing enforcement across the domain, and detecting NTLM downgrade attacks from NTLMv2 to NTLMv1 using event log analysis."
 domain: cybersecurity
 subdomain: threat-hunting
 tags:

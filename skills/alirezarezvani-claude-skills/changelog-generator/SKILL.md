@@ -1,6 +1,6 @@
 ---
 name: "changelog-generator"
-description: "Produce consistent, auditable release notes from Conventional Commits. Separates commit parsing, semantic-bump logic, and changelog rendering for automated releases with editorial control. Use when cutting a release, generating CHANGELOG.md from git history, computing the next semantic version from commits, automating release notes in CI, or planning a hotfix/rollback. Examples: 'generate the changelog for v1.4.0', 'what version bump do these commits require', 'we need an emergency hotfix process'."
+description: "从 Conventional Commits 生成一致且可审计的发布说明。将提交解析、语义化版本升级逻辑和变更日志渲染分离，实现带编辑控制权的自动化发布。在切版本发布、从 git 历史生成 CHANGELOG.md、从提交计算下一个语义化版本、在 CI 中自动化发布说明，或规划热修复/回滚时使用。示例：「generate the changelog for v1.4.0」「这些提交需要什么样的版本升级」「我们需要紧急热修复流程」。 | Produce consistent, auditable release notes from Conventional Commits. Separates commit parsing, semantic-bump logic, and changelog rendering for automated releases with editorial control. Use when cutting a release, generating CHANGELOG.md from git history, computing the next semantic version from commits, automating release notes in CI, or planning a hotfix/rollback. Examples: 'generate the changelog for v1.4.0', 'what version bump do these commits require', 'we need an emergency hotfix process'."
 ---
 
 # Changelog Generator

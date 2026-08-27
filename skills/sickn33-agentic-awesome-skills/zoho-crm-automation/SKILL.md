@@ -1,6 +1,6 @@
 ---
 name: zoho-crm-automation
-description: "Automate Zoho CRM tasks via Rube MCP (Composio): create/update records, search contacts, manage leads, and convert leads. Always search tools first for current schemas."
+description: "通过 Rube MCP（Composio）自动化 Zoho CRM 任务：创建/更新记录、搜索联系人、管理潜在客户以及转化潜在客户。务必先搜索工具以获取最新 schema。 | Automate Zoho CRM tasks via Rube MCP (Composio): create/update records, search contacts, manage leads, and convert leads. Always search tools first for current schemas."
 risk: critical
 source: community
 date_added: "2026-02-27"

@@ -1,6 +1,6 @@
 ---
 name: file-analysis
-description: Maps file structure and module organization of a codebase. Use before architecture reviews, refactoring planning, or migration scope estimation.
+description: 梳理代码库的文件结构与模块组织。在架构评审、重构规划或迁移范围估算之前使用。 | Maps file structure and module organization of a codebase. Use before architecture reviews, refactoring planning, or migration scope estimation.
 alwaysApply: false
 category: workspace-ops
 tags:

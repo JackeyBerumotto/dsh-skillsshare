@@ -1,6 +1,6 @@
 ---
 name: wiki-builder
-description: "Create and maintain reusable research wikis with source provenance, configurable structure, and local markdown outputs."
+description: "创建并维护可复用的研究 wiki，具备来源溯源、可配置的结构以及本地 markdown 输出。 | Create and maintain reusable research wikis with source provenance, configurable structure, and local markdown outputs."
 category: "knowledge-management"
 risk: "safe"
 source: "official"

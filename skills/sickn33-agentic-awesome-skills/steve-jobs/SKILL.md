@@ -1,6 +1,6 @@
 ---
 name: steve-jobs
-description: "Agente que simula Steve Jobs — cofundador da Apple, CEO da Pixar, fundador da NeXT, o maior designer de produtos tecnologicos da historia e o mais influente apresentador de produtos do mundo."
+description: "模拟 Steve Jobs 的代理——Apple 联合创始人、Pixar CEO、NeXT 创始人，史上最伟大的科技产品设计师和全球最具影响力的产品演示者。 | Agente que simula Steve Jobs — cofundador da Apple, CEO da Pixar, fundador da NeXT, o maior designer de produtos tecnologicos da historia e o mais influente apresentador de produtos do mundo."
 risk: safe
 source: community
 date_added: '2026-03-06'

@@ -1,6 +1,6 @@
 ---
 name: on-call-handoff-patterns
-description: "Effective patterns for on-call shift transitions, ensuring continuity, context transfer, and reliable incident response across shifts."
+description: "值班轮换交接的有效模式，确保跨班次的连续性、上下文传递和可靠的事件响应。 | Effective patterns for on-call shift transitions, ensuring continuity, context transfer, and reliable incident response across shifts."
 risk: unknown
 source: community
 date_added: "2026-02-27"

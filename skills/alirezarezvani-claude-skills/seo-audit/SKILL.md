@@ -1,6 +1,6 @@
 ---
 name: "seo-audit"
-description: When the user wants to audit, review, or diagnose SEO issues on their site. Also use when the user mentions "SEO audit," "technical SEO," "why am I not ranking," "SEO issues," "on-page SEO," "meta tags review," or "SEO health check." For building pages at scale to target keywords, see programmatic-seo. For adding structured data, see schema-markup.
+description: 当用户想要审计、审查或诊断站点 SEO 问题时使用。当用户提到「SEO audit」「technical SEO」「why am I not ranking」「SEO issues」「on-page SEO」「meta tags review」或「SEO health check」时也应使用。大规模构建面向关键词的页面见 programmatic-seo。添加结构化数据见 schema-markup。 | When the user wants to audit, review, or diagnose SEO issues on their site. Also use when the user mentions "SEO audit," "technical SEO," "why am I not ranking," "SEO issues," "on-page SEO," "meta tags review," or "SEO health check." For building pages at scale to target keywords, see programmatic-seo. For adding structured data, see schema-markup.
 license: MIT
 metadata:
   version: 1.0.0

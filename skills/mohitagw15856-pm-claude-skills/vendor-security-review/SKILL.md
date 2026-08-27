@@ -1,6 +1,6 @@
 ---
 name: vendor-security-review
-description: "Run a third-party / vendor security review and assign a risk tier with required controls. Use when asked to assess a vendor's security, run a third-party risk assessment, complete a security questionnaire about a vendor, or decide what due diligence a new tool needs. Produces a vendor risk assessment — a data/access-driven risk tier, the questionnaire focus, required evidence (SOC 2, pen test, DPA), residual risk, and an approve/conditional/reject recommendation."
+description: "运行第三方/供应商安全审查并评定风险等级及所需控制措施。当被要求评估供应商安全性、执行第三方风险评估、填写关于供应商的安全问卷，或决定新工具需要何种尽职调查时使用。产出供应商风险评估——由数据/访问驱动的风险等级、问卷重点、所需证据（SOC 2、渗透测试、DPA）、剩余风险，以及批准/有条件批准/拒绝的建议。 | Run a third-party / vendor security review and assign a risk tier with required controls. Use when asked to assess a vendor's security, run a third-party risk assessment, complete a security questionnaire about a vendor, or decide what due diligence a new tool needs. Produces a vendor risk assessment — a data/access-driven risk tier, the questionnaire focus, required evidence (SOC 2, pen test, DPA), residual risk, and an approve/conditional/reject recommendation."
 ---
 
 # Vendor Security Review Skill

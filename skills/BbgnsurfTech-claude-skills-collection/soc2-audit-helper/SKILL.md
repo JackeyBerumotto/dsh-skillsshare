@@ -1,7 +1,7 @@
 ---
 name: assisting-with-soc2-audit-preparation
 description: |
-  Automate SOC 2 audit preparation including evidence gathering, control assessment, and compliance gap identification.
+  自动化 SOC 2 审计准备工作，包括证据收集、控制评估和合规差距识别。当需要为 SOC 2 审计做准备、评估信任服务准则合规性、记录安全控制措施或生成准备就绪报告时使用。触发短语包括「SOC 2 audit preparation」、「SOC 2 readiness assessment」、「collect SOC 2 evidence」或「Trust Service Criteria compliance」。 |
   Use when you need to prepare for SOC 2 audits, assess Trust Service Criteria compliance, document security controls, or generate readiness reports.
   Trigger with phrases like "SOC 2 audit preparation", "SOC 2 readiness assessment", "collect SOC 2 evidence", or "Trust Service Criteria compliance".
 allowed-tools:

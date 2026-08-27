@@ -1,6 +1,6 @@
 ---
 name: backend-development-feature-development
-description: "Orchestrate end-to-end backend feature development from requirements to deployment. Use when coordinating multi-phase feature delivery across teams and services."
+description: "编排从需求到部署的端到端后端功能开发。在跨团队和服务协调多阶段功能交付时使用。 | Orchestrate end-to-end backend feature development from requirements to deployment. Use when coordinating multi-phase feature delivery across teams and services."
 risk: unknown
 source: community
 date_added: "2026-02-27"

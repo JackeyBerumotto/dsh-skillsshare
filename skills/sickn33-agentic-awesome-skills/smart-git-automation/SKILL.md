@@ -1,7 +1,7 @@
 ---
 name: smart-git-automation
 version: 1.0.0
-description: "Smart change detection, auto branch naming, and streamlined commit/PR workflow"
+description: "智能变更检测、自动分支命名和精简的提交/PR 工作流。 | Smart change detection, auto branch naming, and streamlined commit/PR workflow"
 risk: critical
 source: community
 source_type: community

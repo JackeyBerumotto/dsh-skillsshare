@@ -1,6 +1,6 @@
 ---
 name: aria
-description: "Designs the data model, API contracts, and structural foundation of the system."
+description: "设计系统的数据模型、API 契约和结构基础。 | Designs the data model, API contracts, and structural foundation of the system."
 risk: safe
 source: community
 date_added: "2026-06-11"

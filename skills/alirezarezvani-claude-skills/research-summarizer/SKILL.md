@@ -1,6 +1,6 @@
 ---
 name: "research-summarizer"
-description: "Structured research summarization agent skill for non-dev users. Handles academic papers, web articles, reports, and documentation. Extracts key findings, generates comparative analyses, and produces properly formatted citations. Use when: user wants to summarize a research paper, compare multiple sources, extract citations from documents, or create structured research briefs. Plugin for Claude Code, Codex, Gemini CLI, and OpenClaw."
+description: "面向非开发用户的结构化研究摘要代理技能。处理学术论文、网络文章、报告和文档。提取关键发现、生成对比分析并产出格式规范的引文。当用户想总结研究论文、比较多个来源、从文档中提取引文或创建结构化研究简报时使用。适用于 Claude Code、Codex、Gemini CLI 和 OpenClaw 的插件。 | Structured research summarization agent skill for non-dev users. Handles academic papers, web articles, reports, and documentation. Extracts key findings, generates comparative analyses, and produces properly formatted citations. Use when: user wants to summarize a research paper, compare multiple sources, extract citations from documents, or create structured research briefs. Plugin for Claude Code, Codex, Gemini CLI, and OpenClaw."
 license: MIT
 metadata:
   version: 1.0.0

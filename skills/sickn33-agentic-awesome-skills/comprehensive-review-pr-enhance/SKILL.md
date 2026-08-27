@@ -1,7 +1,7 @@
 ---
 name: comprehensive-review-pr-enhance
 description: >
-  Generate structured PR descriptions from diffs, add review checklists,
+  根据 diff 生成结构化 PR 描述，添加审查清单、风险评估和测试覆盖率摘要。当用户说「write a PR description」、「improve this PR」、「summarize my changes」、「PR review」、「pull request」，或要求为审查者记录 diff 时使用。 |
   risk assessments, and test coverage summaries. Use when the user says
   "write a PR description", "improve this PR", "summarize my changes",
   "PR review", "pull request", or asks to document a diff for reviewers.

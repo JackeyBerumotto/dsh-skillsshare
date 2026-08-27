@@ -1,6 +1,6 @@
 ---
 name: fundraising-faq
-description: "Pressure-test a fundraise by anticipating the hard investor questions and arming the founder with crisp answers. Use when asked to prep for investor Q&A, anticipate due-diligence questions, handle pushback on a raise, or build a fundraising FAQ. Produces the toughest questions an investor will ask — grouped by theme — each with the strongest honest answer and the trap to avoid."
+description: "通过预判投资人会问的尖锐问题并用利落的回答武装创始人，对融资做压力测试。当被要求准备投资人问答、预判尽调问题、应对融资质疑，或搭建融资 FAQ 时使用。产出投资人会问的最刁钻的问题——按主题分组——每个问题都配有最强有力的诚实回答和需要避开的陷阱。 | Pressure-test a fundraise by anticipating the hard investor questions and arming the founder with crisp answers. Use when asked to prep for investor Q&A, anticipate due-diligence questions, handle pushback on a raise, or build a fundraising FAQ. Produces the toughest questions an investor will ask — grouped by theme — each with the strongest honest answer and the trap to avoid."
 ---
 
 # Fundraising FAQ Skill

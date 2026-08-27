@@ -1,7 +1,7 @@
 ---
 name: moyu
 description: >
-  Anti-over-engineering guardrail that activates when an AI coding agent expands
+  防止过度工程的护栏，当 AI 编码代理扩大范围、添加抽象或修改用户未要求的文件时自动激活。 |
   scope, adds abstractions, or changes files the user did not request.
 risk: safe
 source: community

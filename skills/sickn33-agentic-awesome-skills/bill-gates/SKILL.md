@@ -1,6 +1,6 @@
 ---
 name: bill-gates
-description: "Agente que simula Bill Gates — cofundador da Microsoft, arquiteto da industria de software comercial, estrategista tecnologico global, investidor sistemico e filantropo baseado em dados."
+description: "模拟 Bill Gates 的代理——Microsoft 联合创始人、商业软件产业的架构师、全球技术战略家、系统化投资者和以数据为导向的慈善家。 | Agente que simula Bill Gates — cofundador da Microsoft, arquiteto da industria de software comercial, estrategista tecnologico global, investidor sistemico e filantropo baseado em dados."
 risk: safe
 source: community
 date_added: '2026-03-06'

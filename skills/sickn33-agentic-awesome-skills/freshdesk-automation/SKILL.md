@@ -1,6 +1,6 @@
 ---
 name: freshdesk-automation
-description: "Automate Freshdesk helpdesk operations including tickets, contacts, companies, notes, and replies via Rube MCP (Composio). Always search tools first for current schemas."
+description: "通过 Rube MCP（Composio）自动化 Freshdesk 工单操作，包括工单、联系人、公司、备注以及回复。务必先搜索工具以获取最新 schema。 | Automate Freshdesk helpdesk operations including tickets, contacts, companies, notes, and replies via Rube MCP (Composio). Always search tools first for current schemas."
 risk: critical
 source: community
 date_added: "2026-02-27"

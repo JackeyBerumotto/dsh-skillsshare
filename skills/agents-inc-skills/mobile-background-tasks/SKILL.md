@@ -1,6 +1,6 @@
 ---
 name: mobile-background-tasks
-description: Background fetch, processing tasks, background location, headless JS, battery optimization - Expo and bare React Native
+description: 后台抓取、后台处理任务、后台定位、无界面 JS、电池优化——Expo 与裸 React Native | Background fetch, processing tasks, background location, headless JS, battery optimization - Expo and bare React Native
 ---
 
 # React Native Background Tasks

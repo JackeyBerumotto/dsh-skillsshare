@@ -1,7 +1,7 @@
 ---
 name: seo-images
 description: >
-  Image optimization analysis for SEO and performance. Checks alt text, file
+  面向 SEO 与性能的图片优化分析。检查替代文本、文件大小、格式、响应式图片、懒加载和 CLS 预防。当用户提到「image optimization」、「alt text」、「image SEO」、「image size」或「image audit」时使用。 |
   sizes, formats, responsive images, lazy loading, and CLS prevention. Use when
   user says "image optimization", "alt text", "image SEO", "image size",
   or "image audit".

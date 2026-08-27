@@ -1,6 +1,6 @@
 ---
 name: azure-storage-queue-rust
-description: 'Azure Queue Storage library for Rust. Send, receive, and manage queue messages. Triggers: "queue storage rust", "QueueClient rust", "send message rust", "receive messages rust", "QueueServiceClient rust", "queue rust".'
+description: '适用于 Rust 的 Azure Queue Storage 库。发送、接收和管理队列消息。触发词：「queue storage rust」「QueueClient rust」「send message rust」「receive messages rust」「QueueServiceClient rust」「queue rust」。 | Azure Queue Storage library for Rust. Send, receive, and manage queue messages. Triggers: "queue storage rust", "QueueClient rust", "send message rust", "receive messages rust", "QueueServiceClient rust", "queue rust".'
 risk: unknown
 source: https://github.com/microsoft/skills/tree/main/.github/plugins/azure-sdk-rust/skills/azure-storage-queue-rust
 source_repo: microsoft/skills

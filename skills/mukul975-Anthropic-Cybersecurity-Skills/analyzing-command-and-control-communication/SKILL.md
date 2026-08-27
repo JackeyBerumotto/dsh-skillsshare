@@ -1,12 +1,6 @@
 ---
 name: analyzing-command-and-control-communication
-description: 'Analyzes malware command-and-control (C2) communication protocols to
-  understand beacon patterns, command structures, data encoding, and infrastructure.
-  Covers HTTP, HTTPS, DNS, and custom protocol C2 analysis for detection development
-  and threat intelligence. Activates for requests involving C2 analysis, beacon detection,
-  C2 protocol reverse engineering, or command-and-control infrastructure mapping.
-
-  '
+description: "分析恶意软件命令控制（C2）通信协议，理解心跳模式、命令结构、数据编码和基础设施。涵盖 HTTP、HTTPS、DNS 和自定义协议的 C2 分析，用于检测规则开发和威胁情报。当请求涉及 C2 分析、心跳检测、C2 协议逆向工程或命令控制基础设施映射时激活。 | Analyzes malware command-and-control (C2) communication protocols to understand beacon patterns, command structures, data encoding, and infrastructure. Covers HTTP, HTTPS, DNS, and custom protocol C2 analysis for detection development and threat intelligence. Activates for requests involving C2 analysis, beacon detection, C2 protocol reverse engineering, or command-and-control infrastructure mapping."
 domain: cybersecurity
 subdomain: malware-analysis
 tags:

@@ -1,6 +1,6 @@
 ---
 name: skill-creator
-description: "To create new CLI skills following Anthropic's official best practices with zero manual configuration. This skill automates brainstorming, template application, validation, and installation processes while maintaining progressive disclosure patterns and writing style standards."
+description: "按照 Anthropic 官方最佳实践创建全新 CLI 技能，无需任何手动配置。该技能可自动化头脑风暴、模板应用、验证和安装流程，同时保持渐进式披露模式和写作风格规范。 | To create new CLI skills following Anthropic's official best practices with zero manual configuration. This skill automates brainstorming, template application, validation, and installation processes while maintaining progressive disclosure patterns and writing style standards."
 category: meta
 risk: safe
 source: community

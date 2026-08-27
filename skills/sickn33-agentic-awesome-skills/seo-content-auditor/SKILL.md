@@ -1,6 +1,6 @@
 ---
 name: seo-content-auditor
-description: Analyzes provided content for quality, E-E-A-T signals, and SEO best practices. Scores content and provides improvement recommendations based on established guidelines.
+description: 分析所提供内容的质量、E-E-A-T 信号与 SEO 最佳实践。对内容评分，并依据既定准则提出改进建议。 | Analyzes provided content for quality, E-E-A-T signals, and SEO best practices. Scores content and provides improvement recommendations based on established guidelines.
 risk: safe
 source: community
 date_added: '2026-02-27'

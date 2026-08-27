@@ -1,6 +1,6 @@
 ---
 name: elixir-pro
-description: Write idiomatic Elixir code with OTP patterns, supervision trees, and Phoenix LiveView. Masters concurrency, fault tolerance, and distributed systems.
+description: 编写地道的 Elixir 代码，运用 OTP 模式、监督树和 Phoenix LiveView。精通并发、容错和分布式系统。 | Write idiomatic Elixir code with OTP patterns, supervision trees, and Phoenix LiveView. Masters concurrency, fault tolerance, and distributed systems.
 risk: unknown
 source: community
 date_added: '2026-02-27'

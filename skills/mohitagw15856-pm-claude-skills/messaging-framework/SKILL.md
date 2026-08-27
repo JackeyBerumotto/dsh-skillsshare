@@ -1,6 +1,6 @@
 ---
 name: messaging-framework
-description: "Build a messaging framework (message house) that the whole company can use consistently. Use when asked to create messaging, a value proposition, a message house, key messages, or to make marketing/sales/product say the same thing. Produces a messaging framework — audience & value proposition, the one-line positioning, 3 message pillars with proof points, objection handling, and a words-we-use/avoid list."
+description: "构建全公司可以一致使用的信息传递框架（信息屋）。当被要求创建信息传递内容、价值主张、信息屋、关键信息，或让市场、销售、产品口径一致时使用。产出信息框架——受众与价值主张、一句话定位、3 条带证据的信息支柱、异议应对，以及用词与避用词清单。 | Build a messaging framework (message house) that the whole company can use consistently. Use when asked to create messaging, a value proposition, a message house, key messages, or to make marketing/sales/product say the same thing. Produces a messaging framework — audience & value proposition, the one-line positioning, 3 message pillars with proof points, objection handling, and a words-we-use/avoid list."
 ---
 
 # Messaging Framework Skill

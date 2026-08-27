@@ -1,6 +1,6 @@
 ---
 name: tornado-sensitivity
-description: "Which assumption actually moves the answer — one-at-a-time sensitivity, ranked into a tornado. Use when a model's output is being argued about (LTV, ROI, forecast) and the room is debating drivers that don't matter, or before spending diligence effort: swing every driver low→high and see which one owns the outcome. Produces the ranked tornado table, share-of-swing per driver, and a real .xlsx — via the bundled zero-dependency script with a safely restricted formula evaluator."
+description: "找出真正左右结论的假设——逐个变量做敏感性分析并按影响排成龙卷风图。当模型的输出（LTV、ROI、预测）引发争论、与会者却在争论无关紧要的驱动因素时，或在投入尽调精力之前使用：把每个驱动因素从低到高摆动一遍，看哪一个真正主宰结果。产出排好序的龙卷风图表格、每个驱动因素的摆动占比，以及一份真实的 .xlsx 文件——通过内置零依赖脚本和经过安全限制的公式求值器完成。 | Which assumption actually moves the answer — one-at-a-time sensitivity, ranked into a tornado. Use when a model's output is being argued about (LTV, ROI, forecast) and the room is debating drivers that don't matter, or before spending diligence effort: swing every driver low→high and see which one owns the outcome. Produces the ranked tornado table, share-of-swing per driver, and a real .xlsx — via the bundled zero-dependency script with a safely restricted formula evaluator."
 ---
 
 # Tornado Sensitivity

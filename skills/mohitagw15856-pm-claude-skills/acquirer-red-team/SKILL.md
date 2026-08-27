@@ -1,6 +1,6 @@
 ---
 name: acquirer-red-team
-description: "Simulate the acquirer's diligence team hunting for reasons to cut your price — their internal red-flags memo with a price-chip estimate per finding. Use when asked to red-team my company before a sale, how will an acquirer attack our valuation, pre-diligence audit, or what will DD find. Produces the acquirer's internal memo (revenue quality, key-person, tech debt, concentration, legal) and a debrief on which flags are fixable before a process."
+description: "模拟收购方尽调团队寻找压价理由的过程——他们的内部红旗备忘录，每项发现附带预估压价金额。当被要求在出售前对公司做红队演练、问收购方会怎么攻击我们的估值、做预尽调审计，或问尽调会发现什么时使用。产出收购方内部备忘录（收入质量、关键人物、技术债务、集中度、法律）以及哪些红旗可在交易流程前修复的复盘。 | Simulate the acquirer's diligence team hunting for reasons to cut your price — their internal red-flags memo with a price-chip estimate per finding. Use when asked to red-team my company before a sale, how will an acquirer attack our valuation, pre-diligence audit, or what will DD find. Produces the acquirer's internal memo (revenue quality, key-person, tech debt, concentration, legal) and a debrief on which flags are fixable before a process."
 ---
 
 # Acquirer Red Team Skill

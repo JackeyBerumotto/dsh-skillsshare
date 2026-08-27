@@ -1,6 +1,6 @@
 ---
 name: friction-detector
-description: 'Detect friction signals; graduate patterns into rules. Use for session retrospectives.'
+description: '检测摩擦信号，并将模式沉淀为规则。用于会话复盘。 | Detect friction signals; graduate patterns into rules. Use for session retrospectives.'
 alwaysApply: false
 trigger: friction, friction detection, session retrospective, learning pipeline, recurring mistakes, pattern graduation, friction report
 model_hint: standard

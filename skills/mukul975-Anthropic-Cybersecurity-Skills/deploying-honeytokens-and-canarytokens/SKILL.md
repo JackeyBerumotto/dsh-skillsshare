@@ -1,6 +1,6 @@
 ---
 name: deploying-honeytokens-and-canarytokens
-description: Plant canarytokens and honey credentials and alert on breach.
+description: 种植 canarytoken 和蜜罐凭据，并在发生失陷时告警。 | Plant canarytokens and honey credentials and alert on breach.
 domain: cybersecurity
 subdomain: deception-technology
 tags:

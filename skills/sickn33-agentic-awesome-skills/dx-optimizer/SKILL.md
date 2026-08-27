@@ -1,6 +1,6 @@
 ---
 name: dx-optimizer
-description: Developer Experience specialist. Improves tooling, setup, and workflows. Use PROACTIVELY when setting up new projects, after team feedback, or when development friction is noticed.
+description: 开发者体验专家。改进工具链、项目搭建和工作流。在搭建新项目、收到团队反馈后，或察觉开发摩擦时应主动使用。 | Developer Experience specialist. Improves tooling, setup, and workflows. Use PROACTIVELY when setting up new projects, after team feedback, or when development friction is noticed.
 risk: unknown
 source: community
 date_added: '2026-02-27'

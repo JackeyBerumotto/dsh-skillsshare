@@ -1,6 +1,6 @@
 ---
 name: tenant-screening-guide
-description: "Design a fair, consistent tenant screening process for a rental. Use when asked how to screen tenants, set rental criteria, evaluate rental applicants, or build a tenant screening process. Produces a screening framework — written objective criteria, the application & checks, a consistent evaluation method, and applicant communication — built to be fair and Fair-Housing-compliant. Not legal advice."
+description: "为租赁房产设计公平、一致的租户筛选流程。当被问到如何筛选租户、设定租赁标准、评估租赁申请人或建立租户筛选流程时使用。产出一套筛选框架：书面化的客观标准、申请与核查流程、一致的评估方法以及申请人沟通方式，并以公平和符合《公平住房法》为导向设计。不构成法律建议。 | Design a fair, consistent tenant screening process for a rental. Use when asked how to screen tenants, set rental criteria, evaluate rental applicants, or build a tenant screening process. Produces a screening framework — written objective criteria, the application & checks, a consistent evaluation method, and applicant communication — built to be fair and Fair-Housing-compliant. Not legal advice."
 ---
 
 # Tenant Screening Guide Skill

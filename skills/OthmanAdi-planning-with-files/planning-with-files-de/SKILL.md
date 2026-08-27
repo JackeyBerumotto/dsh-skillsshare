@@ -1,6 +1,6 @@
 ---
 name: planning-with-files-de
-description: "Manus-artiges Dateiplanungssystem zur Organisation und Verfolgung des Fortschritts komplexer Aufgaben. Erstellt task_plan.md, findings.md und progress.md. Wird verwendet, wenn der Benutzer plant, zerlegt oder organisiert: mehrstufige Projekte, Forschungsaufgaben oder Arbeiten mit über 5 Tool-Aufrufen. Unterstützt automatische Sitzungswiederherstellung nach /clear. Auslöser: Aufgabenplanung, Projektplanung, Arbeitsplan erstellen, Aufgaben analysieren, Projekt organisieren, Fortschritt verfolgen, Mehrstufige Planung, Hilf mir bei der Planung, Projekt zerlegen"
+description: "Manus 风格的文件式规划系统，用于组织和追踪复杂任务的进度。创建 task_plan.md、findings.md 与 progress.md。当用户计划、拆解或组织多步骤项目、研究任务或超过 5 次工具调用的工作时使用。支持 /clear 之后的自动会话恢复。触发词：任务规划、项目规划、创建工作计划、分析任务、组织项目、追踪进度、多级规划、帮我规划、拆解项目。 | Manus-artiges Dateiplanungssystem zur Organisation und Verfolgung des Fortschritts komplexer Aufgaben. Erstellt task_plan.md, findings.md und progress.md. Wird verwendet, wenn der Benutzer plant, zerlegt oder organisiert: mehrstufige Projekte, Forschungsaufgaben oder Arbeiten mit über 5 Tool-Aufrufen. Unterstützt automatische Sitzungswiederherstellung nach /clear. Auslöser: Aufgabenplanung, Projektplanung, Arbeitsplan erstellen, Aufgaben analysieren, Projekt organisieren, Fortschritt verfolgen, Mehrstufige Planung, Hilf mir bei der Planung, Projekt zerlegen"
 user-invocable: true
 allowed-tools: "Read Write Edit Bash Glob Grep"
 hooks:

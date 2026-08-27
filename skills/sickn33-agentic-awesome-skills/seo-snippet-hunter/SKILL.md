@@ -1,6 +1,6 @@
 ---
 name: seo-snippet-hunter
-description: Formats content to be eligible for featured snippets and SERP features. Creates snippet-optimized content blocks based on best practices. Use PROACTIVELY for question-based content.
+description: 将内容格式化为有资格入选精选摘要与 SERP 特性的形态。基于最佳实践创建摘要优化内容块。对问答型内容主动使用。 | Formats content to be eligible for featured snippets and SERP features. Creates snippet-optimized content blocks based on best practices. Use PROACTIVELY for question-based content.
 risk: unknown
 source: community
 date_added: '2026-02-27'

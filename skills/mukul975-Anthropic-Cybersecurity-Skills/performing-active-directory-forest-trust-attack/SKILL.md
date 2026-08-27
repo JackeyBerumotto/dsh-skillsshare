@@ -1,8 +1,6 @@
 ---
 name: performing-active-directory-forest-trust-attack
-description: Enumerate and audit Active Directory forest trust relationships using
-  impacket for SID filtering analysis, trust key extraction, cross-forest SID history
-  abuse detection, and inter-realm Kerberos ticket assessment.
+description: "使用 impacket 枚举并审计 Active Directory 林信任关系，进行 SID 过滤分析、信任密钥提取、跨林 SID history 滥用检测以及跨域 Kerberos 票据评估。 | Enumerate and audit Active Directory forest trust relationships using impacket for SID filtering analysis, trust key extraction, cross-forest SID history abuse detection, and inter-realm Kerberos ticket assessment."
 domain: cybersecurity
 subdomain: red-team
 tags:

@@ -1,6 +1,6 @@
 ---
 name: Harvest Automation
-description: "Automate time tracking, project management, and invoicing workflows in Harvest -- log hours, manage projects, clients, and tasks through natural language commands."
+description: "在 Harvest 中自动化时间跟踪、项目管理和开票工作流——通过自然语言命令记录工时，管理项目、客户与任务。 | Automate time tracking, project management, and invoicing workflows in Harvest -- log hours, manage projects, clients, and tasks through natural language commands."
 requires:
   mcp:
     - rube

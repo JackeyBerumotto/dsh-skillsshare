@@ -1,6 +1,6 @@
 ---
 name: opencli-sitemap-author
-description: "Use when creating or maintaining OpenCLI site sitemaps: agent-facing navigation, page-state, action, workflow, API-reference, pitfall, and fallback knowledge for a website. Use after browser exploration discovers durable site context, when a sitemap is stale, or when promoting local site knowledge into the repo."
+description: "在创建或维护 OpenCLI 站点地图时使用：面向代理的导航、页面状态、操作、工作流、API 参考、陷阱和回退知识。适用于浏览器探索发现持久站点上下文之后、站点地图过时时，或将本地站点知识提升进仓库时。 | Use when creating or maintaining OpenCLI site sitemaps: agent-facing navigation, page-state, action, workflow, API-reference, pitfall, and fallback knowledge for a website. Use after browser exploration discovers durable site context, when a sitemap is stale, or when promoting local site knowledge into the repo."
 allowed-tools: Bash(opencli:*), Read, Edit, Write, Grep
 ---
 

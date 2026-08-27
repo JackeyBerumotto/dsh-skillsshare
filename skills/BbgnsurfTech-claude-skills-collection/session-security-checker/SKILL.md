@@ -1,7 +1,7 @@
 ---
 name: checking-session-security
 description: |
-  Analyze session management implementations to identify security vulnerabilities in web applications.
+  分析会话管理实现，识别 Web 应用中的安全漏洞。在需要审计会话处理、检查会话固定风险、评审会话超时配置，或验证会话 ID 生成安全性时使用。触发短语如「check session security」、「audit session management」、「review session handling」或「session fixation vulnerability」。 |
   Use when you need to audit session handling, check for session fixation risks, review session timeout configurations, or validate session ID generation security.
   Trigger with phrases like "check session security", "audit session management", "review session handling", or "session fixation vulnerability".
 allowed-tools:

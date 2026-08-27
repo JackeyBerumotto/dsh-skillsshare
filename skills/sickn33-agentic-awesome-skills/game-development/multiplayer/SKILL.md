@@ -1,6 +1,6 @@
 ---
 name: multiplayer
-description: "Multiplayer game development principles. Architecture, networking, synchronization."
+description: "多人游戏开发原则：架构、网络、同步。 | Multiplayer game development principles. Architecture, networking, synchronization."
 risk: unknown
 source: community
 date_added: "2026-02-27"

@@ -1,6 +1,6 @@
 ---
 name: exa-search
-description: Use Exa MCP for current web, code/docs, company, people, and page-fetch research. Prefer current hosted tool schemas and note deprecated tools.
+description: 使用 Exa MCP 进行当前网页、代码/文档、公司、人物和页面抓取研究。优先使用当前托管工具的 schema，并留意已弃用的工具。 | Use Exa MCP for current web, code/docs, company, people, and page-fetch research. Prefer current hosted tool schemas and note deprecated tools.
 ---
 
 # Exa MCP Search

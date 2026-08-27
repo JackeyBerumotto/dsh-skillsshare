@@ -1,7 +1,7 @@
 ---
 name: monitoring-database-health
 description: |
-  Use when you need to work with monitoring and observability.
+  当你需要处理监控和可观测性时使用。此技能提供健康监控和告警及全面的指导和自动化。触发词如「monitor system health」「set up alerts」或「track metrics」。 |
   This skill provides health monitoring and alerting with comprehensive guidance and automation.
   Trigger with phrases like "monitor system health", "set up alerts",
   or "track metrics".

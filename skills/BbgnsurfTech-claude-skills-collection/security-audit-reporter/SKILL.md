@@ -1,7 +1,7 @@
 ---
 name: generating-security-audit-reports
 description: |
-  Generate comprehensive security audit reports for applications and systems.
+  为应用程序和系统生成全面的安全审计报告。在需要评估安全态势、识别漏洞、评估合规状态或撰写正式安全文档时使用。触发短语如「create security audit report」、「generate security assessment」、「audit security posture」或「PCI-DSS compliance report」。 |
   Use when you need to assess security posture, identify vulnerabilities, evaluate compliance status, or create formal security documentation.
   Trigger with phrases like "create security audit report", "generate security assessment", "audit security posture", or "PCI-DSS compliance report".
 allowed-tools:

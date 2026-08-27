@@ -1,7 +1,7 @@
 ---
 name: creating-ansible-playbooks
 description: |
-  Use when you need to work with Ansible automation.
+  当你需要使用 Ansible 自动化时使用。此技能提供 Ansible playbook 创建及全面的指导和自动化。触发词如「create Ansible playbook」「automate with Ansible」或「configure with Ansible」。 |
   This skill provides Ansible playbook creation with comprehensive guidance and automation.
   Trigger with phrases like "create Ansible playbook", "automate with Ansible",
   or "configure with Ansible".

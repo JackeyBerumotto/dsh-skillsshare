@@ -1,6 +1,6 @@
 ---
 name: seo-aeo-blog-writer
-description: "Writes long-form blog posts with TL;DR block, definition sentence, comparison table, and 5-question FAQ for SEO ranking and AEO citation. Activate when the user wants to write a blog post, article, or long-form content piece."
+description: "撰写包含 TL;DR 区块、定义句、对比表和 5 问 FAQ 的长篇博客，用于 SEO 排名和 AEO 引用。当用户想撰写博客文章、专题文章或长篇内容时启用。 | Writes long-form blog posts with TL;DR block, definition sentence, comparison table, and 5-question FAQ for SEO ranking and AEO citation. Activate when the user wants to write a blog post, article, or long-form content piece."
 risk: safe
 source: community
 date_added: "2026-04-01"

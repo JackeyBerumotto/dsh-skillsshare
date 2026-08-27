@@ -1,6 +1,6 @@
 ---
 name: vector-search
-description: Vector search via embeddings_* (large-scale HNSW) and ruvllm_hnsw_* (WASM router for ≤11 hot patterns), with RaBitQ 1-bit quantization for 32× memory reduction
+description: 通过 embeddings_*（大规模 HNSW）和 ruvllm_hnsw_*（面向不超过 11 个热点模式的 WASM 路由器）实现向量搜索，并借助 RaBitQ 1 位量化将内存占用降低 32 倍。 | Vector search via embeddings_* (large-scale HNSW) and ruvllm_hnsw_* (WASM router for ≤11 hot patterns), with RaBitQ 1-bit quantization for 32× memory reduction
 argument-hint: "<query> [--limit N] [--quantized]"
 allowed-tools: mcp__claude-flow__embeddings_generate mcp__claude-flow__embeddings_search mcp__claude-flow__embeddings_compare mcp__claude-flow__embeddings_init mcp__claude-flow__embeddings_status mcp__claude-flow__embeddings_hyperbolic mcp__claude-flow__embeddings_neural mcp__claude-flow__embeddings_rabitq_build mcp__claude-flow__embeddings_rabitq_search mcp__claude-flow__embeddings_rabitq_status mcp__claude-flow__ruvllm_hnsw_create mcp__claude-flow__ruvllm_hnsw_add mcp__claude-flow__ruvllm_hnsw_route mcp__claude-flow__memory_search_unified Bash
 ---

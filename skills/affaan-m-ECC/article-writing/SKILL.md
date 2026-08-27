@@ -1,6 +1,6 @@
 ---
 name: article-writing
-description: Write articles, guides, blog posts, tutorials, newsletter issues, and other long-form content in a distinctive voice derived from supplied examples or brand guidance. Use when the user wants polished written content longer than a paragraph, especially when voice consistency, structure, and credibility matter.
+description: 以源自所提供示例或品牌指南的独特声音，撰写文章、指南、博客、教程、newsletter 期刊和其他长篇内容。当用户需要超过一个段落的精炼书面内容时使用，尤其是在声音一致性、结构和可信度重要的场合。 | Write articles, guides, blog posts, tutorials, newsletter issues, and other long-form content in a distinctive voice derived from supplied examples or brand guidance. Use when the user wants polished written content longer than a paragraph, especially when voice consistency, structure, and credibility matter.
 metadata:
   origin: ECC
 ---

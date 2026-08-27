@@ -1,14 +1,6 @@
 ---
 name: correlating-threat-campaigns
-description: 'Correlates disparate security incidents, IOCs, and adversary behaviors
-  across time and organizations to identify unified threat campaigns, attribute them
-  to common threat actors, and extract shared indicators for improved detection. Use
-  when multiple incidents exhibit overlapping indicators, when sector-wide attack
-  campaigns require cross-organizational analysis, or when building campaign-level
-  intelligence products. Activates for requests involving campaign analysis, incident
-  clustering, cross-organizational IOC correlation, or MISP correlation engine.
-
-  '
+description: "跨时间和组织关联分散的安全事件、IOC 和攻击者行为，识别统一的威胁活动、将其归因于共同的威胁行为者，并提取共享指标以改进检测。当多起事件表现出重叠指标、行业性攻击活动需要跨组织分析，或构建活动级情报产品时使用。当请求涉及活动分析、事件聚类、跨组织 IOC 关联或 MISP 关联引擎时激活。 | Correlates disparate security incidents, IOCs, and adversary behaviors across time and organizations to identify unified threat campaigns, attribute them to common threat actors, and extract shared indicators for improved detection. Use when multiple incidents exhibit overlapping indicators, when sector-wide attack campaigns require cross-organizational analysis, or when building campaign-level intelligence products. Activates for requests involving campaign analysis, incident clustering, cross-organizational IOC correlation, or MISP correlation engine."
 domain: cybersecurity
 subdomain: threat-intelligence
 tags:

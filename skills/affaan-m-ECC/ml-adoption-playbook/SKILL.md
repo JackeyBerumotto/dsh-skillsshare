@@ -1,6 +1,6 @@
 ---
 name: ml-adoption-playbook
-description: End-to-end methodology for AI agents and software engineers to add machine learning algorithms to existing non-ML codebases. Covers problem framing, data readiness, architectural decoupling, and baseline model integration.
+description: 面向 AI agent 和软件工程师的端到端方法论，用于向现有非 ML 代码库添加机器学习算法。涵盖问题框定、数据就绪度、架构解耦以及基线模型集成。 | End-to-end methodology for AI agents and software engineers to add machine learning algorithms to existing non-ML codebases. Covers problem framing, data readiness, architectural decoupling, and baseline model integration.
 origin: ECC
 ---
 

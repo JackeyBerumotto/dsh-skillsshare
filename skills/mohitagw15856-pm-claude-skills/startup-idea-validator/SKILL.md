@@ -1,6 +1,6 @@
 ---
 name: startup-idea-validator
-description: "Pressure-test a startup idea the way a sharp investor or co-founder would — problem, market, wedge, moat, why-now, and the fastest cheap way to test it. Use when asked to validate a startup idea, evaluate a business idea, stress-test a concept, or decide whether something is worth building. Produces an honest assessment with the strongest case, the killer risks, and the next experiment to run — not cheerleading."
+description: "像敏锐的投资人或联合创始人那样压力测试一个创业想法——问题、市场、切入点、护城河、为什么是现在，以及最快最便宜的验证方式。当被要求验证创业想法、评估商业创意、对概念做压力测试，或判断某事是否值得做时使用。产出一份诚实的评估，包含最强论据、致命风险和下一个要做的实验——而不是一味叫好。 | Pressure-test a startup idea the way a sharp investor or co-founder would — problem, market, wedge, moat, why-now, and the fastest cheap way to test it. Use when asked to validate a startup idea, evaluate a business idea, stress-test a concept, or decide whether something is worth building. Produces an honest assessment with the strongest case, the killer risks, and the next experiment to run — not cheerleading."
 ---
 
 # Startup Idea Validator Skill

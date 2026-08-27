@@ -4,7 +4,7 @@ description: |
   去除文本中的 AI 生成痕迹。适用于编辑或审阅文本，使其听起来更自然、更像人类书写。
   基于维基百科的"AI 写作特征"综合指南。检测并修复以下模式：夸大的象征意义、
   宣传性语言、以 -ing 结尾的肤浅分析、模糊的归因、破折号过度使用、三段式法则、
-  AI 词汇、否定式排比、过多的连接性短语。
+  AI 词汇、否定式排比、过多的连接性短语。 | Remove AI-generated traces from text. Use when editing or reviewing text to make it sound more natural and more human-written. Based on a comprehensive guide to AI writing traits from Wikipedia. Detects and fixes the following patterns: exaggerated symbolism, promotional language, shallow analysis ending in -ing, vague attribution, overuse of em dashes, the rule of three, AI vocabulary, negation parallelism, and excessive connective phrases.
 allowed-tools:
   - Read
   - Write

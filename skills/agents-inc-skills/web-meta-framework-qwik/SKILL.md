@@ -1,6 +1,6 @@
 ---
 name: web-meta-framework-qwik
-description: Qwik resumable framework - zero hydration, $ lazy boundaries, signals, Qwik City file-based routing, routeLoader$, routeAction$, server$ RPC, serialization rules
+description: Qwik 可恢复式框架：零水合、$ 惰性边界、signals、Qwik City 基于文件的路由、routeLoader$、routeAction$、server$ RPC、序列化规则。 | Qwik resumable framework - zero hydration, $ lazy boundaries, signals, Qwik City file-based routing, routeLoader$, routeAction$, server$ RPC, serialization rules
 ---
 
 # Qwik Framework Patterns

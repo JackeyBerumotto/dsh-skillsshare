@@ -1,7 +1,7 @@
 ---
 name: designing-adversary-engagement-with-mitre-engage
 description: >-
-  Plan, run, and measure an adversary engagement operation using the MITRE Engage
+  使用 MITRE Engage 框架规划、执行并衡量对手交战行动，让部署的欺骗手段由战略驱动而非临时拼凑。涵盖 Engage 矩阵（Prepare、Expose、Affect、Elicit、Understand）、十步行动流程、将交战活动映射到其暴露的 ATT&CK 技术，以及定义可衡量的目标与行动目标。当团队拥有蜜罐、蜜标或金丝雀令牌却缺乏统筹战略、领导层询问「我们是否应该与攻击者交战、如何交战」、在构建欺骗/拒止项目、撰写对手交战行动计划，或决定针对特定威胁行为者部署哪些欺骗活动时使用。关键词：MITRE Engage、对手交战、网络欺骗战略、拒止与欺骗、Engage Matrix、EAC、EGO、Expose Affect Elicit、欺骗项目、蜜罐战略、交战行动。 |
   framework so that deployed deception is driven by strategy instead of deployed ad hoc.
   Covers the Engage Matrix (Prepare, Expose, Affect, Elicit, Understand), the 10-Step
   Operational Process, mapping engagement Activities to the ATT&CK techniques they

@@ -1,6 +1,6 @@
 ---
 name: azure-ai-document-intelligence-dotnet
-description: Azure AI Document Intelligence SDK for .NET. Extract text, tables, and structured data from documents using prebuilt and custom models.
+description: 适用于 .NET 的 Azure AI Document Intelligence SDK。使用预构建和自定义模型从文档中提取文本、表格和结构化数据。 | Azure AI Document Intelligence SDK for .NET. Extract text, tables, and structured data from documents using prebuilt and custom models.
 risk: unknown
 source: community
 date_added: '2026-02-27'

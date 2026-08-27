@@ -1,6 +1,6 @@
 ---
 name: azure-data-tables-java
-description: "Build table storage applications using the Azure Tables SDK for Java. Works with both Azure Table Storage and Cosmos DB Table API."
+description: "使用适用于 Java 的 Azure Tables SDK 构建表存储应用。同时支持 Azure Table Storage 和 Cosmos DB Table API。 | Build table storage applications using the Azure Tables SDK for Java. Works with both Azure Table Storage and Cosmos DB Table API."
 risk: unknown
 source: community
 date_added: "2026-02-27"

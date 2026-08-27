@@ -1,6 +1,6 @@
 ---
 name: voice-ai-engine-development
-description: "Build real-time conversational AI voice engines using async worker pipelines, streaming transcription, LLM agents, and TTS synthesis with interrupt handling and multi-provider support"
+description: "使用异步工作者管道、流式转写、LLM 智能体和 TTS 合成构建实时对话式 AI 语音引擎，支持打断处理和多家服务商 | Build real-time conversational AI voice engines using async worker pipelines, streaming transcription, LLM agents, and TTS synthesis with interrupt handling and multi-provider support"
 risk: unknown
 source: community
 date_added: "2026-02-27"

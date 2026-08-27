@@ -1,6 +1,6 @@
 ---
 name: weaviate
-description: "Search, query, inspect, create, and import data into Weaviate vector database collections using official scripts and references."
+description: "使用官方脚本和参考资料，在 Weaviate 向量数据库集合中搜索、查询、检查、创建和导入数据。 | Search, query, inspect, create, and import data into Weaviate vector database collections using official scripts and references."
 category: databases
 risk: critical
 source: community

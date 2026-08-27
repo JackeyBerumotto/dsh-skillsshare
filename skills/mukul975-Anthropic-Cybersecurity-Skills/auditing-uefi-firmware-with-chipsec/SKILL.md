@@ -1,6 +1,6 @@
 ---
 name: auditing-uefi-firmware-with-chipsec
-description: Use Intel CHIPSEC to assess platform firmware configuration, SPI flash write protection, BIOS lock, SMM/SMRR, and Secure Boot variable state, dump SPI flash, and triage UEFI variables for firmware-level threats.
+description: 使用 Intel CHIPSEC 评估平台固件配置、SPI flash 写保护、BIOS 锁、SMM/SMRR 和 Secure Boot 变量状态，转储 SPI flash，并针对固件级威胁对 UEFI 变量进行分诊。 | Use Intel CHIPSEC to assess platform firmware configuration, SPI flash write protection, BIOS lock, SMM/SMRR, and Secure Boot variable state, dump SPI flash, and triage UEFI variables for firmware-level threats.
 domain: cybersecurity
 subdomain: hardware-firmware-security
 tags:

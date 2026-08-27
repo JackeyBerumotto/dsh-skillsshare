@@ -1,6 +1,6 @@
 ---
 name: deck-autopsy
-description: "Autopsy a slide deck from photos or screenshots of its slides — the narrative arc, the numbers, and what each slide is hiding. Use when given slide images (a competitor's pitch, a conference talk, your own deck before a big meeting) and asked what the deck argues, whether it holds up, or how to counter or improve it. Produces a slide-by-slide read, the reconstructed argument chain, weak links, and the questions the deck is engineered to avoid. Requires image input."
+description: "根据幻灯片的照片或截图来解剖一份演示文稿——它的叙事脉络、数字，以及每页幻灯片隐藏了什么。当拿到幻灯片图片（竞争对手的路演、会议演讲、重要会议前你自己的文稿），并被问及其论证内容、是否站得住脚，或如何反驳或改进时使用。产出逐页解读、重建的论证链、薄弱环节，以及该文稿刻意回避的问题。需要图片输入。 | Autopsy a slide deck from photos or screenshots of its slides — the narrative arc, the numbers, and what each slide is hiding. Use when given slide images (a competitor's pitch, a conference talk, your own deck before a big meeting) and asked what the deck argues, whether it holds up, or how to counter or improve it. Produces a slide-by-slide read, the reconstructed argument chain, weak links, and the questions the deck is engineered to avoid. Requires image input."
 ---
 
 # Deck Autopsy Skill

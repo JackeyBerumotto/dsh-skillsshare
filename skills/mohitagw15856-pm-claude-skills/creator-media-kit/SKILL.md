@@ -1,6 +1,6 @@
 ---
 name: creator-media-kit
-description: "Build a creator's sponsorship media kit and brand-deal outreach — the one-pager brands ask for, plus a pitch email and a rate card. Use when asked to make a media kit, pitch a brand, land a sponsorship, write a brand-deal email, or set creator rates. Produces a structured media kit (audience, stats, offerings, past work), a personalised outreach email, and a defensible rate card. The creator side of a sponsorship — distinct from a brand briefing a creator."
+description: "构建创作者的赞助媒体资料包与品牌合作拓展——品牌方要的那份一页纸，外加推介邮件和费率卡。当被要求制作媒体资料包、向品牌推介、拿下赞助、撰写品牌合作邮件，或制定创作者报价时使用。产出结构化的媒体资料包（受众、数据、服务内容、过往案例）、个性化的拓展邮件，以及站得住脚的费率卡。这是赞助中创作者一侧的工作——与品牌向创作者做简报不同。 | Build a creator's sponsorship media kit and brand-deal outreach — the one-pager brands ask for, plus a pitch email and a rate card. Use when asked to make a media kit, pitch a brand, land a sponsorship, write a brand-deal email, or set creator rates. Produces a structured media kit (audience, stats, offerings, past work), a personalised outreach email, and a defensible rate card. The creator side of a sponsorship — distinct from a brand briefing a creator."
 ---
 
 # Creator Media Kit Skill

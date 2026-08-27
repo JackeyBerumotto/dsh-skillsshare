@@ -1,6 +1,6 @@
 ---
 name: azure-communication-chat-java
-description: "Build real-time chat applications with thread management, messaging, participants, and read receipts."
+description: "构建实时聊天应用，支持会话线程管理、消息收发、参与者管理和已读回执。 | Build real-time chat applications with thread management, messaging, participants, and read receipts."
 risk: unknown
 source: community
 date_added: "2026-02-27"

@@ -1,6 +1,6 @@
 ---
 name: "ra-qm-skills"
-description: "Router/index for the 15 regulatory & quality-management skills bundled in this plugin (ISO 13485 QMS, EU MDR 2017/745, FDA submissions under QMSR, ISO 14971 risk, CAPA, document control, ISO 27001/ISMS, ISO 42001 AIMS, EU AI Act, GDPR/DSGVO, SOC 2, auditing). Use when a compliance request doesn't obviously match one skill and you need to pick the right one (e.g., 'prepare us for an ISO 13485 audit', 'is my AI system high-risk under the AI Act')."
+description: "本插件内置 15 个监管与质量管理技能的路由器/索引（ISO 13485 QMS、EU MDR 2017/745、QMSR 下的 FDA 申报、ISO 14971 风险、CAPA、文档控制、ISO 27001/ISMS、ISO 42001 AIMS、EU AI Act、GDPR/DSGVO、SOC 2、审计）。当合规请求无法明显对应到单一技能、需要挑选合适技能时使用（例如「帮我们准备 ISO 13485 审核」「我的 AI 系统在 AI Act 下是否高风险」）。 | Router/index for the 15 regulatory & quality-management skills bundled in this plugin (ISO 13485 QMS, EU MDR 2017/745, FDA submissions under QMSR, ISO 14971 risk, CAPA, document control, ISO 27001/ISMS, ISO 42001 AIMS, EU AI Act, GDPR/DSGVO, SOC 2, auditing). Use when a compliance request doesn't obviously match one skill and you need to pick the right one (e.g., 'prepare us for an ISO 13485 audit', 'is my AI system high-risk under the AI Act')."
 version: 2.9.0
 author: Alireza Rezvani
 license: MIT

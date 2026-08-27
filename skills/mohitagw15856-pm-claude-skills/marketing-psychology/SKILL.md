@@ -1,6 +1,6 @@
 ---
 name: marketing-psychology
-description: "Apply behavioral-psychology principles to a marketing asset or decision — ethically. Use when asked to make copy/a page/an offer more persuasive, apply psychological triggers, reduce friction, or understand why something does/doesn't convert. Produces the relevant principles (social proof, scarcity, anchoring, loss aversion, etc.), how to apply each to the specific asset, and a line on staying ethical (no dark patterns)."
+description: "以合乎道德的方式将行为心理学原理应用于营销素材或决策。当被要求让文案／页面／报价更有说服力、运用心理触发因素、减少摩擦，或理解某物为何转化或不转化时使用。产出相关原理（社会认同、稀缺性、锚定、损失厌恶等）、每条原理在该素材上的应用方法，以及守住道德底线（不使用暗黑模式）的提示。 | Apply behavioral-psychology principles to a marketing asset or decision — ethically. Use when asked to make copy/a page/an offer more persuasive, apply psychological triggers, reduce friction, or understand why something does/doesn't convert. Produces the relevant principles (social proof, scarcity, anchoring, loss aversion, etc.), how to apply each to the specific asset, and a line on staying ethical (no dark patterns)."
 ---
 
 # Marketing Psychology Skill

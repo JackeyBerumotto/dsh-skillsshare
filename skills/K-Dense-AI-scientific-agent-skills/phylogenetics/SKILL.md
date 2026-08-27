@@ -1,6 +1,6 @@
 ---
 name: phylogenetics
-description: Build and analyze phylogenetic trees using MAFFT (multiple alignment), IQ-TREE 2 (maximum likelihood), and FastTree (fast NJ/ML). Visualize with ETE3 or FigTree. For evolutionary analysis, microbial genomics, viral phylodynamics, protein family analysis, and molecular clock studies.
+description: 使用 MAFFT（多重比对）、IQ-TREE 2（最大似然法）和 FastTree（快速邻接法或最大似然法）构建并分析系统发育树，可用 ETE3 或 FigTree 可视化。适用于进化分析、微生物基因组学、病毒系统动力学、蛋白质家族分析和分子钟研究。 | Build and analyze phylogenetic trees using MAFFT (multiple alignment), IQ-TREE 2 (maximum likelihood), and FastTree (fast NJ/ML). Visualize with ETE3 or FigTree. For evolutionary analysis, microbial genomics, viral phylodynamics, protein family analysis, and molecular clock studies.
 license: Unknown
 metadata: {"version": "1.0", "skill-author": "Kuan-lin Huang"}
 ---

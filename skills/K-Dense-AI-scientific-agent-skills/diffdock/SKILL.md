@@ -1,6 +1,6 @@
 ---
 name: diffdock
-description: DiffDock and DiffDock-L molecular docking. Use for protein-small-molecule pose prediction from PDB or sequence plus SMILES/SDF/MOL2, batch docking, virtual screening, and pose-confidence interpretation. Not for binding affinity prediction.
+description: DiffDock 与 DiffDock-L 分子对接。用于基于 PDB 或序列加 SMILES/SDF/MOL2 的蛋白质-小分子构象预测、批量对接、虚拟筛选以及构象置信度解读。不适用于结合亲和力预测。 | DiffDock and DiffDock-L molecular docking. Use for protein-small-molecule pose prediction from PDB or sequence plus SMILES/SDF/MOL2, batch docking, virtual screening, and pose-confidence interpretation. Not for binding affinity prediction.
 allowed-tools:
   - Read
   - Write

@@ -1,6 +1,6 @@
 ---
 name: claude-monitor
-description: Monitor de performance do Claude Code e sistema local. Diagnostica lentidao, mede CPU/RAM/disco, verifica API latency e gera relatorios de saude do sistema.
+description: Claude Code 与本地系统的性能监控。诊断卡顿、测量 CPU/内存/磁盘、检查 API 延迟并生成系统健康报告。 | Monitor de performance do Claude Code e sistema local. Diagnostica lentidao, mede CPU/RAM/disco, verifica API latency e gera relatorios de saude do sistema.
 risk: safe
 source: community
 date_added: '2026-03-06'

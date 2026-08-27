@@ -1,6 +1,6 @@
 ---
 name: browser-login
-description: Drive an authentication flow once, sanitize cookies through AIDefence, and vault a reusable cookie handle in browser-cookies for future sessions
+description: 完整执行一次认证流程，通过 AIDefence 对 Cookie 做净化处理，并将可复用的 Cookie 句柄保管到 browser-cookies 中供后续会话使用 | Drive an authentication flow once, sanitize cookies through AIDefence, and vault a reusable cookie handle in browser-cookies for future sessions
 argument-hint: "<login-url> [--vault-name <handle>] [--mfa]"
 allowed-tools: mcp__claude-flow__browser_open mcp__claude-flow__browser_close mcp__claude-flow__browser_fill mcp__claude-flow__browser_type mcp__claude-flow__browser_click mcp__claude-flow__browser_wait mcp__claude-flow__browser_eval mcp__claude-flow__browser_snapshot mcp__claude-flow__aidefence_scan mcp__claude-flow__aidefence_has_pii Bash Read Write
 ---

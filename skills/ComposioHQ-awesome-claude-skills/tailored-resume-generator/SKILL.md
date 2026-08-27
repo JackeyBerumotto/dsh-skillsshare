@@ -1,6 +1,6 @@
 ---
 name: tailored-resume-generator
-description: Analyzes job descriptions and generates tailored resumes that highlight relevant experience, skills, and achievements to maximize interview chances
+description: 分析职位描述并生成量身定制的简历，突出相关经验、技能和成就，最大化获得面试的机会 | Analyzes job descriptions and generates tailored resumes that highlight relevant experience, skills, and achievements to maximize interview chances
 ---
 
 # Tailored Resume Generator

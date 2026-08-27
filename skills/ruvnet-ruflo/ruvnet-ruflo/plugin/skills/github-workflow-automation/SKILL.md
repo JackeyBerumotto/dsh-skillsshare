@@ -1,7 +1,7 @@
 ---
 name: github-workflow-automation
 description: |
-  Advanced GitHub Actions workflow automation with AI swarm coordination, intelligent CI/CD pipelines, and comprehensive repository management
+  高级 GitHub Actions 工作流自动化，具备 AI 集群协同、智能 CI/CD 流水线以及全面的仓库管理 |
 ---
 
 # GitHub Workflow Automation Skill

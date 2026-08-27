@@ -1,6 +1,6 @@
 ---
 name: session-to-post
-description: Converts a Claude Code session into a blog post, case study, or Reddit post. Use when publishing dev blog content or community posts from real sessions.
+description: 将 Claude Code 会话转换为博客文章、案例研究或 Reddit 帖子。在基于真实会话发布开发者博客内容或社区帖子时使用。 | Converts a Claude Code session into a blog post, case study, or Reddit post. Use when publishing dev blog content or community posts from real sessions.
 globs: "**/*.md"
 alwaysApply: false
 category: artifact-generation

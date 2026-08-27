@@ -1,6 +1,6 @@
 ---
 name: analyzing-logs
-description: Analyze application logs for performance insights and issue detection including slow requests, error patterns, and resource usage. Use when troubleshooting performance issues or debugging errors. Trigger with phrases like "analyze logs", "find slow requests", or "detect error patterns".
+description: 分析应用日志以获取性能洞察并检测问题，包括慢请求、错误模式和资源使用。在排查性能问题或调试错误时使用。触发短语如「analyze logs」、「find slow requests」或「detect error patterns」。 | Analyze application logs for performance insights and issue detection including slow requests, error patterns, and resource usage. Use when troubleshooting performance issues or debugging errors. Trigger with phrases like "analyze logs", "find slow requests", or "detect error patterns".
 version: 1.0.0
 allowed-tools:
 - Read

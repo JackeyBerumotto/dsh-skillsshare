@@ -1,6 +1,6 @@
 ---
 name: product-description
-description: "Write a product description / listing that sells and ranks. Use when asked to write a product description, e-commerce listing copy, a product page, or to rewrite a flat product blurb. Produces benefit-led listing copy — a hook, scannable feature→benefit bullets, specs, an SEO-aware title and keywords, and trust/again-objection elements — tuned to the buyer and channel."
+description: "撰写既卖得动又排得上的产品描述/商品详情。在被要求编写产品描述、电商详情页文案、产品页，或重写平淡的产品简介时使用。产出以利益为导向的详情文案——钩子、可扫读的功能到利益要点、规格、面向 SEO 的标题和关键词，以及信任/异议处理要素——针对买家和渠道调优。 | Write a product description / listing that sells and ranks. Use when asked to write a product description, e-commerce listing copy, a product page, or to rewrite a flat product blurb. Produces benefit-led listing copy — a hook, scannable feature→benefit bullets, specs, an SEO-aware title and keywords, and trust/again-objection elements — tuned to the buyer and channel."
 ---
 
 # Product Description Skill

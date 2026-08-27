@@ -1,6 +1,6 @@
 ---
 name: cost-federation
-description: Consumer-side wiring for ADR-097 Phase 3 federation_spend events — per-peer rolling windows + suspension-threshold check
+description: ADR-097 第三阶段 federation_spend 事件的消费端接线——按对端滚动窗口 + 暂停阈值检查。 | Consumer-side wiring for ADR-097 Phase 3 federation_spend events — per-peer rolling windows + suspension-threshold check
 argument-hint: ""
 allowed-tools: Bash
 ---

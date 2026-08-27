@@ -1,7 +1,7 @@
 ---
 name: managing-database-migrations
 description: |
-  Use when you need to work with database migrations.
+  当你需要处理数据库迁移时使用。此技能提供模式迁移管理及全面的指导和自动化。触发词如「create migration」「run migrations」或「manage schema versions」。 |
   This skill provides schema migration management with comprehensive guidance and automation.
   Trigger with phrases like "create migration", "run migrations",
   or "manage schema versions".

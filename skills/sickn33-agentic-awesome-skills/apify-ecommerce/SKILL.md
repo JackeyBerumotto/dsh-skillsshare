@@ -1,6 +1,6 @@
 ---
 name: apify-ecommerce
-description: "Extract product data, prices, reviews, and seller information from any e-commerce platform using Apify's E-commerce Scraping Tool."
+description: "使用 Apify 的 E-commerce Scraping Tool 从任意电商平台提取商品数据、价格、评论与卖家信息。 | Extract product data, prices, reviews, and seller information from any e-commerce platform using Apify's E-commerce Scraping Tool."
 risk: unknown
 source: community
 ---

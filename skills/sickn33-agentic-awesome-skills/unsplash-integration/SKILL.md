@@ -1,6 +1,6 @@
 --- 
 name: unsplash-integration
-description: Integration skill for searching and fetching high-quality, free-to-use professional photography from Unsplash.
+description: 用于从 Unsplash 搜索并获取高质量、可免费使用的专业摄影图片的集成技能。 | Integration skill for searching and fetching high-quality, free-to-use professional photography from Unsplash.
 risk: safe
 source: community
 date_added: "2026-03-07"

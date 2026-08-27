@@ -1,6 +1,6 @@
 ---
 name: webapp-testing
-description: "To test local web applications, write native Python Playwright scripts."
+description: "编写原生 Python Playwright 脚本来测试本地 Web 应用。 | To test local web applications, write native Python Playwright scripts."
 risk: unknown
 source: community
 date_added: "2026-02-27"

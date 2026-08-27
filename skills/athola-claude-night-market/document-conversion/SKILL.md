@@ -1,6 +1,6 @@
 ---
 name: document-conversion
-description: Converts documents and URLs to markdown via tiered fallback (MCP markitdown, native tools, user notice). Use when a skill must ingest PDF, DOCX, or URL content.
+description: 通过分级回退机制（MCP markitdown、原生工具、用户通知）将文档和 URL 转换为 markdown。当技能必须摄取 PDF、DOCX 或 URL 内容时使用。 | Converts documents and URLs to markdown via tiered fallback (MCP markitdown, native tools, user notice). Use when a skill must ingest PDF, DOCX, or URL content.
 alwaysApply: false
 category: infrastructure
 tags:

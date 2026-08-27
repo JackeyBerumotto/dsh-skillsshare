@@ -1,6 +1,6 @@
 ---
 name: llm-guardrails-spec
-description: "Specify the safety and reliability guardrails for an LLM feature before it ships. Use when asked to define LLM guardrails, add safety controls to an AI feature, prevent prompt injection or jailbreaks, or harden a chatbot/agent against misuse. Produces a guardrails spec — threats, input/output controls, refusal and escalation policy, logging, and a red-team test set — mapped to where each control runs."
+description: "在 LLM 功能上线之前为其设定安全与可靠性护栏。当被要求定义 LLM 护栏、为 AI 功能添加安全控制、防范提示注入或越狱，或加固聊天机器人/代理以抵御滥用时使用。产出护栏规格——威胁、输入/输出控制、拒绝与升级策略、日志，以及红队测试集——并映射到每个控制的运行位置。 | Specify the safety and reliability guardrails for an LLM feature before it ships. Use when asked to define LLM guardrails, add safety controls to an AI feature, prevent prompt injection or jailbreaks, or harden a chatbot/agent against misuse. Produces a guardrails spec — threats, input/output controls, refusal and escalation policy, logging, and a red-team test set — mapped to where each control runs."
 ---
 
 # LLM Guardrails Spec Skill

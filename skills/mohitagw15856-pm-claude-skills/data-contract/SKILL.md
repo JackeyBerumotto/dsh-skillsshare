@@ -1,6 +1,6 @@
 ---
 name: data-contract
-description: "Define a data contract between a producer and consumers of a dataset/event/API. Use when asked to write a data contract, define a schema agreement, set data SLAs, or stop a producer from silently breaking downstream consumers. Produces a contract — schema with types & constraints, semantics, quality SLAs (freshness/completeness/validity), ownership, versioning & breaking-change policy, and a change process."
+description: "在数据集／事件／API 的生产方与消费方之间定义数据契约。当被要求撰写数据契约、定义 schema 协议、设定数据 SLA，或阻止生产方悄悄破坏下游消费方时使用。产出一份数据契约——带类型和约束的 schema、语义定义、质量 SLA（新鲜度／完整性／有效性）、权属、版本管理与破坏性变更策略以及变更流程。 | Define a data contract between a producer and consumers of a dataset/event/API. Use when asked to write a data contract, define a schema agreement, set data SLAs, or stop a producer from silently breaking downstream consumers. Produces a contract — schema with types & constraints, semantics, quality SLAs (freshness/completeness/validity), ownership, versioning & breaking-change policy, and a change process."
 ---
 
 # Data Contract Skill

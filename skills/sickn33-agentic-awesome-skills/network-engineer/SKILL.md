@@ -1,6 +1,6 @@
 ---
 name: network-engineer
-description: Expert network engineer specializing in modern cloud networking, security architectures, and performance optimization.
+description: 网络工程专家，专精现代云网络、安全架构与性能优化。 | Expert network engineer specializing in modern cloud networking, security architectures, and performance optimization.
 risk: safe
 source: community
 date_added: '2026-02-27'

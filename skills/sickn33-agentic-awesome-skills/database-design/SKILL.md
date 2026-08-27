@@ -1,6 +1,6 @@
 ---
 name: database-design
-description: "Database design principles and decision-making. Schema design, indexing strategy, ORM selection, serverless databases."
+description: "数据库设计原则与决策。涵盖 schema 设计、索引策略、ORM 选型以及无服务器数据库。 | Database design principles and decision-making. Schema design, indexing strategy, ORM selection, serverless databases."
 risk: safe
 source: community
 date_added: "2026-02-27"

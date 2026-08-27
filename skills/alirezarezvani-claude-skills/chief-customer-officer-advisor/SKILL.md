@@ -1,6 +1,6 @@
 ---
 name: "chief-customer-officer-advisor"
-description: "Chief Customer Officer advisory for startups: retention decomposition (gross retention vs NRR honesty, churn root-cause taxonomy), customer segmentation strategy (differential investment across tiers + ICP fit scoring), CS team coverage model (pooled vs named CSM thresholds + ratio math), and CS team org evolution (CS vs Support vs AM distinctions). Use when designing retention strategy, segmenting customers for differential investment, sizing CS team, or sequencing CS hires. Strategic only — does not duplicate engineering/business-growth tactical skills."
+description: "面向初创公司的首席客户官顾问：留存拆解（总留存与 NRR 的真实性、流失根因分类）、客户分层策略（跨层级差异化投入与 ICP 匹配评分）、CS 团队覆盖模式（共享池与专属 CSM 的阈值及配比计算），以及 CS 团队组织演进（CS、支持与客户经理的区分）。当设计留存策略、为客户分层以差异化投入、规划 CS 团队规模或排定 CS 招聘次序时使用。仅限战略层面——不与工程或业务增长类战术技能重复。 | Chief Customer Officer advisory for startups: retention decomposition (gross retention vs NRR honesty, churn root-cause taxonomy), customer segmentation strategy (differential investment across tiers + ICP fit scoring), CS team coverage model (pooled vs named CSM thresholds + ratio math), and CS team org evolution (CS vs Support vs AM distinctions). Use when designing retention strategy, segmenting customers for differential investment, sizing CS team, or sequencing CS hires. Strategic only — does not duplicate engineering/business-growth tactical skills."
 license: MIT
 metadata:
   version: 1.0.0

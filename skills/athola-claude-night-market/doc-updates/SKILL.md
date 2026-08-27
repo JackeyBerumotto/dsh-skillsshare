@@ -1,6 +1,6 @@
 ---
 name: doc-updates
-description: Updates documentation after code changes with quality gates, slop detection, and accuracy checks. Use when code changes require corresponding doc updates.
+description: 在代码变更后更新文档，附带质量门禁、低质内容检测和准确性检查。当代码变更需要相应的文档更新时使用。 | Updates documentation after code changes with quality gates, slop detection, and accuracy checks. Use when code changes require corresponding doc updates.
 alwaysApply: false
 category: artifact-generation
 tags:

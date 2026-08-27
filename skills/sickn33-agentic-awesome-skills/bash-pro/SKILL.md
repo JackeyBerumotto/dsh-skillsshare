@@ -1,6 +1,6 @@
 ---
 name: bash-pro
-description: 'Master of defensive Bash scripting for production automation, CI/CD
+description: 精通面向生产自动化、CI/CD 等场景的防御性 Bash 脚本专家 | 'Master of defensive Bash scripting for production automation, CI/CD
 
   pipelines, and system utilities. Expert in safe, portable, and testable shell
 

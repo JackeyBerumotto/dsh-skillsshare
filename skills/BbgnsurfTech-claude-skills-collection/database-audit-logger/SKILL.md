@@ -1,7 +1,7 @@
 ---
 name: implementing-database-audit-logging
 description: |
-  Use when you need to track database changes for compliance and security monitoring.
+  当你需要出于合规和安全监控跟踪数据库变更时使用。此技能使用触发器、应用级日志、CDC 或原生日志实现审计日志。触发词如「implement database audit logging」「add audit trails」「track database changes」或「monitor database activity for compliance」。 |
   This skill implements audit logging using triggers, application-level logging, CDC, or native logs.
   Trigger with phrases like "implement database audit logging", "add audit trails",
   "track database changes", or "monitor database activity for compliance".

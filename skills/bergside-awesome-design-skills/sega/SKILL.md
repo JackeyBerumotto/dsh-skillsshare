@@ -1,6 +1,6 @@
 ---
 name: "sega"
-description: "A playful, arcade-inspired interface for games — built on the VT323 pixel typeface, hard-edged 0px corners, chunky pill buttons that physically press into solid offset blocks"
+description: "面向游戏的趣味街机风界面——基于 VT323 像素字体、硬朗的 0px 直角、按下时物理嵌入实心偏移块的粗壮胶囊按钮 | A playful, arcade-inspired interface for games — built on the VT323 pixel typeface, hard-edged 0px corners, chunky pill buttons that physically press into solid offset blocks"
 metadata:
   author: typeui.sh
 ---

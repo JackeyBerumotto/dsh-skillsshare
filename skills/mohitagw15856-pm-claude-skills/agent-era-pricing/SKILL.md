@@ -1,6 +1,6 @@
 ---
 name: agent-era-pricing
-description: "Redesign seat-based pricing for the agent era — when one human runs ten agents, per-seat models collapse. Use when agents are eroding seat counts, when asked to migrate to usage- or outcome-based pricing, to price an agent/API tier, or to defend revenue as customers automate their own usage. Produces a pricing migration plan: the new value metric, fences, agent-tier design, cannibalisation math, and a phased migration for existing customers. For general pricing and packaging strategy use pricing-strategy."
+description: "为智能体时代重新设计按席位收费的定价——当一个人运行十个智能体时，按席位模型会崩溃。当智能体正在侵蚀席位数、被要求迁移到按用量或按成果计费、为智能体/API 档位定价，或在客户自动化自身用量时捍卫收入时使用。产出定价迁移方案：新的价值度量、护栏、智能体档位设计、自我蚕食测算，以及面向存量客户的分阶段迁移。通用定价与打包策略请用 pricing-strategy。 | Redesign seat-based pricing for the agent era — when one human runs ten agents, per-seat models collapse. Use when agents are eroding seat counts, when asked to migrate to usage- or outcome-based pricing, to price an agent/API tier, or to defend revenue as customers automate their own usage. Produces a pricing migration plan: the new value metric, fences, agent-tier design, cannibalisation math, and a phased migration for existing customers. For general pricing and packaging strategy use pricing-strategy."
 ---
 
 # Agent Era Pricing Skill

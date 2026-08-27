@@ -1,6 +1,6 @@
 ---
 name: sql-optimizer
-description: "Diagnose a slow SQL query and produce a concrete optimization plan. Use when asked to optimize SQL, speed up a slow query, reduce a query's cost/scan, fix a timeout, or review a query plan. Produces an analysis — the likely bottleneck, what the plan is doing wrong (full scans, bad joins, spills), the specific rewrite and index/partition changes, and the expected impact, with the optimized query."
+description: "诊断慢 SQL 查询并产出具体优化方案。当被要求优化 SQL、加速慢查询、降低查询成本/扫描量、修复超时或审查执行计划时使用。产出分析：可能的瓶颈、执行计划的问题所在（全表扫描、不当连接、溢写）、具体的改写与索引/分区调整、预期效果，以及优化后的查询。 | Diagnose a slow SQL query and produce a concrete optimization plan. Use when asked to optimize SQL, speed up a slow query, reduce a query's cost/scan, fix a timeout, or review a query plan. Produces an analysis — the likely bottleneck, what the plan is doing wrong (full scans, bad joins, spills), the specific rewrite and index/partition changes, and the expected impact, with the optimized query."
 ---
 
 # SQL Optimizer Skill

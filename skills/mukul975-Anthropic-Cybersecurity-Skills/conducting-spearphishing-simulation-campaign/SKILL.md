@@ -1,8 +1,6 @@
 ---
 name: conducting-spearphishing-simulation-campaign
-description: Spearphishing simulation is a targeted social engineering attack vector
-  used by red teams to gain initial access. Unlike broad phishing campaigns, spearphishing
-  uses OSINT-derived intelligence to craf
+description: "鱼叉式钓鱼模拟是红队用于获取初始访问权限的定向社会工程攻击向量。与广撒网式钓鱼活动不同，鱼叉式钓鱼利用源自 OSINT 的情报精心构造定制化内容。 | Spearphishing simulation is a targeted social engineering attack vector used by red teams to gain initial access. Unlike broad phishing campaigns, spearphishing uses OSINT-derived intelligence to craf"
 domain: cybersecurity
 subdomain: red-teaming
 tags:

@@ -1,15 +1,6 @@
 ---
 name: implementing-sigstore-for-software-signing
-description: 'Implements Sigstore-based software signing and verification using Cosign
-  keyless signing, Rekor transparency log verification, and Fulcio certificate authority
-  integration to establish cryptographic provenance for container images, binaries,
-  and software artifacts. The practitioner configures OIDC-based identity binding,
-  verifies signing events against the Rekor transparency log, and integrates signing
-  workflows into CI/CD pipelines. Activates for requests involving software supply
-  chain signing, keyless container signing, Sigstore deployment, or artifact provenance
-  verification.
-
-  '
+description: "实现基于 Sigstore 的软件签名与验证，使用 Cosign 无密钥签名、Rekor 透明日志验证和 Fulcio 证书颁发机构集成，为容器镜像、二进制文件和软件制品建立密码学来源。从业者配置基于 OIDC 的身份绑定、对照 Rekor 透明日志验证签名事件，并将签名工作流集成到 CI/CD 流水线。当请求涉及软件供应链签名、无密钥容器签名、Sigstore 部署或制品来源验证时激活。 | Implements Sigstore-based software signing and verification using Cosign keyless signing, Rekor transparency log verification, and Fulcio certificate authority integration to establish cryptographic provenance for container images, binaries, and software artifacts. The practitioner configures OIDC-based identity binding, verifies signing events against the Rekor transparency log, and integrates signing workflows into CI/CD pipelines. Activates for requests involving software supply chain signing, keyless container signing, Sigstore deployment, or artifact provenance verification."
 domain: cybersecurity
 subdomain: supply-chain-security
 tags:

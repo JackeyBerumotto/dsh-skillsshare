@@ -1,6 +1,6 @@
 ---
 name: 2d-games
-description: "2D game development principles. Sprites, tilemaps, physics, camera."
+description: "二维游戏开发原则：精灵、瓦片地图、物理、相机。 | 2D game development principles. Sprites, tilemaps, physics, camera."
 risk: none
 source: community
 date_added: "2026-02-27"

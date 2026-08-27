@@ -1,6 +1,6 @@
 ---
 name: vuln-triage
-description: "Triage a vulnerability or scanner finding — assess real severity, exploitability, and how urgently to fix. Use when asked to triage a CVE, prioritize scanner/pentest findings, assess a vuln's risk, or decide what to patch first. Produces a triage verdict: CVSS-informed severity adjusted for your context, exploitability, real risk, a fix/mitigation, and an SLA — so you fix what matters, not just what's red."
+description: "对漏洞或扫描器发现进行分诊——评估真实严重程度、可利用性以及修复的紧迫程度。当被要求分诊 CVE、为扫描器/渗透测试发现排定优先级、评估漏洞风险或决定先修补什么时使用。产出分诊结论：结合你的上下文调整的 CVSS 参考严重程度、可利用性、真实风险、修复/缓解方案以及 SLA——让你修复真正重要的内容，而不只是标红的项。 | Triage a vulnerability or scanner finding — assess real severity, exploitability, and how urgently to fix. Use when asked to triage a CVE, prioritize scanner/pentest findings, assess a vuln's risk, or decide what to patch first. Produces a triage verdict: CVSS-informed severity adjusted for your context, exploitability, real risk, a fix/mitigation, and an SLA — so you fix what matters, not just what's red."
 ---
 
 # Vulnerability Triage Skill

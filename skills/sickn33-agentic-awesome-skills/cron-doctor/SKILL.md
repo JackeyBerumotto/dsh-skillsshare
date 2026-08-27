@@ -1,6 +1,6 @@
 ---
 name: cron-doctor
-description: "Diagnose and validate cron expressions before they ship. Catches the five silent death-traps: impossible dates that never fire, OR-semantics that fire too often, midnight spikes, uneven step drift, and leap-year February 29."
+description: "在上线前诊断并校验 cron 表达式。可捕获五个隐形陷阱：永远不触发的日期、触发过于频繁的 OR 语义、午夜尖峰、不均匀的步进漂移，以及闰年 2 月 29 日。 | Diagnose and validate cron expressions before they ship. Catches the five silent death-traps: impossible dates that never fire, OR-semantics that fire too often, midnight spikes, uneven step drift, and leap-year February 29."
 category: devops
 risk: safe
 source: community

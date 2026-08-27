@@ -1,6 +1,6 @@
 ---
 name: writing-plans
-description: "Use when you have a spec or requirements for a multi-step task, before touching code"
+description: "当你有多步骤任务的规格或需求时、在动手写代码之前使用。 | Use when you have a spec or requirements for a multi-step task, before touching code"
 risk: critical
 source: community
 date_added: "2026-02-27"

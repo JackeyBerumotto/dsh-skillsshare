@@ -1,11 +1,6 @@
 ---
 name: implementing-ot-incident-response-playbook
-description: 'Develop and implement OT-specific incident response playbooks aligned
-  with SANS PICERL framework, IEC 62443, and NIST SP 800-82 that address unique ICS
-  challenges including safety-critical systems, limited downtime tolerance, and coordination
-  between IT SOC, OT engineering, and plant operations teams.
-
-  '
+description: "开发并实现对齐 SANS PICERL 框架、IEC 62443 和 NIST SP 800-82 的 OT 专用事件响应手册，应对 ICS 独有挑战，包括安全关键系统、有限的停机容忍度，以及 IT SOC、OT 工程和工厂运营团队之间的协同。 | Develop and implement OT-specific incident response playbooks aligned with SANS PICERL framework, IEC 62443, and NIST SP 800-82 that address unique ICS challenges including safety-critical systems, limited downtime tolerance, and coordination between IT SOC, OT engineering, and plant operations teams."
 domain: cybersecurity
 subdomain: ot-ics-security
 tags:

@@ -1,6 +1,6 @@
 ---
 name: building-super-timelines-with-plaso
-description: Generate log2timeline and Plaso super-timelines and triage them in Timesketch.
+description: 生成 log2timeline 和 Plaso 超级时间线，并在 Timesketch 中进行甄别分析。 | Generate log2timeline and Plaso super-timelines and triage them in Timesketch.
 domain: cybersecurity
 subdomain: digital-forensics
 tags:

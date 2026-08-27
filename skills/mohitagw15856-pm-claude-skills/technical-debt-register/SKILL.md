@@ -1,6 +1,6 @@
 ---
 name: technical-debt-register
-description: "Document and prioritize a technical debt backlog with business impact, effort estimates, and resolution strategy. Use when asked to audit technical debt, create a debt register, prioritize tech debt for a quarter, document architectural shortcuts, or build a debt reduction roadmap. Produces a structured technical debt register covering debt inventory by category, business impact per item, effort and priority scores, top-item resolution plans, and a quarterly debt reduction roadmap."
+description: "记录技术债务积压并按业务影响、工作量估算和解决策略排定优先级。当被要求审计技术债务、创建债务登记表、为一个季度排定技术债务优先级、记录架构上的权宜之计，或制定债务削减路线图时使用。产出结构化的技术债务登记表，涵盖按类别的债务清单、每项的业务影响、工作量和优先级评分、重点项目的解决计划以及季度债务削减路线图。 | Document and prioritize a technical debt backlog with business impact, effort estimates, and resolution strategy. Use when asked to audit technical debt, create a debt register, prioritize tech debt for a quarter, document architectural shortcuts, or build a debt reduction roadmap. Produces a structured technical debt register covering debt inventory by category, business impact per item, effort and priority scores, top-item resolution plans, and a quarterly debt reduction roadmap."
 ---
 
 # Technical Debt Register Skill

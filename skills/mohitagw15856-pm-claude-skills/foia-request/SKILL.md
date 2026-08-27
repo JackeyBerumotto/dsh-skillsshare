@@ -1,6 +1,6 @@
 ---
 name: foia-request
-description: "Draft a public-records request (FOIA / FOI / state open-records) that's specific enough to get records and hard to deny. Use when asked to write a FOIA request, records request, or freedom-of-information request to a government body. Produces a properly-scoped request: the records sought, date range and format, fee-waiver and expedited-processing asks where applicable, and citations to the governing statute."
+description: "起草足够具体、既拿得到记录又难以被拒绝的公共记录申请（FOIA / FOI / 州级公开记录法）。当被要求向政府机构撰写 FOIA 申请、记录申请或信息公开申请时使用。产出范围恰当的申请：所寻求的记录、日期范围和格式、适用情况下的费用减免与加急处理请求，以及所依据法规的引用。 | Draft a public-records request (FOIA / FOI / state open-records) that's specific enough to get records and hard to deny. Use when asked to write a FOIA request, records request, or freedom-of-information request to a government body. Produces a properly-scoped request: the records sought, date range and format, fee-waiver and expedited-processing asks where applicable, and citations to the governing statute."
 ---
 
 # FOIA / Public-Records Request Skill

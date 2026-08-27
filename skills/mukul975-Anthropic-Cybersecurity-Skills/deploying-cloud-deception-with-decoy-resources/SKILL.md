@@ -1,7 +1,7 @@
 ---
 name: deploying-cloud-deception-with-decoy-resources
 description: >-
-  Deploy cloud-native deception across AWS, Azure, and GCP using decoy (honey) resources
+  在 AWS、Azure 和 GCP 中部署云原生欺骗防御，使用诱饵（蜜罐）资源，其唯一目的是在攻击者触碰的瞬间产生高保真告警：金丝雀 IAM 访问密钥、无权限的诱饵用户/角色/服务主体、蜜罐对象存储桶，以及 Secrets Manager / Key Vault / Secret Manager 中的诱饵密钥。通过 CloudTrail + EventBridge、Azure Sentinel honeytoken 监视列表 + Defender 以及 GCP Cloud Audit Logs 接入检测，使任何诱饵的使用都以近乎零误报的方式路由到 SOC。适用于保护云账户和数据存储、组织只有本地蜜罐而需要云覆盖、投放伪造 AWS 密钥以捕获凭据窃取和代码泄露暴露，或检测云侦察与横向移动的场景。关键词：cloud deception、canary token AWS、honey S3 bucket、decoy IAM credentials、CloudTrail alert、GuardDuty、Sentinel honeytoken、decoy secret、honey service account、cloud honeypot、breach detection。 |
   whose only purpose is to generate a high-fidelity alert the instant an attacker touches
   them: canary IAM access keys, permission-less decoy users/roles/service principals,
   honey object-storage buckets, and decoy secrets in Secrets Manager / Key Vault / Secret

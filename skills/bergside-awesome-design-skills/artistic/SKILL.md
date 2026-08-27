@@ -1,6 +1,6 @@
 ---
 name: artistic
-description: High-contrast, expressive style with creative typography and bold color choices for visually striking interfaces.
+description: 高对比、富有表现力的风格，搭配创意排版和大胆的配色，打造视觉冲击力强的界面。 | High-contrast, expressive style with creative typography and bold color choices for visually striking interfaces.
 license: MIT
 metadata:
   author: typeui.sh

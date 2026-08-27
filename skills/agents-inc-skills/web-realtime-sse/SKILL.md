@@ -1,6 +1,6 @@
 ---
 name: web-realtime-sse
-description: Server-Sent Events for unidirectional server-to-client streaming, EventSource API, fetch streaming, reconnection patterns, message parsing
+description: 用于服务器到客户端单向流式传输的 Server-Sent Events，涵盖 EventSource API、fetch 流式传输、重连模式、消息解析。 | Server-Sent Events for unidirectional server-to-client streaming, EventSource API, fetch streaming, reconnection patterns, message parsing
 ---
 
 # Server-Sent Events (SSE) Patterns

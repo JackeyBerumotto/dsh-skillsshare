@@ -1,6 +1,6 @@
 ---
 name: lore
-description: "Markdown project memory for AI agents. Use for decisions, architecture, conventions, monorepo scopes, `.lore/`, or `lore` commands; not native `/init`/`/compact` or generic init/compress/audit/query."
+description: "面向 AI 代理的 markdown 项目记忆。用于决策、架构、约定、monorepo 范围、`.lore/` 或 `lore` 命令；不用于原生 /init、/compact，也不用于通用的初始化/压缩/审计/查询。 | Markdown project memory for AI agents. Use for decisions, architecture, conventions, monorepo scopes, `.lore/`, or `lore` commands; not native `/init`/`/compact` or generic init/compress/audit/query."
 category: development
 risk: safe
 source: community

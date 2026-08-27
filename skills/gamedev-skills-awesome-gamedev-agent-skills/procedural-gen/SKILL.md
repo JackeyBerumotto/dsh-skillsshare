@@ -1,7 +1,7 @@
 ---
 name: procedural-gen
 description: >
-  Generate game content procedurally — seeded deterministic RNG, value/Perlin/
+  程序化生成游戏内容——种子化确定性随机数生成器、用于地形和高度图的价值/Perlin/Simplex 噪声、网格地牢生成（房间+走廊、BSP、随机游走）以及加权战利品/掉落表。算法与引擎无关。当用户提到程序化生成、perlin/simplex 噪声、随机种子、地牢生成器、高度图/地形或战利品表时使用。 |
   Simplex noise for terrain and heightmaps, grid dungeon generation (rooms +
   corridors, BSP, random walk), and weighted loot/drop tables. Engine-neutral
   algorithms. Use when the user mentions procedural generation, perlin/simplex

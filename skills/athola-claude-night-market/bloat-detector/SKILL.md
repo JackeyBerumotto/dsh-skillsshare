@@ -1,6 +1,6 @@
 ---
 name: bloat-detector
-description: Detects codebase bloat via dead code, duplication, complexity, and doc bloat scans. Use when codebase feels large or before a release.
+description: 通过死代码、重复、复杂度和文档膨胀扫描检测代码库臃肿。当感觉代码库过大或发布前使用。 | Detects codebase bloat via dead code, duplication, complexity, and doc bloat scans. Use when codebase feels large or before a release.
 alwaysApply: false
 category: conservation
 tags:

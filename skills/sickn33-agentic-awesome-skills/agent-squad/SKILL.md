@@ -1,6 +1,6 @@
 ---
 name: agent-squad
-description: Main agent orchestrator that coordinates a specialized squad of agents
+description: 协调一支专业化代理团队的主代理编排器。 | Main agent orchestrator that coordinates a specialized squad of agents
 risk: unknown
 source: community
 role: Orchestrator / Agent Panel

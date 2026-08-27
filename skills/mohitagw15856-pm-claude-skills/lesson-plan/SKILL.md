@@ -1,6 +1,6 @@
 ---
 name: lesson-plan
-description: "Build a complete, standards-aligned lesson plan with clear objectives, a timed activity sequence, differentiation, and assessment. Use when asked to write a lesson plan, plan a class or lesson, design a teaching session, or structure instruction for a topic. Produces a ready-to-teach plan with measurable objectives, a minute-by-minute flow, materials, checks for understanding, and differentiation for varied learners."
+description: "构建完整且符合课程标准的教案，包含清晰目标、带时间安排的活动序列、差异化教学与评估。当被要求编写教案、规划课程或某节课、设计教学环节，或为某个主题组织教学时使用。产出可直接授课的教案，包含可测量的目标、精确到分钟的教学流程、材料、理解情况检查，以及面向不同学习者的差异化安排。 | Build a complete, standards-aligned lesson plan with clear objectives, a timed activity sequence, differentiation, and assessment. Use when asked to write a lesson plan, plan a class or lesson, design a teaching session, or structure instruction for a topic. Produces a ready-to-teach plan with measurable objectives, a minute-by-minute flow, materials, checks for understanding, and differentiation for varied learners."
 ---
 
 # Lesson Plan Skill

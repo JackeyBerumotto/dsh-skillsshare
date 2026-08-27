@@ -1,13 +1,6 @@
 ---
 name: detecting-ransomware-encryption-behavior
-description: 'Detects ransomware encryption activity in real time using entropy analysis,
-  file system I/O monitoring, and behavioral heuristics. Identifies mass file modification
-  patterns, abnormal entropy spikes in written data, and suspicious process behavior
-  characteristic of ransomware encryption routines. Activates for requests involving
-  ransomware behavioral detection, entropy-based file monitoring, I/O anomaly detection,
-  or real-time encryption activity alerting.
-
-  '
+description: "利用熵分析、文件系统 I/O 监控和行为启发式，实时检测勒索软件加密活动。识别批量文件修改模式、写入数据中的异常熵值尖峰以及勒索软件加密例程特有的可疑进程行为。当请求涉及勒索软件行为检测、基于熵的文件监控、I/O 异常检测或实时加密活动告警时激活。 | Detects ransomware encryption activity in real time using entropy analysis, file system I/O monitoring, and behavioral heuristics. Identifies mass file modification patterns, abnormal entropy spikes in written data, and suspicious process behavior characteristic of ransomware encryption routines. Activates for requests involving ransomware behavioral detection, entropy-based file monitoring, I/O anomaly detection, or real-time encryption activity alerting."
 domain: cybersecurity
 subdomain: ransomware-defense
 tags:

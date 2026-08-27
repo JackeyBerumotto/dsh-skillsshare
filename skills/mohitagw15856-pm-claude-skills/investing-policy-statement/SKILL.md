@@ -1,6 +1,6 @@
 ---
 name: investing-policy-statement
-description: "Draft a personal investing policy statement (IPS) — the rules someone sets for their own investing. Use when asked to define an investment strategy, set a target asset allocation, or write rules to avoid panic-driven decisions. Produces a structured IPS: goals, risk tolerance, target allocation, contribution & rebalancing rules, and what NOT to do. Educational, not regulated financial advice."
+description: "起草个人投资政策声明（IPS）——即个人为自己投资设定的规则。当被要求定义投资策略、设定目标资产配置，或制定避免恐慌性决策的规则时使用。产出结构化的 IPS：目标、风险承受能力、目标配置、投入与再平衡规则，以及不该做的事。仅供学习参考，不构成受监管的理财建议。 | Draft a personal investing policy statement (IPS) — the rules someone sets for their own investing. Use when asked to define an investment strategy, set a target asset allocation, or write rules to avoid panic-driven decisions. Produces a structured IPS: goals, risk tolerance, target allocation, contribution & rebalancing rules, and what NOT to do. Educational, not regulated financial advice."
 ---
 
 # Investing Policy Statement Skill

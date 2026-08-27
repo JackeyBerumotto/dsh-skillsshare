@@ -1,6 +1,6 @@
 ---
 name: fp-refactor
-description: Comprehensive guide for refactoring imperative TypeScript code to fp-ts functional patterns
+description: 将命令式 TypeScript 代码重构为 fp-ts 函数式模式的综合指南。 | Comprehensive guide for refactoring imperative TypeScript code to fp-ts functional patterns
 risk: unknown
 source: community
 version: 1.0.0

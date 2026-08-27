@@ -1,6 +1,6 @@
 ---
 name: deprecation-and-migration
-description: Manages deprecation and migration. Use when removing old systems, APIs, or features. Use when migrating users from one implementation to another. Use when deciding whether to maintain or sunset existing code.
+description: 管理弃用与迁移。在移除旧系统、API 或功能时使用。在把用户从一种实现迁移到另一种实现时使用。在决定现有代码是继续维护还是淘汰下线时使用。 | Manages deprecation and migration. Use when removing old systems, APIs, or features. Use when migrating users from one implementation to another. Use when deciding whether to maintain or sunset existing code.
 risk: unknown
 source: https://github.com/addyosmani/agent-skills/tree/main/skills/deprecation-and-migration
 source_repo: addyosmani/agent-skills

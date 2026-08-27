@@ -1,6 +1,6 @@
 ---
 name: layoff-communication
-description: "Plan and write the communications for a layoff or restructure with clarity and dignity. Use when asked to communicate a layoff, write a RIF/redundancy announcement, prepare manager talking points for letting people go, or plan workforce-reduction comms. Produces a comms package — sequencing plan, the all-hands/company message, the affected-employee message, a manager guide with talking points, a staying-team message, and an external/press holding line."
+description: "规划并撰写裁员或重组的沟通方案，做到清晰且有尊严。当被要求沟通裁员、撰写裁员/冗余公告、为管理者准备解雇谈话要点，或规划人力缩减沟通时使用。产出一份沟通包——节奏计划、全员/公司信息、受影响员工的信息、带谈话要点的管理者指南、留任团队信息，以及对外/媒体口径。 | Plan and write the communications for a layoff or restructure with clarity and dignity. Use when asked to communicate a layoff, write a RIF/redundancy announcement, prepare manager talking points for letting people go, or plan workforce-reduction comms. Produces a comms package — sequencing plan, the all-hands/company message, the affected-employee message, a manager guide with talking points, a staying-team message, and an external/press holding line."
 ---
 
 # Layoff Communication Skill

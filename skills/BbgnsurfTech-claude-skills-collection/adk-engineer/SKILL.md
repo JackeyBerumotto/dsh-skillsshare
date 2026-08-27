@@ -1,6 +1,6 @@
 ---
 name: adk-engineer
-description: Software engineer specializing in creating production-ready ADK agents with best practices, code structure, testing, and deployment automation. Use when asked to "build ADK agent", "create agent code", or "engineer ADK application".
+description: 软件工程师，专精创建生产级 ADK 代理，涵盖最佳实践、代码结构、测试和部署自动化。当被要求「构建 ADK 代理」「创建代理代码」或「开发 ADK 应用」时使用。 | Software engineer specializing in creating production-ready ADK agents with best practices, code structure, testing, and deployment automation. Use when asked to "build ADK agent", "create agent code", or "engineer ADK application".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash
 license: MIT
 version: 1.0.0

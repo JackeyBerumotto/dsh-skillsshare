@@ -1,6 +1,6 @@
 ---
 name: web-tooling-vite
-description: Vite config, path aliases, vendor chunk splitting, environment-specific builds, Rolldown codeSplitting, Sass modern API, build targets, module preload
+description: Vite 配置、路径别名、第三方代码分块、按环境构建、Rolldown codeSplitting、Sass 现代 API、构建目标和 module preload。 | Vite config, path aliases, vendor chunk splitting, environment-specific builds, Rolldown codeSplitting, Sass modern API, build targets, module preload
 ---
 
 # Vite Build Tool Patterns

@@ -1,6 +1,6 @@
 ---
 name: infra-as-code-review
-description: "Write an infrastructure-as-code review checklist and conduct a structured review of Terraform, CloudFormation, Pulumi, or Ansible code. Use when asked to review IaC code, audit infrastructure configurations, check cloud security posture, or produce a reusable IaC review checklist. Produces a structured review report with severity-categorized findings, remediation guidance, and a reusable checklist."
+description: "编写基础设施即代码审查检查清单，并对 Terraform、CloudFormation、Pulumi 或 Ansible 代码进行结构化评审。在被要求评审 IaC 代码、审计基础设施配置、检查云安全态势，或产出可复用的 IaC 审查清单时使用。产出结构化评审报告，包含按严重程度分类的发现、修复指引和可复用检查清单。 | Write an infrastructure-as-code review checklist and conduct a structured review of Terraform, CloudFormation, Pulumi, or Ansible code. Use when asked to review IaC code, audit infrastructure configurations, check cloud security posture, or produce a reusable IaC review checklist. Produces a structured review report with severity-categorized findings, remediation guidance, and a reusable checklist."
 ---
 
 # Infrastructure-as-Code Review

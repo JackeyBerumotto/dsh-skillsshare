@@ -1,6 +1,6 @@
 ---
 name: pr-writer
-description: "Create pull requests following Sentry's engineering practices."
+description: "按照 Sentry 的工程实践创建 pull request。 | Create pull requests following Sentry's engineering practices."
 risk: unknown
 source: community
 ---

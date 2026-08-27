@@ -1,6 +1,6 @@
 ---
 name: Capsule CRM Automation
-description: "Automate Capsule CRM operations -- manage contacts (parties), run structured filter queries, track tasks and projects, log entries, and handle organizations -- using natural language through the Composio MCP integration."
+description: "通过 Composio MCP 集成用自然语言自动化 Capsule CRM 操作——管理联系人（parties）、执行结构化筛选查询、跟踪任务与项目、记录条目并处理组织。 | Automate Capsule CRM operations -- manage contacts (parties), run structured filter queries, track tasks and projects, log entries, and handle organizations -- using natural language through the Composio MCP integration."
 category: crm
 requires:
   mcp:

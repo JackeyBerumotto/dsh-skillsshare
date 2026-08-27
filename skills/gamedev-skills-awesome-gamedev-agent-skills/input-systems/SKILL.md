@@ -1,7 +1,7 @@
 ---
 name: input-systems
 description: >
-  Architect game input — action mapping (abstracting keys into named actions),
+  规划游戏输入——动作映射（将按键抽象为命名动作）、带冲突检测与持久化的按键重绑定、多设备支持（键盘、手柄、触控）、摇杆死区，以及输入缓冲和郊狼时间等手感特性，并兼顾无障碍。与引擎无关。当用户提到输入映射、重绑定按键、手柄支持、死区、输入缓冲、郊狼时间或无障碍操控时使用。 |
   rebinding with conflict detection and persistence, multi-device support
   (keyboard, gamepad, touch), analog deadzones, and feel features like input
   buffering and coyote time, plus accessibility. Engine-neutral. Use when the

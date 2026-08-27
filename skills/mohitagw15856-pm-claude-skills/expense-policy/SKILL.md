@@ -1,6 +1,6 @@
 ---
 name: expense-policy
-description: "Write a clear company expense & reimbursement policy. Use when asked to write an expense policy, a reimbursement policy, a travel & expense (T&E) policy, or spending guidelines. Produces a practical policy — what's covered, limits by category, the approval and submission process, timelines, and what's not reimbursable — that's fair, easy to follow, and reduces finance back-and-forth. Not tax/legal advice."
+description: "撰写清晰的公司费用与报销政策。在被要求编写费用政策、报销政策、差旅与费用（T&E）政策或支出准则时使用。产出实用的政策——覆盖范围、按类别的限额、审批与提交流程、时限以及不予报销的项目——公平、易遵循，并减少财务来回沟通。不构成税务/法律建议。 | Write a clear company expense & reimbursement policy. Use when asked to write an expense policy, a reimbursement policy, a travel & expense (T&E) policy, or spending guidelines. Produces a practical policy — what's covered, limits by category, the approval and submission process, timelines, and what's not reimbursable — that's fair, easy to follow, and reduces finance back-and-forth. Not tax/legal advice."
 ---
 
 # Expense Policy Skill

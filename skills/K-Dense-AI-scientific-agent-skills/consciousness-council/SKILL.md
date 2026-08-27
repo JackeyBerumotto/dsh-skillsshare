@@ -1,6 +1,6 @@
 ---
 name: consciousness-council
-description: Run a multi-perspective Mind Council deliberation on any question, decision, or creative challenge. Use this skill whenever the user wants diverse viewpoints, needs help making a tough decision, asks for a council/panel/board discussion, wants to explore a problem from multiple angles, requests devil's advocate analysis, or says things like "what would different experts think about this", "help me think through this from all sides", "council mode", "mind council", or "deliberate on this". Also trigger when the user faces a dilemma, trade-off, or complex choice with no obvious answer.
+description: 就任何问题、决策或创意挑战运行多视角的心灵议会审议。当用户想要多元观点、需要帮助做出艰难决定、要求委员会/评审团/董事会式讨论、想从多角度探索问题、请求魔鬼代言人分析，或说「不同专家会怎么看这件事」「帮我从各方面想清楚」「council mode」「mind council」「deliberate on this」之类的话时使用此技能。当用户面临两难、权衡或没有明显答案的复杂选择时也会触发。 | Run a multi-perspective Mind Council deliberation on any question, decision, or creative challenge. Use this skill whenever the user wants diverse viewpoints, needs help making a tough decision, asks for a council/panel/board discussion, wants to explore a problem from multiple angles, requests devil's advocate analysis, or says things like "what would different experts think about this", "help me think through this from all sides", "council mode", "mind council", or "deliberate on this". Also trigger when the user faces a dilemma, trade-off, or complex choice with no obvious answer.
 allowed-tools: Read Write
 license: MIT license
 metadata: {"version": "1.0", "skill-author": "AHK Strategies (ashrafkahoush-ux)"}

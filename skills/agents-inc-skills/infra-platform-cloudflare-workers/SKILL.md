@@ -1,6 +1,6 @@
 ---
 name: infra-platform-cloudflare-workers
-description: Cloudflare Workers edge compute platform — Wrangler CLI, KV, D1, R2, Durable Objects, Queues, Workers AI
+description: Cloudflare Workers 边缘计算平台——Wrangler CLI、KV、D1、R2、Durable Objects、Queues、Workers AI | Cloudflare Workers edge compute platform — Wrangler CLI, KV, D1, R2, Durable Objects, Queues, Workers AI
 ---
 
 # Cloudflare Workers Patterns

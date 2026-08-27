@@ -1,6 +1,6 @@
 ---
 name: meta-reviewing-reviewing
-description: Code review patterns, feedback principles. Use when reviewing PRs, implementations, or making approval/rejection decisions. Covers self-correction, progress tracking, feedback principles, severity levels.
+description: 代码审查模式与反馈原则。在审查 PR、实现或做出批准/驳回决定时使用。涵盖自我修正、进度跟踪、反馈原则、严重程度分级。 | Code review patterns, feedback principles. Use when reviewing PRs, implementations, or making approval/rejection decisions. Covers self-correction, progress tracking, feedback principles, severity levels.
 ---
 
 # Reviewing Patterns

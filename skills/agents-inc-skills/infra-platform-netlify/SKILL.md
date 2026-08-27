@@ -1,6 +1,6 @@
 ---
 name: infra-platform-netlify
-description: Netlify deployment platform — serverless functions, edge functions, redirects, forms, Blobs, build plugins
+description: Netlify 部署平台——无服务器函数、边缘函数、重定向、表单、Blobs、构建插件 | Netlify deployment platform — serverless functions, edge functions, redirects, forms, Blobs, build plugins
 ---
 
 # Netlify Platform Patterns

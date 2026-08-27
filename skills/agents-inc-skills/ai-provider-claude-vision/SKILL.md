@@ -1,6 +1,6 @@
 ---
 name: ai-provider-claude-vision
-description: Image understanding and document analysis with Claude's multimodal capabilities -- image input formats, PDF processing, multi-image patterns, structured extraction, and token cost estimation
+description: 利用 Claude 多模态能力进行图像理解与文档分析——图像输入格式、PDF 处理、多图像模式、结构化抽取以及 token 成本估算。 | Image understanding and document analysis with Claude's multimodal capabilities -- image input formats, PDF processing, multi-image patterns, structured extraction, and token cost estimation
 ---
 
 # Claude Vision Patterns

@@ -1,6 +1,6 @@
 ---
 name: assumption-bounty
-description: "Extract every hidden assumption from a plan or document and put a price on each one — what it costs if wrong, what it costs to test. Use before committing to anything whose author says 'obviously' or whose spreadsheet has hardcoded cells: the bounty hunt makes the invisible load-bearing beliefs explicit and tells you which three to test this week. Produces the assumption ledger (priced and ranked), the cheapest test for each dangerous one, and the document's honest confidence statement."
+description: "从计划或文档中提取每一个隐藏假设并逐一定价——若假设错误代价几何、验证它又要花多少。在承诺任何作者口称「显然」、或电子表格里有硬编码单元格的事情之前使用：这场悬赏式排查让隐形的承重信念显形，并告诉你本周该先验证哪三个。产出假设台账（定价并排序）、每个危险假设的最廉价测试，以及该文档的诚实置信度声明。 | Extract every hidden assumption from a plan or document and put a price on each one — what it costs if wrong, what it costs to test. Use before committing to anything whose author says 'obviously' or whose spreadsheet has hardcoded cells: the bounty hunt makes the invisible load-bearing beliefs explicit and tells you which three to test this week. Produces the assumption ledger (priced and ranked), the cheapest test for each dangerous one, and the document's honest confidence statement."
 ---
 
 # Assumption Bounty

@@ -1,6 +1,6 @@
 ---
 name: ax-extract-workflow
-description: "Reconstruct workflow behind a past coding-agent artifact using local ax sessions/commits/skills/tool traces. Use when asked how X was built."
+description: "利用本地 ax 会话、提交、技能和工具痕迹，重构过去某个编码智能体产物背后的工作流。当被问及某物是如何构建时使用。 | Reconstruct workflow behind a past coding-agent artifact using local ax sessions/commits/skills/tool traces. Use when asked how X was built."
 category: development
 risk: safe
 source: community

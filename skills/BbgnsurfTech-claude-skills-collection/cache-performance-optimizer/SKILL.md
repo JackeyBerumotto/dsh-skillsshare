@@ -1,8 +1,5 @@
 ---
-description: This skill enables claude to analyze and improve application caching
-  strategies. it optimizes cache hit rates, ttl configurations, cache key design,
-  and invalidation strategies. use this skill when the user requests to "optimize
-  cache performance"...
+description: "本技能使 claude 能够分析并改进应用缓存策略。它优化缓存命中率、TTL 配置、缓存键设计与失效策略。当用户请求「optimize cache performance」等缓存优化时使用本技能。 | This skill enables claude to analyze and improve application caching strategies. it optimizes cache hit rates, ttl configurations, cache key design, and invalidation strategies. use this skill when the user requests to \"optimize cache performance\"..."
 allowed-tools:
 - Read
 - Write

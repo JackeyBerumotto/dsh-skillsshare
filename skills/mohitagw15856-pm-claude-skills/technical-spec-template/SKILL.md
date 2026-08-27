@@ -1,6 +1,6 @@
 ---
 name: technical-spec-template
-description: "Create structured technical specification documents that bridge product requirements and engineering implementation. Use when writing a tech spec, engineering spec, system design doc, or API specification. Produces a complete spec with problem statement, proposed solution, data model, API design, alternatives considered, security considerations, testing plan, and rollout strategy."
+description: "创建结构化的技术规格文档，在产品需求与工程实现之间架起桥梁。当撰写技术规格、工程规格、系统设计文档或 API 规格时使用。产出完整规格，包含问题描述、提议方案、数据模型、API 设计、备选方案、安全考量、测试计划和上线策略。 | Create structured technical specification documents that bridge product requirements and engineering implementation. Use when writing a tech spec, engineering spec, system design doc, or API specification. Produces a complete spec with problem statement, proposed solution, data model, API design, alternatives considered, security considerations, testing plan, and rollout strategy."
 ---
 
 # Technical Spec Template Skill

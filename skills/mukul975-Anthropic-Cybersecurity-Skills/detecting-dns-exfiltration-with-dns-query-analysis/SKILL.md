@@ -1,8 +1,6 @@
 ---
 name: detecting-dns-exfiltration-with-dns-query-analysis
-description: Detect data exfiltration through DNS tunneling by analyzing query entropy,
-  subdomain length, query volume, TXT record abuse, and response payload sizes using
-  passive DNS monitoring.
+description: "利用被动 DNS 监控，通过分析查询熵、子域名长度、查询量、TXT 记录滥用和响应载荷大小，检测经由 DNS 隧道的数据外泄。 | Detect data exfiltration through DNS tunneling by analyzing query entropy, subdomain length, query volume, TXT record abuse, and response payload sizes using passive DNS monitoring."
 domain: cybersecurity
 subdomain: network-security
 tags:

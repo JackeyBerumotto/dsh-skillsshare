@@ -1,7 +1,7 @@
 ---
 name: architecture-paradigm-hexagonal
 role: library
-description: Applies hexagonal architecture isolating domain from infrastructure. Use when designing systems where testability and port/adapter separation are priorities.
+description: 应用六边形架构，将领域逻辑与基础设施隔离。在设计以可测试性和端口／适配器分离为优先的系统时使用。 | Applies hexagonal architecture isolating domain from infrastructure. Use when designing systems where testability and port/adapter separation are priorities.
 alwaysApply: false
 category: architectural-pattern
 tags:

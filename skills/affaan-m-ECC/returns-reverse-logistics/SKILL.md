@@ -1,7 +1,7 @@
 ---
 name: returns-reverse-logistics
 description: >
-  Codified expertise for returns authorization, receipt and inspection,
+  退货授权、收货与检验、处置决策、退款处理、欺诈检测和保修索赔管理的体系化专业知识。基于拥有 15 年以上经验的退货运营经理整理而成。包含定级框架、处置经济学、欺诈模式识别和供应商追偿流程。在处理产品退货、逆向物流、退款决策、退货欺诈检测或保修索赔时使用。 |
   disposition decisions, refund processing, fraud detection, and warranty
   claims management. Informed by returns operations managers with 15+ years
   experience. Includes grading frameworks, disposition economics, fraud

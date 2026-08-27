@@ -1,13 +1,6 @@
 ---
 name: implementing-devsecops-security-scanning
-description: 'Integrates Static Application Security Testing (SAST), Dynamic Application
-  Security Testing (DAST), and Software Composition Analysis (SCA) into CI/CD pipelines
-  using open-source tools. Covers Semgrep for SAST, Trivy for SCA and container scanning,
-  OWASP ZAP for DAST, and Gitleaks for secrets detection. Activates for requests involving
-  DevSecOps pipeline setup, automated security scanning in CI/CD, SAST/DAST/SCA integration,
-  or shift-left security implementation.
-
-  '
+description: "使用开源工具将静态应用安全测试（SAST）、动态应用安全测试（DAST）和软件组成分析（SCA）集成到 CI/CD 流水线。涵盖用于 SAST 的 Semgrep、用于 SCA 和容器扫描的 Trivy、用于 DAST 的 OWASP ZAP，以及用于密钥检测的 Gitleaks。当请求涉及 DevSecOps 流水线搭建、CI/CD 中的自动化安全扫描、SAST/DAST/SCA 集成或安全左移实施时激活。 | Integrates Static Application Security Testing (SAST), Dynamic Application Security Testing (DAST), and Software Composition Analysis (SCA) into CI/CD pipelines using open-source tools. Covers Semgrep for SAST, Trivy for SCA and container scanning, OWASP ZAP for DAST, and Gitleaks for secrets detection. Activates for requests involving DevSecOps pipeline setup, automated security scanning in CI/CD, SAST/DAST/SCA integration, or shift-left security implementation."
 domain: cybersecurity
 subdomain: application-security
 tags:

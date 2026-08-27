@@ -1,6 +1,6 @@
 ---
 name: arrowspace
-description: "Spectral vector search using graph Laplacian eigenstructure. Use when cosine/L2 similarity misses latent structure in your embeddings."
+description: "基于图拉普拉斯特征结构的谱向量搜索。当余弦/L2 相似度无法捕捉嵌入中的潜在结构时使用。 | Spectral vector search using graph Laplacian eigenstructure. Use when cosine/L2 similarity misses latent structure in your embeddings."
 category: data
 risk: safe
 source: community

@@ -1,6 +1,6 @@
 ---
 name: odoo-l10n-compliance
-description: "Country-specific Odoo localization: tax configuration, e-invoicing (CFDI, FatturaPA, SAF-T), fiscal reporting, and country chart of accounts setup."
+description: "特定国家的 Odoo 本地化：税务配置、电子发票（CFDI、FatturaPA、SAF-T）、财税报告以及国家会计科目表设置。 | Country-specific Odoo localization: tax configuration, e-invoicing (CFDI, FatturaPA, SAF-T), fiscal reporting, and country chart of accounts setup."
 risk: unknown
 source: community
 ---

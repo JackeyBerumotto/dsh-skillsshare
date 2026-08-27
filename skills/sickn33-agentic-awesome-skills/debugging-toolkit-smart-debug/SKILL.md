@@ -1,6 +1,6 @@
 ---
 name: debugging-toolkit-smart-debug
-description: "Use when working with debugging toolkit smart debug"
+description: "在处理调试工具箱（debugging toolkit）中的智能调试（smart debug）时使用。 | Use when working with debugging toolkit smart debug"
 risk: unknown
 source: community
 date_added: "2026-02-27"

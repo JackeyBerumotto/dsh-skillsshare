@@ -1,6 +1,6 @@
 ---
 name: super-code
-description: "Standing house style to enforce dense, correct, and idiomatic code on all coding tasks. Minimizes code bloat and agent operation overhead."
+description: "长期生效的内部规范，在所有编码任务中强制产出紧凑、正确且地道的代码。最大限度减少代码臃肿和代理运行开销。 | Standing house style to enforce dense, correct, and idiomatic code on all coding tasks. Minimizes code bloat and agent operation overhead."
 risk: safe
 source: community
 date_added: "2026-06-16"

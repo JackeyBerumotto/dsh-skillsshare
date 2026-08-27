@@ -1,6 +1,6 @@
 ---
 name: solidity-security
-description: "Master smart contract security best practices, vulnerability prevention, and secure Solidity development patterns."
+description: "掌握智能合约安全最佳实践、漏洞防范与安全的 Solidity 开发模式。 | Master smart contract security best practices, vulnerability prevention, and secure Solidity development patterns."
 risk: safe
 source: community
 date_added: "2026-02-27"

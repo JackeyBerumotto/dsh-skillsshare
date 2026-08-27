@@ -1,6 +1,6 @@
 ---
 name: code-polish
-description: Rewrites unprofessional code comments into clear ones and performs non-semantic cleanup. Use to professionalize code without altering logic or behavior.
+description: 将不专业的代码注释改写为清晰注释，并执行不影响语义的清理。用于在不改变逻辑或行为的前提下使代码专业化。 | Rewrites unprofessional code comments into clear ones and performs non-semantic cleanup. Use to professionalize code without altering logic or behavior.
 risk: critical
 source: community
 date_added: "2026-07-02"

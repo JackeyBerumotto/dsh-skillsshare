@@ -1,6 +1,6 @@
 ---
 name: anti-reversing-techniques
-description: "AUTHORIZED USE ONLY: This skill contains dual-use security techniques. Before proceeding with any bypass or analysis: > 1."
+description: "仅限授权使用：本技能包含双用途安全技术。在进行任何绕过或分析之前：＞1. | AUTHORIZED USE ONLY: This skill contains dual-use security techniques. Before proceeding with any bypass or analysis: > 1."
 risk: offensive
 source: community
 date_added: "2026-02-27"

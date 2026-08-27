@@ -1,6 +1,6 @@
 ---
 name: tdd-workflow
-description: TDD London School workflow -- mock-first, outside-in test development
+description: TDD 伦敦学派工作流——以 mock 优先、由外向内的测试开发 | TDD London School workflow -- mock-first, outside-in test development
 argument-hint: "<module-path>"
 allowed-tools: Bash(npx * npm *) mcp__claude-flow__hooks_pre-task mcp__claude-flow__hooks_post-task Read Write Edit
 ---

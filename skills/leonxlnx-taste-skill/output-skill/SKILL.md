@@ -1,6 +1,6 @@
 ---
 name: full-output-enforcement
-description: Overrides default LLM truncation behavior. Enforces complete code generation, bans placeholder patterns, and handles token-limit splits cleanly. Apply to any task requiring exhaustive, unabridged output.
+description: 覆盖 LLM 默认的截断行为。强制完整生成代码、禁止占位符模式，并干净地处理 token 上限导致的分段。适用于任何要求穷尽、不删减输出的任务。 | Overrides default LLM truncation behavior. Enforces complete code generation, bans placeholder patterns, and handles token-limit splits cleanly. Apply to any task requiring exhaustive, unabridged output.
 ---
 
 # Full-Output Enforcement

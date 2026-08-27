@@ -2,7 +2,7 @@
 name: generating-test-reports
 version: 1.0.0
 description: |
-  Generate comprehensive test reports with metrics, coverage, and visualizations.
+  生成包含指标、覆盖率和可视化内容的全面测试报告。在执行专项测试时使用。触发短语如「generate test report」、「create test documentation」或「show test metrics」。 |
   Use when performing specialized testing.
   Trigger with phrases like "generate test report", "create test documentation", or "show test metrics".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(test:report-*)

@@ -1,6 +1,6 @@
 ---
 name: Skill Development
-description: This skill should be used when the user wants to "create a skill", "add a skill to plugin", "write a new skill", "improve skill description", "organize skill content", or needs guidance on skill structure, progressive disclosure, or skill development best practices for Claude Code plugins.
+description: 当用户想要「创建技能」「向插件添加技能」「编写新技能」「改进技能描述」「组织技能内容」，或需要 Claude Code 插件的技能结构、渐进式披露及技能开发最佳实践方面的指导时，应使用本技能。 | This skill should be used when the user wants to "create a skill", "add a skill to plugin", "write a new skill", "improve skill description", "organize skill content", or needs guidance on skill structure, progressive disclosure, or skill development best practices for Claude Code plugins.
 version: 0.1.0
 ---
 

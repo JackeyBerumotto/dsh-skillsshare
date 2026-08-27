@@ -1,6 +1,6 @@
 ---
 name: sop-writer
-description: "Write a Standard Operating Procedure (SOP) for any operational task. Use when asked to write an SOP, standard operating procedure, work instruction, or operating manual. Produces a formal SOP with purpose, scope, procedure steps, quality checks, and version control."
+description: "为任何运营任务编写标准作业程序（SOP）。在被要求编写 SOP、标准作业程序、作业指导书或操作手册时使用。产出包含目的、范围、流程步骤、质量检查和版本管理的正式 SOP。 | Write a Standard Operating Procedure (SOP) for any operational task. Use when asked to write an SOP, standard operating procedure, work instruction, or operating manual. Produces a formal SOP with purpose, scope, procedure steps, quality checks, and version control."
 ---
 
 # SOP Writer Skill

@@ -1,6 +1,6 @@
 ---
 name: feature-sunset-plan
-description: "Plan the retirement of a product feature — the kill decision made honest, user migration, data handling, comms sequencing, and the code actually deleted. Use when deprecating or sunsetting a feature, killing an underused capability, retiring an AI feature that didn't land, or when a 'deprecated' feature has haunted the codebase for two years. Produces a sunset plan: the decision record, affected-user analysis, migration paths, a staged timeline with comms per stage, and the removal checklist. For API deprecation specifically use api-versioning-strategy."
+description: "规划产品功能的退役——诚实地做出下线决定、用户迁移、数据处理、沟通节奏，以及真正删除代码。在弃用或下线功能、砍掉少人使用的能力、退役未获认可的 AI 功能，或某个「已弃用」功能已经在代码库里纠缠两年时使用。产出下线计划：决策记录、受影响用户分析、迁移路径、按阶段带沟通的分段时间线，以及移除清单。若专门针对 API 弃用，请使用 api-versioning-strategy。 | Plan the retirement of a product feature — the kill decision made honest, user migration, data handling, comms sequencing, and the code actually deleted. Use when deprecating or sunsetting a feature, killing an underused capability, retiring an AI feature that didn't land, or when a 'deprecated' feature has haunted the codebase for two years. Produces a sunset plan: the decision record, affected-user analysis, migration paths, a staged timeline with comms per stage, and the removal checklist. For API deprecation specifically use api-versioning-strategy."
 ---
 
 # Feature Sunset Plan Skill

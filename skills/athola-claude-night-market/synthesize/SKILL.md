@@ -1,6 +1,6 @@
 ---
 name: synthesize
-description: Merges, dedupes, ranks, and formats research findings into a report. Use after research agents return results from multiple channels to produce a ranked report.
+description: 对研究发现进行合并、去重、排序与格式化，形成报告。在研究代理从多个渠道返回结果之后使用，以产出排序后的报告。 | Merges, dedupes, ranks, and formats research findings into a report. Use after research agents return results from multiple channels to produce a ranked report.
 alwaysApply: false
 category: synthesis
 tags:

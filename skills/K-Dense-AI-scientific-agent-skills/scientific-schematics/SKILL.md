@@ -1,6 +1,6 @@
 ---
 name: scientific-schematics
-description: Create publication-quality scientific diagrams using Nano Banana 2 AI with smart iterative refinement. Uses Gemini 3.1 Pro Preview for quality review. Only regenerates if quality is below threshold for your document type. Specialized in neural network architectures, system diagrams, flowcharts, biological pathways, and complex scientific visualizations.
+description: 使用 Nano Banana 2 AI 创建达到出版质量的科学图表，具备智能迭代优化。使用 Gemini 3.1 Pro Preview 进行质量审查。仅当质量低于文档类型对应的阈值时才重新生成。专注于神经网络架构、系统图、流程图、生物通路以及复杂的科学可视化。 | Create publication-quality scientific diagrams using Nano Banana 2 AI with smart iterative refinement. Uses Gemini 3.1 Pro Preview for quality review. Only regenerates if quality is below threshold for your document type. Specialized in neural network architectures, system diagrams, flowcharts, biological pathways, and complex scientific visualizations.
 allowed-tools: Read Write Edit Bash
 license: MIT license
 required_environment_variables: [{"name": "OPENROUTER_API_KEY", "prompt": "OpenRouter API key for the skill's LLM-powered steps.", "required_for": "optional features"}]

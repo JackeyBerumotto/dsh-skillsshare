@@ -1,6 +1,6 @@
 ---
 name: aws-cost-cleanup
-description: "Automated cleanup of unused AWS resources to reduce costs"
+description: "自动清理未使用的 AWS 资源以降低成本 | Automated cleanup of unused AWS resources to reduce costs"
 risk: safe
 source: community
 date_added: "2026-02-27"

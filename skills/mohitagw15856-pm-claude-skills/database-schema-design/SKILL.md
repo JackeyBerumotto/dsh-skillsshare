@@ -1,6 +1,6 @@
 ---
 name: database-schema-design
-description: "Document or design a database schema with entity relationships, table definitions, constraints, indexes, and access patterns. Use when asked to design a database, document an existing schema, model entities and relationships, define table structures, plan an index strategy, or produce a data model for review. Produces a structured schema document covering an ER diagram, table DDL definitions, index strategy, access pattern analysis, normalization decisions, and migration notes."
+description: "编写或设计数据库 schema，涵盖实体关系、表定义、约束、索引和访问模式。当被要求设计数据库、记录现有 schema、对实体和关系建模、定义表结构、规划索引策略或产出供评审的数据模型时使用。产出结构化的 schema 文档，涵盖 ER 图、表 DDL 定义、索引策略、访问模式分析、规范化决策和迁移说明。 | Document or design a database schema with entity relationships, table definitions, constraints, indexes, and access patterns. Use when asked to design a database, document an existing schema, model entities and relationships, define table structures, plan an index strategy, or produce a data model for review. Produces a structured schema document covering an ER diagram, table DDL definitions, index strategy, access pattern analysis, normalization decisions, and migration notes."
 ---
 
 # Database Schema Design Skill

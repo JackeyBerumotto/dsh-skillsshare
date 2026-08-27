@@ -1,6 +1,6 @@
 ---
 name: nextjs-seo-indexing
-description: "Fix SEO indexing issues, crawl budget problems, and Search Console coverage errors for Next.js apps. Covers canonical tags, noindex audits, sitemap health, static rendering, and internal linking."
+description: "修复 Next.js 应用的 SEO 收录问题、抓取预算问题与 Search Console 覆盖率错误。涵盖 canonical 标签、noindex 审计、sitemap 健康度、静态渲染与内部链接。 | Fix SEO indexing issues, crawl budget problems, and Search Console coverage errors for Next.js apps. Covers canonical tags, noindex audits, sitemap health, static rendering, and internal linking."
 category: seo
 risk: safe
 source: self

@@ -1,13 +1,6 @@
 ---
 name: detecting-anomalies-in-industrial-control-systems
-description: 'This skill covers deploying anomaly detection systems for industrial
-  control environments using machine learning models trained on OT network baselines,
-  physics-based process models, and behavioral analysis of industrial protocol communications.
-  It addresses building normal behavior profiles for SCADA polling patterns, detecting
-  deviations in Modbus/DNP3/OPC UA traffic, identifying rogue devices, and correlating
-  network anomalies with physical process data from historians.
-
-  '
+description: "本技能涵盖为工业控制环境部署异常检测系统，使用基于 OT 网络基线训练的机器学习模型、基于物理的过程模型以及工业协议通信的行为分析。内容涉及为 SCADA 轮询模式构建正常行为画像、检测 Modbus/DNP3/OPC UA 流量中的偏差、识别 rogue 设备，以及将网络异常与历史数据库中的物理过程数据相关联。 | This skill covers deploying anomaly detection systems for industrial control environments using machine learning models trained on OT network baselines, physics-based process models, and behavioral analysis of industrial protocol communications. It addresses building normal behavior profiles for SCADA polling patterns, detecting deviations in Modbus/DNP3/OPC UA traffic, identifying rogue devices, and correlating network anomalies with physical process data from historians."
 domain: cybersecurity
 subdomain: ot-ics-security
 tags:

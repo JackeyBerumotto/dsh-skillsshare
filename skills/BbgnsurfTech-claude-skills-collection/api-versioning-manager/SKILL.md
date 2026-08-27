@@ -2,7 +2,7 @@
 name: versioning-apis
 version: 1.0.0
 description: |
-  Manage API versions with backward compatibility, deprecation notices, and migration paths.
+  管理 API 版本，实现向后兼容、弃用通知与迁移路径。用于管理 API 版本与向后兼容。触发短语如「version the API」「manage API versions」或「handle API versioning」。 |
   Use when managing API versions and backward compatibility.
   Trigger with phrases like "version the API", "manage API versions", or "handle API versioning".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(api:version-*)

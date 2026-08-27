@@ -1,6 +1,6 @@
 ---
 name: project-skill-audit
-description: Audit a project and recommend the highest-value skills to add or update.
+description: 审计项目并推荐价值最高的新增或更新 skill。 | Audit a project and recommend the highest-value skills to add or update.
 risk: safe
 source: "Dimillian/Skills (MIT)"
 date_added: "2026-03-25"

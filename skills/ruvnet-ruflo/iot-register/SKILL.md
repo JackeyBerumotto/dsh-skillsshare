@@ -1,6 +1,6 @@
 ---
 name: iot-register
-description: Register a Cognitum Seed device by endpoint and establish agent bridge
+description: 按端点注册 Cognitum Seed 设备并建立智能体桥接。 | Register a Cognitum Seed device by endpoint and establish agent bridge
 allowed-tools: Bash(npx *) mcp__claude-flow__memory_store Read
 argument-hint: "[endpoint] [--token PAIRING_TOKEN]"
 ---

@@ -1,8 +1,5 @@
 ---
-description: This skill empowers claude to build reusable terraform modules based
-  on user specifications. it leverages the terraform-module-builder plugin to generate
-  production-ready, well-documented terraform module code, incorporating best practices
-  for sec...
+description: "本技能使 claude 能够根据用户规格构建可复用的 terraform 模块。它利用 terraform-module-builder 插件生成生产级、文档完善的 terraform 模块代码，并纳入安全等方面的最佳实践。 | This skill empowers claude to build reusable terraform modules based on user specifications. it leverages the terraform-module-builder plugin to generate production-ready, well-documented terraform module code, incorporating best practices for sec..."
 allowed-tools:
 - Read
 - Write

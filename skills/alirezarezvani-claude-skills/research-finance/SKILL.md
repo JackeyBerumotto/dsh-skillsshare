@@ -1,6 +1,6 @@
 ---
 name: research-finance
-description: Use when managing the money for an internal R&D program or portfolio — building a multi-period program budget with the F&A (indirect) split, tracking burn rate and runway against value-inflection milestones, or routing R&D cost items to a capitalize-vs-expense determination. Every budget output surfaces its assumptions block; capitalize-vs-expense is decision-support only and routes to a named finance owner — it never books an entry or decides accounting treatment. Distinct from finance/financial-analysis (corporate DCF, close, valuation) and research/grants (funding discovery — this manages money already won).
+description: 在管理内部研发项目或项目组合的资金时使用——构建含 F&A（间接费用）分摊的多期项目预算、对照价值拐点里程碑跟踪烧钱率与资金跑道，或将研发成本项送入资本化还是费用化的判定。每个预算输出都呈现其假设块；资本化与费用化判定仅作决策支持并路由到指定的财务负责人——它从不记账，也不决定会计处理。区别于 finance/financial-analysis（公司 DCF、结账、估值）和 research/grants（资金发现——这里管理的是已到手的资金）。 | Use when managing the money for an internal R&D program or portfolio — building a multi-period program budget with the F&A (indirect) split, tracking burn rate and runway against value-inflection milestones, or routing R&D cost items to a capitalize-vs-expense determination. Every budget output surfaces its assumptions block; capitalize-vs-expense is decision-support only and routes to a named finance owner — it never books an entry or decides accounting treatment. Distinct from finance/financial-analysis (corporate DCF, close, valuation) and research/grants (funding discovery — this manages money already won).
 version: 2.9.0
 author: claude-code-skills
 license: MIT

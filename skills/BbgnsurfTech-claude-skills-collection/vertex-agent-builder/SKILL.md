@@ -1,7 +1,5 @@
 ---
-description: Build and deploy production-ready generative AI agents using Vertex AI,
-  Gemini models, and Google Cloud infrastructure with RAG, function calling, and multi-modal
-  capabilities
+description: "使用 Vertex AI、Gemini 模型和 Google Cloud 基础设施构建并部署生产级生成式 AI 智能体，具备 RAG、函数调用和多模态能力 | Build and deploy production-ready generative AI agents using Vertex AI, Gemini models, and Google Cloud infrastructure with RAG, function calling, and multi-modal capabilities"
 name: vertex-agent-builder
 allowed-tools:
 - Read

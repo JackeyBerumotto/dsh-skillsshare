@@ -1,8 +1,6 @@
 ---
 name: implementing-privileged-access-workstation
-description: Design and implement Privileged Access Workstations (PAWs) with device
-  hardening, just-in-time access, and integration with CyberArk or BeyondTrust for
-  secure administrative operations.
+description: "设计并实现特权访问工作站（PAW），包含设备加固、即时访问以及与 CyberArk 或 BeyondTrust 的集成，以保障安全管理操作。 | Design and implement Privileged Access Workstations (PAWs) with device hardening, just-in-time access, and integration with CyberArk or BeyondTrust for secure administrative operations."
 domain: cybersecurity
 subdomain: identity-and-access-management
 tags:

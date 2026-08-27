@@ -1,7 +1,7 @@
 ---
 name: survival-crafting
 description: >
-  Build a survival-crafting game: resource gathering, inventory, crafting and a tech tree,
+  构建生存建造游戏：资源采集、物品栏、制作与科技树、需求系统（饥饿、口渴、体温）以及基地建造。适用于生存类或制作与基地建造类游戏。 |
   needs (hunger/thirst/temperature), and base building. Use for a survival or crafting/base-building game.
 license: Apache-2.0
 compatibility: Engine-agnostic design patterns; snippets are pseudocode (port to your engine)

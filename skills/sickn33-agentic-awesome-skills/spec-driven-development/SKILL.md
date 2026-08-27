@@ -1,6 +1,6 @@
 ---
 name: spec-driven-development
-description: Creates specs before coding. Use when starting a new project, feature, or significant change and no specification exists yet. Use when requirements are unclear, ambiguous, or only exist as a vague idea.
+description: 在编码之前创建规格说明。当启动新项目、新功能或重大变更且尚无规格时使用。当需求不清晰、有歧义或只是模糊的想法时也应使用。 | Creates specs before coding. Use when starting a new project, feature, or significant change and no specification exists yet. Use when requirements are unclear, ambiguous, or only exist as a vague idea.
 risk: unknown
 source: https://github.com/addyosmani/agent-skills/tree/main/skills/spec-driven-development
 source_repo: addyosmani/agent-skills

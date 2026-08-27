@@ -1,6 +1,6 @@
 ---
 name: article-illustrations
-description: "Generate hand-drawn 16:9 article illustrations with the Grav character IP, sparse annotations, and absurd but clear visual metaphors."
+description: "生成手绘风格的 16:9 文章插图，使用 Grav 角色 IP、稀疏标注以及荒诞但清晰的视觉隐喻。 | Generate hand-drawn 16:9 article illustrations with the Grav character IP, sparse annotations, and absurd but clear visual metaphors."
 category: creative
 risk: safe
 source: community

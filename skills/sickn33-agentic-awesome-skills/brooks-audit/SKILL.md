@@ -1,6 +1,6 @@
 ---
 name: brooks-audit
-description: "Architecture audit that maps module dependencies, checks layering integrity, and flags structural decay across a codebase, drawing on twelve classic engineering books. Triggers when: user asks to audit architecture, review folder/module structure, check for circular imports, understand..."
+description: "架构审计：映射模块依赖、检查分层完整性并标记代码库中的结构腐化，借鉴十二本经典工程著作。触发时机：用户要求审计架构、评审文件夹／模块结构、检查循环导入、理解…… | Architecture audit that maps module dependencies, checks layering integrity, and flags structural decay across a codebase, drawing on twelve classic engineering books. Triggers when: user asks to audit architecture, review folder/module structure, check for circular imports, understand..."
 risk: unknown
 source: https://github.com/hyhmrright/brooks-lint/tree/main/skills/brooks-audit
 source_repo: hyhmrright/brooks-lint

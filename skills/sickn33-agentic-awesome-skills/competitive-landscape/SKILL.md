@@ -1,6 +1,6 @@
 ---
 name: competitive-landscape
-description: "Comprehensive frameworks for analyzing competition, identifying differentiation opportunities, and developing winning market positioning strategies."
+description: "用于分析竞争、识别差异化机会并制定制胜市场定位策略的综合框架。 | Comprehensive frameworks for analyzing competition, identifying differentiation opportunities, and developing winning market positioning strategies."
 risk: safe
 source: community
 date_added: '2026-02-27'

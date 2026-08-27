@@ -1,6 +1,6 @@
 ---
 name: api-database-mysql
-description: Direct MySQL database access with mysql2 driver -- connection pools, prepared statements, transactions, streaming, typed queries, error handling
+description: 使用 mysql2 驱动直接访问 MySQL 数据库：连接池、预编译语句、事务、流式处理、类型化查询和错误处理。 | Direct MySQL database access with mysql2 driver -- connection pools, prepared statements, transactions, streaming, typed queries, error handling
 ---
 
 # MySQL Patterns (mysql2)

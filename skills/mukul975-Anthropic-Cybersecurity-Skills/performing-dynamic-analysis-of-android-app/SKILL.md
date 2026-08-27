@@ -1,14 +1,6 @@
 ---
 name: performing-dynamic-analysis-of-android-app
-description: 'Performs runtime dynamic analysis of Android applications using Frida,
-  Objection, and Android Debug Bridge to observe application behavior during execution,
-  intercept function calls, modify runtime values, and identify vulnerabilities that
-  static analysis misses. Use when testing Android apps for runtime security flaws,
-  hooking sensitive methods, bypassing client-side protections, or analyzing obfuscated
-  applications. Activates for requests involving Android dynamic analysis, runtime
-  hooking, Frida Android instrumentation, or live app behavior analysis.
-
-  '
+description: "使用 Frida、Objection 与 Android Debug Bridge 对 Android 应用执行运行时动态分析，观察应用执行期间的行为、拦截函数调用、修改运行时数值，并发现静态分析遗漏的漏洞。当测试 Android 应用的运行时安全缺陷、挂钩敏感方法、绕过客户端防护或分析混淆应用时使用。适用于涉及 Android 动态分析、运行时挂钩、Frida Android 插桩或应用实时行为分析的请求。 | Performs runtime dynamic analysis of Android applications using Frida, Objection, and Android Debug Bridge to observe application behavior during execution, intercept function calls, modify runtime values, and identify vulnerabilities that static analysis misses. Use when testing Android apps for runtime security flaws, hooking sensitive methods, bypassing client-side protections, or analyzing obfuscated applications. Activates for requests involving Android dynamic analysis, runtime hooking, Frida Android instrumentation, or live app behavior analysis."
 domain: cybersecurity
 subdomain: mobile-security
 author: mahipal

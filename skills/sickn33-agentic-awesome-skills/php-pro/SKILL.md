@@ -1,6 +1,6 @@
 ---
 name: php-pro
-description: 'Write idiomatic PHP code with generators, iterators, SPL data
+description: 使用生成器、迭代器和 SPL 数据结构编写地道的 PHP 代码 | 'Write idiomatic PHP code with generators, iterators, SPL data
 
   structures, and modern OOP features. Use PROACTIVELY for high-performance PHP
 

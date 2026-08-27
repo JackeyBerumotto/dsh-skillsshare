@@ -1,8 +1,5 @@
 ---
-description: This skill enables claude to perform natural language processing and
-  text analysis using the nlp-text-analyzer plugin. it should be used when the user
-  requests analysis of text, including sentiment analysis, keyword extraction, topic
-  modeling, or ...
+description: "本技能使 claude 能够使用 nlp-text-analyzer 插件执行自然语言处理与文本分析。当用户请求分析文本（包括情感分析、关键词提取、主题建模等）时应使用本技能。 | This skill enables claude to perform natural language processing and text analysis using the nlp-text-analyzer plugin. it should be used when the user requests analysis of text, including sentiment analysis, keyword extraction, topic modeling, or ..."
 allowed-tools:
 - Read
 - Bash

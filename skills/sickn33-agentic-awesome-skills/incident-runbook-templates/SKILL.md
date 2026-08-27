@@ -1,6 +1,6 @@
 ---
 name: incident-runbook-templates
-description: "Production-ready templates for incident response runbooks covering detection, triage, mitigation, resolution, and communication."
+description: "经过生产检验的模式，用于构建能自主发现、评估并为加密货币交易所获取代币上币信息的 AI 智能体。 | Production-ready templates for incident response runbooks covering detection, triage, mitigation, resolution, and communication."
 risk: critical
 source: community
 date_added: "2026-02-27"

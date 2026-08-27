@@ -1,9 +1,6 @@
 ---
 name: twilio-communications
-description: "Build communication features with Twilio: SMS messaging, voice
-  calls, WhatsApp Business API, and user verification (2FA). Covers the full
-  spectrum from simple notifications to complex IVR systems and multi-channel
-  authentication."
+description: "使用 Twilio 构建通信功能：短信、语音呼叫、WhatsApp Business API 和用户验证（2FA）。涵盖从简单通知到复杂 IVR 系统和多渠道身份验证的完整范围。 | Build communication features with Twilio: SMS messaging, voice calls, WhatsApp Business API, and user verification (2FA). Covers the full spectrum from simple notifications to complex IVR systems and multi-channel authentication."
 risk: unknown
 source: vibeship-spawner-skills (Apache 2.0)
 date_added: 2026-02-27

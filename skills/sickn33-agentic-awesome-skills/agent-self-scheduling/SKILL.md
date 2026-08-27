@@ -1,6 +1,6 @@
 ---
 name: agent-self-scheduling
-description: "Schedule AI agent runs with cron, loops, or external clocks while avoiding unsafe tight autonomous timers."
+description: "使用 cron、循环或外部时钟调度 AI 代理运行，同时避免不安全的紧凑自主定时器。 | Schedule AI agent runs with cron, loops, or external clocks while avoiding unsafe tight autonomous timers."
 category: agent-orchestration
 risk: critical
 source: community

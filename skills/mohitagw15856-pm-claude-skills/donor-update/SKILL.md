@@ -1,6 +1,6 @@
 ---
 name: donor-update
-description: "Write a warm donor update or stewardship message that makes a supporter feel their gift mattered. Use when asked to write a donor update, a thank-you/stewardship email, a supporter newsletter, or a gift acknowledgement. Produces a donor-centred update — sincere thanks, the specific impact of their support, a brief story, and a light, optional next step — that strengthens the relationship and sets up the next gift."
+description: "撰写温暖的捐赠者更新或维护信息，让支持者感受到捐赠的意义。在被要求编写捐赠者更新、致谢/维护邮件、支持者 newsletter 或捐赠确认时使用。产出以捐赠者为中心的更新——真诚的感谢、其支持的具体影响、一个简短的故事，以及轻松的可选下一步——巩固关系并为下一次捐赠铺垫。 | Write a warm donor update or stewardship message that makes a supporter feel their gift mattered. Use when asked to write a donor update, a thank-you/stewardship email, a supporter newsletter, or a gift acknowledgement. Produces a donor-centred update — sincere thanks, the specific impact of their support, a brief story, and a light, optional next step — that strengthens the relationship and sets up the next gift."
 ---
 
 # Donor Update Skill

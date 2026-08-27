@@ -1,7 +1,6 @@
 ---
 name: emulating-cloud-attacks-with-stratus-red-team
-description: Detonate granular AWS, Azure, GCP, and Kubernetes attack techniques to validate
-  detections with Stratus Red Team.
+description: "使用 Stratus Red Team 引爆细粒度的 AWS、Azure、GCP 和 Kubernetes 攻击技术，以验证检测能力。 | Detonate granular AWS, Azure, GCP, and Kubernetes attack techniques to validate detections with Stratus Red Team."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

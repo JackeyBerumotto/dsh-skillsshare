@@ -1,7 +1,6 @@
 ---
 name: prompt-caching
-description: Caching strategies for LLM prompts including Anthropic prompt
-  caching, response caching, and CAG (Cache Augmented Generation)
+description: "面向 LLM 提示词的缓存策略，包括 Anthropic 提示词缓存、响应缓存和 CAG（缓存增强生成） | Caching strategies for LLM prompts including Anthropic prompt caching, response caching, and CAG (Cache Augmented Generation)"
 risk: none
 source: vibeship-spawner-skills (Apache 2.0)
 date_added: 2026-02-27

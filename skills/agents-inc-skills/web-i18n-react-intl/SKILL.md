@@ -1,6 +1,6 @@
 ---
 name: web-i18n-react-intl
-description: ICU message format internationalization
+description: ICU 消息格式国际化。 | ICU message format internationalization
 ---
 
 # React-Intl (FormatJS) Internationalization Patterns

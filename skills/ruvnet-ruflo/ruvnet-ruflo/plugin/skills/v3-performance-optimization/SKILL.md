@@ -1,6 +1,6 @@
 ---
 name: "V3 Performance Optimization"
-description: "Achieve aggressive v3 performance targets: 2.49x-7.47x Flash Attention speedup, 150x-12,500x search improvements, 50-75% memory reduction. Comprehensive benchmarking and optimization suite."
+description: "达成激进的 v3 性能目标：Flash Attention 提速 2.49 至 7.47 倍、搜索性能提升 150 至 12500 倍、内存降低百分之五十至七十五。全面的基准测试与优化套件。 | Achieve aggressive v3 performance targets: 2.49x-7.47x Flash Attention speedup, 150x-12,500x search improvements, 50-75% memory reduction. Comprehensive benchmarking and optimization suite."
 ---
 
 # V3 Performance Optimization

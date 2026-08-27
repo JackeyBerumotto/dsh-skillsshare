@@ -1,7 +1,7 @@
 ---
 name: godot-ui-control
 description: >
-  Build Godot 4.x user interfaces with Control nodes: anchors and offsets for
+  使用 Control 节点构建 Godot 4.x 用户界面：用锚点与偏移实现响应式布局，用 Container 节点（VBox、HBox、Grid、Margin）实现自动排列，用 Theme 资源实现一致的样式，以及键盘与手柄的焦点导航。在 Godot 项目中布局 HUD、菜单或 UI，处理 Control 与 Container 节点、锚点、主题，或 .tscn 中的焦点时使用。 |
   responsive layout, Container nodes (VBox/HBox/Grid/Margin) for automatic
   arrangement, Theme resources for consistent styling, and keyboard/gamepad focus
   navigation. Use when laying out a HUD, menu, or UI in a Godot project, working

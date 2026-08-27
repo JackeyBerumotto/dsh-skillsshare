@@ -1,14 +1,6 @@
 ---
 name: profiling-threat-actor-groups
-description: 'Develops comprehensive threat actor profiles for APT groups, criminal
-  organizations, and hacktivist collectives by aggregating TTP documentation, historical
-  campaign data, tooling fingerprints, and attribution indicators from multiple intelligence
-  sources. Use when briefing executives on sector-specific threats, updating threat
-  model assumptions, or prioritizing defensive controls against specific adversaries.
-  Activates for requests involving MITRE ATT&CK Groups, Mandiant APT profiles, CrowdStrike
-  adversary naming, or sector-specific threat briefings.
-
-  '
+description: "通过汇聚来自多个情报源的 TTP 文档、历史攻击活动数据、工具指纹和归因指标，为 APT 组织、犯罪团伙和黑客活动团体构建全面的威胁行为者画像。适用于向高管简报行业特定威胁、更新威胁模型假设，或针对特定对手确定防御控制优先级。当请求涉及 MITRE ATT&CK Groups、Mandiant APT 画像、CrowdStrike 对手命名或行业特定威胁简报时激活。 | Develops comprehensive threat actor profiles for APT groups, criminal organizations, and hacktivist collectives by aggregating TTP documentation, historical campaign data, tooling fingerprints, and attribution indicators from multiple intelligence sources. Use when briefing executives on sector-specific threats, updating threat model assumptions, or prioritizing defensive controls against specific adversaries. Activates for requests involving MITRE ATT&CK Groups, Mandiant APT profiles, CrowdStrike adversary naming, or sector-specific threat briefings."
 domain: cybersecurity
 subdomain: threat-intelligence
 tags:

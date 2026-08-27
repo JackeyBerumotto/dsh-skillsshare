@@ -1,7 +1,7 @@
 ---
 name: roblox-luau
 description: >
-  Script a Roblox experience in Luau: get services, create and parent Instances,
+  用 Luau 编写 Roblox 体验脚本：获取服务、创建并挂载 Instance、连接事件、区分服务端 Script 与客户端 LocalScript 的运行，以及通过 RemoteEvent/RemoteFunction（服务端权威）跨客户端/服务端边界通信。在构建或调试 Roblox Studio 脚本时使用——当用户提到 Roblox、Luau、服务、RemoteEvent、Instance.new、PlayerAdded 或客户端与服务端之分时。保存玩家数据请使用 roblox-datastores。 |
   connect events, run server Scripts vs client LocalScripts, and communicate across
   the client/server boundary with RemoteEvents/RemoteFunctions (server-authoritative).
   Use when building or debugging Roblox Studio scripts — when the user mentions

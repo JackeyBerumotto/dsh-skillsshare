@@ -1,6 +1,6 @@
 ---
 name: android-cli
-description: Orchestrates Android development tasks including project creation, deployment, SDK management, and environment diagnostics using the `android` command-line tool.
+description: 使用 `android` 命令行工具编排 Android 开发任务，包括项目创建、部署、SDK 管理和环境诊断。 | Orchestrates Android development tasks including project creation, deployment, SDK management, and environment diagnostics using the `android` command-line tool.
 category: tools
 risk: critical
 source: self

@@ -2,7 +2,7 @@
 name: managing-snapshot-tests
 version: 1.0.0
 description: |
-  Create and validate component snapshots for UI regression testing.
+  为 UI 回归测试创建并验证组件快照。当执行专项测试时使用。可通过「update snapshots」「test UI snapshots」或「validate component snapshots」等短语触发。 |
   Use when performing specialized testing.
   Trigger with phrases like "update snapshots", "test UI snapshots", or "validate component snapshots".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(test:snapshot-*)

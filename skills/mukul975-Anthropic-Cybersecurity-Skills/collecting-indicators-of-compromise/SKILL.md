@@ -1,13 +1,6 @@
 ---
 name: collecting-indicators-of-compromise
-description: 'Systematically collects, categorizes, and distributes indicators of
-  compromise (IOCs) during and after security incidents to enable detection, blocking,
-  and threat intelligence sharing. Covers network, host, email, and behavioral indicators
-  using STIX/TAXII formats and threat intelligence platforms. Activates for requests
-  involving IOC collection, indicator extraction, threat indicator sharing, compromise
-  indicators, STIX export, or IOC enrichment.
-
-  '
+description: "在安全事件期间与事后系统性地收集、分类并分发失陷指标（IOC），支撑检测、阻断与威胁情报共享。涵盖使用 STIX/TAXII 格式与威胁情报平台的网络、主机、邮件与行为指标。适用于涉及 IOC 收集、指标提取、威胁指标共享、失陷指标、STIX 导出或 IOC 充实的请求。 | Systematically collects, categorizes, and distributes indicators of compromise (IOCs) during and after security incidents to enable detection, blocking, and threat intelligence sharing. Covers network, host, email, and behavioral indicators using STIX/TAXII formats and threat intelligence platforms. Activates for requests involving IOC collection, indicator extraction, threat indicator sharing, compromise indicators, STIX export, or IOC enrichment."
 domain: cybersecurity
 subdomain: incident-response
 tags:

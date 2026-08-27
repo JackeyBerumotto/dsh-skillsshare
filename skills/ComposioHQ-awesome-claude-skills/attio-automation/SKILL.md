@@ -1,6 +1,6 @@
 ---
 name: Attio Automation
-description: "Automate Attio CRM operations -- search records, query contacts and companies with advanced filters, manage notes, list attributes, and navigate your relationship data -- using natural language through the Composio MCP integration."
+description: "通过 Composio MCP 集成用自然语言自动化 Attio CRM 操作——搜索记录、使用高级筛选条件查询联系人与公司、管理笔记、列出属性并浏览你的关系数据。 | Automate Attio CRM operations -- search records, query contacts and companies with advanced filters, manage notes, list attributes, and navigate your relationship data -- using natural language through the Composio MCP integration."
 category: crm
 requires:
   mcp:

@@ -1,6 +1,6 @@
 ---
 name: invoice-generator
-description: "Create a professional, complete invoice for a client or customer. Use when asked to write an invoice, create a bill, draft a freelance/contractor invoice, or set up an invoice template. Produces a clear invoice — your and the client's details, a unique number, line items with quantities/rates, subtotal/tax/total, payment terms and methods, and due date — ready to send and easy to pay. Not tax/legal advice."
+description: "为客户创建专业、完整的发票。当被要求开具发票、创建账单、起草自由职业者或承包商发票，或设置发票模板时使用。产出一封清晰的发票——包含你方与客户的详细信息、唯一编号、带数量和单价的明细项、小计／税额／总计、付款条款与方式以及到期日——可直接发送且便于支付。不构成税务或法律建议。 | Create a professional, complete invoice for a client or customer. Use when asked to write an invoice, create a bill, draft a freelance/contractor invoice, or set up an invoice template. Produces a clear invoice — your and the client's details, a unique number, line items with quantities/rates, subtotal/tax/total, payment terms and methods, and due date — ready to send and easy to pay. Not tax/legal advice."
 ---
 
 # Invoice Generator Skill

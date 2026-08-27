@@ -1,6 +1,6 @@
 ---
 name: dhdna-profiler
-description: Extract cognitive patterns and thinking fingerprints from any text. Use this skill when the user wants to analyze how someone thinks, understand cognitive style, profile writing or speech patterns, compare thinking styles between people, asks "what's my thinking style", "analyze how this person reasons", "cognitive profile", "thinking pattern", "DHDNA", "digital DNA", or wants to understand the mind behind any text. Also trigger when the user provides text and wants deeper insight into the author's reasoning patterns, decision-making style, or cognitive signature.
+description: 从任意文本提取认知模式与思维指纹。当用户想分析某人的思考方式、理解认知风格、剖析写作或演讲模式、比较人与人的思维风格，或问到「我的思维风格是什么」「分析这个人的推理方式」「认知画像」「思维模式」「DHDNA」「数字 DNA」，或想理解任何文本背后的思想时使用此技能。当用户提供文本并想深入洞察作者的推理模式、决策风格或认知签名时也会触发。 | Extract cognitive patterns and thinking fingerprints from any text. Use this skill when the user wants to analyze how someone thinks, understand cognitive style, profile writing or speech patterns, compare thinking styles between people, asks "what's my thinking style", "analyze how this person reasons", "cognitive profile", "thinking pattern", "DHDNA", "digital DNA", or wants to understand the mind behind any text. Also trigger when the user provides text and wants deeper insight into the author's reasoning patterns, decision-making style, or cognitive signature.
 allowed-tools: Read Write
 license: MIT license
 metadata: {"version": "1.0", "skill-author": "AHK Strategies (ashrafkahoush-ux)"}

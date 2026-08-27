@@ -1,6 +1,6 @@
 ---
 name: ito-market-intelligence
-description: Research prediction-market events, venues, underliers, liquidity, and news context for Itô basket workflows. Use for read-only market intelligence, API-gated Itô exploration, and source-grounded prediction-market briefings without investment advice or live trading.
+description: 为 Itô 篮子工作流研究预测市场的事件、场所、标的、流动性和新闻背景。用于只读市场情报、API 门控的 Itô 探索，以及基于信源的预测市场简报，不提供投资建议或实盘交易。 | Research prediction-market events, venues, underliers, liquidity, and news context for Itô basket workflows. Use for read-only market intelligence, API-gated Itô exploration, and source-grounded prediction-market briefings without investment advice or live trading.
 metadata:
   origin: ECC
 ---

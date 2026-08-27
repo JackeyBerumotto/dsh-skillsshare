@@ -1,6 +1,6 @@
 ---
 name: verifying-build-provenance-with-slsa-sigstore
-description: Verify signed artifacts and SLSA build provenance with Sigstore cosign and slsa-verifier, enforce keyless OIDC identity, and apply SLSA Build levels to harden the software supply chain.
+description: 使用 Sigstore cosign 和 slsa-verifier 验证已签名制品及 SLSA 构建溯源，强制执行无密钥 OIDC 身份，并应用 SLSA Build 等级以加固软件供应链。 | Verify signed artifacts and SLSA build provenance with Sigstore cosign and slsa-verifier, enforce keyless OIDC identity, and apply SLSA Build levels to harden the software supply chain.
 domain: cybersecurity
 subdomain: supply-chain-security
 tags:

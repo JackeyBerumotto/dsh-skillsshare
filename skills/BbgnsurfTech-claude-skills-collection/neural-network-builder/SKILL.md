@@ -1,7 +1,5 @@
 ---
-description: This skill allows claude to construct and configure neural network architectures
-  using the neural-network-builder plugin. it should be used when the user requests
-  the creation of a new neural network, modification of an existing one, or assistance...
+description: "本技能允许 claude 使用 neural-network-builder 插件构建并配置神经网络架构。当用户请求创建新神经网络、修改现有网络或寻求相关协助时应使用本技能。 | This skill allows claude to construct and configure neural network architectures using the neural-network-builder plugin. it should be used when the user requests the creation of a new neural network, modification of an existing one, or assistance..."
 allowed-tools:
 - Read
 - Write

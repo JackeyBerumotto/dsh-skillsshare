@@ -1,8 +1,6 @@
 ---
 name: performing-threat-intelligence-sharing-with-misp
-description: Use PyMISP to create, enrich, and share threat intelligence events on
-  a MISP platform, including IOC management, feed integration, STIX export, and community
-  sharing workflows.
+description: "使用 PyMISP 在 MISP 平台上创建、充实并分享威胁情报事件，涵盖 IOC 管理、feed 集成、STIX 导出与社区共享工作流。 | Use PyMISP to create, enrich, and share threat intelligence events on a MISP platform, including IOC management, feed integration, STIX export, and community sharing workflows."
 domain: cybersecurity
 subdomain: threat-intelligence
 tags:

@@ -1,6 +1,6 @@
 ---
 name: digital-garden-cultivator
-description: Manages digital garden notes, link structures, and health metrics. Use when curating a knowledge base, pruning stale notes, or tracking content maturity.
+description: 管理数字花园的笔记、链接结构与健康度指标。在维护知识库、清理陈旧笔记或跟踪内容成熟度时使用。 | Manages digital garden notes, link structures, and health metrics. Use when curating a knowledge base, pruning stale notes, or tracking content maturity.
 alwaysApply: false
 category: cultivation
 tags:

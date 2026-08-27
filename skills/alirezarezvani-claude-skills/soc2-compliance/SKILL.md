@@ -1,6 +1,6 @@
 ---
 name: "soc2-compliance"
-description: "Use when the user asks to prepare for SOC 2 audits, map Trust Service Criteria, build control matrices, collect audit evidence, perform gap analysis, or assess SOC 2 Type I vs Type II readiness."
+description: "当用户要求准备 SOC 2 审计、映射信任服务准则、构建控制矩阵、收集审计证据、执行差距分析或评估 SOC 2 Type I 与 Type II 的就绪度时使用。 | Use when the user asks to prepare for SOC 2 audits, map Trust Service Criteria, build control matrices, collect audit evidence, perform gap analysis, or assess SOC 2 Type I vs Type II readiness."
 ---
 
 # SOC 2 Compliance

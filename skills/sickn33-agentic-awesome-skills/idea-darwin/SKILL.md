@@ -1,6 +1,6 @@
 ---
 name: idea-darwin
-description: "Darwinian idea evolution engine — toss rough ideas onto an evolution island, let them compete, crossbreed, and mutate through structured rounds to surface your strongest concepts."
+description: "达尔文式创意进化引擎——把粗糙的想法抛到进化岛上，让它们在结构化的轮次中竞争、杂交和变异，最终浮现出你最强大的概念。 | Darwinian idea evolution engine — toss rough ideas onto an evolution island, let them compete, crossbreed, and mutate through structured rounds to surface your strongest concepts."
 risk: safe
 source: community
 date_added: "2026-04-07"

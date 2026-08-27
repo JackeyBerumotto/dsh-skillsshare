@@ -1,7 +1,7 @@
 ---
 name: github-actions-advanced
 description: >
-  Design, debug, and harden GitHub Actions CI/CD workflows, including reusable
+  设计、调试并加固 GitHub Actions CI/CD 工作流，包括可复用工作流、矩阵构建、自托管 runner、OIDC 身份认证、缓存、环境、secrets 和发布自动化。 |
   workflows, matrix builds, self-hosted runners, OIDC authentication, caching,
   environments, secrets, and release automation.
 category: devops

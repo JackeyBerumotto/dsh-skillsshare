@@ -1,6 +1,6 @@
 ---
 name: sop-meeting-prep
-description: "Prepare an S&OP cycle readout that surfaces the demand-supply gaps and forces the three decisions the meeting must make. Use when asked to prep an S&OP meeting, build the executive S&OP deck, summarize demand vs supply for the monthly cycle, or prepare a supply review readout. Produces a gap table, scenario levers with costs, an inventory projection, a decisions-required list, and a pre-read package."
+description: "准备一份 S&OP 周期汇报，呈现需求-供给缺口，并聚焦会议必须做出的三项决策。当被要求准备 S&OP 会议、制作高管 S&OP 汇报片、为月度周期总结供需对比，或准备供应评审汇报时使用。产出缺口表、带成本的情景杠杆、库存预测、必做决策清单和会前阅读材料。 | Prepare an S&OP cycle readout that surfaces the demand-supply gaps and forces the three decisions the meeting must make. Use when asked to prep an S&OP meeting, build the executive S&OP deck, summarize demand vs supply for the monthly cycle, or prepare a supply review readout. Produces a gap table, scenario levers with costs, an inventory projection, a decisions-required list, and a pre-read package."
 ---
 
 # S&OP Meeting Prep Skill

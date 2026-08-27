@@ -1,6 +1,6 @@
 ---
 name: desktop-ipc-electron
-description: Type-safe Electron IPC patterns with typed channels, electron-trpc, MessagePort, and utility process communication
+description: 类型安全的 Electron IPC 模式，包含类型化通道、electron-trpc、MessagePort 和实用程序进程通信。 | Type-safe Electron IPC patterns with typed channels, electron-trpc, MessagePort, and utility process communication
 ---
 
 # Electron Type-Safe IPC Patterns

@@ -1,13 +1,6 @@
 ---
 name: processing-stix-taxii-feeds
-description: 'Processes STIX 2.1 threat intelligence bundles delivered via TAXII 2.1
-  servers, normalizing objects into platform-native schemas and routing them to appropriate
-  consuming systems. Use when onboarding new TAXII collection endpoints, automating
-  bi-directional intelligence sharing with ISACs, or building pipeline validation
-  for malformed STIX bundles. Activates for requests involving OASIS STIX, TAXII server
-  configuration, MISP TAXII, or Cortex XSOAR feed integrations.
-
-  '
+description: "处理通过 TAXII 2.1 服务器交付的 STIX 2.1 威胁情报包，将对象规范化为平台原生模式并路由至相应的消费系统。当接入新的 TAXII 收集端点、与 ISAC 自动化双向情报共享，或为畸形 STIX 包构建管线校验时使用。适用于涉及 OASIS STIX、TAXII 服务器配置、MISP TAXII 或 Cortex XSOAR 源集成的请求。 | Processes STIX 2.1 threat intelligence bundles delivered via TAXII 2.1 servers, normalizing objects into platform-native schemas and routing them to appropriate consuming systems. Use when onboarding new TAXII collection endpoints, automating bi-directional intelligence sharing with ISACs, or building pipeline validation for malformed STIX bundles. Activates for requests involving OASIS STIX, TAXII server configuration, MISP TAXII, or Cortex XSOAR feed integrations."
 domain: cybersecurity
 subdomain: threat-intelligence
 tags:

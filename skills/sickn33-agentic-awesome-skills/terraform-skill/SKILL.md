@@ -1,6 +1,6 @@
 ---
 name: terraform-skill
-description: "Terraform infrastructure as code best practices"
+description: "Terraform 基础设施即代码最佳实践 | Terraform infrastructure as code best practices"
 risk: safe
 source: "https://github.com/antonbabenko/terraform-skill"
 date_added: "2026-02-27"

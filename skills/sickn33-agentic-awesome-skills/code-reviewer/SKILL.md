@@ -1,6 +1,6 @@
 ---
 name: code-reviewer
-description: "Elite code review expert specializing in modern AI-powered code"
+description: "顶级代码审查专家，专注现代 AI 驱动的代码 | Elite code review expert specializing in modern AI-powered code"
 risk: unknown
 source: community
 date_added: "2026-02-27"

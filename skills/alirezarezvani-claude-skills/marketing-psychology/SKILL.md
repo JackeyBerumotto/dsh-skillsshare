@@ -1,6 +1,6 @@
 ---
 name: "marketing-psychology"
-description: "When the user wants to apply psychological principles, mental models, or behavioral science to marketing. Also use when the user mentions 'psychology,' 'mental models,' 'cognitive bias,' 'persuasion,' 'behavioral science,' 'why people buy,' 'decision-making,' or 'consumer behavior.' This skill provides 70+ mental models organized for marketing application."
+description: "当用户希望将心理学原理、思维模型或行为科学应用于营销时使用。当用户提到「psychology」「mental models」「cognitive bias」「persuasion」「behavioral science」「why people buy」「decision-making」或「consumer behavior」时也应使用。本技能提供面向营销应用、按体系组织的 70 多个思维模型。 | When the user wants to apply psychological principles, mental models, or behavioral science to marketing. Also use when the user mentions 'psychology,' 'mental models,' 'cognitive bias,' 'persuasion,' 'behavioral science,' 'why people buy,' 'decision-making,' or 'consumer behavior.' This skill provides 70+ mental models organized for marketing application."
 license: MIT
 metadata:
   version: 1.1.0

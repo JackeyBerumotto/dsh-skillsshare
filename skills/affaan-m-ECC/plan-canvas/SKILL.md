@@ -1,6 +1,6 @@
 ---
 name: plan-canvas
-description: Open plans and HTML artifacts in a local browser canvas where the human annotates elements, chats, and approves or requests changes without leaving the page. Use when presenting a plan for review, or when feedback like "move this, change that" is easier pointed at than typed.
+description: 在本地浏览器画布中打开方案和 HTML 产物，人可以在页面上直接标注元素、聊天并批准或请求修改，无需离开页面。在展示方案供评审，或「移动这个、修改那个」之类反馈用指认比打字更容易表达时使用。 | Open plans and HTML artifacts in a local browser canvas where the human annotates elements, chats, and approves or requests changes without leaving the page. Use when presenting a plan for review, or when feedback like "move this, change that" is easier pointed at than typed.
 metadata:
   origin: ECC
 version: "1.0.0"

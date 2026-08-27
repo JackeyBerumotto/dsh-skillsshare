@@ -1,6 +1,6 @@
 ---
 name: receipts-audit
-description: "Audit any document against its own sources — every factual claim extracted and graded as evidenced, partially evidenced, unsupported, or contradicted, with the exact source line that supports or fails it. Use when asked to fact-check a document against its sources, check whether a report's claims are backed up, verify a deck against the data, or ask 'does this doc have receipts?'. Produces a claim ledger, unsupported claims ranked by load-bearingness, a fix-or-drop call per claim, and an honesty score with stated method."
+description: "依据文档自身的来源对其进行审计——提取每一条事实性论断并评定为有据、部分有据、无据或与来源相悖，同时给出支持或否定该论断的确切来源行。当被要求对照来源对文档做事实核查、确认报告论断是否有依据、用数据验证演示文稿或询问「这份文档有凭有据吗」时使用。产出论断台账、按关键程度排序的无据论断、每条论断的修复或删除建议，以及附方法说明的诚实度评分。 | Audit any document against its own sources — every factual claim extracted and graded as evidenced, partially evidenced, unsupported, or contradicted, with the exact source line that supports or fails it. Use when asked to fact-check a document against its sources, check whether a report's claims are backed up, verify a deck against the data, or ask 'does this doc have receipts?'. Produces a claim ledger, unsupported claims ranked by load-bearingness, a fix-or-drop call per claim, and an honesty score with stated method."
 ---
 
 # Receipts Audit Skill

@@ -1,7 +1,7 @@
 ---
 name: godot-multiplayer
 description: >
-  Build networked games with Godot 4.x high-level multiplayer: set up an
+  使用 Godot 4.x 高级多人联网功能构建联网游戏：设置 ENetMultiplayerPeer 服务器与客户端、用 @rpc 注解定义 RPC（经 rpc() 或 rpc_id() 调用）、设置逐节点的多人权限，并用 MultiplayerSpawner 和 MultiplayerSynchronizer 复制状态。当为 Godot 项目添加多人或联网功能、编写 @rpc 函数，或在对等端之间同步玩家或世界状态时使用。 |
   ENetMultiplayerPeer server/client, define RPCs with the @rpc annotation
   (call via rpc()/rpc_id()), set per-node multiplayer authority, and replicate
   state with MultiplayerSpawner and MultiplayerSynchronizer. Use when adding

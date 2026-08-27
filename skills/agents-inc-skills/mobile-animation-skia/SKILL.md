@@ -1,6 +1,6 @@
 ---
 name: mobile-animation-skia
-description: React Native Skia GPU-accelerated 2D graphics - Canvas, declarative drawing, shaders, image filters, Paragraph text, Atlas batch rendering, Reanimated animations
+description: React Native Skia GPU 加速 2D 图形：Canvas、声明式绘制、着色器、图像滤镜、Paragraph 文本、Atlas 批量渲染、Reanimated 动画。 | React Native Skia GPU-accelerated 2D graphics - Canvas, declarative drawing, shaders, image filters, Paragraph text, Atlas batch rendering, Reanimated animations
 ---
 
 # React Native Skia Patterns

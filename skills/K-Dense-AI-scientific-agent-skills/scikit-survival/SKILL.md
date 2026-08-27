@@ -1,6 +1,6 @@
 ---
 name: scikit-survival
-description: Comprehensive toolkit for survival analysis and time-to-event modeling in Python using scikit-survival. Use this skill when working with censored survival data, performing time-to-event analysis, fitting Cox models, Random Survival Forests, Gradient Boosting models, or Survival SVMs, evaluating survival predictions with concordance index or Brier score, handling competing risks, or implementing any survival analysis workflow with the scikit-survival library.
+description: 使用 scikit-survival 在 Python 中进行生存分析和事件时间建模的综合工具包。在处理删失生存数据、执行事件时间分析、拟合 Cox 模型、随机生存森林、梯度提升模型或 Survival SVM、用一致性指数或 Brier 分数评估生存预测、处理竞争风险，或使用 scikit-survival 库实现任何生存分析工作流时使用本技能。 | Comprehensive toolkit for survival analysis and time-to-event modeling in Python using scikit-survival. Use this skill when working with censored survival data, performing time-to-event analysis, fitting Cox models, Random Survival Forests, Gradient Boosting models, or Survival SVMs, evaluating survival predictions with concordance index or Brier score, handling competing risks, or implementing any survival analysis workflow with the scikit-survival library.
 license: GPL-3.0 license
 metadata: {"version": "1.0", "skill-author": "K-Dense Inc."}
 ---

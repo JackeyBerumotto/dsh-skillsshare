@@ -1,6 +1,6 @@
 ---
 name: api-graphql-apollo-server
-description: GraphQL API server with Apollo Server — schema, resolvers, context, error handling, data sources, plugins
+description: 使用 Apollo Server 的 GraphQL API 服务器——schema、resolver、context、错误处理、数据源、插件 | GraphQL API server with Apollo Server — schema, resolvers, context, error handling, data sources, plugins
 ---
 
 # GraphQL API with Apollo Server

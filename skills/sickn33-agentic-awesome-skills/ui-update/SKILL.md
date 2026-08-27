@@ -1,6 +1,6 @@
 ---
 name: ui-update
-description: Update StyleSeed engine in your project — analyzes what's outdated and updates safely
+description: 更新项目中的 StyleSeed 引擎——分析过时内容并安全更新。 | Update StyleSeed engine in your project — analyzes what's outdated and updates safely
 risk: unknown
 source: https://github.com/bitjaru/styleseed/tree/main/engine/.claude/skills/ss-update
 source_repo: bitjaru/styleseed

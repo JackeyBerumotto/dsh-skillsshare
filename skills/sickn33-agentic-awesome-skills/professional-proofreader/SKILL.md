@@ -1,7 +1,7 @@
 ---
 name: professional-proofreader
 description: >
-    Use when a user asks to "proofread", "review and correct", "fix grammar", "improve readability while keeping my voice", and to proofread a document file and save an updated version.
+    当用户要求「校对」（proofread）、「审查并修正」（review and correct）、「修复语法」（fix grammar）、「在保持我的文风的同时提高可读性」（improve readability while keeping my voice），以及校对文档文件并保存更新后的版本时使用。 |
 risk: safe
 source: original
 date_added: "2026-03-04"

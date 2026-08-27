@@ -1,6 +1,6 @@
 ---
 name: hoa-decoder
-description: "Decode HOA covenants (CC&Rs) and the fee structure before you buy into them. Use when someone asks 'what do these HOA rules actually mean', 'decode these CC&Rs', 'is this HOA going to be a problem', or 'what should I check before buying in an HOA'. Produces a restriction decode ranked by lifestyle impact, special-assessment exposure analysis, enforcement and fine mechanics, and the exact records to request before buying."
+description: "在入住前解读业主协会（HOA）的契约条款（CC&Rs）和费用结构。当有人问「这些 HOA 规则到底是什么意思」「解读这些 CC&Rs」「这个 HOA 会不会成为麻烦」或「买 HOA 房子前该检查什么」时使用。产出按生活方式影响排序的限制条款解读、特别摊款风险分析、执行与罚款机制，以及购买前应索取的具体记录。 | Decode HOA covenants (CC&Rs) and the fee structure before you buy into them. Use when someone asks 'what do these HOA rules actually mean', 'decode these CC&Rs', 'is this HOA going to be a problem', or 'what should I check before buying in an HOA'. Produces a restriction decode ranked by lifestyle impact, special-assessment exposure analysis, enforcement and fine mechanics, and the exact records to request before buying."
 ---
 
 # HOA Decoder Skill

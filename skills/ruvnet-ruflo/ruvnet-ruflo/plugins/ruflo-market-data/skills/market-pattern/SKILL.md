@@ -1,6 +1,6 @@
 ---
 name: market-pattern
-description: Detect and classify candlestick patterns from ingested OHLCV data
+description: 从摄取的 OHLCV 数据中检测并分类 K 线形态。 | Detect and classify candlestick patterns from ingested OHLCV data
 argument-hint: "<symbol> [--period 1D]"
 allowed-tools: mcp__claude-flow__memory_search mcp__claude-flow__memory_list mcp__claude-flow__memory_store mcp__claude-flow__agentdb_pattern-store mcp__claude-flow__agentdb_pattern-search mcp__claude-flow__ruvllm_hnsw_route Bash
 ---

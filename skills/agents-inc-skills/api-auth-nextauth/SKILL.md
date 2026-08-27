@@ -1,6 +1,6 @@
 ---
 name: api-auth-nextauth
-description: Auth.js (NextAuth v5) authentication patterns - configuration, providers, session strategies, middleware, database adapters, role-based access, Edge compatibility
+description: Auth.js（NextAuth v5）身份验证模式——配置、提供商、会话策略、中间件、数据库适配器、基于角色的访问控制以及 Edge 兼容性。 | Auth.js (NextAuth v5) authentication patterns - configuration, providers, session strategies, middleware, database adapters, role-based access, Edge compatibility
 ---
 
 # Auth.js (NextAuth v5) Patterns

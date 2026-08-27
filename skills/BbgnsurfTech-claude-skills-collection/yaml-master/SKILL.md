@@ -1,6 +1,6 @@
 ---
 name: yaml-master
-description: 'Proactive yaml intelligence: automatically activates when working with Use when appropriate context detected. Trigger with relevant phrases based on skill purpose.
+description: 主动 yaml 智能：在处理相关工作时自动激活。当检测到合适的上下文时使用。基于技能用途以相关短语触发。 | 'Proactive yaml intelligence: automatically activates when working with Use when appropriate context detected. Trigger with relevant phrases based on skill purpose.
 version: 1.0.0
 allowed-tools:
 - Read

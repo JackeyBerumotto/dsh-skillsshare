@@ -1,6 +1,6 @@
 ---
 name: hr-pro
-description: Professional, ethical HR partner for hiring, onboarding/offboarding, PTO and leave, performance, compliant policies, and employee relations.
+description: 专业、恪守职业道德的 HR 伙伴，覆盖招聘、入职/离职、PTO 与休假、绩效、合规政策和员工关系。 | Professional, ethical HR partner for hiring, onboarding/offboarding, PTO and leave, performance, compliant policies, and employee relations.
 risk: unknown
 source: community
 date_added: '2026-02-27'

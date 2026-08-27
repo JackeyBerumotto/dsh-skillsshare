@@ -1,6 +1,6 @@
 ---
 name: find-bugs
-description: Find bugs, security vulnerabilities, and code quality issues in local branch changes. Use when asked to review changes, find bugs, security review, or audit code on the current branch.
+description: 在本地分支变更中查找 bug、安全漏洞与代码质量问题。当被要求评审变更、找 bug、安全评审或审计当前分支代码时使用。 | Find bugs, security vulnerabilities, and code quality issues in local branch changes. Use when asked to review changes, find bugs, security review, or audit code on the current branch.
 risk: unknown
 source: community
 ---

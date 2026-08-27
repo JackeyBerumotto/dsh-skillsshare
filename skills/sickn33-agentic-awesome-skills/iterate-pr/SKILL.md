@@ -1,6 +1,6 @@
 ---
 name: iterate-pr
-description: Iterate on a PR until CI passes. Use when you need to fix CI failures, address review feedback, or continuously push fixes until all checks are green. Automates the feedback-fix-push-wait cycle.
+description: 持续迭代 PR 直到 CI 通过。在需要修复 CI 失败、处理审查反馈或不断推送修复直到所有检查变绿时使用。将「反馈-修复-推送-等待」循环自动化。 | Iterate on a PR until CI passes. Use when you need to fix CI failures, address review feedback, or continuously push fixes until all checks are green. Automates the feedback-fix-push-wait cycle.
 risk: critical
 source: community
 ---

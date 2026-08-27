@@ -1,6 +1,6 @@
 ---
 name: "stress-test"
-description: "/em:stress-test — Business assumption stress testing. Use before betting on a plan whose core assumptions are unvalidated — e.g. stress-testing 'enterprise buyers will tolerate a 6-month pilot' or a hockey-stick revenue model."
+description: "/em:stress-test——业务假设压力测试。适用于在核心假设尚未验证的计划上下注之前——例如压测「企业买家能容忍六个月试点」或曲棍球杆式营收模型。 | /em:stress-test — Business assumption stress testing. Use before betting on a plan whose core assumptions are unvalidated — e.g. stress-testing 'enterprise buyers will tolerate a 6-month pilot' or a hockey-stick revenue model."
 ---
 
 # /em:stress-test — Business Assumption Stress Testing

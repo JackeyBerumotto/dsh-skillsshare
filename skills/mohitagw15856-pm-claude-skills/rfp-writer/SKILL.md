@@ -1,6 +1,6 @@
 ---
 name: rfp-writer
-description: "Write a clear Request for Proposal that gets comparable, high-quality vendor bids. Use when asked to write an RFP, a request for proposal/quote/tender, or to solicit and compare vendor proposals. Produces a complete RFP — background, scope of work, requirements, evaluation criteria with weights, submission instructions, and timeline — structured so responses are easy to compare apples-to-apples."
+description: "撰写清晰的征求建议书（RFP），获得可比较的高质量供应商投标。在被要求编写 RFP、征求建议书/询价书/招标文件，或征集并比较供应商方案时使用。产出完整的 RFP——背景、工作范围、需求、带权重的评估标准、提交说明和时间表——结构化设计使各响应可逐项对齐比较。 | Write a clear Request for Proposal that gets comparable, high-quality vendor bids. Use when asked to write an RFP, a request for proposal/quote/tender, or to solicit and compare vendor proposals. Produces a complete RFP — background, scope of work, requirements, evaluation criteria with weights, submission instructions, and timeline — structured so responses are easy to compare apples-to-apples."
 ---
 
 # RFP Writer Skill

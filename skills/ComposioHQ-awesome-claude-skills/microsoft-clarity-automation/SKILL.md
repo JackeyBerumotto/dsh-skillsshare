@@ -1,6 +1,6 @@
 ---
 name: Microsoft Clarity Automation
-description: "Automate user behavior analytics with Microsoft Clarity -- export heatmap data, session metrics, and engagement analytics segmented by browser, device, country, source, and more through the Composio Microsoft Clarity integration."
+description: "通过 Microsoft Clarity 自动化用户行为分析——借助 Composio 的 Microsoft Clarity 集成，导出热力图数据、会话指标，以及按浏览器、设备、国家、来源等维度细分的参与度分析。 | Automate user behavior analytics with Microsoft Clarity -- export heatmap data, session metrics, and engagement analytics segmented by browser, device, country, source, and more through the Composio Microsoft Clarity integration."
 requires:
   mcp:
     - rube

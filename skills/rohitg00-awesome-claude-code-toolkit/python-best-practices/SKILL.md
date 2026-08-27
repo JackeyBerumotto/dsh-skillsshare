@@ -1,6 +1,6 @@
 ---
 name: python-best-practices
-description: Pythonic code with modern type hints, dataclasses, async patterns, packaging, and testing
+description: Pythonic 代码：现代类型提示、dataclass、异步模式、打包和测试 | Pythonic code with modern type hints, dataclasses, async patterns, packaging, and testing
 ---
 
 # Python Best Practices

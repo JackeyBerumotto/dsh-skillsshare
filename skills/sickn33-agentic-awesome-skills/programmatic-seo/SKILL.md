@@ -1,6 +1,6 @@
 ---
 name: programmatic-seo
-description: Design and evaluate programmatic SEO strategies for creating SEO-driven pages at scale using templates and structured data.
+description: 设计与评估程序化 SEO 策略，基于模板和结构化数据规模化创建 SEO 驱动的页面。 | Design and evaluate programmatic SEO strategies for creating SEO-driven pages at scale using templates and structured data.
 risk: unknown
 source: community
 date_added: '2026-02-27'

@@ -1,14 +1,6 @@
 ---
 name: implementing-honeypot-for-ransomware-detection
-description: 'Deploys canary files, honeypot shares, and decoy systems to detect ransomware
-  activity at the earliest possible stage. Configures canary tokens embedded in strategic
-  file locations that trigger alerts when ransomware attempts encryption, uses honeypot
-  network shares that mimic high-value targets, and deploys Thinkst Canary appliances
-  for comprehensive deception-based detection. Activates for requests involving ransomware
-  honeypots, canary files, deception technology for ransomware, or early ransomware
-  alerting.
-
-  '
+description: "部署金丝雀文件、蜜罐共享和诱饵系统，在尽可能早的阶段检测勒索软件活动。配置嵌入在关键文件位置、在勒索软件尝试加密时触发告警的金丝雀令牌，使用模拟高价值目标的蜜罐网络共享，并部署 Thinkst Canary 设备以实现全面的基于欺骗的检测。当请求涉及勒索软件蜜罐、金丝雀文件、面向勒索软件的欺骗技术或勒索软件早期告警时激活。 | Deploys canary files, honeypot shares, and decoy systems to detect ransomware activity at the earliest possible stage. Configures canary tokens embedded in strategic file locations that trigger alerts when ransomware attempts encryption, uses honeypot network shares that mimic high-value targets, and deploys Thinkst Canary appliances for comprehensive deception-based detection. Activates for requests involving ransomware honeypots, canary files, deception technology for ransomware, or early ransomware alerting."
 domain: cybersecurity
 subdomain: ransomware-defense
 tags:

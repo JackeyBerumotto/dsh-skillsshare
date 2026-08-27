@@ -1,6 +1,6 @@
 ---
 name: oncall-runbook
-description: "Write an on-call runbook for a service — covering alert definitions, escalation paths, common incident responses, and on-call handoff procedures. Use when asked to write an on-call guide, create alert runbooks, document escalation procedures, or prepare an on-call handoff document. Produces a structured on-call runbook with per-alert response procedures, escalation matrix, diagnostic commands, and handoff template."
+description: "为服务编写值班手册——涵盖告警定义、升级路径、常见事故响应和值班交接程序。在被要求编写值班指南、创建告警 runbook、记录升级程序或准备值班交接文档时使用。产出结构化值班手册，包含逐告警响应程序、升级矩阵、诊断命令和交接模板。 | Write an on-call runbook for a service — covering alert definitions, escalation paths, common incident responses, and on-call handoff procedures. Use when asked to write an on-call guide, create alert runbooks, document escalation procedures, or prepare an on-call handoff document. Produces a structured on-call runbook with per-alert response procedures, escalation matrix, diagnostic commands, and handoff template."
 ---
 
 # On-Call Runbook Skill

@@ -1,6 +1,6 @@
 ---
 name: autonomous-agent-harness
-description: Transform Claude Code into a fully autonomous agent system with persistent memory, scheduled operations, computer use, and task queuing. Replaces standalone agent frameworks (Hermes, AutoGPT) by leveraging Claude Code's native crons, dispatch, MCP tools, and memory. Use when the user wants continuous autonomous operation, scheduled tasks, or a self-directing agent loop.
+description: 将 Claude Code 变成一个完全自主的智能体系统，具备持久记忆、定时操作、计算机使用和任务队列。利用 Claude Code 原生的 cron、dispatch、MCP 工具和记忆，取代独立的智能体框架（Hermes、AutoGPT）。当用户想要持续自主运行、定时任务或自驱动的智能体循环时使用。 | Transform Claude Code into a fully autonomous agent system with persistent memory, scheduled operations, computer use, and task queuing. Replaces standalone agent frameworks (Hermes, AutoGPT) by leveraging Claude Code's native crons, dispatch, MCP tools, and memory. Use when the user wants continuous autonomous operation, scheduled tasks, or a self-directing agent loop.
 metadata:
   origin: ECC
 ---

@@ -1,6 +1,6 @@
 ---
 name: pymc
-description: Bayesian modeling with PyMC. Build hierarchical models, MCMC (NUTS), variational inference, LOO/WAIC comparison, posterior checks, for probabilistic programming and inference.
+description: 使用 PyMC 进行贝叶斯建模。构建分层模型、MCMC（NUTS）、变分推断、LOO 与 WAIC 比较、后验检查，用于概率编程与推断。 | Bayesian modeling with PyMC. Build hierarchical models, MCMC (NUTS), variational inference, LOO/WAIC comparison, posterior checks, for probabilistic programming and inference.
 allowed-tools: Read Write Edit Bash
 compatibility: Requires Python 3.12+ and PyMC 6.0.1-compatible dependencies. Install reproducible environments with `uv pip install "pymc[nutpie]==6.0.1"`; optional NumPyro or BlackJAX samplers require separately pinned JAX-compatible dependencies.
 license: Apache License, Version 2.0

@@ -1,6 +1,6 @@
 ---
 name: inherit-legacy-style
-description: Legacy-project style inheritance skill. Use when the user types /inherit-legacy-style, or when onboarding an AI coding agent onto a hand-written legacy project and you need to prevent "style drift" (the model imposing its pretrained mainstream idioms onto the project). Language- and framework-agnostic — it aligns meta-architecture only, not syntax. Once run, it becomes a behavioral constraint on all subsequent coding tasks. Do NOT use for pure research or one-off questions unrelated to code-style alignment.
+description: 遗留项目风格继承技能。当用户输入 /inherit-legacy-style，或在将 AI 编码代理引入手写遗留项目且需要防止「风格漂移」（即模型把预训练的主流惯用法强加给项目）时使用。与语言和框架无关——只对齐元架构，不涉及语法。一旦运行，就会成为后续所有编码任务的行为约束。不适用于与代码风格对齐无关的纯研究或一次性问题。 | Legacy-project style inheritance skill. Use when the user types /inherit-legacy-style, or when onboarding an AI coding agent onto a hand-written legacy project and you need to prevent "style drift" (the model imposing its pretrained mainstream idioms onto the project). Language- and framework-agnostic — it aligns meta-architecture only, not syntax. Once run, it becomes a behavioral constraint on all subsequent coding tasks. Do NOT use for pure research or one-off questions unrelated to code-style alignment.
 metadata:
   origin: community
 allowed-tools: Read, Glob, Grep, Bash, Edit, Write, AskUserQuestion

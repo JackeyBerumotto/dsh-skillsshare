@@ -1,5 +1,5 @@
 ---
-description: Use when setting up log aggregation solutions using ELK, Loki, or Splunk. Trigger with phrases like "setup log aggregation", "deploy ELK stack", "configure Loki", or "install Splunk". Generates production-ready configurations for data ingestion, processing, storage, and visualization with proper security and scalability.
+description: 在使用 ELK、Loki 或 Splunk 搭建日志聚合方案时使用。触发词如「setup log aggregation」「deploy ELK stack」「configure Loki」或「install Splunk」。生成用于数据摄取、处理、存储和可视化的生产级配置，并具备妥善的安全性和可扩展性。 | Use when setting up log aggregation solutions using ELK, Loki, or Splunk. Trigger with phrases like "setup log aggregation", "deploy ELK stack", "configure Loki", or "install Splunk". Generates production-ready configurations for data ingestion, processing, storage, and visualization with proper security and scalability.
 allowed-tools:
 - Read
 - Write

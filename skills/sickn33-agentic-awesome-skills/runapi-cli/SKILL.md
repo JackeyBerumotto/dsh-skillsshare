@@ -1,6 +1,6 @@
 ---
 name: runapi-cli
-description: Generate AI images, videos, and music/audio from agents using the RunAPI CLI.
+description: 通过 RunAPI CLI 让智能体生成 AI 图片、视频与音乐/音频。 | Generate AI images, videos, and music/audio from agents using the RunAPI CLI.
 category: development
 risk: critical
 source: official

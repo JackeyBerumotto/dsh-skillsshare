@@ -1,7 +1,7 @@
 ---
 name: auditing-foundry-smart-contract-security
 description: >-
-  Pre-deployment security audit of Solidity smart contracts in a Foundry project.
+  对 Foundry 项目中的 Solidity 智能合约进行部署前安全审计。结合静态分析（Slither、Aderyn）、符号执行（Mythril）和基于属性的测试（forge fuzz 加带 handler 的不变量测试），在部署到 EVM 链之前捕获重入、访问控制、预言机/价格操纵和算术漏洞。同时强制执行密钥卫生（禁止明文私钥、使用加密的 cast keystore）和安全的部署流程。在编写、审查、测试或部署 Solidity/Foundry 合约、构建 dApp，或使用 forge/cast/anvil、MetaMask、Web3/DeFi 代码时使用。 |
   Combines static analysis (Slither, Aderyn), symbolic execution (Mythril), and
   property-based testing (forge fuzz + invariant tests with handlers) to catch
   reentrancy, access-control, oracle/price manipulation, and arithmetic bugs

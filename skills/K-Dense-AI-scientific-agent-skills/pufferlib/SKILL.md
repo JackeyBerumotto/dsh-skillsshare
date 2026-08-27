@@ -1,6 +1,6 @@
 ---
 name: pufferlib
-description: High-performance reinforcement learning framework optimized for speed and scale. Use when you need fast parallel training, vectorized environments, multi-agent systems, or integration with game environments (Atari, Procgen, NetHack). Achieves 2-10x speedups over standard implementations. For quick prototyping or standard algorithm implementations with extensive documentation, use stable-baselines3 instead.
+description: 为速度和规模优化的高性能强化学习框架。当你需要快速并行训练、向量化环境、多智能体系统，或与游戏环境（Atari、Procgen、NetHack）集成时使用。相比标准实现可获得 2-10 倍加速。若需快速原型或文档详尽的标准算法实现，请改用 stable-baselines3。 | High-performance reinforcement learning framework optimized for speed and scale. Use when you need fast parallel training, vectorized environments, multi-agent systems, or integration with game environments (Atari, Procgen, NetHack). Achieves 2-10x speedups over standard implementations. For quick prototyping or standard algorithm implementations with extensive documentation, use stable-baselines3 instead.
 license: MIT license
 metadata: {"version": "1.0", "skill-author": "K-Dense Inc."}
 ---

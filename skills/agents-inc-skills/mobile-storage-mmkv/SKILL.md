@@ -1,6 +1,6 @@
 ---
 name: mobile-storage-mmkv
-description: MMKV high-performance key-value storage for React Native - synchronous JSI-based reads/writes, encryption, typed hooks, multiple instances, listeners, persistence middleware adapters
+description: 面向 React Native 的 MMKV 高性能键值存储——基于 JSI 的同步读写、加密、类型化 hooks、多实例、监听器与持久化中间件适配器。 | MMKV high-performance key-value storage for React Native - synchronous JSI-based reads/writes, encryption, typed hooks, multiple instances, listeners, persistence middleware adapters
 ---
 
 # MMKV Storage Patterns

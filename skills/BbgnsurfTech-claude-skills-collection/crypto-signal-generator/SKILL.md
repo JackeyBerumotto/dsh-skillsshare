@@ -2,7 +2,7 @@
 name: generating-trading-signals
 version: 1.0.0
 description: |
-  Generate trading signals using technical indicators and on-chain metrics.
+  使用技术指标和链上指标生成交易信号。在接收交易信号和提醒时使用。触发短语如「get trading signals」、「check indicators」或「analyze signals」。 |
   Use when receiving trading signals and alerts.
   Trigger with phrases like "get trading signals", "check indicators", or "analyze signals".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(crypto:signals-*)

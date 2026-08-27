@@ -1,6 +1,6 @@
 ---
 name: writing-shape
-description: Writing, exploit — shape raw material into an article, paragraph by paragraph.
+description: 写作，exploit——把原始素材塑造成文章，逐段推进。 | Writing, exploit — shape raw material into an article, paragraph by paragraph.
 disable-model-invocation: true
 ---
 

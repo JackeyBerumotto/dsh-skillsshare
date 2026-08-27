@@ -1,6 +1,6 @@
 ---
 name: sprint-plan
-description: "Plan a sprint with capacity estimation, story selection, dependency mapping, and risk identification. Use when preparing for sprint planning, estimating team capacity, selecting stories, or balancing sprint scope against velocity."
+description: "规划一次冲刺，包括容量估算、故事选择、依赖映射和风险识别。在准备冲刺规划、估算团队容量、挑选故事，或在速率与冲刺范围之间权衡时使用。 | Plan a sprint with capacity estimation, story selection, dependency mapping, and risk identification. Use when preparing for sprint planning, estimating team capacity, selecting stories, or balancing sprint scope against velocity."
 ---
 
 ## Sprint Planning

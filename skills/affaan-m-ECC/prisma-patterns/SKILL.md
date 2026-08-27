@@ -1,6 +1,6 @@
 ---
 name: prisma-patterns
-description: Prisma ORM patterns for TypeScript backends — schema design, query optimization, transactions, pagination, and critical traps like updateMany returning count not records, $transaction timeouts, migrate dev resetting the DB, @updatedAt skipped on bulk writes, and serverless connection exhaustion.
+description: 面向 TypeScript 后端的 Prisma ORM 模式——模式设计、查询优化、事务、分页，以及关键陷阱，如 updateMany 返回计数而非记录、$transaction 超时、migrate dev 重置数据库、批量写入时 @updatedAt 被跳过、serverless 连接耗尽等。 | Prisma ORM patterns for TypeScript backends — schema design, query optimization, transactions, pagination, and critical traps like updateMany returning count not records, $transaction timeouts, migrate dev resetting the DB, @updatedAt skipped on bulk writes, and serverless connection exhaustion.
 metadata:
   origin: ECC
 ---

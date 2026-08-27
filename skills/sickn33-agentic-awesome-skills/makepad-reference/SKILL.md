@@ -1,6 +1,6 @@
 ---
 name: makepad-reference
-description: "This category provides reference materials for debugging, code quality, and advanced layout patterns."
+description: "此类别提供关于调试、代码质量和高级布局模式的参考资料。 | This category provides reference materials for debugging, code quality, and advanced layout patterns."
 risk: unknown
 source: community
 ---

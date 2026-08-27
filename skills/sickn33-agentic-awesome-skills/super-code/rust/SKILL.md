@@ -1,6 +1,6 @@
 ---
 name: rust
-description: "Language-specific super-code guidelines for rust."
+description: "面向 rust 的语言级 super-code 编码准则。 | Language-specific super-code guidelines for rust."
 risk: safe
 source: community
 date_added: "2026-06-16"

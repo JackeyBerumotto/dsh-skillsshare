@@ -1,6 +1,6 @@
 ---
 name: postgres-best-practices
-description: "Postgres performance optimization and best practices from Supabase. Use this skill when writing, reviewing, or optimizing Postgres queries, schema designs, or database configurations."
+description: "来自 Supabase 的 Postgres 性能优化与最佳实践。在编写、审查或优化 Postgres 查询、模式设计或数据库配置时使用此技能。 | Postgres performance optimization and best practices from Supabase. Use this skill when writing, reviewing, or optimizing Postgres queries, schema designs, or database configurations."
 risk: safe
 source: community
 date_added: "2026-02-27"

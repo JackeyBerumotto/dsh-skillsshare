@@ -1,7 +1,7 @@
 ---
 name: ctx-insight
 description: |
-  Open the context-mode Insight dashboard in your default browser.
+  在默认浏览器中打开 context-mode 的 Insight 仪表盘。Insight 是面向 AI 辅助工程团队的托管分析层：工程师个人产出率、重试浪费、阻塞检测、按角色收窄的视图。触发方式：/context-mode:ctx-insight |
   Insight is the hosted analytics layer for AI-assisted engineering teams —
   per-engineer productive rate, retry waste, blocker detection, role-narrowed views.
   Trigger: /context-mode:ctx-insight

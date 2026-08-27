@@ -1,14 +1,6 @@
 ---
 name: performing-graphql-introspection-attack
-description: 'Performs GraphQL introspection attacks to extract the full API schema
-  including types, queries, mutations, subscriptions, and field definitions from GraphQL
-  endpoints. The tester uses introspection queries to map the attack surface, identifies
-  sensitive fields and mutations, tests for query depth and complexity limits, and
-  exploits GraphQL-specific vulnerabilities including batching attacks, alias-based
-  brute force, and nested query DoS. Activates for requests involving GraphQL security
-  testing, introspection attack, GraphQL enumeration, or GraphQL API penetration testing.
-
-  '
+description: "执行 GraphQL 内省攻击，从 GraphQL 端点提取完整 API 模式，包括类型、查询、变更、订阅和字段定义。测试人员使用内省查询绘制攻击面，识别敏感字段和变更，测试查询深度和复杂度限制，并利用 GraphQL 特有漏洞，包括批量攻击、基于别名的暴力破解和嵌套查询拒绝服务。当请求涉及 GraphQL 安全测试、内省攻击、GraphQL 枚举或 GraphQL API 渗透测试时激活。 | Performs GraphQL introspection attacks to extract the full API schema including types, queries, mutations, subscriptions, and field definitions from GraphQL endpoints. The tester uses introspection queries to map the attack surface, identifies sensitive fields and mutations, tests for query depth and complexity limits, and exploits GraphQL-specific vulnerabilities including batching attacks, alias-based brute force, and nested query DoS. Activates for requests involving GraphQL security testing, introspection attack, GraphQL enumeration, or GraphQL API penetration testing."
 domain: cybersecurity
 subdomain: api-security
 tags:

@@ -1,6 +1,6 @@
 ---
 name: headline-options
-description: "Generate and pressure-test headline options across proven formulas. Use when asked for headlines, a title, a subject line, a hook, or to improve a weak headline for a page, post, email, or ad. Produces 10–15 headline options grouped by formula (benefit, how-to, number, question, curiosity, social proof), each scored for clarity and specificity, with the top 3 recommended and why."
+description: "基于经过验证的公式生成并压力测试标题选项。当被要求为页面、帖子、邮件或广告提供标题、题目、主题行、钩子，或改进弱标题时使用。产出按公式分组（利益、如何做、数字、提问、好奇、社会证明）的 10–15 个标题选项，逐项按清晰度与具体性评分，附前三名推荐及理由。 | Generate and pressure-test headline options across proven formulas. Use when asked for headlines, a title, a subject line, a hook, or to improve a weak headline for a page, post, email, or ad. Produces 10–15 headline options grouped by formula (benefit, how-to, number, question, curiosity, social proof), each scored for clarity and specificity, with the top 3 recommended and why."
 ---
 
 # Headline Options Skill

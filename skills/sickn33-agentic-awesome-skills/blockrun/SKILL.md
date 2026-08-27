@@ -1,6 +1,6 @@
 ---
 name: blockrun
-description: "BlockRun works with Claude Code and Google Antigravity."
+description: "BlockRun 可与 Claude Code 和 Google Antigravity 配合使用。 | BlockRun works with Claude Code and Google Antigravity."
 risk: unknown
 source: community
 date_added: "2026-02-27"

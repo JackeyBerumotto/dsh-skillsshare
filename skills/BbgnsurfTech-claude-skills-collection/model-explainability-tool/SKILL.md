@@ -1,8 +1,5 @@
 ---
-description: This skill enables claude to provide interpretability and explainability
-  for machine learning models. it is triggered when the user requests explanations
-  for model predictions, insights into feature importance, or help understanding model
-  behavior...
+description: "本技能使 claude 能够为机器学习模型提供可解释性与可说明性。当用户请求解释模型预测、洞察特征重要性或协助理解模型行为时触发。 | This skill enables claude to provide interpretability and explainability for machine learning models. it is triggered when the user requests explanations for model predictions, insights into feature importance, or help understanding model behavior..."
 allowed-tools:
 - Read
 - Write

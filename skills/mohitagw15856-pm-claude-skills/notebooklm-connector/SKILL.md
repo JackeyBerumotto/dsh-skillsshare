@@ -1,6 +1,6 @@
 ---
 name: notebooklm-connector
-description: "Automates NotebookLM from Claude Code using browser automation via the Claude Chrome extension — creating notebooks, adding sources, and triggering outputs without manual clicking. Use when you want to create a NotebookLM notebook, add URLs or documents as sources, or generate mindmaps, audio overviews, or briefing docs programmatically. Produces a confirmed checklist of completed actions and a direct link to the notebook."
+description: "在 Claude Code 中通过 Claude Chrome 扩展的浏览器自动化来操控 NotebookLM——无需手动点击即可创建笔记本、添加来源并触发生成。当你想创建 NotebookLM 笔记本、把 URL 或文档添加为来源，或以编程方式生成思维导图、音频概览或简报文档时使用。最终产出一份已确认的操作清单以及指向该笔记本的直接链接。 | Automates NotebookLM from Claude Code using browser automation via the Claude Chrome extension — creating notebooks, adding sources, and triggering outputs without manual clicking. Use when you want to create a NotebookLM notebook, add URLs or documents as sources, or generate mindmaps, audio overviews, or briefing docs programmatically. Produces a confirmed checklist of completed actions and a direct link to the notebook."
 ---
 
 # NotebookLM Connector

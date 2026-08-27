@@ -1,6 +1,6 @@
 ---
 name: sprint-planning
-description: "Structure and facilitate sprint planning sessions. Use when asked to plan a sprint, organise backlog items, assign story points, create sprint goals, or prepare sprint planning agendas. Produces a sprint goal, velocity-calibrated backlog, capacity plan, risk flags, and a structured sprint planning meeting agenda."
+description: "构建并主持 Sprint 规划会。当被要求规划 Sprint、组织待办事项、分配故事点、制定 Sprint 目标或准备 Sprint 规划议程时使用。产出 Sprint 目标、按速率校准的待办列表、产能计划、风险标记以及结构化的 Sprint 规划会议议程。 | Structure and facilitate sprint planning sessions. Use when asked to plan a sprint, organise backlog items, assign story points, create sprint goals, or prepare sprint planning agendas. Produces a sprint goal, velocity-calibrated backlog, capacity plan, risk flags, and a structured sprint planning meeting agenda."
 ---
 
 # Sprint Planning Skill

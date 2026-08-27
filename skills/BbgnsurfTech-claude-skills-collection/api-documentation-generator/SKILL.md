@@ -2,7 +2,7 @@
 name: generating-api-docs
 version: 1.0.0
 description: |
-  Create comprehensive API documentation with examples, authentication guides, and SDKs.
+  创建全面的 API 文档，包含示例、认证指南和 SDK。当需要创建全面的 API 文档时使用。可通过「generate API docs」「create API documentation」或「document the API」等短语触发。 |
   Use when creating comprehensive API documentation.
   Trigger with phrases like "generate API docs", "create API documentation", or "document the API".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(api:docs-*)

@@ -1,6 +1,6 @@
 ---
 name: quinn
-description: "Proves the system works by writing and executing comprehensive test suites."
+description: "通过编写并执行全面的测试套件来证明系统可用。 | Proves the system works by writing and executing comprehensive test suites."
 risk: safe
 source: community
 date_added: "2026-06-11"

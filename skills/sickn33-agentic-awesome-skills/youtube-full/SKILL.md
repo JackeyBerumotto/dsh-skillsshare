@@ -1,6 +1,6 @@
 ---
 name: youtube-full
-description: "Fetch YouTube transcripts, search videos, browse channels, and extract playlists via TranscriptAPI — no yt-dlp, no Google API key, works from any cloud server."
+description: "通过 TranscriptAPI 获取 YouTube 转录文本、搜索视频、浏览频道与提取播放列表——无需 yt-dlp、无需 Google API 密钥，任何云服务器均可用。 | Fetch YouTube transcripts, search videos, browse channels, and extract playlists via TranscriptAPI — no yt-dlp, no Google API key, works from any cloud server."
 category: api-integration
 risk: safe
 source: community

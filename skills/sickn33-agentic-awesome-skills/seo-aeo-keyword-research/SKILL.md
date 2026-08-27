@@ -1,6 +1,6 @@
 ---
 name: seo-aeo-keyword-research
-description: "Researches and prioritises SEO keywords with AEO question queries, difficulty tiers, cannibalization checks, and a content map. Activate when the user wants to find keywords, research search terms, or build a keyword strategy."
+description: "研究 SEO 关键词并排定优先级，涵盖 AEO 问句查询、难度分层、关键词蚕食检查和内容图谱。当用户想寻找关键词、研究搜索词或制定关键词策略时激活。 | Researches and prioritises SEO keywords with AEO question queries, difficulty tiers, cannibalization checks, and a content map. Activate when the user wants to find keywords, research search terms, or build a keyword strategy."
 risk: safe
 source: community
 date_added: "2026-04-01"

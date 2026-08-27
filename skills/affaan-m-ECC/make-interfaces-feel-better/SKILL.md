@@ -1,6 +1,6 @@
 ---
 name: make-interfaces-feel-better
-description: Apply concrete design-engineering details that make interfaces feel polished. Use when reviewing or improving UI spacing, typography, borders, shadows, motion, hit areas, icons, text wrapping, and interaction states.
+description: 运用具体的设计工程细节让界面显得精致考究。在评审或改进 UI 间距、字体排印、边框、阴影、动效、点击区域、图标、文本换行和交互状态时使用。 | Apply concrete design-engineering details that make interfaces feel polished. Use when reviewing or improving UI spacing, typography, borders, shadows, motion, hit areas, icons, text wrapping, and interaction states.
 metadata:
   origin: community
 ---

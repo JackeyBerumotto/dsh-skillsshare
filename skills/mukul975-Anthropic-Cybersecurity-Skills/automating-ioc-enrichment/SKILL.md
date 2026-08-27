@@ -1,14 +1,6 @@
 ---
 name: automating-ioc-enrichment
-description: 'Automates the enrichment of raw indicators of compromise with multi-source
-  threat intelligence context using SOAR platforms, Python pipelines, or TIP playbooks
-  to reduce analyst triage time and standardize enrichment outputs. Use when building
-  automated enrichment workflows integrated with SIEM alerts, email submission pipelines,
-  or bulk IOC processing from threat feeds. Activates for requests involving SOAR
-  enrichment, Cortex XSOAR, Splunk SOAR, TheHive, Python enrichment pipelines, or
-  automated IOC processing.
-
-  '
+description: "使用 SOAR 平台、Python 管道或 TIP 剧本，以多源威胁情报上下文自动富化原始失陷指标，减少分析师分诊时间并标准化富化输出。当构建与 SIEM 告警、邮件提交管道或威胁情报源批量 IOC 处理相集成的自动化富化工作流时使用。当请求涉及 SOAR 富化、Cortex XSOAR、Splunk SOAR、TheHive、Python 富化管道或自动化 IOC 处理时激活。 | Automates the enrichment of raw indicators of compromise with multi-source threat intelligence context using SOAR platforms, Python pipelines, or TIP playbooks to reduce analyst triage time and standardize enrichment outputs. Use when building automated enrichment workflows integrated with SIEM alerts, email submission pipelines, or bulk IOC processing from threat feeds. Activates for requests involving SOAR enrichment, Cortex XSOAR, Splunk SOAR, TheHive, Python enrichment pipelines, or automated IOC processing."
 domain: cybersecurity
 subdomain: threat-intelligence
 tags:

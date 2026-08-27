@@ -1,6 +1,6 @@
 ---
 name: testing-for-system-prompt-leakage
-description: Extract and defend system prompts plus embedded secrets and routing logic.
+description: 提取并防护系统提示词及其内嵌机密与路由逻辑。 | Extract and defend system prompts plus embedded secrets and routing logic.
 domain: cybersecurity
 subdomain: ai-security
 tags:

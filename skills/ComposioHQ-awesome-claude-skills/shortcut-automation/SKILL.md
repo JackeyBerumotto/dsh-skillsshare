@@ -1,6 +1,6 @@
 ---
 name: Shortcut Automation
-description: "Automate project management workflows in Shortcut -- create stories, manage tasks, track epics, and organize workflows through natural language commands."
+description: "在 Shortcut 中自动化项目管理工作流——通过自然语言命令创建故事、管理任务、追踪史诗并组织工作流。 | Automate project management workflows in Shortcut -- create stories, manage tasks, track epics, and organize workflows through natural language commands."
 requires:
   mcp:
     - rube

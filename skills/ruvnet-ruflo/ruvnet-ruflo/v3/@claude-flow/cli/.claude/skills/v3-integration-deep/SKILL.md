@@ -1,6 +1,6 @@
 ---
 name: "V3 Deep Integration"
-description: "Deep agentic-flow@alpha integration implementing ADR-001. Eliminates 10,000+ duplicate lines by building claude-flow as specialized extension rather than parallel implementation."
+description: "实现 ADR-001 的 agentic-flow@alpha 深度集成。通过将 claude-flow 构建为专用扩展而非平行实现，消除 10000 多行重复代码。 | Deep agentic-flow@alpha integration implementing ADR-001. Eliminates 10,000+ duplicate lines by building claude-flow as specialized extension rather than parallel implementation."
 ---
 
 # V3 Deep Integration

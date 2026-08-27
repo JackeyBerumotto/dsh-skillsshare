@@ -1,6 +1,6 @@
 ---
 name: brand-guidelines
-description: Write copy following Sentry brand guidelines. Use when writing UI text, error messages, empty states, onboarding flows, 404 pages, documentation, marketing copy, or any user-facing content. Covers both Plain Speech (default) and Sentry Voice tones.
+description: 按照 Sentry 品牌指南撰写文案。在编写 UI 文案、错误信息、空状态、入职流程、404 页面、文档、营销文案或任何面向用户的内容时使用。涵盖 Plain Speech（默认）和 Sentry Voice 两种语气。 | Write copy following Sentry brand guidelines. Use when writing UI text, error messages, empty states, onboarding flows, 404 pages, documentation, marketing copy, or any user-facing content. Covers both Plain Speech (default) and Sentry Voice tones.
 risk: unknown
 source: community
 ---

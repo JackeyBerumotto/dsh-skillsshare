@@ -1,7 +1,6 @@
 ---
 name: hunting-for-registry-persistence-mechanisms
-description: Hunt for registry-based persistence mechanisms including Run keys, Winlogon
-  modifications, IFEO injection, and COM hijacking in Windows environments.
+description: "在 Windows 环境中狩猎基于注册表的持久化机制，包括 Run 键、Winlogon 修改、IFEO 注入和 COM 劫持。 | Hunt for registry-based persistence mechanisms including Run keys, Winlogon modifications, IFEO injection, and COM hijacking in Windows environments."
 domain: cybersecurity
 subdomain: threat-hunting
 tags:

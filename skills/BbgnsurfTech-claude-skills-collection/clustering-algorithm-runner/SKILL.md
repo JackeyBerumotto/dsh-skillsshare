@@ -1,8 +1,6 @@
 ---
 name: running-clustering-algorithms
-description: Execute clustering algorithms (K-means, DBSCAN, hierarchical) to identify
-  data groups. Use when requesting "run clustering", "cluster analysis", or "group
-  data points".
+description: "执行聚类算法（K-means、DBSCAN、层次聚类）以识别数据分组。当请求「run clustering」「cluster analysis」或「group data points」时使用。 | Execute clustering algorithms (K-means, DBSCAN, hierarchical) to identify data groups. Use when requesting \"run clustering\", \"cluster analysis\", or \"group data points\"."
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash
 license: MIT
 ---

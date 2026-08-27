@@ -1,6 +1,6 @@
 ---
 name: dbt-model-spec
-description: "Spec a dbt model — its grain, sources, transformations, tests, and materialization. Use when asked to design a dbt model, plan a data transformation, write a staging/intermediate/mart model spec, or define dbt tests for a table. Produces a model spec — purpose & grain, lineage (sources → refs), the transformation logic, column definitions, dbt tests, materialization choice, and the skeleton SQL/YAML."
+description: "为 dbt 模型编写规格——粒度、数据源、转换、测试和物化方式。当被要求设计 dbt 模型、规划数据转换、编写 staging/intermediate/mart 模型规格，或为表定义 dbt 测试时使用。产出模型规格——用途与粒度、血缘（sources → refs）、转换逻辑、列定义、dbt 测试、物化选择，以及 SQL/YAML 骨架。 | Spec a dbt model — its grain, sources, transformations, tests, and materialization. Use when asked to design a dbt model, plan a data transformation, write a staging/intermediate/mart model spec, or define dbt tests for a table. Produces a model spec — purpose & grain, lineage (sources → refs), the transformation logic, column definitions, dbt tests, materialization choice, and the skeleton SQL/YAML."
 ---
 
 # dbt Model Spec Skill

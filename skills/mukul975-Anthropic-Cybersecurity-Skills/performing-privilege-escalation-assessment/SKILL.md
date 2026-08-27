@@ -1,13 +1,6 @@
 ---
 name: performing-privilege-escalation-assessment
-description: 'Performs privilege escalation assessments on compromised Linux and Windows
-  systems to identify paths from low-privilege access to root or SYSTEM-level control.
-  The tester enumerates misconfigurations, vulnerable services, kernel exploits, SUID
-  binaries, unquoted service paths, and credential stores to demonstrate the full
-  impact of an initial compromise. Activates for requests involving privilege escalation
-  testing, local exploitation, post-compromise escalation, or OS-level security assessment.
-
-  '
+description: "在被入侵的 Linux 与 Windows 系统上执行权限提升评估，识别从低权限访问到 root 或 SYSTEM 级控制的路径。测试人员枚举错误配置、存在漏洞的服务、内核漏洞利用、SUID 二进制文件、未加引号的服务路径及凭据存储，以证明初始失陷的完整影响。适用于涉及权限提升测试、本地漏洞利用、失陷后提权或操作系统级安全评估的请求。 | Performs privilege escalation assessments on compromised Linux and Windows systems to identify paths from low-privilege access to root or SYSTEM-level control. The tester enumerates misconfigurations, vulnerable services, kernel exploits, SUID binaries, unquoted service paths, and credential stores to demonstrate the full impact of an initial compromise. Activates for requests involving privilege escalation testing, local exploitation, post-compromise escalation, or OS-level security assessment."
 domain: cybersecurity
 subdomain: penetration-testing
 tags:

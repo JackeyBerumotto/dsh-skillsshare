@@ -1,8 +1,5 @@
 ---
-description: Build discounted cash flow (DCF) valuation models in Excel with free
-  cash flow projections, WACC calculations, and sensitivity analysis for investment
-  banking and corporate finance teams Activates when you request "excel dcf modeler"
-  functionality.
+description: "在 Excel 中构建现金流折现（DCF）估值模型，包含自由现金流预测、WACC 计算和敏感性分析，服务投行和企业财务团队。当你请求「excel dcf modeler」功能时激活。 | Build discounted cash flow (DCF) valuation models in Excel with free cash flow projections, WACC calculations, and sensitivity analysis for investment banking and corporate finance teams Activates when you request \"excel dcf modeler\" functionality."
 allowed-tools:
 - Read
 - Write

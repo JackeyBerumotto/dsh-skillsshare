@@ -1,6 +1,6 @@
 ---
 name: metasploit-framework
-description: "⚠️ AUTHORIZED USE ONLY > This skill is for educational purposes or authorized security assessments only. > You must have explicit, written permission from the system owner before using this tool. > Misuse of this tool is illegal and strictly prohibited."
+description: "⚠️ 仅限授权使用 > 本技能仅可用于教育目的或经授权的安全评估。> 在使用此工具之前，你必须获得系统所有者的明确书面许可。> 滥用此工具属于违法行为，已被严格禁止。 | ⚠️ AUTHORIZED USE ONLY > This skill is for educational purposes or authorized security assessments only. > You must have explicit, written permission from the system owner before using this tool. > Misuse of this tool is illegal and strictly prohibited."
 risk: offensive
 source: community
 author: zebbern

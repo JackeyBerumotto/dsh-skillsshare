@@ -1,6 +1,6 @@
 ---
 name: quiz-generator
-description: "Generate a quiz or test on any topic with a balanced mix of question types and difficulty, plus a complete answer key with explanations. Use when asked to create a quiz, write a test, make practice questions, or build an assessment. Produces well-formed questions aligned to learning objectives, tagged by difficulty and cognitive level, with an answer key and (for MCQs) plausible distractors and rationale."
+description: "就任何主题生成题型与难度搭配均衡的测验，并附完整带解析的答案。当被要求出测验、出试卷、做练习题或构建评估时使用。产出与学习目标对齐、按难度与认知层级标注的规范题目，附答案以及（选择题的）合理干扰项与理由。 | Generate a quiz or test on any topic with a balanced mix of question types and difficulty, plus a complete answer key with explanations. Use when asked to create a quiz, write a test, make practice questions, or build an assessment. Produces well-formed questions aligned to learning objectives, tagged by difficulty and cognitive level, with an answer key and (for MCQs) plausible distractors and rationale."
 ---
 
 # Quiz Generator Skill

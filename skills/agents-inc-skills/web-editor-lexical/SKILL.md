@@ -1,6 +1,6 @@
 ---
 name: web-editor-lexical
-description: Extensible text editor framework by Meta
+description: Meta 出品的可扩展文本编辑器框架 | Extensible text editor framework by Meta
 ---
 
 # Lexical Editor Patterns

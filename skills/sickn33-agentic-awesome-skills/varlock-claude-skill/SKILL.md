@@ -1,6 +1,6 @@
 ---
 name: varlock-claude-skill
-description: "Secure environment variable management ensuring secrets are never exposed in Claude sessions, terminals, logs, or git commits"
+description: "安全的环境变量管理，确保密钥绝不暴露在 Claude 会话、终端、日志或 git 提交中。 | Secure environment variable management ensuring secrets are never exposed in Claude sessions, terminals, logs, or git commits"
 risk: safe
 source: "https://github.com/wrsmith108/varlock-claude-skill"
 date_added: "2026-02-27"

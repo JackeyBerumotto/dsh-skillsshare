@@ -1,6 +1,6 @@
 ---
 name: boolean-search-builder
-description: "Build boolean and X-ray search strings to source candidates. Use when asked to build a boolean search, source candidates on LinkedIn/Google, write an X-ray search, or find people with specific skills. Produces ready-to-paste boolean strings (with synonyms, must-haves, and exclusions), X-ray variants for LinkedIn/GitHub, and a refinement plan to widen or narrow the result set."
+description: "构建布尔与 X-ray 搜索字符串来寻访候选人。当被要求构建布尔搜索、在 LinkedIn 或 Google 上寻访候选人、编写 X-ray 搜索，或寻找具备特定技能的人时使用。产出可直接粘贴的布尔字符串（含同义词、必备条件和排除项）、面向 LinkedIn 与 GitHub 的 X-ray 变体，以及扩大或收窄结果集的优化方案。 | Build boolean and X-ray search strings to source candidates. Use when asked to build a boolean search, source candidates on LinkedIn/Google, write an X-ray search, or find people with specific skills. Produces ready-to-paste boolean strings (with synonyms, must-haves, and exclusions), X-ray variants for LinkedIn/GitHub, and a refinement plan to widen or narrow the result set."
 ---
 
 # Boolean Search Builder Skill

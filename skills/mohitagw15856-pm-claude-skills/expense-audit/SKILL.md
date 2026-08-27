@@ -1,6 +1,6 @@
 ---
 name: expense-audit
-description: "Audit spending to find leaks — recurring subscriptions, creep, and cuttable costs — ranked by impact. Use when asked to cut expenses, review subscriptions, find where money is going, or free up cash. Produces a categorized spend breakdown, a ranked list of cuts with dollar amounts, and the annualized savings. Educational, not regulated financial advice."
+description: "审计开支以找出流失点——循环订阅、费用蔓延以及可削减的成本——并按影响排序。当被要求削减开支、审查订阅、弄清资金去向或释放现金时使用。产出分类开支明细、附金额的削减项排序列表以及年化节省金额。仅供学习参考，不构成受监管的财务建议。 | Audit spending to find leaks — recurring subscriptions, creep, and cuttable costs — ranked by impact. Use when asked to cut expenses, review subscriptions, find where money is going, or free up cash. Produces a categorized spend breakdown, a ranked list of cuts with dollar amounts, and the annualized savings. Educational, not regulated financial advice."
 ---
 
 # Expense Audit Skill

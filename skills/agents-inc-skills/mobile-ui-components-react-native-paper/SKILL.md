@@ -1,6 +1,6 @@
 ---
 name: mobile-ui-components-react-native-paper
-description: React Native Paper v5+ - Material Design 3 theming, PaperProvider, key components, dynamic color, accessibility, tree-shaking, custom fonts, navigation integration
+description: React Native Paper v5+：Material Design 3 主题、PaperProvider、核心组件、动态取色、无障碍、tree-shaking、自定义字体、导航集成。 | React Native Paper v5+ - Material Design 3 theming, PaperProvider, key components, dynamic color, accessibility, tree-shaking, custom fonts, navigation integration
 ---
 
 # React Native Paper Patterns

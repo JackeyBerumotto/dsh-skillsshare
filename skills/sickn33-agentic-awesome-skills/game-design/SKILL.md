@@ -1,6 +1,6 @@
 ---
 name: game-design
-description: "Game design principles. GDD structure, balancing, player psychology, progression."
+description: "游戏设计原则。GDD 结构、平衡性、玩家心理、进阶系统。 | Game design principles. GDD structure, balancing, player psychology, progression."
 risk: unknown
 source: community
 date_added: "2026-02-27"

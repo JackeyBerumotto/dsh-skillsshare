@@ -1,6 +1,6 @@
 ---
 name: gantt-roadmap
-description: "Turn a plan or set of milestones into a timeline / Gantt chart. Use when asked to build a roadmap, schedule phases, show a project timeline, or visualize what happens when. Produces a ready-to-render Mermaid Gantt chart (renders live, exportable as PNG/SVG) — and, because it has real dates, the result also exports to a calendar (.ics) — plus notes on the critical path and risks."
+description: "将计划或一组里程碑转换为时间线/甘特图。当被要求构建路线图、安排阶段、展示项目时间线或可视化各项工作的先后顺序时使用。产出可直接渲染的 Mermaid 甘特图（可实时渲染、可导出为 PNG/SVG）——由于带有真实日期，结果还可导出为日历（.ics）——附带关键路径与风险说明。 | Turn a plan or set of milestones into a timeline / Gantt chart. Use when asked to build a roadmap, schedule phases, show a project timeline, or visualize what happens when. Produces a ready-to-render Mermaid Gantt chart (renders live, exportable as PNG/SVG) — and, because it has real dates, the result also exports to a calendar (.ics) — plus notes on the critical path and risks."
 ---
 
 # Gantt / Roadmap Skill

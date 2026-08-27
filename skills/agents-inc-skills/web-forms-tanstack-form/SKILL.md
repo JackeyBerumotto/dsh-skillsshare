@@ -1,6 +1,6 @@
 ---
 name: web-forms-tanstack-form
-description: TanStack Form patterns - useForm, form.Field, validators, arrays, linked fields, createFormHook, type safety
+description: TanStack Form 模式：useForm、form.Field、validators、数组、联动字段、createFormHook、类型安全 | TanStack Form patterns - useForm, form.Field, validators, arrays, linked fields, createFormHook, type safety
 ---
 
 # TanStack Form Patterns

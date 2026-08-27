@@ -2,7 +2,7 @@
 name: throttling-apis
 version: 1.0.0
 description: |
-  Manage API throttling policies to protect backend services from overload.
+  管理 API 限流策略，保护后端服务免受过载。用于控制 API 请求速率。触发短语如「throttle API」「control request rate」或「add throttling」。 |
   Use when controlling API request rates.
   Trigger with phrases like "throttle API", "control request rate", or "add throttling".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(api:throttle-*)

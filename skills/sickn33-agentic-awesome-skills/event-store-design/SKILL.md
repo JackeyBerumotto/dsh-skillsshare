@@ -1,6 +1,6 @@
 ---
 name: event-store-design
-description: "Design and implement event stores for event-sourced systems. Use when building event sourcing infrastructure, choosing event store technologies, or implementing event persistence patterns."
+description: "为事件溯源系统设计并实现事件存储。当需要构建事件溯源基础设施、选择事件存储技术或实现事件持久化模式时使用。 | Design and implement event stores for event-sourced systems. Use when building event sourcing infrastructure, choosing event store technologies, or implementing event persistence patterns."
 risk: unknown
 source: community
 date_added: "2026-02-27"

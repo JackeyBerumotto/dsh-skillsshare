@@ -1,6 +1,6 @@
 ---
 name: angular-state-management
-description: "Master modern Angular state management with Signals, NgRx, and RxJS. Use when setting up global state, managing component stores, choosing between state solutions, or migrating from legacy patterns."
+description: "掌握现代 Angular 状态管理，运用 Signals、NgRx 与 RxJS。在设置全局状态、管理组件 store、在状态方案之间做选择，或从遗留模式迁移时使用。 | Master modern Angular state management with Signals, NgRx, and RxJS. Use when setting up global state, managing component stores, choosing between state solutions, or migrating from legacy patterns."
 risk: safe
 source: self
 date_added: "2026-02-27"

@@ -1,6 +1,6 @@
 ---
 name: git-workflow
-description: Git workflow patterns including branching strategies, commit conventions, merge vs rebase, conflict resolution, and collaborative development best practices for teams of all sizes.
+description: Git 工作流模式，包括分支策略、提交约定、merge 与 rebase、冲突解决，以及适合各种规模团队的协作开发最佳实践。 | Git workflow patterns including branching strategies, commit conventions, merge vs rebase, conflict resolution, and collaborative development best practices for teams of all sizes.
 metadata:
   origin: ECC
 ---

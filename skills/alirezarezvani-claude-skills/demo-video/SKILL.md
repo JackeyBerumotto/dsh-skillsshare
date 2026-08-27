@@ -1,6 +1,6 @@
 ---
 name: "demo-video"
-description: "Use when the user asks to create a demo video, product walkthrough, feature showcase, animated presentation, marketing video, or GIF from screenshots or scene descriptions. Orchestrates playwright, ffmpeg, and edge-tts MCPs to produce polished video content."
+description: "当用户要求根据截图或场景描述创建演示视频、产品走查、功能展示、动画演示、营销视频或 GIF 时使用。编排 playwright、ffmpeg 和 edge-tts MCP 来制作精美的视频内容。 | Use when the user asks to create a demo video, product walkthrough, feature showcase, animated presentation, marketing video, or GIF from screenshots or scene descriptions. Orchestrates playwright, ffmpeg, and edge-tts MCPs to produce polished video content."
 ---
 
 # Demo Video

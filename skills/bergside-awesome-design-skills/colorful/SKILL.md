@@ -1,6 +1,6 @@
 ---
 name: colorful
-description: Vibrant, high-contrast palettes and gradients for engaging, memorable, and modern user experiences.
+description: 鲜明的高对比度配色与渐变，打造有吸引力、令人难忘且现代的用户体验。 | Vibrant, high-contrast palettes and gradients for engaging, memorable, and modern user experiences.
 license: MIT
 metadata:
   author: typeui.sh

@@ -1,6 +1,6 @@
 ---
 name: tracking-resource-usage
-description: Track and optimize resource usage across application stack including CPU, memory, disk, and network I/O. Use when identifying bottlenecks or optimizing costs. Trigger with phrases like "track resource usage", "monitor CPU and memory", or "optimize resource allocation".
+description: 跟踪并优化应用栈的资源使用，包括 CPU、内存、磁盘和网络 I/O。用于识别瓶颈或优化成本时。使用「track resource usage」「monitor CPU and memory」「optimize resource allocation」等短语触发。 | Track and optimize resource usage across application stack including CPU, memory, disk, and network I/O. Use when identifying bottlenecks or optimizing costs. Trigger with phrases like "track resource usage", "monitor CPU and memory", or "optimize resource allocation".
 version: 1.0.0
 allowed-tools:
 - Read

@@ -1,6 +1,6 @@
 ---
 name: sql-query-explainer
-description: "Explains, optimises, writes, and documents SQL queries. Use when asked to explain a SQL query, optimise slow SQL, translate SQL to plain English for non-technical stakeholders, write a query from a natural language description, or produce query documentation. Produces plain-English explanations, annotated optimised queries, or a data dictionary covering output shape, assumptions, and known limitations. Works across PostgreSQL, MySQL, BigQuery, Snowflake, and standard SQL."
+description: "解释、优化、编写并撰写文档说明 SQL 查询。当被要求解释 SQL 查询、优化慢 SQL、向非技术干系人把 SQL 翻译成通俗语言、根据自然语言描述编写查询或生成查询文档时使用。产出通俗解释、带注释的优化查询，或涵盖输出形态、假设与已知限制的数据字典。支持 PostgreSQL、MySQL、BigQuery、Snowflake 与标准 SQL。 | Explains, optimises, writes, and documents SQL queries. Use when asked to explain a SQL query, optimise slow SQL, translate SQL to plain English for non-technical stakeholders, write a query from a natural language description, or produce query documentation. Produces plain-English explanations, annotated optimised queries, or a data dictionary covering output shape, assumptions, and known limitations. Works across PostgreSQL, MySQL, BigQuery, Snowflake, and standard SQL."
 ---
 
 # SQL Query Explainer Skill

@@ -1,7 +1,7 @@
 ---
 name: roguelike
 description: >
-  Build a roguelike: turn-based grid movement, procedural dungeons, permadeath, field-of-view,
+  构建 Roguelike 游戏：回合制网格移动、程序化地牢、永久死亡、视野与战利品表。适用于 Roguelike 或 Roguelite，以及带程序化关卡的回合制网格地牢探索游戏。 |
   and loot tables. Use for a roguelike/roguelite or turn-based grid dungeon crawler with procedural levels.
 license: Apache-2.0
 compatibility: Engine-agnostic design patterns; snippets are pseudocode (port to your engine)

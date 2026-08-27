@@ -1,6 +1,6 @@
 ---
 name: react-nextjs-development
-description: "React and Next.js 14+ application development with App Router, Server Components, TypeScript, Tailwind CSS, and modern frontend patterns."
+description: "使用 App Router、Server Components、TypeScript、Tailwind CSS 和现代前端模式进行 React 与 Next.js 14+ 应用开发。 | React and Next.js 14+ application development with App Router, Server Components, TypeScript, Tailwind CSS, and modern frontend patterns."
 category: granular-workflow-bundle
 risk: safe
 source: personal

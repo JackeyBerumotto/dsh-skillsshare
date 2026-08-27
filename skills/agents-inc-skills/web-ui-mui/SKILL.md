@@ -1,6 +1,6 @@
 ---
 name: web-ui-mui
-description: Material UI component library patterns for React
+description: 面向 React 的 Material UI 组件库模式。 | Material UI component library patterns for React
 ---
 
 # MUI (Material UI) Patterns

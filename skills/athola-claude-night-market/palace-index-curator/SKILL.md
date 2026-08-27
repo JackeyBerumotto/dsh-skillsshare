@@ -1,6 +1,6 @@
 ---
 name: palace-index-curator
-description: Curate the web-capture index. Use when the capture backlog grows, captures sit unprocessed at seedling/pending, or to surface stored research during work.
+description: 策展网页捕获索引。当捕获积压增长、捕获内容滞留在 seedling/pending 状态未处理，或需要在工作中调出已存储的研究资料时使用。 | Curate the web-capture index. Use when the capture backlog grows, captures sit unprocessed at seedling/pending, or to surface stored research during work.
 alwaysApply: false
 category: governance
 tags:

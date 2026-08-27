@@ -1,6 +1,6 @@
 ---
 name: review-chamber
-description: Captures and retrieves PR-review findings in memory palaces. Use after PR review to store architectural decisions, patterns, and standards for future reference.
+description: 在记忆宫殿中捕获和检索 PR 评审发现。在 PR 评审之后使用，把架构决策、模式和标准存储起来以备日后参考。 | Captures and retrieves PR-review findings in memory palaces. Use after PR review to store architectural decisions, patterns, and standards for future reference.
 alwaysApply: false
 usage_patterns:
 - capture-review: After PR review completion, capture significant findings

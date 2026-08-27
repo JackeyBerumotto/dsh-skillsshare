@@ -1,6 +1,6 @@
 ---
 name: i18n-localization
-description: "Internationalization and localization patterns. Detecting hardcoded strings, managing translations, locale files, RTL support."
+description: "国际化与本地化模式。检测硬编码字符串、管理翻译、语言环境文件以及 RTL 支持。 | Internationalization and localization patterns. Detecting hardcoded strings, managing translations, locale files, RTL support."
 risk: safe
 source: community
 date_added: "2026-02-27"

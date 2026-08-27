@@ -1,6 +1,6 @@
 ---
 name: tdd-workflows-tdd-green
-description: "Implement the minimal code needed to make failing tests pass in the TDD green phase."
+description: "在 TDD 绿色阶段实现让失败测试通过所需的最少代码。 | Implement the minimal code needed to make failing tests pass in the TDD green phase."
 risk: unknown
 source: community
 date_added: "2026-02-27"

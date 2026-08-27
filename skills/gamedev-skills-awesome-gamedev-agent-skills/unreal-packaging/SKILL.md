@@ -1,7 +1,7 @@
 ---
 name: unreal-packaging
 description: >
-  Package and ship an Unreal Engine 5 project: the Platforms menu Package Project flow, build
+  打包并发布 Unreal Engine 5 项目：Platforms 菜单的 Package Project 流程、构建配置（Development 与 Shipping）、内容烘焙、打包设置和 Game Default Map，以及使用 RunUAT BuildCookRun 的命令行构建。在打包构建、制作发布版本、烘焙内容、配置打包设置，或用户提到 package Unreal、cook content、shipping build 或 BuildCookRun 时使用。 |
   configurations (Development vs Shipping), cooking content, packaging settings and the Game
   Default Map, and command-line builds with RunUAT BuildCookRun. Use when packaging a build,
   making a shipping build, cooking content, configuring packaging settings, or when the user

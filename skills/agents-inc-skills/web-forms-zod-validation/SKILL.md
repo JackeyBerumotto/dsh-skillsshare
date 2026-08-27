@@ -1,6 +1,6 @@
 ---
 name: web-forms-zod-validation
-description: Zod schema validation patterns for TypeScript - schema definitions, type inference, refinements, transforms, discriminated unions
+description: TypeScript 的 Zod schema 校验模式——schema 定义、类型推断、refinement、transform、可辨识联合。 | Zod schema validation patterns for TypeScript - schema definitions, type inference, refinements, transforms, discriminated unions
 ---
 
 # Zod Schema Validation Patterns

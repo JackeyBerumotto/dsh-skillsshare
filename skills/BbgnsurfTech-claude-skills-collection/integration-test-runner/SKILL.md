@@ -2,7 +2,7 @@
 name: running-integration-tests
 version: 1.0.0
 description: |
-  Execute integration tests validating component interactions and system integration.
+  执行集成测试，验证组件交互和系统集成。在进行专项测试时使用。触发短语包括「run integration tests」「test integration」或「validate component interactions」。 |
   Use when performing specialized testing.
   Trigger with phrases like "run integration tests", "test integration", or "validate component interactions".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(test:integration-*)

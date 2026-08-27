@@ -1,6 +1,6 @@
 ---
 name: process-documentation
-description: "Document any business process in a clear, structured format. Use when asked to document a process, write a process guide, create a workflow document, or map out how something works. Produces a complete process document with steps, roles, inputs, outputs, and edge cases."
+description: "以清晰、结构化的格式记录任何业务流程。当被要求记录流程、编写流程指南、创建工作流文档或梳理某事物的运作方式时使用。产出完整的流程文档，包含步骤、角色、输入、输出和边界情况。 | Document any business process in a clear, structured format. Use when asked to document a process, write a process guide, create a workflow document, or map out how something works. Produces a complete process document with steps, roles, inputs, outputs, and edge cases."
 ---
 
 # Process Documentation Skill

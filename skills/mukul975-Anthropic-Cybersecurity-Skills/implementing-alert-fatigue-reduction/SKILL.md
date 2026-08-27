@@ -1,12 +1,6 @@
 ---
 name: implementing-alert-fatigue-reduction
-description: 'Implements strategies to reduce SOC alert fatigue by tuning detection
-  rules, consolidating duplicate alerts, implementing risk-based alerting, and measuring
-  alert quality metrics to maintain analyst effectiveness and prevent critical alert
-  dismissal. Use when SOC teams face overwhelming alert volumes, high false positive
-  rates, or declining analyst performance.
-
-  '
+description: "实现降低 SOC 告警疲劳的策略，通过调优检测规则、合并重复告警、实施基于风险的告警以及衡量告警质量指标，保持分析员效率并防止关键告警被忽略。适用于 SOC 团队面临海量告警、高误报率或分析员绩效下降时使用。 | Implements strategies to reduce SOC alert fatigue by tuning detection rules, consolidating duplicate alerts, implementing risk-based alerting, and measuring alert quality metrics to maintain analyst effectiveness and prevent critical alert dismissal. Use when SOC teams face overwhelming alert volumes, high false positive rates, or declining analyst performance."
 domain: cybersecurity
 subdomain: soc-operations
 tags:

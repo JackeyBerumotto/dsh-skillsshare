@@ -1,6 +1,6 @@
 ---
 name: soap-note
-description: "Structure a clinical encounter into a clean SOAP note. Use when asked to write a SOAP note, document a patient encounter, turn visit notes into clinical documentation, or structure subjective/objective/assessment/plan. Produces a well-organised SOAP note — Subjective, Objective, Assessment (with differential), and Plan — from the provided encounter details, in standard clinical-documentation style."
+description: "将一次临床接诊整理成规范的 SOAP 记录。当被要求撰写 SOAP 记录、记录患者就诊过程、将门诊笔记转化为临床文档，或按主观/客观/评估/计划组织内容时使用。根据提供的接诊细节，以标准临床文档风格产出结构清晰的 SOAP 记录——主观、客观、评估（含鉴别诊断）和计划。 | Structure a clinical encounter into a clean SOAP note. Use when asked to write a SOAP note, document a patient encounter, turn visit notes into clinical documentation, or structure subjective/objective/assessment/plan. Produces a well-organised SOAP note — Subjective, Objective, Assessment (with differential), and Plan — from the provided encounter details, in standard clinical-documentation style."
 ---
 
 # SOAP Note Skill

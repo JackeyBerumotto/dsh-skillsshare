@@ -1,6 +1,6 @@
 ---
 name: factory-acceptance-test
-description: "Write a factory acceptance test (FAT) plan or report — test coverage matrix against spec, AQL sampling plan, pass/fail criteria, golden-sample handling, deviation log, and sign-off structure. Use when asked to write a FAT plan, define outgoing quality inspection, set AQL levels, prepare for a factory acceptance or pre-shipment inspection, or document FAT results. Produces a complete FAT plan or report with sampling tables, defect classification, and a sign-off block."
+description: "撰写工厂验收测试（FAT）计划或报告——对照规格的测试覆盖矩阵、AQL 抽样方案、通过/失败判据、金样处理、偏差记录和签署结构。在被要求编写 FAT 计划、定义出货质量检验、设定 AQL 水平、准备工厂验收或出货前检验，或记录 FAT 结果时使用。产出含抽样表、缺陷分类和签署栏的完整 FAT 计划或报告。 | Write a factory acceptance test (FAT) plan or report — test coverage matrix against spec, AQL sampling plan, pass/fail criteria, golden-sample handling, deviation log, and sign-off structure. Use when asked to write a FAT plan, define outgoing quality inspection, set AQL levels, prepare for a factory acceptance or pre-shipment inspection, or document FAT results. Produces a complete FAT plan or report with sampling tables, defect classification, and a sign-off block."
 ---
 
 # Factory Acceptance Test Skill

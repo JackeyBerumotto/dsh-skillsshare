@@ -1,6 +1,6 @@
 ---
 name: production-audit
-description: Local-evidence production readiness audit for shipped apps, pre-launch reviews, post-merge checks, and "what breaks in prod?" questions without sending repo data to an external audit service.
+description: 基于本地证据的生产就绪审计，适用于已上线应用、上线前评审、合并后检查以及「生产环境会出什么问题？」这类疑问，且无需把仓库数据发送到外部审计服务。 | Local-evidence production readiness audit for shipped apps, pre-launch reviews, post-merge checks, and "what breaks in prod?" questions without sending repo data to an external audit service.
 metadata:
   origin: community
 ---

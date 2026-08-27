@@ -1,6 +1,6 @@
 ---
 name: detecting-dependency-confusion
-description: Detect and prevent public-over-private name resolution in npm, PyPI, and Maven.
+description: 检测并防止 npm、PyPI 和 Maven 中公共包优先于私有包的名称解析。 | Detect and prevent public-over-private name resolution in npm, PyPI, and Maven.
 domain: cybersecurity
 subdomain: supply-chain-security
 tags:

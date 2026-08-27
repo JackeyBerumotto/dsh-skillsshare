@@ -1,6 +1,6 @@
 ---
 name: Pair Programming
-description: AI-assisted pair programming with multiple modes (driver/navigator/switch), real-time verification, quality monitoring, and comprehensive testing. Supports TDD, debugging, refactoring, and learning sessions. Features automatic role switching, continuous code review, security scanning, and performance optimization with truth-score verification.
+description: 多模式（驾驶员、领航员、切换）的 AI 辅助结对编程，具备实时验证、质量监控和全面测试。支持 TDD、调试、重构和学习会话。特性包括自动角色切换、持续代码审查、安全扫描以及带真值评分验证的性能优化。 | AI-assisted pair programming with multiple modes (driver/navigator/switch), real-time verification, quality monitoring, and comprehensive testing. Supports TDD, debugging, refactoring, and learning sessions. Features automatic role switching, continuous code review, security scanning, and performance optimization with truth-score verification.
 ---
 
 # Pair Programming

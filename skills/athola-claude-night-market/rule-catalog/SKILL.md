@@ -1,6 +1,6 @@
 ---
 name: rule-catalog
-description: Browse hookify rule catalog. Use when installing pre-built rules or browsing categories. Do not use when writing custom rules; use hookify:writing-rules.
+description: 浏览 hookify 规则目录。在安装预置规则或浏览分类时使用。编写自定义规则时请勿使用；请改用 hookify:writing-rules。 | Browse hookify rule catalog. Use when installing pre-built rules or browsing categories. Do not use when writing custom rules; use hookify:writing-rules.
 alwaysApply: false
 category: hook-development
 tags:

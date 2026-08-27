@@ -1,6 +1,6 @@
 ---
 name: transcreation
-description: "Transcreate marketing/brand copy for another language and culture — recreate the impact, not the words. Use when asked to adapt a tagline, ad, slogan, campaign, or brand message for a new market, or when a translation is 'correct but flat'. Produces a transcreated version that lands emotionally in-culture, with the strategic rationale, 2-3 options, and notes on what was changed and why."
+description: "为另一种语言和文化创译营销/品牌文案——重现影响力，而非逐字翻译。当被要求为新市场改编标语、广告、口号、营销活动或品牌信息，或当翻译「正确但平淡」时使用。产出能在目标文化中引发情感共鸣的创译版本，附带策略依据、2-3 个选项，以及关于改动内容及其原因的说明。 | Transcreate marketing/brand copy for another language and culture — recreate the impact, not the words. Use when asked to adapt a tagline, ad, slogan, campaign, or brand message for a new market, or when a translation is 'correct but flat'. Produces a transcreated version that lands emotionally in-culture, with the strategic rationale, 2-3 options, and notes on what was changed and why."
 ---
 
 # Transcreation Skill

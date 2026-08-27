@@ -1,6 +1,6 @@
 ---
 name: stitch-loop
-description: Teaches agents to iteratively build websites using Stitch with an autonomous baton-passing loop pattern
+description: 教会代理使用 Stitch 以自主接力的循环模式迭代式构建网站 | Teaches agents to iteratively build websites using Stitch with an autonomous baton-passing loop pattern
 allowed-tools:
   - "stitch*:*"
   - "chrome*:*"

@@ -1,6 +1,6 @@
 ---
 name: trader-portfolio-cg
-description: Mean-variance portfolio optimization via Conjugate Gradient — 40-60× faster than the legacy Neumann path (ADR-126 Phase 3, ADR-123 Wedge 8)
+description: 通过共轭梯度法做均值-方差投资组合优化——比旧的 Neumann 路径快 40-60 倍（ADR-126 Phase 3、ADR-123 Wedge 8）。 | Mean-variance portfolio optimization via Conjugate Gradient — 40-60× faster than the legacy Neumann path (ADR-126 Phase 3, ADR-123 Wedge 8)
 allowed-tools: Bash Read mcp__ruflo-sublinear__solve mcp__claude-flow__memory_store mcp__claude-flow__memory_retrieve mcp__claude-flow__memory_search mcp__claude-flow__agentdb_pattern-search
 argument-hint: "[--portfolio-id ID] [--tolerance 1e-6]"
 ---

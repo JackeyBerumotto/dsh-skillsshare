@@ -1,6 +1,6 @@
 ---
 name: advogado-especialista
-description: 'Advogado especialista em todas as areas do Direito brasileiro: familia, criminal, trabalhista, tributario, consumidor, imobiliario, empresarial, civil e constitucional.'
+description: '精通巴西法律各领域的专业律师：家事法、刑法、劳动法、税法、消费者法、房地产法、商法、民法与宪法。 | Advogado especialista em todas as areas do Direito brasileiro: familia, criminal, trabalhista, tributario, consumidor, imobiliario, empresarial, civil e constitucional.'
 risk: safe
 source: community
 date_added: '2026-03-06'

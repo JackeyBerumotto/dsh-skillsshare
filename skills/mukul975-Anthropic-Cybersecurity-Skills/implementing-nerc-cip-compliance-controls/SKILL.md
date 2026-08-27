@@ -1,13 +1,6 @@
 ---
 name: implementing-nerc-cip-compliance-controls
-description: 'This skill covers implementing North American Electric Reliability Corporation
-  Critical Infrastructure Protection (NERC CIP) compliance controls for Bulk Electric
-  System (BES) cyber systems. It addresses asset categorization (CIP-002), electronic
-  security perimeters (CIP-005), system security management (CIP-007), configuration
-  management (CIP-010), supply chain risk management (CIP-013), and the 2025 updates
-  including mandatory MFA for remote access and expanded low-impact asset requirements.
-
-  '
+description: "本技能涵盖实施北美电力可靠性协会关键基础设施保护（NERC CIP）针对大电力系统（BES）网络系统的合规控制。内容涉及资产分类（CIP-002）、电子安全边界（CIP-005）、系统安全管理（CIP-007）、配置管理（CIP-010）、供应链风险管理（CIP-013），以及 2025 年更新（包括远程访问强制 MFA 与扩展的低影响资产要求）。 | This skill covers implementing North American Electric Reliability Corporation Critical Infrastructure Protection (NERC CIP) compliance controls for Bulk Electric System (BES) cyber systems. It addresses asset categorization (CIP-002), electronic security perimeters (CIP-005), system security management (CIP-007), configuration management (CIP-010), supply chain risk management (CIP-013), and the 2025 updates including mandatory MFA for remote access and expanded low-impact asset requirements."
 domain: cybersecurity
 subdomain: ot-ics-security
 tags:

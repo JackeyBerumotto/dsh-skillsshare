@@ -1,6 +1,6 @@
 ---
 name: managed-agent
-description: Run an Anthropic Claude Managed Agent — a cloud agent harness (container + filesystem + tools), the cloud counterpart of the local wasm-agent runtime
+description: 运行 Anthropic Claude Managed Agent——一个云端智能体 harness（容器 + 文件系统 + 工具），是本地 wasm-agent 运行时的云端对应物。 | Run an Anthropic Claude Managed Agent — a cloud agent harness (container + filesystem + tools), the cloud counterpart of the local wasm-agent runtime
 argument-hint: "<create|prompt|status|events|list|terminate> [options]"
 allowed-tools: mcp__claude-flow__managed_agent_create mcp__claude-flow__managed_agent_prompt mcp__claude-flow__managed_agent_status mcp__claude-flow__managed_agent_events mcp__claude-flow__managed_agent_list mcp__claude-flow__managed_agent_terminate mcp__claude-flow__wasm_agent_create Bash
 ---

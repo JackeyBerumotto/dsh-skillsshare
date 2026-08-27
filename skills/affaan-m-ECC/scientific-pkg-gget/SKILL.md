@@ -1,6 +1,6 @@
 ---
 name: gget
-description: gget CLI and Python workflow for quick genomic database queries, sequence lookup, BLAST-style searches, enrichment checks, and reproducible bioinformatics evidence logs.
+description: gget CLI 和 Python 工作流，用于快速查询基因组数据库、序列查找、类 BLAST 搜索、富集检查，以及可复现的生物信息学证据日志。 | gget CLI and Python workflow for quick genomic database queries, sequence lookup, BLAST-style searches, enrichment checks, and reproducible bioinformatics evidence logs.
 metadata:
   origin: community
 ---

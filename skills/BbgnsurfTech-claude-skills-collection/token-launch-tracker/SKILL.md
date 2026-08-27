@@ -2,7 +2,7 @@
 name: tracking-token-launches
 version: 1.0.0
 description: |
-  Monitor new token launches, IDOs, and fair launches with contract verification.
+  监控新代币发布、IDO 和公平发布，并附带合约验证。在发现新代币发布时使用。触发短语如「track launches」「find new tokens」或「monitor IDOs」。 |
   Use when discovering new token launches.
   Trigger with phrases like "track launches", "find new tokens", or "monitor IDOs".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(crypto:launch-*)

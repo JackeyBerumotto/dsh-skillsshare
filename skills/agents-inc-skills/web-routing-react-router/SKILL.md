@@ -1,6 +1,6 @@
 ---
 name: web-routing-react-router
-description: Client-side routing with data APIs — loaders, actions, error boundaries, search params, nested layouts, and code splitting
+description: 带数据 API 的客户端路由——加载器、操作、错误边界、搜索参数、嵌套布局和代码分割 | Client-side routing with data APIs — loaders, actions, error boundaries, search params, nested layouts, and code splitting
 ---
 
 # React Router Patterns

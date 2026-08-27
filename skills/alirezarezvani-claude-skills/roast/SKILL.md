@@ -1,6 +1,6 @@
 ---
 name: roast
-description: Use when someone asks to roast an idea, pressure-test or stress-test an idea, validate a business idea, "convene the panel", get a brutal second opinion before building something, or says "/roast". Spins up a 5-angle panel (Critic, Champion, Analyst, Investigator, Customer) that attacks the idea from every angle, then a Judge returns one GO / RESHAPE / KILL verdict with the cheapest test to de-risk it.
+description: 当有人要求吐槽一个想法、对想法做压力或应力测试、验证商业想法、「convene the panel」（召集评审团）、在动手构建前获取一份辛辣的第二意见，或说出「/roast」时使用。组建一个五视角评审团（批评者、拥护者、分析师、调查者、客户）从各个角度攻击该想法，随后由法官给出 GO/RESHAPE/KILL 裁决外加为其去风险的最低成本测试。 | Use when someone asks to roast an idea, pressure-test or stress-test an idea, validate a business idea, "convene the panel", get a brutal second opinion before building something, or says "/roast". Spins up a 5-angle panel (Critic, Champion, Analyst, Investigator, Customer) that attacks the idea from every angle, then a Judge returns one GO / RESHAPE / KILL verdict with the cheapest test to de-risk it.
 argument-hint: "[the idea to roast]"
 license: MIT
 metadata:

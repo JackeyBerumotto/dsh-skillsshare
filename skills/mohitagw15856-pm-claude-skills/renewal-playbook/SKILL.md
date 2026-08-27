@@ -1,6 +1,6 @@
 ---
 name: renewal-playbook
-description: "Build a structured renewal playbook for a customer account. Use when asked to plan a renewal, structure a renewal negotiation, prepare for an expansion conversation, or build a renewal strategy for at-risk or healthy accounts. Produces a renewal brief with health assessment, negotiation strategy, objection responses, expansion levers, and a timeline."
+description: "为客户账户构建结构化的续约手册。当被要求规划续约、设计续约谈判、准备增购沟通，或为高风险或健康账户制定续约策略时使用。产出续约简报，包含健康度评估、谈判策略、异议应对、增购抓手与时间线。 | Build a structured renewal playbook for a customer account. Use when asked to plan a renewal, structure a renewal negotiation, prepare for an expansion conversation, or build a renewal strategy for at-risk or healthy accounts. Produces a renewal brief with health assessment, negotiation strategy, objection responses, expansion levers, and a timeline."
 ---
 
 # Renewal Playbook Skill

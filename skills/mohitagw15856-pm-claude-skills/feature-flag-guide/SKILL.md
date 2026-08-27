@@ -1,6 +1,6 @@
 ---
 name: feature-flag-guide
-description: "Write a feature flag management guide and lifecycle playbook for a service or team — covering flag taxonomy, creation checklist, rollout strategy, monitoring requirements, cleanup policy, and governance. Use when asked to document feature flag practices, create a flag rollout plan, write a feature flag policy, or guide a team on flag lifecycle management. Produces a flag lifecycle playbook, taxonomy reference, per-flag creation template, rollout decision tree, and cleanup checklist."
+description: "为服务或团队编写功能开关管理指南和生命周期手册——涵盖开关分类法、创建检查清单、灰度策略、监控要求、清理政策和治理。在被要求记录功能开关实践、创建开关灰度计划、编写功能开关政策，或指导团队进行开关生命周期管理时使用。产出开关生命周期手册、分类参考、逐开关创建模板、灰度决策树和清理检查清单。 | Write a feature flag management guide and lifecycle playbook for a service or team — covering flag taxonomy, creation checklist, rollout strategy, monitoring requirements, cleanup policy, and governance. Use when asked to document feature flag practices, create a flag rollout plan, write a feature flag policy, or guide a team on flag lifecycle management. Produces a flag lifecycle playbook, taxonomy reference, per-flag creation template, rollout decision tree, and cleanup checklist."
 ---
 
 # Feature Flag Guide Skill

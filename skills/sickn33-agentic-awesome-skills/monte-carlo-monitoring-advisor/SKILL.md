@@ -1,6 +1,6 @@
 ---
 name: monte-carlo-monitoring-advisor
-description: Analyze data coverage, create monitors for warehouse tables and AI agents. Covers coverage gaps, use-case analysis, data monitor creation, and agent observability.
+description: 分析数据覆盖情况，为仓库表和 AI 代理创建监控。涵盖覆盖缺口、用例分析、数据监控创建和代理可观测性。 | Analyze data coverage, create monitors for warehouse tables and AI agents. Covers coverage gaps, use-case analysis, data monitor creation, and agent observability.
 risk: unknown
 source: https://github.com/monte-carlo-data/mc-agent-toolkit/tree/main/skills/monitoring-advisor
 source_repo: monte-carlo-data/mc-agent-toolkit

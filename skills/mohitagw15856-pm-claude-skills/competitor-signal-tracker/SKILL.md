@@ -1,6 +1,6 @@
 ---
 name: competitor-signal-tracker
-description: "Analyse competitor moves and translate them into strategic implications for your product roadmap. Use when a competitor announces a new feature, pricing change, partnership, or strategic shift, or when producing a periodic competitive intelligence report. Produces a categorised signal analysis with reactive-vs-proactive assessment, threat ratings, specific roadmap implications, and recommended responses with owners. For a recurring whole-market briefing use competitive-intelligence-monitor instead."
+description: "分析竞争对手的动作并将其转化为对你产品路线图的战略影响。当竞争对手发布新功能、调价、建立合作或发生战略转向，或在撰写周期性竞争情报报告时使用。产出分类的信号分析，包含被动与主动应对评估、威胁评级、具体的路线图影响，以及带负责人的响应建议。如需周期性的整体市场简报，请改用 competitive-intelligence-monitor。 | Analyse competitor moves and translate them into strategic implications for your product roadmap. Use when a competitor announces a new feature, pricing change, partnership, or strategic shift, or when producing a periodic competitive intelligence report. Produces a categorised signal analysis with reactive-vs-proactive assessment, threat ratings, specific roadmap implications, and recommended responses with owners. For a recurring whole-market briefing use competitive-intelligence-monitor instead."
 ---
 
 # Competitor Signal Tracker Skill

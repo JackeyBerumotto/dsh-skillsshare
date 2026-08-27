@@ -1,6 +1,6 @@
 ---
 name: retention-loop-design
-description: "Design retention and engagement loops that bring users back. Use when asked to improve retention, design an engagement/habit loop, fix a leaky retention curve, or build a re-engagement system. Produces a retention design — the retention curve diagnosis, the core habit loop (trigger→action→reward→investment), the activation→habit path, re-engagement triggers, and the metrics to watch."
+description: "设计能吸引用户回访的留存与互动循环。当被要求改善留存、设计互动/习惯循环、修复持续流失的留存曲线或构建再互动系统时使用。产出留存设计方案：留存曲线诊断、核心习惯循环（触发→行动→奖励→投入）、激活→习惯路径、再互动触发条件以及需关注的指标。 | Design retention and engagement loops that bring users back. Use when asked to improve retention, design an engagement/habit loop, fix a leaky retention curve, or build a re-engagement system. Produces a retention design — the retention curve diagnosis, the core habit loop (trigger→action→reward→investment), the activation→habit path, re-engagement triggers, and the metrics to watch."
 ---
 
 # Retention Loop Design Skill

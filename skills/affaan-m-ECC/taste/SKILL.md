@@ -1,6 +1,6 @@
 ---
 name: taste
-description: A creative-direction (taste) layer for music videos and short-form edits in the angelcore / cloud-trance / hyperpop visual family. Distills a named-genre aesthetic vocabulary, a mood + color + light system, and a beat-synced editing grammar, then chains ECC's video skills (video-editing, fal-ai-media, remotion-video-creation, motion-*, content-engine) into one production pipeline. Use when the work is not just making a video function but making it feel intentional, when building a music video, a fancam/edit, a moodboard-driven reel, or when choosing a coherent visual direction for AI-generated b-roll.
+description: 面向 angelcore、cloud-trance、hyperpop 视觉家族的音乐视频和短视频剪辑的创意指导（品味）层。提炼命名流派的审美词汇、情绪加色彩加光线的体系以及节拍同步的剪辑语法，再把 ECC 的视频技能（video-editing、fal-ai-media、remotion-video-creation、motion-*、content-engine）串联成一条生产管线。适用于不只是让视频能用、而是要让它显得有意图的工作——制作音乐视频、饭拍或剪辑、情绪板驱动的短片，或为 AI 生成的补充画面选定连贯的视觉方向时。 | A creative-direction (taste) layer for music videos and short-form edits in the angelcore / cloud-trance / hyperpop visual family. Distills a named-genre aesthetic vocabulary, a mood + color + light system, and a beat-synced editing grammar, then chains ECC's video skills (video-editing, fal-ai-media, remotion-video-creation, motion-*, content-engine) into one production pipeline. Use when the work is not just making a video function but making it feel intentional, when building a music video, a fancam/edit, a moodboard-driven reel, or when choosing a coherent visual direction for AI-generated b-roll.
 origin: ECC
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: api-cms-sanity
-description: Structured content platform — GROQ queries, schema definitions, @sanity/client, Portable Text, image handling, real-time listeners, mutations, TypeGen
+description: 结构化内容平台：GROQ 查询、schema 定义、@sanity/client、Portable Text、图片处理、实时监听器、mutations、TypeGen | Structured content platform — GROQ queries, schema definitions, @sanity/client, Portable Text, image handling, real-time listeners, mutations, TypeGen
 ---
 
 # Sanity Patterns

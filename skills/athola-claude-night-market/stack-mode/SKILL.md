@@ -1,6 +1,6 @@
 ---
 name: stack-mode
-description: Detects shared stack membership and iterates a command across all PRs in base-to-tip order. Use when a command supports --stack flag for multi-PR iteration.
+description: 检测共享堆栈成员关系，并按从底到顶的顺序在堆栈中的所有 PR 上迭代执行命令。当命令支持 --stack 标志进行多 PR 迭代时使用。 | Detects shared stack membership and iterates a command across all PRs in base-to-tip order. Use when a command supports --stack flag for multi-PR iteration.
 alwaysApply: false
 category: workflow-automation
 tags:

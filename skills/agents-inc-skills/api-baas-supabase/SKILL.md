@@ -1,6 +1,6 @@
 ---
 name: api-baas-supabase
-description: Supabase backend-as-a-service — Auth, Database, Realtime, Storage, Edge Functions, RLS policies, typed client
+description: Supabase 后端即服务：Auth、Database、Realtime、Storage、Edge Functions、RLS 策略、类型化客户端 | Supabase backend-as-a-service — Auth, Database, Realtime, Storage, Edge Functions, RLS policies, typed client
 ---
 
 # Supabase Patterns

@@ -1,15 +1,6 @@
 ---
 name: executing-red-team-exercise
-description: 'Executes comprehensive red team exercises that simulate real-world adversary
-  operations against an organization''s people, processes, and technology. The red
-  team operates with stealth as a primary objective, employing the full attack lifecycle
-  from initial reconnaissance through objective completion while testing the organization''s
-  detection and response capabilities. This differs from penetration testing by focusing
-  on adversary emulation rather than vulnerability identification. Activates for requests
-  involving red team exercise, adversary simulation, adversary emulation, or full-scope
-  offensive security assessment.
-
-  '
+description: "执行全面的红队演练，模拟真实世界攻击者针对组织人员、流程和技术的作战行动。红队以隐蔽为主要目标，运用从初始侦察到完成目标的完整攻击生命周期，同时检验组织的检测与响应能力。与渗透测试不同，红队演练侧重于对手模拟而非漏洞识别。当请求涉及红队演练、对手仿真、对手模拟或全面范围的攻击性安全评估时激活。 | Executes comprehensive red team exercises that simulate real-world adversary operations against an organization''s people, processes, and technology. The red team operates with stealth as a primary objective, employing the full attack lifecycle from initial reconnaissance through objective completion while testing the organization''s detection and response capabilities. This differs from penetration testing by focusing on adversary emulation rather than vulnerability identification. Activates for requests involving red team exercise, adversary simulation, adversary emulation, or full-scope offensive security assessment."
 domain: cybersecurity
 subdomain: penetration-testing
 tags:

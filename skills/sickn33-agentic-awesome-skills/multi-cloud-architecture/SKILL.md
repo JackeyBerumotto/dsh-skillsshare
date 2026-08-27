@@ -1,6 +1,6 @@
 ---
 name: multi-cloud-architecture
-description: "Decision framework and patterns for architecting applications across AWS, Azure, and GCP."
+description: "跨 AWS、Azure 和 GCP 进行应用架构设计的决策框架与模式。 | Decision framework and patterns for architecting applications across AWS, Azure, and GCP."
 risk: safe
 source: community
 date_added: "2026-02-27"

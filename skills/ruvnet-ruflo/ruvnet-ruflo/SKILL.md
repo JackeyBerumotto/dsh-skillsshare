@@ -1,6 +1,6 @@
 ---
 name: ruflo
-description: Ruflo is a multi-agent orchestration platform for AI coding agents (Claude Code, Cursor, Codex, Copilot, Gemini, Amp, +12 more). Use this skill when the user wants to (1) install/init ruflo in a project, (2) run multi-agent swarms with hierarchical coordination, (3) use ruflo's 314+ MCP tools for memory, routing, hooks, sub-agents, or workflows, (4) check ruflo status/version/doctor health, or (5) discover which of ruflo's 30+ plugins fits their task.
+description: Ruflo 是一个面向 AI 编码智能体（Claude Code、Cursor、Codex、Copilot、Gemini、Amp 以及另外 12 种以上）的多智能体编排平台。当用户想要（1）在项目中安装/初始化 ruflo、（2）以层级协调运行多智能体集群、（3）使用 ruflo 的 314+ 个 MCP 工具处理记忆、路由、hooks、子智能体或工作流、（4）检查 ruflo 状态/版本/doctor 健康度，或（5）了解 ruflo 的 30+ 个插件中哪个适合其任务时使用此技能。 | Ruflo is a multi-agent orchestration platform for AI coding agents (Claude Code, Cursor, Codex, Copilot, Gemini, Amp, +12 more). Use this skill when the user wants to (1) install/init ruflo in a project, (2) run multi-agent swarms with hierarchical coordination, (3) use ruflo's 314+ MCP tools for memory, routing, hooks, sub-agents, or workflows, (4) check ruflo status/version/doctor health, or (5) discover which of ruflo's 30+ plugins fits their task.
 ---
 
 # Ruflo

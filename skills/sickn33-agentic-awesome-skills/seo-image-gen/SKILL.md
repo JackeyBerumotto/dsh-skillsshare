@@ -1,6 +1,6 @@
 ---
 name: seo-image-gen
-description: "Generate SEO-focused images such as OG cards, hero images, schema assets, product visuals, and infographics. Use when image generation is part of an SEO workflow or content publishing task."
+description: "生成面向 SEO 的图片，如 OG 卡片、主视觉图、schema 资产、产品图与信息图。当图片生成属于 SEO 工作流或内容发布任务的一环时使用。 | Generate SEO-focused images such as OG cards, hero images, schema assets, product visuals, and infographics. Use when image generation is part of an SEO workflow or content publishing task."
 risk: unknown
 source: "https://github.com/AgriciDaniel/claude-seo"
 date_added: "2026-03-21"

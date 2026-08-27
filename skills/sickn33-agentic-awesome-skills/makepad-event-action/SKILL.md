@@ -1,7 +1,7 @@
 ---
 name: makepad-event-action
 description: |
-  CRITICAL: Use for Makepad event and action handling. Triggers on:
+  关键：用于 Makepad 事件与动作处理。触发词：makepad event、makepad action、Event enum、ActionTrait、handle_event、MouseDown、KeyDown、TouchUpdate、Hit、FingerDown、post_action、makepad 事件、makepad action、事件处理 |
   makepad event, makepad action, Event enum, ActionTrait, handle_event,
   MouseDown, KeyDown, TouchUpdate, Hit, FingerDown, post_action,
   makepad 事件, makepad action, 事件处理

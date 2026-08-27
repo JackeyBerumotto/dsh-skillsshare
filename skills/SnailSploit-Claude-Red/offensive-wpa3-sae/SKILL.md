@@ -1,6 +1,6 @@
 ---
 name: offensive-wpa3-sae
-description: "WPA3 / SAE (Simultaneous Authentication of Equals) attack methodology — transition-mode (mixed WPA2/WPA3) downgrade, Dragonblood side-channel attacks (CVE-2019-9494, 9495, 13377, 13456), SAE auth flooding for AP CPU exhaustion, Hash-to-Element (H2E) timing analysis, group downgrade, and 6 GHz / Wi-Fi 6E spec implications (PMF mandatory, no transition mode allowed). Use when target advertises WPA3-SAE or WPA3-Personal/Enterprise, or operates in 6 GHz where WPA3 + PMF are required by spec."
+description: "WPA3/SAE（对等同步认证）攻击方法论——过渡模式（WPA2/WPA3 混合）降级、Dragonblood 侧信道攻击（CVE-2019-9494、9495、13377、13456）、以 SAE 认证泛洪耗尽 AP CPU、Hash-to-Element（H2E）时序分析、组降级，以及 6 GHz/Wi-Fi 6E 规范影响（强制 PMF、不允许过渡模式）。当目标宣告 WPA3-SAE 或 WPA3-Personal/Enterprise，或在规范要求 WPA3 加 PMF 的 6 GHz 频段运行时使用。 | WPA3 / SAE (Simultaneous Authentication of Equals) attack methodology — transition-mode (mixed WPA2/WPA3) downgrade, Dragonblood side-channel attacks (CVE-2019-9494, 9495, 13377, 13456), SAE auth flooding for AP CPU exhaustion, Hash-to-Element (H2E) timing analysis, group downgrade, and 6 GHz / Wi-Fi 6E spec implications (PMF mandatory, no transition mode allowed). Use when target advertises WPA3-SAE or WPA3-Personal/Enterprise, or operates in 6 GHz where WPA3 + PMF are required by spec."
 ---
 
 # WPA3 / SAE Attacks

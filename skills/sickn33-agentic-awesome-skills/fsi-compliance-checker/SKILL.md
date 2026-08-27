@@ -1,6 +1,6 @@
 ---
 name: fsi-compliance-checker
-description: "Maps code, architecture, and infrastructure changes to specific control IDs in PCI-DSS v4.0 and MAS TRM (Singapore financial regulator), producing an audit-traceable findings report with per-control remediation."
+description: "把代码、架构与基础设施变更映射到 PCI-DSS v4.0 和 MAS TRM（新加坡金融监管机构）的具体控制项编号，产出可审计追溯的发现报告，并附按控制项的整改建议。 | Maps code, architecture, and infrastructure changes to specific control IDs in PCI-DSS v4.0 and MAS TRM (Singapore financial regulator), producing an audit-traceable findings report with per-control remediation."
 category: security
 risk: safe
 source: community

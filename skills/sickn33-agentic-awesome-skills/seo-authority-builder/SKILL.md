@@ -1,6 +1,6 @@
 ---
 name: seo-authority-builder
-description: 'Analyzes content for E-E-A-T signals and suggests improvements to
+description: 分析内容的 E-E-A-T 信号并提出改进建议 | 'Analyzes content for E-E-A-T signals and suggests improvements to
 
   build authority and trust. Identifies missing credibility elements. Use
 

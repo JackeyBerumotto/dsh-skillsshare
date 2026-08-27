@@ -1,6 +1,6 @@
 ---
 name: uspto-database
-description: USPTO patent and trademark data workflow for official record lookup, PatentSearch queries, TSDR checks, assignment data, and reproducible IP research logs.
+description: USPTO 专利与商标数据工作流，用于官方记录查询、PatentSearch 检索、TSDR 核查、权属转让数据以及可复现的知识产权研究日志。 | USPTO patent and trademark data workflow for official record lookup, PatentSearch queries, TSDR checks, assignment data, and reproducible IP research logs.
 metadata:
   origin: community
 ---

@@ -1,6 +1,6 @@
 ---
 name: git-pr-workflows-git-workflow
-description: "Orchestrate review, tests, commits, branch pushes, and pull-request creation with parallel agents. Use when completed changes must move through validation into a PR or guarded merge."
+description: "使用并行智能体编排评审、测试、提交、分支推送和拉取请求创建。当已完成的变更必须经过验证进入 PR 或受保护的合并时使用。 | Orchestrate review, tests, commits, branch pushes, and pull-request creation with parallel agents. Use when completed changes must move through validation into a PR or guarded merge."
 risk: critical
 source: community
 date_added: "2026-02-27"

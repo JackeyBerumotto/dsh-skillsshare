@@ -1,6 +1,6 @@
 ---
 name: parallel-execution-optimizer
-description: Use when the user wants a task done much faster through parallel work, concurrent agents, batched tool calls, isolated worktrees, or many independent verification lanes without losing correctness.
+description: 当用户希望在不损失正确性的前提下通过并行工作、并发代理、批量工具调用、隔离的工作树或多个独立验证通道大幅加快任务完成时使用。 | Use when the user wants a task done much faster through parallel work, concurrent agents, batched tool calls, isolated worktrees, or many independent verification lanes without losing correctness.
 license: MIT
 metadata:
   origin: ECC

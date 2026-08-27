@@ -1,6 +1,6 @@
 ---
 name: curate
-description: Adds developer-authored annotations to the gauntlet knowledge base. Use when capturing tribal knowledge or rationale not visible in code.
+description: 向 gauntlet 知识库添加开发者撰写的注解。用于记录代码中看不到的团队隐性知识或决策理由。 | Adds developer-authored annotations to the gauntlet knowledge base. Use when capturing tribal knowledge or rationale not visible in code.
 model_hint: standard
 ---
 

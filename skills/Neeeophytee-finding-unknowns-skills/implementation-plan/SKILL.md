@@ -1,6 +1,6 @@
 ---
 name: implementation-plan
-description: Write an implementation plan that leads with the decisions the user is most likely to change, and buries the mechanical work at the bottom. Use when planning is requested before a build, especially after brainstorming or an interview.
+description: 撰写实施计划，把用户最可能改动的决策放在最前，把机械性工作沉到底部。在构建之前被要求规划时使用，尤其是在头脑风暴或访谈之后。 | Write an implementation plan that leads with the decisions the user is most likely to change, and buries the mechanical work at the bottom. Use when planning is requested before a build, especially after brainstorming or an interview.
 ---
 
 # Implementation plan

@@ -1,7 +1,7 @@
 ---
 name: seo-content
 description: >
-  Content quality and E-E-A-T analysis with AI citation readiness assessment.
+  内容质量与 E-E-A-T 分析，附带 AI 引用就绪度评估。当用户提到「content quality」「E-E-A-T」「content analysis」「readability check」「thin content」或「content audit」时使用。 |
   Use when user says "content quality", "E-E-A-T", "content analysis",
   "readability check", "thin content", or "content audit".
 risk: unknown

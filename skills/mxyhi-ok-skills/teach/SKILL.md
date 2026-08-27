@@ -1,6 +1,6 @@
 ---
 name: teach
-description: Teach the user a new skill or concept, within this workspace.
+description: 在当前工作区内向用户教授一项新技能或新概念。 | Teach the user a new skill or concept, within this workspace.
 ---
 
 The user has asked you to teach them something. This is a stateful request - they intend to learn the topic over multiple sessions.

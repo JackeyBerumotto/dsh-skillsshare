@@ -1,6 +1,6 @@
 ---
 name: planning-with-files-zh
-description: 基于 Manus 风格的文件规划系统，用于组织和跟踪复杂任务的进度。创建 task_plan.md、findings.md 和 progress.md 三个文件。当用户要求规划、拆解或组织多步骤项目、研究任务或需要超过5次工具调用的工作时使用。支持 /clear 后的自动会话恢复。触发词：任务规划、项目计划、制定计划、分解任务、多步骤规划、进度跟踪、文件规划、帮我规划、拆解项目
+description: "基于 Manus 风格的文件规划系统，用于组织和跟踪复杂任务的进度。创建 task_plan.md、findings.md 和 progress.md 三个文件。当用户要求规划、拆解或组织多步骤项目、研究任务或需要超过5次工具调用的工作时使用。支持 /clear 后的自动会话恢复。触发词：任务规划、项目计划、制定计划、分解任务、多步骤规划、进度跟踪、文件规划、帮我规划、拆解项目 | Manus-style file-based planning system for organizing and tracking progress on complex tasks. Creates three files: task_plan.md, findings.md, and progress.md. Use when the user asks to plan, break down, or organize multi-step projects, research tasks, or work requiring more than 5 tool calls. Supports automatic session recovery after /clear. Trigger words: 任务规划, 项目计划, 制定计划, 分解任务, 多步骤规划, 进度跟踪, 文件规划, 帮我规划, 拆解项目"
 user-invocable: true
 allowed-tools: "Read Write Edit Bash Glob Grep"
 hooks:

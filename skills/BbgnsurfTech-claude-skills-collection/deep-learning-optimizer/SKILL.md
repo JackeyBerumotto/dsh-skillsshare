@@ -1,8 +1,6 @@
 ---
 name: optimizing-deep-learning-models
-description: Optimize deep learning models using Adam, SGD, and learning rate scheduling
-  to improve accuracy and reduce training time. Use when asked to "optimize deep learning
-  model" or "improve model performance".
+description: "使用 Adam、SGD 和学习率调度优化深度学习模型，以提高准确性并缩短训练时间。当被要求「optimize deep learning model」或「improve model performance」时使用。 | Optimize deep learning models using Adam, SGD, and learning rate scheduling to improve accuracy and reduce training time. Use when asked to \"optimize deep learning model\" or \"improve model performance\"."
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash
 license: MIT
 ---

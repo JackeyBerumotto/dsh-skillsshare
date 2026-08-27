@@ -1,15 +1,6 @@
 ---
 name: testing-websocket-api-security
-description: 'Tests WebSocket API implementations for security vulnerabilities including
-  missing authentication on WebSocket upgrade, Cross-Site WebSocket Hijacking (CSWSH),
-  injection attacks through WebSocket messages, insufficient input validation, denial-of-service
-  via message flooding, and information leakage through WebSocket frames. The tester
-  intercepts WebSocket handshakes and messages using Burp Suite, crafts malicious
-  payloads, and tests for authorization bypass on WebSocket channels. Activates for
-  requests involving WebSocket security testing, WS penetration testing, CSWSH attack,
-  or real-time API security assessment.
-
-  '
+description: "测试 WebSocket API 实现的安全漏洞，包括 WebSocket 升级时缺失身份验证、跨站 WebSocket 劫持（CSWSH）、经由 WebSocket 消息的注入攻击、输入校验不足、消息洪泛导致的拒绝服务以及通过 WebSocket 帧的信息泄漏。测试人员使用 Burp Suite 拦截 WebSocket 握手与消息，构造恶意载荷，并测试 WebSocket 通道上的授权绕过。适用于涉及 WebSocket 安全测试、WS 渗透测试、CSWSH 攻击或实时 API 安全评估的请求。 | Tests WebSocket API implementations for security vulnerabilities including missing authentication on WebSocket upgrade, Cross-Site WebSocket Hijacking (CSWSH), injection attacks through WebSocket messages, insufficient input validation, denial-of-service via message flooding, and information leakage through WebSocket frames. The tester intercepts WebSocket handshakes and messages using Burp Suite, crafts malicious payloads, and tests for authorization bypass on WebSocket channels. Activates for requests involving WebSocket security testing, WS penetration testing, CSWSH attack, or real-time API security assessment."
 domain: cybersecurity
 subdomain: api-security
 tags:

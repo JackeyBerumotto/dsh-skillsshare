@@ -1,6 +1,6 @@
 ---
 name: MailerLite Automation
-description: "Automate email marketing workflows including subscriber management, campaign analytics, group segmentation, and account monitoring through MailerLite via Composio"
+description: "通过 Composio 在 MailerLite 中自动化邮件营销工作流，包括订阅者管理、活动分析、分组细分和账户监控 | Automate email marketing workflows including subscriber management, campaign analytics, group segmentation, and account monitoring through MailerLite via Composio"
 requires:
   mcp:
     - rube

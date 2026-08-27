@@ -1,8 +1,6 @@
 ---
 name: validate-pr
-description: Generates and self-executes a diff-derived test plan for a PR.
-  Use when validating PR changes before merge. Do not use for code review;
-  use sanctum:pr-review.
+description: "为 PR 生成并自动执行基于差异推导的测试计划。用于在合并前验证 PR 变更。请勿用于代码审查；代码审查请使用 sanctum:pr-review。 | Generates and self-executes a diff-derived test plan for a PR. Use when validating PR changes before merge. Do not use for code review; use sanctum:pr-review."
 alwaysApply: false
 category: validation
 tags:

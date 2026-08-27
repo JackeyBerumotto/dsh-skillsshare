@@ -1,6 +1,6 @@
 ---
 name: owl-protocol-automation
-description: "Automate Owl Protocol tasks via Rube MCP (Composio). Always search tools first for current schemas."
+description: "通过 Rube MCP（Composio）自动化 Owl Protocol 任务。务必先搜索工具以获取最新 schema。 | Automate Owl Protocol tasks via Rube MCP (Composio). Always search tools first for current schemas."
 requires:
   mcp: [rube]
 ---

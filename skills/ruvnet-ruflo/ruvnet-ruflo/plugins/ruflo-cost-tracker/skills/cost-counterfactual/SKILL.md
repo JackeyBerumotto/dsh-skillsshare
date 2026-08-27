@@ -1,6 +1,6 @@
 ---
 name: cost-counterfactual
-description: Multi-baseline counterfactual cost analysis. Compares actual session spend to hypothetical always-haiku / always-sonnet / always-opus routing baselines. Answers "is the routing earning its keep?" Negative savings flag over-escalation; positive savings quantify the router's win.
+description: 多基线反事实成本分析。将实际会话开销与「始终 haiku」「始终 sonnet」「始终 opus」路由基线的假设情形进行比较，回答「路由是否物有所值？」。负节省表明存在过度升级；正节省则量化路由器的收益。 | Multi-baseline counterfactual cost analysis. Compares actual session spend to hypothetical always-haiku / always-sonnet / always-opus routing baselines. Answers "is the routing earning its keep?" Negative savings flag over-escalation; positive savings quantify the router's win.
 argument-hint: "[--since 7d] [--baseline always-haiku|always-sonnet|always-opus|all] [--format table|json]"
 allowed-tools: Bash
 ---

@@ -1,6 +1,6 @@
 ---
 name: popup-cro
-description: "Create and optimize popups, modals, overlays, slide-ins, and banners to increase conversions without harming user experience or brand trust."
+description: "创建并优化弹窗、模态框、覆盖层、滑入面板和横幅，在不损害用户体验或品牌信任的前提下提升转化率。 | Create and optimize popups, modals, overlays, slide-ins, and banners to increase conversions without harming user experience or brand trust."
 risk: unknown
 source: community
 date_added: "2026-02-27"

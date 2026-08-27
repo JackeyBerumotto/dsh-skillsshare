@@ -1,8 +1,6 @@
 ---
 name: collecting-volatile-evidence-from-compromised-host
-description: Collect volatile forensic evidence from a compromised system following
-  order of volatility, preserving memory, network connections, processes, and system
-  state before they are lost.
+description: "按照易失性顺序从受损系统收集易失性取证证据，在内存、网络连接、进程和系统状态丢失之前予以保存。 | Collect volatile forensic evidence from a compromised system following order of volatility, preserving memory, network connections, processes, and system state before they are lost."
 domain: cybersecurity
 subdomain: incident-response
 tags:

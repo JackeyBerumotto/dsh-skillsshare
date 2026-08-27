@@ -1,6 +1,6 @@
 ---
 name: slack-automation
-description: "Automate Slack workspace operations including messaging, search, channel management, and reaction workflows through Composio's Slack toolkit."
+description: "通过 Composio 的 Slack 工具包自动化 Slack 工作区操作，包括消息收发、搜索、频道管理和表情回应工作流。 | Automate Slack workspace operations including messaging, search, channel management, and reaction workflows through Composio's Slack toolkit."
 risk: critical
 source: community
 date_added: "2026-02-27"

@@ -1,6 +1,6 @@
 ---
 name: invariant-guard
-description: "Correctness-first: forces writing the function contract, loop invariant, termination argument, and edge cases BEFORE code. Catches Boyer-Moore, leftmost binary search, QuickSelect traps."
+description: "正确性优先：强制在编写代码之前先写出函数契约、循环不变量、终止论证和边界情况。能捕获 Boyer-Moore、最左二分查找、QuickSelect 等陷阱。 | Correctness-first: forces writing the function contract, loop invariant, termination argument, and edge cases BEFORE code. Catches Boyer-Moore, leftmost binary search, QuickSelect traps."
 risk: safe
 source: community
 source_repo: morsechimwai/lemmaly

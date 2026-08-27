@@ -1,6 +1,6 @@
 ---
 name: unity-ai-game-creator
-description: "Transform raw game ideas into complete Unity projects with AI-powered asset generation, scene blueprints, music/SFX prompts, and step-by-step development procedures using Unity 6+ and modern AI tools."
+description: "使用 Unity 6+ 和现代 AI 工具，将原始游戏创意转化为完整的 Unity 项目，包含 AI 驱动的资产生成、场景蓝图、音乐/音效提示以及分步开发流程。 | Transform raw game ideas into complete Unity projects with AI-powered asset generation, scene blueprints, music/SFX prompts, and step-by-step development procedures using Unity 6+ and modern AI tools."
 category: game-development
 risk: safe
 source: community

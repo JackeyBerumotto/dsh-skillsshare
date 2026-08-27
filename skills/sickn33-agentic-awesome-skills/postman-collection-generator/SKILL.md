@@ -1,6 +1,6 @@
 ---
 name: postman-collection-generator
-description: Generate complete, import-ready Postman Collection v2.1 JSON files from natural language API descriptions or cURL commands. Use this skill whenever the user describes an API in plain English ("I have a REST API with these endpoints..."), pastes cURL commands, or asks to "create a...
+description: 根据自然语言 API 描述或 cURL 命令生成完整的、可直接导入的 Postman Collection v2.1 JSON 文件。当用户用平实的英文描述 API（「我有一个带这些端点的 REST API……」）、粘贴 cURL 命令，或要求「创建一个……」时使用此技能。 | Generate complete, import-ready Postman Collection v2.1 JSON files from natural language API descriptions or cURL commands. Use this skill whenever the user describes an API in plain English ("I have a REST API with these endpoints..."), pastes cURL commands, or asks to "create a...
 risk: unknown
 source: https://github.com/LambdaTest/agent-skills/tree/main/api-skill/postman/postman-collection-generator
 source_repo: LambdaTest/agent-skills

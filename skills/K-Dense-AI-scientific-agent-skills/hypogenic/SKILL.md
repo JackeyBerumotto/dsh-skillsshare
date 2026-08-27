@@ -1,6 +1,6 @@
 ---
 name: hypogenic
-description: Automated LLM-driven hypothesis generation and testing on tabular datasets. Use when you want to systematically explore hypotheses about patterns in empirical data (e.g., deception detection, content analysis). Combines literature insights with data-driven hypothesis testing. For manual hypothesis formulation use hypothesis-generation; for creative ideation use scientific-brainstorming.
+description: 在表格数据集上自动进行由 LLM 驱动的假设生成与检验。当你希望系统性地探索关于实证数据规律的假设（例如欺骗检测、内容分析）时使用。将文献洞察与数据驱动的假设检验相结合。手动构建假设请使用 hypothesis-generation；创意发散请使用 scientific-brainstorming。 | Automated LLM-driven hypothesis generation and testing on tabular datasets. Use when you want to systematically explore hypotheses about patterns in empirical data (e.g., deception detection, content analysis). Combines literature insights with data-driven hypothesis testing. For manual hypothesis formulation use hypothesis-generation; for creative ideation use scientific-brainstorming.
 license: MIT license
 metadata: {"version": "1.0", "skill-author": "K-Dense Inc."}
 ---

@@ -1,6 +1,6 @@
 ---
 name: mailtrap-email-integration
-description: Guides agents through integrating transactional email sending via Mailtrap's Email API, including sandbox testing, domain verification, and API authentication. Use when implementing email-sending features, debugging delivery issues, or setting up safe dev/staging email testing.
+description: 指导代理通过 Mailtrap 的 Email API 集成事务性邮件发送，包括沙箱测试、域名验证和 API 认证。在实现邮件发送功能、排查送达问题或设置安全的开发/预发布邮件测试时使用。 | Guides agents through integrating transactional email sending via Mailtrap's Email API, including sandbox testing, domain verification, and API authentication. Use when implementing email-sending features, debugging delivery issues, or setting up safe dev/staging email testing.
 origin: ECC
 ---
 

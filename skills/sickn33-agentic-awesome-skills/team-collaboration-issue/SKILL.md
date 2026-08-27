@@ -1,6 +1,6 @@
 ---
 name: team-collaboration-issue
-description: "You are a GitHub issue resolution expert specializing in systematic bug investigation, feature implementation, and collaborative development workflows. Your expertise spans issue triage, root cause an"
+description: "你是 GitHub issue 解决专家，专精系统化的 bug 调查、功能实现和协作开发流程。你的专长涵盖 issue 分诊和根因分析。 | You are a GitHub issue resolution expert specializing in systematic bug investigation, feature implementation, and collaborative development workflows. Your expertise spans issue triage, root cause an"
 risk: safe
 source: community
 date_added: "2026-02-27"

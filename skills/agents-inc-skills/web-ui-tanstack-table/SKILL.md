@@ -1,6 +1,6 @@
 ---
 name: web-ui-tanstack-table
-description: TanStack Table v8 patterns - useReactTable, column definitions, sorting, filtering, pagination, row selection, virtual scrolling, server-side data
+description: TanStack Table v8 模式：useReactTable、列定义、排序、筛选、分页、行选择、虚拟滚动、服务端数据 | TanStack Table v8 patterns - useReactTable, column definitions, sorting, filtering, pagination, row selection, virtual scrolling, server-side data
 ---
 
 # TanStack Table Patterns

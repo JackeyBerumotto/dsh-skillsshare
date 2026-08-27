@@ -1,8 +1,5 @@
 ---
-description: Automatically audits claude code plugins for security vulnerabilities,
-  best practices, claude.md compliance, and quality standards when user mentions audit
-  plugin, security review, or best practices check. specific to claude-code-plugins
-  repositor...
+description: "当用户提到 audit plugin、security review 或 best practices check 时，自动审计 claude code 插件的安全漏洞、最佳实践、claude.md 合规性和质量标准。专用于 claude-code-plugins 仓库…… | Automatically audits claude code plugins for security vulnerabilities, best practices, claude.md compliance, and quality standards when user mentions audit plugin, security review, or best practices check. specific to claude-code-plugins repositor..."
 allowed-tools:
 - Read
 - Grep

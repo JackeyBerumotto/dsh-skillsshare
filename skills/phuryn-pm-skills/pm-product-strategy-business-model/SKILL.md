@@ -1,6 +1,6 @@
 ---
 name: business-model
-description: "Generate a Business Model Canvas with all 9 building blocks. Use when creating a business model, documenting how a business creates value, or analyzing an existing business model."
+description: "生成包含全部 9 个构造模块的商业模式画布。在创建商业模式、记录业务如何创造价值或剖析现有商业模式时使用。 | Generate a Business Model Canvas with all 9 building blocks. Use when creating a business model, documenting how a business creates value, or analyzing an existing business model."
 ---
 # Business Model Canvas
 

@@ -1,6 +1,6 @@
 ---
 name: ai-provider-openai-whisper
-description: Speech-to-text transcription and translation via OpenAI Audio API -- models, response formats, timestamps, prompting, streaming, chunking, and diarization
+description: 通过 OpenAI Audio API 进行语音转文字转录与翻译——模型、响应格式、时间戳、提示、流式传输、分块和说话人分离。 | Speech-to-text transcription and translation via OpenAI Audio API -- models, response formats, timestamps, prompting, streaming, chunking, and diarization
 ---
 
 # OpenAI Whisper Patterns

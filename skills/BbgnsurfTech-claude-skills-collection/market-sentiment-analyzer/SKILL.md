@@ -2,7 +2,7 @@
 name: analyzing-market-sentiment
 version: 1.0.0
 description: |
-  Analyze crypto market sentiment from social media, news, and on-chain metrics.
+  从社交媒体、新闻和链上指标分析加密货币市场情绪。在评估市场情绪与社交趋势时使用。触发短语如「analyze sentiment」、「check market mood」或「gauge social trends」。 |
   Use when gauging market sentiment and social trends.
   Trigger with phrases like "analyze sentiment", "check market mood", or "gauge social trends".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(crypto:sentiment-*)

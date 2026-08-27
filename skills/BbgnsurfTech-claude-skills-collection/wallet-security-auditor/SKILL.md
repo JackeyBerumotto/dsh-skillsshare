@@ -2,7 +2,7 @@
 name: auditing-wallet-security
 version: 1.0.0
 description: |
-  Audit crypto wallet security including private key management and transaction signing.
+  审计加密钱包的安全性，包括私钥管理和交易签名。在审计钱包安全实践时使用。触发短语如「audit wallet」、「check security」或「verify signatures」。 |
   Use when auditing wallet security practices.
   Trigger with phrases like "audit wallet", "check security", or "verify signatures".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(crypto:wallet-*)

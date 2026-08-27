@@ -1,6 +1,6 @@
 ---
 name: cyberpunk-ui
-description: Web and App implementation guide for Cyberpunk UI. Trigger when user wants neon colors, dark backgrounds, high-tech dystopian aesthetics, and hacking interfaces.
+description: Cyberpunk UI（赛博朋克界面）的 Web 与 App 实现指南。当用户需要霓虹配色、深色背景、高科技反乌托邦美学和黑客风格界面时触发。 | Web and App implementation guide for Cyberpunk UI. Trigger when user wants neon colors, dark backgrounds, high-tech dystopian aesthetics, and hacking interfaces.
 date_added: "2026-06-17"
 risk: safe
 source: self

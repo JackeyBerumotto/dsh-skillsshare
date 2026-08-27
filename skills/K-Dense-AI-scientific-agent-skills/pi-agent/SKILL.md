@@ -1,6 +1,6 @@
 ---
 name: pi-agent
-description: Build with and use Pi, the minimal terminal coding harness. Use for installing Pi, configuring providers/models/settings, creating Pi skills/extensions/packages/themes/prompt templates, embedding Pi through the SDK, integrating over RPC or JSON event streams, parsing sessions, developing custom Pi providers and TUI components, or using ecosystem packages such as pi-subagents (delegation/orchestration), pi-mcp-adapter (MCP servers), pi-interview (interactive forms), and pi-web-access (web search, fetching, video understanding).
+description: 围绕 Pi 这一极简终端编程框架进行构建和使用。适用于安装 Pi、配置服务商、模型与设置、创建 Pi 技能、扩展、包、主题或提示词模板、通过 SDK 嵌入 Pi、经 RPC 或 JSON 事件流集成、解析会话、开发自定义 Pi 服务商与 TUI 组件，或使用 pi-subagents（委托与编排）、pi-mcp-adapter（MCP 服务器）、pi-interview（交互式表单）和 pi-web-access（网页搜索、抓取、视频理解）等生态包。 | Build with and use Pi, the minimal terminal coding harness. Use for installing Pi, configuring providers/models/settings, creating Pi skills/extensions/packages/themes/prompt templates, embedding Pi through the SDK, integrating over RPC or JSON event streams, parsing sessions, developing custom Pi providers and TUI components, or using ecosystem packages such as pi-subagents (delegation/orchestration), pi-mcp-adapter (MCP servers), pi-interview (interactive forms), and pi-web-access (web search, fetching, video understanding).
 license: MIT
 compatibility: Requires Node.js/npm for Pi CLI and SDK usage. Pi package name is @earendil-works/pi-coding-agent.
 metadata: {"version": "1.1", "skill-author": "K-Dense Inc."}

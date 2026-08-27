@@ -1,6 +1,6 @@
 ---
 name: leadfeeder-automation
-description: "Automate Leadfeeder tasks via Rube MCP (Composio). Always search tools first for current schemas."
+description: "通过 Rube MCP（Composio）自动化 Leadfeeder 任务。务必先搜索工具以获取最新 schema。 | Automate Leadfeeder tasks via Rube MCP (Composio). Always search tools first for current schemas."
 requires:
   mcp: [rube]
 ---

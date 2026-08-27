@@ -2,7 +2,7 @@
 name: running-e2e-tests
 version: 1.0.0
 description: |
-  Execute end-to-end tests covering full user workflows across frontend and backend.
+  执行覆盖前后端完整用户工作流的端到端测试。在进行专项测试时使用。触发短语包括「run end-to-end tests」「test user flows」或「execute E2E suite」。 |
   Use when performing specialized testing.
   Trigger with phrases like "run end-to-end tests", "test user flows", or "execute E2E suite".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(test:e2e-*)

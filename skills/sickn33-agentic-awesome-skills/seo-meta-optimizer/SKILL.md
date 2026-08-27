@@ -1,6 +1,6 @@
 ---
 name: seo-meta-optimizer
-description: Creates optimized meta titles, descriptions, and URL suggestions based on character limits and best practices. Generates compelling, keyword-rich metadata. Use PROACTIVELY for new content.
+description: 基于字符限制和最佳实践创建优化过的 meta 标题、描述和 URL 建议。生成有吸引力且富含关键词的元数据。应对新内容主动使用。 | Creates optimized meta titles, descriptions, and URL suggestions based on character limits and best practices. Generates compelling, keyword-rich metadata. Use PROACTIVELY for new content.
 risk: unknown
 source: community
 date_added: '2026-02-27'

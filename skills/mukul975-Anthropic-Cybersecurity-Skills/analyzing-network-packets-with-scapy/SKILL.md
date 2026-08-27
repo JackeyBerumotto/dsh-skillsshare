@@ -1,8 +1,6 @@
 ---
 name: analyzing-network-packets-with-scapy
-description: Craft, send, sniff, and dissect network packets using Scapy for protocol
-  analysis, network reconnaissance, and traffic anomaly detection in authorized security
-  testing
+description: "使用 Scapy 构建、发送、嗅探和解析网络数据包，在授权安全测试中进行协议分析、网络侦察和流量异常检测 | Craft, send, sniff, and dissect network packets using Scapy for protocol analysis, network reconnaissance, and traffic anomaly detection in authorized security testing"
 domain: cybersecurity
 subdomain: network-security
 tags:

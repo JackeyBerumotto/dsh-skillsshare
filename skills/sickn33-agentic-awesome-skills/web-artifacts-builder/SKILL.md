@@ -1,6 +1,6 @@
 ---
 name: web-artifacts-builder
-description: "To build powerful frontend claude.ai artifacts, follow these steps:"
+description: "要构建强大的 claude.ai 前端 artifacts，请遵循以下步骤： | To build powerful frontend claude.ai artifacts, follow these steps:"
 risk: unknown
 source: community
 date_added: "2026-02-27"

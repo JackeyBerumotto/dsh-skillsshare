@@ -1,6 +1,6 @@
 ---
 name: which-skill
-description: "Route a fuzzy request to the right skill in this library. Use when the user is unsure which skill fits, asks 'which skill should I use for X', describes a task without naming a skill, or when a request could plausibly match several skills. Produces a best-fit recommendation with the inputs to gather, a runner-up with the tie-breaker, and a workflow recipe when the job spans multiple skills."
+description: "将模糊的请求路由到本库中合适的技能。当用户不确定哪个技能合适、问「X 该用哪个技能」、描述任务却未点名技能，或一个请求看似能匹配多个技能时使用。产出最佳匹配推荐及需收集的输入、附决胜依据的备选方案，以及任务跨多个技能时的工作流配方。 | Route a fuzzy request to the right skill in this library. Use when the user is unsure which skill fits, asks 'which skill should I use for X', describes a task without naming a skill, or when a request could plausibly match several skills. Produces a best-fit recommendation with the inputs to gather, a runner-up with the tie-breaker, and a workflow recipe when the job spans multiple skills."
 ---
 
 # Which Skill Router

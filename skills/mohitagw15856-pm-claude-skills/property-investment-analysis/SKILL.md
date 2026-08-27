@@ -1,6 +1,6 @@
 ---
 name: property-investment-analysis
-description: "Analyze a rental / investment property's returns — cash flow, cap rate, cash-on-cash, ROI. Use when asked to analyze a rental property, evaluate a real-estate investment, run the numbers on an investment property, or compute cap rate / cash-on-cash. Produces an investment analysis — income and expenses, NOI, cap rate, monthly cash flow, cash-on-cash return, and a verdict against the investor's criteria — with formulas and a worked example. Not financial advice."
+description: "分析租赁／投资物业的收益——现金流、资本化率、现金回报率、ROI。当被要求分析出租物业、评估房地产投资、测算投资物业账目，或计算资本化率／现金回报率时使用。产出投资分析——收支明细、NOI、资本化率、月度现金流、现金回报率，以及对照投资者标准的判定——附计算公式和完整算例。不构成财务建议。 | Analyze a rental / investment property's returns — cash flow, cap rate, cash-on-cash, ROI. Use when asked to analyze a rental property, evaluate a real-estate investment, run the numbers on an investment property, or compute cap rate / cash-on-cash. Produces an investment analysis — income and expenses, NOI, cap rate, monthly cash flow, cash-on-cash return, and a verdict against the investor's criteria — with formulas and a worked example. Not financial advice."
 ---
 
 # Property Investment Analysis Skill

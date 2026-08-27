@@ -1,14 +1,6 @@
 ---
 name: testing-mobile-api-authentication
-description: 'Tests authentication and authorization mechanisms in mobile application
-  APIs to identify broken authentication, insecure token management, session fixation,
-  privilege escalation, and IDOR vulnerabilities. Use when performing API security
-  assessments against mobile app backends, testing JWT implementations, evaluating
-  OAuth flows, or assessing session management. Activates for requests involving mobile
-  API auth testing, token security assessment, OAuth mobile flow testing, or API authorization
-  bypass.
-
-  '
+description: "测试移动应用 API 中的身份验证与授权机制，识别失效的身份验证、不安全的令牌管理、会话固定、权限提升与 IDOR 漏洞。当针对移动应用后端执行 API 安全评估、测试 JWT 实现、评估 OAuth 流程或评估会话管理时使用。适用于涉及移动 API 身份验证测试、令牌安全评估、OAuth 移动流程测试或 API 授权绕过的请求。 | Tests authentication and authorization mechanisms in mobile application APIs to identify broken authentication, insecure token management, session fixation, privilege escalation, and IDOR vulnerabilities. Use when performing API security assessments against mobile app backends, testing JWT implementations, evaluating OAuth flows, or assessing session management. Activates for requests involving mobile API auth testing, token security assessment, OAuth mobile flow testing, or API authorization bypass."
 domain: cybersecurity
 subdomain: mobile-security
 author: mahipal

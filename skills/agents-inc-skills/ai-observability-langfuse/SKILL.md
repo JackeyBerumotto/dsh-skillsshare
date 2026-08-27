@@ -1,6 +1,6 @@
 ---
 name: ai-observability-langfuse
-description: LLM observability with Langfuse — OpenTelemetry-based tracing, evaluations, prompt management, datasets, and production best practices
+description: 基于 Langfuse 的 LLM 可观测性——基于 OpenTelemetry 的追踪、评估、提示词管理、数据集以及生产最佳实践。 | LLM observability with Langfuse — OpenTelemetry-based tracing, evaluations, prompt management, datasets, and production best practices
 ---
 
 # Langfuse Observability Patterns

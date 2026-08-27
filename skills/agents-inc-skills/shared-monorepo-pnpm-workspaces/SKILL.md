@@ -1,6 +1,6 @@
 ---
 name: shared-monorepo-pnpm-workspaces
-description: pnpm workspace protocol, filtering, catalogs, shared dependencies, publishing, and CI/CD for monorepo management
+description: 面向 monorepo 管理的 pnpm workspace 协议、过滤、catalogs、共享依赖、发布与 CI/CD。 | pnpm workspace protocol, filtering, catalogs, shared dependencies, publishing, and CI/CD for monorepo management
 ---
 
 # pnpm Workspaces for Monorepo Management

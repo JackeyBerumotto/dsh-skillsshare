@@ -1,6 +1,6 @@
 ---
 name: tdd-workflows-tdd-refactor
-description: "Use when working with tdd workflows tdd refactor"
+description: "在处理 TDD 工作流（tdd workflows）中的 TDD 重构（tdd refactor）时使用。 | Use when working with tdd workflows tdd refactor"
 risk: unknown
 source: community
 date_added: "2026-02-27"

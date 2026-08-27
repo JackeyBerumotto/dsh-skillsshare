@@ -1,6 +1,6 @@
 ---
 name: nika
-description: "Runs repeatable AI work as checked, budgeted workflow files."
+description: "将可重复的 AI 工作作为经过检查、有预算控制的工作流文件运行。 | Runs repeatable AI work as checked, budgeted workflow files."
 risk: critical
 source: https://github.com/supernovae-st/nika-agents/tree/main/skills/nika
 source_repo: supernovae-st/nika-agents

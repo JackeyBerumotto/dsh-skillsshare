@@ -1,6 +1,6 @@
 ---
 name: detecting-typosquatting-packages
-description: Flag misspelled, brandjacked, and typosquatted package names across npm, PyPI, and crates.io before installation using edit-distance, keyboard-proximity, and known-target corpus matching with typomania, OSSGadget, and pypi-scan.
+description: 安装前标记 npm、PyPI 与 crates.io 上拼写错误、品牌劫持与域名抢注式的包名，借助编辑距离、键盘邻近度与已知目标语料匹配，工具包括 typomania、OSSGadget 与 pypi-scan。 | Flag misspelled, brandjacked, and typosquatted package names across npm, PyPI, and crates.io before installation using edit-distance, keyboard-proximity, and known-target corpus matching with typomania, OSSGadget, and pypi-scan.
 domain: cybersecurity
 subdomain: supply-chain-security
 tags:

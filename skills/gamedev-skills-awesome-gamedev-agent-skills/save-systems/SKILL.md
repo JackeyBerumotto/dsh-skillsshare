@@ -1,7 +1,7 @@
 ---
 name: save-systems
 description: >
-  Design save/load for game state — choosing what to serialize, file formats,
+  设计游戏存档的保存/加载：选择需要序列化的内容、文件格式、存档槽位、原子化的崩溃安全写入、schema 版本管理与迁移，以及自动存档。引擎无关。当用户提到存档系统、保存/加载、游戏状态持久化、存档槽位、自动存档、存档文件损坏，或将旧存档迁移到新版本时使用。 |
   save slots, atomic crash-safe writes, schema versioning and migration, and
   autosave. Engine-neutral. Use when the user mentions save system, save/load,
   game state persistence, save slots, autosave, save file corruption, or

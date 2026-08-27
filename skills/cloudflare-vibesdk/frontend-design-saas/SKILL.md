@@ -1,7 +1,7 @@
 ---
 name: frontend-design-saas
 description: >
-  Cloudflare VibeSDK 风格的 SaaS 仪表盘设计参考。Stripe / Linear / Vercel
+  Cloudflare VibeSDK 风格的 SaaS 仪表盘设计参考。Stripe、Linear、Vercel 极简专业风，满足 WCAG AA+ 无障碍标准，平衡数据密度与视觉清晰度。 |
   极简专业风，WCAG AA+ 无障碍标准，数据密度与视觉清晰度平衡。
 metadata:
   source: cloudflare/vibesdk

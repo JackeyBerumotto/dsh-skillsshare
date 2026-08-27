@@ -1,8 +1,6 @@
 ---
 name: performing-ssl-certificate-lifecycle-management
-description: SSL/TLS certificate lifecycle management encompasses the full process
-  of requesting, issuing, deploying, monitoring, renewing, and revoking X.509 certificates.
-  Poor certificate management is a leading
+description: "SSL/TLS 证书生命周期管理涵盖请求、签发、部署、监控、续期与吊销 X.509 证书的完整过程。证书管理不善是引发重大问题的主要原因之一。 | SSL/TLS certificate lifecycle management encompasses the full process of requesting, issuing, deploying, monitoring, renewing, and revoking X.509 certificates. Poor certificate management is a leading"
 domain: cybersecurity
 subdomain: cryptography
 tags:

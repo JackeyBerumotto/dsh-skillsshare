@@ -1,6 +1,6 @@
 ---
 name: "dependency-auditor"
-description: "Audit and manage dependencies across multi-language projects. Identifies vulnerabilities, license conflicts, transitive dependency risks, and safe-upgrade paths. Use when auditing third-party packages before release, investigating a CVE, planning a major version bump, or running a license-compliance review. Examples: 'audit our npm dependencies', 'do we have GPL contamination', 'plan the upgrade to React 19'."
+description: "审计并管理多语言项目的依赖。识别漏洞、许可证冲突、传递性依赖风险以及安全升级路径。在发布前审计第三方包、调查 CVE、规划大版本升级或进行许可证合规审查时使用。示例：「audit our npm dependencies」、「do we have GPL contamination」、「plan the upgrade to React 19」。 | Audit and manage dependencies across multi-language projects. Identifies vulnerabilities, license conflicts, transitive dependency risks, and safe-upgrade paths. Use when auditing third-party packages before release, investigating a CVE, planning a major version bump, or running a license-compliance review. Examples: 'audit our npm dependencies', 'do we have GPL contamination', 'plan the upgrade to React 19'."
 ---
 
 # Dependency Auditor

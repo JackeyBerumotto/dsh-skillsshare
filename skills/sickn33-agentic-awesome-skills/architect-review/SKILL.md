@@ -1,6 +1,6 @@
 ---
 name: architect-review
-description: "Master software architect specializing in modern architecture"
+description: "软件架构大师，专精现代架构。 | Master software architect specializing in modern architecture"
 risk: unknown
 source: community
 date_added: "2026-02-27"

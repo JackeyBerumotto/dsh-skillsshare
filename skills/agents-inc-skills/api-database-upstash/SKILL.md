@@ -1,6 +1,6 @@
 ---
 name: api-database-upstash
-description: Upstash serverless Redis -- REST-based client, auto-serialization, pipelines, rate limiting, QStash, edge compatibility, global replication
+description: Upstash 无服务器 Redis——基于 REST 的客户端、自动序列化、流水线、限流、QStash、边缘兼容性、全球复制。 | Upstash serverless Redis -- REST-based client, auto-serialization, pipelines, rate limiting, QStash, edge compatibility, global replication
 ---
 
 # Upstash Patterns

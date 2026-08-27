@@ -1,6 +1,6 @@
 ---
 name: review-animations
-description: "Use when reviewing animation and motion code against a strict craft, performance, accessibility, and interaction-quality bar."
+description: "在以严格的工艺、性能、可访问性和交互质量标准评审动画与动效代码时使用。 | Use when reviewing animation and motion code against a strict craft, performance, accessibility, and interaction-quality bar."
 category: frontend
 risk: safe
 source: community

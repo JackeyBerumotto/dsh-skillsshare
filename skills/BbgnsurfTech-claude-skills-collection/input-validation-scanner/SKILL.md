@@ -1,6 +1,6 @@
 ---
 name: scanning-input-validation-practices
-description: Scan for input validation vulnerabilities and injection risks. Use when reviewing user input handling. Trigger with 'scan input validation', 'check injection vulnerabilities', or 'validate sanitization'.
+description: 扫描输入验证漏洞和注入风险。在评审用户输入处理时使用。触发语句：「scan input validation」「check injection vulnerabilities」或「validate sanitization」。 | Scan for input validation vulnerabilities and injection risks. Use when reviewing user input handling. Trigger with 'scan input validation', 'check injection vulnerabilities', or 'validate sanitization'.
 version: 1.0.0
 allowed-tools:
 - Read

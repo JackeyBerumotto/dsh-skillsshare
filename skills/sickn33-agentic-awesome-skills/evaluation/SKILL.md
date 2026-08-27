@@ -1,6 +1,6 @@
 ---
 name: evaluation
-description: "Build evaluation frameworks for agent systems. Use when testing agent performance systematically, validating context engineering choices, or measuring improvements over time."
+description: "为智能体系统构建评估框架。当需要系统化测试智能体性能、验证上下文工程决策，或衡量长期改进时使用。 | Build evaluation frameworks for agent systems. Use when testing agent performance systematically, validating context engineering choices, or measuring improvements over time."
 risk: safe
 source: "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/evaluation"
 date_added: "2026-02-27"

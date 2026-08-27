@@ -1,9 +1,6 @@
 ---
 name: graphql
-description: GraphQL gives clients exactly the data they need - no more, no
-  less. One endpoint, typed schema, introspection. But the flexibility that
-  makes it powerful also makes it dangerous. Without proper controls, clients
-  can craft queries that bring down your server.
+description: "GraphQL 让客户端精确获取所需数据——不多不少。单一端点、类型化 schema、内省能力。但令其强大的灵活性也使其变得危险。若缺乏适当管控，客户端可以构造拖垮服务器的查询。 | GraphQL gives clients exactly the data they need - no more, no less. One endpoint, typed schema, introspection. But the flexibility that makes it powerful also makes it dangerous. Without proper controls, clients can craft queries that bring down your server."
 risk: safe
 source: vibeship-spawner-skills (Apache 2.0)
 date_added: 2026-02-27

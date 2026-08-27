@@ -1,6 +1,6 @@
 ---
 name: open-house-plan
-description: "Plan and promote an open house that draws buyers and generates leads. Use when asked to plan an open house, market an open house, or create an open-house checklist. Produces a plan — timing and promotion across channels, prep and staging checklist, a day-of run sheet, lead capture, and follow-up — so the event drives real interest and the agent leaves with leads, not just foot traffic."
+description: "规划并推广一场能吸引买家并生成线索的开放日。当被要求策划开放日、推广开放日或制作开放日清单时使用。产出一份计划——跨渠道的时间安排与推广、准备与布置清单、当日流程单、线索捕获和后续跟进——让活动带来真实意向，代理人离开时手里是线索，而不只是人气。 | Plan and promote an open house that draws buyers and generates leads. Use when asked to plan an open house, market an open house, or create an open-house checklist. Produces a plan — timing and promotion across channels, prep and staging checklist, a day-of run sheet, lead capture, and follow-up — so the event drives real interest and the agent leaves with leads, not just foot traffic."
 ---
 
 # Open House Plan Skill

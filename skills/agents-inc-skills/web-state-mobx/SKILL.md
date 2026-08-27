@@ -1,6 +1,6 @@
 ---
 name: web-state-mobx
-description: MobX observable state management patterns with mobx-react-lite. Use when implementing reactive client state with observables, computed values, actions, and the observer HOC.
+description: 使用 mobx-react-lite 的 MobX 可观察状态管理模式。在实现包含 observable、computed、action 与 observer HOC 的响应式客户端状态时使用。 | MobX observable state management patterns with mobx-react-lite. Use when implementing reactive client state with observables, computed values, actions, and the observer HOC.
 ---
 
 # MobX State Management Patterns

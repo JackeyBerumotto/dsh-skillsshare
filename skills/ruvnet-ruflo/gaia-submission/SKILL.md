@@ -1,6 +1,6 @@
 ---
 name: gaia-submission
-description: Walk through a complete GAIA benchmark→submit flow — from key resolution through HAL-compatible package generation
+description: 完整演练 GAIA 基准测试→提交流程——从密钥解析到生成兼容 HAL 的软件包。 | Walk through a complete GAIA benchmark→submit flow — from key resolution through HAL-compatible package generation
 argument-hint: "[level] [limit] [models]"
 allowed-tools: Bash mcp__claude-flow__memory_store mcp__claude-flow__memory_search mcp__claude-flow__memory_list mcp__claude-flow__hooks_post_task mcp__claude-flow__hooks_pre_task
 ---

@@ -2,7 +2,7 @@
 name: finding-arbitrage-opportunities
 version: 1.0.0
 description: |
-  Identify profitable arbitrage opportunities across exchanges and DEXs in real-time.
+  实时识别跨交易所和 DEX 的盈利套利机会。在发现跨交易所盈利套利时使用。触发短语如「find arbitrage」、「scan for arb opportunities」或「check arbitrage」。 |
   Use when discovering profitable arbitrage across exchanges.
   Trigger with phrases like "find arbitrage", "scan for arb opportunities", or "check arbitrage".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(crypto:arbitrage-*)

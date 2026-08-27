@@ -2,7 +2,7 @@
 name: optimizing-defi-yields
 version: 1.0.0
 description: |
-  Find and compare DeFi yield opportunities across protocols with APY calculations.
+  跨协议查找并比较 DeFi 收益机会，附 APY 计算。在寻找最优 DeFi 收益机会时使用。以「find yield」「optimize returns」「compare APY」等短语触发。 |
   Use when finding optimal DeFi yield opportunities.
   Trigger with phrases like "find yield", "optimize returns", or "compare APY".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(crypto:yield-*)

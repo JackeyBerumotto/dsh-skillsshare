@@ -1,6 +1,6 @@
 ---
 name: worker-integration
-description: Worker-Agent integration for intelligent task dispatch and performance tracking
+description: Worker-Agent 集成，用于智能任务分发和性能跟踪。 | Worker-Agent integration for intelligent task dispatch and performance tracking
 user-invocable: true
 ---
 

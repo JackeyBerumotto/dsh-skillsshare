@@ -1,6 +1,6 @@
 ---
 name: mobile-styling-nativewind
-description: NativeWind v4+ - Tailwind CSS utility classes for React Native, className prop, CSS variables, dark mode, platform prefixes, animations, theming, third-party component integration
+description: NativeWind v4+：面向 React Native 的 Tailwind CSS 工具类、className 属性、CSS 变量、深色模式、平台前缀、动画、主题化、第三方组件集成 | NativeWind v4+ - Tailwind CSS utility classes for React Native, className prop, CSS variables, dark mode, platform prefixes, animations, theming, third-party component integration
 ---
 
 # NativeWind Patterns

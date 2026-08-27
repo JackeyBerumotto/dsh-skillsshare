@@ -1,6 +1,6 @@
 ---
 name: architecture-paradigm-service-based
-description: Applies coarse-grained service architecture for deployment independence. Use when independent deployment is needed but shared databases rule out microservices.
+description: 应用粗粒度服务架构以实现独立部署。当需要独立部署但共享数据库使微服务不可行时使用。 | Applies coarse-grained service architecture for deployment independence. Use when independent deployment is needed but shared databases rule out microservices.
 alwaysApply: false
 category: architectural-pattern
 tags:

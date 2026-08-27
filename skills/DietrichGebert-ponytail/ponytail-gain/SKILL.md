@@ -1,7 +1,7 @@
 ---
 name: ponytail-gain
 description: >
-  Show ponytail's measured impact as a compact scoreboard: less code, less
+  以紧凑的记分板形式展示 ponytail 的实测收益：代码更少、成本更低、速度更快，数据来自基准测试中位数。一次性显示，不是持久模式，也不是按仓库统计的数字。触发方式：/ponytail-gain、「ponytail gain」「what does ponytail save」「show ponytail impact」「ponytail scoreboard」。 |
   cost, more speed, from the benchmark medians. One-shot display, not a
   persistent mode, and not a per-repo number. Trigger: /ponytail-gain,
   "ponytail gain", "what does ponytail save", "show ponytail impact",

@@ -1,6 +1,6 @@
 ---
 name: sourcing-strategy
-description: "Build a talent sourcing strategy for a hard-to-fill role. Use when asked to create a sourcing strategy, a candidate sourcing plan, a channel plan for hiring, or to figure out where to find candidates for a role. Produces a strategy — the ideal-candidate profile and where they are, prioritised sourcing channels, outreach approach, a pipeline target with funnel math, and a weekly plan — so sourcing is deliberate, not just posting and praying."
+description: "为难以填补的职位构建人才寻访策略。当被要求创建寻访策略、候选人寻访计划、招聘渠道计划，或弄清去哪里为某个职位寻找候选人时使用。产出一份策略——理想候选人画像及其所在位置、按优先级排序的寻访渠道、触达方式、带漏斗计算的候选人管道目标，以及每周计划——让寻访工作有的放矢，而不是发完职位就听天由命。 | Build a talent sourcing strategy for a hard-to-fill role. Use when asked to create a sourcing strategy, a candidate sourcing plan, a channel plan for hiring, or to figure out where to find candidates for a role. Produces a strategy — the ideal-candidate profile and where they are, prioritised sourcing channels, outreach approach, a pipeline target with funnel math, and a weekly plan — so sourcing is deliberate, not just posting and praying."
 ---
 
 # Sourcing Strategy Skill

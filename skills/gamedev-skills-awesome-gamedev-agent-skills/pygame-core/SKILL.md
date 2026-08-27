@@ -1,7 +1,7 @@
 ---
 name: pygame-core
 description: >
-  Structure a pygame (pygame-ce) game in Python: the init/event/update/draw loop,
+  用 Python 构建 pygame（pygame-ce）游戏：init/event/update/draw 循环、基于增量时间的运动、Surface/Rect 的 blit 绘制、键盘/鼠标输入，以及带碰撞检测的 Sprite/Group 管理。在构建或调试 pygame 游戏时使用——当用户提到 pygame、pygame-ce、游戏循环、blit、Surface、Rect、精灵组或 clock.tick 时。面向 pygame-ce。 |
   delta-time movement, Surface/Rect blitting, keyboard/mouse input, and
   Sprite/Group management with collision. Use when building or debugging a pygame
   game — when the user mentions pygame, pygame-ce, the game loop, blit, Surface,

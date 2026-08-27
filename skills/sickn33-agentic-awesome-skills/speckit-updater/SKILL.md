@@ -1,6 +1,6 @@
 ---
 name: speckit-updater
-description: SpecKit Safe Update
+description: SpecKit 安全更新。 | SpecKit Safe Update
 risk: unknown
 source: community
 ---

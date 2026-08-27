@@ -1,6 +1,6 @@
 ---
 name: api-commerce-stripe
-description: Stripe payment processing — Checkout Sessions, Payment Intents, subscriptions, webhooks, Connect, customer management, error handling
+description: Stripe 支付处理：Checkout Sessions、Payment Intents、订阅、webhooks、Connect、客户管理、错误处理 | Stripe payment processing — Checkout Sessions, Payment Intents, subscriptions, webhooks, Connect, customer management, error handling
 ---
 
 # Stripe Patterns

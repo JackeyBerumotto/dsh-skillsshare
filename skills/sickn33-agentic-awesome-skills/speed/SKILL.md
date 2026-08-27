@@ -1,6 +1,6 @@
 ---
 name: speed
-description: Launch RSVP speed reader for text
+description: 启动用于文本的 RSVP 快速阅读器。 | Launch RSVP speed reader for text
 trigger: command
 risk: unknown
 source: community

@@ -1,6 +1,6 @@
 ---
 name: ai-provider-elevenlabs
-description: ElevenLabs voice AI SDK patterns for TypeScript/Node.js -- text-to-speech, streaming, voice cloning, speech-to-speech, pronunciation control, and conversational AI
+description: 面向 TypeScript/Node.js 的 ElevenLabs 语音 AI SDK 模式——文本转语音、流式处理、声音克隆、语音到语音、发音控制以及对话式 AI | ElevenLabs voice AI SDK patterns for TypeScript/Node.js -- text-to-speech, streaming, voice cloning, speech-to-speech, pronunciation control, and conversational AI
 ---
 
 # ElevenLabs Patterns

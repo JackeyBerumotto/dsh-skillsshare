@@ -1,6 +1,6 @@
 ---
 name: odoo-docker-deployment
-description: "Production-ready Docker and docker-compose setup for Odoo with PostgreSQL, persistent volumes, environment-based configuration, and Nginx reverse proxy."
+description: "生产级 Docker 与 docker-compose 的 Odoo 部署方案，包含 PostgreSQL、持久卷、基于环境的配置和 Nginx 反向代理。 | Production-ready Docker and docker-compose setup for Odoo with PostgreSQL, persistent volumes, environment-based configuration, and Nginx reverse proxy."
 risk: safe
 source: "self"
 ---

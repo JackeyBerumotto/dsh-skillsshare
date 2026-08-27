@@ -1,6 +1,6 @@
 ---
 name: "cmo-review"
-description: "/cs:cmo-review <plan> — Narrative-first interrogation of positioning, ICP, message house, and channel mix. Use when launching a campaign or repositioning, or when CAC is rising and the one-sentence positioning test fails."
+description: "/cs:cmo-review <plan>——以叙事为先的审讯，聚焦定位、ICP、信息屋和渠道组合。适用于发布营销活动或重新定位时，或 CAC 上升且一句话定位测试不通过时。 | /cs:cmo-review <plan> — Narrative-first interrogation of positioning, ICP, message house, and channel mix. Use when launching a campaign or repositioning, or when CAC is rising and the one-sentence positioning test fails."
 ---
 
 # /cs:cmo-review — CMO Forcing Questions

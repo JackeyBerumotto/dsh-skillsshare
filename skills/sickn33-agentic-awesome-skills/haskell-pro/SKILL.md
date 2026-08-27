@@ -1,6 +1,6 @@
 ---
 name: haskell-pro
-description: "Expert Haskell engineer specializing in advanced type systems, pure"
+description: "资深 Haskell 工程师，精通高级类型系统和纯函数式编程 | Expert Haskell engineer specializing in advanced type systems, pure"
 risk: safe
 source: community
 date_added: "2026-02-27"

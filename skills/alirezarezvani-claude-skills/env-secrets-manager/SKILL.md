@@ -1,6 +1,6 @@
 ---
 name: "env-secrets-manager"
-description: "Manage environment-variable hygiene and secrets safety across local development and production. Practical auditing, drift awareness, rotation readiness. Use when auditing .env files for committed secrets, planning a credential rotation, debugging missing-env-var production incidents, or hardening a new project against secrets leakage."
+description: "管理本地开发与生产中的环境变量卫生与密钥安全，涵盖务实的审计、漂移意识与轮换准备。在审计 .env 文件是否提交了密钥、规划凭据轮换、排查缺少环境变量引发的生产事故，或加固新项目以防密钥泄漏时使用。 | Manage environment-variable hygiene and secrets safety across local development and production. Practical auditing, drift awareness, rotation readiness. Use when auditing .env files for committed secrets, planning a credential rotation, debugging missing-env-var production incidents, or hardening a new project against secrets leakage."
 ---
 
 # Env & Secrets Manager

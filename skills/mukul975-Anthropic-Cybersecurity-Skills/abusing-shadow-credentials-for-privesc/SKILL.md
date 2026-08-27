@@ -1,6 +1,6 @@
 ---
 name: abusing-shadow-credentials-for-privesc
-description: Take over Active Directory user and computer accounts by writing alternate certificate keys to msDS-KeyCredentialLink (Shadow Credentials) with pyWhisker, Whisker, and Certipy, then authenticate via PKINIT.
+description: 使用 pyWhisker、Whisker 和 Certipy 向 msDS-KeyCredentialLink 写入备用证书密钥（Shadow Credentials），从而接管 Active Directory 用户和计算机账户，随后通过 PKINIT 进行身份验证。 | Take over Active Directory user and computer accounts by writing alternate certificate keys to msDS-KeyCredentialLink (Shadow Credentials) with pyWhisker, Whisker, and Certipy, then authenticate via PKINIT.
 domain: cybersecurity
 subdomain: red-teaming
 tags:

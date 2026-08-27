@@ -1,6 +1,6 @@
 ---
 name: action-runner
-description: "Turn a skill's recommendations into real, executed actions — open the tickets, file the issues, post the updates — safely: dry-run preview, risk-classified, approval-gated, then recorded back to the brain. Use when asked to act on a plan, file tickets from a checklist, create issues from a PRD, execute the recommended next steps, or wire a skill's output into GitHub/Linear/Slack. Produces a dry-run actions plan with per-action risk, executes only after approval via the connected action MCP, and logs what was done. Nothing acts silently."
+description: "把技能的建议变成真实执行的操作——开票、提 issue、发布更新——并且安全地执行：先做干运行预览、按风险分级、经审批后才执行，最后记录回大脑。当被要求执行计划、从清单开票、从 PRD 创建 issue、执行建议的后续步骤，或将技能输出接入 GitHub/Linear/Slack 时使用。产出带逐项风险标注的干运行操作计划，仅在审批后通过已连接的 action MCP 执行，并记录已完成的操作。不会有任何操作在暗中进行。 | Turn a skill's recommendations into real, executed actions — open the tickets, file the issues, post the updates — safely: dry-run preview, risk-classified, approval-gated, then recorded back to the brain. Use when asked to act on a plan, file tickets from a checklist, create issues from a PRD, execute the recommended next steps, or wire a skill's output into GitHub/Linear/Slack. Produces a dry-run actions plan with per-action risk, executes only after approval via the connected action MCP, and logs what was done. Nothing acts silently."
 ---
 
 # Action Runner Skill

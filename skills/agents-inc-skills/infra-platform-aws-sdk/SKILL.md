@@ -1,6 +1,6 @@
 ---
 name: infra-platform-aws-sdk
-description: AWS SDK v3 for TypeScript — modular clients, command pattern, S3, DynamoDB, SQS, Lambda, SNS, Secrets Manager
+description: 面向 TypeScript 的 AWS SDK v3——模块化客户端、命令模式、S3、DynamoDB、SQS、Lambda、SNS、Secrets Manager | AWS SDK v3 for TypeScript — modular clients, command pattern, S3, DynamoDB, SQS, Lambda, SNS, Secrets Manager
 ---
 
 # AWS SDK v3 Patterns

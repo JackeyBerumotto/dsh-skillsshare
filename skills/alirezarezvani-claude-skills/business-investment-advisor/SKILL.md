@@ -1,6 +1,6 @@
 ---
 name: business-investment-advisor
-description: "Business investment analysis and capital allocation advisor. Use when evaluating whether to invest in equipment, real estate, a new business, hiring, technology, or any capital expenditure. Also use for ROI calculations, IRR, NPV, payback period, build vs buy decisions, lease vs buy analysis, vendor evaluation, or deciding where to allocate limited budget for maximum return."
+description: "商业投资分析与资本配置顾问。当评估是否投资设备、房地产、新业务、招聘、技术或任何资本支出时使用。也适用于 ROI 计算、IRR、NPV、回收期、自建还是购买决策、租还是买分析、供应商评估，或决定把有限预算分配到哪里以获得最大回报。 | Business investment analysis and capital allocation advisor. Use when evaluating whether to invest in equipment, real estate, a new business, hiring, technology, or any capital expenditure. Also use for ROI calculations, IRR, NPV, payback period, build vs buy decisions, lease vs buy analysis, vendor evaluation, or deciding where to allocate limited budget for maximum return."
 ---
 
 # Business Investment Advisor

@@ -1,6 +1,6 @@
 ---
 name: copywriting
-description: Write rigorous, conversion-focused marketing copy for landing pages and emails. Enforces brief confirmation and strict no-fabrication rules.
+description: 为落地页和邮件撰写严谨、以转化为导向的营销文案。强制确认需求简报，并严格遵守禁止编造规则。 | Write rigorous, conversion-focused marketing copy for landing pages and emails. Enforces brief confirmation and strict no-fabrication rules.
 risk: unknown
 source: community
 date_added: "2026-02-27"

@@ -1,6 +1,6 @@
 ---
 name: n8n-code-python
-description: Write Python code in n8n Code nodes. Use when writing Python in n8n, using _input/_json/_node syntax, working with standard library, or need to understand Python limitations in n8n Code nodes.
+description: 在 n8n Code 节点中编写 Python。在编写 n8n 中的 Python、使用 _input/_json/_node 语法、使用标准库，或需要了解 Python 在 n8n Code 节点中的限制时使用。 | Write Python code in n8n Code nodes. Use when writing Python in n8n, using _input/_json/_node syntax, working with standard library, or need to understand Python limitations in n8n Code nodes.
 risk: unknown
 source: community
 ---

@@ -1,6 +1,6 @@
 ---
 name: brainstorming
-description: "Run a real brainstorm — divergent generation without judgment, then convergent selection with explicit criteria — instead of listing ten obvious ideas and calling it creativity. Use when asked to brainstorm, generate ideas or options, explore a solution space, or name something. Produces a genuinely wide option set (including the weird tail), then a shortlist selected against named criteria with the rejects preserved."
+description: "运行一场真正的头脑风暴——先不带评判地发散生成，再按明确标准收敛选择——而不是列十个显而易见的点子就称之为创意。当被要求头脑风暴、生成想法或选项、探索解决方案空间或为事物命名时使用。产出一组真正宽泛的选项（包括怪异的长尾），再按具名标准筛出短名单，并保留被淘汰项。 | Run a real brainstorm — divergent generation without judgment, then convergent selection with explicit criteria — instead of listing ten obvious ideas and calling it creativity. Use when asked to brainstorm, generate ideas or options, explore a solution space, or name something. Produces a genuinely wide option set (including the weird tail), then a shortlist selected against named criteria with the rejects preserved."
 ---
 
 # Brainstorming Skill

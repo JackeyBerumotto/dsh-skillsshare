@@ -1,6 +1,6 @@
 ---
 name: "boardroom"
-description: "/cs:boardroom <brief> — 6-phase multi-role deliberation across the C-suite with Phase 2 isolation, critic pre-screen, and synthesis. Outputs a board memo. Use when a decision spans multiple executive domains — e.g. a pricing change touching finance, positioning, and product, or a raise-vs-cut runway call."
+description: "/cs:boardroom <brief>——跨高管层的六阶段多角色审议，包含第二阶段隔离、批评者预筛和综合归纳，输出一份董事会备忘录。适用于决策横跨多个高管领域时——例如涉及财务、定位和产品的定价调整，或融资与削减之间的跑道抉择。 | /cs:boardroom <brief> — 6-phase multi-role deliberation across the C-suite with Phase 2 isolation, critic pre-screen, and synthesis. Outputs a board memo. Use when a decision spans multiple executive domains — e.g. a pricing change touching finance, positioning, and product, or a raise-vs-cut runway call."
 ---
 
 # /cs:boardroom — Multi-Role Boardroom Deliberation

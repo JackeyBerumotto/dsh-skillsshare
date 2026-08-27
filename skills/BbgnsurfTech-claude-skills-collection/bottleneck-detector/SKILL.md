@@ -1,8 +1,5 @@
 ---
-description: This skill enables claude to detect and resolve performance bottlenecks
-  in applications. it analyzes cpu, memory, i/o, and database performance to identify
-  areas of concern. use this skill when you need to diagnose slow application performance,
-  op...
+description: "本技能使 claude 能够检测并解决应用中的性能瓶颈。它分析 CPU、内存、I/O 与数据库性能以识别问题区域。当需要诊断应用性能缓慢或进行性能优化时使用本技能。 | This skill enables claude to detect and resolve performance bottlenecks in applications. it analyzes cpu, memory, i/o, and database performance to identify areas of concern. use this skill when you need to diagnose slow application performance, op..."
 allowed-tools:
 - Read
 - Bash

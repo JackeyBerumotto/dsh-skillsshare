@@ -1,6 +1,6 @@
 ---
 name: writing-skills
-description: "Use when creating, updating, or improving agent skills."
+description: "在创建、更新或改进代理技能时使用。 | Use when creating, updating, or improving agent skills."
 category: meta
 risk: unknown
 source: community

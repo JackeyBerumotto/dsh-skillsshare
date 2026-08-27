@@ -1,6 +1,6 @@
 ---
 name: refinance-breakeven
-description: "Compute the month a refinance actually starts saving money — payment delta, breakeven month, and total interest on both paths including the term-reset trap. Use when asked should I refinance, when does a refi break even, compare my loan to a refi offer, or is this refinance worth the closing costs. Produces the breakeven analysis with both interest totals, the if-you-sell-before-month-N warning, and the cases where the breakeven math lies."
+description: "计算再融资真正开始省钱的月份——月供差额、盈亏平衡月，以及两条路径的总利息（包括期限重置陷阱）。在被问到是否该再融资、再融资何时回本、把我的贷款与再融资方案比较，或这次再融资是否值回过户费时使用。产出包含两条路径利息总额的盈亏平衡分析、若在第 N 月前卖房的警示，以及盈亏平衡计算会失真的情形。 | Compute the month a refinance actually starts saving money — payment delta, breakeven month, and total interest on both paths including the term-reset trap. Use when asked should I refinance, when does a refi break even, compare my loan to a refi offer, or is this refinance worth the closing costs. Produces the breakeven analysis with both interest totals, the if-you-sell-before-month-N warning, and the cases where the breakeven math lies."
 ---
 
 # Refinance Breakeven Skill

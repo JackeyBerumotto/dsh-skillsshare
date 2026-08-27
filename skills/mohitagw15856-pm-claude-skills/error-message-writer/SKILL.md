@@ -1,6 +1,6 @@
 ---
 name: error-message-writer
-description: "Write clear, helpful error messages that tell users what happened and how to fix it. Use when asked to write an error message, validation text, a failure/empty-error state, or to rewrite a cryptic system error. Produces human, blame-free error copy — what went wrong, why (if useful), and the next step — with options per surface (inline, toast, full page) and the related success/empty states."
+description: "撰写清晰、有用的错误信息，告诉用户发生了什么以及如何修复。在被要求编写错误信息、校验文案、失败/空错误状态，或重写晦涩的系统错误时使用。产出人性化、不指责的错误文案——哪里出错了、原因（如果有用）以及下一步——按呈现形式（内联、toast、整页）提供选项，并附相关的成功/空状态。 | Write clear, helpful error messages that tell users what happened and how to fix it. Use when asked to write an error message, validation text, a failure/empty-error state, or to rewrite a cryptic system error. Produces human, blame-free error copy — what went wrong, why (if useful), and the next step — with options per surface (inline, toast, full page) and the related success/empty states."
 ---
 
 # Error Message Writer Skill

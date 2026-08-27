@@ -1,6 +1,6 @@
 ---
 name: survey-generator
-description: "Generate source-backed AI/ML survey paper artifacts with curated bibliographies and Fireworks/Kimi HTML rendering."
+description: "生成有文献支撑的 AI/ML 综述论文 artifact，附精选参考书目和 Fireworks/Kimi HTML 渲染。 | Generate source-backed AI/ML survey paper artifacts with curated bibliographies and Fireworks/Kimi HTML rendering."
 allowed-tools: Read, Write, Bash, WebFetch, AskUserQuestion
 category: "research"
 risk: "safe"

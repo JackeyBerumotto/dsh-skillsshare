@@ -1,6 +1,6 @@
 ---
 name: typography-first
-description: Web and App implementation guide for Typography First Design. Trigger when user wants text as the absolute main visual element, with minimal UI chroming.
+description: Typography First Design（字体优先设计）的 Web 与 App 实现指南。当用户需要以文字为绝对主视觉元素并尽量减少 UI 装饰时触发。 | Web and App implementation guide for Typography First Design. Trigger when user wants text as the absolute main visual element, with minimal UI chroming.
 date_added: "2026-06-17"
 risk: safe
 source: self

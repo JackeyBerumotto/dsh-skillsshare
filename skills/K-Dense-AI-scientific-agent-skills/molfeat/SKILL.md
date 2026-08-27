@@ -1,6 +1,6 @@
 ---
 name: molfeat
-description: Molecular featurization for ML (100+ featurizers). ECFP, MACCS, descriptors, pretrained models (ChemBERTa), convert SMILES to features, for QSAR and molecular ML.
+description: 面向机器学习的分子特征化（100+ 特征化器）。ECFP、MACCS、描述符、预训练模型（ChemBERTa）、把 SMILES 转换为特征，用于 QSAR 与分子机器学习。 | Molecular featurization for ML (100+ featurizers). ECFP, MACCS, descriptors, pretrained models (ChemBERTa), convert SMILES to features, for QSAR and molecular ML.
 license: Apache-2.0 license
 allowed-tools: Read Write Edit Bash
 compatibility: Requires Python 3.9–3.10 (molfeat 0.11.0 does not support 3.11+). Requires datamol, PyTorch, and optional extras for GNN/transformer models.

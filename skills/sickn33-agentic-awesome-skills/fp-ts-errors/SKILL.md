@@ -1,6 +1,6 @@
 ---
 name: fp-ts-errors
-description: "Handle errors as values using fp-ts Either and TaskEither for cleaner, more predictable TypeScript code. Use when implementing error handling patterns with fp-ts."
+description: "使用 fp-ts 的 Either 和 TaskEither 将错误作为值来处理，编写更干净、更可预测的 TypeScript 代码。在用 fp-ts 实现错误处理模式时使用。 | Handle errors as values using fp-ts Either and TaskEither for cleaner, more predictable TypeScript code. Use when implementing error handling patterns with fp-ts."
 risk: safe
 source: "https://github.com/whatiskadudoing/fp-ts-skills"
 date_added: "2026-02-27"

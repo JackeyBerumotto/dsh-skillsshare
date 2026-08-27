@@ -1,6 +1,6 @@
 ---
 name: 3d-ui
-description: Web and App implementation guide for 3D UI. Trigger when user wants actual 3D objects, perspective effects, and spatial depth.
+description: 3D UI 的 Web 与 App 实现指南。当用户需要真实 3D 物体、透视效果和空间深度时触发。 | Web and App implementation guide for 3D UI. Trigger when user wants actual 3D objects, perspective effects, and spatial depth.
 date_added: "2026-06-17"
 risk: safe
 source: self

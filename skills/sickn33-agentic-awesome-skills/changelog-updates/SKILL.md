@@ -1,6 +1,6 @@
 ---
 name: changelog-updates
-description: 'Create release notes and product updates that developers actually read and care about. This skill covers changelog formatting, versioning communication, breaking change announcements, deprecation notices, and building anticipation for new features. Trigger phrases: "changelog",...'
+description: '创建开发者真正会读、真正在意的发布说明和产品更新。本技能涵盖变更日志格式、版本发布沟通、破坏性变更公告、弃用通知以及为新功能造势。触发词：「changelog」等。 | Create release notes and product updates that developers actually read and care about. This skill covers changelog formatting, versioning communication, breaking change announcements, deprecation notices, and building anticipation for new features. Trigger phrases: "changelog",...'
 risk: unknown
 source: https://github.com/jonathimer/devmarketing-skills/tree/main/skills/changelog-updates
 source_repo: jonathimer/devmarketing-skills

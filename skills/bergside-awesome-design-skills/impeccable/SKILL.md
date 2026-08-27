@@ -1,6 +1,6 @@
 ---
 name: "impeccable"
-description: "A modern, graphic, editorial-poster aesthetic — warm and confident — built on alternating cream and burnt orange sections, an amber brand color."
+description: "一种现代、图形化的编辑海报美学——温暖而自信——建立在奶油色与焦橙色分块交替之上，辅以琥珀色品牌色。 | A modern, graphic, editorial-poster aesthetic — warm and confident — built on alternating cream and burnt orange sections, an amber brand color."
 metadata:
   author: typeui.sh
 ---

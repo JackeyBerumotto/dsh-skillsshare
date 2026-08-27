@@ -1,6 +1,6 @@
 ---
 name: treatment-plans
-description: Generate concise (3-4 page), focused medical treatment plans in LaTeX/PDF format for all clinical specialties. Supports general medical treatment, rehabilitation therapy, mental health care, chronic disease management, perioperative care, and pain management. Includes SMART goal frameworks, evidence-based interventions with minimal text citations, regulatory compliance (HIPAA), and professional formatting. Prioritizes brevity and clinical actionability.
+description: 以 LaTeX/PDF 格式为所有临床专科生成简明（3-4 页）、聚焦的治疗方案。支持综合医疗、康复治疗、心理健康护理、慢性病管理、围手术期护理和疼痛管理。包含 SMART 目标框架、带简洁文献引用的循证干预措施、监管合规（HIPAA）以及专业排版。优先考虑简洁性与临床可操作性。 | Generate concise (3-4 page), focused medical treatment plans in LaTeX/PDF format for all clinical specialties. Supports general medical treatment, rehabilitation therapy, mental health care, chronic disease management, perioperative care, and pain management. Includes SMART goal frameworks, evidence-based interventions with minimal text citations, regulatory compliance (HIPAA), and professional formatting. Prioritizes brevity and clinical actionability.
 allowed-tools: Read Write Edit Bash
 license: MIT license
 required_environment_variables: [{"name": "OPENROUTER_API_KEY", "prompt": "OpenRouter API key for the skill's LLM-powered steps.", "required_for": "optional features"}]

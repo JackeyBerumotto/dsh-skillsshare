@@ -1,6 +1,6 @@
 ---
 name: polars-bio
-description: High-performance genomic interval operations and bioinformatics file I/O on Polars DataFrames. Overlap, nearest, merge, coverage, complement, subtract for BED/VCF/BAM/GFF intervals. Streaming, cloud-native, faster bioframe alternative.
+description: 基于 Polars DataFrame 的高性能基因组区间操作和生物信息学文件读写。对 BED/VCF/BAM/GFF 区间支持重叠、最近邻、合并、覆盖度、补集、相减。流式处理、云原生，是更快的 bioframe 替代方案。 | High-performance genomic interval operations and bioinformatics file I/O on Polars DataFrames. Overlap, nearest, merge, coverage, complement, subtract for BED/VCF/BAM/GFF intervals. Streaming, cloud-native, faster bioframe alternative.
 license: Apache-2.0
 allowed-tools: Read Write Edit Bash
 compatibility: Requires Python 3.11–3.14 and polars-bio (uv pip install). Cloud I/O uses standard AWS/GCS/Azure SDK env vars when paths use s3://, gs://, or az:// URIs.

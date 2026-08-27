@@ -1,6 +1,6 @@
 ---
 name: privilege-escalation-methods
-description: "Provide comprehensive techniques for escalating privileges from a low-privileged user to root/administrator access on compromised Linux and Windows systems. Essential for penetration testing post-exploitation phase and red team operations."
+description: "提供在失陷的 Linux 和 Windows 系统上从低权限用户提升到 root/管理员权限的全面技术。对渗透测试的后渗透阶段和红队行动至关重要。 | Provide comprehensive techniques for escalating privileges from a low-privileged user to root/administrator access on compromised Linux and Windows systems. Essential for penetration testing post-exploitation phase and red team operations."
 risk: unknown
 source: community
 author: zebbern

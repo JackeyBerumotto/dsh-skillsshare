@@ -1,6 +1,6 @@
 ---
 name: web-ui-headless-ui
-description: Unstyled accessible UI components by Tailwind Labs
+description: Tailwind Labs 出品的无样式可访问 UI 组件。 | Unstyled accessible UI components by Tailwind Labs
 ---
 
 # Headless UI Patterns

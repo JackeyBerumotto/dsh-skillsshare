@@ -1,8 +1,6 @@
 ---
 name: performing-container-security-scanning-with-trivy
-description: Scan container images, filesystems, and Kubernetes manifests for vulnerabilities,
-  misconfigurations, exposed secrets, and license compliance issues using Aqua Security
-  Trivy with SBOM generation and CI/CD integration.
+description: "使用 Aqua Security Trivy 扫描容器镜像、文件系统与 Kubernetes 清单中的漏洞、错误配置、暴露的秘密及许可证合规问题，支持 SBOM 生成与 CI/CD 集成。 | Scan container images, filesystems, and Kubernetes manifests for vulnerabilities, misconfigurations, exposed secrets, and license compliance issues using Aqua Security Trivy with SBOM generation and CI/CD integration."
 domain: cybersecurity
 subdomain: container-security
 tags:

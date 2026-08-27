@@ -1,6 +1,6 @@
 ---
 name: marketing-ideas
-description: "When the user needs marketing ideas, inspiration, or strategies for their SaaS or software product. Also use when the user asks for 'marketing ideas,' 'growth ideas,' 'how to market,' 'marketing strategies,' 'marketing tactics,' 'ways to promote,' 'ideas to grow,' 'what else can I try,' 'I don't know how to market this,' 'brainstorm marketing,' or 'what marketing should I do.' Use this as a starting point whenever someone is stuck or looking for inspiration on how to grow. For specific channel execution, see the relevant skill (ads, social, emails, etc.)."
+description: "当用户需要针对其 SaaS 或软件产品的营销点子、灵感或策略时使用。当用户问「marketing ideas」「growth ideas」「how to market」「marketing strategies」「marketing tactics」「ways to promote」「ideas to grow」「what else can I try」「我不知道该怎么营销这个」「brainstorm marketing」或「what marketing should I do」时也应使用。每当有人陷入瓶颈或寻找增长灵感时，可作为起点。具体渠道的执行请参见相关技能（广告、社交媒体、邮件等）。 | When the user needs marketing ideas, inspiration, or strategies for their SaaS or software product. Also use when the user asks for 'marketing ideas,' 'growth ideas,' 'how to market,' 'marketing strategies,' 'marketing tactics,' 'ways to promote,' 'ideas to grow,' 'what else can I try,' 'I don't know how to market this,' 'brainstorm marketing,' or 'what marketing should I do.' Use this as a starting point whenever someone is stuck or looking for inspiration on how to grow. For specific channel execution, see the relevant skill (ads, social, emails, etc.)."
 metadata:
   version: 2.0.0
 ---

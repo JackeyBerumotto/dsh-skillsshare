@@ -2,7 +2,7 @@
 name: testing-mobile-apps
 version: 1.0.0
 description: |
-  Execute mobile app testing on iOS and Android devices/simulators.
+  在 iOS 和 Android 设备/模拟器上执行移动应用测试。在进行专项测试时使用。触发短语包括「test mobile app」「run iOS tests」或「validate Android functionality」。 |
   Use when performing specialized testing.
   Trigger with phrases like "test mobile app", "run iOS tests", or "validate Android functionality".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(test:mobile-*)

@@ -1,7 +1,7 @@
 ---
 name: unity-animation
 description: >
-  Drive Unity 6 character animation with Animator Controllers: states, transitions,
+  使用 Animator 控制器驱动 Unity 6 角色动画：状态、过渡、参数、混合树、动画层以及人形 Avatar IK。当在接线 Animator、从脚本设置参数（SetFloat/SetBool/SetTrigger）、构建混合树，或用户提到 Animator、Mecanim、状态机、混合树或 .controller 时使用。 |
   parameters, blend trees, animation layers, and humanoid Avatar IK. Use when wiring an
   Animator, setting parameters from script (SetFloat/SetBool/SetTrigger), building blend
   trees, or when the user mentions Animator, Mecanim, state machine, blend tree, or .controller.

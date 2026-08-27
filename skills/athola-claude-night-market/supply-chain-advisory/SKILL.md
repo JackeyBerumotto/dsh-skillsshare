@@ -1,6 +1,6 @@
 ---
 name: supply-chain-advisory
-description: Audits dependency supply chains for bad versions, lockfile drift, and artifact integrity. Use when adding deps, handling incidents, or releasing a plugin.
+description: 审计依赖供应链中的坏版本、lockfile 漂移和构建产物完整性。在添加依赖、处理安全事件或发布插件时使用。 | Audits dependency supply chains for bad versions, lockfile drift, and artifact integrity. Use when adding deps, handling incidents, or releasing a plugin.
 alwaysApply: false
 category: infrastructure
 tags:

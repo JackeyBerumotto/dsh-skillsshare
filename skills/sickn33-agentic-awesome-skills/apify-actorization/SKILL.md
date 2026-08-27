@@ -1,6 +1,6 @@
 ---
 name: apify-actorization
-description: "Actorization converts existing software into reusable serverless applications compatible with the Apify platform. Actors are programs packaged as Docker images that accept well-defined JSON input, perform an action, and optionally produce structured JSON output."
+description: "Actor 化将现有软件转换为与 Apify 平台兼容的可复用无服务器应用。Actor 是打包成 Docker 镜像的程序，接受定义明确的 JSON 输入、执行动作，并可选地产出结构化 JSON 输出。 | Actorization converts existing software into reusable serverless applications compatible with the Apify platform. Actors are programs packaged as Docker images that accept well-defined JSON input, perform an action, and optionally produce structured JSON output."
 risk: unknown
 source: community
 ---

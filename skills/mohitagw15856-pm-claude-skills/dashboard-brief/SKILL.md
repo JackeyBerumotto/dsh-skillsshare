@@ -1,6 +1,6 @@
 ---
 name: dashboard-brief
-description: "Convert a business question into a complete dashboard specification. Use when asked to design a dashboard, create a dashboard spec or brief, plan a BI report, or define what charts and metrics a dashboard should include. Produces a structured spec with metrics, dimensions, chart types, filters, and layout guidance."
+description: "将业务问题转换为完整的仪表盘规格。在被要求设计仪表盘、创建仪表盘规格或简报、规划 BI 报告，或定义仪表盘应包含哪些图表和指标时使用。产出包含指标、维度、图表类型、筛选器和布局指导的结构化规格。 | Convert a business question into a complete dashboard specification. Use when asked to design a dashboard, create a dashboard spec or brief, plan a BI report, or define what charts and metrics a dashboard should include. Produces a structured spec with metrics, dimensions, chart types, filters, and layout guidance."
 ---
 
 # Dashboard Brief Skill

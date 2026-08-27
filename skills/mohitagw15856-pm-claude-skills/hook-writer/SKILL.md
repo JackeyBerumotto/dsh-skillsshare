@@ -1,6 +1,6 @@
 ---
 name: hook-writer
-description: "Generate scroll-stopping hooks — the first line of a post, thread, video, or email that decides whether anyone keeps reading. Use when asked to write a hook, an opener, a first line, a thread starter, a video cold-open, or to make something more clickable. Produces multiple distinct hook options across proven angles (curiosity, contrarian, result, story, stakes), each labelled with why it works and which platform it fits."
+description: "生成让人停下滑动的开头钩子——帖子、推文串、视频或邮件的第一句话，它决定读者是否继续读下去。当被要求写钩子、开场白、第一句话、推文串起头、视频冷开场，或让内容更有点击吸引力时使用。产出多个角度各异（好奇心、反直觉、结果、故事、利害关系）的钩子选项，每个都标注其有效原因和适合的平台。 | Generate scroll-stopping hooks — the first line of a post, thread, video, or email that decides whether anyone keeps reading. Use when asked to write a hook, an opener, a first line, a thread starter, a video cold-open, or to make something more clickable. Produces multiple distinct hook options across proven angles (curiosity, contrarian, result, story, stakes), each labelled with why it works and which platform it fits."
 ---
 
 # Hook Writer Skill

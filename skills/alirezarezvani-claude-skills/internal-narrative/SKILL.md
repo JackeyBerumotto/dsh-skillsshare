@@ -1,6 +1,6 @@
 ---
 name: "internal-narrative"
-description: "Build and maintain one coherent company story across all audiences — employees, investors, customers, candidates, and partners. Detects narrative contradictions and ensures the same truth is framed for each audience's needs. Use when preparing investor updates, all-hands presentations, board communications, recruiting narratives, crisis communications, or when user mentions company narrative, messaging consistency, storytelling, all-hands, investor update, or crisis communication."
+description: "在所有受众——员工、投资者、客户、候选人和合作伙伴——之间构建并维护一个连贯一致的公司故事。检测叙事矛盾，并确保以贴合各受众需求的方式呈现同一个事实。当准备投资者更新、全员大会演示、董事会沟通、招聘叙事或危机沟通时，或当用户提到公司叙事、信息一致性、讲故事、全员大会、投资者更新或危机沟通时使用。 | Build and maintain one coherent company story across all audiences — employees, investors, customers, candidates, and partners. Detects narrative contradictions and ensures the same truth is framed for each audience's needs. Use when preparing investor updates, all-hands presentations, board communications, recruiting narratives, crisis communications, or when user mentions company narrative, messaging consistency, storytelling, all-hands, investor update, or crisis communication."
 license: MIT
 metadata:
   version: 1.0.0

@@ -1,6 +1,6 @@
 ---
 name: shell-review
-description: Audits shell scripts for correctness, portability, and common pitfalls. Use when reviewing shell scripts or before committing shell changes.
+description: 审计 shell 脚本的正确性、可移植性和常见陷阱。在审查 shell 脚本或提交 shell 变更前使用。 | Audits shell scripts for correctness, portability, and common pitfalls. Use when reviewing shell scripts or before committing shell changes.
 globs: "**/*.sh"
 alwaysApply: false
   Use when reviewing shell scripts, CI scripts, hook scripts, wrapper scripts. Do

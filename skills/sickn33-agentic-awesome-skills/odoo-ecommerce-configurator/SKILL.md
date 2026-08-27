@@ -1,6 +1,6 @@
 ---
 name: odoo-ecommerce-configurator
-description: "Expert guide for Odoo eCommerce and Website: product catalog, payment providers, shipping methods, SEO, and order-to-fulfillment workflow."
+description: "Odoo 电商与网站专家指南：产品目录、支付服务商、配送方式、SEO 以及从下单到履约的工作流。 | Expert guide for Odoo eCommerce and Website: product catalog, payment providers, shipping methods, SEO, and order-to-fulfillment workflow."
 risk: safe
 source: "self"
 ---

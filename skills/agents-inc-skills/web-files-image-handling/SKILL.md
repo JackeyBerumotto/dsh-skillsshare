@@ -1,6 +1,6 @@
 ---
 name: web-files-image-handling
-description: Client-side image handling - preview generation, Canvas API resizing, compression, EXIF orientation, format conversion, memory management with object URL cleanup
+description: 客户端图片处理——预览生成、Canvas API 缩放、压缩、EXIF 方向、格式转换，以及通过对象 URL 清理实现内存管理 | Client-side image handling - preview generation, Canvas API resizing, compression, EXIF orientation, format conversion, memory management with object URL cleanup
 ---
 
 # Image Handling Patterns

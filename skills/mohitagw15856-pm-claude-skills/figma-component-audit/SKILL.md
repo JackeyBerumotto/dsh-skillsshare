@@ -1,6 +1,6 @@
 ---
 name: figma-component-audit
-description: "Audit a Figma component library for consistency, coverage gaps, and naming issues. Use when asked to audit components, review a design system, check component consistency, identify missing components, or assess Figma library health. Produces a structured audit report with issues prioritised by impact, naming recommendations, and a fix plan."
+description: "审计 Figma 组件库的一致性、覆盖缺口和命名问题。当被要求审计组件、评审设计系统、检查组件一致性、识别缺失组件，或评估 Figma 组件库健康度时使用。产出结构化审计报告，包含按影响排序的问题、命名建议和修复计划。 | Audit a Figma component library for consistency, coverage gaps, and naming issues. Use when asked to audit components, review a design system, check component consistency, identify missing components, or assess Figma library health. Produces a structured audit report with issues prioritised by impact, naming recommendations, and a fix plan."
 ---
 
 # Figma Component Audit Skill

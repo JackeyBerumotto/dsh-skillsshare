@@ -1,6 +1,6 @@
 ---
 name: commit-messages
-description: Generates conventional commit messages from staged changes. Use when committing and needing a well-formatted message. Do not use for full PR prep; use pr-prep.
+description: 根据暂存的变更生成约定式提交信息。在提交代码且需要格式规范的消息时使用。不要用于完整 PR 准备；请使用 pr-prep。 | Generates conventional commit messages from staged changes. Use when committing and needing a well-formatted message. Do not use for full PR prep; use pr-prep.
 alwaysApply: false
 category: artifact-generation
 tags:

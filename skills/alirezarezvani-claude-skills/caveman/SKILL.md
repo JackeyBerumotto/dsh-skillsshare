@@ -1,7 +1,7 @@
 ---
 name: caveman
 description: >
-  Ultra-compressed communication mode. Cuts token usage ~75% by dropping
+  超压缩沟通模式。通过去掉填充词、冠词和客套话，在保持完整技术准确性的同时减少约 75% 的令牌使用。当用户说「caveman mode」「talk like caveman」「use caveman」「less tokens」「be brief」或调用 /caveman 时使用。 |
   filler, articles, and pleasantries while keeping full technical accuracy.
   Use when user says "caveman mode", "talk like caveman", "use caveman",
   "less tokens", "be brief", or invokes /caveman.

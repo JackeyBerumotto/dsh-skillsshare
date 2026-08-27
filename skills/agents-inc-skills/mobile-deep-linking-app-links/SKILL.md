@@ -1,6 +1,6 @@
 ---
 name: mobile-deep-linking-app-links
-description: Deep linking patterns - Universal Links (iOS), App Links (Android), URI schemes, expo-linking API, React Navigation linking config, Expo Router automatic linking, AASA/assetlinks.json setup, deferred deep links, testing
+description: 深度链接模式——Universal Links（iOS）、App Links（Android）、URI scheme、expo-linking API、React Navigation 链接配置、Expo Router 自动链接、AASA/assetlinks.json 配置、延迟深度链接与测试 | Deep linking patterns - Universal Links (iOS), App Links (Android), URI schemes, expo-linking API, React Navigation linking config, Expo Router automatic linking, AASA/assetlinks.json setup, deferred deep links, testing
 ---
 
 # Deep Linking & App Links Patterns

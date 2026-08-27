@@ -1,6 +1,6 @@
 ---
 name: setup-help
-description: "Walk a user through setup or installation one step at a time with the remaining steps visible."
+description: "一步一步引导用户完成设置或安装，并始终显示剩余步骤。 | Walk a user through setup or installation one step at a time with the remaining steps visible."
 category: productivity
 risk: safe
 source: community

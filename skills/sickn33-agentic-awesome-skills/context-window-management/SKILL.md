@@ -1,7 +1,6 @@
 ---
 name: context-window-management
-description: Strategies for managing LLM context windows including
-  summarization, trimming, routing, and avoiding context rot
+description: "管理 LLM 上下文窗口的策略，包括摘要化、裁剪、路由以及避免上下文腐化（context rot）。 | Strategies for managing LLM context windows including summarization, trimming, routing, and avoiding context rot"
 risk: unknown
 source: vibeship-spawner-skills (Apache 2.0)
 date_added: 2026-02-27

@@ -1,6 +1,6 @@
 ---
 name: mobile-framework-expo
-description: Expo managed workflow
+description: Expo 托管工作流 | Expo managed workflow
 ---
 
 # Expo Development Patterns

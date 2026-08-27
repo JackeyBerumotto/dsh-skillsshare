@@ -1,6 +1,6 @@
 ---
 name: context-guardian
-description: Guardiao de contexto que preserva dados criticos antes da compactacao automatica. Snapshots, verificacao de integridade e zero perda de informacao.
+description: 上下文守护者，在自动压缩前保留关键数据。快照、完整性校验、信息零丢失。 | Guardiao de contexto que preserva dados criticos antes da compactacao automatica. Snapshots, verificacao de integridade e zero perda de informacao.
 risk: safe
 source: community
 date_added: '2026-03-06'

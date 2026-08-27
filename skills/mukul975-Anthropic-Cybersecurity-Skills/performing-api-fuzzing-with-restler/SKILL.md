@@ -1,15 +1,6 @@
 ---
 name: performing-api-fuzzing-with-restler
-description: 'Uses Microsoft RESTler to perform stateful REST API fuzzing by automatically
-  generating and executing test sequences that exercise API endpoints, discover producer-consumer
-  dependencies between requests, and find security and reliability bugs. The tester
-  compiles an OpenAPI specification into a RESTler fuzzing grammar, configures authentication,
-  runs test/fuzz-lean/fuzz modes, and analyzes results for 500 errors, authentication
-  bypasses, resource leaks, and payload injection vulnerabilities. Activates for requests
-  involving API fuzzing, RESTler testing, stateful API testing, or automated API security
-  scanning.
-
-  '
+description: "使用 Microsoft RESTler 执行有状态 REST API 模糊测试，自动生成并执行测试序列以调用 API 端点、发现请求间的生产者与消费者依赖，并找出安全与可靠性缺陷。测试人员将 OpenAPI 规范编译为 RESTler 模糊语法、配置身份验证、运行 test/fuzz-lean/fuzz 模式，并分析结果中的 500 错误、身份验证绕过、资源泄漏与载荷注入漏洞。适用于涉及 API 模糊测试、RESTler 测试、有状态 API 测试或自动化 API 安全扫描的请求。 | Uses Microsoft RESTler to perform stateful REST API fuzzing by automatically generating and executing test sequences that exercise API endpoints, discover producer-consumer dependencies between requests, and find security and reliability bugs. The tester compiles an OpenAPI specification into a RESTler fuzzing grammar, configures authentication, runs test/fuzz-lean/fuzz modes, and analyzes results for 500 errors, authentication bypasses, resource leaks, and payload injection vulnerabilities. Activates for requests involving API fuzzing, RESTler testing, stateful API testing, or automated API security scanning."
 domain: cybersecurity
 subdomain: api-security
 tags:

@@ -1,6 +1,6 @@
 ---
 name: "product-manager-toolkit"
-description: Comprehensive toolkit for product managers including RICE prioritization, customer interview analysis, PRD templates, discovery frameworks, and go-to-market strategies. Use when prioritizing features, synthesizing user research, writing requirement documentation, or developing product strategy.
+description: 面向产品经理的综合工具包，包括 RICE 优先级排序、客户访谈分析、PRD 模板、探索框架和上市策略。在排列功能优先级、综合用户研究、编写需求文档或制定产品战略时使用。 | Comprehensive toolkit for product managers including RICE prioritization, customer interview analysis, PRD templates, discovery frameworks, and go-to-market strategies. Use when prioritizing features, synthesizing user research, writing requirement documentation, or developing product strategy.
 ---
 
 # Product Manager Toolkit

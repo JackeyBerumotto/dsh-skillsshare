@@ -1,6 +1,6 @@
 ---
 name: voice-of-customer-program
-description: "Stand up a Voice of Customer (VoC) program that turns feedback into action. Use when asked to build a VoC program, design a customer feedback loop, consolidate feedback sources, or set up a closed-loop feedback process. Produces a VoC program design — objectives, feedback sources and channels, a taxonomy, collection and analysis cadence, closed-loop routing, ownership, and success metrics."
+description: "建立一个将反馈转化为行动的客户之声（VoC）计划。当被要求建立 VoC 计划、设计客户反馈闭环、整合反馈来源或建立闭环反馈流程时使用。产出 VoC 计划设计——目标、反馈来源与渠道、分类体系、收集与分析节奏、闭环路由、负责人和成功指标。 | Stand up a Voice of Customer (VoC) program that turns feedback into action. Use when asked to build a VoC program, design a customer feedback loop, consolidate feedback sources, or set up a closed-loop feedback process. Produces a VoC program design — objectives, feedback sources and channels, a taxonomy, collection and analysis cadence, closed-loop routing, ownership, and success metrics."
 ---
 
 # Voice of Customer Program Skill

@@ -1,6 +1,6 @@
 ---
 name: anti-sleep
-description: "Keep a Mac awake with caffeinate during long builds, downloads, or supervised automation runs."
+description: "在长时间构建、下载或受监督的自动化运行期间，使用 caffeinate 让 Mac 保持唤醒。 | Keep a Mac awake with caffeinate during long builds, downloads, or supervised automation runs."
 category: operations
 risk: critical
 source: community

@@ -1,6 +1,6 @@
 ---
 name: figma-spacing-system
-description: "Design a spacing and layout token system for a Figma design system. Use when asked to create a spacing system, define layout tokens, set up a grid system, build a spacing scale, or establish layout foundations for a Figma file. Produces a complete spacing scale, grid definition, component spacing conventions, and Figma implementation guide."
+description: "为 Figma 设计系统设计间距与布局 token 体系。当被要求创建间距系统、定义布局 token、搭建网格系统、构建间距比例，或为 Figma 文件建立布局基础时使用。产出完整的间距比例、网格定义、组件间距规范以及 Figma 实施指南。 | Design a spacing and layout token system for a Figma design system. Use when asked to create a spacing system, define layout tokens, set up a grid system, build a spacing scale, or establish layout foundations for a Figma file. Produces a complete spacing scale, grid definition, component spacing conventions, and Figma implementation guide."
 ---
 
 # Figma Spacing System Skill

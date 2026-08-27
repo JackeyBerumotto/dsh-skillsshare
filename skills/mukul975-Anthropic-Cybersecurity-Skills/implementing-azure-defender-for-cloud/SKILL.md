@@ -1,11 +1,6 @@
 ---
 name: implementing-azure-defender-for-cloud
-description: 'Implementing Microsoft Defender for Cloud to enable cloud security posture
-  management, workload protection across VMs, containers, databases, and storage,
-  configure security recommendations, and set up adaptive security controls with automated
-  remediation.
-
-  '
+description: "实施 Microsoft Defender for Cloud，启用云安全态势管理，对虚拟机、容器、数据库和存储进行工作负载保护，配置安全建议，并通过自动整改设置自适应安全控制。 | Implementing Microsoft Defender for Cloud to enable cloud security posture management, workload protection across VMs, containers, databases, and storage, configure security recommendations, and set up adaptive security controls with automated remediation."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

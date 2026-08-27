@@ -1,6 +1,6 @@
 ---
 name: api-cms-strapi
-description: Open-source headless CMS — content type schemas, REST API, Document Service API, custom controllers, lifecycle hooks, authentication, TypeScript
+description: 开源无头 CMS——内容类型模式、REST API、Document Service API、自定义控制器、生命周期钩子、身份验证、TypeScript | Open-source headless CMS — content type schemas, REST API, Document Service API, custom controllers, lifecycle hooks, authentication, TypeScript
 ---
 
 # Strapi Patterns

@@ -1,6 +1,6 @@
 ---
 name: hugging-face-cli
-description: "Hugging Face Hub CLI (`hf`) for downloading, uploading, and managing models, datasets, spaces, buckets, repos, papers, jobs, and more on the Hugging Face Hub. Use when: handling authentication; managing local cache; managing Hugging Face Buckets; running or scheduling jobs on Hugging..."
+description: "Hugging Face Hub CLI（hf），用于在 Hugging Face Hub 上下载、上传和管理模型、数据集、space、bucket、仓库、论文、任务等。适用于：处理认证；管理本地缓存；管理 Hugging Face Bucket；在 Hugging……上运行或调度任务 | Hugging Face Hub CLI (`hf`) for downloading, uploading, and managing models, datasets, spaces, buckets, repos, papers, jobs, and more on the Hugging Face Hub. Use when: handling authentication; managing local cache; managing Hugging Face Buckets; running or scheduling jobs on Hugging..."
 risk: unknown
 source: https://github.com/huggingface/skills/tree/main/skills/hf-cli
 source_repo: huggingface/skills

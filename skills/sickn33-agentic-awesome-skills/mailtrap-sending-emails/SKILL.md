@@ -1,6 +1,6 @@
 ---
 name: mailtrap-sending-emails
-description: Configure or troubleshoot Mailtrap live email sending with Email API, SMTP, transactional streams, bulk streams, or batches.
+description: 配置或排查 Mailtrap 实发邮件，涉及 Email API、SMTP、事务流、批量流或批次。 | Configure or troubleshoot Mailtrap live email sending with Email API, SMTP, transactional streams, bulk streams, or batches.
 risk: critical
 source: community
 date_added: "2026-06-19"

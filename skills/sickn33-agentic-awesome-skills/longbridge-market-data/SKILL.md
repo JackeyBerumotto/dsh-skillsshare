@@ -1,6 +1,6 @@
 ---
 name: longbridge-market-data
-description: Real-time quotes, K-line charts, order book, trade ticks, intraday capital flow, market sentiment temperature, trading session schedule, security lists, exchange rates, and IPO calendar for HK/US/A-share/SG via Longbridge. Also covers ADR premium and FX carry frameworks. Triggers:...
+description: 通过 Longbridge 获取港股、美股、A 股和新加坡市场的实时行情、K 线图、订单簿、逐笔成交、日内资金流、市场情绪温度、交易时段安排、证券列表、汇率和 IPO 日历。还涵盖 ADR 溢价与外汇套利（FX carry）框架。触发条件…… | Real-time quotes, K-line charts, order book, trade ticks, intraday capital flow, market sentiment temperature, trading session schedule, security lists, exchange rates, and IPO calendar for HK/US/A-share/SG via Longbridge. Also covers ADR premium and FX carry frameworks. Triggers:...
 risk: unknown
 source: https://github.com/longbridge/skills/tree/main/skills/longbridge-market-data
 source_repo: longbridge/skills

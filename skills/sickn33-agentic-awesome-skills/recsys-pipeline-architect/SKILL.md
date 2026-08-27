@@ -1,6 +1,6 @@
 ---
 name: recsys-pipeline-architect
-description: "Designs composable recommendation, ranking, and feed pipelines using the six-stage Source→Hydrator→Filter→Scorer→Selector→SideEffect framework"
+description: "使用 Source→Hydrator→Filter→Scorer→Selector→SideEffect 六阶段框架设计可组合的推荐、排序和信息流流水线。 | Designs composable recommendation, ranking, and feed pipelines using the six-stage Source→Hydrator→Filter→Scorer→Selector→SideEffect framework"
 category: data-ai
 risk: safe
 source: community

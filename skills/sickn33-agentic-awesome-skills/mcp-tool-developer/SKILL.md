@@ -1,6 +1,6 @@
 ---
 name: mcp-tool-developer
-description: "Build Model Context Protocol (MCP) servers and tools from scratch. Full-stack MCP development with TypeScript/Python, testing, deployment, and registry publishing."
+description: "从零构建模型上下文协议（MCP）服务器与工具。使用 TypeScript 或 Python 进行全栈 MCP 开发，涵盖测试、部署与注册发布。 | Build Model Context Protocol (MCP) servers and tools from scratch. Full-stack MCP development with TypeScript/Python, testing, deployment, and registry publishing."
 category: developer-tools
 risk: safe
 source: community

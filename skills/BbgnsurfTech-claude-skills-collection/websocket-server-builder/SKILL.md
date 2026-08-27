@@ -2,7 +2,7 @@
 name: building-websocket-server
 version: 1.0.0
 description: |
-  Build scalable WebSocket servers for real-time bidirectional communication.
+  构建可扩展的 WebSocket 服务器以实现实时双向通信。当需要启用实时双向通信时使用。触发短语如「build WebSocket server」「add real-time API」或「implement WebSocket」。 |
   Use when enabling real-time bidirectional communication.
   Trigger with phrases like "build WebSocket server", "add real-time API", or "implement WebSocket".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(api:websocket-*)

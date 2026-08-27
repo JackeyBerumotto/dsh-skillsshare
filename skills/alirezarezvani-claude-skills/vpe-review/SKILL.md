@@ -1,6 +1,6 @@
 ---
 name: "vpe-review"
-description: "/cs:vpe-review <plan> — Throughput-first VP of Engineering interrogation of any plan that touches delivery, eng hiring, team structure, or production discipline. Use when cycle time balloons, DORA metrics slide, or before committing to an eng hiring wave or a reorg."
+description: "/cs:vpe-review <plan>——以吞吐为先的 VP of Engineering 对任何涉及交付、工程招聘、团队结构或生产纪律计划的审讯。适用于周期时间暴涨、DORA 指标下滑时，或承诺一波工程招聘或组织重组之前。 | /cs:vpe-review <plan> — Throughput-first VP of Engineering interrogation of any plan that touches delivery, eng hiring, team structure, or production discipline. Use when cycle time balloons, DORA metrics slide, or before committing to an eng hiring wave or a reorg."
 ---
 
 # /cs:vpe-review — VPE Forcing Questions

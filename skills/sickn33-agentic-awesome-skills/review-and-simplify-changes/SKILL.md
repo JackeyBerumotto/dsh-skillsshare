@@ -1,6 +1,6 @@
 ---
 name: review-and-simplify-changes
-description: Review a git diff or explicit file scope for reuse, code quality, efficiency, clarity, and standards issues, then optionally apply safe Codex-driven fixes. Use when the user asks to "simplify code", "review changed code", "check for code reuse", "review code quality", "review...
+description: 针对 git diff 或明确指定的文件范围，审查复用、代码质量、效率、清晰度和规范问题，然后可选择地应用由 Codex 驱动的安全修复。当用户要求「simplify code」「review changed code」「check for code reuse」「review code quality」「review……」时使用。 | Review a git diff or explicit file scope for reuse, code quality, efficiency, clarity, and standards issues, then optionally apply safe Codex-driven fixes. Use when the user asks to "simplify code", "review changed code", "check for code reuse", "review code quality", "review...
 risk: unknown
 source: https://github.com/Dimillian/Skills/tree/main/review-and-simplify-changes
 source_repo: Dimillian/Skills

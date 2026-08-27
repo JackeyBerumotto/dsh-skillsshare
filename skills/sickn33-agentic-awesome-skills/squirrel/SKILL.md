@@ -1,6 +1,6 @@
 ---
 name: squirrel
-description: "Full-cycle AI coding skill: plans, builds, tests, lints, fixes bugs, and writes production-grade docs. Auto-detects project state and adapts its 8-phase pipeline."
+description: "全周期 AI 编码技能：规划、构建、测试、lint、修 bug 并撰写生产级文档。自动检测项目状态并适配其 8 阶段流水线。 | Full-cycle AI coding skill: plans, builds, tests, lints, fixes bugs, and writes production-grade docs. Auto-detects project state and adapts its 8-phase pipeline."
 category: development
 risk: safe
 source: community

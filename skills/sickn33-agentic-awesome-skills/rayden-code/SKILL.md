@@ -1,6 +1,6 @@
 ---
 name: rayden-code
-description: Generate React code with Rayden UI components using correct props, tokens, and premium layout patterns
+description: 用 Rayden UI 组件生成 React 代码，采用正确的 props、令牌与高级布局模式 | Generate React code with Rayden UI components using correct props, tokens, and premium layout patterns
 category: development
 risk: safe
 source: https://github.com/playbookTV/rayden-ui-design-skill

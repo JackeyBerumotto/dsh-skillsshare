@@ -1,6 +1,6 @@
 ---
 name: simplify-code
-description: "Review a diff for clarity and safe simplifications, then optionally apply low-risk fixes."
+description: "审查 diff 的清晰度和安全的简化机会，然后可选择地应用低风险修复。 | Review a diff for clarity and safe simplifications, then optionally apply low-risk fixes."
 risk: safe
 source: "Dimillian/Skills (MIT)"
 date_added: "2026-03-25"

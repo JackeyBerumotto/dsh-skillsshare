@@ -1,6 +1,6 @@
 ---
 name: api-email-setup-resend
-description: Resend email setup, domain verification
+description: Resend 邮件配置与域名验证。 | Resend email setup, domain verification
 ---
 
 # Resend Email & React Email Setup

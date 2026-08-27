@@ -1,6 +1,6 @@
 ---
 name: build-mcp-app
-description: This skill should be used when the user wants to build an "MCP app", add "interactive UI" or "widgets" to an MCP server, "render components in chat", build "MCP UI resources", make a tool that shows a "form", "picker", "dashboard" or "confirmation dialog" inline in the conversation, or mentions "apps SDK" in the context of MCP. Use AFTER the build-mcp-server skill has settled the deployment model, or when the user already knows they want UI widgets.
+description: 当用户想要构建「MCP 应用」、为 MCP 服务器添加「交互式 UI」或「小部件」、「在聊天中渲染组件」、构建「MCP UI 资源」，或制作能在对话中内联显示「表单」「选择器」「仪表盘」或「确认对话框」的工具，或在 MCP 语境下提到「apps SDK」时，应使用本技能。请在 build-mcp-server 技能确定部署模型之后使用，或在用户已明确想要 UI 小部件时使用。 | This skill should be used when the user wants to build an "MCP app", add "interactive UI" or "widgets" to an MCP server, "render components in chat", build "MCP UI resources", make a tool that shows a "form", "picker", "dashboard" or "confirmation dialog" inline in the conversation, or mentions "apps SDK" in the context of MCP. Use AFTER the build-mcp-server skill has settled the deployment model, or when the user already knows they want UI widgets.
 version: 0.1.0
 ---
 

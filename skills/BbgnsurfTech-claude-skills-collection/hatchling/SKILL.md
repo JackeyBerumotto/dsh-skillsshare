@@ -1,6 +1,6 @@
 ---
 name: hatchling
-description: This skill provides comprehensive documentation for Hatchling, the modern Python build backend that implements PEP 517/518/621/660 standards. Use this skill when working with Hatchling configuration, build system setup, Python packaging, pyproject.toml configuration, project metadata, dependencies, entry points, build hooks, version management, wheel and sdist builds, package distribution, setuptools migration, and troubleshooting Hatchling build errors.
+description: 此技能为 Hatchling 提供全面文档。Hatchling 是实现 PEP 517/518/621/660 标准的现代 Python 构建后端。在处理 Hatchling 配置、构建系统搭建、Python 打包、pyproject.toml 配置、项目元数据、依赖、入口点、构建钩子、版本管理、wheel 与 sdist 构建、包分发、setuptools 迁移以及排查 Hatchling 构建错误时使用本技能。 | This skill provides comprehensive documentation for Hatchling, the modern Python build backend that implements PEP 517/518/621/660 standards. Use this skill when working with Hatchling configuration, build system setup, Python packaging, pyproject.toml configuration, project metadata, dependencies, entry points, build hooks, version management, wheel and sdist builds, package distribution, setuptools migration, and troubleshooting Hatchling build errors.
 ---
 
 # Hatchling

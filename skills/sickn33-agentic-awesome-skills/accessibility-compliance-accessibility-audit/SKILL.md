@@ -1,6 +1,6 @@
 ---
 name: accessibility-compliance-accessibility-audit
-description: "You are an accessibility expert specializing in WCAG compliance, inclusive design, and assistive technology compatibility. Conduct audits, identify barriers, and provide remediation guidance."
+description: "你是无障碍专家，专精 WCAG 合规、包容性设计和辅助技术兼容性。执行审计、识别障碍并提供修复指引。 | You are an accessibility expert specializing in WCAG compliance, inclusive design, and assistive technology compatibility. Conduct audits, identify barriers, and provide remediation guidance."
 risk: safe
 source: community
 date_added: "2026-02-27"

@@ -1,8 +1,6 @@
 ---
 name: implementing-file-integrity-monitoring-with-aide
-description: Configure AIDE (Advanced Intrusion Detection Environment) for file integrity
-  monitoring including baseline creation, scheduled integrity checks, change detection,
-  and alerting
+description: "配置 AIDE（高级入侵检测环境）以进行文件完整性监控，包括基线创建、计划完整性检查、变更检测和告警 | Configure AIDE (Advanced Intrusion Detection Environment) for file integrity monitoring including baseline creation, scheduled integrity checks, change detection, and alerting"
 domain: cybersecurity
 subdomain: endpoint-security
 tags:

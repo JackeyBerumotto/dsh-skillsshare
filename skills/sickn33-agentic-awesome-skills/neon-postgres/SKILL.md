@@ -1,6 +1,6 @@
 ---
 name: neon-postgres
-description: Guides and best practices for working with Neon Serverless Postgres. Covers setup, connection methods, branching, autoscaling, scale-to-zero, read replicas, connection pooling, Neon Auth, and the Neon CLI, MCP server, REST API, TypeScript SDK, and Python SDK. Use when users ask about...
+description: 使用 Neon Serverless Postgres 的指南与最佳实践。涵盖设置、连接方法、分支、自动扩缩、缩容到零、只读副本、连接池、Neon Auth，以及 Neon CLI、MCP 服务器、REST API、TypeScript SDK 和 Python SDK。当用户询问……时使用 | Guides and best practices for working with Neon Serverless Postgres. Covers setup, connection methods, branching, autoscaling, scale-to-zero, read replicas, connection pooling, Neon Auth, and the Neon CLI, MCP server, REST API, TypeScript SDK, and Python SDK. Use when users ask about...
 risk: unknown
 source: https://github.com/neondatabase/agent-skills/tree/main/skills/neon-postgres
 source_repo: neondatabase/agent-skills

@@ -1,6 +1,6 @@
 ---
 name: docker-patterns
-description: Docker and Docker Compose patterns for local development, container security, networking, volume strategies, and multi-service orchestration.
+description: 用于本地开发的 Docker 和 Docker Compose 模式，涵盖容器安全、网络、卷策略以及多服务编排。 | Docker and Docker Compose patterns for local development, container security, networking, volume strategies, and multi-service orchestration.
 metadata:
   origin: ECC
 ---

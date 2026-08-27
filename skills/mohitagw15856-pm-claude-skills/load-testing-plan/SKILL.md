@@ -1,6 +1,6 @@
 ---
 name: load-testing-plan
-description: "Write a load and performance testing plan for a service. Use when asked to create a performance test plan, write load testing documentation, define stress or soak test scenarios, or set performance regression gates for CI. Produces a complete test plan document with scenario definitions, k6/Locust script skeleton, threshold table, result interpretation guide, and CI integration steps."
+description: "为服务编写负载与性能测试计划。在被要求创建性能测试计划、编写负载测试文档、定义压力或浸泡测试场景，或为 CI 设置性能回归门禁时使用。产出完整测试计划文档，包含场景定义、k6/Locust 脚本骨架、阈值表、结果解读指南和 CI 集成步骤。 | Write a load and performance testing plan for a service. Use when asked to create a performance test plan, write load testing documentation, define stress or soak test scenarios, or set performance regression gates for CI. Produces a complete test plan document with scenario definitions, k6/Locust script skeleton, threshold table, result interpretation guide, and CI integration steps."
 ---
 
 # Load Testing Plan Skill

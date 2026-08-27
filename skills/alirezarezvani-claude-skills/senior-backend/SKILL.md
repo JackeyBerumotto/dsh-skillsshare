@@ -1,6 +1,6 @@
 ---
 name: "senior-backend"
-description: Designs and implements backend systems including REST APIs, microservices, database architectures, authentication flows, and security hardening. Use when the user asks to "design REST APIs", "optimize database queries", "implement authentication", "build microservices", "review backend code", "set up GraphQL", "handle database migrations", or "load test APIs". Covers Node.js/Express/Fastify development, PostgreSQL optimization, API security, and backend architecture patterns.
+description: 设计并实现后端系统，包括 REST API、微服务、数据库架构、认证流程和安全加固。当用户要求「design REST APIs」「optimize database queries」「implement authentication」「build microservices」「review backend code」「set up GraphQL」「handle database migrations」或「load test APIs」时使用。涵盖 Node.js/Express/Fastify 开发、PostgreSQL 优化、API 安全和后端架构模式。 | Designs and implements backend systems including REST APIs, microservices, database architectures, authentication flows, and security hardening. Use when the user asks to "design REST APIs", "optimize database queries", "implement authentication", "build microservices", "review backend code", "set up GraphQL", "handle database migrations", or "load test APIs". Covers Node.js/Express/Fastify development, PostgreSQL optimization, API security, and backend architecture patterns.
 ---
 
 # Senior Backend Engineer

@@ -1,7 +1,7 @@
 ---
 name: game-ui-ux
 description: >
-  Design and build game UI/UX — HUDs, menus, and overlays — that survive every screen: anchor-
+  设计并构建能在各种屏幕下正常呈现的游戏 UI/UX（HUD、菜单和覆盖层）：基于锚点的响应式布局、分辨率/宽高比缩放与安全区、键盘/手柄焦点导航、屏幕/菜单状态栈，以及事件驱动（而非轮询）的 HUD 更新。这些引擎无关的模式可与检测到的引擎的 UI 技能配合使用。当用户提到 HUD、血条、主菜单、暂停菜单、设置界面、UI 布局、锚点、UI 缩放、宽高比、安全区、手柄/键盘菜单导航，或将 UI 接入游戏状态时使用。 |
   based responsive layout, resolution/aspect scaling and safe areas, keyboard/gamepad focus
   navigation, a screen/menu state stack, and event-driven (not polled) HUD updates. Engine-
   neutral patterns that pair with the detected engine's UI skill. Use when the user mentions

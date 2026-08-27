@@ -1,6 +1,6 @@
 ---
 name: cypress-skill
-description: Generates production-grade Cypress E2E and component tests in JavaScript or TypeScript. Supports local execution and TestMu AI cloud. Use when the user asks to write Cypress tests, set up Cypress, test with cy commands, or mentions "Cypress", "cy.visit", "cy.get", "cy.intercept"....
+description: 生成生产级的 Cypress E2E 测试和组件测试，使用 JavaScript 或 TypeScript。支持本地执行和 TestMu AI 云。当用户要求编写 Cypress 测试、搭建 Cypress、用 cy 命令测试，或提到「Cypress」、「cy.visit」、「cy.get」、「cy.intercept」……时使用 | Generates production-grade Cypress E2E and component tests in JavaScript or TypeScript. Supports local execution and TestMu AI cloud. Use when the user asks to write Cypress tests, set up Cypress, test with cy commands, or mentions "Cypress", "cy.visit", "cy.get", "cy.intercept"....
 risk: unknown
 source: https://github.com/LambdaTest/agent-skills/tree/main/cypress-skill
 source_repo: LambdaTest/agent-skills

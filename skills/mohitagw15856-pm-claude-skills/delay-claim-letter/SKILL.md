@@ -1,6 +1,6 @@
 ---
 name: delay-claim-letter
-description: "Draft a construction delay notice or delay claim letter with contract clause citation, cause classification, and critical-path impact narrative. Use when asked to write a delay notice, put the owner or GC on notice of delay, draft a time extension request, respond to weather or owner-caused delay, or paper a delay for a claim. Produces a notice/claim letter with the excusable-compensable classification, critical-path impact narrative, quantum placeholder, reservation of rights, and a records-preservation list."
+description: "起草施工延期通知或延期索赔函，包含合同条款引用、原因分类和关键路径影响叙述。当被要求撰写延期通知、就延期向业主或总包发出正式通知、起草工期延长申请、回应天气或业主原因导致的延期，或为索赔把延期记录成文时使用。产出一份通知/索赔函，包含可原谅-可补偿分类、关键路径影响叙述、索赔金额占位符、权利保留声明以及记录保全清单。 | Draft a construction delay notice or delay claim letter with contract clause citation, cause classification, and critical-path impact narrative. Use when asked to write a delay notice, put the owner or GC on notice of delay, draft a time extension request, respond to weather or owner-caused delay, or paper a delay for a claim. Produces a notice/claim letter with the excusable-compensable classification, critical-path impact narrative, quantum placeholder, reservation of rights, and a records-preservation list."
 ---
 
 # Delay Claim Letter Skill

@@ -1,6 +1,6 @@
 ---
 name: pii-detect
-description: Detect and flag personally identifiable information (PII) in text, code, and configurations. Use before committing code, writing logs, storing data, or sending model responses that might contain emails, phone numbers, SSNs, API keys, or passwords.
+description: 检测并标记文本、代码和配置中的个人身份信息（PII）。在提交代码、写日志、存储数据或发送可能包含邮箱、电话号码、SSN、API 密钥或密码的模型回复之前使用。 | Detect and flag personally identifiable information (PII) in text, code, and configurations. Use before committing code, writing logs, storing data, or sending model responses that might contain emails, phone numbers, SSNs, API keys, or passwords.
 argument-hint: "<input-text>"
 allowed-tools: mcp__claude-flow__aidefence_has_pii mcp__claude-flow__aidefence_scan mcp__claude-flow__aidefence_analyze mcp__claude-flow__transfer_detect-pii Bash
 ---

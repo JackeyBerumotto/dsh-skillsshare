@@ -1,6 +1,6 @@
 ---
 name: influencer-brief
-description: "Create a structured brief for an influencer or creator partnership campaign. Use when asked to brief an influencer, plan a creator collaboration, set up a paid partnership, or define deliverables for a sponsored content campaign. Produces a complete campaign brief with objectives, deliverables, creative guidelines, approval process, and performance metrics."
+description: "为影响者或创作者合作活动创建结构化简报。当被要求向影响者交代任务、规划创作者合作、设置付费合作，或为赞助内容活动定义交付物时使用。产出完整的活动简报，包含目标、交付物、创意指南、审批流程和绩效指标。 | Create a structured brief for an influencer or creator partnership campaign. Use when asked to brief an influencer, plan a creator collaboration, set up a paid partnership, or define deliverables for a sponsored content campaign. Produces a complete campaign brief with objectives, deliverables, creative guidelines, approval process, and performance metrics."
 ---
 
 # Influencer Brief Skill

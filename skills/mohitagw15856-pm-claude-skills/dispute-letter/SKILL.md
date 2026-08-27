@@ -1,6 +1,6 @@
 ---
 name: dispute-letter
-description: "Write a letter to dispute an incorrect charge, bill, or record. Use when asked to dispute a credit-card charge, contest a bill or invoice, challenge a credit-report error, or formally dispute a fee. Produces a clear dispute letter — what's being disputed, why it's wrong, the evidence, and the correction requested — in the firm, paper-trail tone these situations need."
+description: "撰写信件，对错误的收费、账单或记录提出异议。在被要求争议信用卡扣费、质疑账单或发票、纠正信用报告错误，或正式对某项费用提出异议时使用。产出清晰的争议信——争议对象、为何有误、证据以及要求的更正——以这类情境所需的坚定、留痕语气撰写。 | Write a letter to dispute an incorrect charge, bill, or record. Use when asked to dispute a credit-card charge, contest a bill or invoice, challenge a credit-report error, or formally dispute a fee. Produces a clear dispute letter — what's being disputed, why it's wrong, the evidence, and the correction requested — in the firm, paper-trail tone these situations need."
 ---
 
 # Dispute Letter Skill

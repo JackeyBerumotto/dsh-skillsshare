@@ -1,6 +1,6 @@
 ---
 name: exit-waterfall
-description: "Compute who gets what at each exit price from a cap table — liquidation preferences, conversion points, and where the founders' share collapses. Use when asked to model an exit waterfall, what do I get if we sell for X, explain liquidation preferences on my cap table, or compare payouts across exit prices. Produces a per-stakeholder payout table across exit values with conversion decisions shown, plus the plain-English reading of what the structure means for each party."
+description: "根据 cap table 计算每个退出价格下谁拿多少钱——清算优先权、转换点，以及创始人份额在哪里崩塌。在被要求建模退出瀑布、如果我们以 X 价格出售我能拿多少、解释我 cap table 上的清算优先权，或比较不同退出价格下的收益分配时使用。产出各退出估值下按利益相关者划分的分配表（标明转换决策），以及对这一结构对各方意味着什么的通俗解读。 | Compute who gets what at each exit price from a cap table — liquidation preferences, conversion points, and where the founders' share collapses. Use when asked to model an exit waterfall, what do I get if we sell for X, explain liquidation preferences on my cap table, or compare payouts across exit prices. Produces a per-stakeholder payout table across exit values with conversion decisions shown, plus the plain-English reading of what the structure means for each party."
 ---
 
 # Exit Waterfall Skill

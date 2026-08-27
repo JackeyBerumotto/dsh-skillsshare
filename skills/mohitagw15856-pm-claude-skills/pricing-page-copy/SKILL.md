@@ -1,6 +1,6 @@
 ---
 name: pricing-page-copy
-description: "Write pricing page copy that helps buyers self-select the right plan and convert. Use when asked to write or improve a pricing page, name and describe pricing tiers, write plan feature lists, pricing CTAs, or a pricing FAQ. Produces complete pricing page copy — a header, tier cards with names, prices, audiences, feature lists, CTAs, an add-on/enterprise section, and an objection-handling FAQ."
+description: "撰写帮助买家自选合适套餐并完成转化的定价页文案。在被要求编写或改进定价页、命名并描述价格档位、编写套餐功能清单、定价 CTA 或定价 FAQ 时使用。产出完整定价页文案——页头、含名称/价格/受众/功能清单/CTA 的档位卡片、附加项/企业版区块，以及处理异议的 FAQ。 | Write pricing page copy that helps buyers self-select the right plan and convert. Use when asked to write or improve a pricing page, name and describe pricing tiers, write plan feature lists, pricing CTAs, or a pricing FAQ. Produces complete pricing page copy — a header, tier cards with names, prices, audiences, feature lists, CTAs, an add-on/enterprise section, and an objection-handling FAQ."
 ---
 
 # Pricing Page Copy Skill

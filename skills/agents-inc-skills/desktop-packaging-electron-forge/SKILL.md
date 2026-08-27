@@ -1,6 +1,6 @@
 ---
 name: desktop-packaging-electron-forge
-description: Electron Forge build toolchain -- makers, publishers, code signing, fuses, hooks, CI/CD packaging
+description: Electron Forge 构建工具链——makers、publishers、代码签名、fuses、hooks、CI/CD 打包 | Electron Forge build toolchain -- makers, publishers, code signing, fuses, hooks, CI/CD packaging
 ---
 
 # Electron Forge Packaging

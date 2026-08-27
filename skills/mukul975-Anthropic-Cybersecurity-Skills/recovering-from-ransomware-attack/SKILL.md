@@ -1,14 +1,6 @@
 ---
 name: recovering-from-ransomware-attack
-description: 'Executes structured recovery from a ransomware incident following NIST
-  and CISA frameworks, including environment isolation, forensic evidence preservation,
-  clean infrastructure rebuild, prioritized system restoration from verified backups,
-  credential reset, and validation against re-infection. Covers Active Directory recovery,
-  database restoration, and application stack rebuild in dependency order. Activates
-  for requests involving ransomware recovery, post-encryption restoration, or disaster
-  recovery from ransomware.
-
-  '
+description: "遵循 NIST 和 CISA 框架执行结构化的勒索软件事件恢复，包括环境隔离、取证证据保全、干净基础设施重建、按优先级从已验证备份恢复系统、凭据重置以及防再次感染验证。涵盖按依赖顺序进行的 Active Directory 恢复、数据库还原和应用栈重建。当请求涉及勒索软件恢复、加密后恢复或勒索软件灾难恢复时激活。 | Executes structured recovery from a ransomware incident following NIST and CISA frameworks, including environment isolation, forensic evidence preservation, clean infrastructure rebuild, prioritized system restoration from verified backups, credential reset, and validation against re-infection. Covers Active Directory recovery, database restoration, and application stack rebuild in dependency order. Activates for requests involving ransomware recovery, post-encryption restoration, or disaster recovery from ransomware."
 domain: cybersecurity
 subdomain: ransomware-defense
 tags:

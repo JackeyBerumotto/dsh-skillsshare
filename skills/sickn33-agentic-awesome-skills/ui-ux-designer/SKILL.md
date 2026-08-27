@@ -1,6 +1,6 @@
 ---
 name: ui-ux-designer
-description: Create interface designs, wireframes, and design systems. Masters user research, accessibility standards, and modern design tools.
+description: 创建界面设计、线框图和设计系统。精通用户研究、无障碍标准和现代设计工具。 | Create interface designs, wireframes, and design systems. Masters user research, accessibility standards, and modern design tools.
 risk: unknown
 source: community
 date_added: '2026-02-27'

@@ -1,6 +1,6 @@
 ---
 name: 001-jeremy-taskwarrior-integration
-description: Enforce complete Taskwarrior integration for all coding tasks with automatic decomposition, time tracking, and dependency management. Use when managing tasks or tracking work. Trigger with phrases like "taskwarrior", "task warrior", "tw", "create a task", or "track this work".
+description: 为所有编码任务强制启用完整的 Taskwarrior 集成，提供自动分解、时间跟踪和依赖管理。在管理任务或跟踪工作时使用。触发短语包括「taskwarrior」「task warrior」「tw」「create a task」或「track this work」。 | Enforce complete Taskwarrior integration for all coding tasks with automatic decomposition, time tracking, and dependency management. Use when managing tasks or tracking work. Trigger with phrases like "taskwarrior", "task warrior", "tw", "create a task", or "track this work".
 version: 1.0.0
 allowed-tools:
 - Read

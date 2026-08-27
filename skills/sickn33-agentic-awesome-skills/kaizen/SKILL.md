@@ -1,6 +1,6 @@
 ---
 name: kaizen
-description: "Guide for continuous improvement, error proofing, and standardization. Use this skill when the user wants to improve code quality, refactor, or discuss process improvements."
+description: "持续改进、防错和标准化指南。当用户想提升代码质量、重构或讨论流程改进时使用此技能。 | Guide for continuous improvement, error proofing, and standardization. Use this skill when the user wants to improve code quality, refactor, or discuss process improvements."
 risk: unknown
 source: community
 date_added: "2026-02-27"

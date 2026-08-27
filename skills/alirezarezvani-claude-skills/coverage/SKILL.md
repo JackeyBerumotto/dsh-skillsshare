@@ -1,7 +1,7 @@
 ---
 name: "coverage"
 description: >-
-  Analyze test coverage gaps. Use when user says "test coverage",
+  分析测试覆盖缺口。当用户说「test coverage」、「what’s not tested」、「coverage gaps」、「missing tests」、「coverage report」或「what needs testing」时使用。 |
   "what's not tested", "coverage gaps", "missing tests", "coverage report",
   or "what needs testing".
 ---

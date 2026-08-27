@@ -1,6 +1,6 @@
 ---
 name: api-integration
-description: Designs event-driven architectures, webhook systems, API chaining flows, ETL pipelines, and integration patterns between services. Use whenever the user asks about webhooks, event streaming, API composition, connecting two or more APIs, building pipelines, Pub/Sub, Kafka topics, ETL...
+description: 设计事件驱动架构、webhook 系统、API 链式调用流程、ETL 流水线以及服务间的集成模式。当用户询问 webhook、事件流、API 组合、连接两个或多个 API、构建流水线、Pub/Sub、Kafka 主题、ETL 等时使用。 | Designs event-driven architectures, webhook systems, API chaining flows, ETL pipelines, and integration patterns between services. Use whenever the user asks about webhooks, event streaming, API composition, connecting two or more APIs, building pipelines, Pub/Sub, Kafka topics, ETL...
 risk: unknown
 source: https://github.com/LambdaTest/agent-skills/tree/main/api-skill/api-integration-helper
 source_repo: LambdaTest/agent-skills

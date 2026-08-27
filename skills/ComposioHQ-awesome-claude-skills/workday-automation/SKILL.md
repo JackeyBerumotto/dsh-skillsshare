@@ -1,6 +1,6 @@
 ---
 name: Workday Automation
-description: "Automate HR operations in Workday -- manage workers, time off requests, absence balances, and employee data through natural language commands."
+description: "在 Workday 中自动化 HR 操作：通过自然语言命令管理员工、请假申请、假期余额以及员工数据。 | Automate HR operations in Workday -- manage workers, time off requests, absence balances, and employee data through natural language commands."
 requires:
   mcp:
     - rube

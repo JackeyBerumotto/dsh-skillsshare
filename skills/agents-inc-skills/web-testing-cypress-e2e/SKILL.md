@@ -1,6 +1,6 @@
 ---
 name: web-testing-cypress-e2e
-description: Cypress E2E testing patterns - test structure, data-cy selectors, cy.intercept() mocking, custom commands, fixtures, component testing, accessibility testing with cypress-axe, and CI/CD integration
+description: Cypress 端到端测试模式——测试结构、data-cy 选择器、cy.intercept() 打桩、自定义命令、fixtures、组件测试、基于 cypress-axe 的无障碍测试以及 CI/CD 集成 | Cypress E2E testing patterns - test structure, data-cy selectors, cy.intercept() mocking, custom commands, fixtures, component testing, accessibility testing with cypress-axe, and CI/CD integration
 ---
 
 # Cypress E2E Testing Patterns

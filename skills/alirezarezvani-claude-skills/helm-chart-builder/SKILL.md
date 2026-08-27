@@ -1,6 +1,6 @@
 ---
 name: "helm-chart-builder"
-description: "Helm chart development agent skill and plugin for Claude Code, Codex, Gemini CLI, Cursor, OpenClaw — chart scaffolding, values design, template patterns, dependency management, security hardening, and chart testing. Use when: user wants to create or improve Helm charts, design values.yaml files, implement template helpers, audit chart security (RBAC, network policies, pod security), manage subcharts, or run helm lint/test."
+description: "Helm chart 开发代理技能与插件，适用于 Claude Code、Codex、Gemini CLI、Cursor、OpenClaw——chart 脚手架、values 设计、模板模式、依赖管理、安全加固和 chart 测试。适用于：用户想创建或改进 Helm chart、设计 values.yaml 文件、实现模板辅助函数、审计 chart 安全（RBAC、网络策略、pod 安全）、管理子 chart，或运行 helm lint/test。 | Helm chart development agent skill and plugin for Claude Code, Codex, Gemini CLI, Cursor, OpenClaw — chart scaffolding, values design, template patterns, dependency management, security hardening, and chart testing. Use when: user wants to create or improve Helm charts, design values.yaml files, implement template helpers, audit chart security (RBAC, network policies, pod security), manage subcharts, or run helm lint/test."
 license: MIT
 metadata:
   version: 1.0.0

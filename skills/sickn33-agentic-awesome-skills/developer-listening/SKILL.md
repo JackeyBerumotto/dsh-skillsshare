@@ -1,6 +1,6 @@
 ---
 name: developer-listening
-description: "Monitor what developers say about your brand, competitors, and the problems they're solving. Track mentions and conversations across GitHub, Hacker News, Reddit, Stack Overflow, Twitter, and Discord. Trigger phrases: \"developer listening\", \"monitor developer conversations\", \"track..."
+description: "监控开发者对你的品牌、竞争对手以及他们正在解决的问题的评价。追踪 GitHub、Hacker News、Reddit、Stack Overflow、Twitter 和 Discord 上的提及与对话。触发短语：「developer listening」「monitor developer conversations」「track...」等。 | Monitor what developers say about your brand, competitors, and the problems they're solving. Track mentions and conversations across GitHub, Hacker News, Reddit, Stack Overflow, Twitter, and Discord. Trigger phrases: \"developer listening\", \"monitor developer conversations\", \"track..."
 risk: unknown
 source: https://github.com/jonathimer/devmarketing-skills/tree/main/skills/developer-listening
 source_repo: jonathimer/devmarketing-skills

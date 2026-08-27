@@ -1,17 +1,6 @@
 ---
 name: detecting-ai-model-prompt-injection-attacks
-description: 'Detects prompt injection attacks targeting LLM-based applications using
-  a multi-layered defense combining regex pattern matching for known attack signatures,
-  heuristic scoring for structural anomalies, and transformer-based classification
-  with DeBERTa models. The detector analyzes user inputs before they reach the LLM,
-  flagging direct injections (system prompt overrides, role-play escapes, instruction
-  hijacking) and indirect injections (encoded payloads, multi-language obfuscation,
-  delimiter-based escapes). Based on the OWASP LLM Top 10 (LLM01:2025 Prompt Injection)
-  and Simon Willison''s prompt injection taxonomy. Activates for requests involving
-  prompt injection detection, LLM input sanitization, AI security scanning, or prompt
-  attack classification.
-
-  '
+description: "使用多层防御检测针对基于 LLM 应用的提示注入攻击，结合针对已知攻击特征的正则模式匹配、针对结构性异常的启发式评分，以及基于 DeBERTa 模型的 Transformer 分类。检测器在用户输入到达 LLM 之前进行分析，标记直接注入（系统提示覆盖、角色扮演逃逸、指令劫持）和间接注入（编码载荷、多语言混淆、基于分隔符的逃逸）。基于 OWASP LLM Top 10（LLM01:2025 提示注入）和 Simon Willison 的提示注入分类法。当请求涉及提示注入检测、LLM 输入净化、AI 安全扫描或提示攻击分类时激活。 | Detects prompt injection attacks targeting LLM-based applications using a multi-layered defense combining regex pattern matching for known attack signatures, heuristic scoring for structural anomalies, and transformer-based classification with DeBERTa models. The detector analyzes user inputs before they reach the LLM, flagging direct injections (system prompt overrides, role-play escapes, instruction hijacking) and indirect injections (encoded payloads, multi-language obfuscation, delimiter-based escapes). Based on the OWASP LLM Top 10 (LLM01:2025 Prompt Injection) and Simon Willison''s prompt injection taxonomy. Activates for requests involving prompt injection detection, LLM input sanitization, AI security scanning, or prompt attack classification."
 domain: cybersecurity
 subdomain: ai-security
 tags:

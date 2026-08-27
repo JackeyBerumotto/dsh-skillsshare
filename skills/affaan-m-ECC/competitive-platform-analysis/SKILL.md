@@ -1,7 +1,7 @@
 ---
 name: competitive-platform-analysis
 description: >-
-  Use when scoping a competitive landscape — identifying, categorising, and
+  在界定竞争格局时使用——在任何对标开始之前识别、分类并按分数筛选竞争对手集合。决定谁算作竞争对手、属于哪个层级以及挖掘哪些来源。是三技能竞争流水线的第一步；先于 benchmark-methodology 执行。 |
   score-filtering a competitor set before any benchmarking begins. Decides who
   counts as a competitor, which tier they belong to, and which sources to mine.
   First step in the three-skill competitive pipeline; precedes

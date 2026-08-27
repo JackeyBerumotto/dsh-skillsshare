@@ -1,6 +1,6 @@
 ---
 name: mock-hunter
-description: "Audit a live web page in five phases (catalog, click, trace, classify, report) to identify mock data, hardcoded values, LLM-generated metrics, and broken endpoints. Outputs a markdown report with REAL/MOCK/LLM/HARDCODED/BROKEN/UNKNOWN verdicts per visible value."
+description: "通过五个阶段（编目、点击、追踪、分类、报告）审计线上网页，识别模拟数据、硬编码值、LLM 生成的指标以及失效的端点。输出一份 markdown 报告，对每个可见数值给出 REAL/MOCK/LLM/HARDCODED/BROKEN/UNKNOWN 判定。 | Audit a live web page in five phases (catalog, click, trace, classify, report) to identify mock data, hardcoded values, LLM-generated metrics, and broken endpoints. Outputs a markdown report with REAL/MOCK/LLM/HARDCODED/BROKEN/UNKNOWN verdicts per visible value."
 category: testing
 risk: critical
 source: community

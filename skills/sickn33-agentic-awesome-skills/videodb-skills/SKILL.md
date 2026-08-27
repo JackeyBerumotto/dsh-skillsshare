@@ -1,6 +1,6 @@
 ---
 name: videodb-skills
-description: "Upload, stream, search, edit, transcribe, and generate AI video and audio using the VideoDB SDK."
+description: "使用 VideoDB SDK 上传、流式传输、搜索、编辑、转写以及生成 AI 视频和音频。 | Upload, stream, search, edit, transcribe, and generate AI video and audio using the VideoDB SDK."
 category: media
 risk: safe
 source: community

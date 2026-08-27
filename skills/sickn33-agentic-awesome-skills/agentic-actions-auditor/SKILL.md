@@ -1,7 +1,7 @@
 ---
 name: agentic-actions-auditor
 description: >
-  Audits GitHub Actions workflows for security
+  审计 GitHub Actions 工作流中 AI 代理集成的安全漏洞，涉及 Claude Code Action、Gemini CLI、OpenAI Codex 和 GitHub AI Inference。检测攻击者可控输入触达 CI/CD 流水线中运行的 AI 代理的攻击向量。 |
   vulnerabilities in AI agent integrations 
   including Claude Code Action, 
   Gemini CLI, OpenAI Codex, and GitHub AI 

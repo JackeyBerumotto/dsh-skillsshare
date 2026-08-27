@@ -1,6 +1,6 @@
 ---
 name: slo-error-budget
-description: "Define Service Level Objectives (SLOs) and an error budget policy for a service. Use when asked to write SLOs, define SLIs, calculate an error budget, set reliability targets, or create an error budget policy. Produces a complete SLO document with SLI definitions, target calculation, error budget policy, burn rate alerts, and review cadence."
+description: "为服务定义服务级别目标（SLO）和错误预算策略。当被要求撰写 SLO、定义 SLI、计算错误预算、设定可靠性目标或制定错误预算策略时使用。产出完整的 SLO 文档，包含 SLI 定义、目标计算、错误预算策略、消耗速率告警以及评审节奏。 | Define Service Level Objectives (SLOs) and an error budget policy for a service. Use when asked to write SLOs, define SLIs, calculate an error budget, set reliability targets, or create an error budget policy. Produces a complete SLO document with SLI definitions, target calculation, error budget policy, burn rate alerts, and review cadence."
 ---
 
 # SLO and Error Budget Skill

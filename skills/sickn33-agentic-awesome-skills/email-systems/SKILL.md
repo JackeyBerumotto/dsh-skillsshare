@@ -1,8 +1,6 @@
 ---
 name: email-systems
-description: Email has the highest ROI of any marketing channel. $36 for every
-  $1 spent. Yet most startups treat it as an afterthought - bulk blasts, no
-  personalization, landing in spam folders.
+description: "在所有营销渠道中，电子邮件的投资回报率最高：每投入 1 美元可获得 36 美元回报。然而大多数初创公司却把它当作无关紧要的事——海量群发、毫无个性化，最终落入垃圾邮件文件夹。 | Email has the highest ROI of any marketing channel. $36 for every $1 spent. Yet most startups treat it as an afterthought - bulk blasts, no personalization, landing in spam folders."
 risk: none
 source: vibeship-spawner-skills (Apache 2.0)
 date_added: 2026-02-27

@@ -1,6 +1,6 @@
 ---
 name: imaging-data-commons
-description: Query and download public cancer imaging data from NCI Imaging Data Commons using idc-index. Use for accessing large-scale radiology (CT, MR, PET) and pathology datasets for AI training or research. No authentication required. Query by metadata, visualize in browser, check licenses.
+description: 使用 idc-index 从 NCI Imaging Data Commons 查询和下载公开癌症影像数据。用于获取供 AI 训练或研究使用的大规模放射（CT、MR、PET）和病理数据集。无需认证。支持按元数据查询、浏览器可视化、检查许可。 | Query and download public cancer imaging data from NCI Imaging Data Commons using idc-index. Use for accessing large-scale radiology (CT, MR, PET) and pathology datasets for AI training or research. No authentication required. Query by metadata, visualize in browser, check licenses.
 license: This skill is provided under the MIT License. IDC data itself has individual licensing (mostly CC-BY, some CC-NC) that must be respected when using the data.
 metadata: {"version": "1.1", "source-skill-version": "1.4.0", "skill-author": "Andrey Fedorov, @fedorov", "idc-index": "0.11.14", "idc-data-version": "v23", "repository": "https://github.com/ImagingDataCommons/idc-claude-skill"}
 ---

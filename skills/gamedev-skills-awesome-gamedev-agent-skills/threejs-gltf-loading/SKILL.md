@@ -1,7 +1,7 @@
 ---
 name: threejs-gltf-loading
 description: >
-  Load glTF/GLB models in three.js with GLTFLoader and play their skinned
+  在 three.js 中使用 GLTFLoader 加载 glTF/GLB 模型，并用 AnimationMixer 播放其蒙皮动画，包括 DRACO/Meshopt 压缩网格与 KTX2 纹理。在向 three.js 导入 3D 模型时使用——即用户提到 glTF、GLB、GLTFLoader、AnimationMixer、动画剪辑、DRACOLoader 或「加载 3D 模型」时。场景/相机/渲染器的设置请用 threejs-scene-setup；材质与灯光请用 threejs-materials-lighting。 |
   animations with AnimationMixer, including DRACO/Meshopt-compressed meshes and
   KTX2 textures. Use when importing 3D models into three.js — when the user
   mentions glTF, GLB, GLTFLoader, AnimationMixer, animation clips, DRACOLoader, or

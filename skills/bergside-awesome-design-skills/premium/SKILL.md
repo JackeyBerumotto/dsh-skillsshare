@@ -1,6 +1,6 @@
 ---
 name: premium
-description: Apple-inspired premium aesthetic with precise spacing, modern typography, and a refined, polished visual language.
+description: 汲取 Apple 灵感的高端美学，具备精准的间距、现代的字体排印和精致考究的视觉语言。 | Apple-inspired premium aesthetic with precise spacing, modern typography, and a refined, polished visual language.
 license: MIT
 metadata:
   author: typeui.sh

@@ -1,6 +1,6 @@
 ---
 name: benefits-decoder
-description: "Decode an employment benefits package into what it's actually worth and where the fine print bites. Use when someone asks 'is this offer good', 'decode my benefits package', 'what does my equity actually mean', or 'what should I ask HR before signing'. Produces a benefit-by-benefit decode with real dollar values, ranked red flags (vesting cliffs, clawbacks, 'discretionary' bonuses, unlimited-PTO economics), and the questions to ask HR before signing."
+description: "解读员工福利方案的真实价值以及小字条款的坑。当有人问「这个 offer 好吗」「解读我的福利方案」「我的期权到底意味着什么」或「签署前我该问 HR 什么」时使用。产出逐项福利解读，附真实金额价值、按严重程度排序的危险信号（归属悬崖、回拨条款、「酌情发放」的奖金、无限休假的经济学），以及签署前应问 HR 的问题。 | Decode an employment benefits package into what it's actually worth and where the fine print bites. Use when someone asks 'is this offer good', 'decode my benefits package', 'what does my equity actually mean', or 'what should I ask HR before signing'. Produces a benefit-by-benefit decode with real dollar values, ranked red flags (vesting cliffs, clawbacks, 'discretionary' bonuses, unlimited-PTO economics), and the questions to ask HR before signing."
 ---
 
 # Benefits Decoder Skill

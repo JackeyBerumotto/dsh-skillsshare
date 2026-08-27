@@ -1,6 +1,6 @@
 ---
 name: avalonia-zafiro-development
-description: "Mandatory skills, conventions, and behavioral rules for Avalonia UI development using the Zafiro toolkit."
+description: "使用 Zafiro 工具包进行 Avalonia UI 开发的必备技能、约定与行为规则。 | Mandatory skills, conventions, and behavioral rules for Avalonia UI development using the Zafiro toolkit."
 risk: safe
 source: community
 date_added: "2026-02-27"

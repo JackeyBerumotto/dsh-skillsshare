@@ -1,7 +1,7 @@
 ---
 name: godot-shaders
 description: >
-  Write Godot 4.x shaders in the Godot Shading Language: canvas_item shaders for 2D
+  用 Godot Shading Language 编写 Godot 4.x 着色器：2D 用 canvas_item 着色器，3D 用 spatial 着色器，涵盖顶点/片元函数、uniform（source_color、hint_range）、TIME/UV 动画以及通过 hint_screen_texture 读取屏幕。在编写 .gdshader 文件、撰写片元/顶点代码、制作 2D/3D 视觉效果，或把 3.x 着色器（SCREEN_TEXTURE、hint_color）移植到 4.x 时使用。 |
   and spatial shaders for 3D, with vertex/fragment functions, uniforms (source_color,
   hint_range), TIME/UV animation, and screen-reading via hint_screen_texture. Use
   when authoring .gdshader files, writing fragment/vertex code, making 2D/3D visual

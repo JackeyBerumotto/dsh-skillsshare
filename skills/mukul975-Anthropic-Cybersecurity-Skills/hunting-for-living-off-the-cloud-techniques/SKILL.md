@@ -1,7 +1,6 @@
 ---
 name: hunting-for-living-off-the-cloud-techniques
-description: Hunt for adversary abuse of legitimate cloud services for C2, data staging,
-  and exfiltration including abuse of Azure, AWS, GCP services, and SaaS platforms.
+description: "狩猎攻击者对合法云服务的滥用，包括将 Azure、AWS、GCP 服务以及 SaaS 平台用于 C2、数据中转和数据外传。 | Hunt for adversary abuse of legitimate cloud services for C2, data staging, and exfiltration including abuse of Azure, AWS, GCP services, and SaaS platforms."
 domain: cybersecurity
 subdomain: threat-hunting
 tags:

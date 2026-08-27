@@ -1,6 +1,6 @@
 ---
 name: "setup"
-description: "Set up a new autoresearch experiment interactively. Collects domain, target file, eval command, metric, direction, and evaluator. Use when the user runs /ar:setup or asks to start optimizing a file with the autoresearch loop."
+description: "以交互方式建立新的 autoresearch 实验。收集领域、目标文件、评估命令、指标、方向和评估器。当用户运行 /ar:setup 或要求开始用 autoresearch 循环优化某文件时使用。 | Set up a new autoresearch experiment interactively. Collects domain, target file, eval command, metric, direction, and evaluator. Use when the user runs /ar:setup or asks to start optimizing a file with the autoresearch loop."
 command: /ar:setup
 ---
 

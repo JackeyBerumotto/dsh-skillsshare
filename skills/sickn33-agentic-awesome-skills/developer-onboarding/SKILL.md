@@ -1,6 +1,6 @@
 ---
 name: developer-onboarding
-description: 'Get developers to "Hello World" fast with optimized quickstarts, tutorials, and sample apps. Trigger phrases: developer onboarding, time to first value, quickstart guide, hello world tutorial, developer activation, onboarding checklist, sample apps, getting started experience, reduce...'
+description: '通过优化的快速入门、教程和示例应用，让开发者快速跑通「Hello World」。触发短语：开发者入门、首次价值时间、快速入门指南、hello world 教程、开发者激活、入门清单、示例应用、入门体验、缩短…… | Get developers to "Hello World" fast with optimized quickstarts, tutorials, and sample apps. Trigger phrases: developer onboarding, time to first value, quickstart guide, hello world tutorial, developer activation, onboarding checklist, sample apps, getting started experience, reduce...'
 risk: unknown
 source: https://github.com/jonathimer/devmarketing-skills/tree/main/skills/developer-onboarding
 source_repo: jonathimer/devmarketing-skills

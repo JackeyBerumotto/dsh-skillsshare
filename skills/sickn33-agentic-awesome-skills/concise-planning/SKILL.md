@@ -1,6 +1,6 @@
 ---
 name: concise-planning
-description: "Use when a user asks for a plan for a coding task, to generate a clear, actionable, and atomic checklist."
+description: "当用户要求为编码任务制定计划、生成清晰、可执行且原子化的检查清单时使用。 | Use when a user asks for a plan for a coding task, to generate a clear, actionable, and atomic checklist."
 risk: unknown
 source: community
 date_added: "2026-02-27"

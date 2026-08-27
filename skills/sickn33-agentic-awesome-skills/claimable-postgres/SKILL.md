@@ -1,6 +1,6 @@
 ---
 name: claimable-postgres
-description: Provision instant temporary Postgres databases via Claimable Postgres by Neon (neon.new) with no login, signup, or credit card. Supports REST API, CLI, and SDK. Use when users ask for a quick Postgres environment, a throwaway DATABASE_URL for prototyping/tests, or "just give me a DB...
+description: 通过 Neon 的 Claimable Postgres（neon.new）即刻开通临时 Postgres 数据库，无需登录、注册或信用卡。支持 REST API、CLI 和 SDK。当用户想要一个快速的 Postgres 环境、一个用于原型/测试的一次性 DATABASE_URL，或「直接给我个数据库」时使用…… | Provision instant temporary Postgres databases via Claimable Postgres by Neon (neon.new) with no login, signup, or credit card. Supports REST API, CLI, and SDK. Use when users ask for a quick Postgres environment, a throwaway DATABASE_URL for prototyping/tests, or "just give me a DB...
 risk: unknown
 source: https://github.com/neondatabase/agent-skills/tree/main/skills/claimable-postgres
 source_repo: neondatabase/agent-skills

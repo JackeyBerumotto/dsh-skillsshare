@@ -1,6 +1,6 @@
 ---
 name: vscode-extension-guide-en
-description: "Guide for VS Code extension development from scaffolding to Marketplace publication"
+description: "VS Code 扩展开发指南，从脚手架到 Marketplace 发布 | Guide for VS Code extension development from scaffolding to Marketplace publication"
 category: core-dev
 risk: safe
 source: community

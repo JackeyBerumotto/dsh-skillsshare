@@ -1,6 +1,6 @@
 ---
 name: gradient-design
-description: Web and App implementation guide for Gradient Design. Trigger when user wants heavy gradient usage, vibrant transitions, and modern energetic feels.
+description: Gradient Design（渐变设计）的 Web 与 App 实现指南。当用户需要大量使用渐变、鲜活的过渡和充满现代活力的感觉时触发。 | Web and App implementation guide for Gradient Design. Trigger when user wants heavy gradient usage, vibrant transitions, and modern energetic feels.
 date_added: "2026-06-17"
 risk: safe
 source: self

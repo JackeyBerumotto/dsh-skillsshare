@@ -1,6 +1,6 @@
 ---
 name: leiloeiro-mercado
-description: Analise de mercado imobiliario para leiloes. Liquidez, desagio tipico, ROI, estrategias de saida (flip/reforma/renda), Selic 2025 e benchmark CDI/FII.
+description: 面向房产拍卖的房地产市场分析。流动性、典型折价、ROI、退出策略（转售／翻新／出租）、2025 年 Selic 利率及 CDI／FII 基准对比。 | Analise de mercado imobiliario para leiloes. Liquidez, desagio tipico, ROI, estrategias de saida (flip/reforma/renda), Selic 2025 e benchmark CDI/FII.
 risk: safe
 source: community
 date_added: '2026-03-06'

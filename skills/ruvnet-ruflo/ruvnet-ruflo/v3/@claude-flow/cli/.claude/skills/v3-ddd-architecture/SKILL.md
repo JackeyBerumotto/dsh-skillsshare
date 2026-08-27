@@ -1,6 +1,6 @@
 ---
 name: "V3 DDD Architecture"
-description: "Domain-Driven Design architecture for claude-flow v3. Implements modular, bounded context architecture with clean separation of concerns and microkernel pattern."
+description: "claude-flow v3 的领域驱动设计架构。实现模块化的限界上下文架构，具备清晰的关注点分离和微内核模式。 | Domain-Driven Design architecture for claude-flow v3. Implements modular, bounded context architecture with clean separation of concerns and microkernel pattern."
 ---
 
 # V3 DDD Architecture

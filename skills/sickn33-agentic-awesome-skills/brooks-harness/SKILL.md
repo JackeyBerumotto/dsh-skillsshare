@@ -1,6 +1,6 @@
 ---
 name: brooks-harness
-description: Maintenance orchestrator for the brooks-lint plugin itself. Runs a sequential subagent pipeline — author → eval → QA → trigger-audit → release — to add or edit a skill, refresh the eval suite, keep the four manifests + README + CHANGELOG + AGENTS/GEMINI in sync, audit trigger...
+description: brooks-lint 插件自身的维护编排器。运行顺序子代理流水线——author → eval → QA → trigger-audit → release——用于新增或编辑技能、刷新评测套件、保持四个清单与 README、CHANGELOG、AGENTS/GEMINI 同步、审计触发词…… | Maintenance orchestrator for the brooks-lint plugin itself. Runs a sequential subagent pipeline — author → eval → QA → trigger-audit → release — to add or edit a skill, refresh the eval suite, keep the four manifests + README + CHANGELOG + AGENTS/GEMINI in sync, audit trigger...
 risk: unknown
 source: https://github.com/hyhmrright/brooks-lint/tree/main/.claude/skills/brooks-harness
 source_repo: hyhmrright/brooks-lint

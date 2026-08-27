@@ -1,6 +1,6 @@
 ---
 name: changelog-automation
-description: "Automate changelog generation from commits, PRs, and releases following Keep a Changelog format. Use when setting up release workflows, generating release notes, or standardizing commit conventions."
+description: "依据 Keep a Changelog 格式，从提交、PR 和版本发布中自动生成变更日志。在设置发布工作流、生成发布说明或统一提交规范时使用。 | Automate changelog generation from commits, PRs, and releases following Keep a Changelog format. Use when setting up release workflows, generating release notes, or standardizing commit conventions."
 risk: unknown
 source: community
 date_added: "2026-02-27"

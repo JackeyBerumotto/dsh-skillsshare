@@ -1,6 +1,6 @@
 ---
 name: strategy-memo
-description: "Write a strategy memo that commits to a bet and says what you won't do. Use when asked to write a strategy memo, articulate a strategy, make the case for a strategic direction, or align the team on where to focus. Produces a strategy memo — the strategic question, the diagnosis, the bet/approach, why now, explicit non-goals (what we're NOT doing), how we'll know it's working, and the risks."
+description: "撰写明确押注并说清不做什么的战略备忘录。在被要求编写战略备忘录、阐述战略、为战略方向做论证，或让团队就聚焦方向达成一致时使用。产出战略备忘录——战略问题、诊断、押注/路径、为何是现在、明确的非目标（我们不做什么）、如何判断有效，以及风险。 | Write a strategy memo that commits to a bet and says what you won't do. Use when asked to write a strategy memo, articulate a strategy, make the case for a strategic direction, or align the team on where to focus. Produces a strategy memo — the strategic question, the diagnosis, the bet/approach, why now, explicit non-goals (what we're NOT doing), how we'll know it's working, and the risks."
 ---
 
 # Strategy Memo Skill

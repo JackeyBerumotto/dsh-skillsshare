@@ -1,6 +1,6 @@
 ---
 name: web-framework-solidjs
-description: SolidJS fine-grained reactivity patterns - signals, effects, memos, stores, createResource, control flow components, Suspense, SolidStart
+description: SolidJS 细粒度响应式模式——signal、effect、memo、store、createResource、控制流组件、Suspense、SolidStart。 | SolidJS fine-grained reactivity patterns - signals, effects, memos, stores, createResource, control flow components, Suspense, SolidStart
 ---
 
 # SolidJS Patterns

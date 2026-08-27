@@ -1,6 +1,6 @@
 ---
 name: awt-e2e-testing
-description: "AI-powered E2E web testing — eyes and hands for AI coding tools. Declarative YAML scenarios, Playwright execution, visual matching (OpenCV + OCR), platform auto-detection (Flutter/React/Vue), learning DB. Install: npx skills add ksgisang/awt-skill --skill awt -g"
+description: "AI 驱动的端到端 Web 测试——AI 编码工具的眼睛和双手。声明式 YAML 场景、Playwright 执行、视觉匹配（OpenCV 加 OCR）、平台自动检测（Flutter/React/Vue）、学习数据库。安装：npx skills add ksgisang/awt-skill --skill awt -g | AI-powered E2E web testing — eyes and hands for AI coding tools. Declarative YAML scenarios, Playwright execution, visual matching (OpenCV + OCR), platform auto-detection (Flutter/React/Vue), learning DB. Install: npx skills add ksgisang/awt-skill --skill awt -g"
 risk: unknown
 source: "https://github.com/ksgisang/awt-skill"
 ---

@@ -1,6 +1,6 @@
 ---
 name: improve-codebase-architecture
-description: Scan a codebase for deepening opportunities, present them as a visual HTML report, then grill through whichever one you pick.
+description: 扫描代码库寻找可深化之处，以可视化 HTML 报告呈现，然后对你选中的目标进行深入盘问。 | Scan a codebase for deepening opportunities, present them as a visual HTML report, then grill through whichever one you pick.
 ---
 
 # Improve Codebase Architecture

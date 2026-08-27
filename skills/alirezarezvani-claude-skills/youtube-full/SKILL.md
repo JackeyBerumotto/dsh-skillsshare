@@ -1,6 +1,6 @@
 ---
 name: "youtube-full"
-description: "Use when the user needs YouTube transcripts, video search, channel browsing, playlist extraction, or content monitoring. Trigger phrases: 'get the transcript for', 'search YouTube for', 'what are the latest videos on', 'list this playlist', 'monitor this channel', or any request involving a YouTube URL, video ID, or @handle. Do NOT use for downloading video or audio files, YouTube engagement data (likes, comments), or private/age-restricted videos."
+description: "当用户需要 YouTube 字幕文稿、视频搜索、频道浏览、播放列表提取或内容监控时使用。触发语句：「get the transcript for」「search YouTube for」「what are the latest videos on」「list this playlist」「monitor this channel」，或任何涉及 YouTube URL、视频 ID 或 @handle 的请求。不要用于下载视频或音频文件、YouTube 互动数据（点赞、评论）或私有/年龄限制视频。 | Use when the user needs YouTube transcripts, video search, channel browsing, playlist extraction, or content monitoring. Trigger phrases: 'get the transcript for', 'search YouTube for', 'what are the latest videos on', 'list this playlist', 'monitor this channel', or any request involving a YouTube URL, video ID, or @handle. Do NOT use for downloading video or audio files, YouTube engagement data (likes, comments), or private/age-restricted videos."
 license: "MIT"
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: scientific-slides
-description: Build slide decks and presentations for research talks. Use this for making PowerPoint slides, conference presentations, seminar talks, research presentations, thesis defense slides, or any scientific talk. Provides slide structure, design templates, timing guidance, and visual validation. Works with PowerPoint and LaTeX Beamer.
+description: 为学术报告构建幻灯片和演示文稿。适用于制作 PowerPoint 幻灯片、会议演示、研讨会报告、研究汇报、论文答辩幻灯片或任何科学演讲。提供幻灯片结构、设计模板、时间分配指导和视觉校验。支持 PowerPoint 和 LaTeX Beamer。 | Build slide decks and presentations for research talks. Use this for making PowerPoint slides, conference presentations, seminar talks, research presentations, thesis defense slides, or any scientific talk. Provides slide structure, design templates, timing guidance, and visual validation. Works with PowerPoint and LaTeX Beamer.
 allowed-tools: Read Write Edit Bash
 license: MIT license
 required_environment_variables: [{"name": "OPENROUTER_API_KEY", "prompt": "OpenRouter API key for the skill's LLM-powered steps.", "required_for": "optional features"}]

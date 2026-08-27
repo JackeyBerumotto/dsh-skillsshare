@@ -1,7 +1,7 @@
 ---
 name: physics-tuning
 description: >
-  Tune game physics for stable, good-feeling motion — fixed vs variable
+  调优游戏物理以获得稳定、手感良好的运动——固定与可变时间步、渲染插值、质量/重力/阻力、用于阻止穿透的连续碰撞检测（CCD）、修复抖动以及碰撞层/遮罩。引擎无关。当用户提到物理手感、抖动、穿透、固定时间步、FixedUpdate、CCD、弹跳/不稳定物理或碰撞层时使用。 |
   timestep, render interpolation, mass/gravity/drag, continuous collision
   detection (CCD) to stop tunneling, fixing jitter, and collision layers/masks.
   Engine-neutral. Use when the user mentions physics feel, jitter, tunneling,

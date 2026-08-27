@@ -1,6 +1,6 @@
 ---
 name: triaging-windows-with-kape
-description: Run targeted forensic artifact collection and module parsing with KAPE.
+description: 使用 KAPE 运行定向取证痕迹收集与模块解析。 | Run targeted forensic artifact collection and module parsing with KAPE.
 domain: cybersecurity
 subdomain: digital-forensics
 tags:

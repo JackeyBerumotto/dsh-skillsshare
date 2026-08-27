@@ -1,6 +1,6 @@
 ---
 name: opposing-counsel
-description: "Read a contract the way the counterparty's lawyer will — hunting for leverage, not fairness. Use when someone says 'read this like opposing counsel', 'how would the other side attack this agreement', 'find the weaknesses before they do', or before sending or signing any contract. Produces the demand/position letter opposing counsel would actually send, plus an out-of-character debrief with the clause fixes that defang each attack."
+description: "像交易对手的律师那样审读合同——寻找筹码而非公平。当有人说「像对方律师一样读这份合同」「对方会如何攻击这份协议」「抢在他们之前找出弱点」，或在发送或签署任何合同之前使用。产出对方律师真正会发出的要求函/立场函，外加一份跳出角色的复盘，附上能化解每次攻击的条款修订建议。 | Read a contract the way the counterparty's lawyer will — hunting for leverage, not fairness. Use when someone says 'read this like opposing counsel', 'how would the other side attack this agreement', 'find the weaknesses before they do', or before sending or signing any contract. Produces the demand/position letter opposing counsel would actually send, plus an out-of-character debrief with the clause fixes that defang each attack."
 ---
 
 # Opposing Counsel

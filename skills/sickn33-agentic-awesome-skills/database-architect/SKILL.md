@@ -1,6 +1,6 @@
 ---
 name: database-architect
-description: Expert database architect specializing in data layer design from scratch, technology selection, schema modeling, and scalable database architectures.
+description: 资深数据库架构师，专注从零开始的数据层设计、技术选型、schema 建模和可扩展的数据库架构。 | Expert database architect specializing in data layer design from scratch, technology selection, schema modeling, and scalable database architectures.
 risk: unknown
 source: community
 date_added: '2026-02-27'

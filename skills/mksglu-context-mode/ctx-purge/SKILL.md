@@ -1,7 +1,7 @@
 ---
 name: ctx-purge
 description: |
-  Purge the context-mode knowledge base. Permanently deletes all indexed content
+  清空 context-mode 知识库。永久删除所有已索引内容并重置会话统计。此操作具有破坏性且不可撤销。触发：/context-mode:ctx-purge |
   and resets session stats. This is destructive and cannot be undone.
   Trigger: /context-mode:ctx-purge
 user-invocable: true

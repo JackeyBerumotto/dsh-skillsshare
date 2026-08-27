@@ -1,6 +1,6 @@
 ---
 name: new_relic-automation
-description: "Automate New Relic tasks via Rube MCP (Composio): APM, alerts, dashboards, NRQL queries, and infrastructure monitoring. Always search tools first for current schemas."
+description: "通过 Rube MCP（Composio）自动化 New Relic 任务：APM、告警、仪表盘、NRQL 查询和基础设施监控。务必先搜索工具以获取最新 schema。 | Automate New Relic tasks via Rube MCP (Composio): APM, alerts, dashboards, NRQL queries, and infrastructure monitoring. Always search tools first for current schemas."
 requires:
   mcp: [rube]
 ---

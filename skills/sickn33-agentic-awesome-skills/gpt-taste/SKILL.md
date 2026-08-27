@@ -1,6 +1,6 @@
 ---
 name: gpt-taste
-description: "Use when generating elite GSAP-heavy frontend pages with strict AIDA structure, wide hero typography, and gapless bento grids."
+description: "在生成大量使用 GSAP 的顶级前端页面时使用，要求严格的 AIDA 结构、宽幅主视觉排版和无缝隙便当盒网格。 | Use when generating elite GSAP-heavy frontend pages with strict AIDA structure, wide hero typography, and gapless bento grids."
 category: frontend
 risk: safe
 source: community

@@ -1,6 +1,6 @@
 ---
 name: decisive-action
-description: Guides when to ask clarifying questions versus proceed autonomously. Use to reduce unnecessary clarifying questions when intent is clear.
+description: 指导何时提出澄清问题、何时自主推进。用于在意图明确时减少不必要的澄清提问。 | Guides when to ask clarifying questions versus proceed autonomously. Use to reduce unnecessary clarifying questions when intent is clear.
 alwaysApply: true
 category: workflow
 tags:

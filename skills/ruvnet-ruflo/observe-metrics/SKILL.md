@@ -1,6 +1,6 @@
 ---
 name: observe-metrics
-description: Aggregate and display system metrics with anomaly detection for a time period
+description: 聚合并展示某段时间内的系统指标，并带有异常检测 | Aggregate and display system metrics with anomaly detection for a time period
 argument-hint: "[--period 1h]"
 allowed-tools: mcp__claude-flow__memory_search mcp__claude-flow__memory_list mcp__claude-flow__memory_store mcp__claude-flow__agentdb_pattern-search mcp__claude-flow__agentdb_pattern-store mcp__claude-flow__agentdb_semantic-route Bash
 ---

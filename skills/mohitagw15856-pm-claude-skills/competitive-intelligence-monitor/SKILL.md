@@ -1,6 +1,6 @@
 ---
 name: competitive-intelligence-monitor
-description: "Monitor competitor signals and surface strategic implications for your roadmap. Use when asked to monitor competitors, track the competitive landscape, produce a competitive briefing, or understand what has changed in the market this week or month. Produces a structured intelligence brief with high/medium/low priority signals, roadmap implications, and a strategic landscape summary. For a single competitor announcement use competitor-signal-tracker; for a one-off deep dive use competitor-teardown."
+description: "监控竞争对手信号，并为你的路线图揭示战略影响。当被要求监控竞争对手、跟踪竞争格局、产出竞争简报，或了解本周或本月市场发生了什么变化时使用。产出结构化情报简报，包含高/中/低优先级信号、路线图影响与战略格局摘要。单一竞争对手公告请用 competitor-signal-tracker；一次性深度剖析请用 competitor-teardown。 | Monitor competitor signals and surface strategic implications for your roadmap. Use when asked to monitor competitors, track the competitive landscape, produce a competitive briefing, or understand what has changed in the market this week or month. Produces a structured intelligence brief with high/medium/low priority signals, roadmap implications, and a strategic landscape summary. For a single competitor announcement use competitor-signal-tracker; for a one-off deep dive use competitor-teardown."
 ---
 
 # Competitive Intelligence Monitor Skill

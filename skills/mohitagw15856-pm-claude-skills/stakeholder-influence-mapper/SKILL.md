@@ -1,6 +1,6 @@
 ---
 name: stakeholder-influence-mapper
-description: "Map stakeholders for a product decision and produce a tailored influence strategy with talking points. Use when asked to get alignment, build consensus, get buy-in from engineering or finance or legal, navigate organisational resistance, or plan stakeholder conversations for a major initiative. Produces a stakeholder map, recommended conversation sequence, and tailored talking points per stakeholder."
+description: "为产品决策绘制利益相关者地图，并产出量身定制的影响力策略与谈话要点。当被要求达成一致、建立共识、争取工程、财务或法务的支持，化解组织阻力，或为重大举措规划利益相关者沟通时使用。产出利益相关者地图、建议的沟通顺序，以及针对每位相关者的定制谈话要点。 | Map stakeholders for a product decision and produce a tailored influence strategy with talking points. Use when asked to get alignment, build consensus, get buy-in from engineering or finance or legal, navigate organisational resistance, or plan stakeholder conversations for a major initiative. Produces a stakeholder map, recommended conversation sequence, and tailored talking points per stakeholder."
 ---
 
 # Stakeholder Influence Mapper Skill

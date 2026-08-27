@@ -1,6 +1,6 @@
 ---
 name: shared-tooling-git-hooks
-description: Husky v9 setup, lint-staged v16 patterns, commitlint with conventional commits, CI/production handling, monorepo setup, migration from v8
+description: Husky v9 配置、lint-staged v16 模式、commitlint 与约定式提交、CI/生产环境处理、monorepo 配置以及从 v8 迁移。 | Husky v9 setup, lint-staged v16 patterns, commitlint with conventional commits, CI/production handling, monorepo setup, migration from v8
 ---
 
 # Git Hooks

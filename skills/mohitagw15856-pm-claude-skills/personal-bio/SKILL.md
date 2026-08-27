@@ -1,6 +1,6 @@
 ---
 name: personal-bio
-description: "Write a professional bio in the three lengths you actually need. Use when asked to write a bio, an 'about me', a speaker/author bio, or a short profile blurb. Produces three ready-to-use versions — a one-liner, a short (~50-word) bio, and a long (~150-word) bio — in a consistent third-person voice, plus a first-person variant."
+description: "撰写你真正需要的三种长度的专业简介。在被要求编写简介、「关于我」、讲者/作者简介或简短的个人介绍时使用。产出三个可直接使用的版本——一句话简介、短简介（约 50 词）和长简介（约 150 词）——以一致的第三人称口吻，另附第一人称变体。 | Write a professional bio in the three lengths you actually need. Use when asked to write a bio, an 'about me', a speaker/author bio, or a short profile blurb. Produces three ready-to-use versions — a one-liner, a short (~50-word) bio, and a long (~150-word) bio — in a consistent third-person voice, plus a first-person variant."
 ---
 
 # Personal Bio Skill

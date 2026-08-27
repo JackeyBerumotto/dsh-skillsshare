@@ -1,6 +1,6 @@
 ---
 name: performance-profiling
-description: "Performance profiling principles. Measurement, analysis, and optimization techniques."
+description: "性能分析原则：测量、分析与优化技术。 | Performance profiling principles. Measurement, analysis, and optimization techniques."
 risk: unknown
 source: community
 date_added: "2026-02-27"

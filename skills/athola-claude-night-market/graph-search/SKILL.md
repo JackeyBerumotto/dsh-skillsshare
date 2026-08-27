@@ -1,6 +1,6 @@
 ---
 name: graph-search
-description: Searches the code knowledge graph by function, class, or type using FTS5 full-text search. Use when locating code entities by name or qualified path.
+description: 使用 FTS5 全文搜索，按函数、类或类型搜索代码知识图谱。在按名称或限定路径定位代码实体时使用。 | Searches the code knowledge graph by function, class, or type using FTS5 full-text search. Use when locating code entities by name or qualified path.
 model_hint: standard
 ---
 

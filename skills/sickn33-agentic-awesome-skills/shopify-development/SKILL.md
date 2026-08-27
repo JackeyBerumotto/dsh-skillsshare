@@ -1,6 +1,6 @@
 ---
 name: shopify-development
-description: Build Shopify apps, extensions, themes using GraphQL Admin API, Shopify CLI, Polaris UI, and Liquid.
+description: 使用 GraphQL Admin API、Shopify CLI、Polaris UI 和 Liquid 构建 Shopify 应用、扩展与主题。 | Build Shopify apps, extensions, themes using GraphQL Admin API, Shopify CLI, Polaris UI, and Liquid.
 risk: unknown
 source: community
 date_added: '2026-02-27'

@@ -1,6 +1,6 @@
 ---
 name: cost-diff
-description: Snapshot delta between two cost-summary JSON outputs. PR-level cost regression detection — answers "what changed between these two specific snapshots?". Pairs with cost-summary's stable JSON contract.
+description: 两份 cost-summary JSON 输出之间的快照差异。PR 级成本回归检测——回答「这两个特定快照之间发生了什么变化？」。与 cost-summary 的稳定 JSON 契约配合使用。 | Snapshot delta between two cost-summary JSON outputs. PR-level cost regression detection — answers "what changed between these two specific snapshots?". Pairs with cost-summary's stable JSON contract.
 argument-hint: "--baseline <baseline.json> --current <current.json> [--alert-on-pct N] [--alert-on-usd N] [--alert-on-class-pct <class>:N[,<class>:N]] [--format table|json]"
 allowed-tools: Bash
 ---

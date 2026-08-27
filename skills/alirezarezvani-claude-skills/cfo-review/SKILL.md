@@ -1,6 +1,6 @@
 ---
 name: "cfo-review"
-description: "/cs:cfo-review <plan> — Numerate-skeptic interrogation of any plan that touches money. Unit economics, runway, dilution, capital allocation. Use when a plan commits meaningful spend — e.g. a hiring wave, a fundraise decision, or a new channel budget."
+description: "/cs:cfo-review <plan>——以数字怀疑者姿态审讯任何涉及资金的计划：单位经济模型、跑道资金、股权稀释、资本配置。适用于计划承诺重大支出时——例如一轮大规模招聘、融资决策或新的渠道预算。 | /cs:cfo-review <plan> — Numerate-skeptic interrogation of any plan that touches money. Unit economics, runway, dilution, capital allocation. Use when a plan commits meaningful spend — e.g. a hiring wave, a fundraise decision, or a new channel budget."
 ---
 
 # /cs:cfo-review — CFO Forcing Questions

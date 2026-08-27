@@ -1,6 +1,6 @@
 ---
 name: audio-transcriber
-description: "Transform audio recordings into professional Markdown documentation with intelligent summaries using LLM integration"
+description: "结合 LLM 集成，将音频录音转换为带智能摘要的专业 Markdown 文档。 | Transform audio recordings into professional Markdown documentation with intelligent summaries using LLM integration"
 category: content
 risk: safe
 source: community

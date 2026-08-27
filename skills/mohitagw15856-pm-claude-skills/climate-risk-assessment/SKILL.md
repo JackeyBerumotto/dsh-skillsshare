@@ -1,6 +1,6 @@
 ---
 name: climate-risk-assessment
-description: "Assess physical and transition climate risk for a site, product, or portfolio with scenario-based structure. Use when asked to run a climate risk assessment, evaluate physical or transition risk, prepare TCFD/ESRS-style climate risk analysis, or assess how climate scenarios affect an asset or business. Produces a hazard-exposure-vulnerability matrix across 2030/2040/2050 horizons and labelled scenarios, with financial-impact ranges, confidence levels, and adaptation options."
+description: "以情景化结构评估场地、产品或投资组合的实体与转型气候风险。当被要求开展气候风险评估、评估实体或转型风险、准备 TCFD／ESRS 风格的气候风险分析，或评估气候情景对资产或业务的影响时使用。产出覆盖 2030／2040／2050 各时间跨度和标记情景的危害-暴露-脆弱性矩阵，包含财务影响区间、置信水平和适应方案。 | Assess physical and transition climate risk for a site, product, or portfolio with scenario-based structure. Use when asked to run a climate risk assessment, evaluate physical or transition risk, prepare TCFD/ESRS-style climate risk analysis, or assess how climate scenarios affect an asset or business. Produces a hazard-exposure-vulnerability matrix across 2030/2040/2050 horizons and labelled scenarios, with financial-impact ranges, confidence levels, and adaptation options."
 ---
 
 # Climate Risk Assessment Skill

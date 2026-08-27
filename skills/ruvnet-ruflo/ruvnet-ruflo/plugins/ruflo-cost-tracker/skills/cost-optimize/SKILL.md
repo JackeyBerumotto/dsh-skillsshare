@@ -1,6 +1,6 @@
 ---
 name: cost-optimize
-description: Analyze token usage patterns and recommend cost optimizations with estimated savings
+description: 分析令牌使用模式并推荐成本优化方案，附预估节省金额 | Analyze token usage patterns and recommend cost optimizations with estimated savings
 argument-hint: ""
 allowed-tools: mcp__claude-flow__memory_search mcp__claude-flow__memory_list mcp__claude-flow__memory_store mcp__claude-flow__agentdb_pattern-search mcp__claude-flow__agentdb_pattern-store mcp__claude-flow__agentdb_semantic-route mcp__claude-flow__hooks_model-outcome Bash
 ---

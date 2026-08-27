@@ -2,7 +2,7 @@
 name: testing-visual-regression
 version: 1.0.0
 description: |
-  Detect visual changes in UI components using screenshot comparison.
+  通过截图对比检测 UI 组件的视觉变化。当需要检测意外 UI 变更或像素差异时使用。触发短语如「test visual changes」「compare screenshots」或「detect UI regressions」。 |
   Use when detecting unintended UI changes or pixel differences.
   Trigger with phrases like "test visual changes", "compare screenshots", or "detect UI regressions".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(test:visual-*)

@@ -1,6 +1,6 @@
 ---
 name: ruby-pro
-description: Write idiomatic Ruby code with metaprogramming, Rails patterns, and performance optimization. Specializes in Ruby on Rails, gem development, and testing frameworks.
+description: 编写地道的 Ruby 代码，运用元编程、Rails 模式和性能优化。专精 Ruby on Rails、gem 开发和测试框架。 | Write idiomatic Ruby code with metaprogramming, Rails patterns, and performance optimization. Specializes in Ruby on Rails, gem development, and testing frameworks.
 risk: unknown
 source: community
 date_added: '2026-02-27'

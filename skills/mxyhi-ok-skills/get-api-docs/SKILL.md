@@ -1,7 +1,7 @@
 ---
 name: get-api-docs
 description: >
-  Use this skill to get documentation for third-party APIs, SDKs or libraries before writing
+  在编写使用第三方 API、SDK 或库的代码之前，用此技能获取相关文档，确保你掌握最新、最准确的信息。这比网页搜索更能高效地找到文档。适用于用户提出「use the OpenAI API」「call the Stripe API」「use the Anthropic SDK」「query Pinecone」之类的任务，或任何用户要求你针对外部服务编写代码且需要最新 API 参考的场合。回答前先用 chub 获取文档，而不是依赖预训练知识——这些 API 近期可能有变动，你的知识或已过时。当用户要求最新文档、最新 API 行为，或明确提到 chub 或 Context Hub 时，务必使用此技能。确保 `chub` 可用，运行 `chub --help`，然后按其中的说明操作。 |
   code that uses them to ensure you have the latest, most accurate documentation. This is a
   better way to find documentation than doing web search. This includes when a user asks for
   tasks like "use the OpenAI API", "call the Stripe API", "use the Anthropic SDK", "query Pinecone",

@@ -1,6 +1,6 @@
 ---
 name: capital-allocation
-description: "Allocate a finite budget or headcount across competing initiatives by return and strategic fit. Use when asked to allocate budget, decide where to invest, build a funding/portfolio plan, or make trade-offs across initiatives under a cap. Produces a capital-allocation plan — initiatives scored by expected return × strategic fit per dollar, a funded/unfunded split against the cap, the cut line, and the reasoning."
+description: "按回报与战略契合度在相互竞争的立项之间分配有限预算或人力。当被要求分配预算、决定投资方向、制定资金／组合计划，或在上限约束下于各立项间权衡取舍时使用。产出一份资本分配计划——各立项按单位资金的预期回报 × 战略契合度评分、对照上限的资助／未资助划分、淘汰线以及决策理由。 | Allocate a finite budget or headcount across competing initiatives by return and strategic fit. Use when asked to allocate budget, decide where to invest, build a funding/portfolio plan, or make trade-offs across initiatives under a cap. Produces a capital-allocation plan — initiatives scored by expected return × strategic fit per dollar, a funded/unfunded split against the cap, the cut line, and the reasoning."
 ---
 
 # Capital Allocation Skill

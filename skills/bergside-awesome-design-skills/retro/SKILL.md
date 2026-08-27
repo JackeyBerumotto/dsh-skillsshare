@@ -1,6 +1,6 @@
 ---
 name: retro
-description: Throwback design with vintage-inspired typography, high-contrast retro palettes, and nostalgic visual elements.
+description: 复古风格设计，采用怀旧风排版、高对比度复古配色和充满怀旧感的视觉元素。 | Throwback design with vintage-inspired typography, high-contrast retro palettes, and nostalgic visual elements.
 license: MIT
 metadata:
   author: typeui.sh

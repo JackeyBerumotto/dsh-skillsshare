@@ -1,6 +1,6 @@
 ---
 name: tailwind-patterns
-description: "Tailwind CSS v4 principles. CSS-first configuration, container queries, modern patterns, design token architecture."
+description: "Tailwind CSS v4 原则：CSS 优先配置、容器查询、现代模式、设计令牌架构。 | Tailwind CSS v4 principles. CSS-first configuration, container queries, modern patterns, design token architecture."
 risk: unknown
 source: community
 date_added: "2026-02-27"

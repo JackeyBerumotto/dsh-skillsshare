@@ -1,6 +1,6 @@
 ---
 name: web-games
-description: "Web browser game development principles. Framework selection, WebGPU, optimization, PWA."
+description: "Web 浏览器游戏开发原理：框架选型、WebGPU、性能优化和 PWA。 | Web browser game development principles. Framework selection, WebGPU, optimization, PWA."
 risk: unknown
 source: community
 date_added: "2026-02-27"

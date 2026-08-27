@@ -1,6 +1,6 @@
 ---
 name: aws-penetration-testing
-description: "Provide comprehensive techniques for penetration testing AWS cloud environments. Covers IAM enumeration, privilege escalation, SSRF to metadata endpoint, S3 bucket exploitation, Lambda code extraction, and persistence techniques for red team operations."
+description: "提供对 AWS 云环境进行渗透测试的全面技术。涵盖 IAM 枚举、权限提升、经 SSRF 访问元数据端点、S3 存储桶利用、Lambda 代码提取和持久化技术，适用于红队行动。 | Provide comprehensive techniques for penetration testing AWS cloud environments. Covers IAM enumeration, privilege escalation, SSRF to metadata endpoint, S3 bucket exploitation, Lambda code extraction, and persistence techniques for red team operations."
 risk: offensive
 source: community
 author: zebbern

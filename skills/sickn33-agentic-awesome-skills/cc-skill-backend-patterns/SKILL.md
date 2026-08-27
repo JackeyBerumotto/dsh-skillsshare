@@ -1,6 +1,6 @@
 ---
 name: cc-skill-backend-patterns
-description: "Backend architecture patterns, API design, database optimization, and server-side best practices for Node.js, Express, and Next.js API routes."
+description: "面向 Node.js、Express 和 Next.js API 路由的后端架构模式、API 设计、数据库优化与服务端最佳实践。 | Backend architecture patterns, API design, database optimization, and server-side best practices for Node.js, Express, and Next.js API routes."
 risk: unknown
 source: community
 date_added: "2026-02-27"

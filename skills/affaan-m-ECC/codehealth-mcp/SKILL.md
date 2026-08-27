@@ -1,6 +1,6 @@
 ---
 name: codehealth-mcp
-description: Real-time structural Code Health via CodeScene MCP — review before edits, verify score deltas after changes, gate commits and PRs. Use when reviewing code quality, refactoring, checking if AI changes degraded a file, or before commit/PR.
+description: 通过 CodeScene MCP 进行实时的结构性代码健康检查——编辑前审查、修改后验证分数变化，并对提交和 PR 设置门禁。在审查代码质量、重构、检查 AI 修改是否劣化了某个文件，或在提交/PR 之前使用。 | Real-time structural Code Health via CodeScene MCP — review before edits, verify score deltas after changes, gate commits and PRs. Use when reviewing code quality, refactoring, checking if AI changes degraded a file, or before commit/PR.
 metadata:
   origin: community
 ---

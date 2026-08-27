@@ -2,7 +2,7 @@
 name: fuzzing-apis
 version: 1.0.0
 description: |
-  Perform API fuzzing to discover edge cases, crashes, and security vulnerabilities.
+  执行 API 模糊测试以发现边界情况、崩溃和安全漏洞。在执行专项测试时使用。触发短语如「fuzz the API」「run fuzzing tests」或「discover edge cases」。 |
   Use when performing specialized testing.
   Trigger with phrases like "fuzz the API", "run fuzzing tests", or "discover edge cases".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(test:fuzz-*)

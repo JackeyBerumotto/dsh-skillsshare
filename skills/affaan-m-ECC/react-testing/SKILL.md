@@ -1,6 +1,6 @@
 ---
 name: react-testing
-description: React component testing with React Testing Library, Vitest/Jest, MSW for network mocking, accessibility assertions with axe, and the decision boundary between component tests and Playwright/Cypress end-to-end runs. Use when writing or fixing tests for React components, hooks, or pages.
+description: 使用 React Testing Library、Vitest/Jest、用于网络模拟的 MSW 以及基于 axe 的无障碍断言进行 React 组件测试，并明确组件测试与 Playwright/Cypress 端到端运行之间的决策边界。在编写或修复 React 组件、hooks 或页面的测试时使用。 | React component testing with React Testing Library, Vitest/Jest, MSW for network mocking, accessibility assertions with axe, and the decision boundary between component tests and Playwright/Cypress end-to-end runs. Use when writing or fixing tests for React components, hooks, or pages.
 metadata:
   origin: ECC
 ---

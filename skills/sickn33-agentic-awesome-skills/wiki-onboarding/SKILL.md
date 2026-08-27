@@ -1,6 +1,6 @@
 ---
 name: wiki-onboarding
-description: "Generate two complementary onboarding documents that together give any engineer — from newcomer to principal — a complete understanding of a codebase. Use when user asks for onboarding docs or getting-started guides, user runs /deep-wiki, or user wants to help new team members understand a codebase."
+description: "生成两份互补的入职文档，让任何工程师——从新人到首席——都能完整理解一个代码库。当用户要求入职文档或入门指南、运行 /deep-wiki，或想帮助新团队成员理解代码库时使用。 | Generate two complementary onboarding documents that together give any engineer — from newcomer to principal — a complete understanding of a codebase. Use when user asks for onboarding docs or getting-started guides, user runs /deep-wiki, or user wants to help new team members understand a codebase."
 risk: unknown
 source: community
 date_added: "2026-02-27"

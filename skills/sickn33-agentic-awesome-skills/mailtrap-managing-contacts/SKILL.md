@@ -1,6 +1,6 @@
 ---
 name: mailtrap-managing-contacts
-description: Manage Mailtrap contacts, lists, segments, custom fields, imports, CRM syncs, and campaign audiences through the UI or API.
+description: 通过 UI 或 API 管理 Mailtrap 的联系人、列表、分段、自定义字段、导入、CRM 同步与营销活动受众。 | Manage Mailtrap contacts, lists, segments, custom fields, imports, CRM syncs, and campaign audiences through the UI or API.
 risk: critical
 source: community
 date_added: "2026-06-19"

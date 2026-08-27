@@ -1,6 +1,6 @@
 ---
 name: pricing-strategy
-description: "Structure pricing strategy decisions, packaging options, and tier design for SaaS and digital products. Use when reviewing or setting pricing, designing pricing tiers, evaluating freemium vs paid, or preparing a pricing change. Produces a pricing strategy recommendation with model rationale, tier structure, competitive positioning, and rollout plan."
+description: "为 SaaS 和数字产品构建定价策略决策、打包方案和档位设计。当需要审视或设定价格、设计定价档位、评估免费增值与付费模式，或准备调价时使用。产出定价策略建议，包含模式依据、档位结构、竞争定位和推出计划。 | Structure pricing strategy decisions, packaging options, and tier design for SaaS and digital products. Use when reviewing or setting pricing, designing pricing tiers, evaluating freemium vs paid, or preparing a pricing change. Produces a pricing strategy recommendation with model rationale, tier structure, competitive positioning, and rollout plan."
 ---
 
 # Pricing Strategy Skill

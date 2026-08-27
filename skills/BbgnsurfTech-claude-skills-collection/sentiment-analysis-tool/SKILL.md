@@ -1,7 +1,5 @@
 ---
-description: This skill enables claude to analyze the sentiment of text data. it identifies
-  the emotional tone expressed in text, classifying it as positive, negative, or neutral.
-  use this skill when a user requests sentiment analysis, opinion mining, or emoti...
+description: "本技能使 claude 能够分析文本数据的情感。它识别文本中表达的情绪基调，将其归类为正面、负面或中性。当用户请求情感分析、观点挖掘或情绪基调分析时使用本技能。 | This skill enables claude to analyze the sentiment of text data. it identifies the emotional tone expressed in text, classifying it as positive, negative, or neutral. use this skill when a user requests sentiment analysis, opinion mining, or emoti..."
 allowed-tools:
 - Read
 - Write

@@ -1,6 +1,6 @@
 ---
 name: wwas
-description: "Create product backlog items in Why-What-Acceptance format — independent, valuable, testable items with strategic context. Use when writing structured backlog items, breaking features into work items, or using the WWA format."
+description: "以「为什么—做什么—验收标准」格式创建产品待办条目——独立、有价值、可测试且带战略背景的条目。当撰写结构化的待办条目、将功能拆分为工作项或使用 WWA 格式时使用。 | Create product backlog items in Why-What-Acceptance format — independent, valuable, testable items with strategic context. Use when writing structured backlog items, breaking features into work items, or using the WWA format."
 ---
 # Why-What-Acceptance (WWA)
 

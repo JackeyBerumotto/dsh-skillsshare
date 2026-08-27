@@ -1,6 +1,6 @@
 ---
 name: landing-page-copy
-description: "Write full landing-page copy that converts — section by section. Use when asked to write a landing page, homepage copy, a product page, or copy for a marketing site. Produces complete copy for every section (hero, problem, solution, social proof, features-as-benefits, objections/FAQ, final CTA) with a clear single conversion goal and one primary call to action."
+description: "逐区块撰写高转化的完整落地页文案。在被要求编写落地页、首页文案、产品页或营销网站文案时使用。产出每个区块的完整文案（hero、问题、解决方案、社会证明、功能即利益、异议/FAQ、最终 CTA），带单一明确的转化目标和唯一主行动号召。 | Write full landing-page copy that converts — section by section. Use when asked to write a landing page, homepage copy, a product page, or copy for a marketing site. Produces complete copy for every section (hero, problem, solution, social proof, features-as-benefits, objections/FAQ, final CTA) with a clear single conversion goal and one primary call to action."
 ---
 
 # Landing Page Copy Skill

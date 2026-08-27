@@ -1,6 +1,6 @@
 ---
 name: "named-persona-adversarial-review"
-description: "Code review through the lens of real engineers' documented philosophies (Torvalds, Thompson, Carmack, Kent Beck, Jobs, Cagan). Complements abstract-role adversarial review with named, sourced perspectives. Use when automated review findings feel generic, when a PR has architectural or UX impact, or when the author wants pre-submit hardening beyond standard checks."
+description: "透过真实工程师有据可查的理念（Torvalds、Thompson、Carmack、Kent Beck、Jobs、Cagan）进行代码审查。以具名且有出处的视角补充抽象角色的对抗性审查。当自动化审查结果显得泛泛而谈、PR 具有架构或 UX 影响，或作者希望在提交前进行超出标准检查的强化时使用。 | Code review through the lens of real engineers' documented philosophies (Torvalds, Thompson, Carmack, Kent Beck, Jobs, Cagan). Complements abstract-role adversarial review with named, sourced perspectives. Use when automated review findings feel generic, when a PR has architectural or UX impact, or when the author wants pre-submit hardening beyond standard checks."
 ---
 
 # Named-Persona Adversarial Review

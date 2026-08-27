@@ -1,6 +1,6 @@
 ---
 name: content-style-guide
-description: "Create a content style guide / voice & tone guide so everyone writes consistently. Use when asked to write a content style guide, a voice and tone guide, editorial guidelines, or UX-writing standards. Produces a usable guide — voice principles with do/don't examples, tone-by-context, mechanics (grammar, capitalisation, formatting), terminology/word list, and accessibility/inclusivity rules — that a team can actually apply."
+description: "创建内容风格指南或语调指南，让所有人的写作保持一致。当被要求撰写内容风格指南、语调与语气指南、编辑规范或 UX 写作标准时使用。产出一套切实可用的指南——含正反示例的语调原则、按场景区分的语气、行文规范（语法、大小写、格式）、术语词表以及无障碍与包容性规则——团队可直接落地应用。 | Create a content style guide / voice & tone guide so everyone writes consistently. Use when asked to write a content style guide, a voice and tone guide, editorial guidelines, or UX-writing standards. Produces a usable guide — voice principles with do/don't examples, tone-by-context, mechanics (grammar, capitalisation, formatting), terminology/word list, and accessibility/inclusivity rules — that a team can actually apply."
 ---
 
 # Content Style Guide Skill

@@ -1,6 +1,6 @@
 ---
 name: create-prd
-description: "Create a Product Requirements Document using a comprehensive 8-section template covering problem, objectives, segments, value propositions, solution, and release planning. Use when writing a PRD, documenting product requirements, preparing a feature spec, or reviewing an existing PRD."
+description: "使用涵盖问题、目标、细分市场、价值主张、解决方案和发布规划的 8 节完整模板创建产品需求文档。当撰写 PRD、记录产品需求、准备功能规格说明或评审现有 PRD 时使用。 | Create a Product Requirements Document using a comprehensive 8-section template covering problem, objectives, segments, value propositions, solution, and release planning. Use when writing a PRD, documenting product requirements, preparing a feature spec, or reviewing an existing PRD."
 ---
 
 # Create a Product Requirements Document

@@ -1,6 +1,6 @@
 ---
 name: api-search-elasticsearch
-description: Elasticsearch patterns -- client setup, index management, search DSL, aggregations, vector search, bulk operations, deep pagination
+description: Elasticsearch 模式——客户端设置、索引管理、搜索 DSL、聚合、向量搜索、批量操作、深度分页 | Elasticsearch patterns -- client setup, index management, search DSL, aggregations, vector search, bulk operations, deep pagination
 ---
 
 # Elasticsearch Patterns

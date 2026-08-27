@@ -1,7 +1,7 @@
 ---
 name: seo-plan
 description: >
-  Strategic SEO planning for new or existing websites. Industry-specific
+  面向新建或现有网站的 SEO 战略规划。提供行业专用模板、竞争分析、内容策略和实施路线图。当用户提到「SEO plan」「SEO strategy」「content strategy」「site architecture」或「SEO roadmap」时使用。 |
   templates, competitive analysis, content strategy, and implementation
   roadmap. Use when user says "SEO plan", "SEO strategy", "content strategy",
   "site architecture", or "SEO roadmap".

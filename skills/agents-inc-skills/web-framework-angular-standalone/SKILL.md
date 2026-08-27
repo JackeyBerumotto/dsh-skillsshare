@@ -1,6 +1,6 @@
 ---
 name: web-framework-angular-standalone
-description: Angular 17-19 standalone components, signals, control flow, dependency injection patterns
+description: Angular 17-19 独立组件、信号、控制流与依赖注入模式 | Angular 17-19 standalone components, signals, control flow, dependency injection patterns
 ---
 
 # Angular Standalone Components

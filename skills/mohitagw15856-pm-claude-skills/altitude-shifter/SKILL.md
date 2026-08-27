@@ -1,6 +1,6 @@
 ---
 name: altitude-shifter
-description: "Re-pitch one piece of content for four audiences — the board, the engineers, a customer, a new hire — with a delta table showing what changed between altitudes and why. Use when asked to rewrite this for execs, explain this to the team, make this customer-facing, or say this four ways. Produces the four versions plus the delta table of what was cut, added, and reframed per altitude."
+description: "将一段内容面向四类受众重新表述——董事会、工程师、客户、新员工——并附一张差异表，说明各层级之间改动了什么以及原因。当被要求为高管重写、向团队解释、改为面向客户，或用四种方式表达时使用。产出四个版本，外加一张按层级展示删减、新增和重新框定内容的差异表。 | Re-pitch one piece of content for four audiences — the board, the engineers, a customer, a new hire — with a delta table showing what changed between altitudes and why. Use when asked to rewrite this for execs, explain this to the team, make this customer-facing, or say this four ways. Produces the four versions plus the delta table of what was cut, added, and reframed per altitude."
 ---
 
 # Altitude Shifter Skill

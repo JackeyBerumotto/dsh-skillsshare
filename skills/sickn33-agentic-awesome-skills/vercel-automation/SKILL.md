@@ -1,6 +1,6 @@
 ---
 name: vercel-automation
-description: "Automate Vercel tasks via Rube MCP (Composio): manage deployments, domains, DNS, env vars, projects, and teams. Always search tools first for current schemas."
+description: "通过 Rube MCP（Composio）自动化 Vercel 任务：管理部署、域名、DNS、环境变量、项目和团队。务必先搜索工具以获取最新 schema。 | Automate Vercel tasks via Rube MCP (Composio): manage deployments, domains, DNS, env vars, projects, and teams. Always search tools first for current schemas."
 risk: critical
 source: community
 date_added: "2026-02-27"

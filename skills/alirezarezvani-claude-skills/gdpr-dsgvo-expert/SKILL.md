@@ -1,6 +1,6 @@
 ---
 name: "gdpr-dsgvo-expert"
-description: GDPR and German DSGVO compliance automation. Scans codebases for privacy risks, generates DPIA documentation, tracks data subject rights requests with Art. 12(3) one-month deadlines. Use when running GDPR compliance assessments, privacy audits, data protection planning, DPIA generation, or data subject rights (DSAR) management (e.g., 'check this service for GDPR risks', 'track an access request deadline'). Final compliance determinations route to the DPO or legal counsel.
+description: GDPR 与德国 DSGVO 合规自动化。扫描代码库隐私风险、生成 DPIA 文档、按第 12（3）条一个月期限跟踪数据主体权利请求。在开展 GDPR 合规评估、隐私审计、数据保护规划、DPIA 生成或数据主体权利（DSAR）管理时使用（例如「检查这个服务的 GDPR 风险」「跟踪一项访问请求的期限」）。最终合规裁定交由 DPO 或法律顾问。 | GDPR and German DSGVO compliance automation. Scans codebases for privacy risks, generates DPIA documentation, tracks data subject rights requests with Art. 12(3) one-month deadlines. Use when running GDPR compliance assessments, privacy audits, data protection planning, DPIA generation, or data subject rights (DSAR) management (e.g., 'check this service for GDPR risks', 'track an access request deadline'). Final compliance determinations route to the DPO or legal counsel.
 ---
 
 # GDPR/DSGVO Expert

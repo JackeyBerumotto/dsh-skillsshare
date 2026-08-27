@@ -1,6 +1,6 @@
 ---
 name: compliance-checklist
-description: "Generate a prioritised compliance checklist for GDPR, SOC 2, ISO 27001, FCA, HIPAA, or other frameworks with a gap analysis. Use when asked for a compliance checklist, gap analysis, readiness assessment, or audit preparation for any regulatory framework. Produces a structured checklist with prioritised gaps, quick wins, and evidence requirements. Optimised for Opus 4.7 and newer models. Not a substitute for legal or compliance professional advice."
+description: "为 GDPR、SOC 2、ISO 27001、FCA、HIPAA 或其他框架生成带差距分析的按优先级排序的合规清单。当被要求为任何监管框架提供合规清单、差距分析、就绪评估或审计准备时使用。产出结构化清单，含按优先级排序的差距、速赢项与证据要求。针对 Opus 4.7 及更新模型优化。不能替代法律或合规专业意见。 | Generate a prioritised compliance checklist for GDPR, SOC 2, ISO 27001, FCA, HIPAA, or other frameworks with a gap analysis. Use when asked for a compliance checklist, gap analysis, readiness assessment, or audit preparation for any regulatory framework. Produces a structured checklist with prioritised gaps, quick wins, and evidence requirements. Optimised for Opus 4.7 and newer models. Not a substitute for legal or compliance professional advice."
 ---
 
 # Compliance Checklist Skill

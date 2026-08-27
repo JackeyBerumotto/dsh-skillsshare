@@ -1,6 +1,6 @@
 ---
 name: ui-review
-description: Review UI code for design system compliance, accessibility, and best practices
+description: 审查 UI 代码的设计系统合规性、无障碍性和最佳实践。 | Review UI code for design system compliance, accessibility, and best practices
 risk: unknown
 source: https://github.com/bitjaru/styleseed/tree/main/engine/.claude/skills/ss-review
 source_repo: bitjaru/styleseed

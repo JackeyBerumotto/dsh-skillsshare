@@ -1,6 +1,6 @@
 ---
 name: privacy-by-design
-description: "Use when building apps that collect user data. Ensures privacy protections are built in from the start—data minimization, consent, encryption."
+description: "在构建收集用户数据的应用时使用。确保隐私保护从一开始就内建——数据最小化、知情同意、加密。 | Use when building apps that collect user data. Ensures privacy protections are built in from the start—data minimization, consent, encryption."
 risk: safe
 source: community
 date_added: "2026-02-23"

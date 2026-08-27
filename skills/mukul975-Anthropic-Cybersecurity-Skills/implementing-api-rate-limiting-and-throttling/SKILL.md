@@ -1,14 +1,6 @@
 ---
 name: implementing-api-rate-limiting-and-throttling
-description: 'Implements API rate limiting and throttling controls using token bucket,
-  sliding window, and fixed window algorithms to protect against brute force attacks,
-  credential stuffing, resource exhaustion, and API abuse. The engineer configures
-  per-user, per-IP, and per-endpoint rate limits using Redis-backed counters, API
-  gateway plugins, or application middleware, and implements proper HTTP 429 responses
-  with Retry-After headers. Activates for requests involving rate limiting implementation,
-  API throttling setup, request quota management, or API abuse prevention.
-
-  '
+description: "使用令牌桶、滑动窗口和固定窗口算法实现 API 限流与节流控制，防范暴力破解、撞库、资源耗尽和 API 滥用。工程师使用基于 Redis 的计数器、API 网关插件或应用中间件配置按用户、按 IP 和按端点的速率限制，并实现带 Retry-After 头的正确 HTTP 429 响应。当请求涉及限流实现、API 节流设置、请求配额管理或 API 滥用防范时激活。 | Implements API rate limiting and throttling controls using token bucket, sliding window, and fixed window algorithms to protect against brute force attacks, credential stuffing, resource exhaustion, and API abuse. The engineer configures per-user, per-IP, and per-endpoint rate limits using Redis-backed counters, API gateway plugins, or application middleware, and implements proper HTTP 429 responses with Retry-After headers. Activates for requests involving rate limiting implementation, API throttling setup, request quota management, or API abuse prevention."
 domain: cybersecurity
 subdomain: api-security
 tags:

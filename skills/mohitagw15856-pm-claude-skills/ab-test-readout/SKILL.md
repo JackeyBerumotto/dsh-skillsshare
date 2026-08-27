@@ -1,6 +1,6 @@
 ---
 name: ab-test-readout
-description: "Analyse a finished A/B test and write the readout — the result, whether it's statistically and practically significant, what it means, and the ship/no-ship call. Use when asked to analyse experiment results, write an A/B test readout, interpret test data, or decide whether to ship a variant. Produces a clear verdict with the lift and confidence, segment cuts, the risks (peeking, novelty, sample), and a recommendation. Distinct from planning a test — this reads results."
+description: "分析已完成的 A/B 测试并撰写报告——结果是什么、是否具有统计与实践显著性、意味着什么，以及上线与否的决断。当被要求分析实验结果、撰写 A/B 测试报告、解读测试数据，或决定是否上线某个变体时使用。产出清晰的判定，包含提升幅度与置信度、细分切面、风险（偷看、新奇效应、样本量）和建议。与测试规划不同——本技能面向结果解读。 | Analyse a finished A/B test and write the readout — the result, whether it's statistically and practically significant, what it means, and the ship/no-ship call. Use when asked to analyse experiment results, write an A/B test readout, interpret test data, or decide whether to ship a variant. Produces a clear verdict with the lift and confidence, segment cuts, the risks (peeking, novelty, sample), and a recommendation. Distinct from planning a test — this reads results."
 ---
 
 # A/B Test Readout Skill

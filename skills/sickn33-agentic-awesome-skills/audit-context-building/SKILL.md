@@ -1,6 +1,6 @@
 ---
 name: audit-context-building
-description: Enables ultra-granular, line-by-line code analysis to build deep architectural context before vulnerability or bug finding.
+description: 支持超细粒度的逐行代码分析，在寻找漏洞或缺陷之前建立深入的架构上下文。 | Enables ultra-granular, line-by-line code analysis to build deep architectural context before vulnerability or bug finding.
 risk: unknown
 source: community
 ---

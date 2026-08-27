@@ -1,6 +1,6 @@
 ---
 name: inventory-policy
-description: "Set inventory policy for an item class: segmentation, safety stock, and replenishment method. Use when asked to set safety stock levels, segment items by ABC/XYZ, choose reorder points vs min-max, define stocking policy, or review excess and obsolete inventory. Produces a segmentation grid, per-segment service targets and safety-stock logic, a replenishment method choice per segment, and an E&O review cadence."
+description: "为一类物料设定库存策略：分层、安全库存和补货方式。当被要求设定安全库存水平、按 ABC/XYZ 对物料分层、在再订货点与最小-最大之间做选择、定义备货策略，或评审呆滞和过剩库存时使用。产出分层矩阵、各分层的服务目标与安全库存逻辑、每个分层的补货方式选择，以及呆滞与过剩（E&O）库存的评审节奏。 | Set inventory policy for an item class: segmentation, safety stock, and replenishment method. Use when asked to set safety stock levels, segment items by ABC/XYZ, choose reorder points vs min-max, define stocking policy, or review excess and obsolete inventory. Produces a segmentation grid, per-segment service targets and safety-stock logic, a replenishment method choice per segment, and an E&O review cadence."
 ---
 
 # Inventory Policy Skill

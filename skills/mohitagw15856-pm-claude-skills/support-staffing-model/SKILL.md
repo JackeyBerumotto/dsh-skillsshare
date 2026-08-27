@@ -1,6 +1,6 @@
 ---
 name: support-staffing-model
-description: "How many support agents does the queue actually need — Erlang C, computed, not 'tickets per agent' folklore. Use when staffing a support/CS team, defending headcount, or checking whether an SLA is mathematically possible with the current roster. Produces agent counts across load scenarios (with shrinkage), occupancy and average-wait numbers, and a real .xlsx — via the bundled zero-dependency script."
+description: "支持队列到底需要多少坐席——用 Erlang C 计算出来，而非「每坐席工单数」的经验玄学。在为支持/客服团队配置人手、争取编制，或检验当前班底能否在数学上满足 SLA 时使用。输出多种负载场景下的坐席数量（含缩减率）、占用率和平均等待数据，并生成一份真正的 .xlsx——通过内置的零依赖脚本完成。 | How many support agents does the queue actually need — Erlang C, computed, not 'tickets per agent' folklore. Use when staffing a support/CS team, defending headcount, or checking whether an SLA is mathematically possible with the current roster. Produces agent counts across load scenarios (with shrinkage), occupancy and average-wait numbers, and a real .xlsx — via the bundled zero-dependency script."
 ---
 
 # Support Staffing Model

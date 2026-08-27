@@ -1,6 +1,6 @@
 ---
 name: "onboard"
-description: "/cs:onboard — Founder interview that populates ~/.claude/company-context.md using the canonical 7-dimension cs-onboard schema. The first command to run when starting with c-level-agents. Use when setting up the virtual C-suite for a new company, or when advisors lack company context — e.g. before a first /cs:boardroom or after a fundraise changes the numbers."
+description: "/cs:onboard——创始人访谈，使用规范的七维 cs-onboard 模式填写 ~/.claude/company-context.md，是开始使用 c-level-agents 时应运行的第一个命令。适用于为新公司搭建虚拟高管层时，或顾问缺少公司背景时——例如首次 /cs:boardroom 之前，或融资改变了相关数字之后。 | /cs:onboard — Founder interview that populates ~/.claude/company-context.md using the canonical 7-dimension cs-onboard schema. The first command to run when starting with c-level-agents. Use when setting up the virtual C-suite for a new company, or when advisors lack company context — e.g. before a first /cs:boardroom or after a fundraise changes the numbers."
 ---
 
 # /cs:onboard — Founder Interview

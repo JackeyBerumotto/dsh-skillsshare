@@ -1,6 +1,6 @@
 ---
 name: detecting-malicious-npm-packages
-description: Triage npm packages for install-script malware, exfiltration, and worming behavior.
+description: 对 npm 包进行分诊，检测安装脚本恶意软件、数据外传和蠕虫传播行为。 | Triage npm packages for install-script malware, exfiltration, and worming behavior.
 domain: cybersecurity
 subdomain: supply-chain-security
 tags:

@@ -1,6 +1,6 @@
 ---
 name: "ab-test-setup"
-description: When the user wants to plan, design, or implement an A/B test or experiment. Also use when the user mentions "A/B test," "split test," "experiment," "test this change," "variant copy," "multivariate test," "hypothesis," "conversion experiment," "statistical significance," or "test this." For tracking implementation, see analytics-tracking.
+description: 当用户想要规划、设计或实施 A/B 测试或实验时使用。当用户提到「A/B test」「split test」「experiment」「test this change」「variant copy」「multivariate test」「hypothesis」「conversion experiment」「statistical significance」或「test this」时也应使用。埋点实现见 analytics-tracking。 | When the user wants to plan, design, or implement an A/B test or experiment. Also use when the user mentions "A/B test," "split test," "experiment," "test this change," "variant copy," "multivariate test," "hypothesis," "conversion experiment," "statistical significance," or "test this." For tracking implementation, see analytics-tracking.
 license: MIT
 metadata:
   version: 1.0.0

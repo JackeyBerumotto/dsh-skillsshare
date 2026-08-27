@@ -1,6 +1,6 @@
 ---
 name: ai-loop
-description: Runs a bounded spec-build-review development loop with explicit scope, stop conditions, and human approval gates for risky or ambiguous work.
+description: 运行有界的规格-构建-评审开发循环，为高风险或模糊的工作提供明确的范围、停止条件和人工审批门禁。 | Runs a bounded spec-build-review development loop with explicit scope, stop conditions, and human approval gates for risky or ambiguous work.
 category: workflow
 risk: safe
 source: community

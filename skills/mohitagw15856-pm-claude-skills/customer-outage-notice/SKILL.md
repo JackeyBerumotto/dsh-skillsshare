@@ -1,6 +1,6 @@
 ---
 name: customer-outage-notice
-description: "Write clear customer-facing outage and service-disruption notifications. Use when asked to write an outage notice, a status-page update, a service-disruption email, a maintenance notice, or an incident update sequence. Produces status-page updates for each phase (investigating → identified → monitoring → resolved), a customer email, and a resolved/post-incident summary, in plain, reassuring language."
+description: "撰写清晰的面向客户的停机和服务中断通知。在被要求编写停机通知、状态页更新、服务中断邮件、维护通知或事故更新序列时使用。产出各阶段的状态页更新（调查中→已定位→监控中→已解决）、客户邮件以及已解决/事后摘要，语言平实且令人安心。 | Write clear customer-facing outage and service-disruption notifications. Use when asked to write an outage notice, a status-page update, a service-disruption email, a maintenance notice, or an incident update sequence. Produces status-page updates for each phase (investigating → identified → monitoring → resolved), a customer email, and a resolved/post-incident summary, in plain, reassuring language."
 ---
 
 # Customer Outage Notice Skill

@@ -1,6 +1,6 @@
 ---
 name: agent-spec
-description: "Specify an autonomous or tool-using AI agent before building it. Use when asked to design an AI agent, define an agent's tools and guardrails, scope what an agent is allowed to do, or write an agent spec/PRD. Produces an agent spec — goal & scope, tools with permissions, the control loop, guardrails & approval gates, memory, escalation/handoff, evaluation, and failure handling."
+description: "在构建之前为自主或使用工具的 AI 代理编写规格。当被要求设计 AI 代理、定义代理的工具与护栏、界定代理的许可范围，或撰写代理规格/PRD 时使用。产出代理规格——目标与范围、带权限的工具、控制循环、护栏与审批门禁、记忆、升级/移交、评估和失效处理。 | Specify an autonomous or tool-using AI agent before building it. Use when asked to design an AI agent, define an agent's tools and guardrails, scope what an agent is allowed to do, or write an agent spec/PRD. Produces an agent spec — goal & scope, tools with permissions, the control loop, guardrails & approval gates, memory, escalation/handoff, evaluation, and failure handling."
 ---
 
 # Agent Spec Skill

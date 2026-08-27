@@ -1,6 +1,6 @@
 ---
 name: agile-product-owner
-description: Agile product ownership toolkit for Senior Product Owner including INVEST-compliant user story generation, sprint planning, backlog management, and velocity tracking. Use for story writing, sprint planning, stakeholder communication, and agile ceremonies.
+description: 面向高级产品负责人的敏捷产品负责工具包，包括符合 INVEST 原则的用户故事生成、冲刺规划、待办管理和速率跟踪。适用于故事撰写、冲刺规划、干系人沟通和敏捷仪式。 | Agile product ownership toolkit for Senior Product Owner including INVEST-compliant user story generation, sprint planning, backlog management, and velocity tracking. Use for story writing, sprint planning, stakeholder communication, and agile ceremonies.
 ---
 
 # Agile Product Owner

@@ -1,7 +1,7 @@
 ---
 name: robot-perception
 description: >
-  Comprehensive best practices for robot perception systems covering cameras, LiDARs, depth sensors,
+  覆盖相机、LiDAR、深度传感器、IMU 和多传感器设置的机器人感知系统综合最佳实践。在处理 RGB 图像处理、深度图、点云、传感器标定（内参、外参、手眼标定）、目标检测、语义分割、三维重建、视觉伺服或感知流水线优化时使用本技能。当用户提到 OpenCV、Open3D、PCL、RealSense、ZED、OAK-D、相机标定、AprilTags、ArUco 标记、双目视觉、RGBD、点云滤波、ICP 配准、坐标变换、相机内参、畸变校正、图像去畸变、传感器流式传输、帧同步，或机器人语境下的任何计算机视觉任务时触发。还涵盖多相机阵列、跨传感器时间同步、感知延迟预算以及感知流水线的生产部署。 |
   IMUs, and multi-sensor setups. Use this skill when working with RGB image processing, depth maps,
   point clouds, sensor calibration (intrinsic, extrinsic, hand-eye), object detection, semantic
   segmentation, 3D reconstruction, visual servoing, or perception pipeline optimization. Trigger

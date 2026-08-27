@@ -1,6 +1,6 @@
 ---
 name: checking-hipaa-compliance
-description: Check HIPAA compliance for healthcare data security requirements. Use when auditing healthcare applications. Trigger with 'check HIPAA compliance', 'validate health data security', or 'audit PHI protection'.
+description: 检查医疗数据安全要求的 HIPAA 合规性。当审计医疗应用时使用。触发词：「check HIPAA compliance」「validate health data security」或「audit PHI protection」。 | Check HIPAA compliance for healthcare data security requirements. Use when auditing healthcare applications. Trigger with 'check HIPAA compliance', 'validate health data security', or 'audit PHI protection'.
 version: 1.0.0
 allowed-tools:
 - Read

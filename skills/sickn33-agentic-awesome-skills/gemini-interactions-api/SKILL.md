@@ -1,6 +1,6 @@
 ---
 name: gemini-interactions-api
-description: Use this skill when writing code that calls the Gemini API for text generation, multi-turn chat, multimodal understanding, image generation, video generation, streaming responses, background research tasks, function calling, structured output, or migrating from the old generateContent...
+description: 在编写调用 Gemini API 的代码时使用此技能，涵盖文本生成、多轮对话、多模态理解、图像生成、视频生成、流式响应、后台研究任务、函数调用、结构化输出，或从旧版 generateContent 迁移…… | Use this skill when writing code that calls the Gemini API for text generation, multi-turn chat, multimodal understanding, image generation, video generation, streaming responses, background research tasks, function calling, structured output, or migrating from the old generateContent...
 risk: unknown
 source: https://github.com/google-gemini/gemini-skills/tree/main/skills/gemini-interactions-api
 source_repo: google-gemini/gemini-skills

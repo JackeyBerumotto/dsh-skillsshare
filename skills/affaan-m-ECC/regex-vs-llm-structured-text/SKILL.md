@@ -1,6 +1,6 @@
 ---
 name: regex-vs-llm-structured-text
-description: Decision framework for choosing between regex and LLM when parsing structured text — start with regex, add LLM only for low-confidence edge cases.
+description: 解析结构化文本时在正则和 LLM 之间做选择的决策框架——先用正则，仅对低置信度的边缘情况引入 LLM。 | Decision framework for choosing between regex and LLM when parsing structured text — start with regex, add LLM only for low-confidence edge cases.
 metadata:
   origin: ECC
 ---

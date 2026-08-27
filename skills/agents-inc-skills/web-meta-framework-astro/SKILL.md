@@ -1,6 +1,6 @@
 ---
 name: web-meta-framework-astro
-description: Astro content-first framework - islands architecture, content collections, file-based routing, SSR/SSG hybrid rendering, View Transitions, server islands, multi-framework component support
+description: Astro 内容优先框架——岛屿架构、内容集合、基于文件的路由、SSR／SSG 混合渲染、View Transitions、服务器岛屿与多框架组件支持 | Astro content-first framework - islands architecture, content collections, file-based routing, SSR/SSG hybrid rendering, View Transitions, server islands, multi-framework component support
 ---
 
 # Astro Framework Patterns

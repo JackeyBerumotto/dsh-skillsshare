@@ -1,6 +1,6 @@
 ---
 name: roadmap-communicator
-description: Use when preparing roadmap narratives, release notes, changelogs, or stakeholder updates tailored for executives, engineering teams, and customers.
+description: 在准备路线图叙事、发布说明、变更日志，或面向高管、工程团队和客户定制的利益相关者通报时使用。 | Use when preparing roadmap narratives, release notes, changelogs, or stakeholder updates tailored for executives, engineering teams, and customers.
 ---
 
 # Roadmap Communicator

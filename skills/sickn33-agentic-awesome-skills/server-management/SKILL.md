@@ -1,6 +1,6 @@
 ---
 name: server-management
-description: "Server management principles and decision-making. Process management, monitoring strategy, and scaling decisions. Teaches thinking, not commands."
+description: "服务器管理原则与决策方法。进程管理、监控策略和扩容决策。传授的是思维方式，而非命令。 | Server management principles and decision-making. Process management, monitoring strategy, and scaling decisions. Teaches thinking, not commands."
 risk: safe
 source: community
 date_added: "2026-02-27"

@@ -1,6 +1,6 @@
 ---
 name: smart-sourcing
-description: Selects optimal sources for tool calls, balancing accuracy with token cost. Use before research tasks or when deciding whether a claim needs verification.
+description: 为工具调用选择最优信息源，在准确性与 token 成本之间取得平衡。在研究任务之前，或在判断某个说法是否需要验证时使用。 | Selects optimal sources for tool calls, balancing accuracy with token cost. Use before research tasks or when deciding whether a claim needs verification.
 alwaysApply: false
 usage_patterns:
 - "research"

@@ -1,6 +1,6 @@
 ---
 name: basic
-description: Print-inspired visual language for books, magazines, and reports with editorial grids and expressive typography.
+description: 印刷风格的视觉语言，适用于书籍、杂志和报告，配以编辑部网格和富有表现力的字体。 | Print-inspired visual language for books, magazines, and reports with editorial grids and expressive typography.
 license: MIT
 metadata:
   author: typeui.sh

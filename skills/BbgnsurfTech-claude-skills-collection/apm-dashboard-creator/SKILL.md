@@ -1,8 +1,5 @@
 ---
-description: This skill enables claude to create application performance monitoring
-  (apm) dashboards. it is triggered when the user requests the creation of a new apm
-  dashboard, monitoring dashboard, or a dashboard for application performance. the
-  skill helps ...
+description: "本技能使 claude 能够创建应用性能监控（APM）仪表板。当用户请求创建新的 APM 仪表板、监控仪表板或应用性能仪表板时触发。本技能可协助完成仪表板的搭建与配置。 | This skill enables claude to create application performance monitoring (apm) dashboards. it is triggered when the user requests the creation of a new apm dashboard, monitoring dashboard, or a dashboard for application performance. the skill helps ..."
 allowed-tools:
 - Read
 - Write

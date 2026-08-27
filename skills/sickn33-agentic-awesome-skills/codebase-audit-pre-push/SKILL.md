@@ -1,6 +1,6 @@
 ---
 name: codebase-audit-pre-push
-description: "Deep audit before GitHub push: removes junk files, dead code, security holes, and optimization issues. Checks every file line-by-line for production readiness."
+description: "GitHub 推送前的深度审计：清除垃圾文件、死代码、安全漏洞和优化问题。逐行检查每个文件是否达到生产就绪。 | Deep audit before GitHub push: removes junk files, dead code, security holes, and optimization issues. Checks every file line-by-line for production readiness."
 category: development
 risk: safe
 source: community

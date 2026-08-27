@@ -1,6 +1,6 @@
 ---
 name: auditing-access-control
-description: Audit access control implementations for security vulnerabilities and misconfigurations. Use when reviewing authentication and authorization. Trigger with 'audit access control', 'check permissions', or 'validate authorization'.
+description: 审计访问控制实现中的安全漏洞与错误配置。在审查身份验证与授权时使用。触发词：「audit access control」、「check permissions」或「validate authorization」。 | Audit access control implementations for security vulnerabilities and misconfigurations. Use when reviewing authentication and authorization. Trigger with 'audit access control', 'check permissions', or 'validate authorization'.
 version: 1.0.0
 allowed-tools:
 - Read

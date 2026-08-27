@@ -1,6 +1,6 @@
 ---
 name: schedule-monte-carlo
-description: "Project completion as a distribution, not a date — Monte Carlo over the task graph. Use when a plan's finish date came from summing 'likely' estimates (it's wrong, mathematically), when leadership needs a commit date, or when you need to know which tasks actually control the timeline. Produces P10/P50/P90 completion, per-task criticality (how often each task sits on the critical path), and a real .xlsx — via the bundled zero-dependency simulator, deterministic with a seed."
+description: "把项目完成时间当作分布而不是日期——在任务图上做蒙特卡洛模拟。当计划的完成日期来自「可能」估算的简单相加（数学上就是错的）、领导层需要一个承诺日期，或你需要知道哪些任务真正决定时间线时使用。产出 P10/P50/P90 完成时间、每个任务的关键度（该任务出现在关键路径上的频率），以及一份真正的 .xlsx——通过内置的零依赖模拟器实现，带随机种子、结果确定可复现。 | Project completion as a distribution, not a date — Monte Carlo over the task graph. Use when a plan's finish date came from summing 'likely' estimates (it's wrong, mathematically), when leadership needs a commit date, or when you need to know which tasks actually control the timeline. Produces P10/P50/P90 completion, per-task criticality (how often each task sits on the critical path), and a real .xlsx — via the bundled zero-dependency simulator, deterministic with a seed."
 ---
 
 # Schedule Monte Carlo

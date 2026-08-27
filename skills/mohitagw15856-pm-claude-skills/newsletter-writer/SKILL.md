@@ -1,6 +1,6 @@
 ---
 name: newsletter-writer
-description: "Write a full creator newsletter issue — subject line, preview text, hook, body with a clear takeaway, and a CTA — in the writer's voice, for Substack, beehiiv, ConvertKit, or email. Use when asked to write a newsletter, an email issue, a Substack post, or to turn notes/a topic into a sendable newsletter. Produces a ready-to-send issue with subject-line options and a skimmable structure. Distinct from B2B drip/nurture sequences."
+description: "撰写完整的创作者 newsletter 一期内容——主题行、预览文本、钩子、带明确要点的正文和 CTA——以作者本人的声音撰写，适用于 Substack、beehiiv、ConvertKit 或邮件。在被要求编写 newsletter、邮件期刊、Substack 文章，或将笔记/主题转化为可发送的 newsletter 时使用。产出可直接发送的一期内容，附主题行选项和易于浏览的结构。与 B2B 滴灌/培育序列有所区别。 | Write a full creator newsletter issue — subject line, preview text, hook, body with a clear takeaway, and a CTA — in the writer's voice, for Substack, beehiiv, ConvertKit, or email. Use when asked to write a newsletter, an email issue, a Substack post, or to turn notes/a topic into a sendable newsletter. Produces a ready-to-send issue with subject-line options and a skimmable structure. Distinct from B2B drip/nurture sequences."
 ---
 
 # Newsletter Writer Skill

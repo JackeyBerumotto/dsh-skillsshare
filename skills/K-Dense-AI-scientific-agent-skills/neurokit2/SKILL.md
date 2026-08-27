@@ -1,6 +1,6 @@
 ---
 name: neurokit2
-description: Comprehensive biosignal processing toolkit for analyzing physiological data including ECG, EEG, EDA, RSP, PPG, EMG, and EOG signals. Use this skill when processing cardiovascular signals, brain activity, electrodermal responses, respiratory patterns, muscle activity, or eye movements. Applicable for heart rate variability analysis, event-related potentials, complexity measures, autonomic nervous system assessment, psychophysiology research, and multi-modal physiological signal integration.
+description: 用于分析生理数据（包括 ECG、EEG、EDA、RSP、PPG、EMG 和 EOG 信号）的综合生物信号处理工具包。在处理心血管信号、脑活动、皮肤电反应、呼吸模式、肌肉活动或眼球运动时使用本技能。适用于心率变异性分析、事件相关电位、复杂度度量、自主神经系统评估、心理生理学研究以及多模态生理信号整合。 | Comprehensive biosignal processing toolkit for analyzing physiological data including ECG, EEG, EDA, RSP, PPG, EMG, and EOG signals. Use this skill when processing cardiovascular signals, brain activity, electrodermal responses, respiratory patterns, muscle activity, or eye movements. Applicable for heart rate variability analysis, event-related potentials, complexity measures, autonomic nervous system assessment, psychophysiology research, and multi-modal physiological signal integration.
 license: MIT license
 metadata: {"version": "1.0", "skill-author": "K-Dense Inc."}
 ---

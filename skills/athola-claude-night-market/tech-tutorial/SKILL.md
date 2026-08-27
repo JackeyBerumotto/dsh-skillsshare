@@ -1,6 +1,6 @@
 ---
 name: tech-tutorial
-description: Plans, drafts, and refines technical tutorials for developers. Use when writing step-by-step guides or getting-started walkthroughs backed by working code.
+description: 规划、起草并打磨面向开发者的技术教程。在编写由可运行代码支撑的分步指南或入门演练时使用。 | Plans, drafts, and refines technical tutorials for developers. Use when writing step-by-step guides or getting-started walkthroughs backed by working code.
 globs: "**/*.md"
 alwaysApply: false
 category: artifact-generation

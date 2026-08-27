@@ -1,6 +1,6 @@
 ---
 name: tdd-workflows
-description: "Use when working with tdd workflows tdd cycle (Alias for tdd-workflows-tdd-cycle)"
+description: "在处理 TDD 工作流（tdd workflows）中的 TDD 循环（tdd cycle，tdd-workflows-tdd-cycle 的别名）时使用。 | Use when working with tdd workflows tdd cycle (Alias for tdd-workflows-tdd-cycle)"
 risk: unknown
 source: "alias"
 date_added: "2026-06-02"

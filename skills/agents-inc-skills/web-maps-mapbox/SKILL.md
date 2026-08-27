@@ -1,6 +1,6 @@
 ---
 name: web-maps-mapbox
-description: Mapbox GL JS interactive maps - map initialization, markers, popups, sources, layers, expressions, clustering, 3D terrain, geocoding, directions
+description: Mapbox GL JS 交互式地图——地图初始化、标记、弹出框、数据源、图层、表达式、聚合、3D 地形、地理编码与路线规划。 | Mapbox GL JS interactive maps - map initialization, markers, popups, sources, layers, expressions, clustering, 3D terrain, geocoding, directions
 ---
 
 # Mapbox GL JS Patterns

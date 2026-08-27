@@ -1,6 +1,6 @@
 ---
 name: data-quality-audit
-description: "Audit a dataset for the quality problems that silently break analysis — missingness, duplicates, outliers, type and range errors, consistency, and freshness — and produce a prioritised fix list. Use when asked to assess data quality, audit a dataset, check data before analysis, or explain why numbers look off. Produces a structured quality report across the standard dimensions, the specific issues found (with the checks to run), severity, and how to fix each."
+description: "审计数据集中会悄然破坏分析的质量问题——缺失值、重复数据、异常值、类型与取值范围错误、一致性以及时效性——并生成按优先级排序的修复清单。当被要求评估数据质量、审计数据集、在分析前检查数据或解释数字为何看起来不对时使用。产出覆盖标准维度的结构化质量报告、发现的具体问题（附需运行的检查）、严重程度以及每个问题的修复方法。 | Audit a dataset for the quality problems that silently break analysis — missingness, duplicates, outliers, type and range errors, consistency, and freshness — and produce a prioritised fix list. Use when asked to assess data quality, audit a dataset, check data before analysis, or explain why numbers look off. Produces a structured quality report across the standard dimensions, the specific issues found (with the checks to run), severity, and how to fix each."
 ---
 
 # Data Quality Audit Skill

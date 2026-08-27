@@ -1,8 +1,6 @@
 ---
 name: adk-deployment-specialist
-description: Deploy and orchestrate Vertex AI ADK agents using A2A protocol. Manages
-  AgentCard discovery, task submission, Code Execution Sandbox, and Memory Bank. Use
-  when asked to "deploy ADK agent" or "orchestrate agents".
+description: "使用 A2A 协议部署和编排 Vertex AI ADK 智能体。管理 AgentCard 发现、任务提交、Code Execution Sandbox 和 Memory Bank。当被要求「deploy ADK agent」或「orchestrate agents」时使用。 | Deploy and orchestrate Vertex AI ADK agents using A2A protocol. Manages AgentCard discovery, task submission, Code Execution Sandbox, and Memory Bank. Use when asked to \"deploy ADK agent\" or \"orchestrate agents\"."
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash
 license: MIT
 ---

@@ -1,6 +1,6 @@
 ---
 name: discharge-summary
-description: "Turn a hospital stay into a complete, well-structured discharge summary. Use when asked to write a discharge summary, a hospital discharge note, or to document a patient's admission-to-discharge course for handoff. Produces a standard discharge summary — admission reason, hospital course, diagnoses, procedures, discharge medications, condition, and follow-up/return precautions — from the provided details."
+description: "将住院经历转化为完整、结构良好的出院总结。当被要求撰写出院总结、出院记录，或为交接记录患者从入院到出院的完整病程时使用。根据所提供的细节产出标准出院总结——入院原因、住院病程、诊断、手术操作、出院用药、出院情况以及随访/复诊注意事项。 | Turn a hospital stay into a complete, well-structured discharge summary. Use when asked to write a discharge summary, a hospital discharge note, or to document a patient's admission-to-discharge course for handoff. Produces a standard discharge summary — admission reason, hospital course, diagnoses, procedures, discharge medications, condition, and follow-up/return precautions — from the provided details."
 ---
 
 # Discharge Summary Skill

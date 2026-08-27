@@ -1,6 +1,6 @@
 ---
 name: usage-logging
-description: Implements structured usage logging and audit trails for cost and session tracking. Use when adding audit trails, usage analytics, or cost tracking to a skill.
+description: 实现结构化的使用日志和审计追踪，用于成本与会话跟踪。在为技能添加审计追踪、使用分析或成本跟踪时使用。 | Implements structured usage logging and audit trails for cost and session tracking. Use when adding audit trails, usage analytics, or cost tracking to a skill.
 alwaysApply: false
 category: infrastructure
 tags:

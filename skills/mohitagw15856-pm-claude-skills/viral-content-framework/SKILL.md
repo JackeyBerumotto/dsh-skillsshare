@@ -1,6 +1,6 @@
 ---
 name: viral-content-framework
-description: "Build a framework for creating shareable, high-reach social media content. Use when asked to plan viral content, develop a shareable content strategy, create a hook writing system, or build a repeatable process for content that gets shared. Produces a platform-specific viral content framework with hook formulas, content structures, shareability triggers, and a content testing system."
+description: "构建一个用于打造高分享、高触达社交媒体内容的框架。当被要求规划爆款内容、制定可分享的内容策略、创建钩子写作体系，或构建可复用的爆款内容生产流程时使用。产出针对特定平台的爆款内容框架，包含钩子公式、内容结构、分享触发点与内容测试体系。 | Build a framework for creating shareable, high-reach social media content. Use when asked to plan viral content, develop a shareable content strategy, create a hook writing system, or build a repeatable process for content that gets shared. Produces a platform-specific viral content framework with hook formulas, content structures, shareability triggers, and a content testing system."
 ---
 
 # Viral Content Framework Skill

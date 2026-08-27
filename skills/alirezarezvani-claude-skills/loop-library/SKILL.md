@@ -1,6 +1,6 @@
 ---
 name: loop-library
-description: Discover, find, compare, audit, repair, adapt, and design repeatable AI-agent loops with explicit triggers, actions, verification, stopping conditions, guardrails, and handoffs. Use when a user asks to analyze a codebase for potential loops, mine coding-thread history for work done more than once, turn repeated engineering work into a loop, find or recommend a published loop, create a recurring agent workflow or automation cadence, turn an outcome into a bounded copy-ready loop, or review an existing loop for weak checks, unsafe authority, unbounded repetition, stale state, or unclear stopping behavior.
+description: 发现、查找、比较、审计、修复、调整并设计可重复的 AI agent 循环，具备明确的触发条件、动作、验证、停止条件、防护栏和交接。当用户要求分析代码库以挖掘潜在循环、从编码会话历史中挖掘重复执行的工作、把重复的工程工作变成循环、查找或推荐已发布的循环、创建周期性的 agent 工作流或自动化节奏、把某个目标转化为有界且可直接复用的循环，或审查现有循环是否存在校验薄弱、权限不安全、无限重复、状态过期或停止行为不清晰时使用。 | Discover, find, compare, audit, repair, adapt, and design repeatable AI-agent loops with explicit triggers, actions, verification, stopping conditions, guardrails, and handoffs. Use when a user asks to analyze a codebase for potential loops, mine coding-thread history for work done more than once, turn repeated engineering work into a loop, find or recommend a published loop, create a recurring agent workflow or automation cadence, turn an outcome into a bounded copy-ready loop, or review an existing loop for weak checks, unsafe authority, unbounded repetition, stale state, or unclear stopping behavior.
 ---
 
 # Loop Library

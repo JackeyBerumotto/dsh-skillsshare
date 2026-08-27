@@ -1,6 +1,6 @@
 ---
 name: jest-skill
-description: 'Generates Jest unit and integration tests in JavaScript or TypeScript. Covers mocking, snapshots, async testing, and React component testing. Use when user mentions "Jest", "describe/it/expect", "jest.mock", "toMatchSnapshot". Triggers on: "Jest", "expect().toBe()", "jest.mock",...'
+description: '生成 JavaScript 或 TypeScript 的 Jest 单元测试和集成测试。涵盖模拟、快照、异步测试和 React 组件测试。当用户提到「Jest」、「describe/it/expect」、「jest.mock」、「toMatchSnapshot」时使用。触发词：「Jest」、「expect().toBe()」、「jest.mock」…… | Generates Jest unit and integration tests in JavaScript or TypeScript. Covers mocking, snapshots, async testing, and React component testing. Use when user mentions "Jest", "describe/it/expect", "jest.mock", "toMatchSnapshot". Triggers on: "Jest", "expect().toBe()", "jest.mock",...'
 risk: unknown
 source: https://github.com/LambdaTest/agent-skills/tree/main/jest-skill
 source_repo: LambdaTest/agent-skills

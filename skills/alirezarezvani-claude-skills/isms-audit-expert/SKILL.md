@@ -1,6 +1,6 @@
 ---
 name: "isms-audit-expert"
-description: Information Security Management System (ISMS) audit expert for ISO 27001 compliance verification, security control assessment, and certification support. Use when the user mentions ISO 27001, ISMS audit, Annex A controls, Statement of Applicability (SOA), gap analysis, nonconformity management, internal audit, surveillance audit, or security certification preparation. Helps review control implementation evidence, document audit findings, classify nonconformities, generate risk-based audit plans, map controls to Annex A requirements, prepare Stage 1 and Stage 2 audit documentation, and support corrective action workflows.
+description: 面向 ISO 27001 合规验证、安全控制评估和认证支持的信息安全管理体系（ISMS）审核专家。当用户提到 ISO 27001、ISMS 审核、附录 A 控制、适用性声明（SOA）、差距分析、不符合项管理、内部审核、监督审核或安全认证准备时使用。可帮助审查控制实施证据、记录审核发现、对不符合项分类、生成基于风险的审核计划、将控制映射到附录 A 要求、准备第一阶段和第二阶段审核文档，并支持纠正措施工作流。 | Information Security Management System (ISMS) audit expert for ISO 27001 compliance verification, security control assessment, and certification support. Use when the user mentions ISO 27001, ISMS audit, Annex A controls, Statement of Applicability (SOA), gap analysis, nonconformity management, internal audit, surveillance audit, or security certification preparation. Helps review control implementation evidence, document audit findings, classify nonconformities, generate risk-based audit plans, map controls to Annex A requirements, prepare Stage 1 and Stage 2 audit documentation, and support corrective action workflows.
 triggers:
   - ISMS audit
   - ISO 27001 audit

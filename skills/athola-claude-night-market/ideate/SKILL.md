@@ -1,6 +1,6 @@
 ---
 name: ideate
-description: Generate diverse solution candidates with category-spanning ideation methods and rotation. Use when stuck on a design or fighting repetitive LLM output.
+description: 运用跨类别构思方法和轮换机制生成多样化的解决方案候选。在设计陷入僵局或苦于 LLM 输出重复时使用。 | Generate diverse solution candidates with category-spanning ideation methods and rotation. Use when stuck on a design or fighting repetitive LLM output.
 category: research
 tags:
   - ideation

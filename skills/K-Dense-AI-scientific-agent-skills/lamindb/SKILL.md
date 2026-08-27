@@ -1,6 +1,6 @@
 ---
 name: lamindb
-description: Use when working with LaminDB, the open-source lineage-native lakehouse for biological datasets and models. Covers setup, artifact registration, query/search, lineage tracking, validation, ontology-backed annotation with Bionty, collections, branches, storage, and workflow integrations.
+description: 在使用 LaminDB（面向生物数据集和模型的开源血缘原生湖仓）时使用。涵盖安装配置、产物登记、查询/搜索、血缘跟踪、验证、基于 Bionty 的本体注释、集合、分支、存储和工作流集成。 | Use when working with LaminDB, the open-source lineage-native lakehouse for biological datasets and models. Covers setup, artifact registration, query/search, lineage tracking, validation, ontology-backed annotation with Bionty, collections, branches, storage, and workflow integrations.
 license: Apache-2.0 license
 metadata: {"version": "1.1", "skill-author": "K-Dense Inc."}
 ---

@@ -1,6 +1,6 @@
 ---
 name: goal-loop
-description: "Draft and explain persistent goal-loop prompts for long-running agent work with clear stop conditions."
+description: "起草并解释面向长期运行 agent 工作的持久目标循环提示词，附带明确的停止条件。 | Draft and explain persistent goal-loop prompts for long-running agent work with clear stop conditions."
 category: agent-orchestration
 risk: safe
 source: community

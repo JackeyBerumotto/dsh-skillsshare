@@ -1,7 +1,7 @@
 ---
 name: tower-defense
 description: >
-  Build a tower defense: enemies pathing along lanes, wave spawning, towers that auto-target and fire,
+  构建塔防游戏：沿路径行进的敌人、波次生成、自动索敌开火的防御塔、经济系统和生命值。适用于塔防或波次防御类游戏，或用于平衡波次与经济。 |
   an economy, and lives. Use for a tower-defense/wave-defense game, or balancing waves and economy.
 license: Apache-2.0
 compatibility: Engine-agnostic design patterns; snippets are pseudocode (port to your engine)

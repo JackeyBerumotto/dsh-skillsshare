@@ -1,6 +1,6 @@
 ---
 name: complaint-letter
-description: "Write a firm, effective complaint letter that gets a resolution. Use when asked to write a complaint letter, complain to a company about a product/service, escalate poor service, or demand a refund/replacement. Produces a structured complaint — the facts, the impact, the specific resolution you want, and a deadline — in a firm, professional tone that's hard to ignore and easy to act on."
+description: "撰写坚定而有效的投诉信，促成问题解决。在被要求编写投诉信、就产品/服务向公司投诉、升级糟糕服务，或要求退款/换货时使用。产出结构化的投诉——事实、影响、你期望的具体解决方案和期限——语气坚定专业，让人难以忽视、易于处理。 | Write a firm, effective complaint letter that gets a resolution. Use when asked to write a complaint letter, complain to a company about a product/service, escalate poor service, or demand a refund/replacement. Produces a structured complaint — the facts, the impact, the specific resolution you want, and a deadline — in a firm, professional tone that's hard to ignore and easy to act on."
 ---
 
 # Complaint Letter Skill

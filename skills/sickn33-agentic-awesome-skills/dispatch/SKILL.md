@@ -1,6 +1,6 @@
 ---
 name: dispatch
-description: "Delegate tasks to OpenAI Codex CLI and Google Antigravity CLI from Claude Code with topic-aware sessions"
+description: "在 Claude Code 中将任务委派给 OpenAI Codex CLI 和 Google Antigravity CLI，支持按主题划分的会话 | Delegate tasks to OpenAI Codex CLI and Google Antigravity CLI from Claude Code with topic-aware sessions"
 category: agent-behavior
 risk: critical
 source: community

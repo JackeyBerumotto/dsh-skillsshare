@@ -1,6 +1,6 @@
 ---
 name: credit-memo
-description: "Write a credit memo for a lending decision: borrower story, facility structure, repayment sources, financial-ratio spread with covenant headroom, risk factors with mitigants, risk-rating rationale, and a recommendation. Use when asked to write a credit memo, credit application, credit paper, loan write-up, or prepare a deal for credit committee. Produces a complete credit memo ready for committee review."
+description: "为信贷决策撰写信贷备忘录：借款人故事、授信结构、还款来源、含契约余量的财务比率分析、附缓解措施的风险因素、评级理由和推荐结论。在被要求编写信贷备忘录、信贷申请、信贷文件、贷款报告，或为信贷委员会准备交易时使用。产出可直接提交委员会审阅的完整信贷备忘录。 | Write a credit memo for a lending decision: borrower story, facility structure, repayment sources, financial-ratio spread with covenant headroom, risk factors with mitigants, risk-rating rationale, and a recommendation. Use when asked to write a credit memo, credit application, credit paper, loan write-up, or prepare a deal for credit committee. Produces a complete credit memo ready for committee review."
 ---
 
 # Credit Memo Skill

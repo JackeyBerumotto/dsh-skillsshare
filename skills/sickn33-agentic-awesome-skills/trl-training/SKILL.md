@@ -1,6 +1,6 @@
 ---
 name: trl-training
-description: Train and fine-tune transformer language models using TRL (Transformers Reinforcement Learning). Supports SFT, DPO, GRPO, KTO, RLOO and Reward Model training via CLI commands.
+description: 使用 TRL（Transformers 强化学习）训练和微调 Transformer 语言模型。通过 CLI 命令支持 SFT、DPO、GRPO、KTO、RLOO 和奖励模型训练。 | Train and fine-tune transformer language models using TRL (Transformers Reinforcement Learning). Supports SFT, DPO, GRPO, KTO, RLOO and Reward Model training via CLI commands.
 risk: unknown
 source: https://github.com/huggingface/skills/tree/main/skills/trl-training
 source_repo: huggingface/skills

@@ -1,7 +1,6 @@
 ---
 name: detecting-service-account-abuse
-description: Detect abuse of service accounts through anomalous interactive logons,
-  privilege escalation, lateral movement, and unauthorized access patterns.
+description: "通过异常交互式登录、特权提升、横向移动和未授权访问模式，检测服务账户滥用。 | Detect abuse of service accounts through anomalous interactive logons, privilege escalation, lateral movement, and unauthorized access patterns."
 domain: cybersecurity
 subdomain: threat-hunting
 tags:

@@ -1,12 +1,6 @@
 ---
 name: performing-soc-tabletop-exercise
-description: 'Performs tabletop exercises for SOC teams simulating security incidents
-  through discussion-based scenarios to test incident response procedures, communication
-  workflows, and decision-making under pressure without impacting production systems.
-  Use when organizations need to validate IR playbooks, train analysts, or meet compliance
-  requirements for incident response testing.
-
-  '
+description: "为 SOC 团队执行桌面演练，通过基于讨论的场景模拟安全事件，在不影响生产系统的情况下检验事件响应流程、沟通机制与压力下的决策能力。当组织需要验证 IR 剧本、培训分析师或满足事件响应测试的合规要求时使用。 | Performs tabletop exercises for SOC teams simulating security incidents through discussion-based scenarios to test incident response procedures, communication workflows, and decision-making under pressure without impacting production systems. Use when organizations need to validate IR playbooks, train analysts, or meet compliance requirements for incident response testing."
 domain: cybersecurity
 subdomain: soc-operations
 tags:

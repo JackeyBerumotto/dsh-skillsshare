@@ -1,6 +1,6 @@
 ---
 name: discovery-interview-guide
-description: "Create a structured user discovery interview guide with screener questions, a discussion guide, and a synthesis framework. Use when planning user interviews, customer discovery sessions, Jobs-to-be-Done research, or problem validation. Produces a complete guide covering warm-up, problem exploration, and a per-session synthesis template."
+description: "创建结构化的用户探索访谈指南，包含筛选问题、访谈指南和综合分析框架。当规划用户访谈、客户探索会话、Jobs-to-be-Done 研究或问题验证时使用。产出完整指南，涵盖暖场、问题探索以及每次会话的综合分析模板。 | Create a structured user discovery interview guide with screener questions, a discussion guide, and a synthesis framework. Use when planning user interviews, customer discovery sessions, Jobs-to-be-Done research, or problem validation. Produces a complete guide covering warm-up, problem exploration, and a per-session synthesis template."
 ---
 
 # Discovery Interview Guide Skill

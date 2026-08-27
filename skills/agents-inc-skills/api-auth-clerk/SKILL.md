@@ -1,6 +1,6 @@
 ---
 name: api-auth-clerk
-description: Clerk managed authentication - ClerkProvider, middleware, pre-built components, hooks, server-side auth, organizations, webhooks
+description: Clerk 托管认证——ClerkProvider、中间件、预构建组件、钩子、服务端认证、组织、Webhook | Clerk managed authentication - ClerkProvider, middleware, pre-built components, hooks, server-side auth, organizations, webhooks
 ---
 
 # Clerk Authentication Patterns

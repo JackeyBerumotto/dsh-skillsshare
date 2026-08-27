@@ -1,6 +1,6 @@
 ---
 name: "memory-status"
-description: "Memory health dashboard showing line counts, topic files, capacity, stale entries, and recommendations. Use when the user runs /si:memory-status or asks how full or healthy the agent memory is."
+description: "记忆健康仪表盘，显示行数、主题文件、容量、过期条目与建议。当用户运行 /si:memory-status，或询问代理记忆有多满、多健康时使用。 | Memory health dashboard showing line counts, topic files, capacity, stale entries, and recommendations. Use when the user runs /si:memory-status or asks how full or healthy the agent memory is."
 ---
 
 # /si:memory-status — Memory Health Dashboard

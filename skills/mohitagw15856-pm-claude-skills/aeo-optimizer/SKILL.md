@@ -1,6 +1,6 @@
 ---
 name: aeo-optimizer
-description: "Optimize an article for Answer Engine Optimization (AEO) so AI engines like ChatGPT, Perplexity, and Claude can extract, quote, and cite it. Use when asked to AEO-optimize, make content AI-readable, improve AI citation chances, or adapt an article for answer engines. Produces an AEO-optimised rewrite with question headings, 50–80 word answer capsules, a paragraph-length audit, and flagged trust signals."
+description: "为答案引擎优化（AEO）优化文章，使 ChatGPT、Perplexity 和 Claude 等 AI 引擎能够提取、摘引并标注出处。当被要求进行 AEO 优化、让内容对 AI 可读、提高 AI 引用几率或让文章适配答案引擎时使用。产出经过 AEO 优化的改写版本，包含疑问式标题、50-80 词的回答胶囊、段落级审计和标记出的信任信号。 | Optimize an article for Answer Engine Optimization (AEO) so AI engines like ChatGPT, Perplexity, and Claude can extract, quote, and cite it. Use when asked to AEO-optimize, make content AI-readable, improve AI citation chances, or adapt an article for answer engines. Produces an AEO-optimised rewrite with question headings, 50–80 word answer capsules, a paragraph-length audit, and flagged trust signals."
 ---
 
 # AEO Optimizer Skill

@@ -1,8 +1,6 @@
 ---
 name: prioritizing-vulnerabilities-with-cvss-scoring
-description: The Common Vulnerability Scoring System (CVSS) is the industry standard
-  framework maintained by FIRST (Forum of Incident Response and Security Teams) for
-  assessing vulnerability severity. CVSS v4.0 (r
+description: "通用漏洞评分系统（CVSS）是由 FIRST（事件响应与安全团队论坛）维护的行业标准框架，用于评估漏洞严重程度。 | The Common Vulnerability Scoring System (CVSS) is the industry standard framework maintained by FIRST (Forum of Incident Response and Security Teams) for assessing vulnerability severity. CVSS v4.0 (r"
 domain: cybersecurity
 subdomain: vulnerability-management
 tags:

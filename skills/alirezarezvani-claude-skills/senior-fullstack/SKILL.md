@@ -1,6 +1,6 @@
 ---
 name: "senior-fullstack"
-description: Fullstack development toolkit with project scaffolding for Next.js, FastAPI, MERN, and Django stacks, code quality analysis with security and complexity scoring, and stack selection guidance. Use when the user asks to "scaffold a new project", "create a Next.js app", "set up FastAPI with React", "analyze code quality", "audit my codebase", "what stack should I use", "generate project boilerplate", or mentions fullstack development, project setup, or tech stack comparison.
+description: 全栈开发工具包：面向 Next.js、FastAPI、MERN 与 Django 栈的项目脚手架，含安全与复杂度评分的代码质量分析，以及技术选型指导。当用户要求「scaffold a new project」「create a Next.js app」「set up FastAPI with React」「analyze code quality」「audit my codebase」「what stack should I use」「generate project boilerplate」，或提到全栈开发、项目搭建、技术栈对比时使用。 | Fullstack development toolkit with project scaffolding for Next.js, FastAPI, MERN, and Django stacks, code quality analysis with security and complexity scoring, and stack selection guidance. Use when the user asks to "scaffold a new project", "create a Next.js app", "set up FastAPI with React", "analyze code quality", "audit my codebase", "what stack should I use", "generate project boilerplate", or mentions fullstack development, project setup, or tech stack comparison.
 ---
 
 # Senior Fullstack

@@ -1,6 +1,6 @@
 ---
 name: windows-shell-reliability
-description: "Reliable command execution on Windows: paths, encoding, and common binary pitfalls."
+description: "在 Windows 上可靠地执行命令：路径、编码和常见的二进制陷阱。 | Reliable command execution on Windows: paths, encoding, and common binary pitfalls."
 risk: safe
 source: community
 date_added: "2026-03-19"

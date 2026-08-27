@@ -1,6 +1,6 @@
 ---
 name: "social-content"
-description: "When the user wants help creating, scheduling, or optimizing social media content for LinkedIn, Twitter/X, Instagram, TikTok, Facebook, or other platforms. Also use when the user mentions 'LinkedIn post,' 'Twitter thread,' 'social media,' 'content calendar,' 'social scheduling,' 'engagement,' or 'viral content.' This skill covers content creation, repurposing, and platform-specific strategies."
+description: "当用户想要为 LinkedIn、Twitter/X、Instagram、TikTok、Facebook 或其他平台创建、排期或优化社交媒体内容时使用。当用户提到「LinkedIn post」「Twitter thread」「social media」「content calendar」「social scheduling」「engagement」或「viral content」时也应使用。本技能涵盖内容创作、二次利用和分平台策略。 | When the user wants help creating, scheduling, or optimizing social media content for LinkedIn, Twitter/X, Instagram, TikTok, Facebook, or other platforms. Also use when the user mentions 'LinkedIn post,' 'Twitter thread,' 'social media,' 'content calendar,' 'social scheduling,' 'engagement,' or 'viral content.' This skill covers content creation, repurposing, and platform-specific strategies."
 license: MIT
 metadata:
   version: 1.0.0

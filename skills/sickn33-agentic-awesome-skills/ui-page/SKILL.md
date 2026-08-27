@@ -1,6 +1,6 @@
 ---
 name: ui-page
-description: Scaffold a new mobile page/screen using the StyleSeed layout patterns
+description: 使用 StyleSeed 布局模式脚手架生成新的移动端页面/屏幕。 | Scaffold a new mobile page/screen using the StyleSeed layout patterns
 risk: unknown
 source: https://github.com/bitjaru/styleseed/tree/main/engine/.claude/skills/ss-page
 source_repo: bitjaru/styleseed

@@ -1,6 +1,6 @@
 ---
 name: gdpr-compliance
-description: "Assess GDPR compliance and build the core records (ROPA, lawful basis, DSAR, DPIA triggers). Use when asked to get GDPR-compliant, build a Record of Processing Activities, decide a lawful basis, handle data-subject requests, or check whether a DPIA is needed. Produces a GDPR assessment — a ROPA, lawful-basis mapping per activity, DSAR workflow, DPIA-trigger screen, and a prioritised gap list."
+description: "评估 GDPR 合规性并建立核心记录（ROPA、合法性依据、DSAR、DPIA 触发条件）。当被要求达到 GDPR 合规、建立处理活动记录、确定合法性依据、处理数据主体请求，或判断是否需要 DPIA 时使用。产出 GDPR 评估——ROPA、逐项活动的合法性依据映射、DSAR 工作流、DPIA 触发筛查和按优先级排序的差距清单。 | Assess GDPR compliance and build the core records (ROPA, lawful basis, DSAR, DPIA triggers). Use when asked to get GDPR-compliant, build a Record of Processing Activities, decide a lawful basis, handle data-subject requests, or check whether a DPIA is needed. Produces a GDPR assessment — a ROPA, lawful-basis mapping per activity, DSAR workflow, DPIA-trigger screen, and a prioritised gap list."
 ---
 
 # GDPR Compliance Skill

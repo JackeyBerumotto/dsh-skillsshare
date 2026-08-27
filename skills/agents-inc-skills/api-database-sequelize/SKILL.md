@@ -1,6 +1,6 @@
 ---
 name: api-database-sequelize
-description: Sequelize ORM, model definitions, associations, queries, transactions, migrations
+description: Sequelize ORM，模型定义、关联、查询、事务、迁移。 | Sequelize ORM, model definitions, associations, queries, transactions, migrations
 ---
 
 # Database with Sequelize ORM

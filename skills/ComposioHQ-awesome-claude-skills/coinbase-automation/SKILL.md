@@ -1,6 +1,6 @@
 ---
 name: Coinbase Automation
-description: "Coinbase Automation: list and manage cryptocurrency wallets, accounts, and portfolio data via Coinbase CDP SDK"
+description: "Coinbase 自动化：通过 Coinbase CDP SDK 列出并管理加密货币钱包、账户和投资组合数据。 | Coinbase Automation: list and manage cryptocurrency wallets, accounts, and portfolio data via Coinbase CDP SDK"
 requires:
   mcp: [rube]
 ---

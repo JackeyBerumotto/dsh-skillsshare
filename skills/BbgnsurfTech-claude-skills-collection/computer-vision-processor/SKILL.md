@@ -1,8 +1,6 @@
 ---
 name: processing-computer-vision-tasks
-description: Process images using object detection, classification, and segmentation.
-  Use when requesting "analyze image", "object detection", "image classification",
-  or "computer vision".
+description: "使用目标检测、分类与分割技术处理图像。当请求「analyze image」「object detection」「image classification」或「computer vision」时使用。 | Process images using object detection, classification, and segmentation. Use when requesting \"analyze image\", \"object detection\", \"image classification\", or \"computer vision\"."
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash
 license: MIT
 ---

@@ -1,6 +1,6 @@
 ---
 name: loop-optimization
-description: Decides hand-vs-compiler for loop transforms (unrolling, SIMD, fusion, hoisting). Use when reviewing/authoring a hot loop or tempted to hand-optimize one.
+description: 决定循环变换（展开、SIMD、融合、外提）该手工完成还是交给编译器。当评审或编写热点循环，或忍不住想手工优化某个循环时使用。 | Decides hand-vs-compiler for loop transforms (unrolling, SIMD, fusion, hoisting). Use when reviewing/authoring a hot loop or tempted to hand-optimize one.
 alwaysApply: false
 category: cross-plugin-patterns
 tags:

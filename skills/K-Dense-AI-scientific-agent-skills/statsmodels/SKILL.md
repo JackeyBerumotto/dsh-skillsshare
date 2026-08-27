@@ -1,6 +1,6 @@
 ---
 name: statsmodels
-description: Statistical models library for Python. Use when you need specific model classes (OLS, GLM, mixed models, ARIMA) with detailed diagnostics, residuals, and inference. Best for econometrics, time series, rigorous inference with coefficient tables. For guided statistical test selection with APA reporting use statistical-analysis.
+description: Python 统计模型库。当你需要特定的模型类（OLS、GLM、混合模型、ARIMA）并附带详细的诊断、残差和推断时使用。最适合计量经济学、时间序列以及带系数表的严谨推断。如需带 APA 报告的引导式统计检验选择，请使用 statistical-analysis。 | Statistical models library for Python. Use when you need specific model classes (OLS, GLM, mixed models, ARIMA) with detailed diagnostics, residuals, and inference. Best for econometrics, time series, rigorous inference with coefficient tables. For guided statistical test selection with APA reporting use statistical-analysis.
 allowed-tools: Read Write Edit Bash
 compatibility: Requires Python 3.9+ and statsmodels 0.14.6-compatible dependencies. Use `uv pip install statsmodels==0.14.6`; optional predictive-metric examples also need scikit-learn.
 license: BSD-3-Clause license

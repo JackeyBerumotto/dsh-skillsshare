@@ -1,6 +1,6 @@
 ---
 name: structured-output
-description: Formats review deliverables with consistent structure for comparable findings. Use when finalizing any review or analysis that must be shared or compared.
+description: 以一致的结构格式化评审交付物，让发现项可比较。在定稿任何要共享或对比的评审或分析时使用。 | Formats review deliverables with consistent structure for comparable findings. Use when finalizing any review or analysis that must be shared or compared.
 alwaysApply: false
 category: output-patterns
 tags:

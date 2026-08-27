@@ -1,6 +1,6 @@
 ---
 name: php
-description: "Language-specific super-code guidelines for php."
+description: "面向 php 的语言级 super-code 指南。 | Language-specific super-code guidelines for php."
 risk: safe
 source: community
 date_added: "2026-06-16"

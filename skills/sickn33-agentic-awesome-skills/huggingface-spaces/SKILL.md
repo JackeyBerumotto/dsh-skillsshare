@@ -1,6 +1,6 @@
 ---
 name: huggingface-spaces
-description: Build, deploy, and maintain applications on Hugging Face Spaces — Gradio / Docker / Static SDKs, ZeroGPU and dedicated hardware, model loading, debugging, buckets, inference providers, community grants. Use whenever the user asks to create or host an app on Hugging Face, port code onto...
+description: 在 Hugging Face Spaces 上构建、部署和维护应用——Gradio、Docker、Static SDK，ZeroGPU 与专属硬件，模型加载、调试、存储桶、推理服务商、社区资助。当用户要求在 Hugging Face 上创建或托管应用、把代码移植到…… | Build, deploy, and maintain applications on Hugging Face Spaces — Gradio / Docker / Static SDKs, ZeroGPU and dedicated hardware, model loading, debugging, buckets, inference providers, community grants. Use whenever the user asks to create or host an app on Hugging Face, port code onto...
 risk: unknown
 source: https://github.com/huggingface/skills/tree/main/skills/huggingface-spaces
 source_repo: huggingface/skills

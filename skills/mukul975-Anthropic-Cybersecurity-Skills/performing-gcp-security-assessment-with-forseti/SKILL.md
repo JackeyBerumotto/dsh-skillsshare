@@ -1,11 +1,6 @@
 ---
 name: performing-gcp-security-assessment-with-forseti
-description: 'Performing comprehensive security assessments of Google Cloud Platform
-  environments using Forseti Security, Security Command Center, and gcloud CLI to
-  audit IAM policies, firewall rules, storage permissions, and compliance against
-  CIS GCP Foundations Benchmark.
-
-  '
+description: "使用 Forseti Security、Security Command Center 和 gcloud CLI 对 Google Cloud Platform 环境执行全面安全评估，审计 IAM 策略、防火墙规则、存储权限以及对照 CIS GCP Foundations Benchmark 的合规性。 | Performing comprehensive security assessments of Google Cloud Platform environments using Forseti Security, Security Command Center, and gcloud CLI to audit IAM policies, firewall rules, storage permissions, and compliance against CIS GCP Foundations Benchmark."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

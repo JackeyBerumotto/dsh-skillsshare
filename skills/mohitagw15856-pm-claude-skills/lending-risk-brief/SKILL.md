@@ -1,6 +1,6 @@
 ---
 name: lending-risk-brief
-description: "Write a portfolio-level lending risk brief: concentration analysis by sector, geography and single name, vintage performance, migration matrix narrative, macro-sensitivity scenarios, top watch names, and actions. Use when asked to write a portfolio risk report, credit risk committee brief, loan book review, or quarterly portfolio quality update. Produces a structured risk brief with concentration tables, migration narrative, scenario read, watch list, and recommended actions."
+description: "撰写组合级信贷风险简报：按行业、地域和单一名称的集中度分析、发放年份表现、迁徙矩阵叙述、宏观敏感性情景、重点观察名单和行动建议。在被要求编写组合风险报告、信贷风险委员会简报、贷款组合审查或季度组合质量更新时使用。产出结构化风险简报，包含集中度表、迁徙叙述、情景解读、观察名单和建议行动。 | Write a portfolio-level lending risk brief: concentration analysis by sector, geography and single name, vintage performance, migration matrix narrative, macro-sensitivity scenarios, top watch names, and actions. Use when asked to write a portfolio risk report, credit risk committee brief, loan book review, or quarterly portfolio quality update. Produces a structured risk brief with concentration tables, migration narrative, scenario read, watch list, and recommended actions."
 ---
 
 # Lending Risk Brief Skill

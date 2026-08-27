@@ -1,6 +1,6 @@
 ---
 name: azure-search-documents-ts
-description: "Build search applications with vector, hybrid, and semantic search capabilities."
+description: "构建具备向量、混合和语义搜索能力的搜索应用。 | Build search applications with vector, hybrid, and semantic search capabilities."
 risk: unknown
 source: community
 date_added: "2026-02-27"

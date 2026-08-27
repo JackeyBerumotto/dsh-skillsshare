@@ -1,6 +1,6 @@
 ---
 name: qiskit
-description: IBM quantum computing framework. Use when targeting IBM Quantum hardware, working with Qiskit Runtime for production workloads, or needing IBM optimization tools. Best for IBM hardware execution, quantum error mitigation, and enterprise quantum computing. For Google hardware use cirq; for gradient-based quantum ML use pennylane; for open quantum system simulations use qutip.
+description: IBM 量子计算框架。在面向 IBM Quantum 硬件开发、使用 Qiskit Runtime 处理生产工作负载或需要 IBM 优化工具时使用。最适合 IBM 硬件执行、量子误差缓解和企业级量子计算。面向 Google 硬件请使用 cirq；基于梯度的量子机器学习请使用 pennylane；开放量子系统仿真请使用 qutip。 | IBM quantum computing framework. Use when targeting IBM Quantum hardware, working with Qiskit Runtime for production workloads, or needing IBM optimization tools. Best for IBM hardware execution, quantum error mitigation, and enterprise quantum computing. For Google hardware use cirq; for gradient-based quantum ML use pennylane; for open quantum system simulations use qutip.
 license: Apache-2.0 license
 metadata: {"version": "1.0", "skill-author": "K-Dense Inc."}
 ---

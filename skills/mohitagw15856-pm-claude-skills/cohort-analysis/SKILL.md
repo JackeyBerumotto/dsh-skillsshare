@@ -1,6 +1,6 @@
 ---
 name: cohort-analysis
-description: "Structure a cohort analysis for retention, LTV, or behavioural patterns. Use when asked to run a cohort analysis, analyse retention by cohort, segment users by behaviour over time, or calculate lifetime value by acquisition period. Produces a complete cohort analysis framework with methodology, cohort definitions, retention curves, and prioritised interventions."
+description: "构建用于留存、LTV 或行为模式的队列分析。当被要求进行队列分析、按队列分析留存、按行为随时间划分用户，或按获客周期计算生命周期价值时使用。产出完整的队列分析框架，包含方法论、队列定义、留存曲线和按优先级排序的干预措施。 | Structure a cohort analysis for retention, LTV, or behavioural patterns. Use when asked to run a cohort analysis, analyse retention by cohort, segment users by behaviour over time, or calculate lifetime value by acquisition period. Produces a complete cohort analysis framework with methodology, cohort definitions, retention curves, and prioritised interventions."
 ---
 
 # Cohort Analysis Skill

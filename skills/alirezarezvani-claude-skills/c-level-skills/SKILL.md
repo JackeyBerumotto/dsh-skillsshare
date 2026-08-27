@@ -1,6 +1,6 @@
 ---
 name: "c-level-skills"
-description: "Index and router for the C-level advisory bundle: 33 skills covering 14 C-suite roles, orchestration, cross-cutting capabilities, and culture. Use when exploring what the c-level-advisor bundle contains, deciding which advisor skill fits a question, or finding the entry points (cs-onboard interview, chief-of-staff routing, board-meeting protocol)."
+description: "C 级顾问技能包的索引与路由器：33 个技能，覆盖 14 个 C 序列高管角色、编排、横向能力与文化。在探索 c-level-advisor 技能包内容、决定哪个顾问技能适合某个问题，或寻找入口点（cs-onboard 访谈、chief-of-staff 路由、董事会会议协议）时使用。 | Index and router for the C-level advisory bundle: 33 skills covering 14 C-suite roles, orchestration, cross-cutting capabilities, and culture. Use when exploring what the c-level-advisor bundle contains, deciding which advisor skill fits a question, or finding the entry points (cs-onboard interview, chief-of-staff routing, board-meeting protocol)."
 license: MIT
 metadata:
   version: 2.1.0

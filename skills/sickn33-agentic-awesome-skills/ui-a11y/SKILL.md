@@ -1,6 +1,6 @@
 ---
 name: ui-a11y
-description: Audit a component or page for accessibility issues and fix them
+description: 审计组件或页面的无障碍问题并加以修复 | Audit a component or page for accessibility issues and fix them
 risk: unknown
 source: https://github.com/bitjaru/styleseed/tree/main/engine/.claude/skills/ss-a11y
 source_repo: bitjaru/styleseed

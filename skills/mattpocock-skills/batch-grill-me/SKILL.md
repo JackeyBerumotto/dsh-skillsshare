@@ -1,6 +1,6 @@
 ---
 name: batch-grill-me
-description: A relentless interview that asks every frontier question at once, round by round.
+description: 一场毫不留情的访谈，一轮一轮地把所有最前沿的问题一次性问完。 | A relentless interview that asks every frontier question at once, round by round.
 disable-model-invocation: true
 ---
 

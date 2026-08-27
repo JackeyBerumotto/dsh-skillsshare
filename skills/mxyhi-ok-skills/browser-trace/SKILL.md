@@ -1,6 +1,6 @@
 ---
 name: browser-trace
-description: Capture a full DevTools-protocol trace of any browser automation — CDP firehose, screenshots, and DOM dumps — then bisect the stream into per-page searchable buckets. Use when the user wants to debug a failed run, audit network/console/DOM activity, attach a trace to an in-progress session, or feed structured per-page summaries back into an agent loop so its next iteration learns from the last one.
+description: 为任意浏览器自动化捕获完整的 DevTools 协议追踪——CDP 数据流、截图和 DOM 转储——再把数据流切分为按页面划分的可搜索分桶。当用户想调试失败的运行、审计网络、控制台或 DOM 活动、为进行中的会话附加追踪，或把结构化的逐页摘要回馈给智能体循环让其下一次迭代从上一次学习时使用。 | Capture a full DevTools-protocol trace of any browser automation — CDP firehose, screenshots, and DOM dumps — then bisect the stream into per-page searchable buckets. Use when the user wants to debug a failed run, audit network/console/DOM activity, attach a trace to an in-progress session, or feed structured per-page summaries back into an agent loop so its next iteration learns from the last one.
 compatibility: "Requires Node 18+, the browse CLI (`npm install -g browse`) with `browse cdp`, and optionally `jq` for ad-hoc querying of the bisected JSONL files. For remote Browserbase sessions, also requires `BROWSERBASE_API_KEY`. The skill scripts themselves use only the Node standard library — no `npm install` step."
 license: MIT
 allowed-tools: Bash, Read, Grep

@@ -1,6 +1,6 @@
 ---
 name: HeyGen Automation
-description: "Automate AI video generation, avatar browsing, template-based video creation, and video status tracking through HeyGen's platform via Composio"
+description: "通过 Composio 经由 HeyGen 平台自动化 AI 视频生成、数字人浏览、基于模板的视频创作以及视频状态跟踪。 | Automate AI video generation, avatar browsing, template-based video creation, and video status tracking through HeyGen's platform via Composio"
 requires:
   mcp:
     - rube

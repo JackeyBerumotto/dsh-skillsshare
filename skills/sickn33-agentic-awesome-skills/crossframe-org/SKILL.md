@@ -1,6 +1,6 @@
 ---
 name: crossframe-org
-description: "Use when CrossFrame Suite routes explicit Chinese analysis of teams, projects, organizations, responsibility chains, feedback write-back, repair, or retrospectives."
+description: "当 CrossFrame Suite 路由到以中文明确分析团队、项目、组织、责任链、反馈回写、修复或复盘时使用。 | Use when CrossFrame Suite routes explicit Chinese analysis of teams, projects, organizations, responsibility chains, feedback write-back, repair, or retrospectives."
 category: business
 risk: safe
 source: community

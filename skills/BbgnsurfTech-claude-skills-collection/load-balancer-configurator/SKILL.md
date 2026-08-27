@@ -1,5 +1,5 @@
 ---
-description: Use when configuring load balancers including ALB, NLB, Nginx, and HAProxy. Trigger with phrases like "configure load balancer", "create ALB", "setup nginx load balancing", or "haproxy configuration". Generates production-ready configurations with health checks, SSL termination, sticky sessions, and traffic distribution rules.
+description: 在配置负载均衡器（包括 ALB、NLB、Nginx 和 HAProxy）时使用。触发词如「configure load balancer」「create ALB」「setup nginx load balancing」或「haproxy configuration」。生成带健康检查、SSL 终止、会话保持和流量分发规则的生产级配置。 | Use when configuring load balancers including ALB, NLB, Nginx, and HAProxy. Trigger with phrases like "configure load balancer", "create ALB", "setup nginx load balancing", or "haproxy configuration". Generates production-ready configurations with health checks, SSL termination, sticky sessions, and traffic distribution rules.
 allowed-tools:
 - Read
 - Write

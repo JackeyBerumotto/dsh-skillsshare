@@ -1,6 +1,6 @@
 ---
 name: workflow-builder
-description: Design and write deterministic multi-agent workflow scripts (.js files in .claude/workflows/) for Claude Code's Workflow tool. Use when a user wants to build, create, author, scaffold, or run a custom Claude Code workflow, orchestrate sub-agents (fan-out, pipeline, loop, judge-panel), or automate a repeatable multi-step task across fresh-context agents.
+description: 为 Claude Code 的 Workflow 工具设计并编写确定性的多智能体工作流脚本（.claude/workflows/ 目录下的 .js 文件）。当用户想要构建、创建、编写、搭建或运行自定义 Claude Code 工作流、编排子 agent（扇出、流水线、循环、评审小组），或在全新上下文的 agent 之间自动化可重复的多步骤任务时使用。 | Design and write deterministic multi-agent workflow scripts (.js files in .claude/workflows/) for Claude Code's Workflow tool. Use when a user wants to build, create, author, scaffold, or run a custom Claude Code workflow, orchestrate sub-agents (fan-out, pipeline, loop, judge-panel), or automate a repeatable multi-step task across fresh-context agents.
 license: MIT
 metadata:
   inspired_by: "https://github.com/ray-amjad/claude-code-workflow-creator (Ray Amjad)"

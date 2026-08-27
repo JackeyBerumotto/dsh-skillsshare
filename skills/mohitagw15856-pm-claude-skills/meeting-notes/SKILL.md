@@ -1,6 +1,6 @@
 ---
 name: meeting-notes
-description: "Structure and format meeting notes following PM best practices. Use when asked to create meeting notes, format discussion notes, capture action items, or document decisions from any meeting type. Produces structured notes with decisions, action items (owner + deadline), open questions, and next steps."
+description: "按产品经理最佳实践构建并格式化会议纪要。当被要求创建会议记录、格式化讨论笔记、记录行动项，或为任何类型的会议记录决策时使用。产出结构化纪要，包含决策、行动项（负责人、截止日期）、待解决问题和后续步骤。 | Structure and format meeting notes following PM best practices. Use when asked to create meeting notes, format discussion notes, capture action items, or document decisions from any meeting type. Produces structured notes with decisions, action items (owner + deadline), open questions, and next steps."
 ---
 
 # Meeting Notes Skill

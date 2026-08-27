@@ -1,7 +1,7 @@
 ---
 name: designing-database-schemas
 description: |
-  Use when you need to work with database schema design.
+  当你需要处理数据库模式设计时使用。此技能提供模式设计和迁移及全面的指导和自动化。触发词如「design schema」「create migration」或「model database」。 |
   This skill provides schema design and migrations with comprehensive guidance and automation.
   Trigger with phrases like "design schema", "create migration",
   or "model database".

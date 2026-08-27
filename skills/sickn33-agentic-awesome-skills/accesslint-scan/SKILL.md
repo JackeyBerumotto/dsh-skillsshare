@@ -1,6 +1,6 @@
 ---
 name: accesslint-scan
-description: "Audit a live page for accessibility issues, locate each WCAG violation precisely, and return a selector-grounded fix worklist without editing."
+description: "审计线上页面的可访问性问题，精确定位每处 WCAG 违规，并返回基于选择器的修复工作清单，但不做任何编辑。 | Audit a live page for accessibility issues, locate each WCAG violation precisely, and return a selector-grounded fix worklist without editing."
 risk: safe
 source: "https://github.com/AccessLint/skills"
 date_added: "2026-06-02"

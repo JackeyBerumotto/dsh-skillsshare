@@ -1,6 +1,6 @@
 ---
 name: difficult-conversation
-description: "Prepare for and script a hard conversation — conflict, bad news, a boundary, an apology. Use when asked to prepare for a difficult conversation, address a conflict, deliver bad news, confront a colleague, or have a hard talk with a manager/report/peer. Produces a prep brief — the real goal, the other side's likely view, an opening line, the key points, anticipated reactions with responses, and the outcome you want."
+description: "为艰难对话做准备并撰写脚本——冲突、坏消息、设立边界、道歉。当被要求准备一场艰难的对话、处理冲突、传达坏消息、与同事对峙，或与上级/下属/同事进行一次艰难谈话时使用。产出一份准备简报——真正的目标、对方可能的观点、开场白、关键要点、预期反应及应对，以及你想要的结果。 | Prepare for and script a hard conversation — conflict, bad news, a boundary, an apology. Use when asked to prepare for a difficult conversation, address a conflict, deliver bad news, confront a colleague, or have a hard talk with a manager/report/peer. Produces a prep brief — the real goal, the other side's likely view, an opening line, the key points, anticipated reactions with responses, and the outcome you want."
 ---
 
 # Difficult Conversation Skill

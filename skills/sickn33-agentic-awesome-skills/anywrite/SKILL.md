@@ -1,6 +1,6 @@
 ---
 name: anywrite
-description: "Compiled CLI covering all 52 endpoints of the Anytype local API — objects, properties, tags, search, chat, files — one binary, no MCP server needed."
+description: "覆盖 Anytype 本地 API 全部 52 个端点的编译型 CLI——对象、属性、标签、搜索、聊天、文件——单个二进制文件，无需 MCP 服务器。 | Compiled CLI covering all 52 endpoints of the Anytype local API — objects, properties, tags, search, chat, files — one binary, no MCP server needed."
 category: productivity
 risk: critical
 source: community

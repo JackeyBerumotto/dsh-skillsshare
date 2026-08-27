@@ -1,6 +1,6 @@
 ---
 name: "red-team"
-description: "Use when planning or executing authorized red team engagements, attack path analysis, or offensive security simulations. Covers MITRE ATT&CK kill-chain planning, technique scoring, choke point identification, OPSEC risk assessment, and crown jewel targeting."
+description: "在规划或执行授权的红队交战、攻击路径分析或进攻性安全模拟时使用。涵盖 MITRE ATT&CK 杀伤链规划、技术评分、瓶颈点识别、OPSEC 风险评估和核心资产定位。 | Use when planning or executing authorized red team engagements, attack path analysis, or offensive security simulations. Covers MITRE ATT&CK kill-chain planning, technique scoring, choke point identification, OPSEC risk assessment, and crown jewel targeting."
 ---
 
 # Red Team

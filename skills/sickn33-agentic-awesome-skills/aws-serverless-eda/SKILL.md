@@ -1,6 +1,6 @@
 ---
 name: aws-serverless-eda
-description: AWS serverless and event-driven architecture expert based on Well-Architected Framework. Use when building serverless APIs, Lambda functions, REST APIs, microservices, or async workflows. Covers Lambda with TypeScript/Python, API Gateway (REST/HTTP), DynamoDB, Step Functions,...
+description: 基于 Well-Architected Framework 的 AWS 无服务器与事件驱动架构专家。适用于构建无服务器 API、Lambda 函数、REST API、微服务或异步工作流时。涵盖用 TypeScript 或 Python 编写 Lambda、API Gateway（REST/HTTP）、DynamoDB、Step Functions 等 | AWS serverless and event-driven architecture expert based on Well-Architected Framework. Use when building serverless APIs, Lambda functions, REST APIs, microservices, or async workflows. Covers Lambda with TypeScript/Python, API Gateway (REST/HTTP), DynamoDB, Step Functions,...
 risk: unknown
 source: https://github.com/zxkane/aws-skills/tree/main/plugins/serverless-eda/skills/aws-serverless-eda
 source_repo: zxkane/aws-skills

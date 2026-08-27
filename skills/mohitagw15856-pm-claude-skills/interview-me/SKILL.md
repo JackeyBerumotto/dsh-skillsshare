@@ -1,6 +1,6 @@
 ---
 name: interview-me
-description: "Elicit the real requirements by interviewing the requester BEFORE building or writing anything — one question at a time, until the brief is buildable. Use when a request is vague ('make me a dashboard', 'write something for the board'), when past deliverables missed the mark, or when the user says 'interview me' / 'ask me questions first'. Produces a validated brief: goal, audience, constraints, success criteria, and explicit non-goals — then, and only then, the work."
+description: "在动手构建或写作之前，通过逐个提问访谈需求方来挖掘真实需求——一次只问一个问题，直到需求简报可执行。当请求含糊（「给我做个仪表盘」「给董事会写点什么」）、以往交付物不达标，或用户说「先访谈我」/「先问我问题」时使用。产出经过验证的需求简报：目标、受众、约束、成功标准以及明确的非目标——然后，也只有在那时，才开始干活。 | Elicit the real requirements by interviewing the requester BEFORE building or writing anything — one question at a time, until the brief is buildable. Use when a request is vague ('make me a dashboard', 'write something for the board'), when past deliverables missed the mark, or when the user says 'interview me' / 'ask me questions first'. Produces a validated brief: goal, audience, constraints, success criteria, and explicit non-goals — then, and only then, the work."
 ---
 
 # Interview Me Skill

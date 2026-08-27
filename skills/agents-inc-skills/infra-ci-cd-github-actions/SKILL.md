@@ -1,6 +1,6 @@
 ---
 name: infra-ci-cd-github-actions
-description: GitHub Actions, pipelines, deployment
+description: GitHub Actions、流水线、部署 | GitHub Actions, pipelines, deployment
 ---
 
 # CI/CD Pipelines

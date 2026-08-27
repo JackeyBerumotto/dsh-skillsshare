@@ -1,6 +1,6 @@
 ---
 name: "status"
-description: "Show DAG state, agent progress, and branch status for an AgentHub session. Use when the user runs /hub:status or asks how the AgentHub agents are doing."
+description: "显示 AgentHub 会话的 DAG 状态、代理进度和分支状态。当用户运行 /hub:status 或询问 AgentHub 代理进展如何时使用。 | Show DAG state, agent progress, and branch status for an AgentHub session. Use when the user runs /hub:status or asks how the AgentHub agents are doing."
 command: /hub:status
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: shared-security-auth-security
-description: Secrets management, XSS prevention, CSRF protection, dependency scanning, DOMPurify sanitization, CSP headers, CODEOWNERS, HttpOnly cookies
+description: 密钥管理、XSS 防护、CSRF 防护、依赖扫描、DOMPurify 净化、CSP 响应头、CODEOWNERS、HttpOnly cookie。 | Secrets management, XSS prevention, CSRF protection, dependency scanning, DOMPurify sanitization, CSP headers, CODEOWNERS, HttpOnly cookies
 ---
 
 # Security Patterns

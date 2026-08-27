@@ -1,6 +1,6 @@
 ---
 name: senior-computer-vision
-description: World-class computer vision skill for image/video processing, object detection, segmentation, and visual AI systems. Expertise in PyTorch, OpenCV, YOLO, SAM, diffusion models, and vision transformers. Includes 3D vision, video analysis, real-time processing, and production deployment. Use when building vision AI systems, implementing object detection, training custom vision models, or optimizing inference pipelines.
+description: 世界级计算机视觉技能，涵盖图像/视频处理、目标检测、图像分割和视觉 AI 系统。精通 PyTorch、OpenCV、YOLO、SAM、扩散模型和视觉 transformer。包含 3D 视觉、视频分析、实时处理和生产部署。在构建视觉 AI 系统、实现目标检测、训练自定义视觉模型或优化推理流水线时使用。 | World-class computer vision skill for image/video processing, object detection, segmentation, and visual AI systems. Expertise in PyTorch, OpenCV, YOLO, SAM, diffusion models, and vision transformers. Includes 3D vision, video analysis, real-time processing, and production deployment. Use when building vision AI systems, implementing object detection, training custom vision models, or optimizing inference pipelines.
 ---
 
 # Senior Computer Vision Engineer

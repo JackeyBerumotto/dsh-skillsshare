@@ -1,6 +1,6 @@
 ---
 name: makefile-generation
-description: Generates Makefiles with testing, linting, formatting, and automation targets. Use when starting a project or standardizing build automation.
+description: 生成包含测试、检查、格式化和自动化目标的 Makefile。在启动项目或标准化构建自动化时使用。 | Generates Makefiles with testing, linting, formatting, and automation targets. Use when starting a project or standardizing build automation.
 globs: "**/Makefile"
 alwaysApply: false
 # Custom metadata (not used by Claude for matching):

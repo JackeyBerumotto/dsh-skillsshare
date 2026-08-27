@@ -1,6 +1,6 @@
 ---
 name: context-optimization
-description: Optimizes context window via MECW principles and memory tiering. Use when context exceeds 30% or before long multi-step tasks.
+description: 通过 MECW 原则和内存分层优化上下文窗口。在上下文占用超过 30% 或在长多步任务开始前使用。 | Optimizes context window via MECW principles and memory tiering. Use when context exceeds 30% or before long multi-step tasks.
 alwaysApply: false
 category: conservation
 token_budget: 150

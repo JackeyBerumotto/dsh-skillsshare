@@ -1,7 +1,7 @@
 ---
 name: implementing-database-caching
 description: |
-  Use when you need to implement multi-tier caching to improve database performance.
+  当你需要实现多层缓存以提升数据库性能时使用。此技能搭建 Redis、内存缓存和 CDN 层以降低数据库负载。触发词如「implement database caching」「add Redis cache layer」「improve query performance with caching」或「reduce database load」。 |
   This skill sets up Redis, in-memory caching, and CDN layers to reduce database load.
   Trigger with phrases like "implement database caching", "add Redis cache layer",
   "improve query performance with caching", or "reduce database load".

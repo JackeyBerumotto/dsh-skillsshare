@@ -1,7 +1,7 @@
 ---
 name: ctx-stats
 description: |
-  Show how much context window context-mode saved this session.
+  显示 context-mode 本次会话节省了多少上下文窗口。显示 token 消耗、上下文节省比率和按工具的明细。只读——仅显示统计，无重置功能。要彻底清空知识库，请改用 ctx_purge。触发方式：/context-mode:ctx-stats。 |
   Displays token consumption, context savings ratio, and per-tool breakdown.
   Read-only — shows stats only, no reset capability.
   To wipe the knowledge base entirely, use ctx_purge instead.

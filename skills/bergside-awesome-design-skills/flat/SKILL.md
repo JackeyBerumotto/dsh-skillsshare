@@ -1,6 +1,6 @@
 ---
 name: flat
-description: Two-dimensional minimalist style with vibrant colors, clean typography, and no 3D effects for fast, user-friendly interfaces.
+description: 二维极简风格，色彩鲜艳、排版干净、无 3D 效果，打造快速友好的用户界面。 | Two-dimensional minimalist style with vibrant colors, clean typography, and no 3D effects for fast, user-friendly interfaces.
 license: MIT
 metadata:
   author: typeui.sh

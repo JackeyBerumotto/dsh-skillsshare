@@ -2,7 +2,7 @@
 name: generating-unit-tests
 version: 1.0.0
 description: |
-  Automatically generate comprehensive unit tests from source code covering happy paths, edge cases, and error conditions.
+  从源代码自动生成覆盖正常路径、边界情况和错误条件的完整单元测试。在为函数、类或模块创建测试覆盖时使用。可通过「generate unit tests」「create tests for」或「add test coverage」等短语触发。 |
   Use when creating test coverage for functions, classes, or modules.
   Trigger with phrases like "generate unit tests", "create tests for", or "add test coverage".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(test:unit-*)

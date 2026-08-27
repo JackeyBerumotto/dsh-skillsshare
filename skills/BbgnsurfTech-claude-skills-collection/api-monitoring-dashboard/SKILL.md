@@ -2,7 +2,7 @@
 name: monitoring-apis
 version: 1.0.0
 description: |
-  Build real-time API monitoring dashboards with metrics, alerts, and health checks.
+  构建带指标、告警和健康检查的实时 API 监控仪表盘。当追踪 API 健康与性能指标时使用。触发短语如「monitor the API」「add API metrics」或「setup API monitoring」。 |
   Use when tracking API health and performance metrics.
   Trigger with phrases like "monitor the API", "add API metrics", or "setup API monitoring".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(api:monitor-*)

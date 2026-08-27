@@ -1,6 +1,6 @@
 ---
 name: database-migration
-description: "Master database schema and data migrations across ORMs (Sequelize, TypeORM, Prisma), including rollback strategies and zero-downtime deployments."
+description: "掌握跨 ORM（Sequelize、TypeORM、Prisma）的数据库模式与数据迁移，包括回滚策略与零停机部署。 | Master database schema and data migrations across ORMs (Sequelize, TypeORM, Prisma), including rollback strategies and zero-downtime deployments."
 risk: unknown
 source: community
 date_added: "2026-02-27"

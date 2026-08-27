@@ -1,6 +1,6 @@
 ---
 name: citation-management
-description: Comprehensive citation management for academic research. Search Google Scholar and PubMed for papers, extract accurate metadata, validate citations, and generate properly formatted BibTeX entries. This skill should be used when you need to find papers, verify citation information, convert DOIs to BibTeX, or ensure reference accuracy in scientific writing.
+description: 面向学术研究的综合文献引用管理。在 Google Scholar 和 PubMed 中检索论文，提取准确的元数据，验证引用，并生成格式规范的 BibTeX 条目。当需要查找论文、核实引用信息、将 DOI 转换为 BibTeX，或确保科学写作中参考文献的准确性时使用本技能。 | Comprehensive citation management for academic research. Search Google Scholar and PubMed for papers, extract accurate metadata, validate citations, and generate properly formatted BibTeX entries. This skill should be used when you need to find papers, verify citation information, convert DOIs to BibTeX, or ensure reference accuracy in scientific writing.
 allowed-tools: Read Write Edit Bash
 license: MIT License
 required_environment_variables: [{"name": "OPENROUTER_API_KEY", "prompt": "OpenRouter API key for LLM-powered citation steps.", "required_for": "optional features"}, {"name": "NCBI_EMAIL", "prompt": "Email for NCBI Entrez identification.", "required_for": "optional features"}, {"name": "NCBI_API_KEY", "prompt": "NCBI API key to raise Entrez rate limits.", "required_for": "optional features"}]

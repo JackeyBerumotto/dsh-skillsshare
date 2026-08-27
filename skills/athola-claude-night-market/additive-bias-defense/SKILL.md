@@ -1,6 +1,6 @@
 ---
 name: additive-bias-defense
-description: Inverts burden of proof for code additions. Use when reviewing PRs, planning refactors, or running unbloat to challenge every addition's necessity.
+description: 颠倒代码新增项的举证责任。在审查 PR、规划重构或运行 unbloat 以质疑每项新增的必要性时使用。 | Inverts burden of proof for code additions. Use when reviewing PRs, planning refactors, or running unbloat to challenge every addition's necessity.
 alwaysApply: false
 category: quality-contract
 tags:

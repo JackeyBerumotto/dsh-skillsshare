@@ -1,6 +1,6 @@
 ---
 name: the-churning-customer
-description: "Simulate the exact customer who will quietly cancel in month 4 — their internal monologue through the lifecycle and the honest exit interview they never gave you. Use when asked why do customers really churn, simulate a churning customer, roleplay the customer who cancels, or what does silent churn look like for my product. Produces the customer's lifecycle monologue, their never-given exit interview, and a debrief with the earliest detectable signals and interventions."
+description: "模拟那个会在第 4 个月悄悄取消订阅的真实客户——其贯穿生命周期的内心独白，以及他们从未告诉过你的真实流失访谈。当被问到客户为何真正流失、模拟流失客户、扮演取消订阅的客户，或对我的产品而言沉默流失是什么样子时使用。产出客户生命周期独白、他们从未给出的流失访谈，以及一份带最早可检测信号和干预措施的复盘。 | Simulate the exact customer who will quietly cancel in month 4 — their internal monologue through the lifecycle and the honest exit interview they never gave you. Use when asked why do customers really churn, simulate a churning customer, roleplay the customer who cancels, or what does silent churn look like for my product. Produces the customer's lifecycle monologue, their never-given exit interview, and a debrief with the earliest detectable signals and interventions."
 ---
 
 # The Churning Customer Skill

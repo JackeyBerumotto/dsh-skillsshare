@@ -1,6 +1,6 @@
 ---
 name: folder-specific-claude-and-agents-md
-description: "Create folder-scoped CLAUDE.md and AGENTS.md guidance for future agents working in that area."
+description: "为今后在该区域工作的智能体创建文件夹作用域的 CLAUDE.md 和 AGENTS.md 指引。 | Create folder-scoped CLAUDE.md and AGENTS.md guidance for future agents working in that area."
 category: development
 risk: critical
 source: community

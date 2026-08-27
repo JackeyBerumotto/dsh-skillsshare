@@ -2,7 +2,7 @@
 name: building-api-gateway
 version: 1.0.0
 description: |
-  Create API gateways with routing, load balancing, rate limiting, and authentication.
+  创建具备路由、负载均衡、限流和认证功能的 API 网关。当需要路由和管理多个 API 服务时使用。可通过「build API gateway」「create API router」或「setup API gateway」等短语触发。 |
   Use when routing and managing multiple API services.
   Trigger with phrases like "build API gateway", "create API router", or "setup API gateway".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(api:gateway-*)

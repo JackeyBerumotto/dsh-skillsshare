@@ -1,12 +1,6 @@
 ---
 name: implementing-secrets-management-with-vault
-description: 'This skill covers deploying HashiCorp Vault for centralized secrets
-  management across cloud environments, including dynamic secret generation for databases
-  and cloud providers, transit encryption, PKI certificate management, and Kubernetes
-  integration. It addresses eliminating hardcoded credentials from application code
-  and CI/CD pipelines by implementing short-lived, automatically rotated secrets.
-
-  '
+description: "本技能涵盖部署 HashiCorp Vault 以在云环境中集中管理秘密，包括面向数据库与云提供商的动态秘密生成、transit 加密、PKI 证书管理与 Kubernetes 集成。内容涉及通过实施短期、自动轮换的秘密，消除应用代码与 CI/CD 管线中的硬编码凭据。 | This skill covers deploying HashiCorp Vault for centralized secrets management across cloud environments, including dynamic secret generation for databases and cloud providers, transit encryption, PKI certificate management, and Kubernetes integration. It addresses eliminating hardcoded credentials from application code and CI/CD pipelines by implementing short-lived, automatically rotated secrets."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

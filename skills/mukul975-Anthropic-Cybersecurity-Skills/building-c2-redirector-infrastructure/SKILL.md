@@ -1,7 +1,6 @@
 ---
 name: building-c2-redirector-infrastructure
-description: Architect redirectors with nginx and Apache, malleable profiles, and OPSEC
-  for resilient C2.
+description: "使用 nginx 和 Apache 构建重定向器、可塑性配置文件和 OPSEC，打造弹性 C2 基础设施。 | Architect redirectors with nginx and Apache, malleable profiles, and OPSEC for resilient C2."
 domain: cybersecurity
 subdomain: red-teaming
 tags:

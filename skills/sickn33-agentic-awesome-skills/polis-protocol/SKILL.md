@@ -1,6 +1,6 @@
 ---
 name: polis-protocol
-description: "Coordinate multi-vendor AI agents as a self-improving team — a learning router assigns work by track record and citizens can amend the protocol's own rules."
+description: "将多厂商 AI Agent 协调为一个自我改进的团队——学习型路由器按历史表现分配工作，成员可以修订协议自身的规则。 | Coordinate multi-vendor AI agents as a self-improving team — a learning router assigns work by track record and citizens can amend the protocol's own rules."
 category: orchestration
 risk: critical
 source: community

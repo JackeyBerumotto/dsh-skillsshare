@@ -1,6 +1,6 @@
 ---
 name: red-team-tools
-description: "Implement proven methodologies and tool workflows from top security researchers for effective reconnaissance, vulnerability discovery, and bug bounty hunting. Automate common tasks while maintaining thorough coverage of attack surfaces."
+description: "采用顶尖安全研究者的成熟方法论和工具工作流，高效开展侦察、漏洞发现和漏洞赏金猎捕。在自动化常见任务的同时保持对攻击面的全面覆盖。 | Implement proven methodologies and tool workflows from top security researchers for effective reconnaissance, vulnerability discovery, and bug bounty hunting. Automate common tasks while maintaining thorough coverage of attack surfaces."
 risk: offensive
 source: community
 author: zebbern

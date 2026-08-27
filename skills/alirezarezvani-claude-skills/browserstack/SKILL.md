@@ -1,7 +1,7 @@
 ---
 name: "browserstack"
 description: >-
-  Run tests on BrowserStack. Use when user mentions "browserstack",
+  在 BrowserStack 上运行测试。当用户提到「browserstack」「cross-browser」「cloud testing」「browser matrix」「test on safari」「test on firefox」或「browser compatibility」时使用。 |
   "cross-browser", "cloud testing", "browser matrix", "test on safari",
   "test on firefox", or "browser compatibility".
 ---

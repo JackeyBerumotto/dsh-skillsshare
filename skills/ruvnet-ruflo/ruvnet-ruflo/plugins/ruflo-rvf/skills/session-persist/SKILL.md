@@ -1,6 +1,6 @@
 ---
 name: session-persist
-description: Persist and restore agent sessions across conversations with state snapshots
+description: 通过状态快照跨对话持久化和恢复智能体会话 | Persist and restore agent sessions across conversations with state snapshots
 argument-hint: "[--save|--restore|--list]"
 allowed-tools: mcp__claude-flow__session_save mcp__claude-flow__session_restore mcp__claude-flow__session_list mcp__claude-flow__session_info mcp__claude-flow__session_delete mcp__claude-flow__hooks_session-start mcp__claude-flow__hooks_session-end mcp__claude-flow__hooks_session-restore Bash
 ---

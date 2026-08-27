@@ -1,6 +1,6 @@
 ---
 name: sales-page
-description: "Write a long-form sales page that takes a cold reader to a purchase. Use when asked to write a sales page, a long-form sales letter, a course/offer page, or direct-response copy that has to close on the page. Produces a full long-form structure — hook, problem agitation, the offer & mechanism, proof, offer stack & price framing, risk reversal, urgency, and a repeated CTA — written to sell, ethically."
+description: "撰写把冷读者带到下单的长文案销售页。在被要求编写销售页、长文案销售信、课程/产品报价页，或必须在页面上完成成交的直接响应文案时使用。产出完整长文案结构——钩子、问题放大、报价与机制、证明、产品组合与价格框架、风险逆转、紧迫感，以及反复出现的 CTA——以合乎道德的方式促成销售。 | Write a long-form sales page that takes a cold reader to a purchase. Use when asked to write a sales page, a long-form sales letter, a course/offer page, or direct-response copy that has to close on the page. Produces a full long-form structure — hook, problem agitation, the offer & mechanism, proof, offer stack & price framing, risk reversal, urgency, and a repeated CTA — written to sell, ethically."
 ---
 
 # Sales Page Skill

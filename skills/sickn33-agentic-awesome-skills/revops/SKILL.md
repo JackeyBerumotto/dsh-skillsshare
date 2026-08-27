@@ -1,6 +1,6 @@
 ---
 name: revops
-description: "Design and improve revenue operations, lead lifecycle rules, scoring, routing, handoffs, and CRM process automation. Use when marketing, sales, and customer success workflows need clearer operational structure."
+description: "设计并改进收入运营、线索生命周期规则、评分、路由、交接和 CRM 流程自动化。当市场营销、销售和客户成功工作流需要更清晰的运营结构时使用。 | Design and improve revenue operations, lead lifecycle rules, scoring, routing, handoffs, and CRM process automation. Use when marketing, sales, and customer success workflows need clearer operational structure."
 risk: unknown
 source: "https://github.com/coreyhaines31/marketingskills"
 date_added: "2026-03-21"

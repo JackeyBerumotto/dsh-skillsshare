@@ -1,6 +1,6 @@
 ---
 name: web-files-file-upload-patterns
-description: File upload patterns - drag-drop dropzones, chunked/resumable uploads, S3 presigned URLs, file validation (MIME type, magic bytes), progress tracking, image preview, accessibility (ARIA)
+description: 文件上传模式——拖放上传区、分片/断点续传、S3 预签名 URL、文件校验（MIME 类型、魔数）、进度跟踪、图片预览、无障碍（ARIA） | File upload patterns - drag-drop dropzones, chunked/resumable uploads, S3 presigned URLs, file validation (MIME type, magic bytes), progress tracking, image preview, accessibility (ARIA)
 ---
 
 # File Upload Patterns

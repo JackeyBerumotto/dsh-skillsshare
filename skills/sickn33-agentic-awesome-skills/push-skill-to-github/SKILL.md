@@ -1,6 +1,6 @@
 ---
 name: push-skill-to-github
-description: "Commit and push skill changes to the configured skills repository after review and validation."
+description: "在审查和验证通过后，将技能变更提交并推送到已配置的技能仓库。 | Commit and push skill changes to the configured skills repository after review and validation."
 category: development
 risk: critical
 source: community

@@ -1,6 +1,6 @@
 ---
 name: legal-advisor
-description: Draft privacy policies, terms of service, disclaimers, and legal notices. Creates GDPR-compliant texts, cookie policies, and data processing agreements.
+description: 起草隐私政策、服务条款、免责声明和法律声明。创建符合 GDPR 的文本、Cookie 政策和数据处理协议。 | Draft privacy policies, terms of service, disclaimers, and legal notices. Creates GDPR-compliant texts, cookie policies, and data processing agreements.
 risk: unknown
 source: community
 date_added: '2026-02-27'

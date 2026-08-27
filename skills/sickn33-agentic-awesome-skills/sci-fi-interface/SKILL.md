@@ -1,6 +1,6 @@
 ---
 name: sci-fi-interface
-description: Web and App implementation guide for Sci-Fi Interface Design. Trigger when user wants HUDs, spacecraft dashboards, or tactical military readouts.
+description: Sci-Fi Interface Design（科幻界面设计）的 Web 与 App 实现指南。当用户需要 HUD、飞船仪表盘或军用战术读数界面时触发。 | Web and App implementation guide for Sci-Fi Interface Design. Trigger when user wants HUDs, spacecraft dashboards, or tactical military readouts.
 date_added: "2026-06-17"
 risk: safe
 source: self

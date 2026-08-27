@@ -1,6 +1,6 @@
 ---
 name: fluidsim
-description: Framework for computational fluid dynamics simulations using Python. Use when running fluid dynamics simulations including Navier-Stokes equations (2D/3D), shallow water equations, stratified flows, or when analyzing turbulence, vortex dynamics, or geophysical flows. Provides pseudospectral methods with FFT, HPC support, and comprehensive output analysis.
+description: 使用 Python 的计算流体力学仿真框架。在运行包括 Navier-Stokes 方程（2D/3D）、浅水方程、分层流的流体仿真，或分析湍流、涡动力学或地球物理流动时使用。提供基于 FFT 的伪谱方法、HPC 支持与全面的输出分析。 | Framework for computational fluid dynamics simulations using Python. Use when running fluid dynamics simulations including Navier-Stokes equations (2D/3D), shallow water equations, stratified flows, or when analyzing turbulence, vortex dynamics, or geophysical flows. Provides pseudospectral methods with FFT, HPC support, and comprehensive output analysis.
 license: CeCILL FREE SOFTWARE LICENSE AGREEMENT
 metadata: {"version": "1.0", "skill-author": "K-Dense Inc."}
 ---

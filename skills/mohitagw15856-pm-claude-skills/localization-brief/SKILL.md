@@ -1,6 +1,6 @@
 ---
 name: localization-brief
-description: "Plan the localization of a product/content for a new market — beyond translating the words. Use when asked to localize a product, plan market entry localization, prepare a localization brief, or figure out what to adapt for a new region. Produces a brief — target locales, what to translate vs. adapt vs. rebuild (UI, content, formats, imagery, payments, legal), priorities, and the risks/cultural pitfalls."
+description: "规划面向新市场的产品/内容本地化——不止于翻译文字。当被要求本地化产品、规划进入市场的本地化、准备本地化简报，或确定要为新地区做哪些适配时使用。产出一份简报——目标区域语言、哪些要翻译/适配/重建（UI、内容、格式、图像、支付、法律）、优先级，以及风险/文化陷阱。 | Plan the localization of a product/content for a new market — beyond translating the words. Use when asked to localize a product, plan market entry localization, prepare a localization brief, or figure out what to adapt for a new region. Produces a brief — target locales, what to translate vs. adapt vs. rebuild (UI, content, formats, imagery, payments, legal), priorities, and the risks/cultural pitfalls."
 ---
 
 # Localization Brief Skill

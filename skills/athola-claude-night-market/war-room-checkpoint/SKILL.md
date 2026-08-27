@@ -1,6 +1,6 @@
 ---
 name: war-room-checkpoint
-description: Assesses decision reversibility and risk at critical checkpoints. Use when a workflow reaches a high-stakes branch needing escalation check.
+description: 在关键检查点评估决策的可逆性与风险。当工作流到达需要升级审查的高风险分支时使用。 | Assesses decision reversibility and risk at critical checkpoints. Use when a workflow reaches a high-stakes branch needing escalation check.
 alwaysApply: false
 # Custom metadata (not used by Claude for matching):
 model_preference: claude-sonnet-4-6

@@ -1,7 +1,7 @@
 ---
 name: frontend-a11y
 description: >
-  Accessibility patterns for React and Next.js — semantic HTML, ARIA attributes,
+  React 与 Next.js 的无障碍模式——语义化 HTML、ARIA 属性、表单标注、键盘导航、焦点管理和屏幕阅读器支持。适用于构建任何交互式 UI 组件或表单时。 |
   form labeling, keyboard navigation, focus management, and screen reader support.
   Use when building any interactive UI component or form.
 metadata:

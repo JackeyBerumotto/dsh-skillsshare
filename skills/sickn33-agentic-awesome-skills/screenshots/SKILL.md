@@ -1,6 +1,6 @@
 ---
 name: screenshots
-description: "Generate marketing screenshots of your app using Playwright. Use when the user wants to create screenshots for Product Hunt, social media, landing pages, or documentation."
+description: "使用 Playwright 为你的应用生成营销截图。当用户想为 Product Hunt、社交媒体、落地页或文档创建截图时使用。 | Generate marketing screenshots of your app using Playwright. Use when the user wants to create screenshots for Product Hunt, social media, landing pages, or documentation."
 risk: safe
 source: "https://github.com/Shpigford/skills/tree/main/screenshots"
 date_added: "2026-02-27"

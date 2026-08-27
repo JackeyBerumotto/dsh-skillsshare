@@ -1,6 +1,6 @@
 ---
 name: seo-programmatic
-description: "Plan and audit programmatic SEO pages generated at scale from structured data. Use when designing templates, URL systems, internal linking, quality gates, and index-bloat safeguards for pages at scale."
+description: "规划并审计基于结构化数据大规模生成的程序化 SEO 页面。在为大规模页面设计模板、URL 体系、内链、质量门槛和索引膨胀防护时使用。 | Plan and audit programmatic SEO pages generated at scale from structured data. Use when designing templates, URL systems, internal linking, quality gates, and index-bloat safeguards for pages at scale."
 risk: unknown
 source: "https://github.com/AgriciDaniel/claude-seo"
 date_added: "2026-03-21"

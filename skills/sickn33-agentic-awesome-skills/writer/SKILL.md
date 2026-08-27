@@ -1,6 +1,6 @@
 ---
 name: writer
-description: "Document creation, format conversion (ODT/DOCX/PDF), mail merge, and automation with LibreOffice Writer."
+description: "使用 LibreOffice Writer 进行文档创建、格式转换（ODT/DOCX/PDF）、邮件合并和自动化。 | Document creation, format conversion (ODT/DOCX/PDF), mail merge, and automation with LibreOffice Writer."
 category: document-processing
 risk: safe
 source: personal

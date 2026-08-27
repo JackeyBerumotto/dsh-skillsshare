@@ -1,6 +1,6 @@
 ---
 name: saas-multi-tenant
-description: "Design and implement multi-tenant SaaS architectures with row-level security, tenant-scoped queries, shared-schema isolation, and safe cross-tenant admin patterns in PostgreSQL and TypeScript."
+description: "使用 PostgreSQL 和 TypeScript 设计并实现多租户 SaaS 架构，涵盖行级安全、租户范围查询、共享 schema 隔离以及安全的跨租户管理模式。 | Design and implement multi-tenant SaaS architectures with row-level security, tenant-scoped queries, shared-schema isolation, and safe cross-tenant admin patterns in PostgreSQL and TypeScript."
 risk: safe
 source: community
 date_added: "2026-03-28"

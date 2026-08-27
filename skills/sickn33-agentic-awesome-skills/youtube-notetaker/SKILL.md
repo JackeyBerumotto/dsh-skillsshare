@@ -1,6 +1,6 @@
 ---
 name: youtube-notetaker
-description: "Turn YouTube talks into local study notes with slides, transcripts, editable annotations, and a markdown-backed viewer."
+description: "将 YouTube 演讲转化为本地学习笔记，包含幻灯片、字幕、可编辑批注和基于 Markdown 的查看器。 | Turn YouTube talks into local study notes with slides, transcripts, editable annotations, and a markdown-backed viewer."
 category: "video"
 risk: "safe"
 source: "official"

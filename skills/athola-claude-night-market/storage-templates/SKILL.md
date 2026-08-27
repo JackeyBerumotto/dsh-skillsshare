@@ -1,6 +1,6 @@
 ---
 name: storage-templates
-description: Provides templates and lifecycle patterns for storage and documentation systems. Use when organizing knowledge storage, config lifecycle, or naming conventions.
+description: 为存储和文档系统提供模板与生命周期模式。在组织知识存储、配置生命周期或命名约定时使用。 | Provides templates and lifecycle patterns for storage and documentation systems. Use when organizing knowledge storage, config lifecycle, or naming conventions.
 alwaysApply: false
 category: infrastructure
 tags:

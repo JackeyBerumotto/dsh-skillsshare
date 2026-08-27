@@ -1,6 +1,6 @@
 ---
 name: product-lens
-description: Use this skill to validate the "why" before building, run product diagnostics, and pressure-test product direction before the request becomes an implementation contract.
+description: 使用此技能在动手构建之前验证「为什么」、运行产品诊断，并在需求变成实现契约之前对产品方向进行压力测试。 | Use this skill to validate the "why" before building, run product diagnostics, and pressure-test product direction before the request becomes an implementation contract.
 metadata:
   origin: ECC
 ---

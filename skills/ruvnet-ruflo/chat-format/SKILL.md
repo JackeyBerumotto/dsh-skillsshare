@@ -1,6 +1,6 @@
 ---
 name: chat-format
-description: Format prompts for different LLM providers with chat templates and HNSW-powered context retrieval
+description: 面向不同 LLM 供应商格式化提示词，支持聊天模板与 HNSW 驱动的上下文检索 | Format prompts for different LLM providers with chat templates and HNSW-powered context retrieval
 argument-hint: "<prompt> [--provider anthropic|openai|gemini|ollama|cohere]"
 allowed-tools: mcp__claude-flow__ruvllm_chat_format mcp__claude-flow__ruvllm_hnsw_create mcp__claude-flow__ruvllm_hnsw_add mcp__claude-flow__ruvllm_hnsw_route mcp__claude-flow__ruvllm_status Bash
 ---

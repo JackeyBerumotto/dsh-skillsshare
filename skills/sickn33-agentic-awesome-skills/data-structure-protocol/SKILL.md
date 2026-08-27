@@ -1,6 +1,6 @@
 ---
 name: data-structure-protocol
-description: "Give agents persistent structural memory of a codebase — navigate dependencies, track public APIs, and understand why connections exist without re-reading the whole repo."
+description: "让代理对代码库拥有持久的结构性记忆——导航依赖、跟踪公共 API，并理解连接存在的原因，无需重读整个仓库。 | Give agents persistent structural memory of a codebase — navigate dependencies, track public APIs, and understand why connections exist without re-reading the whole repo."
 risk: safe
 source: "https://github.com/k-kolomeitsev/data-structure-protocol"
 date_added: "2026-02-27"

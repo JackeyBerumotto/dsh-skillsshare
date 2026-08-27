@@ -1,6 +1,6 @@
 ---
 name: Omnisend Automation
-description: "Automate ecommerce marketing workflows including contact management, bulk operations, and subscriber segmentation through Omnisend via Composio"
+description: "通过 Composio 在 Omnisend 中自动化电商营销工作流，包括联系人管理、批量操作和订阅者分群 | Automate ecommerce marketing workflows including contact management, bulk operations, and subscriber segmentation through Omnisend via Composio"
 requires:
   mcp:
     - rube

@@ -1,6 +1,6 @@
 ---
 name: redis-patterns
-description: Redis data structure patterns, caching strategies, distributed locks, rate limiting, pub/sub, and connection management for production applications.
+description: 面向生产应用的 Redis 数据结构模式、缓存策略、分布式锁、限流、发布/订阅和连接管理。 | Redis data structure patterns, caching strategies, distributed locks, rate limiting, pub/sub, and connection management for production applications.
 metadata:
   origin: ECC
 ---

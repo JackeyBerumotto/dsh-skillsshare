@@ -1,6 +1,6 @@
 ---
 name: content-sanitization
-description: Provides sanitization guidelines for external content in skills and hooks. Use when loading GitHub Issues, PRs, WebFetch results, or any untrusted input.
+description: 为技能和钩子中的外部内容提供清洗（sanitize）指南。在加载 GitHub Issues、PR、WebFetch 结果或任何不可信输入时使用。 | Provides sanitization guidelines for external content in skills and hooks. Use when loading GitHub Issues, PRs, WebFetch results, or any untrusted input.
 alwaysApply: false
 category: infrastructure
 tags:

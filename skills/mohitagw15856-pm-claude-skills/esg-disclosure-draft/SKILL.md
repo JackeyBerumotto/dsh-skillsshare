@@ -1,6 +1,6 @@
 ---
 name: esg-disclosure-draft
-description: "Draft an honest, audit-ready ESG disclosure section in a CSRD/ESRS-flavored structure, adaptable to other frameworks. Use when asked to write a sustainability report section, draft an ESRS or CSRD disclosure, prepare an ESG section for an annual report, or turn raw sustainability data into disclosure text. Produces a disclosure draft with double-materiality framing, metric-methodology-limitation triplets, based forward statements, and explicit data-gap handling."
+description: "以 CSRD/ESRS 风格的结构起草诚实、可经受审计的 ESG 披露章节，并可适配其他框架。当被要求撰写可持续发展报告章节、起草 ESRS 或 CSRD 披露、为年报准备 ESG 章节，或把原始可持续数据转化为披露文本时使用。产出披露草案，包含双重重要性框架、指标-方法-限制三元组、有依据的前瞻性陈述以及明确的数据缺口处理。 | Draft an honest, audit-ready ESG disclosure section in a CSRD/ESRS-flavored structure, adaptable to other frameworks. Use when asked to write a sustainability report section, draft an ESRS or CSRD disclosure, prepare an ESG section for an annual report, or turn raw sustainability data into disclosure text. Produces a disclosure draft with double-materiality framing, metric-methodology-limitation triplets, based forward statements, and explicit data-gap handling."
 ---
 
 # ESG Disclosure Draft Skill

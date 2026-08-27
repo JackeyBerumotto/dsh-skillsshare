@@ -1,6 +1,6 @@
 ---
 name: whatsapp-automation
-description: "Automate WhatsApp Business tasks via Rube MCP (Composio): send messages, manage templates, upload media, and handle contacts. Always search tools first for current schemas."
+description: "通过 Rube MCP（Composio）自动化 WhatsApp Business 任务：发送消息、管理模板、上传媒体和处理联系人。务必先搜索工具以获取最新 schema。 | Automate WhatsApp Business tasks via Rube MCP (Composio): send messages, manage templates, upload media, and handle contacts. Always search tools first for current schemas."
 risk: unknown
 source: community
 date_added: "2026-02-27"

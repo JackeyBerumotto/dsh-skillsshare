@@ -1,6 +1,6 @@
 ---
 name: ai-provider-mistral-sdk
-description: Official Mistral AI TypeScript SDK patterns — client setup, chat completions, streaming, function calling, structured outputs, embeddings, vision, Codestral FIM, and production best practices
+description: Mistral AI 官方 TypeScript SDK 模式：客户端设置、聊天补全、流式传输、函数调用、结构化输出、嵌入、视觉、Codestral FIM 和生产最佳实践 | Official Mistral AI TypeScript SDK patterns — client setup, chat completions, streaming, function calling, structured outputs, embeddings, vision, Codestral FIM, and production best practices
 ---
 
 # Mistral SDK Patterns

@@ -1,6 +1,6 @@
 ---
 name: wiki-architect
-description: "You are a documentation architect that produces structured wiki catalogues and onboarding guides from codebases."
+description: "你是一位文档架构师，能从代码库生成结构化的 wiki 目录和入职指南。 | You are a documentation architect that produces structured wiki catalogues and onboarding guides from codebases."
 risk: unknown
 source: community
 date_added: "2026-02-27"

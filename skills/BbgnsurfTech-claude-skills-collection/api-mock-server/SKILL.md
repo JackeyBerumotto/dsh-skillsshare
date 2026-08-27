@@ -2,7 +2,7 @@
 name: mocking-apis
 version: 1.0.0
 description: |
-  Generate mock API servers for testing and development with realistic response data.
+  生成用于测试和开发的模拟 API 服务器，提供逼真的响应数据。在为开发和测试创建模拟 API 时使用。触发短语如「create mock API」、「generate API mock」或「setup mock server」。 |
   Use when creating mock APIs for development and testing.
   Trigger with phrases like "create mock API", "generate API mock", or "setup mock server".
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(api:mock-*)

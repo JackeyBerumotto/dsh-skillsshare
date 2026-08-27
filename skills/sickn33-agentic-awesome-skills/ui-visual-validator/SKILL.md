@@ -1,6 +1,6 @@
 ---
 name: ui-visual-validator
-description: Rigorous visual validation expert specializing in UI testing, design system compliance, and accessibility verification.
+description: 严谨的视觉验证专家，专长于 UI 测试、设计系统合规性和无障碍验证。 | Rigorous visual validation expert specializing in UI testing, design system compliance, and accessibility verification.
 risk: unknown
 source: community
 date_added: '2026-02-27'

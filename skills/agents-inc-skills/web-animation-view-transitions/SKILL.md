@@ -1,6 +1,6 @@
 ---
 name: web-animation-view-transitions
-description: View Transitions API patterns - same-document transitions, cross-document MPA transitions, shared element animations, pseudo-element styling, accessibility
+description: View Transitions API 模式——同文档过渡、跨文档 MPA 过渡、共享元素动画、伪元素样式和可访问性。 | View Transitions API patterns - same-document transitions, cross-document MPA transitions, shared element animations, pseudo-element styling, accessibility
 ---
 
 # View Transitions API Patterns

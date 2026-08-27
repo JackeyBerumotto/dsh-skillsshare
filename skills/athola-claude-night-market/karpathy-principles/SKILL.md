@@ -1,6 +1,6 @@
 ---
 name: karpathy-principles
-description: Pre-implementation gate covering think-first, simplicity, surgical edits, and verifiable goals. Use when starting implementation to verify the approach.
+description: 覆盖先思考、求简洁、外科手术式修改和可验证目标的实现前关卡。在开始实现前验证方法时使用。 | Pre-implementation gate covering think-first, simplicity, surgical edits, and verifiable goals. Use when starting implementation to verify the approach.
 alwaysApply: false
 category: discipline
 tags:

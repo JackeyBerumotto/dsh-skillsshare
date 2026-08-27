@@ -1,6 +1,6 @@
 ---
 name: peer-review
-description: Structured manuscript/grant review with checklist-based evaluation. Use when writing formal peer reviews with specific criteria methodology assessment, statistical validity, reporting standards compliance (CONSORT/STROBE), and constructive feedback. Best for actual review writing, manuscript revision. For evaluating claims/evidence quality use scientific-critical-thinking; for quantitative scoring frameworks use scholar-evaluation.
+description: 基于清单评估的结构化稿件或基金评审。在撰写正式同行评审时使用，涵盖特定标准的方法学评估、统计有效性、报告规范符合度（CONSORT/STROBE）以及建设性反馈。最适合实际评审撰写和稿件修改。评估论断或证据质量请使用 scientific-critical-thinking；定量评分框架请使用 scholar-evaluation。 | Structured manuscript/grant review with checklist-based evaluation. Use when writing formal peer reviews with specific criteria methodology assessment, statistical validity, reporting standards compliance (CONSORT/STROBE), and constructive feedback. Best for actual review writing, manuscript revision. For evaluating claims/evidence quality use scientific-critical-thinking; for quantitative scoring frameworks use scholar-evaluation.
 allowed-tools: Read Write Edit Bash
 license: MIT license
 required_environment_variables: [{"name": "OPENROUTER_API_KEY", "prompt": "OpenRouter API key for the skill's LLM-powered steps.", "required_for": "optional features"}]

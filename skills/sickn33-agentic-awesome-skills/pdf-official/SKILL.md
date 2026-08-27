@@ -1,6 +1,6 @@
 ---
 name: pdf-official
-description: "This guide covers essential PDF processing operations using Python libraries and command-line tools. For advanced features, JavaScript libraries, and detailed examples, see reference.md. If you need to fill out a PDF form, read forms.md and follow its instructions."
+description: "本指南涵盖使用 Python 库和命令行工具进行 PDF 处理的基本操作。关于高级功能、JavaScript 库和详细示例，请参阅 reference.md。如需填写 PDF 表单，请阅读 forms.md 并按其说明操作。 | This guide covers essential PDF processing operations using Python libraries and command-line tools. For advanced features, JavaScript libraries, and detailed examples, see reference.md. If you need to fill out a PDF form, read forms.md and follow its instructions."
 risk: unknown
 source: community
 date_added: "2026-02-27"

@@ -1,6 +1,6 @@
 ---
 name: marketing-strategy-pmm
-description: Product marketing, positioning, GTM strategy, and competitive intelligence. Includes ICP definition, April Dunford positioning methodology, launch playbooks, competitive battlecards, and international market entry guides. Use when developing positioning, planning product launches, creating messaging, analyzing competitors, entering new markets, enabling sales, or when user mentions product marketing, positioning, GTM, go-to-market, competitive analysis, market entry, or sales enablement.
+description: 产品营销、定位、GTM 战略和竞争情报。包括 ICP 定义、April Dunford 定位方法论、发布 playbook、竞争 battlecard 和国际市场进入指南。在制定定位、规划产品发布、撰写信息、分析竞争对手、进入新市场、赋能销售，或用户提到产品营销、定位、GTM、上市、竞争分析、市场进入或销售赋能时使用。 | Product marketing, positioning, GTM strategy, and competitive intelligence. Includes ICP definition, April Dunford positioning methodology, launch playbooks, competitive battlecards, and international market entry guides. Use when developing positioning, planning product launches, creating messaging, analyzing competitors, entering new markets, enabling sales, or when user mentions product marketing, positioning, GTM, go-to-market, competitive analysis, market entry, or sales enablement.
 license: MIT
 metadata:
   version: 1.0.0

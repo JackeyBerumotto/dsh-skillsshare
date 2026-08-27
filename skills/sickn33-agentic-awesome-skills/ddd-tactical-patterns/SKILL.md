@@ -1,6 +1,6 @@
 ---
 name: ddd-tactical-patterns
-description: "Apply DDD tactical patterns in code using entities, value objects, aggregates, repositories, and domain events with explicit invariants."
+description: "在代码中运用 DDD 战术模式：实体、值对象、聚合、仓储和带有显式不变量的领域事件。 | Apply DDD tactical patterns in code using entities, value objects, aggregates, repositories, and domain events with explicit invariants."
 risk: safe
 source: self
 tags: "[ddd, tactical, aggregates, value-objects, domain-events]"
